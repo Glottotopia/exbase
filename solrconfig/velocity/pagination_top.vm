@@ -1,0 +1,17 @@
+#**
+ *  Paging and Statistics at top of results
+ *#
+
+## Usually rendered in pagination div tag
+ 
+
+#link_to_previous_page("previous")
+
+<span class="results-found">$page.results_found</span>
+results found.
+
+Page <span class="page-num">$page.current_page_number</span>
+of <span class="page-count">$page.page_count</span>
+
+#link_to_next_page("next")
+ 

@@ -1,0 +1,26 @@
+#if($params.getParams('fq').size()>0)
+    <h2> Constraints  </h2> 
+    <span> Click on a constraint to remove it</span>
+    <div class="navigatorbox">
+    <div>
+    <ul>  
+	#set($i = 0)
+	#set($l = $params.getParams('fq').size())
+	#foreach($fq in $params.getParams('fq'))    
+	    #set($ll = []) 
+	    <li class="constraintremover"> 
+	    #set($part1 = $request.params.getParams('fq').subList(0,$i) ) 
+	    #set($i = $i+1)
+	    #set($part2 = $request.params.getParams('fq').subList($i,$l) )     
+	    #foreach($el in $part1)   
+		#set($_dummy = $ll.add($el)) 
+	    #end
+	    #foreach($el in $part2)   
+		#set($_dummy = $ll.add($el)) 
+	    #end
+	    <a href="#url_for_filters($ll)" >$fq</a> 
+	    </li>    
+	#end  
+    </div></div>
+    </ul>
+#end

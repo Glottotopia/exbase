@@ -1,0 +1,46 @@
+<h2>    Language   
+    <span class="togglebutton"  onClick="toggleBox('languagebox')">&#x25BE;&#x25B4;</span> </h2> 
+ 
+<script>
+  $(function() {
+    var availableTags = []
+    els = document.getElementsByName("facetlanguage") 
+    for (i=0;i<els.length;i++){ 
+	availableTags.push(els[i].title)
+    } 
+    $( "#languages" ).autocomplete({
+      source: availableTags
+    });
+  });
+  </script>
+
+<div class="ui-widget">
+
+  <form action="#{url_for_home}" method="GET" > 
+  <label for="languages"> Languages</label>
+  <input id="languages" onClick="$( '#languagefq').val('language:'+this.value)" onFocus="$( '#language').attr('style','opacity:0.2')" onBlur="$( '#language').attr('style','opacity:1')"/>
+    <input id="languagefq" type="hidden" name="fq" />
+    </form>
+</div> 
+
+
+<div class="navigatorbox" id="languagebox">
+  #foreach($field in $response.facetFields)
+    ## Hide facets without value
+    #if($field.name == "language")
+	#if($field.values.size() > 0)
+	<div> 
+    ## <span onclick="toggle_visibility('ul$field')"> &#x25BC; </span>
+	<ul id="$field.name">
+
+	    #foreach($facet in $field.values)
+	    <li>
+		<a name="facetlanguage" title="$facet.name" href="#url_for_facet_filter($field.name, $facet.name)">$facet.name</a> ($facet.count)
+	    </li>
+	    #end
+	</ul>
+	    </div>
+	#end  ## end if !- gloss
+    #end  ## end if > 0
+  #end    ## end for each facet field
+</div>

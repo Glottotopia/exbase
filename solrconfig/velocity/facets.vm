@@ -1,0 +1,11 @@
+#**
+ *  Overall Facet display block
+ *  Invokes the 2 facets
+ *#
+ 
+#parse('constraints.vm')
+
+#parse('facet_fields.vm')
+ 
+#parse('facet_ranges.vm')
+ 

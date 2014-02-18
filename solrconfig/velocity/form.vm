@@ -1,0 +1,39 @@
+#set( $formheaders = [
+    "sentence_type",
+    "predicate_type",
+    "phrase_type",
+    "incorporation",
+    "vernacularword",
+    "contentword",
+    "grammaticalgloss" 
+    ]
+)
+
+<h2>
+    Form  
+ <span class="togglebutton"  onClick="toggleBox('formbox')">&#x25BE;&#x25B4;</span>
+  </h2> 
+<div class="navigatorbox" id="formbox">
+ #set ($flag = false)
+  #foreach($field in $response.facetFields)
+    ## Hide facets without value
+    #if($field.values.size() > 0)
+	#if($formheaders.contains($field.name) == true)
+	<div>
+	<span class="togglebutton"  name="show" id="$field.name" onClick="toggleFacets('ul$field.name')">&#x25BE;&#x25B4;</span>
+	
+	<span class="facet-field">$field.name</span>   
+	    
+	<ul id="ul$field.name" name="facetul" style="display:none;">
+
+	    #foreach($facet in $field.values)
+	    <li>
+		<a href="#url_for_facet_filter($field.name, $facet.name)">$facet.name</a> ($facet.count)
+	    </li>
+	    #end
+	</ul>
+	    </div>
+	#end  ## end if !- gloss
+    #end  ## end if > 0
+  #end    ## end for each facet field
+</div>

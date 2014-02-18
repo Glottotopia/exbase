@@ -1,0 +1,81 @@
+<div id="map" style="height: 250px;"></div> 
+<input type="hidden" id="geoconstrainer" value="#geo()"></input>
+<div id="constrainlink">
+    <a onclick="b ='['+map.getBounds().getWest()+','+map.getBounds().getSouth()+' TO '+map.getBounds().getEast()+','+map.getBounds().getNorth()+']'; window.open(document.getElementById('geoconstrainer').value+'&fq=location:'+b+'&zoom='+map.getZoom()+'&center='+map.getCenter().lat+','+map.getCenter().lng ,'_self' )">constrain selection to map boundaries</a>
+</div>
+
+<div id="hiddencoords" >
+  #foreach($field in $response.facetFields) 
+    #if($field.values.size() > 0)
+	#if($field.name == "language" || $field.name == "iso639-3" )  
+	    #foreach($facet in $field.values) 
+		<input name="hiddencoord" type="hidden" title="$facet.name" value="$facet.count"/>
+	    #end
+	#end   
+    #end   
+  #end     
+</div>
+
+#set($zoom = 3)   
+#if($request.params.get('zoom'))
+    #set($zoom = $request.params.get('zoom'))  
+#end  
+#set($center = "1.505,-0.09")   
+#if($request.params.get('center')>0)
+    #set($center = $request.params.get('center'))  
+#end
+
+<div> 
+    <input type="hidden" id="mapzoom" value="$zoom"/>
+    <input type="hidden" id="mapcenter" value="$center"/>
+</div>
+
+<script>  
+
+
+var center =  L.latLng(document.getElementById("mapcenter").value.split(','));
+var zoom = document.getElementById("mapzoom").value; 
+var map = L.map('map').setView(center,zoom);
+
+map.setView(center,zoom);
+
+
+## L.tileLayer('http://{s}.tile.cloudmade.com/8ab8410483154b6cb9ba45e9bca04e38/997/256/{z}/{x}/{y}.png', {
+##     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>[…]',
+##     maxZoom: 18
+## }).addTo(map);
+
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map); 
+ 
+## var bounds = [[-34.0, -27.0], [40.12, 53.02]];
+##  
+## L.rectangle(bounds, {color: "#ff7800", weight: 1}).addTo(map);
+ 
+
+els = document.getElementsByName('hiddencoord') 
+for(i=0;i<els.length;i++){
+    el = els[i]
+    code = el.title
+    count = el.value 
+    try{
+	long = geodic[code]["long"]  
+	lat = geodic[code]["lat"]
+	name = geodic[code]["name"] 
+	d = document.createElement('div')
+	dd = document.createElement('div')
+	d.appendChild(document.createTextNode(name+" [" +code+"]"+"("+count+")"))
+	a = document.createElement('a')
+	href = document.getElementById('geoconstrainer').value+'&fq=iso639-3:'+code
+	a.setAttribute('href',href)
+	a.appendChild(document.createTextNode('restrict selection to '+name))
+	dd.appendChild(a)
+	d.appendChild(dd)
+	marker = L.marker([lat, long]).addTo(map).bindPopup(d).openPopup();
+    }
+    catch(e){ 
+    }
+}
+</script>

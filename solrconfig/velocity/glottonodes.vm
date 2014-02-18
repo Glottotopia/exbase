@@ -1,0 +1,46 @@
+<h2>    Glottonodes   
+    <span class="togglebutton"  onClick="toggleBox('glottonodebox')">&#x25BE;&#x25B4;</span> </h2> 
+ 
+<script>
+  $(function() {
+    var availableTags = []
+    els = document.getElementsByName("facetglottonode") 
+    for (i=0;i<els.length;i++){ 
+	availableTags.push(els[i].title)
+    } 
+    $( "#glottonodes" ).autocomplete({
+      source: availableTags
+    });
+  });
+  </script>
+
+<div class="ui-widget">
+
+  <form action="#{url_for_home}" method="GET" > 
+  <label for="glottonodes"> Glottonodes</label>
+  <input id="glottonodes" onClick="$( '#glottonodefq').val('glottonode:'+this.value)"/>
+    <input id="glottonodefq" type="hidden" name="fq" />
+    </form>
+</div> 
+
+
+<div class="navigatorbox" id="glottonodebox">
+  #foreach($field in $response.facetFields)
+    ## Hide facets without value
+    #if($field.values.size() > 0)
+	#if($field.name == "glottonode")
+	<div> 
+    ## <span onclick="toggle_visibility('ul$field')"> &#x25BC; </span>
+	<ul id="$field.name">
+
+	    #foreach($facet in $field.values)
+	    <li>
+		<a name="facetglottonode" title="$facet.name" href="#url_for_facet_filter($field.name, $facet.name)">$facet.name</a> ($facet.count)
+	    </li>
+	    #end
+	</ul>
+	    </div>
+	#end  ## end if !- gloss
+    #end  ## end if > 0
+  #end    ## end for each facet field
+</div>

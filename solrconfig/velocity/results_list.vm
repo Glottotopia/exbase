@@ -1,0 +1,12 @@
+#**
+ *  Render the main Results List
+ *#
+
+## Usually displayed inside <div class="results">
+ 
+   #foreach($doc in $response.results)
+    #parse("hit.vm")
+    ## Can get an extremely simple view of the doc
+    ## which might be nicer for debugging
+    ##parse("hit_plain.vm")
+  #end 

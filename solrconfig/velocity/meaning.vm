@@ -1,0 +1,26 @@
+<h2 id="h2meaning" >    Meaning  
+    <span class="togglebutton"  onClick="toggleBox('meaningbox')">&#x25BE;&#x25B4;</span>
+  </h2> 
+<div class="navigatorbox" id="meaningbox">  
+  #foreach($field in $response.facetFields)
+    ## Hide facets without value
+    #if($field.values.size() > 0)
+	#if($field.name != "vernacularword"   and $field.name != "language"   and $field.name != "iso639-3" and $field.name != "ancestor"  and $field.name != "author_s" and $field.name != "partof"   and $field.name != "dtype"     and $field.name != "year")
+	<div>
+	<span class="togglebutton"  name="show" id="$field.name" onClick="toggleFacets('ul$field.name')">&#x25BE;&#x25B4;</span>
+	    
+	<span class="facet-field">$field.name.replace('_',' ')</span>
+	     
+		<ul id="ul$field.name" name="facetul" style="display:none;"> 
+
+	    #foreach($facet in $field.values)
+	    <li>
+		<a href="#url_for_facet_filter($field.name, $facet.name)">$facet.name.replace('_',' ')</a> ($facet.count)
+	    </li>
+	    #end
+	</ul>
+	    </div>
+	#end  ## end if !- glparent.oss
+    #end  ## end if > 0
+  #end    ## end for each facet field
+</div>  

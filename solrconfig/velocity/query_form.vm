@@ -1,0 +1,34 @@
+  <form id="query-form" action="#{url_for_home}" method="GET"> 
+    <div class="inputs">  
+        <input type="text" id="q" name="q" value="$!esc.html($params.get('q'))"/>
+## 	<input type="submit" class="qsubmit" value="Submit" id="querySubmit"/>
+## 	<input type="submit" class="qsubmit" value="Reset" onClick="document.getElementById('q').setAttribute('value','')"/></span>
+    </div>
+
+    #if($request.params.get('debugQuery'))
+      <input type="hidden" name="debugQuery" value="true"/>
+    #end
+    #if($annotate == true)
+      <input type="hidden" name="annotateBrowse" value="true"/>
+    #end
+    #foreach($fq in $request.params.getParams('fq'))
+      #if ($fq != "{!bbox}")
+        <input type="hidden" name="fq" id="allFQs" value="$esc.html($fq)"/>
+      #end
+    #end 
+    <div class="parsed_query_header">
+      #if($request.params.get('debugQuery'))
+        <a href="#" onclick='jQuery(this).siblings("div").toggle(); return false;'>toggle parsed query</a>
+        <div class="parsed_query" style="display:none">$response.response.debug.parsedquery</div>
+      #end
+      #set($queryOpts = $request.params.get("queryOpts"))
+      #if($queryOpts && $queryOpts != "")
+        <input type="hidden" name="queryOpts" value="$queryOpts"/>
+      #end
+      #set($admin = $request.params.get("admin"))
+      #if($admin && $admin != "")
+        <input type="hidden" name="admin" value="$admin"/>
+      #end
+    </div>
+
+  </form> 

@@ -1,0 +1,232 @@
+#**
+ *  Render a hit representing a Product
+ *  assumed to have a field called "name"
+ *#
+
+#set ( $exnr = 0 )
+
+## begin ontology
+#set( $ontofield0 = [
+    ["sentence_type", ['monoclausal', 'multiclausal_relativized', 'multiclausal_direct_speech', 'multiclausal_subordinated', 'multiclausal_coordinated']],
+    ["predicate_type", ['contains_verb', 'does_not_contain_verb']],
+    ["phrase_type", ['vp', 'np', 'pp']],
+    ["incorporation", ['verb', 'noun', 'other']]
+    ]
+)
+#set( $ontofield1 = [
+    ["polarity", ['situation_positive', 'situation_negative', 'propositional_content_affirmation', 'propositional_content_denial', 'individual_existing', 'individual_non-existing', 'individual_present', 'individual_absent', 'pseudo-individual', 'property_existing', 'property_non-existing', 'property_present', 'property_non-existing', 'lack_of_property_(unintelligent)', 'litotes_(not_unintelligent)', 'pseudo_(pseudo-intelligent)']],
+    ["coordination", ['and', 'but', 'or', 'xor', 'nor']],
+    ["adverbial_clauses", ['temporal', 'purpose', 'reason', 'concession', 'condition', 'concessive_condition', 'circumstance', 'negative_circumstance', 'unreal_circumstance', 'evidence', 'means', 'addition', 'set_domain', 'manner', 'other']]
+    ]
+)
+#set( $ontofield2 = [
+    ["situation_types", ['state_property_assignment', 'state_status_assignment', 'state_identity', 'state_localization', 'state_possession', 'event_activity_(durative_atelic)', 'event_accomplishment_(durative_telic)', 'event_semelfactive_(punctual_atelic)', 'event_achievement_(punctual_telic)']],
+    ["aspect", ['phase_beginning', 'phase_progression', 'phase_continuation', 'phrase_end', 'viewpoint_perfective', 'viewpoint_imperfective', 'viewpoint_neutral']],
+    ["time", ['past_simple', 'past_reference_time_before_event_time', 'past_reference_time_after_event_time', 'present_simple', 'present_event_time_before_reference_time', 'future_simple', 'future_reference_time_before_event_time', 'future_reference_time_after_event_time']],
+    ["event_modality", ['universal', 'hypothetical', 'frustrative', 'ability', 'possibility', 'necessity', 'obligation', 'permission', 'desire', 'intention']],
+    ["proposition_modality", ['certain', 'assumptive', 'probable', 'speculative', 'doubtful', 'inferential/deductive', 'direct_evidence', 'reportative', 'belief', 'other_evidence']]
+    ]
+)
+#set( $ontofield3 = [
+    ["participant_roles", ['agent', 'patient', 'theme', 'recipient', 'experiencer', 'stimulus', 'source', 'location', 'goal', 'path', 'instrument', 'force', 'beneficiary', 'comitative', 'cause', 'set_domain', 'role', 'proprietive', 'caritive', 'duration', 'spatial_extension', 'value', 'portion', 'other']],
+    ["quantification_of_individuals", ['singularity', 'plurality', 'collectivity', 'genericity', 'denumerable_quantity_0', 'denumerable_quantity_1', 'denumerable_quantity_2', 'denumerable_quantity_other', 'indefinite_quantity_low_proportion', 'indefinite_quantity_average_proportion', 'indefinite_quantity_high_proportion', 'indefinite_quantity_unclear_proportion', 'indefinite_quantity_totality']],
+    ["quantification_of_other", ['all_locations_(=_everywhere)', 'no_locations_(=_nowhere)', 'distributivity_(=_here_and_there)', 'all_points_in_time_(=_always)', 'some_points_in_time_(=_once_in_a_while)', 'no_points_in_time_(=never)', 'habituality', 'iterativity', 'all_manners', 'no_manner']],
+    ["comparison", ['equation', 'superiority', 'inferiority', 'superlative']],
+    ["possession", ['inalienable_attributive', 'inalienable_predicative', 'alienable_attributive', 'alienable_predicative']]
+    ]
+)
+#set( $ontofield4 = [
+    ["information_structure", ['non-contrastive_given', 'non-contrastive_resumed', 'non-contrastive_new', 'contrastive_given', 'contrastive_resumed', 'contrastive_new']],
+    ["speech_acts", ['assertion', 'concluding', 'question_close-ended', 'question_open-ended', 'question_hypothetical', 'question_rhetorical', 'command_ethical', 'command_non-ethical', 'commissive_threatening', 'commissive_warning', 'commissive_offering', 'commissive_promising', 'wishing_optative', 'wishing_imprecative', 'wishing_hortative', 'admonitive', 'supplicative', 'mirative', 'vocative', 'other', 'mitigation', 'reinforcement', 'other']],
+    ["politeness", ['being_polite', 'being_neutral', 'being_impolite']]
+    ]
+)
+#set( $megafields = [$ontofield0, $ontofield1, $ontofield2, $ontofield3, $ontofield4])
+
+
+## end ontology
+ 
+#set($thisid = "tagbag"+$doc.getFieldValue('id'))
+<div class="tagbag" name="extr"  id="$thisid" style="display:none;"> 
+    <div onclick='jQuery(this).parent().hide();' class="closer"><span>X</span></div>
+    <div class="callbackmsg" id="callbackmsg$doc.getFieldValue('id')" style="display:none;">
+	
+    </div>
+    <ul class="megarow" >
+    #foreach($ontofields in $megafields) 
+	<li><ul class="tagrow" > 
+	    #foreach($ontofield in $ontofields) 
+		#set( $tid = $ontofield[0]+$doc.getFieldValue('id'))
+		<li class="tagadder">	  
+		    <select size="1" name="value" class="yui3-button" id="$tid" onChange="addfield('$doc.getFieldValue('id')','$ontofield[0]', this.value);"> 
+			<option>$ontofield[0].replace('_',' ')</option> 
+			#foreach($v in $ontofield[1])
+			    <option value="$v">$v.replace('_',' ')</option> 
+			#end	
+		    </select>      
+		</li>
+	    #end
+	</ul></li>
+    #end
+</div>
+
+<div class="result-title">
+
+<b>#field('name')</b> 
+
+## <span class="togglebutton" onclick='jQuery(this).parent().siblings("table").toggle();' > &pm;   </span>
+<a  onclick='jQuery(this).parent().siblings("table").toggle();jQuery(this).parent().siblings("div[class=tagcontainer]").toggle("fast");' > expand  </a>
+
+#if($request.params.get('admin')=='true') 
+## <span class="togglebutton"  onclick='hidealltagbags(); jQuery(this).parent().siblings("div[class=tagbag]").slideDown("slow");jQuery(this).parent().parent().attr("style","border:2px dotted darkred;background:#f4ffe0")' > &equiv;   </span>
+<a   onclick='hidealltagbags(); jQuery(this).parent().siblings("div[class=tagbag]").slideDown("slow");jQuery(this).parent().parent().attr("style","border:2px dotted darkred;background:#f4ffe0")' > add tags  </a> 
+#end
+
+
+
+
+<span class="mlt">   #if($params.getBool('mlt', false) == false)
+## <a href="#lensNoQ&q=id:$docId&mlt=true">&hellip;</a>
+<a href="#lensNoQ&q=id:$docId&mlt=true">similar examples</a>
+#end
+</span>
+</div>
+
+## <div class="tagbag" name="extr"  id="tagbag"> 
+
+
+
+<table style="display:none;"> 
+  <tr>
+     <td class="lxmeta">
+	<table>
+	    <tr>
+		<td class="lxnumber">(#field('id'))</td> 
+	    </tr>
+	    <tr>
+		<td class="lxlg" title="#field('language')">#field('iso639-3')</td>
+		<td class="lxlg"></td>
+	    </tr>
+	</table>
+    </td>
+   <td>
+
+
+
+#if($doc.getFieldValue('lingex') and $doc.getFieldValue('lingex')!='' )
+<div class="lingex" name="extr">
+$doc.getFieldValue('lingex').replace('[','<').replace(']','>').replace('class="label"','class="xlabel"') 
+
+</div>
+<br/>
+#else
+	<table class="lxtable">
+	    <tr class="vernacular">  
+	    #set( $vs = $doc.getFieldValue('vernacularsentence') )  
+	    #set($array = $vs.split(" ")) 
+	    #set( $l =  0)
+	    #foreach($a in $array)
+		<td> $a   </td>
+		#set ( $l = $l + 1 )
+	    #end
+	    </tr> 
+	    <tr name="extr"  id="imtline$exnr"> 
+	    #set( $exnr = $exnr + 1 )
+	    #set( $imts = $doc.getFieldValue('imtsentence') )  
+	    #if($imts)
+		#set($array = $imts.split(" ")) 
+		#foreach($a in $array)
+		    <td> $a </td>
+		#end
+	    #else	
+		#if($request.params.get('admin')=='true')  
+		    <td colspan="$l"> <input type="textarea" /> <input type="button" value="provide IMT"/></td>
+		#end
+	    #end
+	    </tr>
+	    <tr><td colspan="$l">" #field('translatedsentence') "</td></tr>
+	</table>
+#end
+   </td>
+  </tr>
+</table> 
+<div class="translatedsentence">"#field('translatedsentence')"</div>
+
+ 
+## <span> #field('author')</span></div>
+ 
+ 
+##   <div class="tagcontainer"  name="extr"   id="tagcontainer$docId" style="display:none;" >
+<div class="tagcontainer"  name="extr"  id="tagcontainer$docId"  style="display:none;">    
+#foreach($fieldname in $doc.fieldNames)   
+    #foreach($ontofields in $megafields)     
+	#foreach($ontofield in $ontofields)     
+		#if($fieldname == $ontofield[0])   
+		    <div class="tag">
+			<span class="field">$fieldname</span>
+			<span class="value">
+			    #foreach($value in $doc.getFieldValues($fieldname))
+				<span  id="$docId$fieldname$value">$esc.html($value)
+				    <span class="closer">
+
+#if($request.params.get('admin')=='true')  
+					<a href="#" onclick="deletefield('$docId','$fieldname','$value')">X</a>
+#end
+				    </span>
+				</span>
+			    #end
+			</span>
+		    </div>
+		#end
+	    #end
+	#end	 
+#end	
+#set($id_ = $doc.getFieldValue('id'))
+
+
+#if($request.params.get('admin')=='true') 
+    #if($id_== true)   	
+	<img id="flag$id_" onclick="setFlag('$id_',false)"  src="#{url_root}/img/redflag.png"  width="32px">
+    #else
+	<img id="flag$id_"  onclick="setFlag('$id_',true)"  src="#{url_root}/img/greenflag.png"  width="32px">
+    #end
+#end
+</div> 
+    
+ ## Display Similar Documents / MLT = More Like This
+<div class="mlt">
+  #set($mlt = $mltResults.get($docId))
+  #set($mltOn = $params.getBool('mlt'))
+  #if($mltOn == true)
+    <div class="field-name">
+      Similar Items
+    </div>
+  #end
+  ## If has MLT enabled An Entries to show
+##   #if ($mltOn && $mlt && $mlt.size() > 0)
+  #if (true)
+    <ul>
+      #foreach($mltHit in $mlt)
+        #set($mltId = $mltHit.getFieldValue('id'))
+        <li>
+          <div>
+            <a href="#url_for_home?q=id:$mltId">
+              $mltHit.getFieldValue('name')</a>
+          </div>
+          <div> 
+            "$mltHit.getFieldValue('translatedsentence')"
+          </div>
+          <div> 
+            $mltHit.getFieldValue('language') 
+          </div>
+        </li>
+      #end    ## end for each mltHit in $mlt
+    </ul>
+  ## Else MLT Enabled but no mlt results for this query
+  #elseif($mltOn && $mlt.size() == 0)
+    <div>No Similar Items Found</div>
+  #end
+</div>  ## div class=mlt
+
+ 
+#parse('debug.vm')
