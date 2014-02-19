@@ -9,10 +9,10 @@
     ]
 )
 
-<h2>
-    Form  
- <span class="togglebutton"  onClick="toggleBox('formbox')">&#x25BE;&#x25B4;</span>
-  </h2> 
+## <h2>
+##     Form  
+##  <span class="togglebutton"  onClick="toggleBox('formbox')">&#x25BE;&#x25B4;</span>
+## </h2> 
 <div class="navigatorbox" id="formbox">
  #set ($flag = false)
   #foreach($field in $response.facetFields)

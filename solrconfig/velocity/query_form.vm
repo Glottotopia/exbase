@@ -1,8 +1,9 @@
   <form id="query-form" action="#{url_for_home}" method="GET"> 
+    <h2> Free Search </h2>
     <div class="inputs">  
         <input type="text" id="q" name="q" value="$!esc.html($params.get('q'))"/>
-## 	<input type="submit" class="qsubmit" value="Submit" id="querySubmit"/>
-## 	<input type="submit" class="qsubmit" value="Reset" onClick="document.getElementById('q').setAttribute('value','')"/></span>
+	<input type="submit" class="qsubmit" value="Submit" id="querySubmit"/>
+	<input type="submit" class="qsubmit" value="Reset" onClick="document.getElementById('q').setAttribute('value','')"/></span>
     </div>
 
     #if($request.params.get('debugQuery'))

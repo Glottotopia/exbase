@@ -101,10 +101,9 @@
 
 
 #macro(display_facet_range $field, $display, $fieldName, $start, $end, $gap, $before, $after) 
-
-      <div>
-<span class="togglebutton"  name="show" id="$fieldName" onClick="toggleFacets('ul$fieldName')">&#x25BE;&#x25B4;</span>
-      <span class="facet-field">$display</span>
+      <div> 
+	<span class="togglebutton"  name="show" id="$fieldName" onClick="toggleFacets('ul$fieldName')">&#x25BE;&#x25B4;</span>
+	<span class="facet-field">$display</span>
 	 
       
   

@@ -1,48 +1,42 @@
-<h2>    Families   
+<h2>    Family
     <span class="togglebutton"  onClick="toggleBox('familybox')">&#x25BE;&#x25B4;</span> </h2> 
 
-<div class="navigatorbox" id="familybox">
- 
+## <div class="navigatorbox" id="familybox"  style="display:none">
+<div class="navigatorbox" id="familybox"> 
 
-<script>
-  $(function() {
-    var availableTags = []
-    els = document.getElementsByName("facetfamily") 
-    for (i=0;i<els.length;i++){ 
-	availableTags.push(els[i].title)
-    } 
-    $( "families" ).autocomplete({
-      source: availableTags
+    <script>
+    $(function() {
+	var availableFamTags = []
+	var els = document.getElementsByName("facetfamily") 
+	for (i=0;i<els.length;i++){ 
+	    availableFamTags.push(els[i].title)
+	} 
+	$( "#families" ).autocomplete({
+	source: availableFamTags
+	});
     });
-  });
-  </script>
+    </script>
 
-<div class="ui-widget">
+    <div class="ui-widget">
+	<form action="#{url_for_filters}" method="GET" > 
+## 	    <label for="families"> Families</label> 
+	    <input id="families" onkeydown="$( '#familyfq').val('ancestor:'+this.value)" onFocus="$( '#ancestor').attr('style','opacity:0.2')" onBlur="$( '#ancestor').attr('style','opacity:1')"/>
+	    <input id="familyfq" type="hidden" name="fq" />
+	</form>
+    </div>  
 
-  <form action="#{url_for_home}" method="GET" > 
-  <label for="families"> Families</label>
-  <input id="families" onClick="$( '#familyfq').val('family:'+this.value)"/>
-    <input id="familyfq" type="hidden" name="fq" />
-    </form>
+    #foreach($field in $response.facetFields)
+	## Hide facets without value
+	#if($field.values.size() > 0)
+	    #if($field.name == "ancestor") 
+	    <ul id="$field.name">
+
+		#foreach($facet in $field.values)
+		<li>
+		    <a name="facetfamily" title="$facet.name" href="#url_for_facet_filter($field.name, $facet.name)">$facet.name</a> ($facet.count)
+		</li>
+		#end 
+	    #end  ## end if !- gloss
+	#end  ## end if > 0
+    #end    ## end for each facet field 
 </div> 
-
-
-  #foreach($field in $response.facetFields)
-    ## Hide facets without value
-    #if($field.values.size() > 0)
-	#if($field.name == "ancestor")
-	<div> 
-    ## <span onclick="toggle_visibility('ul$field')"> &#x25BC; </span>
-	<ul id="$field.name">
-
-	    #foreach($facet in $field.values)
-	    <li>
-		<a name="facetfamily" value="$facet.name" href="#url_for_facet_filter($field.name, $facet.name)">$facet.name</a> ($facet.count)
-	    </li>
-	    #end
-	</ul>
-	    </div>
-	#end  ## end if !- gloss
-    #end  ## end if > 0
-  #end    ## end for each facet field
-</div>
