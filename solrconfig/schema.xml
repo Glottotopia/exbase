@@ -119,7 +119,6 @@
    <field name="flag" type="boolean" indexed="true" stored="true"/>
    
    
-   <field name="year" type="string" indexed="true" stored="true"/>
    <field name="dtype" type="string" indexed="true" stored="true"/>
    <field name="iso639-3" type="string" indexed="true" stored="true"/>
    <field name="glottocode" type="string" indexed="true" stored="true"/>
@@ -184,6 +183,7 @@
    <field name="location" type="location" indexed="true" stored="true"/>
    <field name="words" type="int" indexed="true" stored="true"/>
    <field name="chars" type="int" indexed="true" stored="true"/>
+   <field name="year" type="int" indexed="true" stored="true"/>
 
    
      <!--
@@ -336,6 +336,7 @@
         or to add multiple fields to the same field for easier/faster searching.  -->
 
 <!--    <copyField source="cat" dest="text"/> -->
+   <copyField source="content" dest="text"/>
    <copyField source="author" dest="text"/>
    <copyField source="vernacularword" dest="text"/>
    <copyField source="translatedword" dest="text"/>

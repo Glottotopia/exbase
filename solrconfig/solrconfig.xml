@@ -996,6 +996,10 @@
        <str name="facet.mincount">1</str>
 <!--	<str name="facet.pivot">cat,inStock</str>
        <str name="facet.range.other">after</str>-->
+       <str name="facet.range">year</str>
+       <int name="f.year.facet.range.start">1800</int>
+       <int name="f.year.facet.range.end">2020</int>
+       <int name="f.year.facet.range.gap">5</int>
        <str name="facet.range">words</str>
        <int name="f.words.facet.range.start">0</int>
        <int name="f.words.facet.range.end">50</int>
