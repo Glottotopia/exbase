@@ -107,7 +107,8 @@
 	 
       
   
-    <ul id="ul$fieldName" name="facetul" style="display:none;">
+    <ul id="ul$fieldName" name="facetul">
+##     <ul id="ul$fieldName" name="facetul" style="display:none;">
     #if($before && $before != "")
       #set($value = "[* TO " + "#format_value($start)" + "}")
       #set($facetURL = "#url_for_facet_range_filter($fieldName, $value)")

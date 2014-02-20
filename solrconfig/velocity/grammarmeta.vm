@@ -4,18 +4,18 @@
 ## <div class="navigatorbox" id="metabox" style="display:none"> 
 <div class="navigatorbox" id="metabox" >
   #foreach($field in $response.facetFields)
-    #if($field.name == "dtype" or $field.name == "author" or $field.name == "year") 
+    #if($field.name == "dtype" or $field.name == "author" ) 
 	#if($field.values.size() > 0)
-	<div>  
-
-
+	<div>   
 <span class="togglebutton"  name="show" id="$field.name" onClick="toggleFacets('ul$field.name')">&#x25BE;&#x25B4;</span>
       <span class="facet-field">$field.name</span>
 	 
 	    <ul id="ul$field.name"> 
 		#foreach($facet in $field.values)
 		<li>
-		    <a name="facetfamily" title="$facet.name" href="#url_for_facet_filter($field.name, $facet.name)">$facet.name</a> ($facet.count)
+		    <a name="facetfamily" title="$facet.name" href="#url_for_facet_filter($field.name, $facet.name)">
+			$facet.name
+		    </a> ($facet.count)
 		</li>
 		#end
 	    </ul>  
