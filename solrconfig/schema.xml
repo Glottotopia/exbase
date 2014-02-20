@@ -169,6 +169,7 @@
 <field name="focus" type="string" indexed="true" stored="true" multiValued="true"/>
 
 <field name="ancestor" type="string" indexed="true" stored="true" multiValued="true"/>
+<field name="occult" type="string" indexed="true" stored="true" multiValued="true"/>
 <field name="chunknumber" type="string" stored="true"/>
 
 <field name="partof" type="string"/>
