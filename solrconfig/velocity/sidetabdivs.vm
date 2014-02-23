@@ -1,0 +1,39 @@
+<ul class="nav nav-tabs">
+    <li class="active"><a href="#languagetab" data-toggle="tab">Languages</a></li> 
+    <li class="navtabli"><a href="#formtab" data-toggle="tab">Form</a></li>
+    <li class="navtabli"><a href="#meaningtab" data-toggle="tab">Meaning</a></li>
+    <li class="navtabli"><a href="#metatab" data-toggle="tab">Meta</a></li>
+</ul> 
+
+<!-- Tab panes --> 
+
+<div class="tab-content">
+#if($request.params.get('tab', 'language' )=='language' ) 
+    <div class="tab-pane active" id="languagetab">
+#else
+    <div class="tab-pane" id="languagetab">
+#end
+    #parse("languages.vm")
+    #parse("families.vm")
+</div> 
+#if($request.params.get('tab')=='form') 
+    <div class="tab-pane active" id="formtab">
+#else
+    <div class="tab-pane" id="formtab">
+#end
+    #parse('form.vm') 
+</div>
+#if($request.params.get('tab')=='meaning') 
+    <div class="tab-pane active" id="meaningtab">
+#else
+    <div class="tab-pane" id="meaningtab">
+#end
+    #parse('meaning.vm') 
+</div>
+#if($request.params.get('tab')=='meta') 
+    <div class="tab-pane active" id="metatab">
+#else
+    <div class="tab-pane" id="metatab">
+#end
+    #parse("grammarmeta.vm")
+</div>

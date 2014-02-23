@@ -1,0 +1,13 @@
+    <div id="hiddenparams">
+	    <input type="hidden" name="sfield" value="location"/>
+	    <input type="hidden" id="spatialFQ" name="fq" value=""/>
+	    <input type="hidden" name="queryOpts" value="spatial"/>   
+	    <input type="hidden" id="fq" name="fq" />  
+	    <input type="hidden" id="mapbounds" name="mapbounds" value="$mapbounds"/>
+	    <input type="hidden" id="north" name="north" value="$north"/>
+	    <input type="hidden" id="east" name="east"value="$east"/>
+	    <input type="hidden" id="south" name="south"   value="$south"/>
+	    <input type="hidden" id="west" name="west" value="$west"/>  
+	    <input type="hidden" id="rows" name="rows" id="rows" value="10"/>    
+	    <input type="hidden" id="zoom" name="zoom" value="$zoom"/>
+    </div>

@@ -6,19 +6,11 @@
 #set($annotate = $params.get("annotateBrowse"))
 
 <body>  
-    <div id="hiddenparams">
-	    <input type="hidden" name="sfield" value="location"/>
-	    <input type="hidden" id="spatialFQ" name="fq" value=""/>
-	    <input type="hidden" name="queryOpts" value="spatial"/>   
-	    <input type="hidden" id="fq" name="fq" />  
-	    <input type="hidden" id="mapbounds" name="mapbounds" value="$mapbounds"/>
-	    <input type="hidden" id="north" name="north" value="$north"/>
-	    <input type="hidden" id="east" name="east"value="$east"/>
-	    <input type="hidden" id="south" name="south"   value="$south"/>
-	    <input type="hidden" id="west" name="west" value="$west"/>  
-	    <input type="hidden" id="rows" name="rows" value="100"/>    
-	    <input type="hidden" id="zoom" name="zoom" value="$zoom"/>
-    </div>
+
+			    #parse("variables.vm")
+			    #parse("occultono.vm")
+			    #parse("hiddenparams.vm")
+
 
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation"> 
         <div class="navbar-header">
@@ -34,94 +26,48 @@
             <li><a href="#">Help</a></li>  
           </ul>
         </div><!--/.nav-collapse --> 
+
+
     </div><!--/.navbar --> 
 
     <div class="container-fluid">  
 	<div class="row">
-	    <div class="col-sm-3 col-md-2 sidebar"> 
-## 		#parse("constraints.vm") 
-		    <ul class="nav nav-tabs">
-			<li class="active"><a href="#languagetab" data-toggle="tab">Languages</a></li>
-## 			<li><a href="#familytab" data-toggle="tab">Families</a></li>
-			<li class="navtabli"><a href="#formtab" data-toggle="tab">Form</a></li>
-			<li class="navtabli"><a href="#meaningtab" data-toggle="tab">Meaning</a></li>
-			<li class="navtabli"><a href="#metatab" data-toggle="tab">Meta</a></li>
-		    </ul> 
-
-		    <!-- Tab panes --> 
-
-			<div class="tab-content">
-			#if($request.params.get('tab', 'language' )=='language' ) 
-			    <div class="tab-pane active" id="languagetab">
-			#else
-			    <div class="tab-pane" id="languagetab">
-			#end
-			    #parse("languages.vm")
-			    #parse("families.vm")
-			</div> 
-			#if($request.params.get('tab')=='form') 
-			    <div class="tab-pane active" id="formtab">
-			#else
-			    <div class="tab-pane" id="formtab">
-			#end
-			    #parse('form.vm') 
-			</div>
-			#if($request.params.get('tab')=='meaning') 
-			    <div class="tab-pane active" id="meaningtab">
-			#else
-			    <div class="tab-pane" id="meaningtab">
-			#end
-			    #parse('meaning.vm') 
-			</div>
-			#if($request.params.get('tab')=='meta') 
-			    <div class="tab-pane active" id="metatab">
-			#else
-			    <div class="tab-pane" id="metatab">
-			#end
-			    #parse("grammarmeta.vm")
-			</div>
-		    </div>
-		
-	    </div><!--sidebar-->
-	    <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main"> 
-		<h1 id="grammararchiveheader"> The Grammar Archive </h1> 
-		<div class="row">
-		    <div class="col-xs-6 col-sm-3 placeholder">
-			#parse('constraints.vm') 
-		    </div>
-		    <div class="col-xs-12 col-sm-6">
-			#parse('geography.vm')  
-		    </div>	 
-		    <div class="col-xs-6 col-sm-3 placeholder"> 
-			#parse('query_form.vm')   
-		    </div>
-		</div> <!--row-->
-		<div id="mainseb">
-## 		    <h2> Results </h2>   
-		    #parse('did_you_mean.vm')  
-		    <div class="pagination">
-			#parse("pagination_top.vm")
-		    </div> 
-		    <div class="error">
-			#parse("error.vm")
-		    </div> 
-		    <div class="results">
-			#parse("results_list.vm")
-		    </div> 
-		    <div class="pagination">
-			#parse("pagination_bottom.vm")
-		    </div>
-		</div> 
-	    </div><!--main-->
+	    <div class="col-sm-3 col-md-2 sidebar">  
+		#parse('sidetabdivs.vm')
+	    </div> 
 	</div><!--row-->
+
+	<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main"> 
+	    <h1 id="grammararchiveheader"> The Grammar Archive </h1> 
+	    <div class="row">
+		<div class="col-xs-6 col-sm-3 placeholder">
+		    #parse('constraints.vm') 
+		</div>
+		<div class="col-xs-12 col-sm-6">
+		    #parse('geography.vm')  
+		</div>	 
+		<div class="col-xs-6 col-sm-3 placeholder"> 
+		    #parse('query_form.vm')   
+		</div>
+	    </div> <!--row-->
+	    <div id="mainseb">   
+		#parse('did_you_mean.vm')  
+		<div class="pagination">
+		    #parse("pagination_top.vm")
+		</div> 
+		<div class="error">
+		    #parse("error.vm")
+		</div> 
+		<div class="results">
+		    #parse("results_list.vm")
+		</div> 
+		<div class="pagination">
+		    #parse("pagination_bottom.vm")
+		</div> 
+	    </div><!--mainseb-->
+	</div><!--main--> 
     </div><!--container-->
 	<hr/>  
     <footer>
 	<p>&copy; Glottotopia 2013-4</p>
-    </footer>  
-    
- 
-
-
-
-
+    </footer>   

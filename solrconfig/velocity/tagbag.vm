@@ -1,0 +1,43 @@
+<div class="tagbag" name="extr"  id="$thisid" style="display:none;"> 
+
+    <ul class="nav nav-tabs">
+	<li class="navtabli active"><a href="#droptab$exnr" data-toggle="tab">Drop</a></li> 
+	<li class="navtabli"><a href="#freetab$exnr" data-toggle="tab">Free</a></li>
+	<li class="navtabli" onclick='jQuery(this).parent().parent().hide();' style="float:right"><a data-toggle="tab">X</a></li> 
+    </ul>   
+    <div class="tab-content"> 
+	<div class="tab-pane active" id="droptab$exnr">  
+	    <div class="addcontainer" >
+		<ul class="megarow" >
+		#foreach($ontofields in $megafields) 
+		    <li>
+			<ul class="tagrow" > 
+			    #foreach($ontofield in $ontofields) 
+				#set( $tid = $ontofield[0]+$doc.getFieldValue('id'))
+				<li class="tagadder">	  
+				    <select size="1" name="value" class="yui3-button" id="$tid" onChange="addfield('$doc.getFieldValue('id')','$ontofield[0]', this.value);"> 
+					<option>$ontofield[0].replace('_',' ')</option> 
+					#foreach($v in $ontofield[1])
+					    <option value="$v">$v.replace('_',' ')</option> 
+					#end	
+				    </select>      
+				</li>
+			    #end
+			</ul>
+		    </li> 
+		#end 
+		</ul>
+	    </div>
+	</div> 
+	<div class="tab-pane" id="freetab$exnr">  
+	    <div class="addcontainer" >
+		<div class="ui-widget">
+		    <form action="#{url_for_filters}" method="GET" > 
+	    ## 	    <label for="meanings"> Meanings</label> 
+			<input id="meaningsadder$exnr" />  
+		    </form>
+		</div>  
+	    </div>
+	</div> 
+    </div>  
+</div>

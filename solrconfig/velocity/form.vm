@@ -1,13 +1,4 @@
-#set( $formheaders = [
-    "sentence_type",
-    "predicate_type",
-    "phrase_type",
-    "incorporation",
-    "vernacularword",
-    "contentword",
-    "gloss" 
-    ]
-)
+
 
 ## <h2>
 ##     Form  

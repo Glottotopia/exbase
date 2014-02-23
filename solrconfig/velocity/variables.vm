@@ -1,0 +1,53 @@
+
+#set ( $exnr = 0 )
+
+## begin ontology
+#set( $ontofield0 = [
+    ["sentence_type", ['monoclausal', 'multiclausal_relativized', 'multiclausal_direct_speech', 'multiclausal_subordinated', 'multiclausal_coordinated']],
+    ["predicate_type", ['contains_verb', 'does_not_contain_verb']],
+    ["phrase_type", ['vp', 'np', 'pp']],
+    ["incorporation", ['verb', 'noun', 'other']]
+    ]
+)
+#set( $ontofield1 = [
+    ["polarity", ['situation_positive', 'situation_negative', 'propositional_content_affirmation', 'propositional_content_denial', 'individual_existing', 'individual_non-existing', 'individual_present', 'individual_absent', 'pseudo-individual', 'property_existing', 'property_non-existing', 'property_present', 'property_non-existing', 'lack_of_property_(unintelligent)', 'litotes_(not_unintelligent)', 'pseudo_(pseudo-intelligent)']],
+    ["coordination", ['and', 'but', 'or', 'xor', 'nor']],
+    ["adverbial_clauses", ['temporal', 'purpose', 'reason', 'concession', 'condition', 'concessive_condition', 'circumstance', 'negative_circumstance', 'unreal_circumstance', 'evidence', 'means', 'addition', 'set_domain', 'manner', 'other']]
+    ]
+)
+#set( $ontofield2 = [
+    ["situation_types", ['state_property_assignment', 'state_status_assignment', 'state_identity', 'state_localization', 'state_possession', 'event_activity_(durative_atelic)', 'event_accomplishment_(durative_telic)', 'event_semelfactive_(punctual_atelic)', 'event_achievement_(punctual_telic)']],
+    ["aspect", ['phase_beginning', 'phase_progression', 'phase_continuation', 'phrase_end', 'viewpoint_perfective', 'viewpoint_imperfective', 'viewpoint_neutral']],
+    ["time", ['past_simple', 'past_reference_time_before_event_time', 'past_reference_time_after_event_time', 'present_simple', 'present_event_time_before_reference_time', 'future_simple', 'future_reference_time_before_event_time', 'future_reference_time_after_event_time']],
+    ["event_modality", ['universal', 'hypothetical', 'frustrative', 'ability', 'possibility', 'necessity', 'obligation', 'permission', 'desire', 'intention']],
+    ["proposition_modality", ['certain', 'assumptive', 'probable', 'speculative', 'doubtful', 'inferential/deductive', 'direct_evidence', 'reportative', 'belief', 'other_evidence']]
+    ]
+)
+#set( $ontofield3 = [
+    ["participant_roles", ['agent', 'patient', 'theme', 'recipient', 'experiencer', 'stimulus', 'source', 'location', 'goal', 'path', 'instrument', 'force', 'beneficiary', 'comitative', 'cause', 'set_domain', 'role', 'proprietive', 'caritive', 'duration', 'spatial_extension', 'value', 'portion', 'other']],
+    ["quantification_of_individuals", ['singularity', 'plurality', 'collectivity', 'genericity', 'denumerable_quantity_0', 'denumerable_quantity_1', 'denumerable_quantity_2', 'denumerable_quantity_other', 'indefinite_quantity_low_proportion', 'indefinite_quantity_average_proportion', 'indefinite_quantity_high_proportion', 'indefinite_quantity_unclear_proportion', 'indefinite_quantity_totality']],
+    ["quantification_of_other", ['all_locations_(=_everywhere)', 'no_locations_(=_nowhere)', 'distributivity_(=_here_and_there)', 'all_points_in_time_(=_always)', 'some_points_in_time_(=_once_in_a_while)', 'no_points_in_time_(=never)', 'habituality', 'iterativity', 'all_manners', 'no_manner']],
+    ["comparison", ['equation', 'superiority', 'inferiority', 'superlative']],
+    ["possession", ['inalienable_attributive', 'inalienable_predicative', 'alienable_attributive', 'alienable_predicative']]
+    ]
+)
+#set( $ontofield4 = [
+    ["information_structure", ['non-contrastive_given', 'non-contrastive_resumed', 'non-contrastive_new', 'contrastive_given', 'contrastive_resumed', 'contrastive_new']],
+    ["speech_acts", ['assertion', 'concluding', 'question_close-ended', 'question_open-ended', 'question_hypothetical', 'question_rhetorical', 'command_ethical', 'command_non-ethical', 'commissive_threatening', 'commissive_warning', 'commissive_offering', 'commissive_promising', 'wishing_optative', 'wishing_imprecative', 'wishing_hortative', 'admonitive', 'supplicative', 'mirative', 'vocative', 'other', 'mitigation', 'reinforcement', 'other']],
+    ["politeness", ['being_polite', 'being_neutral', 'being_impolite']]
+    ]
+)
+#set( $megafields = [$ontofield0, $ontofield1, $ontofield2, $ontofield3, $ontofield4])
+## end ontology
+
+#set( $formheaders = [
+    "sentence_type",
+    "predicate_type",
+    "phrase_type",
+    "incorporation",
+    "vernacularword",
+    "contentword",
+    "gloss" 
+    ]
+)
+

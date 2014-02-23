@@ -2,10 +2,12 @@
  *  Render the main Results List
  *#
 
-## Usually displayed inside <div class="results">
- 
+## Usually displayed inside <div class="results"> 
+#set($exnr = 0)
    #foreach($doc in $response.results)
+    #set($exnr=$math.add($exnr,1))
     #parse("hit.vm")
+    
     ## Can get an extremely simple view of the doc
     ## which might be nicer for debugging
     ##parse("hit_plain.vm")

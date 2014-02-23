@@ -52,6 +52,7 @@
 
 ## TODO: convert to use {!raw f=$field}$value (with escaping of course)
 #macro(url_for_facet_filter $field $value)#url_for_home#lens&fq=$esc.url($field):%22$esc.url($value)%22#end
+#macro(url_for_one_facet_filter $field $value)#url_for_home?fq=$esc.url($field):%22$esc.url($value)%22#end
 
 #macro(url_for_facet_date_filter $field $value)#url_for_home#lens&fq=$esc.url($field):$esc.url($value)#end
 
@@ -165,6 +166,9 @@ $v##
     #end
   #end
 #end  
+
+ 
+
 
 #macro(utc_date $theDate)
 $date.format("yyyy-MM-dd'T'HH:mm:ss'Z'",$theDate,$date.getLocale(),$date.getTimeZone().getTimeZone("UTC"))##
