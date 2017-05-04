@@ -27,11 +27,11 @@
 <b>#field('name')</b> 
 
 ## <span class="togglebutton" onclick='jQuery(this).parent().siblings("table").toggle();' > &pm;   </span>
-<a   href="#"  onclick='jQuery(this).parent().siblings("table").toggle();jQuery(this).parent().siblings("div[class=tagcontainer]").toggle("fast");' > expand  </a>
+<a     onclick='jQuery(this).parent().siblings("table").toggle();jQuery(this).parent().siblings("div[class=tagcontainer]").toggle("fast");' > expand  </a>
 
 #if($request.params.get('admin')=='true') 
 ## <span class="togglebutton"  onclick='hidealltagbags(); jQuery(this).parent().siblings("div[class=tagbag]").slideDown("slow");jQuery(this).parent().parent().attr("style","border:2px dotted darkred;background:#f4ffe0")' > &equiv;   </span>
-<a    href="#"  onclick='hidealltagbags(); jQuery(this).parent().siblings("div[class=tagbag]").slideDown("slow");jQuery(this).parent().parent().attr("style","border:2px dotted darkred;background:#f4ffe0")' > add tags  </a> 
+<a    onclick='hidealltagbags(); jQuery(this).parent().siblings("div[class=tagbag]").slideDown("slow");jQuery(this).parent().parent().attr("style","border:2px dotted darkred;background:#f4ffe0")' > add tags  </a> 
 #end
 
 

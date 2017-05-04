@@ -406,64 +406,6 @@ div.tag span.value{
     padding: 0;
 }
 
-.tagbag{ 
-    border-radius: 2px 2px 2px 2px;
-/*     float: right; */
-    font-size: 8pt;
-/*     left: -280px; */
-    margin: 1px 250px 1px 1px;
-    max-width: 200px;
-    padding: 1px;
-    position: fixed;
-    right: -100px;
-    top: 100;
-    z-index: 3;
-}
-
-/*.tagbag {
-    border-radius: 2px 2px 2px 2px;
-     float: right;  
-    font-size: 8pt;
-      left: -280px;  
-    margin: 1px 250px 1px 1px;
-    max-width: 200px;
-    padding: 1px;
-    position: fixed;
-    right: -80px;
-    top: 0;
-    z-index: 3;
-}*/
- 
-.tagbag button{ 
-    vertical-align:bottom; 
-    margin-left: 5px;
-    font-size:120%;
-}
-
-.tagadder{
-/*     display:inline;   */
-/*     box-shadow: 0px 1px 1px #222; */
-/*     border:1px solid #55e;  */
-/*     margin:2px; */
-/*     padding:2px !important;  */
-/*     float:left; */
-}
- 
-
-.tagadder select{
-    font-size:8pt;   
-    padding: 0px;
-}
-
-.tagadder button{
-    font-size:8pt;   
-    padding: 0px;
-}
-
-.tagadder form{
-    width:100px;
-/*     display:inline; */
-}
 
 
 .navigators ul li a {
@@ -491,6 +433,20 @@ div.tag span.value{
     list-style:none;
 }
 
+.addcontainer {
+    padding:0px;   
+    border: 2px solid #428BCA; 
+    border-radius:1px;
+    box-shadow:1px 2px 2px 2px;
+    width:200px;
+    min-height:400px;
+    background:#eee;
+}
+
+.megarow {
+    padding:0; 
+}
+
 .megarow>li {
     list-style:none; 
     margin:0px;
@@ -498,11 +454,11 @@ div.tag span.value{
 }
 
 .megarow>li:nth-child(odd){
-    background:#f4ffe0;
+    background:#eee;
 }
 
 .megarow>li:nth-child(even) {
-    background:#f5f8d4;
+    background:#ddd;
 }
   
 
@@ -607,31 +563,9 @@ div.tag span.value{
 
 	box-shadow:inset 0px 1px 0px 0px #caefab;
 
-	background-color:#8E8F67;
-
-	-webkit-border-top-left-radius:20px;
-
-	-moz-border-radius-topleft:20px;
-
-	border-top-left-radius:20px;
-
-	-webkit-border-top-right-radius:20px;
-
-	-moz-border-radius-topright:20px;
-
-	border-top-right-radius:20px;
-
-	-webkit-border-bottom-right-radius:20px;
-
-	-moz-border-radius-bottomright:20px;
-
-	border-bottom-right-radius:20px;
-
-	-webkit-border-bottom-left-radius:20px;
-
-	-moz-border-radius-bottomleft:20px;
-
-	border-bottom-left-radius:20px;
+	background-color:#AEAF87;
+	
+	border-radius:10px;
 
 	text-indent:0;
 
@@ -654,9 +588,13 @@ div.tag span.value{
 	text-shadow:1px 1px 0px #aade7c;
 
 	width:25px;
-}.togglebutton:hover {
+	
+	cursor:pointer;
+}
 
-	background-color:#AEAF87;
+.togglebutton:hover {
+
+	background-color:#428BCA;
 
 	color:black;
 }.togglebutton:active {
@@ -723,10 +661,14 @@ scrollbar-track-color: #fff!important;
 }
 
 .chunkcontent{
+    max-width:800px;
+    background:#fffdee;
+    padding:5px;
     max-height:200px;
     overflow-y:auto;
 }
 
+ 
 #grammararchiveheader{
     background: none repeat scroll 0 0 #A78968;
     border-radius: 20px 20px 20px 20px; 
@@ -765,11 +707,89 @@ scrollbar-track-color: #fff!important;
        padding:0;
 }
 
-
-.navtabli:nth-child(2n) {
-/*   background-color: #ccf; */
+.navtabli {
+  background-color: #eee;
 }
+
+ 
 
 #constraintsblock{
     vertical-align:center;
 }
+
+.spacer{
+    font-size:50%;
+}
+
+#uloccult{ 
+    max-height:600px;
+    overflow:auto !important;
+}
+
+#uloccult li{
+    list-style:none; 
+}
+
+#uloccult a{
+    white-space:nowrap;
+    overflow-x:auto;
+}
+
+
+.tagbag{ 
+/*     border-radius: 2px 2px 2px 2px; */
+/*     float: right; */
+    font-size: 8pt;
+/*     left: -280px; */
+/*    margin: 1px 250px 1px 1px;
+    max-width: 200px;
+    padding: 1px;*/
+    position: fixed;
+    right: 30px;
+    top: 100;
+    z-index: 3;
+}
+ 
+ 
+.tagbag button{ 
+    vertical-align:bottom; 
+    margin-left: 5px;
+    font-size:120%;
+}
+  
+
+.tagadder select{
+    font-size:8pt;   
+    padding: 0px;
+    width:180px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.tagadder button{
+    font-size:8pt;   
+    padding: 0px;
+}
+
+.tagadder form{
+/*     width:100px; */
+/*     display:inline; */
+}
+ 
+.pos{
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    border-radius: 0 2px 2px 2px;
+    box-shadow: 1px 1px 0 0;
+    background:red;
+}
+
+.pos span{
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    border-radius: 0 2px 2px 2px;
+    box-shadow: 1px 1px 0 0;
+}
+

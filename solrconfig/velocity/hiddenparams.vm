@@ -11,3 +11,21 @@
 	    <input type="hidden" id="rows" name="rows" id="rows" value="10"/>    
 	    <input type="hidden" id="zoom" name="zoom" value="$zoom"/>
     </div>
+
+<div id="ono">
+#foreach($k in $OCCULTONODICT) 
+    <input name="ono" type="hidden" title="$k"> </input>
+#end
+</div>
+
+<script type="javascript">   
+    $(function() {
+	alert(1)
+	var onotags = [];
+	var els = document.getElementsByName("ono");
+	for (i=0;i<els.length;i++){ 
+	    onotags.push(els[i].title)
+	} 
+	alert(onotags.length)
+    });
+</script>
