@@ -1,0 +1,922 @@
+[
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{prox} two tall-\\textsc{mpl} man-\\textsc{pl}",
+        "imtwordshtml": [
+            "<span class=\"sc\">prox</span>",
+            "two",
+            "tall-<span class=\"sc\">mpl</span>",
+            "man-<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{prox}",
+            "two",
+            "tall-\\textsc{mpl}",
+            "man-\\textsc{pl}"
+        ],
+        "src": "an\u00ed d\u00fau dhr\u00ed\u0261-a \\textbf{m\u00edi\u0161-a}",
+        "srcwordshtml": [
+            "an\u00ed",
+            "d\u00fau",
+            "dhr\u00ed\u0261-a",
+            "<span class=\"bf\">m\u00edi\u0161-a</span>"
+        ],
+        "srcwordstex": [
+            "an\u00ed",
+            "d\u00fau",
+            "dhr\u00ed\u0261-a",
+            "\\textbf{m\u00edi\u0161-a}"
+        ],
+        "trs": "these two tall men' (A:ADJ048)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{def} woman understand.\\textsc{pfv-f} \\textsc{compl} \\textsc{prox.msg.nom} \\textsc{1sg.gen} husband \\textsc{neg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "woman",
+            "understand.<span class=\"sc\">pfv-f</span>",
+            "<span class=\"sc\">compl</span>",
+            "<span class=\"sc\">prox.msg.nom</span>",
+            "<span class=\"sc\">1sg.gen</span>",
+            "husband",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "woman",
+            "understand.\\textsc{pfv-f}",
+            "\\textsc{compl}",
+            "\\textsc{prox.msg.nom}",
+            "\\textsc{1sg.gen}",
+            "husband",
+            "\\textsc{neg}"
+        ],
+        "src": "\\textbf{se} \\textbf{k\u00fa\u1e5bi} b\u00fad-i ki an\u00fa m\u00edi bhar\u00ediw na",
+        "srcwordshtml": [
+            "<span class=\"bf\">se</span>",
+            "<span class=\"bf\">k\u00fa\u1e5bi</span>",
+            "b\u00fad-i",
+            "ki",
+            "an\u00fa",
+            "m\u00edi",
+            "bhar\u00ediw",
+            "na"
+        ],
+        "srcwordstex": [
+            "\\textbf{se}",
+            "\\textbf{k\u00fa\u1e5bi}",
+            "b\u00fad-i",
+            "ki",
+            "an\u00fa",
+            "m\u00edi",
+            "bhar\u00ediw",
+            "na"
+        ],
+        "trs": "The woman understood that this wasn't her husband.' (A:WOM646)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{refl} paw-\\textsc{pl} give.\\textsc{cv} stone pick.up-\\textsc{prs\"=msg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">refl</span>",
+            "paw-<span class=\"sc\">pl</span>",
+            "give.<span class=\"sc\">cv</span>",
+            "stone",
+            "pick.up-<span class=\"sc\">prs\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{refl}",
+            "paw-\\textsc{pl}",
+            "give.\\textsc{cv}",
+            "stone",
+            "pick.up-\\textsc{prs\"=msg}"
+        ],
+        "src": "tee\u1e47\u00edi \u010d\u00fati-m de \\textbf{ba\u1e6d} uc\u0323h-\u00e1an-u",
+        "srcwordshtml": [
+            "tee\u1e47\u00edi",
+            "\u010d\u00fati-m",
+            "de",
+            "<span class=\"bf\">ba\u1e6d</span>",
+            "uc\u0323h-\u00e1an-u"
+        ],
+        "srcwordstex": [
+            "tee\u1e47\u00edi",
+            "\u010d\u00fati-m",
+            "de",
+            "\\textbf{ba\u1e6d}",
+            "uc\u0323h-\u00e1an-u"
+        ],
+        "trs": "It [the leopard] picked up a~stone with his paws.' (B:SHB749)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{rem} village-\\textsc{obl} such-\\textsc{msg} grief become.\\textsc{pfv\"=msg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">rem</span>",
+            "village-<span class=\"sc\">obl</span>",
+            "such-<span class=\"sc\">msg</span>",
+            "grief",
+            "become.<span class=\"sc\">pfv\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{rem}",
+            "village-\\textsc{obl}",
+            "such-\\textsc{msg}",
+            "grief",
+            "become.\\textsc{pfv\"=msg}"
+        ],
+        "src": "\\textbf{has\u00e9} \\textbf{d\u00edi\u0161-a} hatee\u1e47-\u00fa \u0263am bh\u00edl-u",
+        "srcwordshtml": [
+            "<span class=\"bf\">has\u00e9</span>",
+            "<span class=\"bf\">d\u00edi\u0161-a</span>",
+            "hatee\u1e47-\u00fa",
+            "\u0263am",
+            "bh\u00edl-u"
+        ],
+        "srcwordstex": [
+            "\\textbf{has\u00e9}",
+            "\\textbf{d\u00edi\u0161-a}",
+            "hatee\u1e47-\u00fa",
+            "\u0263am",
+            "bh\u00edl-u"
+        ],
+        "trs": "There was such grief in the village.' (B:AVA221)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "small-\\textsc{msg} village be.\\textsc{pst}",
+        "imtwordshtml": [
+            "small-<span class=\"sc\">msg</span>",
+            "village",
+            "be.<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "small-\\textsc{msg}",
+            "village",
+            "be.\\textsc{pst}"
+        ],
+        "src": "\\textbf{lho\u00f3k-u} \\textbf{d\u00edi\u0161} de",
+        "srcwordshtml": [
+            "<span class=\"bf\">lho\u00f3k-u</span>",
+            "<span class=\"bf\">d\u00edi\u0161</span>",
+            "de"
+        ],
+        "srcwordstex": [
+            "\\textbf{lho\u00f3k-u}",
+            "\\textbf{d\u00edi\u0161}",
+            "de"
+        ],
+        "trs": "It was a~small village.' (A:JAN003)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textbf{\\textsc{rem.msg.nom}} sick-\\textbf{\\textsc{msg}} child[\\textbf{\\textsc{m}}]",
+        "imtwordshtml": [
+            "<span class=\"bf\">\\textsc{rem.msg.nom</span>}",
+            "sick-<span class=\"bf\">\\textsc{msg</span>}",
+            "child[<span class=\"bf\">\\textsc{m</span>}]"
+        ],
+        "imtwordstex": [
+            "\\textbf{\\textsc{rem.msg.nom}}",
+            "sick-\\textbf{\\textsc{msg}}",
+            "child[\\textbf{\\textsc{m}}]"
+        ],
+        "src": "has\u00f3 bidr\u00e1a\u0261-u ku\u1e47a\u00e1k",
+        "srcwordshtml": [
+            "has\u00f3",
+            "bidr\u00e1a\u0261-u",
+            "ku\u1e47a\u00e1k"
+        ],
+        "srcwordstex": [
+            "has\u00f3",
+            "bidr\u00e1a\u0261-u",
+            "ku\u1e47a\u00e1k"
+        ],
+        "trs": "that sick child' (B:ATI057)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "girl[\\textbf{\\textsc{f}}] not come.\\textsc{pfv-\\textbf{\\textsc{f}}}",
+        "imtwordshtml": [
+            "girl[<span class=\"bf\">\\textsc{f</span>}]",
+            "not",
+            "come.<span class=\"sc\">pfv-\\textbf{\\textsc{f</span>}}"
+        ],
+        "imtwordstex": [
+            "girl[\\textbf{\\textsc{f}}]",
+            "not",
+            "come.\\textsc{pfv-\\textbf{\\textsc{f}}}"
+        ],
+        "src": "pha\u00ed na yh\u00e9el-i",
+        "srcwordshtml": [
+            "pha\u00ed",
+            "na",
+            "yh\u00e9el-i"
+        ],
+        "srcwordstex": [
+            "pha\u00ed",
+            "na",
+            "yh\u00e9el-i"
+        ],
+        "trs": "The girl didn't come.' (A:SHY058)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{1sg.nom}=to some milk give.\\textsc{imp.sg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.nom</span>=to",
+            "some",
+            "milk",
+            "give.<span class=\"sc\">imp.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.nom}=to",
+            "some",
+            "milk",
+            "give.\\textsc{imp.sg}"
+        ],
+        "src": "m\u00e1a=the tu\u00fa\u0161 \\textbf{c\u0323hi\u00edr} da",
+        "srcwordshtml": [
+            "m\u00e1a=the",
+            "tu\u00fa\u0161",
+            "<span class=\"bf\">c\u0323hi\u00edr</span>",
+            "da"
+        ],
+        "srcwordstex": [
+            "m\u00e1a=the",
+            "tu\u00fa\u0161",
+            "\\textbf{c\u0323hi\u00edr}",
+            "da"
+        ],
+        "trs": "Give me some milk!' (A:HLE2298)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{1sg.nom}=to two glass.\\textsc{pl} milk give.\\textsc{imp.sg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.nom</span>=to",
+            "two",
+            "glass.<span class=\"sc\">pl</span>",
+            "milk",
+            "give.<span class=\"sc\">imp.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.nom}=to",
+            "two",
+            "glass.\\textsc{pl}",
+            "milk",
+            "give.\\textsc{imp.sg}"
+        ],
+        "src": "m\u00e1a=the d\u00fau \u0261ilees\u00ed \\textbf{c\u0323hi\u00edr} da",
+        "srcwordshtml": [
+            "m\u00e1a=the",
+            "d\u00fau",
+            "\u0261ilees\u00ed",
+            "<span class=\"bf\">c\u0323hi\u00edr</span>",
+            "da"
+        ],
+        "srcwordstex": [
+            "m\u00e1a=the",
+            "d\u00fau",
+            "\u0261ilees\u00ed",
+            "\\textbf{c\u0323hi\u00edr}",
+            "da"
+        ],
+        "trs": "Give me two glasses of milk!' (A:HLE2298)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "one drop blood",
+        "imtwordshtml": [
+            "one",
+            "drop",
+            "blood"
+        ],
+        "imtwordstex": [
+            "one",
+            "drop",
+            "blood"
+        ],
+        "src": "\u00e1ak \u1e6dip \\textbf{r\u00e1at}",
+        "srcwordshtml": [
+            "\u00e1ak",
+            "\u1e6dip",
+            "<span class=\"bf\">r\u00e1at</span>"
+        ],
+        "srcwordstex": [
+            "\u00e1ak",
+            "\u1e6dip",
+            "\\textbf{r\u00e1at}"
+        ],
+        "trs": "a drop of blood' (A:HLE2334)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{3sg.gen} arm.\\textsc{gen} blood-\\textsc{pl} appear.\\textsc{pfv\"=mpl}",
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.gen</span>",
+            "arm.<span class=\"sc\">gen</span>",
+            "blood-<span class=\"sc\">pl</span>",
+            "appear.<span class=\"sc\">pfv\"=mpl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.gen}",
+            "arm.\\textsc{gen}",
+            "blood-\\textsc{pl}",
+            "appear.\\textsc{pfv\"=mpl}"
+        ],
+        "src": "tas\u00edi m\u00fa\u1e6dii \\textbf{rat-\u00e1} nikh\u00e1at-a",
+        "srcwordshtml": [
+            "tas\u00edi",
+            "m\u00fa\u1e6dii",
+            "<span class=\"bf\">rat-\u00e1</span>",
+            "nikh\u00e1at-a"
+        ],
+        "srcwordstex": [
+            "tas\u00edi",
+            "m\u00fa\u1e6dii",
+            "\\textbf{rat-\u00e1}",
+            "nikh\u00e1at-a"
+        ],
+        "trs": "Blood came from [many places of] his arm.' (A:HLE2335)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "Fazal.Noor-\\textbf{\\textsc{obl}} from \\textsc{top} five son-\\textsc{pl} become.\\textsc{pfv\"=mpl}",
+        "imtwordshtml": [
+            "Fazal.Noor-<span class=\"bf\">\\textsc{obl</span>}",
+            "from",
+            "<span class=\"sc\">top</span>",
+            "five",
+            "son-<span class=\"sc\">pl</span>",
+            "become.<span class=\"sc\">pfv\"=mpl</span>"
+        ],
+        "imtwordstex": [
+            "Fazal.Noor-\\textbf{\\textsc{obl}}",
+            "from",
+            "\\textsc{top}",
+            "five",
+            "son-\\textsc{pl}",
+            "become.\\textsc{pfv\"=mpl}"
+        ],
+        "src": "\\textbf{fazelnuur-\u00e1} d\u00edi ba pan\u01f0 putr-\u00e1 bh\u00edl-a",
+        "srcwordshtml": [
+            "<span class=\"bf\">fazelnuur-\u00e1</span>",
+            "d\u00edi",
+            "ba",
+            "pan\u01f0",
+            "putr-\u00e1",
+            "bh\u00edl-a"
+        ],
+        "srcwordstex": [
+            "\\textbf{fazelnuur-\u00e1}",
+            "d\u00edi",
+            "ba",
+            "pan\u01f0",
+            "putr-\u00e1",
+            "bh\u00edl-a"
+        ],
+        "trs": "Fazal Noor had five sons.' (B:ATI079)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "Mir called one man exist.\\textsc{pfv\"=msg} \\textsc{pst}",
+        "imtwordshtml": [
+            "Mir",
+            "called",
+            "one",
+            "man",
+            "exist.<span class=\"sc\">pfv\"=msg</span>",
+            "<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "Mir",
+            "called",
+            "one",
+            "man",
+            "exist.\\textsc{pfv\"=msg}",
+            "\\textsc{pst}"
+        ],
+        "src": "mi\u00edr than\u00ed \u00e1ak \\textbf{m\u00edi\u0161} heens\u00edl-u de",
+        "srcwordshtml": [
+            "mi\u00edr",
+            "than\u00ed",
+            "\u00e1ak",
+            "<span class=\"bf\">m\u00edi\u0161</span>",
+            "heens\u00edl-u",
+            "de"
+        ],
+        "srcwordstex": [
+            "mi\u00edr",
+            "than\u00ed",
+            "\u00e1ak",
+            "\\textbf{m\u00edi\u0161}",
+            "heens\u00edl-u",
+            "de"
+        ],
+        "trs": "There was a~man called Mir.' (A:GHA051)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "slaughter do.\\textsc{cv} skin take.off-\\textsc{cv}",
+        "imtwordshtml": [
+            "slaughter",
+            "do.<span class=\"sc\">cv</span>",
+            "skin",
+            "take.off-<span class=\"sc\">cv</span>"
+        ],
+        "imtwordstex": [
+            "slaughter",
+            "do.\\textsc{cv}",
+            "skin",
+            "take.off-\\textsc{cv}"
+        ],
+        "src": "hal\u00e1al the \\textbf{p\u00faustu} \u0261ha\u1e0d-\u00ed",
+        "srcwordshtml": [
+            "hal\u00e1al",
+            "the",
+            "<span class=\"bf\">p\u00faustu</span>",
+            "\u0261ha\u1e0d-\u00ed"
+        ],
+        "srcwordstex": [
+            "hal\u00e1al",
+            "the",
+            "\\textbf{p\u00faustu}",
+            "\u0261ha\u1e0d-\u00ed"
+        ],
+        "trs": "After slaughtering it, he took off the skin.' (B:SHB732)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{def.msg.nom} traveller coat \\textsc{refl} body-\\textsc{obl} toward fold-\\textsc{3sg} \\textsc{pst}",
+        "imtwordshtml": [
+            "<span class=\"sc\">def.msg.nom</span>",
+            "traveller",
+            "coat",
+            "<span class=\"sc\">refl</span>",
+            "body-<span class=\"sc\">obl</span>",
+            "toward",
+            "fold-<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{def.msg.nom}",
+            "traveller",
+            "coat",
+            "\\textsc{refl}",
+            "body-\\textsc{obl}",
+            "toward",
+            "fold-\\textsc{3sg}",
+            "\\textsc{pst}"
+        ],
+        "src": "so \\textbf{musaafa\u0301r} \u0161ukhaa\u0301u tee\u1e47i\u0301i hu\u01f0ut-i\u0301 phare\u0301 pail-o\u0301o de",
+        "srcwordshtml": [
+            "so",
+            "<span class=\"bf\">musaafa\u0301r</span>",
+            "\u0161ukhaa\u0301u",
+            "tee\u1e47i\u0301i",
+            "hu\u01f0ut-i\u0301",
+            "phare\u0301",
+            "pail-o\u0301o",
+            "de"
+        ],
+        "srcwordstex": [
+            "so",
+            "\\textbf{musaafa\u0301r}",
+            "\u0161ukhaa\u0301u",
+            "tee\u1e47i\u0301i",
+            "hu\u01f0ut-i\u0301",
+            "phare\u0301",
+            "pail-o\u0301o",
+            "de"
+        ],
+        "trs": "The traveler was folding his cloak around him.' (A:NOR006)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{red}-\\textsc{refl} house-\\textsc{pl.obl} to go.\\textsc{imp.pl}",
+        "imtwordshtml": [
+            "<span class=\"sc\">red</span>-<span class=\"sc\">refl</span>",
+            "house-<span class=\"sc\">pl.obl</span>",
+            "to",
+            "go.<span class=\"sc\">imp.pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{red}-\\textsc{refl}",
+            "house-\\textsc{pl.obl}",
+            "to",
+            "go.\\textsc{imp.pl}"
+        ],
+        "src": "te\u1e47-tee\u1e47\u00edi \\textbf{\u0261hoo\u1e63\u1e6d-\u00e1am} the b\u00fai",
+        "srcwordshtml": [
+            "te\u1e47-tee\u1e47\u00edi",
+            "<span class=\"bf\">\u0261hoo\u1e63\u1e6d-\u00e1am</span>",
+            "the",
+            "b\u00fai"
+        ],
+        "srcwordstex": [
+            "te\u1e47-tee\u1e47\u00edi",
+            "\\textbf{\u0261hoo\u1e63\u1e6d-\u00e1am}",
+            "the",
+            "b\u00fai"
+        ],
+        "trs": "Go each to your own houses!' (B:DHE5705)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "ram-\\textsc{obl} say.\\textsc{pfv\"=msg} \\textsc{comp} impatient \\textsc{neg} become-\\textsc{imp.pl=q}",
+        "imtwordshtml": [
+            "ram-<span class=\"sc\">obl</span>",
+            "say.<span class=\"sc\">pfv\"=msg</span>",
+            "<span class=\"sc\">comp</span>",
+            "impatient",
+            "<span class=\"sc\">neg</span>",
+            "become-<span class=\"sc\">imp.pl=q</span>"
+        ],
+        "imtwordstex": [
+            "ram-\\textsc{obl}",
+            "say.\\textsc{pfv\"=msg}",
+            "\\textsc{comp}",
+            "impatient",
+            "\\textsc{neg}",
+            "become-\\textsc{imp.pl=q}"
+        ],
+        "src": "\\textbf{m\u00ed\u1e0d-a} man\u00edit-u ki beedawa\u00e1 na bh-\u00fauy=a",
+        "srcwordshtml": [
+            "<span class=\"bf\">m\u00ed\u1e0d-a</span>",
+            "man\u00edit-u",
+            "ki",
+            "beedawa\u00e1",
+            "na",
+            "bh-\u00fauy=a"
+        ],
+        "srcwordstex": [
+            "\\textbf{m\u00ed\u1e0d-a}",
+            "man\u00edit-u",
+            "ki",
+            "beedawa\u00e1",
+            "na",
+            "bh-\u00fauy=a"
+        ],
+        "trs": "The ram said: Let's not be impatient!' (B:SHI005)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "before time.\\textsc{gen} Kalkatak-\\textsc{obl} one man be.\\textsc{pst}",
+        "imtwordshtml": [
+            "before",
+            "time.<span class=\"sc\">gen</span>",
+            "Kalkatak-<span class=\"sc\">obl</span>",
+            "one",
+            "man",
+            "be.<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "before",
+            "time.\\textsc{gen}",
+            "Kalkatak-\\textsc{obl}",
+            "one",
+            "man",
+            "be.\\textsc{pst}"
+        ],
+        "src": "mux\u00e1ak zaman\u00e9e \\textbf{\u0261ala\u1e6du\u0301uk-a} ak me\u0301e\u0161 de",
+        "srcwordshtml": [
+            "mux\u00e1ak",
+            "zaman\u00e9e",
+            "<span class=\"bf\">\u0261ala\u1e6du\u0301uk-a</span>",
+            "ak",
+            "me\u0301e\u0161",
+            "de"
+        ],
+        "srcwordstex": [
+            "mux\u00e1ak",
+            "zaman\u00e9e",
+            "\\textbf{\u0261ala\u1e6du\u0301uk-a}",
+            "ak",
+            "me\u0301e\u0161",
+            "de"
+        ],
+        "trs": "Once there was a~man in Kalkatak.' (B:FLW774)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{1sg.nom} \\textsc{refl} son-\\textsc{obl} tea give.to.drink-\\textsc{prs\"=msg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.nom</span>",
+            "<span class=\"sc\">refl</span>",
+            "son-<span class=\"sc\">obl</span>",
+            "tea",
+            "give.to.drink-<span class=\"sc\">prs\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.nom}",
+            "\\textsc{refl}",
+            "son-\\textsc{obl}",
+            "tea",
+            "give.to.drink-\\textsc{prs\"=msg}"
+        ],
+        "src": "ma tee\u1e47\u00edi \\textbf{putr-\u00e1} \u010d\u00e9i pila-\u00e1an-u",
+        "srcwordshtml": [
+            "ma",
+            "tee\u1e47\u00edi",
+            "<span class=\"bf\">putr-\u00e1</span>",
+            "\u010d\u00e9i",
+            "pila-\u00e1an-u"
+        ],
+        "srcwordstex": [
+            "ma",
+            "tee\u1e47\u00edi",
+            "\\textbf{putr-\u00e1}",
+            "\u010d\u00e9i",
+            "pila-\u00e1an-u"
+        ],
+        "trs": "I make my son drink tea.' (A:DHE6693)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "sword-\\textsc{obl\"=gen} wound quickly whole become-\\textsc{prs\"=msg}",
+        "imtwordshtml": [
+            "sword-<span class=\"sc\">obl\"=gen</span>",
+            "wound",
+            "quickly",
+            "whole",
+            "become-<span class=\"sc\">prs\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "sword-\\textsc{obl\"=gen}",
+            "wound",
+            "quickly",
+            "whole",
+            "become-\\textsc{prs\"=msg}"
+        ],
+        "src": "\\textbf{khan\u0261ar-\u00edi-e} z\u00e1xum lab sa\u00e1z bh-\u00e1an-u",
+        "srcwordshtml": [
+            "<span class=\"bf\">khan\u0261ar-\u00edi-e</span>",
+            "z\u00e1xum",
+            "lab",
+            "sa\u00e1z",
+            "bh-\u00e1an-u"
+        ],
+        "srcwordstex": [
+            "\\textbf{khan\u0261ar-\u00edi-e}",
+            "z\u00e1xum",
+            "lab",
+            "sa\u00e1z",
+            "bh-\u00e1an-u"
+        ],
+        "trs": "The wound of a~sword heals quickly.' (B:PRB018)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{1sg.nom} wooden-\\textsc{obl.pl\"=gen} house whole do-\\textsc{prs\"=msg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.nom</span>",
+            "wooden-<span class=\"sc\">obl.pl\"=gen</span>",
+            "house",
+            "whole",
+            "do-<span class=\"sc\">prs\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.nom}",
+            "wooden-\\textsc{obl.pl\"=gen}",
+            "house",
+            "whole",
+            "do-\\textsc{prs\"=msg}"
+        ],
+        "src": "ma \\textbf{\u0161aak-\u00faum-e} \u0261ho\u00f3\u1e63\u1e6d sa\u00e1z th-\u00e1an-u",
+        "srcwordshtml": [
+            "ma",
+            "<span class=\"bf\">\u0161aak-\u00faum-e</span>",
+            "\u0261ho\u00f3\u1e63\u1e6d",
+            "sa\u00e1z",
+            "th-\u00e1an-u"
+        ],
+        "srcwordstex": [
+            "ma",
+            "\\textbf{\u0161aak-\u00faum-e}",
+            "\u0261ho\u00f3\u1e63\u1e6d",
+            "sa\u00e1z",
+            "th-\u00e1an-u"
+        ],
+        "trs": "I'm building a~wood house.' (B:DHE6733)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{1sg.nom} Chitral-\\textsc{gen} come.down-\\textsc{prs\"=msg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.nom</span>",
+            "Chitral-<span class=\"sc\">gen</span>",
+            "come.down-<span class=\"sc\">prs\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.nom}",
+            "Chitral-\\textsc{gen}",
+            "come.down-\\textsc{prs\"=msg}"
+        ],
+        "src": "ma \\textbf{c\u0323hetr\u00faul-e} wh-\u00e1and-u",
+        "srcwordshtml": [
+            "ma",
+            "<span class=\"bf\">c\u0323hetr\u00faul-e</span>",
+            "wh-\u00e1and-u"
+        ],
+        "srcwordstex": [
+            "ma",
+            "\\textbf{c\u0323hetr\u00faul-e}",
+            "wh-\u00e1and-u"
+        ],
+        "trs": "I'm coming [down] from Chitral.' (B:DHE4795)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{1sg.nom} Kotgha.\\textsc{gen} from come.\\textsc{pfv\"=msg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.nom</span>",
+            "Kotgha.<span class=\"sc\">gen</span>",
+            "from",
+            "come.<span class=\"sc\">pfv\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.nom}",
+            "Kotgha.\\textsc{gen}",
+            "from",
+            "come.\\textsc{pfv\"=msg}"
+        ],
+        "src": "ma \\textbf{koo\u1e0d\u0261h\u00e1ii} th\u00edi yh\u00f3ol-u",
+        "srcwordshtml": [
+            "ma",
+            "<span class=\"bf\">koo\u1e0d\u0261h\u00e1ii</span>",
+            "th\u00edi",
+            "yh\u00f3ol-u"
+        ],
+        "srcwordstex": [
+            "ma",
+            "\\textbf{koo\u1e0d\u0261h\u00e1ii}",
+            "th\u00edi",
+            "yh\u00f3ol-u"
+        ],
+        "trs": "I came from Kotgha.' (A:HLE2265)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{1sg.nom} leaf take-\\textsc{cv} fly-\\textsc{obl.pl\"=gen} hit-\\textsc{prs\"=msg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.nom</span>",
+            "leaf",
+            "take-<span class=\"sc\">cv</span>",
+            "fly-<span class=\"sc\">obl.pl\"=gen</span>",
+            "hit-<span class=\"sc\">prs\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.nom}",
+            "leaf",
+            "take-\\textsc{cv}",
+            "fly-\\textsc{obl.pl\"=gen}",
+            "hit-\\textsc{prs\"=msg}"
+        ],
+        "src": "ma paala\u00e1 \u0261hin-\u00ed \\textbf{ph\u00fat-am-e} \u01f0-\u00e1an-u",
+        "srcwordshtml": [
+            "ma",
+            "paala\u00e1",
+            "\u0261hin-\u00ed",
+            "<span class=\"bf\">ph\u00fat-am-e</span>",
+            "\u01f0-\u00e1an-u"
+        ],
+        "srcwordstex": [
+            "ma",
+            "paala\u00e1",
+            "\u0261hin-\u00ed",
+            "\\textbf{ph\u00fat-am-e}",
+            "\u01f0-\u00e1an-u"
+        ],
+        "trs": "I'm driving away flies with leaves.' (B:DHN4851)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "\\textsc{def} man-\\textsc{obl} \\textsc{top} from.above from \\textsc{def} spirit-\\textsc{gen} gun-\\textsc{ins} hit.\\textsc{pfv-f}",
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "man-<span class=\"sc\">obl</span>",
+            "<span class=\"sc\">top</span>",
+            "from.above",
+            "from",
+            "<span class=\"sc\">def</span>",
+            "spirit-<span class=\"sc\">gen</span>",
+            "gun-<span class=\"sc\">ins</span>",
+            "hit.<span class=\"sc\">pfv-f</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "man-\\textsc{obl}",
+            "\\textsc{top}",
+            "from.above",
+            "from",
+            "\\textsc{def}",
+            "spirit-\\textsc{gen}",
+            "gun-\\textsc{ins}",
+            "hit.\\textsc{pfv-f}"
+        ],
+        "src": "se m\u00edi\u0161-a ba hu\u1e47\u1e0d\u00edi th\u00edi se bhala\u0301-ii \\textbf{toobak-\u00edim} \u01f0\u00edt-i",
+        "srcwordshtml": [
+            "se",
+            "m\u00edi\u0161-a",
+            "ba",
+            "hu\u1e47\u1e0d\u00edi",
+            "th\u00edi",
+            "se",
+            "bhala\u0301-ii",
+            "<span class=\"bf\">toobak-\u00edim</span>",
+            "\u01f0\u00edt-i"
+        ],
+        "srcwordstex": [
+            "se",
+            "m\u00edi\u0161-a",
+            "ba",
+            "hu\u1e47\u1e0d\u00edi",
+            "th\u00edi",
+            "se",
+            "bhala\u0301-ii",
+            "\\textbf{toobak-\u00edim}",
+            "\u01f0\u00edt-i"
+        ],
+        "trs": "The man shot from above with his gun at the spirit.' (A:WOM671)"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "father's.sister.\\textsc{voc} fine-\\textsc{f=q}",
+        "imtwordshtml": [
+            "father's.sister.<span class=\"sc\">voc</span>",
+            "fine-<span class=\"sc\">f=q</span>"
+        ],
+        "imtwordstex": [
+            "father's.sister.\\textsc{voc}",
+            "fine-\\textsc{f=q}"
+        ],
+        "src": "\\textbf{ph\u00e9ep} s\u00e9er-i=ee",
+        "srcwordshtml": [
+            "<span class=\"bf\">ph\u00e9ep</span>",
+            "s\u00e9er-i=ee"
+        ],
+        "srcwordstex": [
+            "\\textbf{ph\u00e9ep}",
+            "s\u00e9er-i=ee"
+        ],
+        "trs": "How are you auntie [politely addressing any middle\"=aged woman]?' \\newline(A:HLE3088) [\\textit{ph\u00e9epi} in \\textsc{nom.sg}]"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "father's.father.\\textsc{voc} fine-\\textsc{msg=q}",
+        "imtwordshtml": [
+            "father's.father.<span class=\"sc\">voc</span>",
+            "fine-<span class=\"sc\">msg=q</span>"
+        ],
+        "imtwordstex": [
+            "father's.father.\\textsc{voc}",
+            "fine-\\textsc{msg=q}"
+        ],
+        "src": "\\textbf{d\u00f3od} s\u00f3or-u=ee",
+        "srcwordshtml": [
+            "<span class=\"bf\">d\u00f3od</span>",
+            "s\u00f3or-u=ee"
+        ],
+        "srcwordstex": [
+            "\\textbf{d\u00f3od}",
+            "s\u00f3or-u=ee"
+        ],
+        "trs": "How are you grandpa [politely addressing any aged man]?' (A:HLE3090) [\\textit{d\u00f3odu} in \\textsc{nom.sg}]"
+    },
+    {
+        "filename": "82/04Nouns.tex",
+        "imt": "he field\\textsc{-``locative''} [=field-\\textsc{obl} in] appear.\\textsc{pfv\"=msg}",
+        "imtwordshtml": [
+            "he",
+            "field<span class=\"sc\">-``locative''</span>",
+            "[=field-<span class=\"sc\">obl</span>",
+            "in]",
+            "appear.<span class=\"sc\">pfv\"=msg</span>"
+        ],
+        "imtwordstex": [
+            "he",
+            "field\\textsc{-``locative''}",
+            "[=field-\\textsc{obl}",
+            "in]",
+            "appear.\\textsc{pfv\"=msg}"
+        ],
+        "src": "so \\textbf{meed\u00f3on\"=ee} (=meed\u00f3on-a w\u00e9e) nikh\u00e1at-u",
+        "srcwordshtml": [
+            "so",
+            "<span class=\"bf\">meed\u00f3on\"=ee</span>",
+            "(=meed\u00f3on-a",
+            "w\u00e9e)",
+            "nikh\u00e1at-u"
+        ],
+        "srcwordstex": [
+            "so",
+            "\\textbf{meed\u00f3on\"=ee}",
+            "(=meed\u00f3on-a",
+            "w\u00e9e)",
+            "nikh\u00e1at-u"
+        ],
+        "trs": "He appeared in the field.' (A:ROP003)"
+    }
+]

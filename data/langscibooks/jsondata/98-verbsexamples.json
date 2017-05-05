@@ -1,0 +1,178 @@
+[
+    {
+        "filename": "98/verbs.tex",
+        "imt": "want:\\textsc{3pl}   hidden:\\textsc{pass-acc}",
+        "imtwordshtml": [
+            "want:<span class=\"sc\">3pl</span>",
+            "hidden:<span class=\"sc\">pass-acc</span>"
+        ],
+        "imtwordstex": [
+            "want:\\textsc{3pl}",
+            "hidden:\\textsc{pass-acc}"
+        ],
+        "src": "B\\'{\u025b}\u0257\u00e1ta   b\u00fad\\textbf{\u00f2s\u00ec}-k\u1d43.",
+        "srcwordshtml": [
+            "B\\'{\u025b}\u0257\u00e1ta",
+            "b\u00fad<span class=\"bf\">\u00f2s\u00ec</span>-k\u1d43."
+        ],
+        "srcwordstex": [
+            "B\\'{\u025b}\u0257\u00e1ta",
+            "b\u00fad\\textbf{\u00f2s\u00ec}-k\u1d43."
+        ],
+        "trs": "They want to be hidden."
+    },
+    {
+        "filename": "98/verbs.tex",
+        "imt": "hidden:\\textsc{pass}{}-\\textsc{3pl:real}",
+        "imtwordshtml": [
+            "hidden:<span class=\"sc\">pass</span>{}-<span class=\"sc\">3pl:real</span>"
+        ],
+        "imtwordstex": [
+            "hidden:\\textsc{pass}{}-\\textsc{3pl:real}"
+        ],
+        "src": "B\u00fad\\textbf{os}-\u00e1t\u1d43.",
+        "srcwordshtml": [
+            "B\u00fad<span class=\"bf\">os</span>-\u00e1t\u1d43."
+        ],
+        "srcwordstex": [
+            "B\u00fad\\textbf{os}-\u00e1t\u1d43."
+        ],
+        "trs": "They are hidden."
+    },
+    {
+        "filename": "98/verbs.tex",
+        "imt": "beat:\\textsc{fut:ips}  you[\\textsc{sg}]:\\textsc{nom}",
+        "imtwordshtml": [
+            "beat:<span class=\"sc\">fut:ips</span>",
+            "you[<span class=\"sc\">sg</span>]:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "beat:\\textsc{fut:ips}",
+            "you[\\textsc{sg}]:\\textsc{nom}"
+        ],
+        "src": "\u0197n\\'{\u0254}m\\'{\u025b}s\\textbf{\u00e0n}{\u00e0}   b\u00ec.",
+        "srcwordshtml": [
+            "\u0197n\\'{\u0254}m\\'{\u025b}s<span class=\"bf\">\u00e0n</span>{\u00e0}",
+            "b\u00ec."
+        ],
+        "srcwordstex": [
+            "\u0197n\\'{\u0254}m\\'{\u025b}s\\textbf{\u00e0n}{\u00e0}",
+            "b\u00ec."
+        ],
+        "trs": "You will be beaten."
+    },
+    {
+        "filename": "98/verbs.tex",
+        "imt": "go:\\textsc{plur:ips} hunt:inside:\\textsc{dat}",
+        "imtwordshtml": [
+            "go:<span class=\"sc\">plur:ips</span>",
+            "hunt:inside:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "go:\\textsc{plur:ips}",
+            "hunt:inside:\\textsc{dat}"
+        ],
+        "src": "\u0198a\u00ed\\textbf{\u00e1n}{\u00e0}   \u0199\u00e0\u0199\u00e0\u00e0\u0199\\`{\u0254}k\\\u1d4b.",
+        "srcwordshtml": [
+            "\u0198a\u00ed<span class=\"bf\">\u00e1n</span>{\u00e0}",
+            "\u0199\u00e0\u0199\u00e0\u00e0\u0199\\`{\u0254}k\\\u1d4b."
+        ],
+        "srcwordstex": [
+            "\u0198a\u00ed\\textbf{\u00e1n}{\u00e0}",
+            "\u0199\u00e0\u0199\u00e0\u00e0\u0199\\`{\u0254}k\\\u1d4b."
+        ],
+        "trs": "People go hunting.\u2019 (Lit. \u2018It is gone for hunting.\u2019)"
+    },
+    {
+        "filename": "98/verbs.tex",
+        "imt": "want:\\textsc{3pl:real}   next.to:\\textsc{recip-acc}",
+        "imtwordshtml": [
+            "want:<span class=\"sc\">3pl:real</span>",
+            "next.to:<span class=\"sc\">recip-acc</span>"
+        ],
+        "imtwordstex": [
+            "want:\\textsc{3pl:real}",
+            "next.to:\\textsc{recip-acc}"
+        ],
+        "src": "B\\'{\u025b}\u0257\u00e1ta     \u0268\u0253\u00e1k\\textbf{{\\\u00cd}n\\'{\u0254}s{\\\u00cd}}-k\u1d43.",
+        "srcwordshtml": [
+            "B\\'{\u025b}\u0257\u00e1ta",
+            "\u0268\u0253\u00e1k<span class=\"bf\">{\\\u00cd</span>n\\'{\u0254}s{\\\u00cd}}-k\u1d43."
+        ],
+        "srcwordstex": [
+            "B\\'{\u025b}\u0257\u00e1ta",
+            "\u0268\u0253\u00e1k\\textbf{{\\\u00cd}n\\'{\u0254}s{\\\u00cd}}-k\u1d43."
+        ],
+        "trs": "They want to be next to each other."
+    },
+    {
+        "filename": "98/verbs.tex",
+        "imt": "next.to:\\textsc{recip-3pl:real}",
+        "imtwordshtml": [
+            "next.to:<span class=\"sc\">recip-3pl:real</span>"
+        ],
+        "imtwordstex": [
+            "next.to:\\textsc{recip-3pl:real}"
+        ],
+        "src": "\u0197\u0253\u00e1k\\textbf{{\\\u00cd}n\\'{\u0254}s}-\u00e1t\u1d43.",
+        "srcwordshtml": [
+            "\u0197\u0253\u00e1k<span class=\"bf\">{\\\u00cd</span>n\\'{\u0254}s}-\u00e1t\u1d43."
+        ],
+        "srcwordstex": [
+            "\u0197\u0253\u00e1k\\textbf{{\\\u00cd}n\\'{\u0254}s}-\u00e1t\u1d43."
+        ],
+        "trs": "They are next to each other."
+    },
+    {
+        "filename": "98/verbs.tex",
+        "imt": "it:\\textsc{cop}=\\textsc{past}    Ik:\\textsc{acc}   go:\\textsc{3pl:real-dp}",
+        "imtwordshtml": [
+            "it:<span class=\"sc\">cop</span>=<span class=\"sc\">past</span>",
+            "Ik:<span class=\"sc\">acc</span>",
+            "go:<span class=\"sc\">3pl:real-dp</span>"
+        ],
+        "imtwordstex": [
+            "it:\\textsc{cop}=\\textsc{past}",
+            "Ik:\\textsc{acc}",
+            "go:\\textsc{3pl:real-dp}"
+        ],
+        "src": "Nts\u00fa\u00f3=noo     Ic\u00e9\u00e1     \u0199\u00e1\u00e1t\u00e0-\\textbf{d\\\u1d49}.",
+        "srcwordshtml": [
+            "Nts\u00fa\u00f3=noo",
+            "Ic\u00e9\u00e1",
+            "\u0199\u00e1\u00e1t\u00e0-<span class=\"bf\">d\\\u1d49</span>."
+        ],
+        "srcwordstex": [
+            "Nts\u00fa\u00f3=noo",
+            "Ic\u00e9\u00e1",
+            "\u0199\u00e1\u00e1t\u00e0-\\textbf{d\\\u1d49}."
+        ],
+        "trs": "It\u2019s where the Ik went (to)."
+    },
+    {
+        "filename": "98/verbs.tex",
+        "imt": "stay:\\textsc{3sg:seq-dp}   other:\\textsc{nom}   people:\\textsc{gen}",
+        "imtwordshtml": [
+            "stay:<span class=\"sc\">3sg:seq-dp</span>",
+            "other:<span class=\"sc\">nom</span>",
+            "people:<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "stay:\\textsc{3sg:seq-dp}",
+            "other:\\textsc{nom}",
+            "people:\\textsc{gen}"
+        ],
+        "src": "J\u02bc\u025b\u029d\u0289k\\'{\u0254}-\\textbf{\\'{\u0254}}     s\u00e0\u00e0     r\u00f2\u0253\u00e0\u1d49.",
+        "srcwordshtml": [
+            "J\u02bc\u025b\u029d\u0289k\\'{\u0254}-<span class=\"bf\">\\'{\u0254</span>}",
+            "s\u00e0\u00e0",
+            "r\u00f2\u0253\u00e0\u1d49."
+        ],
+        "srcwordstex": [
+            "J\u02bc\u025b\u029d\u0289k\\'{\u0254}-\\textbf{\\'{\u0254}}",
+            "s\u00e0\u00e0",
+            "r\u00f2\u0253\u00e0\u1d49."
+        ],
+        "trs": "And other people stayed (there)."
+    }
+]

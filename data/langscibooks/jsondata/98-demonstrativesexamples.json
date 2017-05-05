@@ -1,0 +1,250 @@
+[
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "man:\\textsc{cop}  this.one:\\textsc{nom}=\\textsc{dem.sg.prox}",
+        "imtwordshtml": [
+            "man:<span class=\"sc\">cop</span>",
+            "this.one:<span class=\"sc\">nom</span>=<span class=\"sc\">dem.sg.prox</span>"
+        ],
+        "imtwordstex": [
+            "man:\\textsc{cop}",
+            "this.one:\\textsc{nom}=\\textsc{dem.sg.prox}"
+        ],
+        "src": "Eakw\u00f3\u00f3   \u0257a=\\textbf{n}.",
+        "srcwordshtml": [
+            "Eakw\u00f3\u00f3",
+            "\u0257a=<span class=\"bf\">n</span>."
+        ],
+        "srcwordstex": [
+            "Eakw\u00f3\u00f3",
+            "\u0257a=\\textbf{n}."
+        ],
+        "trs": "This one is a man."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "cut:\\textsc{sps}   then   forest=\\textsc{dem.sg.dist}",
+        "imtwordshtml": [
+            "cut:<span class=\"sc\">sps</span>",
+            "then",
+            "forest=<span class=\"sc\">dem.sg.dist</span>"
+        ],
+        "imtwordstex": [
+            "cut:\\textsc{sps}",
+            "then",
+            "forest=\\textsc{dem.sg.dist}"
+        ],
+        "src": "K\u00e1wese   koto   r\u00ed\u029d\u00e1=\\textbf{ke}.",
+        "srcwordshtml": [
+            "K\u00e1wese",
+            "koto",
+            "r\u00ed\u029d\u00e1=<span class=\"bf\">ke</span>."
+        ],
+        "srcwordstex": [
+            "K\u00e1wese",
+            "koto",
+            "r\u00ed\u029d\u00e1=\\textbf{ke}."
+        ],
+        "trs": "And then that forest over there was cut down."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "return:\\textsc{ven:imp}   one:\\textsc{obl=dem.sg.rec}",
+        "imtwordshtml": [
+            "return:<span class=\"sc\">ven:imp</span>",
+            "one:<span class=\"sc\">obl=dem.sg.rec</span>"
+        ],
+        "imtwordstex": [
+            "return:\\textsc{ven:imp}",
+            "one:\\textsc{obl=dem.sg.rec}"
+        ],
+        "src": "R\u00e1\u029d\u00e9te     \u0257\u0268=\\textbf{n\u00e1k\\\u1d43}.",
+        "srcwordshtml": [
+            "R\u00e1\u029d\u00e9te",
+            "\u0257\u0268=<span class=\"bf\">n\u00e1k\\\u1d43</span>."
+        ],
+        "srcwordstex": [
+            "R\u00e1\u029d\u00e9te",
+            "\u0257\u0268=\\textbf{n\u00e1k\\\u1d43}."
+        ],
+        "trs": "Give back the earlier one."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "bad:\\textsc{3sg}   year:\\textsc{nom}=\\textsc{dem.sg.rem}   Lopiar.\\textsc{gen} very",
+        "imtwordshtml": [
+            "bad:<span class=\"sc\">3sg</span>",
+            "year:<span class=\"sc\">nom</span>=<span class=\"sc\">dem.sg.rem</span>",
+            "Lopiar.<span class=\"sc\">gen</span>",
+            "very"
+        ],
+        "imtwordstex": [
+            "bad:\\textsc{3sg}",
+            "year:\\textsc{nom}=\\textsc{dem.sg.rem}",
+            "Lopiar.\\textsc{gen}",
+            "very"
+        ],
+        "src": "Gaana   ka\u0268na=\\textbf{n\u00f3tso}       Lop\u00edar{\\\u00cd}\\'{\u025b}     z\u00f9k\u1d58.",
+        "srcwordshtml": [
+            "Gaana",
+            "ka\u0268na=<span class=\"bf\">n\u00f3tso</span>",
+            "Lop\u00edar{\\\u00cd}\\'{\u025b}",
+            "z\u00f9k\u1d58."
+        ],
+        "srcwordstex": [
+            "Gaana",
+            "ka\u0268na=\\textbf{n\u00f3tso}",
+            "Lop\u00edar{\\\u00cd}\\'{\u025b}",
+            "z\u00f9k\u1d58."
+        ],
+        "trs": "That year (a while back) of Lopiar was very bad."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "be.important:\\textsc{3sg}   tradition:\\textsc{nom}=\\textsc{anaph.sg}",
+        "imtwordshtml": [
+            "be.important:<span class=\"sc\">3sg</span>",
+            "tradition:<span class=\"sc\">nom</span>=<span class=\"sc\">anaph.sg</span>"
+        ],
+        "imtwordstex": [
+            "be.important:\\textsc{3sg}",
+            "tradition:\\textsc{nom}=\\textsc{anaph.sg}"
+        ],
+        "src": "It\u00ed\u00f3na     \u0272atala=\\textbf{d\u00e9\u00e9}.",
+        "srcwordshtml": [
+            "It\u00ed\u00f3na",
+            "\u0272atala=<span class=\"bf\">d\u00e9\u00e9</span>."
+        ],
+        "srcwordstex": [
+            "It\u00ed\u00f3na",
+            "\u0272atala=\\textbf{d\u00e9\u00e9}."
+        ],
+        "trs": "That tradition (already discussed) is important."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "come:\\textsc{3sg}=\\textsc{pst}   people:\\textsc{nom}=\\textsc{anaph.pl}  Ethiopia:\\textsc{abl}",
+        "imtwordshtml": [
+            "come:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst</span>",
+            "people:<span class=\"sc\">nom</span>=<span class=\"sc\">anaph.pl</span>",
+            "Ethiopia:<span class=\"sc\">abl</span>"
+        ],
+        "imtwordstex": [
+            "come:\\textsc{3sg}=\\textsc{pst}",
+            "people:\\textsc{nom}=\\textsc{anaph.pl}",
+            "Ethiopia:\\textsc{abl}"
+        ],
+        "src": "Atsa=noo     ro\u0253a=\\textbf{d\u00ed\u00ed}            S\u00f3p\u00ec\u00e0\u1d52.",
+        "srcwordshtml": [
+            "Atsa=noo",
+            "ro\u0253a=<span class=\"bf\">d\u00ed\u00ed</span>",
+            "S\u00f3p\u00ec\u00e0\u1d52."
+        ],
+        "srcwordstex": [
+            "Atsa=noo",
+            "ro\u0253a=\\textbf{d\u00ed\u00ed}",
+            "S\u00f3p\u00ec\u00e0\u1d52."
+        ],
+        "trs": "Those people (already mentioned) came from Ethiopia."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "reach:\\textsc{1sg}=\\textsc{pst}   there=\\textsc{dem.sg.dist}",
+        "imtwordshtml": [
+            "reach:<span class=\"sc\">1sg</span>=<span class=\"sc\">pst</span>",
+            "there=<span class=\"sc\">dem.sg.dist</span>"
+        ],
+        "imtwordstex": [
+            "reach:\\textsc{1sg}=\\textsc{pst}",
+            "there=\\textsc{dem.sg.dist}"
+        ],
+        "src": "\u0197{t\u00e1{\\\u00cd}a=bee}     k{\\\u00cd}x\u00e1nee=k\u1d49.",
+        "srcwordshtml": [
+            "\u0197{t\u00e1{\\\u00cd}a=bee}",
+            "k{\\\u00cd}x\u00e1nee=k\u1d49."
+        ],
+        "srcwordstex": [
+            "\u0197{t\u00e1{\\\u00cd}a=bee}",
+            "k{\\\u00cd}x\u00e1nee=k\u1d49."
+        ],
+        "trs": "I reached there yesterday."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "go:\\textsc{seq}   trade:\\textsc{acc}   there=\\textsc{dem.sg.med}",
+        "imtwordshtml": [
+            "go:<span class=\"sc\">seq</span>",
+            "trade:<span class=\"sc\">acc</span>",
+            "there=<span class=\"sc\">dem.sg.med</span>"
+        ],
+        "imtwordstex": [
+            "go:\\textsc{seq}",
+            "trade:\\textsc{acc}",
+            "there=\\textsc{dem.sg.med}"
+        ],
+        "src": "\u0198{aini}   dz\u00edgwaa   na\u00ed\u00e9=ne.",
+        "srcwordshtml": [
+            "\u0198{aini}",
+            "dz\u00edgwaa",
+            "na\u00ed\u00e9=ne."
+        ],
+        "srcwordstex": [
+            "\u0198{aini}",
+            "dz\u00edgwaa",
+            "na\u00ed\u00e9=ne."
+        ],
+        "trs": "And they went to do trade just right there."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "go:\\textsc{3sg=pst}   elephant(s):\\textsc{nom}=also   there:\\textsc{dat}",
+        "imtwordshtml": [
+            "go:<span class=\"sc\">3sg=pst</span>",
+            "elephant(s):<span class=\"sc\">nom</span>=also",
+            "there:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "go:\\textsc{3sg=pst}",
+            "elephant(s):\\textsc{nom}=also",
+            "there:\\textsc{dat}"
+        ],
+        "src": "\u0198{aa=noo}   \u00f3\u014bora=\u029d\u0268\u0268     ts\u02bc\\'{\u025b}d\\'{\u025b}\\'{\u025b}.",
+        "srcwordshtml": [
+            "\u0198{aa=noo}",
+            "\u00f3\u014bora=\u029d\u0268\u0268",
+            "ts\u02bc\\'{\u025b}d\\'{\u025b}\\'{\u025b}."
+        ],
+        "srcwordstex": [
+            "\u0198{aa=noo}",
+            "\u00f3\u014bora=\u029d\u0268\u0268",
+            "ts\u02bc\\'{\u025b}d\\'{\u025b}\\'{\u025b}."
+        ],
+        "trs": "Even the elephants went there (place already mentioned)."
+    },
+    {
+        "filename": "98/demonstratives.tex",
+        "imt": "appear:\\textsc{seq}   others:\\textsc{nom}   there:\\textsc{abl}",
+        "imtwordshtml": [
+            "appear:<span class=\"sc\">seq</span>",
+            "others:<span class=\"sc\">nom</span>",
+            "there:<span class=\"sc\">abl</span>"
+        ],
+        "imtwordstex": [
+            "appear:\\textsc{seq}",
+            "others:\\textsc{nom}",
+            "there:\\textsc{abl}"
+        ],
+        "src": "P\u025bl\\'{\u025b}m\u0289\u0254   saa     t\u0289m\u025bd\\'{\u0254}\\'{\u0254}.",
+        "srcwordshtml": [
+            "P\u025bl\\'{\u025b}m\u0289\u0254",
+            "saa",
+            "t\u0289m\u025bd\\'{\u0254}\\'{\u0254}."
+        ],
+        "srcwordstex": [
+            "P\u025bl\\'{\u025b}m\u0289\u0254",
+            "saa",
+            "t\u0289m\u025bd\\'{\u0254}\\'{\u0254}."
+        ],
+        "trs": "And others appeared from there (place already known)."
+    }
+]

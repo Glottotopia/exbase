@@ -1,0 +1,70 @@
+[
+    {
+        "filename": "78/12.tex",
+        "imt": "{}    snake  two",
+        "imtwordshtml": [
+            "{}",
+            "snake",
+            "two"
+        ],
+        "imtwordstex": [
+            "{}",
+            "snake",
+            "two"
+        ],
+        "src": "Wife:  ular  \\bluebold{dua}",
+        "srcwordshtml": [
+            "Wife:",
+            "ular",
+            "\\bluebold{dua}"
+        ],
+        "srcwordstex": [
+            "Wife:",
+            "ular",
+            "\\bluebold{dua}"
+        ],
+        "trs": "Wife: \u2018\\bluebold{two} snakes\u2019 (Lit. \u2018the snakes (were) \\bluebold{two}\u2019) \\textstyleExampleSource{[081006-022-CvEx.0002-0003]}"
+    },
+    {
+        "filename": "78/12.tex",
+        "imt": "\\textsc{1sg} go.out from house \\textsc{1sg} \\textsc{poss} parent",
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "go.out",
+            "from",
+            "house",
+            "<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">poss</span>",
+            "parent"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "go.out",
+            "from",
+            "house",
+            "\\textsc{1sg}",
+            "\\textsc{poss}",
+            "parent"
+        ],
+        "src": "sa \\textitbf{kluar} \\textitbf{dari} \\textitbf{ruma} sa punya orang-tua",
+        "srcwordshtml": [
+            "sa",
+            "<span class=\"itbf\">kluar</span>",
+            "<span class=\"itbf\">dari</span>",
+            "<span class=\"itbf\">ruma</span>",
+            "sa",
+            "punya",
+            "orang-tua"
+        ],
+        "srcwordstex": [
+            "sa",
+            "\\textitbf{kluar}",
+            "\\textitbf{dari}",
+            "\\textitbf{ruma}",
+            "sa",
+            "punya",
+            "orang-tua"
+        ],
+        "trs": "I \\bluebold{left home}, my parents\u2019 (Lit. \u2018\\bluebold{went out from} the house\u2019) [081115-001b-Cv.0045]"
+    }
+]

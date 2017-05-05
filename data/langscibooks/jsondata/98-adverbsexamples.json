@@ -1,0 +1,410 @@
+[
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "bad:\\textsc{3sg}   issues:\\textsc{nom}=those   very   completely",
+        "imtwordshtml": [
+            "bad:<span class=\"sc\">3sg</span>",
+            "issues:<span class=\"sc\">nom</span>=those",
+            "very",
+            "completely"
+        ],
+        "imtwordstex": [
+            "bad:\\textsc{3sg}",
+            "issues:\\textsc{nom}=those",
+            "very",
+            "completely"
+        ],
+        "src": "Gaana   m\u025bna=d\u00ed\u00ed     \\textbf{zuku}   \\textbf{\u029d{\\\u00cd}k\\\u1da4}.",
+        "srcwordshtml": [
+            "Gaana",
+            "m\u025bna=d\u00ed\u00ed",
+            "<span class=\"bf\">zuku</span>",
+            "<span class=\"bf\">\u029d{\\\u00cd</span>k\\\u1da4}."
+        ],
+        "srcwordstex": [
+            "Gaana",
+            "m\u025bna=d\u00ed\u00ed",
+            "\\textbf{zuku}",
+            "\\textbf{\u029d{\\\u00cd}k\\\u1da4}."
+        ],
+        "trs": "Those issues are really very bad!"
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "fat:\\textsc{dist:comp:3sg:seq}   people:\\textsc{nom}   completely",
+        "imtwordshtml": [
+            "fat:<span class=\"sc\">dist:comp:3sg:seq</span>",
+            "people:<span class=\"sc\">nom</span>",
+            "completely"
+        ],
+        "imtwordstex": [
+            "fat:\\textsc{dist:comp:3sg:seq}",
+            "people:\\textsc{nom}",
+            "completely"
+        ],
+        "src": "Z\u00edzaa\u0199\u00f3t\u00f9\u00f2       r\u00f2\u0253\u00e0     \\textbf{m\\`{\u0289}k\u00e0}.",
+        "srcwordshtml": [
+            "Z\u00edzaa\u0199\u00f3t\u00f9\u00f2",
+            "r\u00f2\u0253\u00e0",
+            "<span class=\"bf\">m\\`{\u0289</span>k\u00e0}."
+        ],
+        "srcwordstex": [
+            "Z\u00edzaa\u0199\u00f3t\u00f9\u00f2",
+            "r\u00f2\u0253\u00e0",
+            "\\textbf{m\\`{\u0289}k\u00e0}."
+        ],
+        "trs": "And the people fattened up completely!"
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "go:\\textsc{3sg}=\\textsc{pst2}   my.father:\\textsc{nom}   yesterday",
+        "imtwordshtml": [
+            "go:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst2</span>",
+            "my.father:<span class=\"sc\">nom</span>",
+            "yesterday"
+        ],
+        "imtwordstex": [
+            "go:\\textsc{3sg}=\\textsc{pst2}",
+            "my.father:\\textsc{nom}",
+            "yesterday"
+        ],
+        "src": "\u0198{\\'{a}\u00e1}=\\textbf{bee}   ab\u00e1\u014ba     s\u00e1\u00e1s\\`{\u0254}s{\\\u00cc}n.",
+        "srcwordshtml": [
+            "\u0198{\\'{a}\u00e1}=<span class=\"bf\">bee</span>",
+            "ab\u00e1\u014ba",
+            "s\u00e1\u00e1s\\`{\u0254}s{\\\u00cc}n."
+        ],
+        "srcwordstex": [
+            "\u0198{\\'{a}\u00e1}=\\textbf{bee}",
+            "ab\u00e1\u014ba",
+            "s\u00e1\u00e1s\\`{\u0254}s{\\\u00cc}n."
+        ],
+        "trs": "My father went yesterday."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "good:\\textsc{3sg}=\\textsc{pst4}   life:\\textsc{nom}   Ik:\\textsc{gen}",
+        "imtwordshtml": [
+            "good:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst4</span>",
+            "life:<span class=\"sc\">nom</span>",
+            "Ik:<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "good:\\textsc{3sg}=\\textsc{pst4}",
+            "life:\\textsc{nom}",
+            "Ik:\\textsc{gen}"
+        ],
+        "src": "Mar\u00e1\u014ba=\\textbf{noo}   \u0266yekesa   Ic\u00e9.",
+        "srcwordshtml": [
+            "Mar\u00e1\u014ba=<span class=\"bf\">noo</span>",
+            "\u0266yekesa",
+            "Ic\u00e9."
+        ],
+        "srcwordstex": [
+            "Mar\u00e1\u014ba=\\textbf{noo}",
+            "\u0266yekesa",
+            "Ic\u00e9."
+        ],
+        "trs": "The life of the Ik was good (back then)."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "when  come:\\textsc{1sg:dp}   go:\\textsc{3sg}=\\textsc{pst.prf}",
+        "imtwordshtml": [
+            "when",
+            "come:<span class=\"sc\">1sg:dp</span>",
+            "go:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst.prf</span>"
+        ],
+        "imtwordstex": [
+            "when",
+            "come:\\textsc{1sg:dp}",
+            "go:\\textsc{3sg}=\\textsc{pst.prf}"
+        ],
+        "src": "N\u00e1a   ats\u00ed\u00e2d\u1d49,     \u0199aa=\\textbf{nan\u00e1k\\\u1d43}.",
+        "srcwordshtml": [
+            "N\u00e1a",
+            "ats\u00ed\u00e2d\u1d49,",
+            "\u0199aa=<span class=\"bf\">nan\u00e1k\\\u1d43</span>."
+        ],
+        "srcwordstex": [
+            "N\u00e1a",
+            "ats\u00ed\u00e2d\u1d49,",
+            "\u0199aa=\\textbf{nan\u00e1k\\\u1d43}."
+        ],
+        "trs": "When I came earlier, she had (already) gone."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "then:\\textsc{ins}=\\textsc{dem}   die.\\textsc{3pl:comp}=\\textsc{pst.prf}",
+        "imtwordshtml": [
+            "then:<span class=\"sc\">ins</span>=<span class=\"sc\">dem</span>",
+            "die.<span class=\"sc\">3pl:comp</span>=<span class=\"sc\">pst.prf</span>"
+        ],
+        "imtwordstex": [
+            "then:\\textsc{ins}=\\textsc{dem}",
+            "die.\\textsc{3pl:comp}=\\textsc{pst.prf}"
+        ],
+        "src": "Ts\u02bc\\'{\u025b}d\\'{\u0254}\\'{\u0254}=n\u025b,   ts\u02bc\u00e9\u00ed\u0199ot\u00e1t\u00e0=\\textbf{n\u00e0n\u00f2k\\\u1d52}.",
+        "srcwordshtml": [
+            "Ts\u02bc\\'{\u025b}d\\'{\u0254}\\'{\u0254}=n\u025b,",
+            "ts\u02bc\u00e9\u00ed\u0199ot\u00e1t\u00e0=<span class=\"bf\">n\u00e0n\u00f2k\\\u1d52</span>."
+        ],
+        "srcwordstex": [
+            "Ts\u02bc\\'{\u025b}d\\'{\u0254}\\'{\u0254}=n\u025b,",
+            "ts\u02bc\u00e9\u00ed\u0199ot\u00e1t\u00e0=\\textbf{n\u00e0n\u00f2k\\\u1d52}."
+        ],
+        "trs": "By that (time), they had died out a while ago."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "come:\\textsc{1sg=pst}   just",
+        "imtwordshtml": [
+            "come:<span class=\"sc\">1sg=pst</span>",
+            "just"
+        ],
+        "imtwordstex": [
+            "come:\\textsc{1sg=pst}",
+            "just"
+        ],
+        "src": "Ats\u00ed\u00e1=n\u00e0\u00e0     \\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}.",
+        "srcwordshtml": [
+            "Ats\u00ed\u00e1=n\u00e0\u00e0",
+            "<span class=\"bf\">ts\u02bc\\`{\u0254</span>\\`{\u0254}}."
+        ],
+        "srcwordstex": [
+            "Ats\u00ed\u00e1=n\u00e0\u00e0",
+            "\\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}."
+        ],
+        "trs": "I just came."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "come:\\textsc{int:1sg}   soon",
+        "imtwordshtml": [
+            "come:<span class=\"sc\">int:1sg</span>",
+            "soon"
+        ],
+        "imtwordstex": [
+            "come:\\textsc{int:1sg}",
+            "soon"
+        ],
+        "src": "{Ats\u00e9s\u00ed\u00e0}     \\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}.",
+        "srcwordshtml": [
+            "{Ats\u00e9s\u00ed\u00e0}",
+            "<span class=\"bf\">ts\u02bc\\`{\u0254</span>\\`{\u0254}}."
+        ],
+        "srcwordstex": [
+            "{Ats\u00e9s\u00ed\u00e0}",
+            "\\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}."
+        ],
+        "trs": "I will come soon."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "come:\\textsc{1pl.exc}   next   morning:\\textsc{ins}",
+        "imtwordshtml": [
+            "come:<span class=\"sc\">1pl.exc</span>",
+            "next",
+            "morning:<span class=\"sc\">ins</span>"
+        ],
+        "imtwordstex": [
+            "come:\\textsc{1pl.exc}",
+            "next",
+            "morning:\\textsc{ins}"
+        ],
+        "src": "Ats\u00e9s\u00edma     \\textbf{t\u00e1\u00e1}   barats\u1d52.",
+        "srcwordshtml": [
+            "Ats\u00e9s\u00edma",
+            "<span class=\"bf\">t\u00e1\u00e1</span>",
+            "barats\u1d52."
+        ],
+        "srcwordstex": [
+            "Ats\u00e9s\u00edma",
+            "\\textbf{t\u00e1\u00e1}",
+            "barats\u1d52."
+        ],
+        "trs": "We will come tomorrow (i.e., next morning)."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "die:\\textsc{comp:3sg=infr}",
+        "imtwordshtml": [
+            "die:<span class=\"sc\">comp:3sg=infr</span>"
+        ],
+        "imtwordstex": [
+            "die:\\textsc{comp:3sg=infr}"
+        ],
+        "src": "Badu\u0199ota=\\textbf{n\u00e1b\u00e0ts\\\u1d49}.",
+        "srcwordshtml": [
+            "Badu\u0199ota=<span class=\"bf\">n\u00e1b\u00e0ts\\\u1d49</span>."
+        ],
+        "srcwordstex": [
+            "Badu\u0199ota=\\textbf{n\u00e1b\u00e0ts\\\u1d49}."
+        ],
+        "trs": "It died, apparently."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "\\textsc{infr}       die:\\textsc{comp:3sg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">infr</span>",
+            "die:<span class=\"sc\">comp:3sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{infr}",
+            "die:\\textsc{comp:3sg}"
+        ],
+        "src": "\\textbf{N\u00e1bee}    badu\u0199ot\u1d43.",
+        "srcwordshtml": [
+            "<span class=\"bf\">N\u00e1bee</span>",
+            "badu\u0199ot\u1d43."
+        ],
+        "srcwordstex": [
+            "\\textbf{N\u00e1bee}",
+            "badu\u0199ot\u1d43."
+        ],
+        "trs": "Apparently, it died."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "\\textsc{infr}     separate:\\textsc{3pl}",
+        "imtwordshtml": [
+            "<span class=\"sc\">infr</span>",
+            "separate:<span class=\"sc\">3pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{infr}",
+            "separate:\\textsc{3pl}"
+        ],
+        "src": "\\textbf{N\u00e1noo}   terem\u00e1t\u1d43.",
+        "srcwordshtml": [
+            "<span class=\"bf\">N\u00e1noo</span>",
+            "terem\u00e1t\u1d43."
+        ],
+        "srcwordstex": [
+            "\\textbf{N\u00e1noo}",
+            "terem\u00e1t\u1d43."
+        ],
+        "trs": "It looks like they separated."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "eat:\\textsc{comp:2sg=pst2}",
+        "imtwordshtml": [
+            "eat:<span class=\"sc\">comp:2sg=pst2</span>"
+        ],
+        "imtwordstex": [
+            "eat:\\textsc{comp:2sg=pst2}"
+        ],
+        "src": "\u014a\u0199\u00e1\u0199\u00f3\u00edd\u00e0=b\u00e8\u00e8?",
+        "srcwordshtml": [
+            "\u014a\u0199\u00e1\u0199\u00f3\u00edd\u00e0=b\u00e8\u00e8?"
+        ],
+        "srcwordstex": [
+            "\u014a\u0199\u00e1\u0199\u00f3\u00edd\u00e0=b\u00e8\u00e8?"
+        ],
+        "trs": "Did you eat (it) up?"
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "\\textsc{conf}   eat\\textsc{:comp:1sg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">conf</span>",
+            "eat<span class=\"sc\">:comp:1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{conf}",
+            "eat\\textsc{:comp:1sg}"
+        ],
+        "src": "\\textbf{S\u0268na}   \u014b\u0199\u00e1\u0199\u00f3t\u00ed\u00e0.",
+        "srcwordshtml": [
+            "<span class=\"bf\">S\u0268na</span>",
+            "\u014b\u0199\u00e1\u0199\u00f3t\u00ed\u00e0."
+        ],
+        "srcwordstex": [
+            "\\textbf{S\u0268na}",
+            "\u014b\u0199\u00e1\u0199\u00f3t\u00ed\u00e0."
+        ],
+        "trs": "Yes, of course I did."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "bring:\\textsc{3sg=pst4}",
+        "imtwordshtml": [
+            "bring:<span class=\"sc\">3sg=pst4</span>"
+        ],
+        "imtwordstex": [
+            "bring:\\textsc{3sg=pst4}"
+        ],
+        "src": "D\u00e8t\u00e0=n\u00f2\u00f2?",
+        "srcwordshtml": [
+            "D\u00e8t\u00e0=n\u00f2\u00f2?"
+        ],
+        "srcwordstex": [
+            "D\u00e8t\u00e0=n\u00f2\u00f2?"
+        ],
+        "trs": "Did she bring (it)?"
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "\\textsc{conf}   bring:\\textsc{3sg}",
+        "imtwordshtml": [
+            "<span class=\"sc\">conf</span>",
+            "bring:<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{conf}",
+            "bring:\\textsc{3sg}"
+        ],
+        "src": "\\textbf{N\u00f2\u00f2}   d\u00e8t\u00e0.",
+        "srcwordshtml": [
+            "<span class=\"bf\">N\u00f2\u00f2</span>",
+            "d\u00e8t\u00e0."
+        ],
+        "srcwordstex": [
+            "\\textbf{N\u00f2\u00f2}",
+            "d\u00e8t\u00e0."
+        ],
+        "trs": "Yes, of course she did."
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "tell:\\textsc{2sg=hypo}     I:\\textsc{dat}",
+        "imtwordshtml": [
+            "tell:<span class=\"sc\">2sg=hypo</span>",
+            "I:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "tell:\\textsc{2sg=hypo}",
+            "I:\\textsc{dat}"
+        ],
+        "src": "T\u00f3\u00edda=\\textbf{\u0199\u00e1naa}   \\'{\u0272}c\u00ec\u00e8?",
+        "srcwordshtml": [
+            "T\u00f3\u00edda=<span class=\"bf\">\u0199\u00e1naa</span>",
+            "\\'{\u0272}c\u00ec\u00e8?"
+        ],
+        "srcwordstex": [
+            "T\u00f3\u00edda=\\textbf{\u0199\u00e1naa}",
+            "\\'{\u0272}c\u00ec\u00e8?"
+        ],
+        "trs": "You would tell me?"
+    },
+    {
+        "filename": "98/adverbs.tex",
+        "imt": "fight:\\textsc{1pl.inc=cond}",
+        "imtwordshtml": [
+            "fight:<span class=\"sc\">1pl.inc=cond</span>"
+        ],
+        "imtwordstex": [
+            "fight:\\textsc{1pl.inc=cond}"
+        ],
+        "src": "C\u025bm{\\\u00cd}s{\\\u00cd}na=\\textbf{\u0199\u00e1n\u00f2k\\\u1d52}.",
+        "srcwordshtml": [
+            "C\u025bm{\\\u00cd}s{\\\u00cd}na=<span class=\"bf\">\u0199\u00e1n\u00f2k\\\u1d52</span>."
+        ],
+        "srcwordstex": [
+            "C\u025bm{\\\u00cd}s{\\\u00cd}na=\\textbf{\u0199\u00e1n\u00f2k\\\u1d52}."
+        ],
+        "trs": "We all would have fought."
+    }
+]

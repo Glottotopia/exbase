@@ -1,0 +1,396 @@
+[
+    {
+        "filename": "78/09.tex",
+        "imt": "\\textsc{3sg}  have/\\textsc{poss}  plate  be.special",
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "have/<span class=\"sc\">poss</span>",
+            "plate",
+            "be.special"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "have/\\textsc{poss}",
+            "plate",
+            "be.special"
+        ],
+        "src": "[\\bluebold{de}  \\bluebold{punya}  \\bluebold{piring}]  [kusus]",
+        "srcwordshtml": [
+            "[\\bluebold{de}",
+            "\\bluebold{punya}",
+            "\\bluebold{piring}]",
+            "[kusus]"
+        ],
+        "srcwordstex": [
+            "[\\bluebold{de}",
+            "\\bluebold{punya}",
+            "\\bluebold{piring}]",
+            "[kusus]"
+        ],
+        "trs": "Adnominal reading: \u2018\\bluebold{his/her plates} are special\u2019 \\textstyleExampleSource{[081006-029-CvEx.0016]}\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "mother  \\textsc{poss}  ySb  \\textsc{rdp}{\\Tilde}husband",
+        "imtwordshtml": [
+            "mother",
+            "<span class=\"sc\">poss</span>",
+            "ySb",
+            "<span class=\"sc\">rdp</span>{\\Tilde}husband"
+        ],
+        "imtwordstex": [
+            "mother",
+            "\\textsc{poss}",
+            "ySb",
+            "\\textsc{rdp}{\\Tilde}husband"
+        ],
+        "src": "\\textitbf{mama}  \\textitbf{punya} \\textitbf{ade} \\textitbf{laki{\\Tilde}laki}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">mama</span>",
+            "<span class=\"itbf\">punya</span>",
+            "<span class=\"itbf\">ade</span>",
+            "<span class=\"itbf\">laki{\\Tilde</span>laki}"
+        ],
+        "srcwordstex": [
+            "\\textitbf{mama}",
+            "\\textitbf{punya}",
+            "\\textitbf{ade}",
+            "\\textitbf{laki{\\Tilde}laki}"
+        ],
+        "trs": "mother\u2019s younger brother\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "father  \\textsc{poss} eye",
+        "imtwordshtml": [
+            "father",
+            "<span class=\"sc\">poss</span>",
+            "eye"
+        ],
+        "imtwordstex": [
+            "father",
+            "\\textsc{poss}",
+            "eye"
+        ],
+        "src": "\\textitbf{bapa} \\textitbf{pu}  \\textitbf{mata}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">bapa</span>",
+            "<span class=\"itbf\">pu</span>",
+            "<span class=\"itbf\">mata</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{bapa}",
+            "\\textitbf{pu}",
+            "\\textitbf{mata}"
+        ],
+        "trs": "father\u2019s eyes\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "\\textsc{3sg}  \\textsc{poss}  \\textsc{d.prox}",
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">poss</span>",
+            "<span class=\"sc\">d.prox</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "\\textsc{poss}",
+            "\\textsc{d.prox}"
+        ],
+        "src": "\\textitbf{de}  \\textitbf{punya}  \\textitbf{ini}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">de</span>",
+            "<span class=\"itbf\">punya</span>",
+            "<span class=\"itbf\">ini</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{de}",
+            "\\textitbf{punya}",
+            "\\textitbf{ini}"
+        ],
+        "trs": "his/her (customs)\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "ySb  \\textupsc{poss} \\textupsc{d.dist}",
+        "imtwordshtml": [
+            "ySb",
+            "<span class=\"upsc\">poss</span>",
+            "<span class=\"upsc\">d.dist</span>"
+        ],
+        "imtwordstex": [
+            "ySb",
+            "\\textupsc{poss}",
+            "\\textupsc{d.dist}"
+        ],
+        "src": "\\textitbf{ade}  \\textitbf{pu}  \\textitbf{itu}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">ade</span>",
+            "<span class=\"itbf\">pu</span>",
+            "<span class=\"itbf\">itu</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{ade}",
+            "\\textitbf{pu}",
+            "\\textitbf{itu}"
+        ],
+        "trs": "younger sister\u2019s (fish)\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "evil.spirit  \\textupsc{poss} power",
+        "imtwordshtml": [
+            "evil.spirit",
+            "<span class=\"upsc\">poss</span>",
+            "power"
+        ],
+        "imtwordstex": [
+            "evil.spirit",
+            "\\textupsc{poss}",
+            "power"
+        ],
+        "src": "\\textitbf{setang}  \\textitbf{punya} \\textitbf{kwasa}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">setang</span>",
+            "<span class=\"itbf\">punya</span>",
+            "<span class=\"itbf\">kwasa</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{setang}",
+            "\\textitbf{punya}",
+            "\\textitbf{kwasa}"
+        ],
+        "trs": "force of an evil spirit\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "evil.spirit  \\textupsc{poss} black.magic",
+        "imtwordshtml": [
+            "evil.spirit",
+            "<span class=\"upsc\">poss</span>",
+            "black.magic"
+        ],
+        "imtwordstex": [
+            "evil.spirit",
+            "\\textupsc{poss}",
+            "black.magic"
+        ],
+        "src": "\\textitbf{setang}  \\textitbf{pu} \\textitbf{pake-pake}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">setang</span>",
+            "<span class=\"itbf\">pu</span>",
+            "<span class=\"itbf\">pake-pake</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{setang}",
+            "\\textitbf{pu}",
+            "\\textitbf{pake-pake}"
+        ],
+        "trs": "an evil spirit\u2019s black magic\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "LNG  \\textsc{poss}  container \\textsc{d.dist}",
+        "imtwordshtml": [
+            "LNG",
+            "<span class=\"sc\">poss</span>",
+            "container",
+            "<span class=\"sc\">d.dist</span>"
+        ],
+        "imtwordstex": [
+            "LNG",
+            "\\textsc{poss}",
+            "container",
+            "\\textsc{d.dist}"
+        ],
+        "src": "\\textitbf{LNG}  \\textitbf{pu}  \\textitbf{terpol} \\textitbf{itu}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">LNG</span>",
+            "<span class=\"itbf\">pu</span>",
+            "<span class=\"itbf\">terpol</span>",
+            "<span class=\"itbf\">itu</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{LNG}",
+            "\\textitbf{pu}",
+            "\\textitbf{terpol}",
+            "\\textitbf{itu}"
+        ],
+        "trs": "metal jerry can\u2019\\footnote{The \\isi{proper noun} \\textitbf{LNG} has developed from the \\isi{noun} phrase \u2018Liquefied Natural Gas\u2019.}\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "\\textsc{3sg}  \\textsc{poss}  \\textsc{rdp}{\\Tilde}body.hair",
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">poss</span>",
+            "<span class=\"sc\">rdp</span>{\\Tilde}body.hair"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "\\textsc{poss}",
+            "\\textsc{rdp}{\\Tilde}body.hair"
+        ],
+        "src": "\\textitbf{de} \\textitbf{punya} \\textitbf{bulu{\\Tilde}bulu}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">de</span>",
+            "<span class=\"itbf\">punya</span>",
+            "<span class=\"itbf\">bulu{\\Tilde</span>bulu}"
+        ],
+        "srcwordstex": [
+            "\\textitbf{de}",
+            "\\textitbf{punya}",
+            "\\textitbf{bulu{\\Tilde}bulu}"
+        ],
+        "trs": "its (the dog\u2019s) body hair\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "person  \\ili{Isirawa} \\textsc{poss}  what manner marry",
+        "imtwordshtml": [
+            "person",
+            "\\ili{Isirawa}",
+            "<span class=\"sc\">poss</span>",
+            "what",
+            "manner",
+            "marry"
+        ],
+        "imtwordstex": [
+            "person",
+            "\\ili{Isirawa}",
+            "\\textsc{poss}",
+            "what",
+            "manner",
+            "marry"
+        ],
+        "src": "\\textitbf{orang} \\textitbf{Isirawa}  \\textitbf{punya,} \\textitbf{apa,} \\textitbf{cara} \\textitbf{kawing}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">orang</span>",
+            "<span class=\"itbf\">Isirawa</span>",
+            "<span class=\"itbf\">punya,</span>",
+            "<span class=\"itbf\">apa,</span>",
+            "<span class=\"itbf\">cara</span>",
+            "<span class=\"itbf\">kawing</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{orang}",
+            "\\textitbf{Isirawa}",
+            "\\textitbf{punya,}",
+            "\\textitbf{apa,}",
+            "\\textitbf{cara}",
+            "\\textitbf{kawing}"
+        ],
+        "trs": "the \\ili{Isirawa}\u2019s, what-is-it, way of marrying\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "mother Klara \\textsc{poss} child  woman",
+        "imtwordshtml": [
+            "mother",
+            "Klara",
+            "<span class=\"sc\">poss</span>",
+            "child",
+            "woman"
+        ],
+        "imtwordstex": [
+            "mother",
+            "Klara",
+            "\\textsc{poss}",
+            "child",
+            "woman"
+        ],
+        "src": "\\textitbf{mama} \\textitbf{Klara}  \\textitbf{pu} \\textitbf{ana} \\textitbf{prempuang}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">mama</span>",
+            "<span class=\"itbf\">Klara</span>",
+            "<span class=\"itbf\">pu</span>",
+            "<span class=\"itbf\">ana</span>",
+            "<span class=\"itbf\">prempuang</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{mama}",
+            "\\textitbf{Klara}",
+            "\\textitbf{pu}",
+            "\\textitbf{ana}",
+            "\\textitbf{prempuang}"
+        ],
+        "trs": "mother Klara\u2019s daughter\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "garden  \\textsc{d.prox} \\textsc{poss} product",
+        "imtwordshtml": [
+            "garden",
+            "<span class=\"sc\">d.prox</span>",
+            "<span class=\"sc\">poss</span>",
+            "product"
+        ],
+        "imtwordstex": [
+            "garden",
+            "\\textsc{d.prox}",
+            "\\textsc{poss}",
+            "product"
+        ],
+        "src": "\\textitbf{kebung} \\textitbf{ini} \\textitbf{punya}  \\textitbf{hasil}",
+        "srcwordshtml": [
+            "<span class=\"itbf\">kebung</span>",
+            "<span class=\"itbf\">ini</span>",
+            "<span class=\"itbf\">punya</span>",
+            "<span class=\"itbf\">hasil</span>"
+        ],
+        "srcwordstex": [
+            "\\textitbf{kebung}",
+            "\\textitbf{ini}",
+            "\\textitbf{punya}",
+            "\\textitbf{hasil}"
+        ],
+        "trs": "this garden\u2019s products\u2019\\\\"
+    },
+    {
+        "filename": "78/09.tex",
+        "imt": "\\textsc{1pl} / \\textsc{3pl} \\textsc{poss} house exist at \\textsc{l.med}",
+        "imtwordshtml": [
+            "<span class=\"sc\">1pl</span>",
+            "/",
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">poss</span>",
+            "house",
+            "exist",
+            "at",
+            "<span class=\"sc\">l.med</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pl}",
+            "/",
+            "\\textsc{3pl}",
+            "\\textsc{poss}",
+            "house",
+            "exist",
+            "at",
+            "\\textsc{l.med}"
+        ],
+        "src": "\\bluebold{torang} / \\bluebold{dorang} \\bluebold{pu} \\bluebold{ruma} ada di situ",
+        "srcwordshtml": [
+            "\\bluebold{torang}",
+            "/",
+            "\\bluebold{dorang}",
+            "\\bluebold{pu}",
+            "\\bluebold{ruma}",
+            "ada",
+            "di",
+            "situ"
+        ],
+        "srcwordstex": [
+            "\\bluebold{torang}",
+            "/",
+            "\\bluebold{dorang}",
+            "\\bluebold{pu}",
+            "\\bluebold{ruma}",
+            "ada",
+            "di",
+            "situ"
+        ],
+        "trs": "\\bluebold{our/their house} is over there\u2019 [Elicited BR111020-001.002-003]"
+    }
+]

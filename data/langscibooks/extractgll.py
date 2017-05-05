@@ -52,6 +52,8 @@ if __name__ == '__main__':
       examples.append(gll(*g,filename=filename))
     except AssertionError:
       pass
+    except IndexError:
+      pass
   if examples != []:
     jsons = json.dumps([ex.__dict__ for ex in examples], sort_keys=True, indent=4)  
     out = open('jsondata/%sexamples.json'%filename[:-4].replace('/','-'),'w')  

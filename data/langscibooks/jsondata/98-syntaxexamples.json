@@ -1,0 +1,2052 @@
+[
+    {
+        "filename": "98/syntax.tex",
+        "imt": "wik\u1d43",
+        "imtwordshtml": [
+            "wik\u1d43"
+        ],
+        "imtwordstex": [
+            "wik\u1d43"
+        ],
+        "src": "\\textsc{head}",
+        "srcwordshtml": [
+            "<span class=\"sc\">head</span>"
+        ],
+        "srcwordstex": [
+            "\\textsc{head}"
+        ],
+        "trs": "children"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "wika d\u00ed\u00ed",
+        "imtwordshtml": [
+            "wika",
+            "d\u00ed\u00ed"
+        ],
+        "imtwordstex": [
+            "wika",
+            "d\u00ed\u00ed"
+        ],
+        "src": "\\textsc{head} \\textsc{anaph}",
+        "srcwordshtml": [
+            "<span class=\"sc\">head</span>",
+            "<span class=\"sc\">anaph</span>"
+        ],
+        "srcwordstex": [
+            "\\textsc{head}",
+            "\\textsc{anaph}"
+        ],
+        "trs": "those (specific) children"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "wika \\'{\u0272}c\u00ec",
+        "imtwordshtml": [
+            "wika",
+            "\\'{\u0272}c\u00ec"
+        ],
+        "imtwordstex": [
+            "wika",
+            "\\'{\u0272}c\u00ec"
+        ],
+        "src": "\\textsc{head} \\textsc{poss}",
+        "srcwordshtml": [
+            "<span class=\"sc\">head</span>",
+            "<span class=\"sc\">poss</span>"
+        ],
+        "srcwordstex": [
+            "\\textsc{head}",
+            "\\textsc{poss}"
+        ],
+        "trs": "my children"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "wika d\u00ed\u00ed \\'{\u0272}c\u00ec",
+        "imtwordshtml": [
+            "wika",
+            "d\u00ed\u00ed",
+            "\\'{\u0272}c\u00ec"
+        ],
+        "imtwordstex": [
+            "wika",
+            "d\u00ed\u00ed",
+            "\\'{\u0272}c\u00ec"
+        ],
+        "src": "\\textsc{head} \\textsc{anaph} \\textsc{poss}",
+        "srcwordshtml": [
+            "<span class=\"sc\">head</span>",
+            "<span class=\"sc\">anaph</span>",
+            "<span class=\"sc\">poss</span>"
+        ],
+        "srcwordstex": [
+            "\\textsc{head}",
+            "\\textsc{anaph}",
+            "\\textsc{poss}"
+        ],
+        "trs": "those (specific) children of mine"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "wika d\u00ed\u00ed \\'{\u0272}c\u00ec\u00e8 l\u00e8\u0253\u00e8ts\u00e8",
+        "imtwordshtml": [
+            "wika",
+            "d\u00ed\u00ed",
+            "\\'{\u0272}c\u00ec\u00e8",
+            "l\u00e8\u0253\u00e8ts\u00e8"
+        ],
+        "imtwordstex": [
+            "wika",
+            "d\u00ed\u00ed",
+            "\\'{\u0272}c\u00ec\u00e8",
+            "l\u00e8\u0253\u00e8ts\u00e8"
+        ],
+        "src": "\\textsc{head} \\textsc{anaph} \\textsc{poss} \\textsc{num}",
+        "srcwordshtml": [
+            "<span class=\"sc\">head</span>",
+            "<span class=\"sc\">anaph</span>",
+            "<span class=\"sc\">poss</span>",
+            "<span class=\"sc\">num</span>"
+        ],
+        "srcwordstex": [
+            "\\textsc{head}",
+            "\\textsc{anaph}",
+            "\\textsc{poss}",
+            "\\textsc{num}"
+        ],
+        "trs": "those two (specific) children of mine"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "wika d\u00ed\u00ed \\'{\u0272}cie le\u0253etse n\u00edi ni",
+        "imtwordshtml": [
+            "wika",
+            "d\u00ed\u00ed",
+            "\\'{\u0272}cie",
+            "le\u0253etse",
+            "n\u00edi",
+            "ni"
+        ],
+        "imtwordstex": [
+            "wika",
+            "d\u00ed\u00ed",
+            "\\'{\u0272}cie",
+            "le\u0253etse",
+            "n\u00edi",
+            "ni"
+        ],
+        "src": "\\textsc{head} \\textsc{anaph} \\textsc{poss} \\textsc{num} \\textsc{temp} \\textsc{dem}",
+        "srcwordshtml": [
+            "<span class=\"sc\">head</span>",
+            "<span class=\"sc\">anaph</span>",
+            "<span class=\"sc\">poss</span>",
+            "<span class=\"sc\">num</span>",
+            "<span class=\"sc\">temp</span>",
+            "<span class=\"sc\">dem</span>"
+        ],
+        "srcwordstex": [
+            "\\textsc{head}",
+            "\\textsc{anaph}",
+            "\\textsc{poss}",
+            "\\textsc{num}",
+            "\\textsc{temp}",
+            "\\textsc{dem}"
+        ],
+        "trs": "those two (specific) children of mine from earlier, these"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "sleep:\\textsc{3sg}   dog:\\textsc{nom}",
+        "imtwordshtml": [
+            "sleep:<span class=\"sc\">3sg</span>",
+            "dog:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "sleep:\\textsc{3sg}",
+            "dog:\\textsc{nom}"
+        ],
+        "src": "Epa\\textsc{\\textsubscript{v}}\\textsc{}    \u014b\u00f3k\u1d43\\textsc{\\textsubscript{s}}.",
+        "srcwordshtml": [
+            "Epa<span class=\"sc\">\\textsubscript{v</span>}<span class=\"sc\"></span>",
+            "\u014b\u00f3k\u1d43<span class=\"sc\">\\textsubscript{s</span>}."
+        ],
+        "srcwordstex": [
+            "Epa\\textsc{\\textsubscript{v}}\\textsc{}",
+            "\u014b\u00f3k\u1d43\\textsc{\\textsubscript{s}}."
+        ],
+        "trs": "The dog sleeps."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "sleep:\\textsc{3sg}=yester-   dog:\\textsc{nom}   shade:\\textsc{abl}",
+        "imtwordshtml": [
+            "sleep:<span class=\"sc\">3sg</span>=yester-",
+            "dog:<span class=\"sc\">nom</span>",
+            "shade:<span class=\"sc\">abl</span>"
+        ],
+        "imtwordstex": [
+            "sleep:\\textsc{3sg}=yester-",
+            "dog:\\textsc{nom}",
+            "shade:\\textsc{abl}"
+        ],
+        "src": "Ep\u00e1\\textsc{\\textsubscript{v}}=bee\\textsc{\\textsubscript{tense}}   \u014b\u00f3k\u00e1\\textsc{\\textsubscript{s}}     kur\u00fa\\textsc{\\textsubscript{e}}.",
+        "srcwordshtml": [
+            "Ep\u00e1<span class=\"sc\">\\textsubscript{v</span>}=bee<span class=\"sc\">\\textsubscript{tense</span>}",
+            "\u014b\u00f3k\u00e1<span class=\"sc\">\\textsubscript{s</span>}",
+            "kur\u00fa<span class=\"sc\">\\textsubscript{e</span>}."
+        ],
+        "srcwordstex": [
+            "Ep\u00e1\\textsc{\\textsubscript{v}}=bee\\textsc{\\textsubscript{tense}}",
+            "\u014b\u00f3k\u00e1\\textsc{\\textsubscript{s}}",
+            "kur\u00fa\\textsc{\\textsubscript{e}}."
+        ],
+        "trs": "The dog slept in the shade yesterday."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "gnaw:\\textsc{3sg}  dog:\\textsc{nom}  bone:\\textsc{acc}",
+        "imtwordshtml": [
+            "gnaw:<span class=\"sc\">3sg</span>",
+            "dog:<span class=\"sc\">nom</span>",
+            "bone:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "gnaw:\\textsc{3sg}",
+            "dog:\\textsc{nom}",
+            "bone:\\textsc{acc}"
+        ],
+        "src": "\u00c1ts\u02bc\u00e1\\textsc{\\textsubscript{v}}    \u014b\u00f3k\u00e1\\textsc{\\textsubscript{a}}    \u0254k\u00e1k\u1d43\\textsc{\\textsubscript{o}}\\textsc{.}",
+        "srcwordshtml": [
+            "\u00c1ts\u02bc\u00e1<span class=\"sc\">\\textsubscript{v</span>}",
+            "\u014b\u00f3k\u00e1<span class=\"sc\">\\textsubscript{a</span>}",
+            "\u0254k\u00e1k\u1d43<span class=\"sc\">\\textsubscript{o</span>}<span class=\"sc\">.</span>"
+        ],
+        "srcwordstex": [
+            "\u00c1ts\u02bc\u00e1\\textsc{\\textsubscript{v}}",
+            "\u014b\u00f3k\u00e1\\textsc{\\textsubscript{a}}",
+            "\u0254k\u00e1k\u1d43\\textsc{\\textsubscript{o}}\\textsc{.}"
+        ],
+        "trs": "The dog gnaws the bone."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "gnaw:\\textsc{3sg}=yester-  dog:\\textsc{nom}  bone:\\textsc{acc}  day:\\textsc{ins}",
+        "imtwordshtml": [
+            "gnaw:<span class=\"sc\">3sg</span>=yester-",
+            "dog:<span class=\"sc\">nom</span>",
+            "bone:<span class=\"sc\">acc</span>",
+            "day:<span class=\"sc\">ins</span>"
+        ],
+        "imtwordstex": [
+            "gnaw:\\textsc{3sg}=yester-",
+            "dog:\\textsc{nom}",
+            "bone:\\textsc{acc}",
+            "day:\\textsc{ins}"
+        ],
+        "src": "\u00c1ts\u02bc\u00e1\\textsc{\\textsubscript{v}}=bee\\textsc{\\textsubscript{tense}}   \u014b\u00f3k\u00e1\\textsc{\\textsubscript{a}}     \u0254k\u00e1\u00e1\\textsc{\\textsubscript{o}}         \u00f3d\u00e0t\u00f9\\textsc{\\textsubscript{e}}",
+        "srcwordshtml": [
+            "\u00c1ts\u02bc\u00e1<span class=\"sc\">\\textsubscript{v</span>}=bee<span class=\"sc\">\\textsubscript{tense</span>}",
+            "\u014b\u00f3k\u00e1<span class=\"sc\">\\textsubscript{a</span>}",
+            "\u0254k\u00e1\u00e1<span class=\"sc\">\\textsubscript{o</span>}",
+            "\u00f3d\u00e0t\u00f9<span class=\"sc\">\\textsubscript{e</span>}"
+        ],
+        "srcwordstex": [
+            "\u00c1ts\u02bc\u00e1\\textsc{\\textsubscript{v}}=bee\\textsc{\\textsubscript{tense}}",
+            "\u014b\u00f3k\u00e1\\textsc{\\textsubscript{a}}",
+            "\u0254k\u00e1\u00e1\\textsc{\\textsubscript{o}}",
+            "\u00f3d\u00e0t\u00f9\\textsc{\\textsubscript{e}}"
+        ],
+        "trs": "The dog gnawed the bone all day yesterday."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "give:\\textsc{3sg}   hunter:\\textsc{nom}   bone:\\textsc{acc}   dog:\\textsc{dat}",
+        "imtwordshtml": [
+            "give:<span class=\"sc\">3sg</span>",
+            "hunter:<span class=\"sc\">nom</span>",
+            "bone:<span class=\"sc\">acc</span>",
+            "dog:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "give:\\textsc{3sg}",
+            "hunter:\\textsc{nom}",
+            "bone:\\textsc{acc}",
+            "dog:\\textsc{dat}"
+        ],
+        "src": "Maa\\textsc{\\textsubscript{v}}     \u0199a\u0199aama\\textsc{\\textsubscript{a}}   \u0254k\u00e1\u00e1\\textsc{\\textsubscript{o}}     \u014b\u00f3k\u00edk\u1d49\\textsc{\\textsubscript{e}}.",
+        "srcwordshtml": [
+            "Maa<span class=\"sc\">\\textsubscript{v</span>}",
+            "\u0199a\u0199aama<span class=\"sc\">\\textsubscript{a</span>}",
+            "\u0254k\u00e1\u00e1<span class=\"sc\">\\textsubscript{o</span>}",
+            "\u014b\u00f3k\u00edk\u1d49<span class=\"sc\">\\textsubscript{e</span>}."
+        ],
+        "srcwordstex": [
+            "Maa\\textsc{\\textsubscript{v}}",
+            "\u0199a\u0199aama\\textsc{\\textsubscript{a}}",
+            "\u0254k\u00e1\u00e1\\textsc{\\textsubscript{o}}",
+            "\u014b\u00f3k\u00edk\u1d49\\textsc{\\textsubscript{e}}."
+        ],
+        "trs": "The hunter gives a bone to the dog."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "laugh:\\textsc{1sg}   I:\\textsc{nom}",
+        "imtwordshtml": [
+            "laugh:<span class=\"sc\">1sg</span>",
+            "I:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "laugh:\\textsc{1sg}",
+            "I:\\textsc{nom}"
+        ],
+        "src": "Fek\u00ed\u00e0\\textsc{\\textsubscript{v}}     \\`{\u014b}k\u1d43\\textsc{\\textsubscript{v}}.",
+        "srcwordshtml": [
+            "Fek\u00ed\u00e0<span class=\"sc\">\\textsubscript{v</span>}",
+            "\\`{\u014b}k\u1d43<span class=\"sc\">\\textsubscript{v</span>}."
+        ],
+        "srcwordstex": [
+            "Fek\u00ed\u00e0\\textsc{\\textsubscript{v}}",
+            "\\`{\u014b}k\u1d43\\textsc{\\textsubscript{v}}."
+        ],
+        "trs": "I laugh\u2019."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "laugh:\\textsc{caus:2sg} I:\\textsc{nom}",
+        "imtwordshtml": [
+            "laugh:<span class=\"sc\">caus:2sg</span>",
+            "I:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "laugh:\\textsc{caus:2sg}",
+            "I:\\textsc{nom}"
+        ],
+        "src": "Fekit\u00e9\u00edd\u00e0\\textsc{\\textsubscript{va}}   {\\`{\u014b}k\u1d43}\\textsc{\\textsubscript{o}}.",
+        "srcwordshtml": [
+            "Fekit\u00e9\u00edd\u00e0<span class=\"sc\">\\textsubscript{va</span>}",
+            "{\\`{\u014b}k\u1d43}<span class=\"sc\">\\textsubscript{o</span>}."
+        ],
+        "srcwordstex": [
+            "Fekit\u00e9\u00edd\u00e0\\textsc{\\textsubscript{va}}",
+            "{\\`{\u014b}k\u1d43}\\textsc{\\textsubscript{o}}."
+        ],
+        "trs": "You make me laugh."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "drink:\\textsc{caus:2sg} I:\\textsc{nom}    water:\\textsc{dat}",
+        "imtwordshtml": [
+            "drink:<span class=\"sc\">caus:2sg</span>",
+            "I:<span class=\"sc\">nom</span>",
+            "water:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "drink:\\textsc{caus:2sg}",
+            "I:\\textsc{nom}",
+            "water:\\textsc{dat}"
+        ],
+        "src": "Wetit\u00e9\u00edda\\textsc{\\textsubscript{va}}   \u014bka\\textsc{\\textsubscript{o}}     cu\u00e9k\u1d49\\textsc{\\textsubscript{E}}.",
+        "srcwordshtml": [
+            "Wetit\u00e9\u00edda<span class=\"sc\">\\textsubscript{va</span>}",
+            "\u014bka<span class=\"sc\">\\textsubscript{o</span>}",
+            "cu\u00e9k\u1d49<span class=\"sc\">\\textsubscript{E</span>}."
+        ],
+        "srcwordstex": [
+            "Wetit\u00e9\u00edda\\textsc{\\textsubscript{va}}",
+            "\u014bka\\textsc{\\textsubscript{o}}",
+            "cu\u00e9k\u1d49\\textsc{\\textsubscript{E}}."
+        ],
+        "trs": "You make me drink water."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "\\textsc{recent:1pl.exc}   come     garden:\\textsc{abl}",
+        "imtwordshtml": [
+            "<span class=\"sc\">recent:1pl.exc</span>",
+            "come",
+            "garden:<span class=\"sc\">abl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{recent:1pl.exc}",
+            "come",
+            "garden:\\textsc{abl}"
+        ],
+        "src": "Er\u00fats{\u00edma}\\textsc{\\textsubscript{AuxS}}   atsa\\textsc{\\textsubscript{v}}     s\u00e9d\u00e0\u1d52\\textsc{\\textsubscript{e}}.",
+        "srcwordshtml": [
+            "Er\u00fats{\u00edma}<span class=\"sc\">\\textsubscript{AuxS</span>}",
+            "atsa<span class=\"sc\">\\textsubscript{v</span>}",
+            "s\u00e9d\u00e0\u1d52<span class=\"sc\">\\textsubscript{e</span>}."
+        ],
+        "srcwordstex": [
+            "Er\u00fats{\u00edma}\\textsc{\\textsubscript{AuxS}}",
+            "atsa\\textsc{\\textsubscript{v}}",
+            "s\u00e9d\u00e0\u1d52\\textsc{\\textsubscript{e}}."
+        ],
+        "trs": "We just came from the garden."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "\\textsc{anticip:3sg=pst1}   kill   goat:\\textsc{acc} morn:\\textsc{ins=dem.pst1}",
+        "imtwordshtml": [
+            "<span class=\"sc\">anticip:3sg=pst1</span>",
+            "kill",
+            "goat:<span class=\"sc\">acc</span>",
+            "morn:<span class=\"sc\">ins=dem.pst1</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{anticip:3sg=pst1}",
+            "kill",
+            "goat:\\textsc{acc}",
+            "morn:\\textsc{ins=dem.pst1}"
+        ],
+        "src": "\u014a{\\'{\u0254}r\u00e1}\\textsc{\\textsubscript{AuxA}}=naa   c\u025ba\\textsc{\\textsubscript{v}}   ri\u00e1\u00e1\\textsc{\\textsubscript{o}}        baratso\\textsc{\\textsubscript{e}}=n\u00e1k\u1d43.",
+        "srcwordshtml": [
+            "\u014a{\\'{\u0254}r\u00e1}<span class=\"sc\">\\textsubscript{AuxA</span>}=naa",
+            "c\u025ba<span class=\"sc\">\\textsubscript{v</span>}",
+            "ri\u00e1\u00e1<span class=\"sc\">\\textsubscript{o</span>}",
+            "baratso<span class=\"sc\">\\textsubscript{e</span>}=n\u00e1k\u1d43."
+        ],
+        "srcwordstex": [
+            "\u014a{\\'{\u0254}r\u00e1}\\textsc{\\textsubscript{AuxA}}=naa",
+            "c\u025ba\\textsc{\\textsubscript{v}}",
+            "ri\u00e1\u00e1\\textsc{\\textsubscript{o}}",
+            "baratso\\textsc{\\textsubscript{e}}=n\u00e1k\u1d43."
+        ],
+        "trs": "He already killed the goat earlier this morning."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "\\textsc{dur}:\\textsc{3sg}   garden:\\textsc{nom}   unripe",
+        "imtwordshtml": [
+            "<span class=\"sc\">dur</span>:<span class=\"sc\">3sg</span>",
+            "garden:<span class=\"sc\">nom</span>",
+            "unripe"
+        ],
+        "imtwordstex": [
+            "\\textsc{dur}:\\textsc{3sg}",
+            "garden:\\textsc{nom}",
+            "unripe"
+        ],
+        "src": "S\u00e1r\u00e1\\textsc{\\textsubscript{Aux}}  s\u00e9da\\textsc{\\textsubscript{s}}     ts\u02bc\u00e1gw\u00e0\\textsc{\\textsubscript{v}}.",
+        "srcwordshtml": [
+            "S\u00e1r\u00e1<span class=\"sc\">\\textsubscript{Aux</span>}",
+            "s\u00e9da<span class=\"sc\">\\textsubscript{s</span>}",
+            "ts\u02bc\u00e1gw\u00e0<span class=\"sc\">\\textsubscript{v</span>}."
+        ],
+        "srcwordstex": [
+            "S\u00e1r\u00e1\\textsc{\\textsubscript{Aux}}",
+            "s\u00e9da\\textsc{\\textsubscript{s}}",
+            "ts\u02bc\u00e1gw\u00e0\\textsc{\\textsubscript{v}}."
+        ],
+        "trs": "The garden is still unripe."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "finish:\\textsc{1sg:prf}   to.read:\\textsc{nom}   book:\\textsc{gen}",
+        "imtwordshtml": [
+            "finish:<span class=\"sc\">1sg:prf</span>",
+            "to.read:<span class=\"sc\">nom</span>",
+            "book:<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "finish:\\textsc{1sg:prf}",
+            "to.read:\\textsc{nom}",
+            "book:\\textsc{gen}"
+        ],
+        "src": "N\u00e1b\u0289\u0199\u0254t{\\\u00cd}\u00e1a\\textsc{\\textsubscript{va}}    [is\u00f3m\u00e9\u00e9s\u00e1   \u0272\u00e1\u0253\u00fakwi]\\textsc{\\textsubscript{o}}.",
+        "srcwordshtml": [
+            "N\u00e1b\u0289\u0199\u0254t{\\\u00cd}\u00e1a<span class=\"sc\">\\textsubscript{va</span>}",
+            "[is\u00f3m\u00e9\u00e9s\u00e1",
+            "\u0272\u00e1\u0253\u00fakwi]<span class=\"sc\">\\textsubscript{o</span>}."
+        ],
+        "srcwordstex": [
+            "N\u00e1b\u0289\u0199\u0254t{\\\u00cd}\u00e1a\\textsc{\\textsubscript{va}}",
+            "[is\u00f3m\u00e9\u00e9s\u00e1",
+            "\u0272\u00e1\u0253\u00fakwi]\\textsc{\\textsubscript{o}}."
+        ],
+        "trs": "I have finished reading the book."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "begin:\\textsc{3pl:prf}   praying:\\textsc{acc}",
+        "imtwordshtml": [
+            "begin:<span class=\"sc\">3pl:prf</span>",
+            "praying:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "begin:\\textsc{3pl:prf}",
+            "praying:\\textsc{acc}"
+        ],
+        "src": "Itsyaket\u00e1taa\\textsc{\\textsubscript{va}}  w\u00e1\u00e1n\u00e0k\u1d43\\textsc{\\textsubscript{o}}.",
+        "srcwordshtml": [
+            "Itsyaket\u00e1taa<span class=\"sc\">\\textsubscript{va</span>}",
+            "w\u00e1\u00e1n\u00e0k\u1d43<span class=\"sc\">\\textsubscript{o</span>}."
+        ],
+        "srcwordstex": [
+            "Itsyaket\u00e1taa\\textsc{\\textsubscript{va}}",
+            "w\u00e1\u00e1n\u00e0k\u1d43\\textsc{\\textsubscript{o}}."
+        ],
+        "trs": "They have begun praying."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "fight:3   children:\\textsc{nom}   playing:\\textsc{ins}",
+        "imtwordshtml": [
+            "fight:3",
+            "children:<span class=\"sc\">nom</span>",
+            "playing:<span class=\"sc\">ins</span>"
+        ],
+        "imtwordstex": [
+            "fight:3",
+            "children:\\textsc{nom}",
+            "playing:\\textsc{ins}"
+        ],
+        "src": "C\u025bma\\textsc{\\textsubscript{v}}    wika\\textsc{\\textsubscript{s}}       w\u00e1\u00e1k\u1d52\\textsc{\\textsubscript{e}}.",
+        "srcwordshtml": [
+            "C\u025bma<span class=\"sc\">\\textsubscript{v</span>}",
+            "wika<span class=\"sc\">\\textsubscript{s</span>}",
+            "w\u00e1\u00e1k\u1d52<span class=\"sc\">\\textsubscript{e</span>}."
+        ],
+        "srcwordstex": [
+            "C\u025bma\\textsc{\\textsubscript{v}}",
+            "wika\\textsc{\\textsubscript{s}}",
+            "w\u00e1\u00e1k\u1d52\\textsc{\\textsubscript{e}}."
+        ],
+        "trs": "The children are busy playing."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "be:\\textsc{3sg}   rain.top:\\textsc{nom}",
+        "imtwordshtml": [
+            "be:<span class=\"sc\">3sg</span>",
+            "rain.top:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "be:\\textsc{3sg}",
+            "rain.top:\\textsc{nom}"
+        ],
+        "src": "Ia\\textsc{\\textsubscript{v}}     didigwar\u00ed\\textsc{\\textsubscript{cs}}.",
+        "srcwordshtml": [
+            "Ia<span class=\"sc\">\\textsubscript{v</span>}",
+            "didigwar\u00ed<span class=\"sc\">\\textsubscript{cs</span>}."
+        ],
+        "srcwordstex": [
+            "Ia\\textsc{\\textsubscript{v}}",
+            "didigwar\u00ed\\textsc{\\textsubscript{cs}}."
+        ],
+        "trs": "Heaven [i.e. God] is (there)."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "be:3   enemies:\\textsc{nom}   way:\\textsc{dat}",
+        "imtwordshtml": [
+            "be:3",
+            "enemies:<span class=\"sc\">nom</span>",
+            "way:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "be:3",
+            "enemies:\\textsc{nom}",
+            "way:\\textsc{dat}"
+        ],
+        "src": "Ia\\textsc{\\textsubscript{v}}   l\u0254\u014b\\'{\u0254}t\u00e1\\textsc{\\textsubscript{cs}}     muce\u00e9k\u1d49\\textsc{\\textsubscript{cc}}.",
+        "srcwordshtml": [
+            "Ia<span class=\"sc\">\\textsubscript{v</span>}",
+            "l\u0254\u014b\\'{\u0254}t\u00e1<span class=\"sc\">\\textsubscript{cs</span>}",
+            "muce\u00e9k\u1d49<span class=\"sc\">\\textsubscript{cc</span>}."
+        ],
+        "srcwordstex": [
+            "Ia\\textsc{\\textsubscript{v}}",
+            "l\u0254\u014b\\'{\u0254}t\u00e1\\textsc{\\textsubscript{cs}}",
+            "muce\u00e9k\u1d49\\textsc{\\textsubscript{cc}}."
+        ],
+        "trs": "Enemies are on the way."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "be:\\textsc{1sg}   I:\\textsc{nom}    father.your:\\textsc{obl}",
+        "imtwordshtml": [
+            "be:<span class=\"sc\">1sg</span>",
+            "I:<span class=\"sc\">nom</span>",
+            "father.your:<span class=\"sc\">obl</span>"
+        ],
+        "imtwordstex": [
+            "be:\\textsc{1sg}",
+            "I:\\textsc{nom}",
+            "father.your:\\textsc{obl}"
+        ],
+        "src": "M\u0268t{\\\u00cd}\u00e1\\textsc{\\textsubscript{v}}   \u014bka\\textsc{\\textsubscript{cs}}    b\u00e1b\u00f2\\textsc{\\textsubscript{cc}}.",
+        "srcwordshtml": [
+            "M\u0268t{\\\u00cd}\u00e1<span class=\"sc\">\\textsubscript{v</span>}",
+            "\u014bka<span class=\"sc\">\\textsubscript{cs</span>}",
+            "b\u00e1b\u00f2<span class=\"sc\">\\textsubscript{cc</span>}."
+        ],
+        "srcwordstex": [
+            "M\u0268t{\\\u00cd}\u00e1\\textsc{\\textsubscript{v}}",
+            "\u014bka\\textsc{\\textsubscript{cs}}",
+            "b\u00e1b\u00f2\\textsc{\\textsubscript{cc}}."
+        ],
+        "trs": "I am your father."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "be:\\textsc{3sg}   home:\\textsc{nom}=this   we:\\textsc{gen}",
+        "imtwordshtml": [
+            "be:<span class=\"sc\">3sg</span>",
+            "home:<span class=\"sc\">nom</span>=this",
+            "we:<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "be:\\textsc{3sg}",
+            "home:\\textsc{nom}=this",
+            "we:\\textsc{gen}"
+        ],
+        "src": "M\u0268ta\\textsc{\\textsubscript{v}}     [awa=na]\\textsc{\\textsubscript{cs}}   \u014bg\u00f3\u1d49\\textsc{\\textsubscript{cc}}.",
+        "srcwordshtml": [
+            "M\u0268ta<span class=\"sc\">\\textsubscript{v</span>}",
+            "[awa=na]<span class=\"sc\">\\textsubscript{cs</span>}",
+            "\u014bg\u00f3\u1d49<span class=\"sc\">\\textsubscript{cc</span>}."
+        ],
+        "srcwordstex": [
+            "M\u0268ta\\textsc{\\textsubscript{v}}",
+            "[awa=na]\\textsc{\\textsubscript{cs}}",
+            "\u014bg\u00f3\u1d49\\textsc{\\textsubscript{cc}}."
+        ],
+        "trs": "This house is ours."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "want:\\textsc{1pl.exc}   we:\\textsc{nom}  beer:\\textsc{nom}",
+        "imtwordshtml": [
+            "want:<span class=\"sc\">1pl.exc</span>",
+            "we:<span class=\"sc\">nom</span>",
+            "beer:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "want:\\textsc{1pl.exc}",
+            "we:\\textsc{nom}",
+            "beer:\\textsc{nom}"
+        ],
+        "src": "B\\'{\u025b}\u0257{\\\u00cd}m\u00e0\\textsc{\\textsubscript{v}}    {\\`{\u014b}gw\u00e0}\\textsc{\\textsubscript{a}}    m\\`{\u025b}s\\textsc{\\textsubscript{o}}.",
+        "srcwordshtml": [
+            "B\\'{\u025b}\u0257{\\\u00cd}m\u00e0<span class=\"sc\">\\textsubscript{v</span>}",
+            "{\\`{\u014b}gw\u00e0}<span class=\"sc\">\\textsubscript{a</span>}",
+            "m\\`{\u025b}s<span class=\"sc\">\\textsubscript{o</span>}."
+        ],
+        "srcwordstex": [
+            "B\\'{\u025b}\u0257{\\\u00cd}m\u00e0\\textsc{\\textsubscript{v}}",
+            "{\\`{\u014b}gw\u00e0}\\textsc{\\textsubscript{a}}",
+            "m\\`{\u025b}s\\textsc{\\textsubscript{o}}."
+        ],
+        "trs": "We want beer."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "not:\\textsc{prf}   see:\\textsc{1sg}   money:\\textsc{nom}=\\textsc{anaph}",
+        "imtwordshtml": [
+            "not:<span class=\"sc\">prf</span>",
+            "see:<span class=\"sc\">1sg</span>",
+            "money:<span class=\"sc\">nom</span>=<span class=\"sc\">anaph</span>"
+        ],
+        "imtwordstex": [
+            "not:\\textsc{prf}",
+            "see:\\textsc{1sg}",
+            "money:\\textsc{nom}=\\textsc{anaph}"
+        ],
+        "src": "M\u00e9e   en\u00ed\u00ed     ka\u00fadza=d\u00ed\u00ed.",
+        "srcwordshtml": [
+            "M\u00e9e",
+            "en\u00ed\u00ed",
+            "ka\u00fadza=d\u00ed\u00ed."
+        ],
+        "srcwordstex": [
+            "M\u00e9e",
+            "en\u00ed\u00ed",
+            "ka\u00fadza=d\u00ed\u00ed."
+        ],
+        "trs": "I haven\u2019t seen that money."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "money:\\textsc{nom}=\\textsc{anaph}   not:\\textsc{prf}   see:\\textsc{1sg}",
+        "imtwordshtml": [
+            "money:<span class=\"sc\">nom</span>=<span class=\"sc\">anaph</span>",
+            "not:<span class=\"sc\">prf</span>",
+            "see:<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "money:\\textsc{nom}=\\textsc{anaph}",
+            "not:\\textsc{prf}",
+            "see:\\textsc{1sg}"
+        ],
+        "src": "Ka\u00fadza=d\u00ed\u00ed,     m\u00e9e     en\u00ed.",
+        "srcwordshtml": [
+            "Ka\u00fadza=d\u00ed\u00ed,",
+            "m\u00e9e",
+            "en\u00ed."
+        ],
+        "srcwordstex": [
+            "Ka\u00fadza=d\u00ed\u00ed,",
+            "m\u00e9e",
+            "en\u00ed."
+        ],
+        "trs": "That money, I haven\u2019t seen (it)."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "hear:\\textsc{1pl.exc:prf}  story:\\textsc{nom}=\\textsc{rel}   sweet:\\textsc{3sg}",
+        "imtwordshtml": [
+            "hear:<span class=\"sc\">1pl.exc:prf</span>",
+            "story:<span class=\"sc\">nom</span>=<span class=\"sc\">rel</span>",
+            "sweet:<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "hear:\\textsc{1pl.exc:prf}",
+            "story:\\textsc{nom}=\\textsc{rel}",
+            "sweet:\\textsc{3sg}"
+        ],
+        "src": "Nes\u00edbimaa     emuta\\textsc{\\textsubscript{ca}}=[n\u025b\\textsc{\\textsubscript{s}}   \\'{\u025b}f\\textsc{\\textsubscript{v}}{]}\\textsc{\\textsubscript{rel}}.",
+        "srcwordshtml": [
+            "Nes\u00edbimaa",
+            "emuta<span class=\"sc\">\\textsubscript{ca</span>}=[n\u025b<span class=\"sc\">\\textsubscript{s</span>}",
+            "\\'{\u025b}f<span class=\"sc\">\\textsubscript{v</span>}{]}<span class=\"sc\">\\textsubscript{rel</span>}."
+        ],
+        "srcwordstex": [
+            "Nes\u00edbimaa",
+            "emuta\\textsc{\\textsubscript{ca}}=[n\u025b\\textsc{\\textsubscript{s}}",
+            "\\'{\u025b}f\\textsc{\\textsubscript{v}}{]}\\textsc{\\textsubscript{rel}}."
+        ],
+        "trs": "We\u2019ve heard a story that is funny."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "come:\\textsc{3sg}:\\textsc{prf}   child=\\textsc{rel}   I:\\textsc{acc}   mention:\\textsc{1sg}",
+        "imtwordshtml": [
+            "come:<span class=\"sc\">3sg</span>:<span class=\"sc\">prf</span>",
+            "child=<span class=\"sc\">rel</span>",
+            "I:<span class=\"sc\">acc</span>",
+            "mention:<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "come:\\textsc{3sg}:\\textsc{prf}",
+            "child=\\textsc{rel}",
+            "I:\\textsc{acc}",
+            "mention:\\textsc{1sg}"
+        ],
+        "src": "Ats\u00e1\u00e1       ima\\textsc{\\textsubscript{ca}}=[n\u00e1a\\textsc{\\textsubscript{o}}   \u0272cia\\textsc{\\textsubscript{a}}   t\u00e1k\u00ed\\textsc{\\textsubscript{v}}{]}\\textsc{\\textsubscript{rel}}.",
+        "srcwordshtml": [
+            "Ats\u00e1\u00e1",
+            "ima<span class=\"sc\">\\textsubscript{ca</span>}=[n\u00e1a<span class=\"sc\">\\textsubscript{o</span>}",
+            "\u0272cia<span class=\"sc\">\\textsubscript{a</span>}",
+            "t\u00e1k\u00ed<span class=\"sc\">\\textsubscript{v</span>}{]}<span class=\"sc\">\\textsubscript{rel</span>}."
+        ],
+        "srcwordstex": [
+            "Ats\u00e1\u00e1",
+            "ima\\textsc{\\textsubscript{ca}}=[n\u00e1a\\textsc{\\textsubscript{o}}",
+            "\u0272cia\\textsc{\\textsubscript{a}}",
+            "t\u00e1k\u00ed\\textsc{\\textsubscript{v}}{]}\\textsc{\\textsubscript{rel}}."
+        ],
+        "trs": "The child I mentioned earlier has come."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "when   he:\\textsc{3sg}   die:\\textsc{3sg:dp}     cry:\\textsc{1sg:seq}",
+        "imtwordshtml": [
+            "when",
+            "he:<span class=\"sc\">3sg</span>",
+            "die:<span class=\"sc\">3sg:dp</span>",
+            "cry:<span class=\"sc\">1sg:seq</span>"
+        ],
+        "imtwordstex": [
+            "when",
+            "he:\\textsc{3sg}",
+            "die:\\textsc{3sg:dp}",
+            "cry:\\textsc{1sg:seq}"
+        ],
+        "src": "[Noo   nts\u00ed\u00e1     badu\u0199ot\u00e2d\u1d49]\\textsc{\\textsubscript{temp}},   \u0199\\'{\u0254}\u0257\u0268ak\u1d52.",
+        "srcwordshtml": [
+            "[Noo",
+            "nts\u00ed\u00e1",
+            "badu\u0199ot\u00e2d\u1d49]<span class=\"sc\">\\textsubscript{temp</span>},",
+            "\u0199\\'{\u0254}\u0257\u0268ak\u1d52."
+        ],
+        "srcwordstex": [
+            "[Noo",
+            "nts\u00ed\u00e1",
+            "badu\u0199ot\u00e2d\u1d49]\\textsc{\\textsubscript{temp}},",
+            "\u0199\\'{\u0254}\u0257\u0268ak\u1d52."
+        ],
+        "trs": "When he died, I cried."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "as   he:\\textsc{3sg}   die:\\textsc{3sg:sim}    cry:\\textsc{ipfv}:\\textsc{1sg:seq}",
+        "imtwordshtml": [
+            "as",
+            "he:<span class=\"sc\">3sg</span>",
+            "die:<span class=\"sc\">3sg:sim</span>",
+            "cry:<span class=\"sc\">ipfv</span>:<span class=\"sc\">1sg:seq</span>"
+        ],
+        "imtwordstex": [
+            "as",
+            "he:\\textsc{3sg}",
+            "die:\\textsc{3sg:sim}",
+            "cry:\\textsc{ipfv}:\\textsc{1sg:seq}"
+        ],
+        "src": "[N\u00e1a   nts\u00ed\u00e1     bad\u00fa\u0199\u00f3t\u00eck\u1d49]\\textsc{\\textsubscript{simul}},   \u0199\\'{\u0254}\u0257\\'{\u025b}s\u0268ak\u1d52.",
+        "srcwordshtml": [
+            "[N\u00e1a",
+            "nts\u00ed\u00e1",
+            "bad\u00fa\u0199\u00f3t\u00eck\u1d49]<span class=\"sc\">\\textsubscript{simul</span>},",
+            "\u0199\\'{\u0254}\u0257\\'{\u025b}s\u0268ak\u1d52."
+        ],
+        "srcwordstex": [
+            "[N\u00e1a",
+            "nts\u00ed\u00e1",
+            "bad\u00fa\u0199\u00f3t\u00eck\u1d49]\\textsc{\\textsubscript{simul}},",
+            "\u0199\\'{\u0254}\u0257\\'{\u025b}s\u0268ak\u1d52."
+        ],
+        "trs": "As he was dying, I was crying."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "if   he:\\textsc{nom}   die:\\textsc{3sg:seq}     cry:\\textsc{1sg:seq}",
+        "imtwordshtml": [
+            "if",
+            "he:<span class=\"sc\">nom</span>",
+            "die:<span class=\"sc\">3sg:seq</span>",
+            "cry:<span class=\"sc\">1sg:seq</span>"
+        ],
+        "imtwordstex": [
+            "if",
+            "he:\\textsc{nom}",
+            "die:\\textsc{3sg:seq}",
+            "cry:\\textsc{1sg:seq}"
+        ],
+        "src": "[Na   ntsa     bad\u00fa\u0199\u00f3t\u00f9k\u1d52]\\textsc{\\textsubscript{cond}},   \u0199\\'{\u0254}\u0257\u0268ak\u1d52.",
+        "srcwordshtml": [
+            "[Na",
+            "ntsa",
+            "bad\u00fa\u0199\u00f3t\u00f9k\u1d52]<span class=\"sc\">\\textsubscript{cond</span>},",
+            "\u0199\\'{\u0254}\u0257\u0268ak\u1d52."
+        ],
+        "srcwordstex": [
+            "[Na",
+            "ntsa",
+            "bad\u00fa\u0199\u00f3t\u00f9k\u1d52]\\textsc{\\textsubscript{cond}},",
+            "\u0199\\'{\u0254}\u0257\u0268ak\u1d52."
+        ],
+        "trs": "If he dies, I\u2019ll cry."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "cry:\\textsc{1sg:seq}  would\u2019ve",
+        "imtwordshtml": [
+            "cry:<span class=\"sc\">1sg:seq</span>",
+            "would\u2019ve"
+        ],
+        "imtwordstex": [
+            "cry:\\textsc{1sg:seq}",
+            "would\u2019ve"
+        ],
+        "src": "\u0199\\'{\u0254}\u0257\u0268aa   \u0199\u00e1n\u00f2k\u1d52.",
+        "srcwordshtml": [
+            "\u0199\\'{\u0254}\u0257\u0268aa",
+            "\u0199\u00e1n\u00f2k\u1d52."
+        ],
+        "srcwordstex": [
+            "\u0199\\'{\u0254}\u0257\u0268aa",
+            "\u0199\u00e1n\u00f2k\u1d52."
+        ],
+        "trs": "I would\u2019ve cried."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "die:\\textsc{3sg:seq}   (he:\\textsc{acc})  peaceful:3\\textsc{sg:sim}",
+        "imtwordshtml": [
+            "die:<span class=\"sc\">3sg:seq</span>",
+            "(he:<span class=\"sc\">acc</span>)",
+            "peaceful:3<span class=\"sc\">sg:sim</span>"
+        ],
+        "imtwordstex": [
+            "die:\\textsc{3sg:seq}",
+            "(he:\\textsc{acc})",
+            "peaceful:3\\textsc{sg:sim}"
+        ],
+        "src": "Bad\u00fa\u0199\u00f3tuo   [(nts\u00ed\u00e1)   tis\u00edl\u00edk\u1d49]\\textsc{\\textsubscript{manner}}.",
+        "srcwordshtml": [
+            "Bad\u00fa\u0199\u00f3tuo",
+            "[(nts\u00ed\u00e1)",
+            "tis\u00edl\u00edk\u1d49]<span class=\"sc\">\\textsubscript{manner</span>}."
+        ],
+        "srcwordstex": [
+            "Bad\u00fa\u0199\u00f3tuo",
+            "[(nts\u00ed\u00e1)",
+            "tis\u00edl\u00edk\u1d49]\\textsc{\\textsubscript{manner}}."
+        ],
+        "trs": "And he died peacefully (lit. \u2018he being peaceful\u2019)."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "die:\\textsc{3sg:prf}   because   shoot:\\textsc{ips:3sg:dp}",
+        "imtwordshtml": [
+            "die:<span class=\"sc\">3sg:prf</span>",
+            "because",
+            "shoot:<span class=\"sc\">ips:3sg:dp</span>"
+        ],
+        "imtwordstex": [
+            "die:\\textsc{3sg:prf}",
+            "because",
+            "shoot:\\textsc{ips:3sg:dp}"
+        ],
+        "src": "Badu\u0199ot\u00e1\u00e1   [\u0257\u00fa\u00f3     \u00eddzan\u00e2d\u1d49]\\textsc{\\textsubscript{reason}}.",
+        "srcwordshtml": [
+            "Badu\u0199ot\u00e1\u00e1",
+            "[\u0257\u00fa\u00f3",
+            "\u00eddzan\u00e2d\u1d49]<span class=\"sc\">\\textsubscript{reason</span>}."
+        ],
+        "srcwordstex": [
+            "Badu\u0199ot\u00e1\u00e1",
+            "[\u0257\u00fa\u00f3",
+            "\u00eddzan\u00e2d\u1d49]\\textsc{\\textsubscript{reason}}."
+        ],
+        "trs": "He has died because he was shot."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "even   he:\\textsc{acc}   die:\\textsc{3sg:sim}    not   cry:\\textsc{1sg}",
+        "imtwordshtml": [
+            "even",
+            "he:<span class=\"sc\">acc</span>",
+            "die:<span class=\"sc\">3sg:sim</span>",
+            "not",
+            "cry:<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "even",
+            "he:\\textsc{acc}",
+            "die:\\textsc{3sg:sim}",
+            "not",
+            "cry:\\textsc{1sg}"
+        ],
+        "src": "[\u00c1ta   nts\u00ed\u00e1     bad\u00fa\u0199\u00f3t\u00eck\u1d49]\\textsc{\\textsubscript{concess}},   \u0144t\u00e1   \u0199\\'{\u0254}\u0257{\\\u00cd}.",
+        "srcwordshtml": [
+            "[\u00c1ta",
+            "nts\u00ed\u00e1",
+            "bad\u00fa\u0199\u00f3t\u00eck\u1d49]<span class=\"sc\">\\textsubscript{concess</span>},",
+            "\u0144t\u00e1",
+            "\u0199\\'{\u0254}\u0257{\\\u00cd}."
+        ],
+        "srcwordstex": [
+            "[\u00c1ta",
+            "nts\u00ed\u00e1",
+            "bad\u00fa\u0199\u00f3t\u00eck\u1d49]\\textsc{\\textsubscript{concess}},",
+            "\u0144t\u00e1",
+            "\u0199\\'{\u0254}\u0257{\\\u00cd}."
+        ],
+        "trs": "Even if he dies, I will not cry."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "finish:\\textsc{comp:3sg:prf}[\\textsc{nf}]",
+        "imtwordshtml": [
+            "finish:<span class=\"sc\">comp:3sg:prf</span>[<span class=\"sc\">nf</span>]"
+        ],
+        "imtwordstex": [
+            "finish:\\textsc{comp:3sg:prf}[\\textsc{nf}]"
+        ],
+        "src": "N\u00e1b\u0289\u0199\u0254t\u00e1\u00e0?",
+        "srcwordshtml": [
+            "N\u00e1b\u0289\u0199\u0254t\u00e1\u00e0?"
+        ],
+        "srcwordstex": [
+            "N\u00e1b\u0289\u0199\u0254t\u00e1\u00e0?"
+        ],
+        "trs": "Is it finished?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "yes finish:\\textsc{comp:3sg:prf[ff]}",
+        "imtwordshtml": [
+            "yes",
+            "finish:<span class=\"sc\">comp:3sg:prf[ff]</span>"
+        ],
+        "imtwordstex": [
+            "yes",
+            "finish:\\textsc{comp:3sg:prf[ff]}"
+        ],
+        "src": "Ee, n\u00e1b\u0289\u0199\u0254t\u00e1k\u1d43.",
+        "srcwordshtml": [
+            "Ee,",
+            "n\u00e1b\u0289\u0199\u0254t\u00e1k\u1d43."
+        ],
+        "srcwordstex": [
+            "Ee,",
+            "n\u00e1b\u0289\u0199\u0254t\u00e1k\u1d43."
+        ],
+        "trs": "Yes, it is finished."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "woman:\\textsc{cop[nf]}",
+        "imtwordshtml": [
+            "woman:<span class=\"sc\">cop[nf]</span>"
+        ],
+        "imtwordstex": [
+            "woman:\\textsc{cop[nf]}"
+        ],
+        "src": "Cek\u00fa{\u00f4}?",
+        "srcwordshtml": [
+            "Cek\u00fa{\u00f4}?"
+        ],
+        "srcwordstex": [
+            "Cek\u00fa{\u00f4}?"
+        ],
+        "trs": "Is it a woman?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "yes woman:\\textsc{cop}   she:\\textsc{nom}",
+        "imtwordshtml": [
+            "yes",
+            "woman:<span class=\"sc\">cop</span>",
+            "she:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "yes",
+            "woman:\\textsc{cop}",
+            "she:\\textsc{nom}"
+        ],
+        "src": "Ee, cek\u00fa\u00f3     ntsa\u1d43.",
+        "srcwordshtml": [
+            "Ee,",
+            "cek\u00fa\u00f3",
+            "ntsa\u1d43."
+        ],
+        "srcwordstex": [
+            "Ee,",
+            "cek\u00fa\u00f3",
+            "ntsa\u1d43."
+        ],
+        "trs": "Yes, it\u2019s a woman."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "go:\\textsc{int:2sg:real}   where:\\textsc{dat}",
+        "imtwordshtml": [
+            "go:<span class=\"sc\">int:2sg:real</span>",
+            "where:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "go:\\textsc{int:2sg:real}",
+            "where:\\textsc{dat}"
+        ],
+        "src": "\u0198ees\u00edda     nda\u00edk\u1d49?",
+        "srcwordshtml": [
+            "\u0198ees\u00edda",
+            "nda\u00edk\u1d49?"
+        ],
+        "srcwordstex": [
+            "\u0198ees\u00edda",
+            "nda\u00edk\u1d49?"
+        ],
+        "trs": "You are going where?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "want:\\textsc{3sg:real}   what:\\textsc{nom}",
+        "imtwordshtml": [
+            "want:<span class=\"sc\">3sg:real</span>",
+            "what:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "want:\\textsc{3sg:real}",
+            "what:\\textsc{nom}"
+        ],
+        "src": "B\\'{\u025b}\u0257\u00e1       \u00ecs\u00eck\u1d43?",
+        "srcwordshtml": [
+            "B\\'{\u025b}\u0257\u00e1",
+            "\u00ecs\u00eck\u1d43?"
+        ],
+        "srcwordstex": [
+            "B\\'{\u025b}\u0257\u00e1",
+            "\u00ecs\u00eck\u1d43?"
+        ],
+        "trs": "He wants what?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "where:\\textsc{cop}   go:\\textsc{2sg:real:dp}",
+        "imtwordshtml": [
+            "where:<span class=\"sc\">cop</span>",
+            "go:<span class=\"sc\">2sg:real:dp</span>"
+        ],
+        "imtwordstex": [
+            "where:\\textsc{cop}",
+            "go:\\textsc{2sg:real:dp}"
+        ],
+        "src": "Nda\u00ed\u00f3   \u0199ees\u00edd\u00e0d\u1d49?",
+        "srcwordshtml": [
+            "Nda\u00ed\u00f3",
+            "\u0199ees\u00edd\u00e0d\u1d49?"
+        ],
+        "srcwordstex": [
+            "Nda\u00ed\u00f3",
+            "\u0199ees\u00edd\u00e0d\u1d49?"
+        ],
+        "trs": "Where are you going?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "what:\\textsc{cop}   want:\\textsc{3sg:real}",
+        "imtwordshtml": [
+            "what:<span class=\"sc\">cop</span>",
+            "want:<span class=\"sc\">3sg:real</span>"
+        ],
+        "imtwordstex": [
+            "what:\\textsc{cop}",
+            "want:\\textsc{3sg:real}"
+        ],
+        "src": "Isio     b\\'{\u025b}\u0257\u1d43?",
+        "srcwordshtml": [
+            "Isio",
+            "b\\'{\u025b}\u0257\u1d43?"
+        ],
+        "srcwordstex": [
+            "Isio",
+            "b\\'{\u025b}\u0257\u1d43?"
+        ],
+        "trs": "What does he want?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "who:\\textsc{cop}   call:\\textsc{3sg:real}   I:\\textsc{acc}",
+        "imtwordshtml": [
+            "who:<span class=\"sc\">cop</span>",
+            "call:<span class=\"sc\">3sg:real</span>",
+            "I:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "who:\\textsc{cop}",
+            "call:\\textsc{3sg:real}",
+            "I:\\textsc{acc}"
+        ],
+        "src": "Ndoo     \u00f3\u00e1       \\'{\u0272}c\u00eck\u1d43?",
+        "srcwordshtml": [
+            "Ndoo",
+            "\u00f3\u00e1",
+            "\\'{\u0272}c\u00eck\u1d43?"
+        ],
+        "srcwordstex": [
+            "Ndoo",
+            "\u00f3\u00e1",
+            "\\'{\u0272}c\u00eck\u1d43?"
+        ],
+        "trs": "Who calls me?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "which:\\textsc{cop}   mean:\\textsc{2sg:real}",
+        "imtwordshtml": [
+            "which:<span class=\"sc\">cop</span>",
+            "mean:<span class=\"sc\">2sg:real</span>"
+        ],
+        "imtwordstex": [
+            "which:\\textsc{cop}",
+            "mean:\\textsc{2sg:real}"
+        ],
+        "src": "{\\'{N}t\\'{\u025b}\\'{\u025b}n\\'{\u0254}\\'{\u0254}   t\u00e1k\u00eed\u1d43?}",
+        "srcwordshtml": [
+            "{\\'{N}t\\'{\u025b}\\'{\u025b}n\\'{\u0254}\\'{\u0254}",
+            "t\u00e1k\u00eed\u1d43?}"
+        ],
+        "srcwordstex": [
+            "{\\'{N}t\\'{\u025b}\\'{\u025b}n\\'{\u0254}\\'{\u0254}",
+            "t\u00e1k\u00eed\u1d43?}"
+        ],
+        "trs": "Which (one) do you mean?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "say:\\textsc{1sg}   you:\\textsc{dat} Turkana:\\textsc{cop=pst4} buy:\\textsc{plur}",
+        "imtwordshtml": [
+            "say:<span class=\"sc\">1sg</span>",
+            "you:<span class=\"sc\">dat</span>",
+            "Turkana:<span class=\"sc\">cop=pst4</span>",
+            "buy:<span class=\"sc\">plur</span>"
+        ],
+        "imtwordstex": [
+            "say:\\textsc{1sg}",
+            "you:\\textsc{dat}",
+            "Turkana:\\textsc{cop=pst4}",
+            "buy:\\textsc{plur}"
+        ],
+        "src": "K\u0289t{\\\u00cd}\u00e1     bie   [Pak\u00f3\u00edc\u00e9o=noo   dz\u00edgw\u00ec]\\textsc{\\textsubscript{quotation}}",
+        "srcwordshtml": [
+            "K\u0289t{\\\u00cd}\u00e1",
+            "bie",
+            "[Pak\u00f3\u00edc\u00e9o=noo",
+            "dz\u00edgw\u00ec]<span class=\"sc\">\\textsubscript{quotation</span>}"
+        ],
+        "srcwordstex": [
+            "K\u0289t{\\\u00cd}\u00e1",
+            "bie",
+            "[Pak\u00f3\u00edc\u00e9o=noo",
+            "dz\u00edgw\u00ec]\\textsc{\\textsubscript{quotation}}"
+        ],
+        "trs": "I\u2019m telling you it was the Turkana who used to buy."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "say:\\textsc{ips} we.\\textsc{exc}:\\textsc{dat}  that   come:\\textsc{imp}   quickly",
+        "imtwordshtml": [
+            "say:<span class=\"sc\">ips</span>",
+            "we.<span class=\"sc\">exc</span>:<span class=\"sc\">dat</span>",
+            "that",
+            "come:<span class=\"sc\">imp</span>",
+            "quickly"
+        ],
+        "imtwordstex": [
+            "say:\\textsc{ips}",
+            "we.\\textsc{exc}:\\textsc{dat}",
+            "that",
+            "come:\\textsc{imp}",
+            "quickly"
+        ],
+        "src": "K\u0289tana \u014bgo\u0301e\u0301  taa   [ats\u00fa\u00f3   \u0257\\`{\u025b}m\\`{\u0289}s]\\textsc{\\textsubscript{quotation}}",
+        "srcwordshtml": [
+            "K\u0289tana",
+            "\u014bgo\u0301e\u0301",
+            "taa",
+            "[ats\u00fa\u00f3",
+            "\u0257\\`{\u025b}m\\`{\u0289}s]<span class=\"sc\">\\textsubscript{quotation</span>}"
+        ],
+        "srcwordstex": [
+            "K\u0289tana",
+            "\u014bgo\u0301e\u0301",
+            "taa",
+            "[ats\u00fa\u00f3",
+            "\u0257\\`{\u025b}m\\`{\u0289}s]\\textsc{\\textsubscript{quotation}}"
+        ],
+        "trs": "They are saying to us, \u2018Come quickly!\u2019.\u201d"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "see:\\textsc{3pl}   that:\\textsc{acc}    rich:\\textsc{comp:1pl.exc:prf}   very",
+        "imtwordshtml": [
+            "see:<span class=\"sc\">3pl</span>",
+            "that:<span class=\"sc\">acc</span>",
+            "rich:<span class=\"sc\">comp:1pl.exc:prf</span>",
+            "very"
+        ],
+        "imtwordstex": [
+            "see:\\textsc{3pl}",
+            "that:\\textsc{acc}",
+            "rich:\\textsc{comp:1pl.exc:prf}",
+            "very"
+        ],
+        "src": "\\{En\u00e1ta  [toim\u025bnaa\\}\\textsc{\\textsubscript{obj}} bar\u0289\u0199\u0254t{\\\u00cd}m\u00e1\u00e0   z\u00f9k\u1d58]\\textsc{\\textsubscript{compl}}",
+        "srcwordshtml": [
+            "\\{En\u00e1ta",
+            "[toim\u025bnaa\\}<span class=\"sc\">\\textsubscript{obj</span>}",
+            "bar\u0289\u0199\u0254t{\\\u00cd}m\u00e1\u00e0",
+            "z\u00f9k\u1d58]<span class=\"sc\">\\textsubscript{compl</span>}"
+        ],
+        "srcwordstex": [
+            "\\{En\u00e1ta",
+            "[toim\u025bnaa\\}\\textsc{\\textsubscript{obj}}",
+            "bar\u0289\u0199\u0254t{\\\u00cd}m\u00e1\u00e0",
+            "z\u00f9k\u1d58]\\textsc{\\textsubscript{compl}}"
+        ],
+        "trs": "They see that we have become very rich."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "fear:\\textsc{1sg}   that:\\textsc{abl}   ill:\\textsc{1sg}   AIDS:\\textsc{nom}",
+        "imtwordshtml": [
+            "fear:<span class=\"sc\">1sg</span>",
+            "that:<span class=\"sc\">abl</span>",
+            "ill:<span class=\"sc\">1sg</span>",
+            "AIDS:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "fear:\\textsc{1sg}",
+            "that:\\textsc{abl}",
+            "ill:\\textsc{1sg}",
+            "AIDS:\\textsc{nom}"
+        ],
+        "src": "X\u025b\u0253{\\\u00cd}\u00e1     [toim\u025bn\u0254\u0254   ma\u00ed\u00e1     s\u00edl\u00edm]\\textsc{\\textsubscript{compl}}",
+        "srcwordshtml": [
+            "X\u025b\u0253{\\\u00cd}\u00e1",
+            "[toim\u025bn\u0254\u0254",
+            "ma\u00ed\u00e1",
+            "s\u00edl\u00edm]<span class=\"sc\">\\textsubscript{compl</span>}"
+        ],
+        "srcwordstex": [
+            "X\u025b\u0253{\\\u00cd}\u00e1",
+            "[toim\u025bn\u0254\u0254",
+            "ma\u00ed\u00e1",
+            "s\u00edl\u00edm]\\textsc{\\textsubscript{compl}}"
+        ],
+        "trs": "I am afraid that I\u2019m ill with AIDS."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "be:\\textsc{3sg} just   that[\\textsc{obl}]   not   hear:\\textsc{3sg} words:\\textsc{acc}",
+        "imtwordshtml": [
+            "be:<span class=\"sc\">3sg</span>",
+            "just",
+            "that[<span class=\"sc\">obl</span>]",
+            "not",
+            "hear:<span class=\"sc\">3sg</span>",
+            "words:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "be:\\textsc{3sg}",
+            "just",
+            "that[\\textsc{obl}]",
+            "not",
+            "hear:\\textsc{3sg}",
+            "words:\\textsc{acc}"
+        ],
+        "src": "M\u0268ta \u029da   [toim\u025bna   \u0144t\u00e1   nes\u00edbi       m\u025bn\u00e1k\u1d43]\\textsc{\\textsubscript{compl}}",
+        "srcwordshtml": [
+            "M\u0268ta",
+            "\u029da",
+            "[toim\u025bna",
+            "\u0144t\u00e1",
+            "nes\u00edbi",
+            "m\u025bn\u00e1k\u1d43]<span class=\"sc\">\\textsubscript{compl</span>}"
+        ],
+        "srcwordstex": [
+            "M\u0268ta",
+            "\u029da",
+            "[toim\u025bna",
+            "\u0144t\u00e1",
+            "nes\u00edbi",
+            "m\u025bn\u00e1k\u1d43]\\textsc{\\textsubscript{compl}}"
+        ],
+        "trs": "It is just that she doesn\u2019t understand instructions."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "big:\\textsc{1sg}   I:\\textsc{nom}   you:\\textsc{abl}",
+        "imtwordshtml": [
+            "big:<span class=\"sc\">1sg</span>",
+            "I:<span class=\"sc\">nom</span>",
+            "you:<span class=\"sc\">abl</span>"
+        ],
+        "imtwordstex": [
+            "big:\\textsc{1sg}",
+            "I:\\textsc{nom}",
+            "you:\\textsc{abl}"
+        ],
+        "src": "Ze\u00ed\u00e1     \\'{\u014b}k\u00e0     b\u00f9.",
+        "srcwordshtml": [
+            "Ze\u00ed\u00e1",
+            "\\'{\u014b}k\u00e0",
+            "b\u00f9."
+        ],
+        "srcwordstex": [
+            "Ze\u00ed\u00e1",
+            "\\'{\u014b}k\u00e0",
+            "b\u00f9."
+        ],
+        "trs": "I am bigger than you."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "nice:\\textsc{3sg}   this.one:\\textsc{nom}=this   that.one:\\textsc{abl}",
+        "imtwordshtml": [
+            "nice:<span class=\"sc\">3sg</span>",
+            "this.one:<span class=\"sc\">nom</span>=this",
+            "that.one:<span class=\"sc\">abl</span>"
+        ],
+        "imtwordstex": [
+            "nice:\\textsc{3sg}",
+            "this.one:\\textsc{nom}=this",
+            "that.one:\\textsc{abl}"
+        ],
+        "src": "Daa     \u0257a=na       k\u0268\u0257\\'{\u0254}\\'{\u0254}",
+        "srcwordshtml": [
+            "Daa",
+            "\u0257a=na",
+            "k\u0268\u0257\\'{\u0254}\\'{\u0254}"
+        ],
+        "srcwordstex": [
+            "Daa",
+            "\u0257a=na",
+            "k\u0268\u0257\\'{\u0254}\\'{\u0254}"
+        ],
+        "trs": "This one is nicer than that one."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "cultivate:\\textsc{plur:3sg} grain:\\textsc{acc} surpass:\\textsc{3sg:sim} we:\\textsc{acc}",
+        "imtwordshtml": [
+            "cultivate:<span class=\"sc\">plur:3sg</span>",
+            "grain:<span class=\"sc\">acc</span>",
+            "surpass:<span class=\"sc\">3sg:sim</span>",
+            "we:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "cultivate:\\textsc{plur:3sg}",
+            "grain:\\textsc{acc}",
+            "surpass:\\textsc{3sg:sim}",
+            "we:\\textsc{acc}"
+        ],
+        "src": "Tok\u00f3bia     e\u0257\u00ed\u00e1        [\u026al\\'{\u0254}{\\\u00cd}\u025b     \u014bg\u00f3k\u1d43]\\textsc{\\textsubscript{sim}}",
+        "srcwordshtml": [
+            "Tok\u00f3bia",
+            "e\u0257\u00ed\u00e1",
+            "[\u026al\\'{\u0254}{\\\u00cd}\u025b",
+            "\u014bg\u00f3k\u1d43]<span class=\"sc\">\\textsubscript{sim</span>}"
+        ],
+        "srcwordstex": [
+            "Tok\u00f3bia",
+            "e\u0257\u00ed\u00e1",
+            "[\u026al\\'{\u0254}{\\\u00cd}\u025b",
+            "\u014bg\u00f3k\u1d43]\\textsc{\\textsubscript{sim}}"
+        ],
+        "trs": "He cultivates grain more than us."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "kill:\\textsc{recip:3pl} exceed:\\textsc{3pl:seq} even government[\\textsc{obl}]",
+        "imtwordshtml": [
+            "kill:<span class=\"sc\">recip:3pl</span>",
+            "exceed:<span class=\"sc\">3pl:seq</span>",
+            "even",
+            "government[<span class=\"sc\">obl</span>]"
+        ],
+        "imtwordstex": [
+            "kill:\\textsc{recip:3pl}",
+            "exceed:\\textsc{3pl:seq}",
+            "even",
+            "government[\\textsc{obl}]"
+        ],
+        "src": "S\u00e1\u0253\u00fam\u00f3s\u00e1ta     [\u0268l\\'{\u0254}\u0268n\u0268          toni  \u0272erya\u014b]\\textsc{\\textsubscript{seq}}",
+        "srcwordshtml": [
+            "S\u00e1\u0253\u00fam\u00f3s\u00e1ta",
+            "[\u0268l\\'{\u0254}\u0268n\u0268",
+            "toni",
+            "\u0272erya\u014b]<span class=\"sc\">\\textsubscript{seq</span>}"
+        ],
+        "srcwordstex": [
+            "S\u00e1\u0253\u00fam\u00f3s\u00e1ta",
+            "[\u0268l\\'{\u0254}\u0268n\u0268",
+            "toni",
+            "\u0272erya\u014b]\\textsc{\\textsubscript{seq}}"
+        ],
+        "trs": "They\u2019re killing each other even more than the government."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "love:\\textsc{1sg}   tea:\\textsc{nom}   love:\\textsc{3sg} she:\\textsc{nom}   beer:\\textsc{acc}",
+        "imtwordshtml": [
+            "love:<span class=\"sc\">1sg</span>",
+            "tea:<span class=\"sc\">nom</span>",
+            "love:<span class=\"sc\">3sg</span>",
+            "she:<span class=\"sc\">nom</span>",
+            "beer:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "love:\\textsc{1sg}",
+            "tea:\\textsc{nom}",
+            "love:\\textsc{3sg}",
+            "she:\\textsc{nom}",
+            "beer:\\textsc{acc}"
+        ],
+        "src": "M{\\\u00cd}n{\\\u00cd}a     \u0272\u00e9c\u00e1y\u1d43.   M{\\\u00cd}n\u00e1       ntsa   m\\'{\u025b}s\\`{\u025b}k\u1d43.",
+        "srcwordshtml": [
+            "M{\\\u00cd}n{\\\u00cd}a",
+            "\u0272\u00e9c\u00e1y\u1d43.",
+            "M{\\\u00cd}n\u00e1",
+            "ntsa",
+            "m\\'{\u025b}s\\`{\u025b}k\u1d43."
+        ],
+        "srcwordstex": [
+            "M{\\\u00cd}n{\\\u00cd}a",
+            "\u0272\u00e9c\u00e1y\u1d43.",
+            "M{\\\u00cd}n\u00e1",
+            "ntsa",
+            "m\\'{\u025b}s\\`{\u025b}k\u1d43."
+        ],
+        "trs": "I love tea. She loves beer."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "hunt:\\textsc{plur:ipfv:ips:real=pst}   how",
+        "imtwordshtml": [
+            "hunt:<span class=\"sc\">plur:ipfv:ips:real=pst</span>",
+            "how"
+        ],
+        "imtwordstex": [
+            "hunt:\\textsc{plur:ipfv:ips:real=pst}",
+            "how"
+        ],
+        "src": "\u0198a\u0199i\u00e9s\u00e1na=noo       \u0144t\u00ed,",
+        "srcwordshtml": [
+            "\u0198a\u0199i\u00e9s\u00e1na=noo",
+            "\u0144t\u00ed,"
+        ],
+        "srcwordstex": [
+            "\u0198a\u0199i\u00e9s\u00e1na=noo",
+            "\u0144t\u00ed,"
+        ],
+        "trs": "How did people used to go hunting,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "and   go:\\textsc{plur:ips:real=pst} pick:\\textsc{nom} greens:\\textsc{gen} how",
+        "imtwordshtml": [
+            "and",
+            "go:<span class=\"sc\">plur:ips:real=pst</span>",
+            "pick:<span class=\"sc\">nom</span>",
+            "greens:<span class=\"sc\">gen</span>",
+            "how"
+        ],
+        "imtwordstex": [
+            "and",
+            "go:\\textsc{plur:ips:real=pst}",
+            "pick:\\textsc{nom}",
+            "greens:\\textsc{gen}",
+            "how"
+        ],
+        "src": "\u0144da   \u0199a\u00ed\u00e1na=noo         waa   waic\u00edk\u00e9e     \u0144t\u00ed?",
+        "srcwordshtml": [
+            "\u0144da",
+            "\u0199a\u00ed\u00e1na=noo",
+            "waa",
+            "waic\u00edk\u00e9e",
+            "\u0144t\u00ed?"
+        ],
+        "srcwordstex": [
+            "\u0144da",
+            "\u0199a\u00ed\u00e1na=noo",
+            "waa",
+            "waic\u00edk\u00e9e",
+            "\u0144t\u00ed?"
+        ],
+        "trs": "and how did they used to go picking greens?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "return:\\textsc{1sg:seq} home:\\textsc{dat}",
+        "imtwordshtml": [
+            "return:<span class=\"sc\">1sg:seq</span>",
+            "home:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "return:\\textsc{1sg:seq}",
+            "home:\\textsc{dat}"
+        ],
+        "src": "It\u00e9timaa aw\u00e1k\u1d49,",
+        "srcwordshtml": [
+            "It\u00e9timaa",
+            "aw\u00e1k\u1d49,"
+        ],
+        "srcwordstex": [
+            "It\u00e9timaa",
+            "aw\u00e1k\u1d49,"
+        ],
+        "trs": "We returned home,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "and   we:\\textsc{obl}   to.eat:\\textsc{obl}   mush:\\textsc{gen}",
+        "imtwordshtml": [
+            "and",
+            "we:<span class=\"sc\">obl</span>",
+            "to.eat:<span class=\"sc\">obl</span>",
+            "mush:<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "and",
+            "we:\\textsc{obl}",
+            "to.eat:\\textsc{obl}",
+            "mush:\\textsc{gen}"
+        ],
+        "src": "\u0144da  \u014bgo     \u014b\u0199\\'{\u025b}s{\\\u00cd}     t\u0254b\u0254\u014b\\'{\u0254}\u1d49.",
+        "srcwordshtml": [
+            "\u0144da",
+            "\u014bgo",
+            "\u014b\u0199\\'{\u025b}s{\\\u00cd}",
+            "t\u0254b\u0254\u014b\\'{\u0254}\u1d49."
+        ],
+        "srcwordstex": [
+            "\u0144da",
+            "\u014bgo",
+            "\u014b\u0199\\'{\u025b}s{\\\u00cd}",
+            "t\u0254b\u0254\u014b\\'{\u0254}\u1d49."
+        ],
+        "trs": "and we ate mealmush."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "not:\\textsc{3sg}   I:\\textsc{cop}     you:\\textsc{cop}",
+        "imtwordshtml": [
+            "not:<span class=\"sc\">3sg</span>",
+            "I:<span class=\"sc\">cop</span>",
+            "you:<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "not:\\textsc{3sg}",
+            "I:\\textsc{cop}",
+            "you:\\textsc{cop}"
+        ],
+        "src": "B\u025bna     \\'{\u0272}c\u00f9k\u1d52.     B\u00f9k\u1d52.",
+        "srcwordshtml": [
+            "B\u025bna",
+            "\\'{\u0272}c\u00f9k\u1d52.",
+            "B\u00f9k\u1d52."
+        ],
+        "srcwordstex": [
+            "B\u025bna",
+            "\\'{\u0272}c\u00f9k\u1d52.",
+            "B\u00f9k\u1d52."
+        ],
+        "trs": "It\u2019s not me. It\u2019s you."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "search:\\textsc{comp:1sg=pst1}   hoe:\\textsc{nom}",
+        "imtwordshtml": [
+            "search:<span class=\"sc\">comp:1sg=pst1</span>",
+            "hoe:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "search:\\textsc{comp:1sg=pst1}",
+            "hoe:\\textsc{nom}"
+        ],
+        "src": "B\u025b\u0257\u0289\u0199\u0254t{\\\u00cd}a=naa     \u0272\\'{\u025b}m\u025bl\u025bk\\'{\u0289},",
+        "srcwordshtml": [
+            "B\u025b\u0257\u0289\u0199\u0254t{\\\u00cd}a=naa",
+            "\u0272\\'{\u025b}m\u025bl\u025bk\\'{\u0289},"
+        ],
+        "srcwordstex": [
+            "B\u025b\u0257\u0289\u0199\u0254t{\\\u00cd}a=naa",
+            "\u0272\\'{\u025b}m\u025bl\u025bk\\'{\u0289},"
+        ],
+        "trs": "I went and looked for the hoe,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "but   not=\\textsc{pst1}   find:\\textsc{1sg}",
+        "imtwordshtml": [
+            "but",
+            "not=<span class=\"sc\">pst1</span>",
+            "find:<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "but",
+            "not=\\textsc{pst1}",
+            "find:\\textsc{1sg}"
+        ],
+        "src": "koto   m\u00e1a=naa   \u014bunet\u00ed.",
+        "srcwordshtml": [
+            "koto",
+            "m\u00e1a=naa",
+            "\u014bunet\u00ed."
+        ],
+        "srcwordstex": [
+            "koto",
+            "m\u00e1a=naa",
+            "\u014bunet\u00ed."
+        ],
+        "trs": "but I did not find (it)."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "farm:\\textsc{ipfv:2sg}   grain:\\textsc{nom}",
+        "imtwordshtml": [
+            "farm:<span class=\"sc\">ipfv:2sg</span>",
+            "grain:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "farm:\\textsc{ipfv:2sg}",
+            "grain:\\textsc{nom}"
+        ],
+        "src": "T\u0254k\\'{\u0254}b\u025bs{\\\u00cd}da       e\u0257a,",
+        "srcwordshtml": [
+            "T\u0254k\\'{\u0254}b\u025bs{\\\u00cd}da",
+            "e\u0257a,"
+        ],
+        "srcwordstex": [
+            "T\u0254k\\'{\u0254}b\u025bs{\\\u00cd}da",
+            "e\u0257a,"
+        ],
+        "trs": "Are you farming grain,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "or   not   farm:\\textsc{ipfv:2sg}",
+        "imtwordshtml": [
+            "or",
+            "not",
+            "farm:<span class=\"sc\">ipfv:2sg</span>"
+        ],
+        "imtwordstex": [
+            "or",
+            "not",
+            "farm:\\textsc{ipfv:2sg}"
+        ],
+        "src": "ke\u0257e   \u0144t\u00e1   t\u0254k\\'{\u0254}b\u025bs{\\\u00ce}d\\\u1da4?",
+        "srcwordshtml": [
+            "ke\u0257e",
+            "\u0144t\u00e1",
+            "t\u0254k\\'{\u0254}b\u025bs{\\\u00ce}d\\\u1da4?"
+        ],
+        "srcwordstex": [
+            "ke\u0257e",
+            "\u0144t\u00e1",
+            "t\u0254k\\'{\u0254}b\u025bs{\\\u00ce}d\\\u1da4?"
+        ],
+        "trs": "or are you not farming (it)?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "see:\\textsc{2sg}   things:\\textsc{nom}   bad:\\textsc{distr:3pl:sim}",
+        "imtwordshtml": [
+            "see:<span class=\"sc\">2sg</span>",
+            "things:<span class=\"sc\">nom</span>",
+            "bad:<span class=\"sc\">distr:3pl:sim</span>"
+        ],
+        "imtwordstex": [
+            "see:\\textsc{2sg}",
+            "things:\\textsc{nom}",
+            "bad:\\textsc{distr:3pl:sim}"
+        ],
+        "src": "En\u00edda       m\u025bna     gaanaak\u00e1t\u00eck\u1d49,",
+        "srcwordshtml": [
+            "En\u00edda",
+            "m\u025bna",
+            "gaanaak\u00e1t\u00eck\u1d49,"
+        ],
+        "srcwordstex": [
+            "En\u00edda",
+            "m\u025bna",
+            "gaanaak\u00e1t\u00eck\u1d49,"
+        ],
+        "trs": "Do you see things being bad all around,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "or   good:\\textsc{distr:3pl:sim}",
+        "imtwordshtml": [
+            "or",
+            "good:<span class=\"sc\">distr:3pl:sim</span>"
+        ],
+        "imtwordstex": [
+            "or",
+            "good:\\textsc{distr:3pl:sim}"
+        ],
+        "src": "kori   mar\u00e1\u014baak\u00e1t\u00eck\u1d49?",
+        "srcwordshtml": [
+            "kori",
+            "mar\u00e1\u014baak\u00e1t\u00eck\u1d49?"
+        ],
+        "srcwordstex": [
+            "kori",
+            "mar\u00e1\u014baak\u00e1t\u00eck\u1d49?"
+        ],
+        "trs": "or as being good all around?"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "put:\\textsc{3sg:seq}   shoes\\textsc{:nom}     gun:\\textsc{acc}",
+        "imtwordshtml": [
+            "put:<span class=\"sc\">3sg:seq</span>",
+            "shoes<span class=\"sc\">:nom</span>",
+            "gun:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "put:\\textsc{3sg:seq}",
+            "shoes\\textsc{:nom}",
+            "gun:\\textsc{acc}"
+        ],
+        "src": "[e\u0261u\\textbf{{o}}           ta\u0199\u00e1{\\\u00cd}ka         \\'{\u025b}bak\u1d43]\\textsc{\\textsubscript{seq2}}",
+        "srcwordshtml": [
+            "[e\u0261u<span class=\"bf\">{o</span>}",
+            "ta\u0199\u00e1{\\\u00cd}ka",
+            "\\'{\u025b}bak\u1d43]<span class=\"sc\">\\textsubscript{seq2</span>}"
+        ],
+        "srcwordstex": [
+            "[e\u0261u\\textbf{{o}}",
+            "ta\u0199\u00e1{\\\u00cd}ka",
+            "\\'{\u025b}bak\u1d43]\\textsc{\\textsubscript{seq2}}"
+        ],
+        "trs": "and the shoes made (the shape of) a gun,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "cast:\\textsc{3sg:seq}   again",
+        "imtwordshtml": [
+            "cast:<span class=\"sc\">3sg:seq</span>",
+            "again"
+        ],
+        "imtwordstex": [
+            "cast:\\textsc{3sg:seq}",
+            "again"
+        ],
+        "src": "[ipu\\textbf{{o}}            na\u0253\u00f3]\\textsc{\\textsubscript{seq3}}",
+        "srcwordshtml": [
+            "[ipu<span class=\"bf\">{o</span>}",
+            "na\u0253\u00f3]<span class=\"sc\">\\textsubscript{seq3</span>}"
+        ],
+        "srcwordstex": [
+            "[ipu\\textbf{{o}}",
+            "na\u0253\u00f3]\\textsc{\\textsubscript{seq3}}"
+        ],
+        "trs": "and he cast (them) again,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "put:\\textsc{3pl}:\\textsc{seq}     gun:\\textsc{acc}",
+        "imtwordshtml": [
+            "put:<span class=\"sc\">3pl</span>:<span class=\"sc\">seq</span>",
+            "gun:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "put:\\textsc{3pl}:\\textsc{seq}",
+            "gun:\\textsc{acc}"
+        ],
+        "src": "[e\u0261\\textbf{{ini}}      \\'{\u025b}bak\u1d43]\\textsc{\\textsubscript{seq4}}",
+        "srcwordshtml": [
+            "[e\u0261<span class=\"bf\">{ini</span>}",
+            "\\'{\u025b}bak\u1d43]<span class=\"sc\">\\textsubscript{seq4</span>}"
+        ],
+        "srcwordstex": [
+            "[e\u0261\\textbf{{ini}}",
+            "\\'{\u025b}bak\u1d43]\\textsc{\\textsubscript{seq4}}"
+        ],
+        "trs": "and they made a gun."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "when   get:\\textsc{ips:sim}   stone:\\textsc{dat}",
+        "imtwordshtml": [
+            "when",
+            "get:<span class=\"sc\">ips:sim</span>",
+            "stone:<span class=\"sc\">dat</span>"
+        ],
+        "imtwordstex": [
+            "when",
+            "get:\\textsc{ips:sim}",
+            "stone:\\textsc{dat}"
+        ],
+        "src": "[N\u00e1a   iry\u00e1m\u00e9tan{\\\u00cd}\\'{\u025b}   gwas\u00e1k\u1d49]\\textsc{\\textsubscript{adv1}}",
+        "srcwordshtml": [
+            "[N\u00e1a",
+            "iry\u00e1m\u00e9tan{\\\u00cd}\\'{\u025b}",
+            "gwas\u00e1k\u1d49]<span class=\"sc\">\\textsubscript{adv1</span>}"
+        ],
+        "srcwordstex": [
+            "[N\u00e1a",
+            "iry\u00e1m\u00e9tan{\\\u00cd}\\'{\u025b}",
+            "gwas\u00e1k\u1d49]\\textsc{\\textsubscript{adv1}}"
+        ],
+        "trs": "When a stone is acquired,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "grind:\\textsc{inch:sps}   soda.ash:\\textsc{nom}",
+        "imtwordshtml": [
+            "grind:<span class=\"sc\">inch:sps</span>",
+            "soda.ash:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "grind:\\textsc{inch:sps}",
+            "soda.ash:\\textsc{nom}"
+        ],
+        "src": "[\u014b\u0254\\'{\u025b}\\textbf{\u025bs\u025b}     \u0272a\u0253\u00e1l\u00e1\u014b\u0268t\u1d43]\\textsc{\\textsubscript{seq1}}",
+        "srcwordshtml": [
+            "[\u014b\u0254\\'{\u025b}<span class=\"bf\">\u025bs\u025b</span>",
+            "\u0272a\u0253\u00e1l\u00e1\u014b\u0268t\u1d43]<span class=\"sc\">\\textsubscript{seq1</span>}"
+        ],
+        "srcwordstex": [
+            "[\u014b\u0254\\'{\u025b}\\textbf{\u025bs\u025b}",
+            "\u0272a\u0253\u00e1l\u00e1\u014b\u0268t\u1d43]\\textsc{\\textsubscript{seq1}}"
+        ],
+        "trs": "soda ash is ground up."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "when   soda.ash:\\textsc{acc}   pulverize:\\textsc{mid:sim}",
+        "imtwordshtml": [
+            "when",
+            "soda.ash:<span class=\"sc\">acc</span>",
+            "pulverize:<span class=\"sc\">mid:sim</span>"
+        ],
+        "imtwordstex": [
+            "when",
+            "soda.ash:\\textsc{acc}",
+            "pulverize:\\textsc{mid:sim}"
+        ],
+        "src": "[n\u00e1a   \u0272a\u0253\u00e1l\u00e1\u014b\u0268t{\\\u00cd}\u00e1     iw\u00ed\u0257\u00edm\u00e8t\u00eck\u1d49]\\textsc{\\textsubscript{adv2}}",
+        "srcwordshtml": [
+            "[n\u00e1a",
+            "\u0272a\u0253\u00e1l\u00e1\u014b\u0268t{\\\u00cd}\u00e1",
+            "iw\u00ed\u0257\u00edm\u00e8t\u00eck\u1d49]<span class=\"sc\">\\textsubscript{adv2</span>}"
+        ],
+        "srcwordstex": [
+            "[n\u00e1a",
+            "\u0272a\u0253\u00e1l\u00e1\u014b\u0268t{\\\u00cd}\u00e1",
+            "iw\u00ed\u0257\u00edm\u00e8t\u00eck\u1d49]\\textsc{\\textsubscript{adv2}}"
+        ],
+        "trs": "When the soda ash is ground to powder,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "until powdery:\\textsc{comp:seq}",
+        "imtwordshtml": [
+            "until",
+            "powdery:<span class=\"sc\">comp:seq</span>"
+        ],
+        "imtwordstex": [
+            "until",
+            "powdery:\\textsc{comp:seq}"
+        ],
+        "src": "[p\u00e1ka \u0272ap\u00fa\u0257\u00fam\u00f9\u0199\u00f2t\u00f9\\textbf{k\\\u1d52}{]}\\textsc{\\textsubscript{seq4}}",
+        "srcwordshtml": [
+            "[p\u00e1ka",
+            "\u0272ap\u00fa\u0257\u00fam\u00f9\u0199\u00f2t\u00f9<span class=\"bf\">k\\\u1d52</span>{]}<span class=\"sc\">\\textsubscript{seq4</span>}"
+        ],
+        "srcwordstex": [
+            "[p\u00e1ka",
+            "\u0272ap\u00fa\u0257\u00fam\u00f9\u0199\u00f2t\u00f9\\textbf{k\\\u1d52}{]}\\textsc{\\textsubscript{seq4}}"
+        ],
+        "trs": "until it becomes fine powder."
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "if   want:\\textsc{2sg:seq}   to.build:\\textsc{nom}  house:\\textsc{gen}",
+        "imtwordshtml": [
+            "if",
+            "want:<span class=\"sc\">2sg:seq</span>",
+            "to.build:<span class=\"sc\">nom</span>",
+            "house:<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "if",
+            "want:\\textsc{2sg:seq}",
+            "to.build:\\textsc{nom}",
+            "house:\\textsc{gen}"
+        ],
+        "src": "[Na   b\\'{\u025b}\u0257\u0268d\u0254\\textbf{\u0254}     b\u025br\\'{\u025b}s\u00e1   hoe]\\textsc{\\textsubscript{adv}}",
+        "srcwordshtml": [
+            "[Na",
+            "b\\'{\u025b}\u0257\u0268d\u0254<span class=\"bf\">\u0254</span>",
+            "b\u025br\\'{\u025b}s\u00e1",
+            "hoe]<span class=\"sc\">\\textsubscript{adv</span>}"
+        ],
+        "srcwordstex": [
+            "[Na",
+            "b\\'{\u025b}\u0257\u0268d\u0254\\textbf{\u0254}",
+            "b\u025br\\'{\u025b}s\u00e1",
+            "hoe]\\textsc{\\textsubscript{adv}}"
+        ],
+        "trs": "If you want to build a house,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "cut:\\textsc{imp}   pole:\\textsc{pl}   reed:\\textsc{pl}    and   fiber",
+        "imtwordshtml": [
+            "cut:<span class=\"sc\">imp</span>",
+            "pole:<span class=\"sc\">pl</span>",
+            "reed:<span class=\"sc\">pl</span>",
+            "and",
+            "fiber"
+        ],
+        "imtwordstex": [
+            "cut:\\textsc{imp}",
+            "pole:\\textsc{pl}",
+            "reed:\\textsc{pl}",
+            "and",
+            "fiber"
+        ],
+        "src": "[kawete   tit\u00edr\u00edk\u1d43,   k\u025b\u0257\u0268t{\\\u00cd}n,   \u0144da   sim]\\textsc{\\textsubscript{imp2}}",
+        "srcwordshtml": [
+            "[kawete",
+            "tit\u00edr\u00edk\u1d43,",
+            "k\u025b\u0257\u0268t{\\\u00cd}n,",
+            "\u0144da",
+            "sim]<span class=\"sc\">\\textsubscript{imp2</span>}"
+        ],
+        "srcwordstex": [
+            "[kawete",
+            "tit\u00edr\u00edk\u1d43,",
+            "k\u025b\u0257\u0268t{\\\u00cd}n,",
+            "\u0144da",
+            "sim]\\textsc{\\textsubscript{imp2}}"
+        ],
+        "trs": "Cut poles, reeds, and fiber,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "clear:\\textsc{comp:2sg:seq}   area:\\textsc{nom}",
+        "imtwordshtml": [
+            "clear:<span class=\"sc\">comp:2sg:seq</span>",
+            "area:<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "clear:\\textsc{comp:2sg:seq}",
+            "area:\\textsc{nom}"
+        ],
+        "src": "[ir\u00e9\u0272u\u0199oidu\\textbf{o}     b\u00e1c{\\\u00cd}k\u1d43]\\textsc{\\textsubscript{seq1}}",
+        "srcwordshtml": [
+            "[ir\u00e9\u0272u\u0199oidu<span class=\"bf\">o</span>",
+            "b\u00e1c{\\\u00cd}k\u1d43]<span class=\"sc\">\\textsubscript{seq1</span>}"
+        ],
+        "srcwordstex": [
+            "[ir\u00e9\u0272u\u0199oidu\\textbf{o}",
+            "b\u00e1c{\\\u00cd}k\u1d43]\\textsc{\\textsubscript{seq1}}"
+        ],
+        "trs": "clear away the area,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "dig:\\textsc{2sg:seq}   hole:\\textsc{pl:nom}",
+        "imtwordshtml": [
+            "dig:<span class=\"sc\">2sg:seq</span>",
+            "hole:<span class=\"sc\">pl:nom</span>"
+        ],
+        "imtwordstex": [
+            "dig:\\textsc{2sg:seq}",
+            "hole:\\textsc{pl:nom}"
+        ],
+        "src": "[\u00fagidu\\textbf{o}   ripit\u00edn]\\textsc{\\textsubscript{seq2}}",
+        "srcwordshtml": [
+            "[\u00fagidu<span class=\"bf\">o</span>",
+            "ripit\u00edn]<span class=\"sc\">\\textsubscript{seq2</span>}"
+        ],
+        "srcwordstex": [
+            "[\u00fagidu\\textbf{o}",
+            "ripit\u00edn]\\textsc{\\textsubscript{seq2}}"
+        ],
+        "trs": "dig holes,"
+    },
+    {
+        "filename": "98/syntax.tex",
+        "imt": "pour:\\textsc{2sg:seq:dp}   pole:\\textsc{pl:nom}",
+        "imtwordshtml": [
+            "pour:<span class=\"sc\">2sg:seq:dp</span>",
+            "pole:<span class=\"sc\">pl:nom</span>"
+        ],
+        "imtwordstex": [
+            "pour:\\textsc{2sg:seq:dp}",
+            "pole:\\textsc{pl:nom}"
+        ],
+        "src": "[ot\u00eddu\\textbf{k\u00f3}\u00e9     tit\u00edr\u00edk\u1d43]\\textsc{\\textsubscript{seq3}}",
+        "srcwordshtml": [
+            "[ot\u00eddu<span class=\"bf\">k\u00f3</span>\u00e9",
+            "tit\u00edr\u00edk\u1d43]<span class=\"sc\">\\textsubscript{seq3</span>}"
+        ],
+        "srcwordstex": [
+            "[ot\u00eddu\\textbf{k\u00f3}\u00e9",
+            "tit\u00edr\u00edk\u1d43]\\textsc{\\textsubscript{seq3}}"
+        ],
+        "trs": "and put the poles into them."
+    }
+]

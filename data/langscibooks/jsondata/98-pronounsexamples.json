@@ -1,0 +1,150 @@
+[
+    {
+        "filename": "98/pronouns.tex",
+        "imt": "what:\\textsc{cop}   want:2\\textsc{sg}",
+        "imtwordshtml": [
+            "what:<span class=\"sc\">cop</span>",
+            "want:2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "what:\\textsc{cop}",
+            "want:2\\textsc{sg}"
+        ],
+        "src": "\\textbf{Isio}     b\\'{\u025b}\u0257{\\\u00ce}d\u1d43?",
+        "srcwordshtml": [
+            "<span class=\"bf\">Isio</span>",
+            "b\\'{\u025b}\u0257{\\\u00ce}d\u1d43?"
+        ],
+        "srcwordstex": [
+            "\\textbf{Isio}",
+            "b\\'{\u025b}\u0257{\\\u00ce}d\u1d43?"
+        ],
+        "trs": "What do you want?"
+    },
+    {
+        "filename": "98/pronouns.tex",
+        "imt": "where:\\textsc{cop}   be:\\textsc{3sg:dp}",
+        "imtwordshtml": [
+            "where:<span class=\"sc\">cop</span>",
+            "be:<span class=\"sc\">3sg:dp</span>"
+        ],
+        "imtwordstex": [
+            "where:\\textsc{cop}",
+            "be:\\textsc{3sg:dp}"
+        ],
+        "src": "\\textbf{Nda\u00ed\u00f3}   i\u00e2d\u1d49?",
+        "srcwordshtml": [
+            "<span class=\"bf\">Nda\u00ed\u00f3</span>",
+            "i\u00e2d\u1d49?"
+        ],
+        "srcwordstex": [
+            "\\textbf{Nda\u00ed\u00f3}",
+            "i\u00e2d\u1d49?"
+        ],
+        "trs": "Where is it?"
+    },
+    {
+        "filename": "98/pronouns.tex",
+        "imt": "come:\\textsc{3sg:prf}   woman:\\textsc{nom}=\\textsc{rel:sg} give.birth:\\textsc{3sg}",
+        "imtwordshtml": [
+            "come:<span class=\"sc\">3sg:prf</span>",
+            "woman:<span class=\"sc\">nom</span>=<span class=\"sc\">rel:sg</span>",
+            "give.birth:<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "come:\\textsc{3sg:prf}",
+            "woman:\\textsc{nom}=\\textsc{rel:sg}",
+            "give.birth:\\textsc{3sg}"
+        ],
+        "src": "Ats\u00e1\u00e1     ceka=[\\textbf{n\u00e1a}       \u0199waatet\u1d43]\\textsc{\\textsubscript{rc}}.",
+        "srcwordshtml": [
+            "Ats\u00e1\u00e1",
+            "ceka=[<span class=\"bf\">n\u00e1a</span>",
+            "\u0199waatet\u1d43]<span class=\"sc\">\\textsubscript{rc</span>}."
+        ],
+        "srcwordstex": [
+            "Ats\u00e1\u00e1",
+            "ceka=[\\textbf{n\u00e1a}",
+            "\u0199waatet\u1d43]\\textsc{\\textsubscript{rc}}."
+        ],
+        "trs": "The woman [who gave birth today] has come."
+    },
+    {
+        "filename": "98/pronouns.tex",
+        "imt": "slaughter:\\textsc{hort}   goats:\\textsc{obl}=\\textsc{rel:pl}   bring:\\textsc{1sg}",
+        "imtwordshtml": [
+            "slaughter:<span class=\"sc\">hort</span>",
+            "goats:<span class=\"sc\">obl</span>=<span class=\"sc\">rel:pl</span>",
+            "bring:<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "slaughter:\\textsc{hort}",
+            "goats:\\textsc{obl}=\\textsc{rel:pl}",
+            "bring:\\textsc{1sg}"
+        ],
+        "src": "T\u0254\u014b\\'{\u0254}lano     rie=[\\textbf{sini}     det\u00ed]\\textsc{\\textsubscript{rc}}.",
+        "srcwordshtml": [
+            "T\u0254\u014b\\'{\u0254}lano",
+            "rie=[<span class=\"bf\">sini</span>",
+            "det\u00ed]<span class=\"sc\">\\textsubscript{rc</span>}."
+        ],
+        "srcwordstex": [
+            "T\u0254\u014b\\'{\u0254}lano",
+            "rie=[\\textbf{sini}",
+            "det\u00ed]\\textsc{\\textsubscript{rc}}."
+        ],
+        "trs": "Let\u2019s slaughter the goats [that I brought yesterday]."
+    },
+    {
+        "filename": "98/pronouns.tex",
+        "imt": "small:\\textsc{caus:comp:imp}   self:\\textsc{obl}",
+        "imtwordshtml": [
+            "small:<span class=\"sc\">caus:comp:imp</span>",
+            "self:<span class=\"sc\">obl</span>"
+        ],
+        "imtwordstex": [
+            "small:\\textsc{caus:comp:imp}",
+            "self:\\textsc{obl}"
+        ],
+        "src": "Kwats\u00edt\u00fa\u0199oe     \\textbf{as}.",
+        "srcwordshtml": [
+            "Kwats\u00edt\u00fa\u0199oe",
+            "<span class=\"bf\">as</span>."
+        ],
+        "srcwordstex": [
+            "Kwats\u00edt\u00fa\u0199oe",
+            "\\textbf{as}."
+        ],
+        "trs": "Humble yourself (lit: make yourself small)."
+    },
+    {
+        "filename": "98/pronouns.tex",
+        "imt": "go:\\textsc{seq}   thieves:\\textsc{nom}   sneak:\\textsc{3pl:sim} selves:\\textsc{acc}",
+        "imtwordshtml": [
+            "go:<span class=\"sc\">seq</span>",
+            "thieves:<span class=\"sc\">nom</span>",
+            "sneak:<span class=\"sc\">3pl:sim</span>",
+            "selves:<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "go:\\textsc{seq}",
+            "thieves:\\textsc{nom}",
+            "sneak:\\textsc{3pl:sim}",
+            "selves:\\textsc{acc}"
+        ],
+        "src": "\u0198aio     dz\u00fa\u00edka   \u0268t{\\\u00cd}\u0257{\\\u00cd}\u0257\u00e1tie     \\textbf{\u00e1s{\\\u00cd}k\u00e0k\\\u1d43}.",
+        "srcwordshtml": [
+            "\u0198aio",
+            "dz\u00fa\u00edka",
+            "\u0268t{\\\u00cd}\u0257{\\\u00cd}\u0257\u00e1tie",
+            "<span class=\"bf\">\u00e1s{\\\u00cd</span>k\u00e0k\\\u1d43}."
+        ],
+        "srcwordstex": [
+            "\u0198aio",
+            "dz\u00fa\u00edka",
+            "\u0268t{\\\u00cd}\u0257{\\\u00cd}\u0257\u00e1tie",
+            "\\textbf{\u00e1s{\\\u00cd}k\u00e0k\\\u1d43}."
+        ],
+        "trs": "And the thieves went slinking away (lit: sneaking themselves)."
+    }
+]
