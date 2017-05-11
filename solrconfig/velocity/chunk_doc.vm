@@ -47,15 +47,29 @@
 ## <div class="tagbag" name="extr"  id="tagbag"> 
 
 <div>	  
-    <div class="chunkcontent" id="chunkcontent$docId">   $doc.getFieldValue('content')[0] </div> 
-    <a onclick='document.getElementById( "chunkcontent$docId").setAttribute("style","max-height:1000px")'> more</a>
+    <div class="chunkcontent" id="chunkcontent$docId">  
+##     $doc.getFieldValue('content')[0] 
+<table>
+  <tr>
+    #foreach($w in $doc.getFieldValue('srcwordshtml'))
+      <td  style="padding:5px;">$w</td>
+    #end
+    </tr><tr>
+    #foreach($w in $doc.getFieldValue('imtwordshtml'))
+      <td  style="padding:5px;">$w</td>
+    #end
+  </tr>
+</table> 
+    $doc.getFieldValue('trs')[0]
+    
+    </div> 
+##     <a onclick='document.getElementById( "chunkcontent$docId").setAttribute("style","max-height:1000px")'> more</a>
 </div>
 
 #set($part =$doc.getFieldValue('partof'))
 
 <div class="chunkmeta">
-    part <span> $doc.getFieldValue('chunknumber') </span> from 
-    <a href="#url_for_one_facet_filter('partof',$part )">$part</a>
+    $doc.getFieldValue('filename')[0]
 </div>
 
 ##   <div class="tagcontainer"  name="extr"   id="tagcontainer$docId" style="display:none;" >

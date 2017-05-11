@@ -17,6 +17,10 @@
 <link rel="stylesheet" type="text/css" href="#{url_for_solr}/admin/file?file=/velocity/bootstrap.min.css&contentType=text/css"/>
 <link rel="stylesheet" type="text/css" href="#{url_for_solr}/admin/file?file=/velocity/dashboard.css&contentType=text/css"/>
 <link rel="stylesheet" type="text/css" href="#{url_for_solr}/admin/file?file=/velocity/main.css&contentType=text/css"/> 
+
+<script type="text/javascript"   src="#{url_for_solr}/admin/file?file=/velocity/bootstrap.min.js"></script>
+<script type="text/javascript"   src="#{url_for_solr}/admin/file?file=/velocity/util.js"></script>
+ 
 ##   
  
 
@@ -43,13 +47,10 @@
  
 
 
-<script type="text/javascript" src="#{url_root}/js/util.js"></script>
 ##     <script src="../../dist/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="#{url_root}/js/bootstrap.min.js"></script>
-  
-    <script type="text/javascript" >
-
-</script>
+## <script type="text/javascript" src="#{url_root}/js/bootstrap.min.js"></script>
+    
+ 
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
