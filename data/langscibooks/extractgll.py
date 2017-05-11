@@ -10,10 +10,11 @@ STARTINGQUOTE = "`‘"
 ENDINGQUOTE = "'’"
 
 class gll():
-  def __init__(self,src,imt,trs,filename=None):
+  def __init__(self,src,imt,trs,filename=None,language=None):
     self.filename=filename
     self.src=src
     self.imt=imt
+    self.language=language
     self.trs=trs.strip()
     if self.trs[0] in STARTINGQUOTE:
       self.trs = self.trs[1:]
@@ -44,12 +45,13 @@ class example()  :
 
 if __name__ == '__main__':
   filename = sys.argv[1]
+  language = sys.argv[2]
   s = open(filename).read()
   examples = []
   glls = GLL.findall(s)
   for g in glls:
     try:
-      examples.append(gll(*g,filename=filename))
+      examples.append(gll(*g,filename=filename,language=language))
     except AssertionError:
       pass
     except IndexError:
