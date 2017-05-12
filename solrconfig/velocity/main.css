@@ -785,12 +785,12 @@ imtline{
   background: #eee;
 }
 
-srcline:nth-child(even), imtline:nth-child(even){
+srcline td:nth-child(even), imtline td:nth-child(even){
   background:#ded;
 }
 
 
-srcline:nth-child(odd), imtline:nth-child(odd){
+srcline td:nth-child(odd), imtline td:nth-child(odd){
   background:#ede;
 }
  
