@@ -2,23 +2,23 @@
 <div class="tagbag" name="extr"  id="$thisid" style="display:none;"> 
     <div onclick='jQuery(this).parent().hide();' class="closer"><span>X</span></div>
     <div class="callbackmsg" id="callbackmsg$doc.getFieldValue('id')" style="display:none;">
-	
+        
     </div>
     <ul class="megarow" >
     #foreach($ontofields in $megafields) 
-	<li><ul class="tagrow" > 
-	    #foreach($ontofield in $ontofields) 
-		#set( $tid = $ontofield[0]+$doc.getFieldValue('id'))
-		<li class="tagadder">	  
-		    <select size="1" name="value" class="yui3-button" id="$tid" onChange="addfield('$doc.getFieldValue('id')','$ontofield[0]', this.value);"> 
-			<option>$ontofield[0].replace('_',' ')</option> 
-			#foreach($v in $ontofield[1])
-			    <option value="$v">$v.replace('_',' ')</option> 
-			#end	
-		    </select>      
-		</li>
-	    #end
-	</ul></li>
+        <li><ul class="tagrow" > 
+            #foreach($ontofield in $ontofields) 
+                #set( $tid = $ontofield[0]+$doc.getFieldValue('id'))
+                <li class="tagadder">     
+                    <select size="1" name="value" class="yui3-button" id="$tid" onChange="addfield('$doc.getFieldValue('id')','$ontofield[0]', this.value);"> 
+                        <option>$ontofield[0].replace('_',' ')</option> 
+                        #foreach($v in $ontofield[1])
+                            <option value="$v">$v.replace('_',' ')</option> 
+                        #end    
+                    </select>      
+                </li>
+            #end
+        </ul></li>
     #end
 </div>
 
@@ -46,7 +46,7 @@
 
 ## <div class="tagbag" name="extr"  id="tagbag"> 
 
-<div>	  
+<div>     
     <div class="chunkcontent" id="chunkcontent$docId">  
 ##     $doc.getFieldValue('content')[0] 
 <table>
@@ -76,35 +76,35 @@
 <div class="tagcontainer"  name="extr"  id="tagcontainer$docId"  style="display:none;">    
 #foreach($fieldname in $doc.fieldNames)   
     #foreach($ontofields in $megafields)     
-	#foreach($ontofield in $ontofields)     
-		#if($fieldname == $ontofield[0])   
-		    <div class="tag">
-			<span class="field">$fieldname</span>
-			<span class="value">
-			    #foreach($value in $doc.getFieldValues($fieldname))
-				<span  id="$docId$fieldname$value">$esc.html($value)
-				    <span class="closer">
+        #foreach($ontofield in $ontofields)     
+                #if($fieldname == $ontofield[0])   
+                    <div class="tag">
+                        <span class="field">$fieldname</span>
+                        <span class="value">
+                            #foreach($value in $doc.getFieldValues($fieldname))
+                                <span  id="$docId$fieldname$value">$esc.html($value)
+                                    <span class="closer">
 
 #if($request.params.get('admin')=='true')  
-					<a href="#" onclick="deletefield('$docId','$fieldname','$value')">X</a>
+                                        <a href="#" onclick="deletefield('$docId','$fieldname','$value')">X</a>
 #end
-				    </span>
-				</span>
-			    #end
-			</span>
-		    </div>
-		#end
-	    #end
-	#end	 
-#end	
+                                    </span>
+                                </span>
+                            #end
+                        </span>
+                    </div>
+                #end
+            #end
+        #end     
+#end    
 #set($id_ = $doc.getFieldValue('id'))
 
 
 #if($request.params.get('admin')=='true') 
-    #if($id_== true)   	
-	<img id="flag$id_" onclick="setFlag('$id_',false)"  src="#{url_root}/img/redflag.png"  width="32px">
+    #if($id_== true)    
+        <img id="flag$id_" onclick="setFlag('$id_',false)"  src="#{url_root}/img/redflag.png"  width="32px">
     #else
-	<img id="flag$id_"  onclick="setFlag('$id_',true)"  src="#{url_root}/img/greenflag.png"  width="32px">
+        <img id="flag$id_"  onclick="setFlag('$id_',true)"  src="#{url_root}/img/greenflag.png"  width="32px">
     #end
 #end
 </div> 
