@@ -1,7 +1,26 @@
 [
     {
+        "categories": [
+            "",
+            "1pl",
+            "acc",
+            "cv",
+            "nom",
+            "pfv\"=mpl",
+            "rem"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{1pl.nom} there.\\textsc{rem} come.\\textsc{pfv\"=mpl} when avalanche strike\\textsc{-cv} \\textsc{1pl.acc} take.away.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "1pl.nom",
+            "there.REM",
+            "come.PFV\"=MPL",
+            "when",
+            "avalanche",
+            "strike-cv",
+            "1pl.acc",
+            "take.away.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1pl.nom</span>",
             "there.<span class=\"sc\">rem</span>",
@@ -22,8 +41,18 @@
             "\\textsc{1pl.acc}",
             "take.away.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{be} eeta\u0301a yh\u00f3ol-a ta hiima\u00e1l \u010dhin\u01f0-\u00ed \\textbf{asa\u00e1m} h\u00ed\u1e5b-a",
+        "srcwordsbare": [
+            "be",
+            "eeta\u0301a",
+            "yh\u00f3ol-a",
+            "ta",
+            "hiima\u00e1l",
+            "\u010dhin\u01f0-\u00ed",
+            "asa\u00e1m",
+            "h\u00ed\u1e5b-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">be</span>",
             "eeta\u0301a",
@@ -47,8 +76,24 @@
         "trs": "When we came there, an~avalanche hit and swept us away.' (A:ACR012)"
     },
     {
+        "categories": [
+            "1pl",
+            "2sg",
+            "erg",
+            "neg",
+            "nom",
+            "pfv\"=msg",
+            "prs\"=msg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{1pl.erg} \\textsc{2sg.nom} \\textsc{neg} call.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "1pl.erg",
+            "2sg.nom",
+            "NEG",
+            "call.PFV\"=MSG",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1pl.erg</span>",
             "<span class=\"sc\">2sg.nom</span>",
@@ -63,8 +108,15 @@
             "call.\\textsc{pfv\"=msg}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{as\u00edm} tu na bula\u1e0d\u00edl-u h\u00edn-u",
+        "srcwordsbare": [
+            "as\u00edm",
+            "tu",
+            "na",
+            "bula\u1e0d\u00edl-u",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">as\u00edm</span>",
             "tu",
@@ -82,8 +134,26 @@
         "trs": "We haven't called you.' (A:GHU030)"
     },
     {
+        "categories": [
+            "1sg",
+            "cv",
+            "f",
+            "gen",
+            "nom",
+            "prs",
+            "prs\"=msg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{1sg.nom} sleep.\\textsc{cv} be.\\textsc{prs\"=msg} \\textsc{1sg.gen} woman sleep.\\textsc{cv} be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "sleep.CV",
+            "be.PRS\"=MSG",
+            "1sg.gen",
+            "woman",
+            "sleep.CV",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "sleep.<span class=\"sc\">cv</span>",
@@ -102,8 +172,17 @@
             "sleep.\\textsc{cv}",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ma} se\u00e9 h\u00edn-u \\textbf{m\u00edi} k\u00fa\u1e5bi se\u00e9 h\u00edn-i",
+        "srcwordsbare": [
+            "ma",
+            "se\u00e9",
+            "h\u00edn-u",
+            "m\u00edi",
+            "k\u00fa\u1e5bi",
+            "se\u00e9",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ma</span>",
             "se\u00e9",
@@ -125,8 +204,18 @@
         "trs": "I was asleep and my wife was also asleep.' (A:HUA015)"
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "pfv\"=msg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{1sg.gen} bald.one find.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "bald.one",
+            "find.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "bald.one",
@@ -137,8 +226,13 @@
             "bald.one",
             "find.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{m\u00edi} lh\u00e9\u1e47\u1e0du l\u00e1ad-u",
+        "srcwordsbare": [
+            "m\u00edi",
+            "lh\u00e9\u1e47\u1e0du",
+            "l\u00e1ad-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">m\u00edi</span>",
             "lh\u00e9\u1e47\u1e0du",
@@ -152,8 +246,23 @@
         "trs": "I found the bald one.' (A:KAT119)"
     },
     {
+        "categories": [
+            "1sg",
+            "3sg",
+            "dist",
+            "nom",
+            "prs\"=msg",
+            "pst"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3sg.dist.nom} \\textsc{1sg.nom} eat-\\textsc{prs\"=msg} say-\\textsc{3sg} \\textsc{pst}",
+        "imtwordsbare": [
+            "3sg.dist.nom",
+            "1sg.nom",
+            "eat-PRS\"=MSG",
+            "say-3SG",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.dist.nom</span>",
             "<span class=\"sc\">1sg.nom</span>",
@@ -168,8 +277,15 @@
             "say-\\textsc{3sg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "lo \\textbf{ma} kha-a\u0301an-u than-\u00edi de",
+        "srcwordsbare": [
+            "lo",
+            "ma",
+            "kha-a\u0301an-u",
+            "than-\u00edi",
+            "de"
+        ],
         "srcwordshtml": [
             "lo",
             "<span class=\"bf\">ma</span>",
@@ -187,8 +303,19 @@
         "trs": "He said, ``It will eat me up''.' (A:GHA018)"
     },
     {
+        "categories": [
+            "acc",
+            "pfv\"=fsg",
+            "pl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "1\\textsc{pl}.\\textsc{acc} to news give.\\textsc{pfv\"=fsg}",
+        "imtwordsbare": [
+            "1PL.ACC",
+            "to",
+            "news",
+            "give.PFV\"=FSG"
+        ],
         "imtwordshtml": [
             "1<span class=\"sc\">pl</span>.<span class=\"sc\">acc</span>",
             "to",
@@ -201,8 +328,14 @@
             "news",
             "give.\\textsc{pfv\"=fsg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{asa\u00e1m} \\textbf{the} xaba\u00e1r d\u00edt-i",
+        "srcwordsbare": [
+            "asa\u00e1m",
+            "the",
+            "xaba\u00e1r",
+            "d\u00edt-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">asa\u00e1m</span>",
             "<span class=\"bf\">the</span>",
@@ -218,8 +351,22 @@
         "trs": "We heard about it.' (A:GHA006)"
     },
     {
+        "categories": [
+            "1sg",
+            "2sg",
+            "f",
+            "nom",
+            "pfv"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{2sg.nom} from \\textsc{1sg.nom} nowhere escape.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "2sg.nom",
+            "from",
+            "1sg.nom",
+            "nowhere",
+            "escape.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">2sg.nom</span>",
             "from",
@@ -234,8 +381,15 @@
             "nowhere",
             "escape.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tu} \\textbf{d\u00edi} ma \u0261\u00f3obina lh\u00e9est-i",
+        "srcwordsbare": [
+            "tu",
+            "d\u00edi",
+            "ma",
+            "\u0261\u00f3obina",
+            "lh\u00e9est-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tu</span>",
             "<span class=\"bf\">d\u00edi</span>",
@@ -253,8 +407,23 @@
         "trs": "Nowhere am I safe from you.' (A:PAS126)"
     },
     {
+        "categories": [
+            "1sg",
+            "ampl",
+            "gen",
+            "pst",
+            "top"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "Fazel.Noor \\textsc{top} \\textsc{1sg.gen} \\textsc{ampl} grandfather be.\\textsc{pst}",
+        "imtwordsbare": [
+            "Fazel.Noor",
+            "TOP",
+            "1sg.gen",
+            "AMPL",
+            "grandfather",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "Fazel.Noor",
             "<span class=\"sc\">top</span>",
@@ -271,8 +440,16 @@
             "grandfather",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "fazelnu\u00far ba \\textbf{m\u00edi} \\textbf{e} \u0261aa\u1e0dub\u00e1abu de",
+        "srcwordsbare": [
+            "fazelnu\u00far",
+            "ba",
+            "m\u00edi",
+            "e",
+            "\u0261aa\u1e0dub\u00e1abu",
+            "de"
+        ],
         "srcwordshtml": [
             "fazelnu\u00far",
             "ba",
@@ -292,8 +469,28 @@
         "trs": "And Fazel Noor was my own grandfather.' [Preceded by a~genealogy starting with a~distant forefather.] (B:ATI078)"
     },
     {
+        "categories": [
+            "1sg",
+            "ampl",
+            "gen",
+            "nom",
+            "obl\"=gen",
+            "prox",
+            "prs\"=msg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "now \\textsc{prox} present time.\\textsc{gen} \\textsc{1sg.nom} \\textsc{ampl} herd-\\textsc{obl\"=gen} occupation do-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "now",
+            "PROX",
+            "present",
+            "time.GEN",
+            "1sg.nom",
+            "AMPL",
+            "herd-OBL\"=GEN",
+            "occupation",
+            "do-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "now",
             "<span class=\"sc\">prox</span>",
@@ -316,8 +513,19 @@
             "occupation",
             "do-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "t\u00edpa an\u00ed mau\u01f0ud\u00e1 waqt-\u00edi \\textbf{ma} \\textbf{ee\u0301} bak\u00e1ara-m-ii kas\u00fab th-\u00e1an-u",
+        "srcwordsbare": [
+            "t\u00edpa",
+            "an\u00ed",
+            "mau\u01f0ud\u00e1",
+            "waqt-\u00edi",
+            "ma",
+            "ee\u0301",
+            "bak\u00e1ara-m-ii",
+            "kas\u00fab",
+            "th-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "t\u00edpa",
             "an\u00ed",
@@ -343,8 +551,26 @@
         "trs": "Nowadays I myself am engaged in shepherding.' (A:KEE079)"
     },
     {
+        "categories": [
+            "1sg",
+            "ampl",
+            "f",
+            "fsg",
+            "nom",
+            "pfv",
+            "prs",
+            "red"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{1sg.nom.red} \\textsc{ampl} go.\\textsc{pfv.fsg} be.\\textsc{prs-f} halfways until",
+        "imtwordsbare": [
+            "1sg.nom.red",
+            "AMPL",
+            "go.pfv.fsg",
+            "be.prs-f",
+            "halfways",
+            "until"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom.red</span>",
             "<span class=\"sc\">ampl</span>",
@@ -361,8 +587,16 @@
             "halfways",
             "until"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{mam} \\textbf{ee\u0301} \u0261\u00edi h\u00edn-i a\u1e0dapha\u00e1r ti\u00ed",
+        "srcwordsbare": [
+            "mam",
+            "ee\u0301",
+            "\u0261\u00edi",
+            "h\u00edn-i",
+            "a\u1e0dapha\u00e1r",
+            "ti\u00ed"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">mam</span>",
             "<span class=\"bf\">ee\u0301</span>",
@@ -382,8 +616,30 @@
         "trs": "I myself went halfways.' (A:CAV010)"
     },
     {
+        "categories": [
+            "1sg",
+            "ampl",
+            "cntr",
+            "gen",
+            "obl",
+            "pl",
+            "prox",
+            "top"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "two \\textsc{cntr} \\textsc{1sg.gen} \\textsc{prox} \\textsc{ampl} eye-\\textsc{pl} two \\textsc{top} forehead-\\textsc{obl} in",
+        "imtwordsbare": [
+            "two",
+            "CNTR",
+            "1sg.gen",
+            "PROX",
+            "AMPL",
+            "eye-PL",
+            "two",
+            "TOP",
+            "forehead-OBL",
+            "in"
+        ],
         "imtwordshtml": [
             "two",
             "<span class=\"sc\">cntr</span>",
@@ -408,8 +664,20 @@
             "forehead-\\textsc{obl}",
             "in"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "d\u00fau ta \\textbf{m\u00edi} \\textbf{ni} \\textbf{ee\u0301} ac\u0323h\u00edi-a d\u00fau ba t\u00f3oru\u1e47-a w\u00e9e",
+        "srcwordsbare": [
+            "d\u00fau",
+            "ta",
+            "m\u00edi",
+            "ni",
+            "ee\u0301",
+            "ac\u0323h\u00edi-a",
+            "d\u00fau",
+            "ba",
+            "t\u00f3oru\u1e47-a",
+            "w\u00e9e"
+        ],
         "srcwordshtml": [
             "d\u00fau",
             "ta",
@@ -437,8 +705,24 @@
         "trs": "Two were those very eyes of mine, and two were up on my forehead.' (A:HUA114)"
     },
     {
+        "categories": [
+            "3msg",
+            "nom",
+            "pl",
+            "pl\"=obl",
+            "prox",
+            "prs\"=msg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3msg}.\\textsc{nom} \\textsc{prox} unbeliever-\\textsc{pl\"=obl.pl} with help do-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "3MSG.NOM",
+            "PROX",
+            "unbeliever-pl\"=obl.pl",
+            "with",
+            "help",
+            "do-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg</span>.<span class=\"sc\">nom</span>",
             "<span class=\"sc\">prox</span>",
@@ -455,8 +739,16 @@
             "help",
             "do-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{so} an\u00ed kaafir\"=aan-\u00f3om san\u0261\u00ed mad\u00e1d th-\u00e1an-u",
+        "srcwordsbare": [
+            "so",
+            "an\u00ed",
+            "kaafir\"=aan-\u00f3om",
+            "san\u0261\u00ed",
+            "mad\u00e1d",
+            "th-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">so</span>",
             "an\u00ed",
@@ -476,8 +768,19 @@
         "trs": "He is helping these unbelievers.' (A:BEZ053)"
     },
     {
+        "categories": [
+            "3pl",
+            "nom",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3pl}.\\textsc{nom} brother.\\textsc{pl} become-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "3PL.NOM",
+            "brother.PL",
+            "become-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl</span>.<span class=\"sc\">nom</span>",
             "brother.<span class=\"sc\">pl</span>",
@@ -488,8 +791,13 @@
             "brother.\\textsc{pl}",
             "become-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{se} bhraaw\u00fa bh-\u00e1an-a",
+        "srcwordsbare": [
+            "se",
+            "bhraaw\u00fa",
+            "bh-\u00e1an-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">se</span>",
             "bhraaw\u00fa",
@@ -503,8 +811,27 @@
         "trs": "They become brothers.' (A:MIT011)"
     },
     {
+        "categories": [
+            "1pl",
+            "3pl",
+            "acc",
+            "erg",
+            "fpl",
+            "nom",
+            "pfv",
+            "sub"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "when=ever \\textsc{3pl.nom} die.\\textsc{pfv}-\\textsc{fpl} \\textsc{sub} \\textsc{1pl.erg} \\textsc{3pl.acc} bury.\\textsc{pfv}-\\textsc{fpl}",
+        "imtwordsbare": [
+            "when=ever",
+            "3pl.nom",
+            "die.PFV-FPL",
+            "SUB",
+            "1pl.erg",
+            "3pl.acc",
+            "bury.PFV-FPL"
+        ],
         "imtwordshtml": [
             "when=ever",
             "<span class=\"sc\">3pl.nom</span>",
@@ -523,8 +850,17 @@
             "\\textsc{3pl.acc}",
             "bury.\\textsc{pfv}-\\textsc{fpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "karee\u0301=\u0261ale \\textbf{se} mu\u0301\u1e5b-im ta, asi\u0301m  tenaa\u0301m \u1e0dhan\u0261e\u0301el-im",
+        "srcwordsbare": [
+            "karee\u0301=\u0261ale",
+            "se",
+            "mu\u0301\u1e5b-im",
+            "ta,",
+            "asi\u0301m",
+            "tenaa\u0301m",
+            "\u1e0dhan\u0261e\u0301el-im"
+        ],
         "srcwordshtml": [
             "karee\u0301=\u0261ale",
             "<span class=\"bf\">se</span>",
@@ -546,8 +882,21 @@
         "trs": "When they [the woman and her daughter] died, we buried them.'\\newline (B:FOR037)"
     },
     {
+        "categories": [
+            "f",
+            "gen",
+            "pl",
+            "prs"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "cupboard.\\textsc{gen} also different design-\\textsc{pl} come-\\textsc{prs-f}",
+        "imtwordsbare": [
+            "cupboard.GEN",
+            "also",
+            "different",
+            "design-PL",
+            "come-prs-f"
+        ],
         "imtwordshtml": [
             "cupboard.<span class=\"sc\">gen</span>",
             "also",
@@ -562,8 +911,15 @@
             "design-\\textsc{pl}",
             "come-\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "aalmaar\u00edi bi muxtal\u00edf dizeen-\u00ed yh-\u00e9end-i",
+        "srcwordsbare": [
+            "aalmaar\u00edi",
+            "bi",
+            "muxtal\u00edf",
+            "dizeen-\u00ed",
+            "yh-\u00e9end-i"
+        ],
         "srcwordshtml": [
             "aalmaar\u00edi",
             "bi",
@@ -581,8 +937,21 @@
         "trs": "A cupboard can also have different designs."
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3sg.gen} shelf.\\textsc{pl} different different come-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "3sg.gen",
+            "shelf.PL",
+            "different",
+            "different",
+            "come-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.gen</span>",
             "shelf.<span class=\"sc\">pl</span>",
@@ -597,8 +966,15 @@
             "different",
             "come-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tas\u00edi} xaane\u00e9 muxtal\u00edf muxtal\u00edf yh-\u00e1and-a",
+        "srcwordsbare": [
+            "tas\u00edi",
+            "xaane\u00e9",
+            "muxtal\u00edf",
+            "muxtal\u00edf",
+            "yh-\u00e1and-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tas\u00edi</span>",
             "xaane\u00e9",
@@ -616,8 +992,18 @@
         "trs": "It can have many different kinds of shelves.' (A:HOW049-50)"
     },
     {
+        "categories": [
+            "prox",
+            "quot"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{prox} skull whose \\textsc{quot}",
+        "imtwordsbare": [
+            "PROX",
+            "skull",
+            "whose",
+            "QUOT"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "skull",
@@ -630,8 +1016,14 @@
             "whose",
             "\\textsc{quot}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{an\u00ed} \\textbf{kakar\u00edi} kas\u00edi than\u00ed",
+        "srcwordsbare": [
+            "an\u00ed",
+            "kakar\u00edi",
+            "kas\u00edi",
+            "than\u00ed"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">an\u00ed</span>",
             "<span class=\"bf\">kakar\u00edi</span>",
@@ -647,8 +1039,25 @@
         "trs": "[He] said, ``Whose skull is this?''.' (A:WOM459)"
     },
     {
+        "categories": [
+            "1pl",
+            "3sg",
+            "gen",
+            "obl",
+            "pfv\"=msg",
+            "prox",
+            "quot"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3sg.prox.obl} \\textsc{1pl.gen} name life do.\\textsc{pfv\"=msg} \\textsc{quot}",
+        "imtwordsbare": [
+            "3sg.prox.obl",
+            "1pl.gen",
+            "name",
+            "life",
+            "do.PFV\"=MSG",
+            "QUOT"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.prox.obl</span>",
             "<span class=\"sc\">1pl.gen</span>",
@@ -665,8 +1074,16 @@
             "do.\\textsc{pfv\"=msg}",
             "\\textsc{quot}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{an\u00edi} as\u00edi n\u00f3o zind\u00e1 th\u00edil-u than\u00ed",
+        "srcwordsbare": [
+            "an\u00edi",
+            "as\u00edi",
+            "n\u00f3o",
+            "zind\u00e1",
+            "th\u00edil-u",
+            "than\u00ed"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">an\u00edi</span>",
             "as\u00edi",
@@ -686,8 +1103,24 @@
         "trs": "They said, ``This one has saved our reputation.''' (A:BEW008)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "cv",
+            "imp",
+            "pl",
+            "prox",
+            "top"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3sg.prox.acc} take-\\textsc{cv} take.away-\\textsc{imp.pl} now \\textsc{top}",
+        "imtwordsbare": [
+            "3sg.prox.acc",
+            "take-CV",
+            "take.away-imp.pl",
+            "now",
+            "TOP"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.prox.acc</span>",
             "take-<span class=\"sc\">cv</span>",
@@ -702,8 +1135,15 @@
             "now",
             "\\textsc{top}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{han\u00eds} \u0261hin-\u00ed h\u00e1ar\"=ui t\u00edpa ba",
+        "srcwordsbare": [
+            "han\u00eds",
+            "\u0261hin-\u00ed",
+            "h\u00e1ar\"=ui",
+            "t\u00edpa",
+            "ba"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">han\u00eds</span>",
             "\u0261hin-\u00ed",
@@ -721,8 +1161,22 @@
         "trs": "Then, go ahead and take him away!' (B:ATI066)"
     },
     {
+        "categories": [
+            "3msg",
+            "idef",
+            "nom",
+            "prox",
+            "pst"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3msg.prox.nom} land \\textsc{idef} forest be.\\textsc{pst}",
+        "imtwordsbare": [
+            "3msg.prox.nom",
+            "land",
+            "IDEF",
+            "forest",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.prox.nom</span>",
             "land",
@@ -737,8 +1191,15 @@
             "forest",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{an\u00fa} \\textbf{wat\u00e1n} \u00e1a zan\u0261\u00e1l de",
+        "srcwordsbare": [
+            "an\u00fa",
+            "wat\u00e1n",
+            "\u00e1a",
+            "zan\u0261\u00e1l",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">an\u00fa</span>",
             "<span class=\"bf\">wat\u00e1n</span>",
@@ -756,8 +1217,18 @@
         "trs": "This land was like a~forest.' (A:ANC006)"
     },
     {
+        "categories": [
+            "3msg",
+            "dist",
+            "nom"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3msg.dist.nom} whose house",
+        "imtwordsbare": [
+            "3msg.dist.nom",
+            "whose",
+            "house"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.dist.nom</span>",
             "whose",
@@ -768,8 +1239,13 @@
             "whose",
             "house"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ha\u1e5b\u00f3} kas\u00e9e \u0261ho\u00f3\u1e63\u1e6d",
+        "srcwordsbare": [
+            "ha\u1e5b\u00f3",
+            "kas\u00e9e",
+            "\u0261ho\u00f3\u1e63\u1e6d"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ha\u1e5b\u00f3</span>",
             "kas\u00e9e",
@@ -783,8 +1259,47 @@
         "trs": "Whose house is that [pointing]?' (B:DHN4839)"
     },
     {
+        "categories": [
+            "3fsg",
+            "3sg",
+            "acc",
+            "comp",
+            "condh",
+            "cv",
+            "dist",
+            "f",
+            "nom",
+            "oblg",
+            "pfv",
+            "pfv\"=msg",
+            "prs"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{dist} goat keep.\\textsc{pfv-f} \\textsc{condh} {} \\textsc{3sg.dist.acc} like.this=do.\\textsc{cv} keep-\\textsc{oblg} \\textsc{comp} method by water {} \\textsc{3sg.dist.acc} to extra cut.\\textsc{pfv\"=msg} \\textsc{condh} also \\textsc{3fsg}.\\textsc{dist.nom} spoiled become-\\textsc{prs-f}",
+        "imtwordsbare": [
+            "DIST",
+            "goat",
+            "keep.pfv-f",
+            "CONDH",
+            "{}",
+            "3sg.dist.acc",
+            "like.this=do.CV",
+            "keep-OBLG",
+            "COMP",
+            "method",
+            "by",
+            "water",
+            "{}",
+            "3sg.dist.acc",
+            "to",
+            "extra",
+            "cut.PFV\"=MSG",
+            "CONDH",
+            "also",
+            "3FSG.dist.nom",
+            "spoiled",
+            "become-prs-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">dist</span>",
             "goat",
@@ -833,8 +1348,32 @@
             "spoiled",
             "become-\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ee\u1e5b\u00e9} \\textbf{\u010dh\u00e9eli} seet\u00edl-i seenta\u0301 /{\\ldots}/ \\textbf{las} eend\u00e1a=the saat\"=ee\u1e47\u1e0de\u00e9u ki tariq\u00e1 ba\u00e1ndi w\u00edi /{\\ldots}/ \\textbf{las} the beez\u00e1aya \u1e6do\u1e0dus\u00f3ol-u seenta\u0301 bi \\textbf{le} xara\u00e1p bh-\u00e9en-i",
+        "srcwordsbare": [
+            "ee\u1e5b\u00e9",
+            "\u010dh\u00e9eli",
+            "seet\u00edl-i",
+            "seenta\u0301",
+            "/{\\ldots}/",
+            "las",
+            "eend\u00e1a=the",
+            "saat\"=ee\u1e47\u1e0de\u00e9u",
+            "ki",
+            "tariq\u00e1",
+            "ba\u00e1ndi",
+            "w\u00edi",
+            "/{\\ldots}/",
+            "las",
+            "the",
+            "beez\u00e1aya",
+            "\u1e6do\u1e0dus\u00f3ol-u",
+            "seenta\u0301",
+            "bi",
+            "le",
+            "xara\u00e1p",
+            "bh-\u00e9en-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ee\u1e5b\u00e9</span>",
             "<span class=\"bf\">\u010dh\u00e9eli</span>",
@@ -886,8 +1425,27 @@
         "trs": "This goat should be cared for like this{\\ldots} She should be given water at the proper time{\\ldots} Also, if she is fed too much, it is not good for her.' (A:KEE012-4)"
     },
     {
+        "categories": [
+            "",
+            "1sg",
+            "3pl",
+            "acc",
+            "dist",
+            "nom",
+            "pfv\"=mpl",
+            "pl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{1sg}.\\textsc{nom} from but \\textsc{3pl.}\\textsc{dist.acc} kill.\\textsc{pfv\"=mpl} Pashtun-\\textsc{pl} kill.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "1SG.NOM",
+            "from",
+            "but",
+            "3pl.dist.acc",
+            "kill.PFV\"=MPL",
+            "Pashtun-PL",
+            "kill.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg</span>.<span class=\"sc\">nom</span>",
             "from",
@@ -906,8 +1464,17 @@
             "Pashtun-\\textsc{pl}",
             "kill.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma d\u00edi xu \\textbf{a\u1e5bana\u00e1m} mheer\u00edl-a, u\u0261hee\u1e47\u00edi-a mheer\u00edl-a",
+        "srcwordsbare": [
+            "ma",
+            "d\u00edi",
+            "xu",
+            "a\u1e5bana\u00e1m",
+            "mheer\u00edl-a,",
+            "u\u0261hee\u1e47\u00edi-a",
+            "mheer\u00edl-a"
+        ],
         "srcwordshtml": [
             "ma",
             "d\u00edi",
@@ -929,8 +1496,23 @@
         "trs": "They [the people you gave me] were killed, the Pashtuns.' (A:BEZ116-7)\\\\"
     },
     {
+        "categories": [
+            "3pl",
+            "acc",
+            "neg",
+            "prox",
+            "prs\"=msg",
+            "quot"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3pl.prox.acc} water why-\\textsc{neg} make.drink-\\textsc{prs\"=msg} \\textsc{quot}",
+        "imtwordsbare": [
+            "3pl.prox.acc",
+            "water",
+            "why-NEG",
+            "make.drink-PRS\"=MSG",
+            "QUOT"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.prox.acc</span>",
             "water",
@@ -945,8 +1527,15 @@
             "make.drink-\\textsc{prs\"=msg}",
             "\\textsc{quot}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ania\u00e1m} w\u00edi ke\u00e9-na pila-a\u0301an-u than\u00ed",
+        "srcwordsbare": [
+            "ania\u00e1m",
+            "w\u00edi",
+            "ke\u00e9-na",
+            "pila-a\u0301an-u",
+            "than\u00ed"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ania\u00e1m</span>",
             "w\u00edi",
@@ -964,8 +1553,22 @@
         "trs": "Why not let them/these drink water.' (A:PAS070)"
     },
     {
+        "categories": [
+            "3fsg",
+            "3sg",
+            "comp",
+            "dist",
+            "gen",
+            "nom"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "method \\textsc{3sg}.\\textsc{dist.gen} \\textsc{3fsg}.\\textsc{dist.nom} \\textsc{comp}",
+        "imtwordsbare": [
+            "method",
+            "3SG.dist.gen",
+            "3FSG.dist.nom",
+            "COMP"
+        ],
         "imtwordshtml": [
             "method",
             "<span class=\"sc\">3sg</span>.<span class=\"sc\">dist.gen</span>",
@@ -978,8 +1581,14 @@
             "\\textsc{3fsg}.\\textsc{dist.nom}",
             "\\textsc{comp}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tart\u00edb las\u00edi \\textbf{ee\u1e5b\u00e9} ki...",
+        "srcwordsbare": [
+            "tart\u00edb",
+            "las\u00edi",
+            "ee\u1e5b\u00e9",
+            "ki..."
+        ],
         "srcwordshtml": [
             "tart\u00edb",
             "las\u00edi",
@@ -995,8 +1604,19 @@
         "trs": "Its method is as follows{\\ldots}.' (A:KEE024)"
     },
     {
+        "categories": [
+            "3msg",
+            "dist",
+            "gen",
+            "nom"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "goat.\\textsc{gen} benefit \\textsc{3msg}.\\textsc{dist.nom}",
+        "imtwordsbare": [
+            "goat.GEN",
+            "benefit",
+            "3MSG.dist.nom"
+        ],
         "imtwordshtml": [
             "goat.<span class=\"sc\">gen</span>",
             "benefit",
@@ -1007,8 +1627,13 @@
             "benefit",
             "\\textsc{3msg}.\\textsc{dist.nom}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u010dh\u00e9elii phaaid\u00e1 \\textbf{ee\u1e5b\u00f3}",
+        "srcwordsbare": [
+            "\u010dh\u00e9elii",
+            "phaaid\u00e1",
+            "ee\u1e5b\u00f3"
+        ],
         "srcwordshtml": [
             "\u010dh\u00e9elii",
             "phaaid\u00e1",
@@ -1022,8 +1647,36 @@
         "trs": "These are the benefits of the goat.' (A:KEE065)"
     },
     {
+        "categories": [
+            "cntr",
+            "comp",
+            "def",
+            "dist",
+            "msg",
+            "nom",
+            "obl",
+            "prs\"=msg",
+            "pst"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "then \\textsc{def} man-\\textsc{obl} to \\textsc{dist.msg.nom} story knowledge be.\\textsc{pst} \\textsc{comp} evil.spirit one shot-\\textsc{obl} by \\textsc{cntr} die-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "then",
+            "DEF",
+            "man-OBL",
+            "to",
+            "dist.msg.nom",
+            "story",
+            "knowledge",
+            "be.PST",
+            "COMP",
+            "evil.spirit",
+            "one",
+            "shot-OBL",
+            "by",
+            "CNTR",
+            "die-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "then",
             "<span class=\"sc\">def</span>",
@@ -1058,8 +1711,25 @@
             "\\textsc{cntr}",
             "die-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "th\u00e9e se m\u00edi\u0161-a the \\textbf{ee\u1e5b\u00f3} \\textbf{qis\u00e1} p\u00e1ta de ki bhala\u00e1 \u00e1a \u010dha\u1e6d-\u00ed baa\u0301ndi ta mar-\u00e1an-u",
+        "srcwordsbare": [
+            "th\u00e9e",
+            "se",
+            "m\u00edi\u0161-a",
+            "the",
+            "ee\u1e5b\u00f3",
+            "qis\u00e1",
+            "p\u00e1ta",
+            "de",
+            "ki",
+            "bhala\u00e1",
+            "\u00e1a",
+            "\u010dha\u1e6d-\u00ed",
+            "baa\u0301ndi",
+            "ta",
+            "mar-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "th\u00e9e",
             "se",
@@ -1097,8 +1767,24 @@
         "trs": "Then the man remembered the saying that an~evil spirit dies by a~single shot.' (A:WOM675)"
     },
     {
+        "categories": [
+            "1pl",
+            "3sg",
+            "acc",
+            "dist",
+            "gen",
+            "prs\"=mpl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3sg}.\\textsc{dist.acc} to \\textsc{1pl.gen} language say-\\textsc{prs\"=mpl} ``duula''",
+        "imtwordsbare": [
+            "3SG.dist.acc",
+            "to",
+            "1pl.gen",
+            "language",
+            "say-PRS\"=MPL",
+            "``duula''"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg</span>.<span class=\"sc\">dist.acc</span>",
             "to",
@@ -1115,8 +1801,16 @@
             "say-\\textsc{prs\"=mpl}",
             "``duula''"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{las} the as\u00edi \u010doola\u00e1 man-\u00e1an-a d\u00faula",
+        "srcwordsbare": [
+            "las",
+            "the",
+            "as\u00edi",
+            "\u010doola\u00e1",
+            "man-\u00e1an-a",
+            "d\u00faula"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">las</span>",
             "the",
@@ -1136,8 +1830,22 @@
         "trs": "In our language we call this ``duula'' [appr. proposal of marriage].'\\newline (A:MAR026)"
     },
     {
+        "categories": [
+            "msg",
+            "nom",
+            "pfv\"=msg",
+            "prox",
+            "refl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{refl} among \\textsc{prox.msg.nom} consultation do.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "REFL",
+            "among",
+            "prox.msg.nom",
+            "consultation",
+            "do.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">refl</span>",
             "among",
@@ -1152,8 +1860,15 @@
             "consultation",
             "do.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tee\u1e47\u00edi ma\u01f0\u00ed \\textbf{een\u00fa} \\textbf{ma\u0161war\u00e1} th\u00edil-u",
+        "srcwordsbare": [
+            "tee\u1e47\u00edi",
+            "ma\u01f0\u00ed",
+            "een\u00fa",
+            "ma\u0161war\u00e1",
+            "th\u00edil-u"
+        ],
         "srcwordshtml": [
             "tee\u1e47\u00edi",
             "ma\u01f0\u00ed",
@@ -1171,8 +1886,31 @@
         "trs": "Between themselves they made this plan{\\ldots}' (A:WOM474)"
     },
     {
+        "categories": [
+            "3sg",
+            "cnj",
+            "dist",
+            "gen",
+            "idef",
+            "msg",
+            "nom",
+            "pst",
+            "top"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "outside \\textsc{top} \\textsc{idef} evil.spirit woman=\\textsc{cnj} man-\\textsc{gen} \\textsc{dist.msg.nom} consultation listen-\\textsc{3sg} \\textsc{pst}",
+        "imtwordsbare": [
+            "outside",
+            "TOP",
+            "IDEF",
+            "evil.spirit",
+            "woman=CNJ",
+            "man-GEN",
+            "dist.msg.nom",
+            "consultation",
+            "listen-3SG",
+            "PST"
+        ],
         "imtwordshtml": [
             "outside",
             "<span class=\"sc\">top</span>",
@@ -1197,8 +1935,20 @@
             "listen-\\textsc{3sg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "dhar\u00e9ndi ba \u00e1a bhala\u00e1 k\u00fa\u1e5bi=ee m\u00edi\u0161-ii \\textbf{ee\u1e5b\u00f3} \\textbf{ma\u0161war\u00e1} \u1e63\u00fa\u1e47-a de",
+        "srcwordsbare": [
+            "dhar\u00e9ndi",
+            "ba",
+            "\u00e1a",
+            "bhala\u00e1",
+            "k\u00fa\u1e5bi=ee",
+            "m\u00edi\u0161-ii",
+            "ee\u1e5b\u00f3",
+            "ma\u0161war\u00e1",
+            "\u1e63\u00fa\u1e47-a",
+            "de"
+        ],
         "srcwordshtml": [
             "dhar\u00e9ndi",
             "ba",
@@ -1226,8 +1976,27 @@
         "trs": "Outside an~evil spirit was listening to that plan the wife and husband made.' (A:WOM632)"
     },
     {
+        "categories": [
+            "3sg",
+            "def",
+            "f",
+            "obl",
+            "pfv",
+            "rem"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{rem} night-\\textsc{obl} \\textsc{3sg.obl} \\textsc{def} corpse to night-\\textsc{obl} duty do.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "REM",
+            "night-OBL",
+            "3sg.obl",
+            "DEF",
+            "corpse",
+            "to",
+            "night-OBL",
+            "duty",
+            "do.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">rem</span>",
             "night-<span class=\"sc\">obl</span>",
@@ -1250,8 +2019,19 @@
             "duty",
             "do.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ees\u00e9} \\textbf{r\u00f3ot-a} t\u00edi se \u01f0inaaz\u00e1 the r\u00f3ota \u1e0dip\u1e6d\u00ed th\u00edil-i",
+        "srcwordsbare": [
+            "ees\u00e9",
+            "r\u00f3ot-a",
+            "t\u00edi",
+            "se",
+            "\u01f0inaaz\u00e1",
+            "the",
+            "r\u00f3ota",
+            "\u1e0dip\u1e6d\u00ed",
+            "th\u00edil-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ees\u00e9</span>",
             "<span class=\"bf\">r\u00f3ot-a</span>",
@@ -1277,8 +2057,35 @@
         "trs": "That night he held a~vigil for the corpse.' (A:WOM665)"
     },
     {
+        "categories": [
+            "3msg",
+            "condl",
+            "msg",
+            "nom",
+            "pfv\"=msg",
+            "pl",
+            "prs\"=msg",
+            "rem",
+            "top"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "cupboard into \\textsc{top} five quarter-\\textsc{pl} wood plank thick-\\textsc{msg} be.put.\\textsc{pfv\"=msg} \\textsc{condl} \\textsc{3msg.rem.nom} much-\\textsc{msg} good.\\textsc{msg} become-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "cupboard",
+            "into",
+            "TOP",
+            "five",
+            "quarter-PL",
+            "wood",
+            "plank",
+            "thick-MSG",
+            "be.put.PFV\"=MSG",
+            "CONDL",
+            "3msg.rem.nom",
+            "much-MSG",
+            "good.MSG",
+            "become-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "cupboard",
             "into",
@@ -1311,8 +2118,24 @@
             "good.\\textsc{msg}",
             "become-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "aalmaar\u00ed w\u00e9e ba p\u00e1an\u01f0 paaw-\u00e1 \u1e0dh\u00edn\u0261ar bhit bhak\u00fal-u la\u0261ai\u01f0\u00edl-u heenta\u0301 \\textbf{ees\u00f3} b\u00edi\u1e0d-u \u0161\u00f3o bh-\u00e1an-u",
+        "srcwordsbare": [
+            "aalmaar\u00ed",
+            "w\u00e9e",
+            "ba",
+            "p\u00e1an\u01f0",
+            "paaw-\u00e1",
+            "\u1e0dh\u00edn\u0261ar",
+            "bhit",
+            "bhak\u00fal-u",
+            "la\u0261ai\u01f0\u00edl-u",
+            "heenta\u0301",
+            "ees\u00f3",
+            "b\u00edi\u1e0d-u",
+            "\u0161\u00f3o",
+            "bh-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "aalmaar\u00ed",
             "w\u00e9e",
@@ -1348,8 +2171,20 @@
         "trs": "If five quarters of wooden planks are put into the cupboard, that will look very beautiful."
     },
     {
+        "categories": [
+            "gen",
+            "idef",
+            "pst"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "before time.\\textsc{gen} \\textsc{idef} man be.\\textsc{pst}",
+        "imtwordsbare": [
+            "before",
+            "time.GEN",
+            "IDEF",
+            "man",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "before",
             "time.<span class=\"sc\">gen</span>",
@@ -1364,8 +2199,15 @@
             "man",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "mu\u1e63\u1e6d\u00fa zaman\u00e1ii \\textbf{\u00e1a} \\textbf{m\u00edi\u0161} de",
+        "srcwordsbare": [
+            "mu\u1e63\u1e6d\u00fa",
+            "zaman\u00e1ii",
+            "\u00e1a",
+            "m\u00edi\u0161",
+            "de"
+        ],
         "srcwordshtml": [
             "mu\u1e63\u1e6d\u00fa",
             "zaman\u00e1ii",
@@ -1383,8 +2225,23 @@
         "trs": "Once upon a~time, there was a~man.' (A:THA001)"
     },
     {
+        "categories": [
+            "3sg",
+            "idef",
+            "msg",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3sg.obl} on \\textsc{idef} hairy-\\textsc{msg} monster come.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "3sg.obl",
+            "on",
+            "IDEF",
+            "hairy-MSG",
+            "monster",
+            "come.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.obl</span>",
             "on",
@@ -1401,8 +2258,16 @@
             "monster",
             "come.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "t\u00edi ma\u01f0\u00ed \\textbf{\u00e1a} \\textbf{\u01f0ha\u1e6d\u00edl-u} \\textbf{\u1e6dhaa\u1e6d\u00e1aku} yh\u00f3ol-u",
+        "srcwordsbare": [
+            "t\u00edi",
+            "ma\u01f0\u00ed",
+            "\u00e1a",
+            "\u01f0ha\u1e6d\u00edl-u",
+            "\u1e6dhaa\u1e6d\u00e1aku",
+            "yh\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "t\u00edi",
             "ma\u01f0\u00ed",
@@ -1422,8 +2287,30 @@
         "trs": "Meanwhile a~hairy monster came along.' (A:THA005)"
     },
     {
+        "categories": [
+            "3sg",
+            "cv",
+            "def",
+            "msg",
+            "nom",
+            "pfv\"=msg",
+            "pst",
+            "sub"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "monster come.\\textsc{cv} inside enter.\\textsc{pfv\"=msg} \\textsc{sub} \\textsc{def.msg.nom} man meat eat.\\textsc{3sg} \\textsc{pst}",
+        "imtwordsbare": [
+            "monster",
+            "come.CV",
+            "inside",
+            "enter.PFV\"=MSG",
+            "SUB",
+            "def.msg.nom",
+            "man",
+            "meat",
+            "eat.3SG",
+            "PST"
+        ],
         "imtwordshtml": [
             "monster",
             "come.<span class=\"sc\">cv</span>",
@@ -1448,8 +2335,20 @@
             "eat.\\textsc{3sg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{\u1e6dhaa\u1e6d\u00e1aku} yha\u00ed \u0161\u00edi\u1e6di a\u010d\u00edit-u ta \\textbf{so} \\textbf{m\u00edi\u0161} mha\u00e1s kh\u00f3o de",
+        "srcwordsbare": [
+            "\u1e6dhaa\u1e6d\u00e1aku",
+            "yha\u00ed",
+            "\u0161\u00edi\u1e6di",
+            "a\u010d\u00edit-u",
+            "ta",
+            "so",
+            "m\u00edi\u0161",
+            "mha\u00e1s",
+            "kh\u00f3o",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">\u1e6dhaa\u1e6d\u00e1aku</span>",
             "yha\u00ed",
@@ -1477,8 +2376,27 @@
         "trs": "When the monster came inside, the man was eating.' (A:THA006)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "def",
+            "obl",
+            "pfv\"=msg",
+            "vn"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "then \\textsc{def} monster-\\textsc{obl} also \\textsc{3sg.acc} with eat.\\textsc{vn} start do.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "then",
+            "DEF",
+            "monster-OBL",
+            "also",
+            "3sg.acc",
+            "with",
+            "eat.VN",
+            "start",
+            "do.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "then",
             "<span class=\"sc\">def</span>",
@@ -1501,8 +2419,19 @@
             "start",
             "do.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "the\u0301eba \\textbf{se} \\textbf{\u1e6dhaa\u1e6d\u00e1ak-a} bi \\textbf{tas} san\u0261\u00ed khaini\u00ed \u0161iro\u00f3 th\u00edil-u",
+        "srcwordsbare": [
+            "the\u0301eba",
+            "se",
+            "\u1e6dhaa\u1e6d\u00e1ak-a",
+            "bi",
+            "tas",
+            "san\u0261\u00ed",
+            "khaini\u00ed",
+            "\u0161iro\u00f3",
+            "th\u00edil-u"
+        ],
         "srcwordshtml": [
             "the\u0301eba",
             "<span class=\"bf\">se</span>",
@@ -1528,8 +2457,25 @@
         "trs": "And the monster started eating with him.' (A:THA007)"
     },
     {
+        "categories": [
+            "1sg",
+            "2sg",
+            "cv",
+            "gen",
+            "nom",
+            "obl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{1sg.nom} he.goat take-\\textsc{cv} \\textsc{2sg.gen} house-\\textsc{obl} to com-\\textsc{1sg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "he.goat",
+            "take-CV",
+            "2sg.gen",
+            "house-OBL",
+            "to",
+            "com-1SG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "he.goat",
@@ -1548,8 +2494,17 @@
             "to",
             "com-\\textsc{1sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma bh\u00ediru \u0261hin-\u00ed \\textbf{th\u00edi} \u0261hoo\u1e63\u1e6d-\u00e1 the yh-\u00faum",
+        "srcwordsbare": [
+            "ma",
+            "bh\u00ediru",
+            "\u0261hin-\u00ed",
+            "th\u00edi",
+            "\u0261hoo\u1e63\u1e6d-\u00e1",
+            "the",
+            "yh-\u00faum"
+        ],
         "srcwordshtml": [
             "ma",
             "bh\u00ediru",
@@ -1571,8 +2526,21 @@
         "trs": "I will come to your house and bring a~he\"=goat.' (A:MIT013)"
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "msg",
+            "pst"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "much-\\textsc{msg} big-\\textsc{msg} \\textsc{3sg.gen} pomp be.\\textsc{pst}",
+        "imtwordsbare": [
+            "much-MSG",
+            "big-MSG",
+            "3sg.gen",
+            "pomp",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "much-<span class=\"sc\">msg</span>",
             "big-<span class=\"sc\">msg</span>",
@@ -1587,8 +2555,15 @@
             "pomp",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "b\u00edi\u1e0d-u \u0261\u00e1a\u1e0d-u \\textbf{tes\u00e9e} dabdab\u00e1 de",
+        "srcwordsbare": [
+            "b\u00edi\u1e0d-u",
+            "\u0261\u00e1a\u1e0d-u",
+            "tes\u00e9e",
+            "dabdab\u00e1",
+            "de"
+        ],
         "srcwordshtml": [
             "b\u00edi\u1e0d-u",
             "\u0261\u00e1a\u1e0d-u",
@@ -1606,8 +2581,27 @@
         "trs": "His power was great.' (B:ATI022)"
     },
     {
+        "categories": [
+            "1sg",
+            "def",
+            "f",
+            "gen",
+            "obl",
+            "pfv",
+            "pl",
+            "refl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{def} man-\\textsc{gen} power \\textsc{1sg.gen} \\textsc{refl} eye-\\textsc{obl.pl} see.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "DEF",
+            "man-GEN",
+            "power",
+            "1sg.gen",
+            "REFL",
+            "eye-obl.pl",
+            "see.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "man-<span class=\"sc\">gen</span>",
@@ -1626,8 +2620,17 @@
             "eye-\\textsc{obl.pl}",
             "see.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se m\u00edi\u0161-e kiraam\u00e1t m\u00edi \\textbf{tee\u1e47\u00edi} ac\u0323h\u00edi-am drh\u00ed\u1e63\u1e6d-i",
+        "srcwordsbare": [
+            "se",
+            "m\u00edi\u0161-e",
+            "kiraam\u00e1t",
+            "m\u00edi",
+            "tee\u1e47\u00edi",
+            "ac\u0323h\u00edi-am",
+            "drh\u00ed\u1e63\u1e6d-i"
+        ],
         "srcwordshtml": [
             "se",
             "m\u00edi\u0161-e",
@@ -1649,8 +2652,27 @@
         "trs": "I saw the man's power with my own eyes.' (B:ATI072)"
     },
     {
+        "categories": [
+            "cv",
+            "msg",
+            "pfv",
+            "quot",
+            "refl",
+            "top"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{refl} one son Carel \\textsc{quot} there throw-\\textsc{cv} \\textsc{top} go.\\textsc{pfv.msg}",
+        "imtwordsbare": [
+            "REFL",
+            "one",
+            "son",
+            "Carel",
+            "QUOT",
+            "there",
+            "throw-CV",
+            "TOP",
+            "go.pfv.msg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">refl</span>",
             "one",
@@ -1673,8 +2695,19 @@
             "\\textsc{top}",
             "go.\\textsc{pfv.msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tee\u1e47\u00edi} ak putr kaar\u00e9l than\u00ed hat\u00e1a \u0261al-\u00ed ba \u0261\u00e1u",
+        "srcwordsbare": [
+            "tee\u1e47\u00edi",
+            "ak",
+            "putr",
+            "kaar\u00e9l",
+            "than\u00ed",
+            "hat\u00e1a",
+            "\u0261al-\u00ed",
+            "ba",
+            "\u0261\u00e1u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tee\u1e47\u00edi</span>",
             "ak",
@@ -1700,8 +2733,32 @@
         "trs": "[He] left his son, called Carel, there and left.' (B:ATI010-1)"
     },
     {
+        "categories": [
+            "comp",
+            "def",
+            "imp",
+            "msg",
+            "neg",
+            "pfv",
+            "pl",
+            "refl",
+            "sg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{def} spirit \\textsc{def} woman to say.\\textsc{pfv-msg} \\textsc{comp} \\textsc{refl} bracelet.\\textsc{pl} \\textsc{neg} rattle.\\textsc{imp.sg}",
+        "imtwordsbare": [
+            "DEF",
+            "spirit",
+            "DEF",
+            "woman",
+            "to",
+            "say.pfv-msg",
+            "COMP",
+            "REFL",
+            "bracelet.PL",
+            "NEG",
+            "rattle.imp.sg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "spirit",
@@ -1728,8 +2785,21 @@
             "\\textsc{neg}",
             "rattle.\\textsc{imp.sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se bhala\u00e1 se k\u00fa\u1e5bi the man\u00edit-u ki \\textbf{tee\u1e47\u00edi} ban\u0261le\u00e9 na \u0161irin\u0261\u00e1",
+        "srcwordsbare": [
+            "se",
+            "bhala\u00e1",
+            "se",
+            "k\u00fa\u1e5bi",
+            "the",
+            "man\u00edit-u",
+            "ki",
+            "tee\u1e47\u00edi",
+            "ban\u0261le\u00e9",
+            "na",
+            "\u0161irin\u0261\u00e1"
+        ],
         "srcwordshtml": [
             "se",
             "bhala\u00e1",
@@ -1759,8 +2829,24 @@
         "trs": "The spirit said to the woman, ``Don't rattle your bracelets!''' (A:WOM643)"
     },
     {
+        "categories": [
+            "cv",
+            "f",
+            "obl",
+            "pfv",
+            "refl"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "leopard-\\textsc{obl} from this.way=do.\\textsc{cv} \\textsc{refl} self salvation do.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "leopard-OBL",
+            "from",
+            "this.way=do.CV",
+            "REFL",
+            "self",
+            "salvation",
+            "do.pfv-f"
+        ],
         "imtwordshtml": [
             "leopard-<span class=\"sc\">obl</span>",
             "from",
@@ -1779,8 +2865,17 @@
             "salvation",
             "do.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "kar\u00e1a\u1e5b-a d\u00edi hand\u00e1a=the \\textbf{tee\u1e47\u00edi} \\textbf{za\u00e1n} ba\u010d th\u00edl-i",
+        "srcwordsbare": [
+            "kar\u00e1a\u1e5b-a",
+            "d\u00edi",
+            "hand\u00e1a=the",
+            "tee\u1e47\u00edi",
+            "za\u00e1n",
+            "ba\u010d",
+            "th\u00edl-i"
+        ],
         "srcwordshtml": [
             "kar\u00e1a\u1e5b-a",
             "d\u00edi",
@@ -1802,8 +2897,22 @@
         "trs": "This way he saved himself from the leopard.' (B:CLE381)"
     },
     {
+        "categories": [
+            "condl",
+            "pfv\"=mpl",
+            "pl",
+            "recp"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "two person-\\textsc{pl} \\textsc{recp} liking become.\\textsc{pfv\"=mpl} \\textsc{condl}",
+        "imtwordsbare": [
+            "two",
+            "person-PL",
+            "RECP",
+            "liking",
+            "become.PFV\"=MPL",
+            "CONDL"
+        ],
         "imtwordshtml": [
             "two",
             "person-<span class=\"sc\">pl</span>",
@@ -1820,8 +2929,16 @@
             "become.\\textsc{pfv\"=mpl}",
             "\\textsc{condl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "d\u00fau \u01f0\u00e1an-a \\textbf{akaad\u00fai} xox bh\u00edl-a heenta\u0301",
+        "srcwordsbare": [
+            "d\u00fau",
+            "\u01f0\u00e1an-a",
+            "akaad\u00fai",
+            "xox",
+            "bh\u00edl-a",
+            "heenta\u0301"
+        ],
         "srcwordshtml": [
             "d\u00fau",
             "\u01f0\u00e1an-a",
@@ -1841,8 +2958,24 @@
         "trs": "If two people would become fond of one another{\\ldots}' (A:MIT010)"
     },
     {
+        "categories": [
+            "3pl",
+            "gen",
+            "pl",
+            "prs\"=mpl",
+            "recp",
+            "rem"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3pl.rem.gen} child-\\textsc{pl} \\textsc{recp} father's.older.brother father's.younger.brother say-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "3pl.rem.gen",
+            "child-PL",
+            "RECP",
+            "father's.older.brother",
+            "father's.younger.brother",
+            "say-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.rem.gen</span>",
             "child-<span class=\"sc\">pl</span>",
@@ -1859,8 +2992,16 @@
             "father's.younger.brother",
             "say-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tan\u00edi ku\u1e47aak-\u00e1 \\textbf{akaad\u00fai} \u0261aa\u1e0dba\u0301abu lhookba\u0301abu man-\u00e1an-a",
+        "srcwordsbare": [
+            "tan\u00edi",
+            "ku\u1e47aak-\u00e1",
+            "akaad\u00fai",
+            "\u0261aa\u1e0dba\u0301abu",
+            "lhookba\u0301abu",
+            "man-\u00e1an-a"
+        ],
         "srcwordshtml": [
             "tan\u00edi",
             "ku\u1e47aak-\u00e1",
@@ -1880,8 +3021,28 @@
         "trs": "Their children call one another uncle.' (A:MIT026)"
     },
     {
+        "categories": [
+            "1pl",
+            "acc",
+            "pl",
+            "prs\"=mpl",
+            "top"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "Chitrali-\\textsc{pl} \\textsc{1pl.acc} to Dangarik call-\\textsc{prs\"=mpl} some \\textsc{top} \\textsc{1pl.acc} to Kalasha-\\textsc{pl} call-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "Chitrali-PL",
+            "1pl.acc",
+            "to",
+            "Dangarik",
+            "call-PRS\"=MPL",
+            "some",
+            "TOP",
+            "1pl.acc",
+            "to",
+            "Kalasha-PL",
+            "call-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "Chitrali-<span class=\"sc\">pl</span>",
             "<span class=\"sc\">1pl.acc</span>",
@@ -1908,8 +3069,21 @@
             "Kalasha-\\textsc{pl}",
             "call-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261okhi\u0301i-a asaa\u0301m the \u1e0dan\u0261ari\u0301k than-a\u0301an-a \\textbf{koo\u0301} ba asaa\u0301m the kaala\u0301a\u1e63-a than-a\u0301an-a",
+        "srcwordsbare": [
+            "\u0261okhi\u0301i-a",
+            "asaa\u0301m",
+            "the",
+            "\u1e0dan\u0261ari\u0301k",
+            "than-a\u0301an-a",
+            "koo\u0301",
+            "ba",
+            "asaa\u0301m",
+            "the",
+            "kaala\u0301a\u1e63-a",
+            "than-a\u0301an-a"
+        ],
         "srcwordshtml": [
             "\u0261okhi\u0301i-a",
             "asaa\u0301m",
@@ -1939,8 +3113,23 @@
         "trs": "The Chitralis call us Dangarik, and some consider us Kalasha.' (A:ANJ015)"
     },
     {
+        "categories": [
+            "3sg",
+            "obl",
+            "pfv\"=msg",
+            "prs\"=msg"
+        ],
         "filename": "82/05PronounsAndDeterminers.tex",
         "imt": "\\textsc{3sg.obl} water-\\textsc{obl} in some thing see.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "3sg.obl",
+            "water-OBL",
+            "in",
+            "some",
+            "thing",
+            "see.PFV\"=MSG",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.obl</span>",
             "water-<span class=\"sc\">obl</span>",
@@ -1959,8 +3148,17 @@
             "see.\\textsc{pfv\"=msg}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ti\u0301i wi\u0301i-a we\u0301e \\textbf{\u0261uba\u0301a} \u0161ay dhri\u0301\u1e63\u1e6d-u hi\u0301n-u",
+        "srcwordsbare": [
+            "ti\u0301i",
+            "wi\u0301i-a",
+            "we\u0301e",
+            "\u0261uba\u0301a",
+            "\u0161ay",
+            "dhri\u0301\u1e63\u1e6d-u",
+            "hi\u0301n-u"
+        ],
         "srcwordshtml": [
             "ti\u0301i",
             "wi\u0301i-a",

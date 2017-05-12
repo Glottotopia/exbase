@@ -1,7 +1,17 @@
 [
     {
+        "categories": [
+            "3sg",
+            "nom"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "bad:\\textsc{3sg}   issues:\\textsc{nom}=those   very   completely",
+        "imtwordsbare": [
+            "bad:3SG",
+            "issues:NOM=those",
+            "very",
+            "completely"
+        ],
         "imtwordshtml": [
             "bad:<span class=\"sc\">3sg</span>",
             "issues:<span class=\"sc\">nom</span>=those",
@@ -14,8 +24,14 @@
             "very",
             "completely"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Gaana   m\u025bna=d\u00ed\u00ed     \\textbf{zuku}   \\textbf{\u029d{\\\u00cd}k\\\u1da4}.",
+        "srcwordsbare": [
+            "Gaana",
+            "m\u025bna=d\u00ed\u00ed",
+            "zuku",
+            "\u029d{\\\u00cdk\\\u1da4}."
+        ],
         "srcwordshtml": [
             "Gaana",
             "m\u025bna=d\u00ed\u00ed",
@@ -31,8 +47,20 @@
         "trs": "Those issues are really very bad!"
     },
     {
+        "categories": [
+            "3sg",
+            "comp",
+            "dist",
+            "nom",
+            "seq"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "fat:\\textsc{dist:comp:3sg:seq}   people:\\textsc{nom}   completely",
+        "imtwordsbare": [
+            "fat:dist:comp:3sg:seq",
+            "people:NOM",
+            "completely"
+        ],
         "imtwordshtml": [
             "fat:<span class=\"sc\">dist:comp:3sg:seq</span>",
             "people:<span class=\"sc\">nom</span>",
@@ -43,8 +71,13 @@
             "people:\\textsc{nom}",
             "completely"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Z\u00edzaa\u0199\u00f3t\u00f9\u00f2       r\u00f2\u0253\u00e0     \\textbf{m\\`{\u0289}k\u00e0}.",
+        "srcwordsbare": [
+            "Z\u00edzaa\u0199\u00f3t\u00f9\u00f2",
+            "r\u00f2\u0253\u00e0",
+            "m\\`{\u0289k\u00e0}."
+        ],
         "srcwordshtml": [
             "Z\u00edzaa\u0199\u00f3t\u00f9\u00f2",
             "r\u00f2\u0253\u00e0",
@@ -58,8 +91,18 @@
         "trs": "And the people fattened up completely!"
     },
     {
+        "categories": [
+            "3sg",
+            "nom",
+            "pst2"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "go:\\textsc{3sg}=\\textsc{pst2}   my.father:\\textsc{nom}   yesterday",
+        "imtwordsbare": [
+            "go:3SG=PST2",
+            "my.father:NOM",
+            "yesterday"
+        ],
         "imtwordshtml": [
             "go:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst2</span>",
             "my.father:<span class=\"sc\">nom</span>",
@@ -70,8 +113,13 @@
             "my.father:\\textsc{nom}",
             "yesterday"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0198{\\'{a}\u00e1}=\\textbf{bee}   ab\u00e1\u014ba     s\u00e1\u00e1s\\`{\u0254}s{\\\u00cc}n.",
+        "srcwordsbare": [
+            "\u0198{\\'{a}\u00e1}=bee",
+            "ab\u00e1\u014ba",
+            "s\u00e1\u00e1s\\`{\u0254}s{\\\u00cc}n."
+        ],
         "srcwordshtml": [
             "\u0198{\\'{a}\u00e1}=<span class=\"bf\">bee</span>",
             "ab\u00e1\u014ba",
@@ -85,8 +133,19 @@
         "trs": "My father went yesterday."
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "nom",
+            "pst4"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "good:\\textsc{3sg}=\\textsc{pst4}   life:\\textsc{nom}   Ik:\\textsc{gen}",
+        "imtwordsbare": [
+            "good:3SG=PST4",
+            "life:NOM",
+            "Ik:GEN"
+        ],
         "imtwordshtml": [
             "good:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst4</span>",
             "life:<span class=\"sc\">nom</span>",
@@ -97,8 +156,13 @@
             "life:\\textsc{nom}",
             "Ik:\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Mar\u00e1\u014ba=\\textbf{noo}   \u0266yekesa   Ic\u00e9.",
+        "srcwordsbare": [
+            "Mar\u00e1\u014ba=noo",
+            "\u0266yekesa",
+            "Ic\u00e9."
+        ],
         "srcwordshtml": [
             "Mar\u00e1\u014ba=<span class=\"bf\">noo</span>",
             "\u0266yekesa",
@@ -112,8 +176,20 @@
         "trs": "The life of the Ik was good (back then)."
     },
     {
+        "categories": [
+            "1sg",
+            "3sg",
+            "dp",
+            "prf",
+            "pst"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "when  come:\\textsc{1sg:dp}   go:\\textsc{3sg}=\\textsc{pst.prf}",
+        "imtwordsbare": [
+            "when",
+            "come:1sg:dp",
+            "go:3SG=pst.prf"
+        ],
         "imtwordshtml": [
             "when",
             "come:<span class=\"sc\">1sg:dp</span>",
@@ -124,8 +200,13 @@
             "come:\\textsc{1sg:dp}",
             "go:\\textsc{3sg}=\\textsc{pst.prf}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "N\u00e1a   ats\u00ed\u00e2d\u1d49,     \u0199aa=\\textbf{nan\u00e1k\\\u1d43}.",
+        "srcwordsbare": [
+            "N\u00e1a",
+            "ats\u00ed\u00e2d\u1d49,",
+            "\u0199aa=nan\u00e1k\\\u1d43."
+        ],
         "srcwordshtml": [
             "N\u00e1a",
             "ats\u00ed\u00e2d\u1d49,",
@@ -139,8 +220,20 @@
         "trs": "When I came earlier, she had (already) gone."
     },
     {
+        "categories": [
+            "3pl",
+            "comp",
+            "dem",
+            "ins",
+            "prf",
+            "pst"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "then:\\textsc{ins}=\\textsc{dem}   die.\\textsc{3pl:comp}=\\textsc{pst.prf}",
+        "imtwordsbare": [
+            "then:INS=DEM",
+            "die.3pl:comp=pst.prf"
+        ],
         "imtwordshtml": [
             "then:<span class=\"sc\">ins</span>=<span class=\"sc\">dem</span>",
             "die.<span class=\"sc\">3pl:comp</span>=<span class=\"sc\">pst.prf</span>"
@@ -149,8 +242,12 @@
             "then:\\textsc{ins}=\\textsc{dem}",
             "die.\\textsc{3pl:comp}=\\textsc{pst.prf}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ts\u02bc\\'{\u025b}d\\'{\u0254}\\'{\u0254}=n\u025b,   ts\u02bc\u00e9\u00ed\u0199ot\u00e1t\u00e0=\\textbf{n\u00e0n\u00f2k\\\u1d52}.",
+        "srcwordsbare": [
+            "Ts\u02bc\\'{\u025b}d\\'{\u0254}\\'{\u0254}=n\u025b,",
+            "ts\u02bc\u00e9\u00ed\u0199ot\u00e1t\u00e0=n\u00e0n\u00f2k\\\u1d52."
+        ],
         "srcwordshtml": [
             "Ts\u02bc\\'{\u025b}d\\'{\u0254}\\'{\u0254}=n\u025b,",
             "ts\u02bc\u00e9\u00ed\u0199ot\u00e1t\u00e0=<span class=\"bf\">n\u00e0n\u00f2k\\\u1d52</span>."
@@ -162,8 +259,15 @@
         "trs": "By that (time), they had died out a while ago."
     },
     {
+        "categories": [
+            "1sg=pst"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "come:\\textsc{1sg=pst}   just",
+        "imtwordsbare": [
+            "come:1SG=PST",
+            "just"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">1sg=pst</span>",
             "just"
@@ -172,8 +276,12 @@
             "come:\\textsc{1sg=pst}",
             "just"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ats\u00ed\u00e1=n\u00e0\u00e0     \\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}.",
+        "srcwordsbare": [
+            "Ats\u00ed\u00e1=n\u00e0\u00e0",
+            "ts\u02bc\\`{\u0254\\`{\u0254}}."
+        ],
         "srcwordshtml": [
             "Ats\u00ed\u00e1=n\u00e0\u00e0",
             "<span class=\"bf\">ts\u02bc\\`{\u0254</span>\\`{\u0254}}."
@@ -185,8 +293,16 @@
         "trs": "I just came."
     },
     {
+        "categories": [
+            "1sg",
+            "int"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "come:\\textsc{int:1sg}   soon",
+        "imtwordsbare": [
+            "come:int:1sg",
+            "soon"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">int:1sg</span>",
             "soon"
@@ -195,8 +311,12 @@
             "come:\\textsc{int:1sg}",
             "soon"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "{Ats\u00e9s\u00ed\u00e0}     \\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}.",
+        "srcwordsbare": [
+            "{Ats\u00e9s\u00ed\u00e0}",
+            "ts\u02bc\\`{\u0254\\`{\u0254}}."
+        ],
         "srcwordshtml": [
             "{Ats\u00e9s\u00ed\u00e0}",
             "<span class=\"bf\">ts\u02bc\\`{\u0254</span>\\`{\u0254}}."
@@ -208,8 +328,18 @@
         "trs": "I will come soon."
     },
     {
+        "categories": [
+            "1pl",
+            "exc",
+            "ins"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "come:\\textsc{1pl.exc}   next   morning:\\textsc{ins}",
+        "imtwordsbare": [
+            "come:1pl.exc",
+            "next",
+            "morning:INS"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">1pl.exc</span>",
             "next",
@@ -220,8 +350,13 @@
             "next",
             "morning:\\textsc{ins}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ats\u00e9s\u00edma     \\textbf{t\u00e1\u00e1}   barats\u1d52.",
+        "srcwordsbare": [
+            "Ats\u00e9s\u00edma",
+            "t\u00e1\u00e1",
+            "barats\u1d52."
+        ],
         "srcwordshtml": [
             "Ats\u00e9s\u00edma",
             "<span class=\"bf\">t\u00e1\u00e1</span>",
@@ -235,16 +370,26 @@
         "trs": "We will come tomorrow (i.e., next morning)."
     },
     {
+        "categories": [
+            "3sg=infr",
+            "comp"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "die:\\textsc{comp:3sg=infr}",
+        "imtwordsbare": [
+            "die:comp:3sg=infr"
+        ],
         "imtwordshtml": [
             "die:<span class=\"sc\">comp:3sg=infr</span>"
         ],
         "imtwordstex": [
             "die:\\textsc{comp:3sg=infr}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Badu\u0199ota=\\textbf{n\u00e1b\u00e0ts\\\u1d49}.",
+        "srcwordsbare": [
+            "Badu\u0199ota=n\u00e1b\u00e0ts\\\u1d49."
+        ],
         "srcwordshtml": [
             "Badu\u0199ota=<span class=\"bf\">n\u00e1b\u00e0ts\\\u1d49</span>."
         ],
@@ -254,8 +399,17 @@
         "trs": "It died, apparently."
     },
     {
+        "categories": [
+            "3sg",
+            "comp",
+            "infr"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{infr}       die:\\textsc{comp:3sg}",
+        "imtwordsbare": [
+            "INFR",
+            "die:comp:3sg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">infr</span>",
             "die:<span class=\"sc\">comp:3sg</span>"
@@ -264,8 +418,12 @@
             "\\textsc{infr}",
             "die:\\textsc{comp:3sg}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{N\u00e1bee}    badu\u0199ot\u1d43.",
+        "srcwordsbare": [
+            "N\u00e1bee",
+            "badu\u0199ot\u1d43."
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">N\u00e1bee</span>",
             "badu\u0199ot\u1d43."
@@ -277,8 +435,16 @@
         "trs": "Apparently, it died."
     },
     {
+        "categories": [
+            "3pl",
+            "infr"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{infr}     separate:\\textsc{3pl}",
+        "imtwordsbare": [
+            "INFR",
+            "separate:3PL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">infr</span>",
             "separate:<span class=\"sc\">3pl</span>"
@@ -287,8 +453,12 @@
             "\\textsc{infr}",
             "separate:\\textsc{3pl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{N\u00e1noo}   terem\u00e1t\u1d43.",
+        "srcwordsbare": [
+            "N\u00e1noo",
+            "terem\u00e1t\u1d43."
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">N\u00e1noo</span>",
             "terem\u00e1t\u1d43."
@@ -300,16 +470,26 @@
         "trs": "It looks like they separated."
     },
     {
+        "categories": [
+            "2sg=pst2",
+            "comp"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "eat:\\textsc{comp:2sg=pst2}",
+        "imtwordsbare": [
+            "eat:comp:2sg=pst2"
+        ],
         "imtwordshtml": [
             "eat:<span class=\"sc\">comp:2sg=pst2</span>"
         ],
         "imtwordstex": [
             "eat:\\textsc{comp:2sg=pst2}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a\u0199\u00e1\u0199\u00f3\u00edd\u00e0=b\u00e8\u00e8?",
+        "srcwordsbare": [
+            "\u014a\u0199\u00e1\u0199\u00f3\u00edd\u00e0=b\u00e8\u00e8?"
+        ],
         "srcwordshtml": [
             "\u014a\u0199\u00e1\u0199\u00f3\u00edd\u00e0=b\u00e8\u00e8?"
         ],
@@ -319,8 +499,18 @@
         "trs": "Did you eat (it) up?"
     },
     {
+        "categories": [
+            "",
+            "1sg",
+            "comp",
+            "conf"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{conf}   eat\\textsc{:comp:1sg}",
+        "imtwordsbare": [
+            "CONF",
+            "eat:comp:1sg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">conf</span>",
             "eat<span class=\"sc\">:comp:1sg</span>"
@@ -329,8 +519,12 @@
             "\\textsc{conf}",
             "eat\\textsc{:comp:1sg}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{S\u0268na}   \u014b\u0199\u00e1\u0199\u00f3t\u00ed\u00e0.",
+        "srcwordsbare": [
+            "S\u0268na",
+            "\u014b\u0199\u00e1\u0199\u00f3t\u00ed\u00e0."
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">S\u0268na</span>",
             "\u014b\u0199\u00e1\u0199\u00f3t\u00ed\u00e0."
@@ -342,16 +536,25 @@
         "trs": "Yes, of course I did."
     },
     {
+        "categories": [
+            "3sg=pst4"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "bring:\\textsc{3sg=pst4}",
+        "imtwordsbare": [
+            "bring:3SG=PST4"
+        ],
         "imtwordshtml": [
             "bring:<span class=\"sc\">3sg=pst4</span>"
         ],
         "imtwordstex": [
             "bring:\\textsc{3sg=pst4}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "D\u00e8t\u00e0=n\u00f2\u00f2?",
+        "srcwordsbare": [
+            "D\u00e8t\u00e0=n\u00f2\u00f2?"
+        ],
         "srcwordshtml": [
             "D\u00e8t\u00e0=n\u00f2\u00f2?"
         ],
@@ -361,8 +564,16 @@
         "trs": "Did she bring (it)?"
     },
     {
+        "categories": [
+            "3sg",
+            "conf"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{conf}   bring:\\textsc{3sg}",
+        "imtwordsbare": [
+            "CONF",
+            "bring:3SG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">conf</span>",
             "bring:<span class=\"sc\">3sg</span>"
@@ -371,8 +582,12 @@
             "\\textsc{conf}",
             "bring:\\textsc{3sg}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{N\u00f2\u00f2}   d\u00e8t\u00e0.",
+        "srcwordsbare": [
+            "N\u00f2\u00f2",
+            "d\u00e8t\u00e0."
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">N\u00f2\u00f2</span>",
             "d\u00e8t\u00e0."
@@ -384,8 +599,16 @@
         "trs": "Yes, of course she did."
     },
     {
+        "categories": [
+            "2sg=hypo",
+            "dat"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "tell:\\textsc{2sg=hypo}     I:\\textsc{dat}",
+        "imtwordsbare": [
+            "tell:2SG=HYPO",
+            "I:DAT"
+        ],
         "imtwordshtml": [
             "tell:<span class=\"sc\">2sg=hypo</span>",
             "I:<span class=\"sc\">dat</span>"
@@ -394,8 +617,12 @@
             "tell:\\textsc{2sg=hypo}",
             "I:\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "T\u00f3\u00edda=\\textbf{\u0199\u00e1naa}   \\'{\u0272}c\u00ec\u00e8?",
+        "srcwordsbare": [
+            "T\u00f3\u00edda=\u0199\u00e1naa",
+            "\\'{\u0272}c\u00ec\u00e8?"
+        ],
         "srcwordshtml": [
             "T\u00f3\u00edda=<span class=\"bf\">\u0199\u00e1naa</span>",
             "\\'{\u0272}c\u00ec\u00e8?"
@@ -407,16 +634,26 @@
         "trs": "You would tell me?"
     },
     {
+        "categories": [
+            "1pl",
+            "inc=cond"
+        ],
         "filename": "98/adverbs.tex",
         "imt": "fight:\\textsc{1pl.inc=cond}",
+        "imtwordsbare": [
+            "fight:1pl.inc=cond"
+        ],
         "imtwordshtml": [
             "fight:<span class=\"sc\">1pl.inc=cond</span>"
         ],
         "imtwordstex": [
             "fight:\\textsc{1pl.inc=cond}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "C\u025bm{\\\u00cd}s{\\\u00cd}na=\\textbf{\u0199\u00e1n\u00f2k\\\u1d52}.",
+        "srcwordsbare": [
+            "C\u025bm{\\\u00cd}s{\\\u00cd}na=\u0199\u00e1n\u00f2k\\\u1d52."
+        ],
         "srcwordshtml": [
             "C\u025bm{\\\u00cd}s{\\\u00cd}na=<span class=\"bf\">\u0199\u00e1n\u00f2k\\\u1d52</span>."
         ],

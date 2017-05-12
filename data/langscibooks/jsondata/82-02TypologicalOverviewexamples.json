@@ -1,7 +1,21 @@
 [
     {
+        "categories": [
+            "1pl",
+            "cv",
+            "erg",
+            "pfv\"=msg",
+            "pst"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "\\textsc{1pl.erg} corpse drag-\\textsc{cv} take.down.\\textsc{pfv\"=msg} \\textsc{pst}",
+        "imtwordsbare": [
+            "1pl.erg",
+            "corpse",
+            "drag-CV",
+            "take.down.PFV\"=MSG",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1pl.erg</span>",
             "corpse",
@@ -16,8 +30,15 @@
             "take.down.\\textsc{pfv\"=msg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{as\u00edm} \u01f0inaaz\u00e1 kha\u1e63eel-\u00ed wheel\u00edl-u de",
+        "srcwordsbare": [
+            "as\u00edm",
+            "\u01f0inaaz\u00e1",
+            "kha\u1e63eel-\u00ed",
+            "wheel\u00edl-u",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">as\u00edm</span>",
             "\u01f0inaaz\u00e1",
@@ -35,8 +56,28 @@
         "trs": "We dragged the corpse down.' (A:GHA044)"
     },
     {
+        "categories": [
+            "1pl",
+            "3sg",
+            "acc",
+            "nom",
+            "pfv\"=msg",
+            "prox",
+            "pst",
+            "top",
+            "vn"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "\\textsc{3sg.prox.nom} \\textsc{top} \\textsc{1pl.acc} kill.\\textsc{vn} to come.up.\\textsc{pfv\"=msg} \\textsc{pst}",
+        "imtwordsbare": [
+            "3sg.prox.nom",
+            "TOP",
+            "1pl.acc",
+            "kill.VN",
+            "to",
+            "come.up.PFV\"=MSG",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.prox.nom</span>",
             "<span class=\"sc\">top</span>",
@@ -55,8 +96,17 @@
             "come.up.\\textsc{pfv\"=msg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "nu ba \\textbf{asa\u00e1m} mhaarani\u00ed the ukh\u00e1at-u de",
+        "srcwordsbare": [
+            "nu",
+            "ba",
+            "asa\u00e1m",
+            "mhaarani\u00ed",
+            "the",
+            "ukh\u00e1at-u",
+            "de"
+        ],
         "srcwordshtml": [
             "nu",
             "ba",
@@ -78,8 +128,20 @@
         "trs": "He has come up here to kill us.' (A:HUA071)"
     },
     {
+        "categories": [
+            "1pl",
+            "nom",
+            "obl",
+            "pfv",
+            "pl"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "morning-\\textsc{obl} \\textsc{1pl.nom} go.\\textsc{pfv.pl}",
+        "imtwordsbare": [
+            "morning-OBL",
+            "1pl.nom",
+            "go.pfv.pl"
+        ],
         "imtwordshtml": [
             "morning-<span class=\"sc\">obl</span>",
             "<span class=\"sc\">1pl.nom</span>",
@@ -90,8 +152,13 @@
             "\\textsc{1pl.nom}",
             "go.\\textsc{pfv.pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "rhoota\u0161\u00edi-a \\textbf{be} \u0261\u00edia",
+        "srcwordsbare": [
+            "rhoota\u0161\u00edi-a",
+            "be",
+            "\u0261\u00edia"
+        ],
         "srcwordshtml": [
             "rhoota\u0161\u00edi-a",
             "<span class=\"bf\">be</span>",
@@ -105,8 +172,38 @@
         "trs": "In the morning we left.' (A:GHA006)"
     },
     {
+        "categories": [
+            "3sg",
+            "cv",
+            "def",
+            "gen",
+            "msg",
+            "nom",
+            "obl",
+            "pfv",
+            "refl",
+            "top"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "\\textsc{3sg.obl} \\textsc{top} down come.down-\\textsc{cv} \\textsc{top} \\textsc{def.msg.nom} meat tree-\\textsc{gen} down take.down-\\textsc{cv} \\textsc{top} \\textsc{refl} house-\\textsc{obl} to take-\\textsc{cv} go.\\textsc{pfv.msg}",
+        "imtwordsbare": [
+            "3sg.obl",
+            "TOP",
+            "down",
+            "come.down-CV",
+            "TOP",
+            "def.msg.nom",
+            "meat",
+            "tree-GEN",
+            "down",
+            "take.down-CV",
+            "TOP",
+            "REFL",
+            "house-OBL",
+            "to",
+            "take-CV",
+            "go.pfv.msg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.obl</span>",
             "<span class=\"sc\">top</span>",
@@ -143,8 +240,26 @@
             "take-\\textsc{cv}",
             "go.\\textsc{pfv.msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ti\u0301i ba {\\ob}bhun wha-\u00ed ba{\\cb} {\\ob}so mha\u00e1s mu\u1e6d-\u00ed bhun wheel-\u00ed ba{\\cb} {\\ob}tee\u1e47\u00edi \u0261hoo\u1e63\u1e6d-\u00e1 the \u0261hin-\u00ed{\\cb} \u0261\u00e1u",
+        "srcwordsbare": [
+            "ti\u0301i",
+            "ba",
+            "{\\ob}bhun",
+            "wha-\u00ed",
+            "ba{\\cb}",
+            "{\\ob}so",
+            "mha\u00e1s",
+            "mu\u1e6d-\u00ed",
+            "bhun",
+            "wheel-\u00ed",
+            "ba{\\cb}",
+            "{\\ob}tee\u1e47\u00edi",
+            "\u0261hoo\u1e63\u1e6d-\u00e1",
+            "the",
+            "\u0261hin-\u00ed{\\cb}",
+            "\u0261\u00e1u"
+        ],
         "srcwordshtml": [
             "ti\u0301i",
             "ba",
@@ -184,8 +299,25 @@
         "trs": "He came down [having come down], took down the meat from the tree [having taken down the meat from the tree], and brought it to his house.' (B:SHB762)"
     },
     {
+        "categories": [
+            "",
+            "f",
+            "gen",
+            "obl",
+            "pfv",
+            "pl",
+            "vn\"=gen"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "hunt do.\\textsc{vn\"=gen} village\\textsc{-gen} people\\textsc{-pl.obl} desire do.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "hunt",
+            "do.VN\"=GEN",
+            "village-gen",
+            "people-pl.obl",
+            "desire",
+            "do.pfv-f"
+        ],
         "imtwordshtml": [
             "hunt",
             "do.<span class=\"sc\">vn\"=gen</span>",
@@ -202,8 +334,16 @@
             "desire",
             "do.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{nee\u010d\u00edir} \\textbf{then\u00edi-e} d\u00edi\u0161-e xalk-\u00edim xwaa\u00ed\u0161 th\u00edil-i",
+        "srcwordsbare": [
+            "nee\u010d\u00edir",
+            "then\u00edi-e",
+            "d\u00edi\u0161-e",
+            "xalk-\u00edim",
+            "xwaa\u00ed\u0161",
+            "th\u00edil-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">nee\u010d\u00edir</span>",
             "<span class=\"bf\">then\u00edi-e</span>",
@@ -223,8 +363,28 @@
         "trs": "People in the village wanted to go hunting.' (B:AVA200)"
     },
     {
+        "categories": [
+            "",
+            "3sg",
+            "f",
+            "gen",
+            "obl",
+            "pfv",
+            "pfv\"=msg",
+            "pl",
+            "sub"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "king die.\\textsc{pfv\"=msg} \\textsc{sub} son\\textsc{-pl.obl} \\textsc{3sg.gen} government snatch.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "king",
+            "die.PFV\"=MSG",
+            "SUB",
+            "son-pl.obl",
+            "3sg.gen",
+            "government",
+            "snatch.pfv-f"
+        ],
         "imtwordshtml": [
             "king",
             "die.<span class=\"sc\">pfv\"=msg</span>",
@@ -243,8 +403,17 @@
             "government",
             "snatch.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{raa\u01f0a\u00e1} \\textbf{m\u00fa\u1e5b-u} \\textbf{ta} putr-\u00f3om tas\u00edi hukum\u00e1t buloo\u1e63\u1e6d\u00e9el-i",
+        "srcwordsbare": [
+            "raa\u01f0a\u00e1",
+            "m\u00fa\u1e5b-u",
+            "ta",
+            "putr-\u00f3om",
+            "tas\u00edi",
+            "hukum\u00e1t",
+            "buloo\u1e63\u1e6d\u00e9el-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">raa\u01f0a\u00e1</span>",
             "<span class=\"bf\">m\u00fa\u1e5b-u</span>",
@@ -266,8 +435,30 @@
         "trs": "When the king died, the sons seized the power.' (A:MAB003)"
     },
     {
+        "categories": [
+            "3pl",
+            "comp",
+            "mpl",
+            "msg",
+            "nom",
+            "obl",
+            "pfv",
+            "pl",
+            "prox",
+            "prs\"=mpl"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "Pashtun-\\textsc{pl.obl} say.\\textsc{pfv-msg} \\textsc{comp} \\textsc{3pl.prox.nom} much-\\textsc{mpl} wild people be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "Pashtun-pl.obl",
+            "say.pfv-msg",
+            "COMP",
+            "3pl.prox.nom",
+            "much-MPL",
+            "wild",
+            "people",
+            "be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "Pashtun-<span class=\"sc\">pl.obl</span>",
             "say.<span class=\"sc\">pfv-msg</span>",
@@ -288,8 +479,18 @@
             "people",
             "be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261huee\u1e47\u00edi-am man\u00edit-u ki \\textbf{ni} \\textbf{b\u00edi\u1e0d-a} \\textbf{zinaaw\u00far} \\textbf{x\u00e1laka} \\textbf{h\u00edn-a}",
+        "srcwordsbare": [
+            "\u0261huee\u1e47\u00edi-am",
+            "man\u00edit-u",
+            "ki",
+            "ni",
+            "b\u00edi\u1e0d-a",
+            "zinaaw\u00far",
+            "x\u00e1laka",
+            "h\u00edn-a"
+        ],
         "srcwordshtml": [
             "\u0261huee\u1e47\u00edi-am",
             "man\u00edit-u",
@@ -313,8 +514,24 @@
         "trs": "The Pashtuns said, ``These are very wild people.''' (A:CHA008)"
     },
     {
+        "categories": [
+            "2sg",
+            "comp",
+            "nom",
+            "obl",
+            "pfv\"=msg",
+            "q"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "camel-\\textsc{obl} from ask.\\textsc{pfv\"=msg} \\textsc{comp} \\textsc{2sg.nom} human.being=\\textsc{q}",
+        "imtwordsbare": [
+            "camel-OBL",
+            "from",
+            "ask.PFV\"=MSG",
+            "COMP",
+            "2sg.nom",
+            "human.being=Q"
+        ],
         "imtwordshtml": [
             "camel-<span class=\"sc\">obl</span>",
             "from",
@@ -331,8 +548,16 @@
             "\\textsc{2sg.nom}",
             "human.being=\\textsc{q}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ux-\u00e1 d\u00edi khoo\u01f0\u00f3ol-u ki tu insa\u00e1n\\textbf{=ee}",
+        "srcwordsbare": [
+            "ux-\u00e1",
+            "d\u00edi",
+            "khoo\u01f0\u00f3ol-u",
+            "ki",
+            "tu",
+            "insa\u00e1n=ee"
+        ],
         "srcwordshtml": [
             "ux-\u00e1",
             "d\u00edi",
@@ -352,8 +577,21 @@
         "trs": "He asked the camel, ``Are you a~man?''' (A:KIN007)"
     },
     {
+        "categories": [
+            "3pl",
+            "nom",
+            "pl",
+            "prox",
+            "quot"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "\\textsc{prox.3pl.nom} whose shrine-\\textsc{pl} \\textsc{quot}",
+        "imtwordsbare": [
+            "prox.3pl.nom",
+            "whose",
+            "shrine-PL",
+            "QUOT"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox.3pl.nom</span>",
             "whose",
@@ -366,8 +604,14 @@
             "shrine-\\textsc{pl}",
             "\\textsc{quot}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "an\u00ed \\textbf{kas\u00e9e} ziaarat-\u00ed than\u00ed",
+        "srcwordsbare": [
+            "an\u00ed",
+            "kas\u00e9e",
+            "ziaarat-\u00ed",
+            "than\u00ed"
+        ],
         "srcwordshtml": [
             "an\u00ed",
             "<span class=\"bf\">kas\u00e9e</span>",
@@ -383,8 +627,25 @@
         "trs": "Whose shrines are these?' (B:FOR026)"
     },
     {
+        "categories": [
+            "3pl",
+            "mpl",
+            "neg",
+            "obl",
+            "pl",
+            "pst"
+        ],
         "filename": "82/02TypologicalOverview.tex",
         "imt": "of.past-\\textsc{mpl} people-\\textsc{pl} daughter-\\textsc{obl} from \\textsc{neg} ask-\\textsc{3pl} \\textsc{pst}",
+        "imtwordsbare": [
+            "of.past-MPL",
+            "people-PL",
+            "daughter-OBL",
+            "from",
+            "NEG",
+            "ask-3PL",
+            "PST"
+        ],
         "imtwordshtml": [
             "of.past-<span class=\"sc\">mpl</span>",
             "people-<span class=\"sc\">pl</span>",
@@ -403,8 +664,17 @@
             "ask-\\textsc{3pl}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "mu\u1e63\u1e6d\u00fak-a x\u00e1lak-a dhii-\u00e1 d\u00edi \\textbf{na} khoo\u01f0-\u00f3on de",
+        "srcwordsbare": [
+            "mu\u1e63\u1e6d\u00fak-a",
+            "x\u00e1lak-a",
+            "dhii-\u00e1",
+            "d\u00edi",
+            "na",
+            "khoo\u01f0-\u00f3on",
+            "de"
+        ],
         "srcwordshtml": [
             "mu\u1e63\u1e6d\u00fak-a",
             "x\u00e1lak-a",

@@ -8,6 +8,24 @@ GLL = re.compile('\\gll[ \t]*(.*?) *?\\\\\\\\\n[ \t]*(.*?) *?\\\\\\\\\n+[ \t]*\\
 TEXTEXT = re.compile('\\\\text(.*?)\{(.*?)\}') 
 STARTINGQUOTE = "`‘"
 ENDINGQUOTE = "'’"
+TEXREPLACEMENTS = [
+  (r'\_','_'),
+  (r'\textquotedbl','"'),
+  (r'\textprimstress','ˈ'),
+  (r'\textbackslash',r'\\'),
+  (r'\textbar','|'),
+  (r'\textasciitilde','~'),
+  (r'\textless','<'),
+  (r'\textgreater','>'),
+  (r'\textrightarrow','→'),
+  (r'\textalpha','α'),
+  (r'\textbeta','β'),
+  (r'\textgamma','γ'),
+  (r'\textdelta','δ'),
+  (r'\textepsilon','ε'),
+  (r'\textphi','φ'),
+  (r'\textupsilon','υ')
+]
 
 class gll():
   def __init__(self,src,imt,trs,filename=None,language=None):
@@ -31,18 +49,28 @@ class gll():
     
   def tex2html(self,s):
       result = re.sub(TEXTEXT,'<span class="\\1">\\2</span>',s)
+      for r in TEXREPLACEMENTS:        
+        result = result.replace(*r)      
       return result
       
   def striptex(self,s,sc2upper=False):
-      if sc2upper:
-        print(self.categories)
+      if sc2upper: 
         for c in self.categories:
           s = re.sub('\\\\textsc{%s}'%c,c.upper(),s)
       result = re.sub(TEXTEXT,'\\2',s)
+
+      for r in TEXREPLACEMENTS:        
+        result = result.replace(*r)
       return result
     
   def tex2categories(self,s):
-      return list(set(re.findall('\\\\textsc\{(.*?)\}',s)))
+      d = {}
+      scs =  re.findall('\\\\textsc\{(.*?)\}',s)
+      for sc in scs:
+        cats = re.split('[-.:]',sc)
+        for cat in cats: 
+          d[cat] = True
+      return sorted(list(d.keys()))
     
     
   def json(self):

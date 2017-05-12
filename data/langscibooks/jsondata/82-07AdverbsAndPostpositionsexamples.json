@@ -1,7 +1,25 @@
 [
     {
+        "categories": [
+            "mpl",
+            "obl",
+            "pfv",
+            "pfv\"=mpl",
+            "pl",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "half-\\textsc{mpl} here become.\\textsc{pfv\"=mpl} half-\\textsc{mpl} \\textsc{top} Narey-\\textsc{obl}  to  go.\\textsc{pfv.pl}",
+        "imtwordsbare": [
+            "half-MPL",
+            "here",
+            "become.PFV\"=MPL",
+            "half-MPL",
+            "TOP",
+            "Narey-OBL",
+            "to",
+            "go.pfv.pl"
+        ],
         "imtwordshtml": [
             "half-<span class=\"sc\">mpl</span>",
             "here",
@@ -22,8 +40,18 @@
             "to",
             "go.\\textsc{pfv.pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u00e1a\u1e0d-a \\textbf{\u00ednda} bh\u00edl-a \u00e1a\u1e0d-a ba naa\u1e5b\u00e9y-a  the \u0261\u00edia",
+        "srcwordsbare": [
+            "\u00e1a\u1e0d-a",
+            "\u00ednda",
+            "bh\u00edl-a",
+            "\u00e1a\u1e0d-a",
+            "ba",
+            "naa\u1e5b\u00e9y-a",
+            "the",
+            "\u0261\u00edia"
+        ],
         "srcwordshtml": [
             "\u00e1a\u1e0d-a",
             "<span class=\"bf\">\u00ednda</span>",
@@ -47,8 +75,23 @@
         "trs": "Some remained here, while others went to Narey.' (A:ANC005)"
     },
     {
+        "categories": [
+            "cv",
+            "pfv\"=msg",
+            "prs\"=msg",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "there come.\\textsc{cv} \\textsc{top} where be.\\textsc{prs\"=msg} nephew  say.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "there",
+            "come.CV",
+            "TOP",
+            "where",
+            "be.PRS\"=MSG",
+            "nephew",
+            "say.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "there",
             "come.<span class=\"sc\">cv</span>",
@@ -67,8 +110,17 @@
             "nephew",
             "say.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{t\u00e1a} yha\u00ed ba \u0261\u00f3o h\u00edn-u bhraap\u00fatr  than\u00edit-u",
+        "srcwordsbare": [
+            "t\u00e1a",
+            "yha\u00ed",
+            "ba",
+            "\u0261\u00f3o",
+            "h\u00edn-u",
+            "bhraap\u00fatr",
+            "than\u00edit-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">t\u00e1a</span>",
             "yha\u00ed",
@@ -90,8 +142,19 @@
         "trs": "When he came there, he said, ``Where is he, nephew?''' (A:PAS058)"
     },
     {
+        "categories": [
+            "cv",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "from.there take.down-\\textsc{cv} village-\\textsc{obl} bring.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "from.there",
+            "take.down-CV",
+            "village-OBL",
+            "bring.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "from.there",
             "take.down-<span class=\"sc\">cv</span>",
@@ -104,8 +167,14 @@
             "village-\\textsc{obl}",
             "bring.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{eet\u00e1ai} wheel-\u00ed \u0261hr\u00f3om-a phed\u00f3ol-u",
+        "srcwordsbare": [
+            "eet\u00e1ai",
+            "wheel-\u00ed",
+            "\u0261hr\u00f3om-a",
+            "phed\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">eet\u00e1ai</span>",
             "wheel-\u00ed",
@@ -121,8 +190,25 @@
         "trs": "Getting it [the corpse] down from there, we brought it to the village.' (A:GHA075)"
     },
     {
+        "categories": [
+            "3sg",
+            "cv",
+            "obl=",
+            "prox",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "head \\textsc{top} \\textsc{3sg.prox.obl=}in also plait-\\textsc{cv} \\textsc{3sg.prox.obl=}in also plait-\\textsc{cv}",
+        "imtwordsbare": [
+            "head",
+            "TOP",
+            "3sg.prox.obl=in",
+            "also",
+            "plait-CV",
+            "3sg.prox.obl=in",
+            "also",
+            "plait-CV"
+        ],
         "imtwordshtml": [
             "head",
             "<span class=\"sc\">top</span>",
@@ -143,8 +229,18 @@
             "also",
             "plait-\\textsc{cv}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u1e63i\u1e63 ba \\textbf{an\u00edi=wee} bi bu\u1e6d-\u00ed \\textbf{an\u00edi=wee}  bi bu\u1e6d-\u00ed",
+        "srcwordsbare": [
+            "\u1e63i\u1e63",
+            "ba",
+            "an\u00edi=wee",
+            "bi",
+            "bu\u1e6d-\u00ed",
+            "an\u00edi=wee",
+            "bi",
+            "bu\u1e6d-\u00ed"
+        ],
         "srcwordshtml": [
             "\u1e63i\u1e63",
             "ba",
@@ -168,8 +264,23 @@
         "trs": "As for his hair, it was braided into many braids.' (A:JAN069)"
     },
     {
+        "categories": [
+            "cnj",
+            "cntr",
+            "pst",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "above \\textsc{cntr} field=\\textsc{cnj} below \\textsc{top} stream.bed be.\\textsc{pst}",
+        "imtwordsbare": [
+            "above",
+            "CNTR",
+            "field=CNJ",
+            "below",
+            "TOP",
+            "stream.bed",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "above",
             "<span class=\"sc\">cntr</span>",
@@ -188,8 +299,17 @@
             "stream.bed",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{hu\u1e47\u1e0d} ta c\u0323hi\u00edtr=ee \\textbf{bhun} ba \u0261haawa\u00e1z de",
+        "srcwordsbare": [
+            "hu\u1e47\u1e0d",
+            "ta",
+            "c\u0323hi\u00edtr=ee",
+            "bhun",
+            "ba",
+            "\u0261haawa\u00e1z",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">hu\u1e47\u1e0d</span>",
             "ta",
@@ -211,8 +331,25 @@
         "trs": "The field was up above and the sand and stream were down below.'\\newline (A:JAN082)"
     },
     {
+        "categories": [
+            "cv",
+            "imp",
+            "pfv\"=msg",
+            "sg",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "soil up to throw-\\textsc{cv} \\textsc{top} go go.\\textsc{imp.sg} say.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "soil",
+            "up",
+            "to",
+            "throw-CV",
+            "TOP",
+            "go",
+            "go.imp.sg",
+            "say.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "soil",
             "up",
@@ -233,8 +370,18 @@
             "go.\\textsc{imp.sg}",
             "say.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "sum \\textbf{hu\u1e47\u1e0d} \\textbf{the} \u1e63u\u0261al-\u00ed ba \u010do ba  than\u00edit-u",
+        "srcwordsbare": [
+            "sum",
+            "hu\u1e47\u1e0d",
+            "the",
+            "\u1e63u\u0261al-\u00ed",
+            "ba",
+            "\u010do",
+            "ba",
+            "than\u00edit-u"
+        ],
         "srcwordshtml": [
             "sum",
             "<span class=\"bf\">hu\u1e47\u1e0d</span>",
@@ -258,8 +405,28 @@
         "trs": "He threw soil up [in the air] and said, ``Go on!''' (A:PIR037)"
     },
     {
+        "categories": [
+            "3pl",
+            "cv",
+            "gen",
+            "pl",
+            "prs\"=msg",
+            "sub"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "upward  look-\\textsc{3pl} \\textsc{sub} bear tree-\\textsc{gen} top on sit-\\textsc{cv} raspberry-\\textsc{pl} eat-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "upward",
+            "look-3PL",
+            "SUB",
+            "bear",
+            "tree-GEN",
+            "top",
+            "on",
+            "sit-CV",
+            "raspberry-PL",
+            "eat-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "upward",
             "look-<span class=\"sc\">3pl</span>",
@@ -284,8 +451,20 @@
             "raspberry-\\textsc{pl}",
             "eat-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{hu\u1e47\u1e0d\u0261ira\u00e1} dac\u0323h-\u00edin ta i\u1e47c\u0323 mu\u1e6d-\u00edi ph\u00fa\u1e6di \u01f0hul\u00ed bhe\u0161-\u00ed \u00e1a\u1e47c\u0323-a kha-\u00e1an-u",
+        "srcwordsbare": [
+            "hu\u1e47\u1e0d\u0261ira\u00e1",
+            "dac\u0323h-\u00edin",
+            "ta",
+            "i\u1e47c\u0323",
+            "mu\u1e6d-\u00edi",
+            "ph\u00fa\u1e6di",
+            "\u01f0hul\u00ed",
+            "bhe\u0161-\u00ed",
+            "\u00e1a\u1e47c\u0323-a",
+            "kha-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">hu\u1e47\u1e0d\u0261ira\u00e1</span>",
             "dac\u0323h-\u00edin",
@@ -313,8 +492,21 @@
         "trs": "They were looking up and saw the bear sitting in the top of the tree eating raspberries.' (A:KAT145)"
     },
     {
+        "categories": [
+            "3sg",
+            "prs\"=msg",
+            "sub"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "some downhill  come.down-\\textsc{3sg} \\textsc{sub} leopard come.up-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "some",
+            "downhill",
+            "come.down-3SG",
+            "SUB",
+            "leopard",
+            "come.up-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "some",
             "downhill",
@@ -331,8 +523,16 @@
             "leopard",
             "come.up-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tu\u00fa\u0161 \\textbf{bhunima\u00e1} wh-\u00edi ta kar\u00e1a\u1e5bu  ukh-\u00e1and-u",
+        "srcwordsbare": [
+            "tu\u00fa\u0161",
+            "bhunima\u00e1",
+            "wh-\u00edi",
+            "ta",
+            "kar\u00e1a\u1e5bu",
+            "ukh-\u00e1and-u"
+        ],
         "srcwordshtml": [
             "tu\u00fa\u0161",
             "<span class=\"bf\">bhunima\u00e1</span>",
@@ -352,8 +552,21 @@
         "trs": "Getting some ways downhill, [he meets] the leopard coming up.'\\newline (A:KAT095)"
     },
     {
+        "categories": [
+            "cv",
+            "msg",
+            "pfv",
+            "sub"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "canal take-\\textsc{cv} up go.\\textsc{pfv.msg} \\textsc{sub}",
+        "imtwordsbare": [
+            "canal",
+            "take-CV",
+            "up",
+            "go.pfv.msg",
+            "SUB"
+        ],
         "imtwordshtml": [
             "canal",
             "take-<span class=\"sc\">cv</span>",
@@ -368,8 +581,15 @@
             "go.\\textsc{pfv.msg}",
             "\\textsc{sub}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "y\u00e1ab \u0261ha\u0161-\u00ed \\textbf{a\u01f0\u00e1} \u0261\u00faum ta",
+        "srcwordsbare": [
+            "y\u00e1ab",
+            "\u0261ha\u0161-\u00ed",
+            "a\u01f0\u00e1",
+            "\u0261\u00faum",
+            "ta"
+        ],
         "srcwordshtml": [
             "y\u00e1ab",
             "\u0261ha\u0161-\u00ed",
@@ -387,8 +607,23 @@
         "trs": "I went up along the [irrigation] canal.' (A:HUA053)"
     },
     {
+        "categories": [
+            "obl",
+            "pfv",
+            "pl",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "other people \\textsc{top} down gorge-\\textsc{obl}  down.to go.\\textsc{pfv.pl}",
+        "imtwordsbare": [
+            "other",
+            "people",
+            "TOP",
+            "down",
+            "gorge-OBL",
+            "down.to",
+            "go.pfv.pl"
+        ],
         "imtwordshtml": [
             "other",
             "people",
@@ -407,8 +642,17 @@
             "down.to",
             "go.\\textsc{pfv.pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "d\u00fae x\u00e1laka ba \\textbf{t\u00fauri} dhr\u00fauk-a \u01f0e \u0261\u00e9a",
+        "srcwordsbare": [
+            "d\u00fae",
+            "x\u00e1laka",
+            "ba",
+            "t\u00fauri",
+            "dhr\u00fauk-a",
+            "\u01f0e",
+            "\u0261\u00e9a"
+        ],
         "srcwordshtml": [
             "d\u00fae",
             "x\u00e1laka",
@@ -430,8 +674,26 @@
         "trs": "The other people went down into the valley.' (B:AVA205)"
     },
     {
+        "categories": [
+            "1pl",
+            "acc",
+            "cv",
+            "host",
+            "pfv\"=mpl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "other glacier come.down.\\textsc{cv} down \\textsc{host} give.\\textsc{cv} \\textsc{1pl.acc} up take.out.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "other",
+            "glacier",
+            "come.down.CV",
+            "down",
+            "HOST",
+            "give.CV",
+            "1pl.acc",
+            "up",
+            "take.out.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "other",
             "glacier",
@@ -454,8 +716,19 @@
             "up",
             "take.out.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "d\u00fai hiima\u00e1l wha\u00ed \u1e6d\u00f3pa tra\u00e1c\u0323 de asa\u00e1m  \\textbf{rhal\u00e1} \u0261a\u1e0d\u00edl-a",
+        "srcwordsbare": [
+            "d\u00fai",
+            "hiima\u00e1l",
+            "wha\u00ed",
+            "\u1e6d\u00f3pa",
+            "tra\u00e1c\u0323",
+            "de",
+            "asa\u00e1m",
+            "rhal\u00e1",
+            "\u0261a\u1e0d\u00edl-a"
+        ],
         "srcwordshtml": [
             "d\u00fai",
             "hiima\u00e1l",
@@ -481,8 +754,27 @@
         "trs": "Another avalanche struck came and brought us out [from under the snow].' (A:ACR015)"
     },
     {
+        "categories": [
+            "mpl",
+            "msg",
+            "pl",
+            "prs\"=msg",
+            "quot"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "white-\\textsc{msg} hill \\textsc{quot} high.up about two and.half-\\textsc{mpl} mile-\\textsc{pl} hill be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "white-MSG",
+            "hill",
+            "QUOT",
+            "high.up",
+            "about",
+            "two",
+            "and.half-MPL",
+            "mile-PL",
+            "hill",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "white-<span class=\"sc\">msg</span>",
             "hill",
@@ -507,8 +799,20 @@
             "hill",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "pa\u1e47a\u0301ar-u ta\u0301apa\u1e5b thani\u0301 \\textbf{awaa\u0261i\u0301r} qariba\u0301n du\u0301u thia\u0301a\u1e0d-a mi\u0301il-a ta\u0301apa\u1e5b hi\u0301n-u",
+        "srcwordsbare": [
+            "pa\u1e47a\u0301ar-u",
+            "ta\u0301apa\u1e5b",
+            "thani\u0301",
+            "awaa\u0261i\u0301r",
+            "qariba\u0301n",
+            "du\u0301u",
+            "thia\u0301a\u1e0d-a",
+            "mi\u0301il-a",
+            "ta\u0301apa\u1e5b",
+            "hi\u0301n-u"
+        ],
         "srcwordshtml": [
             "pa\u1e47a\u0301ar-u",
             "ta\u0301apa\u1e5b",
@@ -536,8 +840,44 @@
         "trs": "There is a hill called the White Hill about two and a half kilometers up.' (A:HUA117)"
     },
     {
+        "categories": [
+            "1sg",
+            "3pl",
+            "acc",
+            "cv",
+            "def",
+            "dem",
+            "msg",
+            "nom",
+            "obl",
+            "pfv\"=msg",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "Ghortsi also \\textsc{def.msg.nom} one dog also flee.\\textsc{cv} over.here roof-\\textsc{obl} \\textsc{dem.msg.nom} thing also \\textsc{3pl.acc} with come.\\textsc{cv} roof-\\textsc{obl} \\textsc{1sg.nom} \\textsc{top} yonder alone remain.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "Ghortsi",
+            "also",
+            "def.msg.nom",
+            "one",
+            "dog",
+            "also",
+            "flee.CV",
+            "over.here",
+            "roof-OBL",
+            "dem.msg.nom",
+            "thing",
+            "also",
+            "3pl.acc",
+            "with",
+            "come.CV",
+            "roof-OBL",
+            "1sg.nom",
+            "TOP",
+            "yonder",
+            "alone",
+            "remain.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "Ghortsi",
             "also",
@@ -584,8 +924,31 @@
             "alone",
             "remain.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261hoortsi\u0301 bi so a\u0301a kuc\u030cu\u0301ru bi u\u1e0dheew-i\u0301 [oo\u0301ra]    \u0161an-a\u0301 so \u0161ay bi tana\u00e1m san\u0261\u00ed yha\u00ed \u0161an-\u00e1, ma ba \\textbf{phar\u00e1} khila\u00ed dhar\u00edit-u",
+        "srcwordsbare": [
+            "\u0261hoortsi\u0301",
+            "bi",
+            "so",
+            "a\u0301a",
+            "kuc\u030cu\u0301ru",
+            "bi",
+            "u\u1e0dheew-i\u0301",
+            "[oo\u0301ra]",
+            "\u0161an-a\u0301",
+            "so",
+            "\u0161ay",
+            "bi",
+            "tana\u00e1m",
+            "san\u0261\u00ed",
+            "yha\u00ed",
+            "\u0161an-\u00e1,",
+            "ma",
+            "ba",
+            "phar\u00e1",
+            "khila\u00ed",
+            "dhar\u00edit-u"
+        ],
         "srcwordshtml": [
             "\u0261hoortsi\u0301",
             "bi",
@@ -635,8 +998,23 @@
         "trs": "Both Ghortsi [the name of a dog] and the other dog fled from that thing and went back to the roof over here. The thing followed them onto the roof, but I stayed by myself, away from there.' (A:HUA031-3)"
     },
     {
+        "categories": [
+            "3fsg",
+            "3sg",
+            "neg",
+            "nom",
+            "pst"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3fsg.nom} path back  \\textsc{neg} find-\\textsc{3sg} \\textsc{pst}",
+        "imtwordsbare": [
+            "3fsg.nom",
+            "path",
+            "back",
+            "NEG",
+            "find-3SG",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3fsg.nom</span>",
             "path",
@@ -653,8 +1031,16 @@
             "find-\\textsc{3sg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se p\u00e1and \\textbf{patu\u0261ira\u00e1} na lh\u00e1ay-a de",
+        "srcwordsbare": [
+            "se",
+            "p\u00e1and",
+            "patu\u0261ira\u00e1",
+            "na",
+            "lh\u00e1ay-a",
+            "de"
+        ],
         "srcwordshtml": [
             "se",
             "p\u00e1and",
@@ -674,8 +1060,29 @@
         "trs": "It did not find its way back.' (A:CAV020)"
     },
     {
+        "categories": [
+            "1pl",
+            "cntr",
+            "cv",
+            "f=cnj",
+            "nom",
+            "pfv",
+            "prs\"=mpl",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "flock \\textsc{cntr} in.front become.\\textsc{cv} come.down.\\textsc{pfv-f=cnj} \\textsc{1pl.nom} \\textsc{top} behind come.down-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "flock",
+            "CNTR",
+            "in.front",
+            "become.CV",
+            "come.down.pfv-f=cnj",
+            "1pl.nom",
+            "TOP",
+            "behind",
+            "come.down-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "flock",
             "<span class=\"sc\">cntr</span>",
@@ -698,8 +1105,19 @@
             "behind",
             "come.down-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "bak\u00e1ara ta mu\u1e63\u1e6d\u00fa bhe wh\u00e9et-i=ee  be ba \\textbf{pad\u00fa\u0161i} wh-\u00e1and-a",
+        "srcwordsbare": [
+            "bak\u00e1ara",
+            "ta",
+            "mu\u1e63\u1e6d\u00fa",
+            "bhe",
+            "wh\u00e9et-i=ee",
+            "be",
+            "ba",
+            "pad\u00fa\u0161i",
+            "wh-\u00e1and-a"
+        ],
         "srcwordshtml": [
             "bak\u00e1ara",
             "ta",
@@ -725,8 +1143,27 @@
         "trs": "The flock got down before us, and then we came down behind.' (A:PAS052)"
     },
     {
+        "categories": [
+            "3sg",
+            "f",
+            "idef",
+            "pfv",
+            "prs",
+            "sub"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "some in.front go.\\textsc{3sg} \\textsc{sub} \\textsc{idef} fox sight give.\\textsc{pfv-f} be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "some",
+            "in.front",
+            "go.3SG",
+            "SUB",
+            "IDEF",
+            "fox",
+            "sight",
+            "give.pfv-f",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "some",
             "in.front",
@@ -749,8 +1186,19 @@
             "give.\\textsc{pfv-f}",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tu\u00fa\u0161 \\textbf{mu\u1e63\u1e6d\u00fa} b\u00edi ta \u00e1ak luum\u00e1i \u1e0dho\u00f3 d\u00edt-i h\u00edn-i",
+        "srcwordsbare": [
+            "tu\u00fa\u0161",
+            "mu\u1e63\u1e6d\u00fa",
+            "b\u00edi",
+            "ta",
+            "\u00e1ak",
+            "luum\u00e1i",
+            "\u1e0dho\u00f3",
+            "d\u00edt-i",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "tu\u00fa\u0161",
             "<span class=\"bf\">mu\u1e63\u1e6d\u00fa</span>",
@@ -776,8 +1224,26 @@
         "trs": "Going some distance forward, he saw a~fox.' (A:KAT011)"
     },
     {
+        "categories": [
+            "3pl",
+            "3sg",
+            "gen",
+            "pl",
+            "pst",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3sg.gen} \\textsc{top} five six brother.\\textsc{pl} near stay-\\textsc{3pl} \\textsc{pst}",
+        "imtwordsbare": [
+            "3sg.gen",
+            "TOP",
+            "five",
+            "six",
+            "brother.PL",
+            "near",
+            "stay-3PL",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.gen</span>",
             "<span class=\"sc\">top</span>",
@@ -798,8 +1264,18 @@
             "stay-\\textsc{3pl}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tas\u00edi ba p\u00e1an\u01f0 \u1e63o bhraaw\u00fa \\textbf{nhi\u00e1a\u1e5ba} h\u00f3ons\"=an de",
+        "srcwordsbare": [
+            "tas\u00edi",
+            "ba",
+            "p\u00e1an\u01f0",
+            "\u1e63o",
+            "bhraaw\u00fa",
+            "nhi\u00e1a\u1e5ba",
+            "h\u00f3ons\"=an",
+            "de"
+        ],
         "srcwordshtml": [
             "tas\u00edi",
             "ba",
@@ -823,8 +1299,24 @@
         "trs": "Five or six of her brothers were living nearby.' (A:HUA119)"
     },
     {
+        "categories": [
+            "idef",
+            "obl",
+            "prs\"=msg",
+            "rem"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "far.away \\textsc{idef} peak-\\textsc{obl} high peak-\\textsc{obl} there.\\textsc{rem} pir be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "far.away",
+            "IDEF",
+            "peak-OBL",
+            "high",
+            "peak-OBL",
+            "there.REM",
+            "pir",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "far.away",
             "<span class=\"sc\">idef</span>",
@@ -845,8 +1337,18 @@
             "pir",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{dhu\u0301ura} a\u0301a \u0263ar-i\u0301 uc\u030ca\u0301t \u0263ar-i\u0301 ee\u1e5ba\u0301a pii\u0301r hi\u0301n-u",
+        "srcwordsbare": [
+            "dhu\u0301ura",
+            "a\u0301a",
+            "\u0263ar-i\u0301",
+            "uc\u030ca\u0301t",
+            "\u0263ar-i\u0301",
+            "ee\u1e5ba\u0301a",
+            "pii\u0301r",
+            "hi\u0301n-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">dhu\u0301ura</span>",
             "a\u0301a",
@@ -870,8 +1372,24 @@
         "trs": "Far away, on the top of a high mountain, there is a pir [a holy person].' (A:PIR014)"
     },
     {
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "cv",
+            "nom"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1sg.nom} inside go.\\textsc{cv} \\textsc{3sg.acc} with help do-\\textsc{1sg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "inside",
+            "go.CV",
+            "3sg.acc",
+            "with",
+            "help",
+            "do-1SG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "inside",
@@ -890,8 +1408,17 @@
             "help",
             "do-\\textsc{1sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma \\textbf{\u0161\u00edi\u1e6di} be tes san\u0261\u00ed mad\u00e1d th-\u00e1am",
+        "srcwordsbare": [
+            "ma",
+            "\u0161\u00edi\u1e6di",
+            "be",
+            "tes",
+            "san\u0261\u00ed",
+            "mad\u00e1d",
+            "th-\u00e1am"
+        ],
         "srcwordshtml": [
             "ma",
             "<span class=\"bf\">\u0161\u00edi\u1e6di</span>",
@@ -913,8 +1440,24 @@
         "trs": "I will go inside and help him.' (B:FOY060)"
     },
     {
+        "categories": [
+            "cntr",
+            "msg",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "from.middle up to \\textsc{cntr} hairy down to \\textsc{top} bald-\\textsc{msg}",
+        "imtwordsbare": [
+            "from.middle",
+            "up",
+            "to",
+            "CNTR",
+            "hairy",
+            "down",
+            "to",
+            "TOP",
+            "bald-MSG"
+        ],
         "imtwordshtml": [
             "from.middle",
             "up",
@@ -937,8 +1480,19 @@
             "\\textsc{top}",
             "bald-\\textsc{msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{a\u1e0daphar\u00edi} hu\u1e47\u1e0d the ta \u01f0al\u00e1\u1e63 bhun the ba lh\u00edst-u",
+        "srcwordsbare": [
+            "a\u1e0daphar\u00edi",
+            "hu\u1e47\u1e0d",
+            "the",
+            "ta",
+            "\u01f0al\u00e1\u1e63",
+            "bhun",
+            "the",
+            "ba",
+            "lh\u00edst-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">a\u1e0daphar\u00edi</span>",
             "hu\u1e47\u1e0d",
@@ -964,8 +1518,26 @@
         "trs": "It was half hairless and half covered in hair. The top half was hairy and the bottom half was hairless.' (A:HUA075)"
     },
     {
+        "categories": [
+            "1sg",
+            "3sg",
+            "gen",
+            "nom",
+            "pl",
+            "prs\"=msg",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "now \\textsc{top} \\textsc{1sg.nom} \\textsc{3sg.gen} strongmanship.\\textsc{gen} story.\\textsc{pl} do.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "now",
+            "TOP",
+            "1sg.nom",
+            "3sg.gen",
+            "strongmanship.GEN",
+            "story.PL",
+            "do.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "now",
             "<span class=\"sc\">top</span>",
@@ -984,8 +1556,17 @@
             "story.\\textsc{pl}",
             "do.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{t\u00edpa} ba ma tas\u00edi paalawee\u1e47\u00edi qise\u00e9 th\u00e1an-u",
+        "srcwordsbare": [
+            "t\u00edpa",
+            "ba",
+            "ma",
+            "tas\u00edi",
+            "paalawee\u1e47\u00edi",
+            "qise\u00e9",
+            "th\u00e1an-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">t\u00edpa</span>",
             "ba",
@@ -1007,8 +1588,22 @@
         "trs": "Now I am telling the stories about his strongmanship.' (A:PAS029)"
     },
     {
+        "categories": [
+            "1pl",
+            "nom",
+            "obl",
+            "pst"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "before  \\textsc{1pl.nom} school-\\textsc{obl} to go-\\textsc{1pl} \\textsc{pst}",
+        "imtwordsbare": [
+            "before",
+            "1pl.nom",
+            "school-OBL",
+            "to",
+            "go-1PL",
+            "PST"
+        ],
         "imtwordshtml": [
             "before",
             "<span class=\"sc\">1pl.nom</span>",
@@ -1025,8 +1620,16 @@
             "go-\\textsc{1pl}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{mux\u00e1ak} be iskuul-\u00ed the b-\u00edia de",
+        "srcwordsbare": [
+            "mux\u00e1ak",
+            "be",
+            "iskuul-\u00ed",
+            "the",
+            "b-\u00edia",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">mux\u00e1ak</span>",
             "be",
@@ -1046,8 +1649,21 @@
         "trs": "Once, we were going to school...' (B:ANG001)"
     },
     {
+        "categories": [
+            "f",
+            "gen",
+            "rem",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "hunting \\textsc{top} \\textsc{rem} time-\\textsc{gen}  much-\\textsc{f}",
+        "imtwordsbare": [
+            "hunting",
+            "TOP",
+            "REM",
+            "time-GEN",
+            "much-F"
+        ],
         "imtwordshtml": [
             "hunting",
             "<span class=\"sc\">top</span>",
@@ -1062,8 +1678,15 @@
             "time-\\textsc{gen}",
             "much-\\textsc{f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "nee\u010d\u00edir ba ees\u00e9 \\textbf{waxt-\u00edi} b\u00edi\u1e0d-i",
+        "srcwordsbare": [
+            "nee\u010d\u00edir",
+            "ba",
+            "ees\u00e9",
+            "waxt-\u00edi",
+            "b\u00edi\u1e0d-i"
+        ],
         "srcwordshtml": [
             "nee\u010d\u00edir",
             "ba",
@@ -1081,8 +1704,20 @@
         "trs": "Hunting was a common custom at that time.' (A:HUA046)"
     },
     {
+        "categories": [
+            "3sg",
+            "cv",
+            "sub"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "quite.some time become.\\textsc{cv} look-\\textsc{3sg} \\textsc{sub}",
+        "imtwordsbare": [
+            "quite.some",
+            "time",
+            "become.CV",
+            "look-3SG",
+            "SUB"
+        ],
         "imtwordshtml": [
             "quite.some",
             "time",
@@ -1097,8 +1732,15 @@
             "look-\\textsc{3sg}",
             "\\textsc{sub}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "kh\u00e9li \\textbf{waxt} \\textbf{bhe} dac\u0323h-\u00edi ta",
+        "srcwordsbare": [
+            "kh\u00e9li",
+            "waxt",
+            "bhe",
+            "dac\u0323h-\u00edi",
+            "ta"
+        ],
         "srcwordshtml": [
             "kh\u00e9li",
             "<span class=\"bf\">waxt</span>",
@@ -1116,8 +1758,25 @@
         "trs": "Some time later he was looking.' (A:SMO016)"
     },
     {
+        "categories": [
+            "3pl",
+            "mpl",
+            "neg",
+            "obl",
+            "pl",
+            "pst"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "of.past-\\textsc{mpl} people-\\textsc{pl}  daughter-\\textsc{obl} from \\textsc{neg} ask-\\textsc{3pl} \\textsc{pst}",
+        "imtwordsbare": [
+            "of.past-MPL",
+            "people-PL",
+            "daughter-OBL",
+            "from",
+            "NEG",
+            "ask-3PL",
+            "PST"
+        ],
         "imtwordshtml": [
             "of.past-<span class=\"sc\">mpl</span>",
             "people-<span class=\"sc\">pl</span>",
@@ -1136,8 +1795,17 @@
             "ask-\\textsc{3pl}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{mu\u1e63\u1e6d\u00fak-a} x\u00e1lak-a dhii-\u00e1 d\u00edi na khoo\u01f0-\u00f3on de",
+        "srcwordsbare": [
+            "mu\u1e63\u1e6d\u00fak-a",
+            "x\u00e1lak-a",
+            "dhii-\u00e1",
+            "d\u00edi",
+            "na",
+            "khoo\u01f0-\u00f3on",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">mu\u1e63\u1e6d\u00fak-a</span>",
             "x\u00e1lak-a",
@@ -1159,8 +1827,24 @@
         "trs": "People in the old days were not asking their daughter [who she wanted to marry].' (A:MAR018)"
     },
     {
+        "categories": [
+            "pfv\"=msg",
+            "prs\"=msg",
+            "pst"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "yesterday  here snow give.\\textsc{pfv\"=msg} \\textsc{pst} now  also snow be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "yesterday",
+            "here",
+            "snow",
+            "give.PFV\"=MSG",
+            "PST",
+            "now",
+            "also",
+            "snow",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "yesterday",
             "here",
@@ -1183,8 +1867,19 @@
             "snow",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{dho\u00f3\u1e5b} \u00ednda kir d\u00edt-u de t\u00edpa  bi kir h\u00edn-u",
+        "srcwordsbare": [
+            "dho\u00f3\u1e5b",
+            "\u00ednda",
+            "kir",
+            "d\u00edt-u",
+            "de",
+            "t\u00edpa",
+            "bi",
+            "kir",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">dho\u00f3\u1e5b</span>",
             "\u00ednda",
@@ -1210,8 +1905,18 @@
         "trs": "It was snowing here yesterday, and even now there is snow.'\\newline (A:CHE070320)"
     },
     {
+        "categories": [
+            "1sg",
+            "nom",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "this.year  \\textsc{1sg.nom}  be.delayed.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "this.year",
+            "1sg.nom",
+            "be.delayed.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "this.year",
             "<span class=\"sc\">1sg.nom</span>",
@@ -1222,8 +1927,13 @@
             "\\textsc{1sg.nom}",
             "be.delayed.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{hee\u1e47\u1e63\u00faka} ma \u010diir\u00edit-u",
+        "srcwordsbare": [
+            "hee\u1e47\u1e63\u00faka",
+            "ma",
+            "\u010diir\u00edit-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">hee\u1e47\u1e63\u00faka</span>",
             "ma",
@@ -1237,8 +1947,28 @@
         "trs": "This year I'm delayed.' (A:SHY026)"
     },
     {
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "nom",
+            "obl",
+            "sub",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1sg.nom} \\textsc{3sg.acc} today eat-\\textsc{1sg} \\textsc{sub} morning-\\textsc{obl} \\textsc{top} like.what become-\\textsc{1sg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "3sg.acc",
+            "today",
+            "eat-1SG",
+            "SUB",
+            "morning-OBL",
+            "TOP",
+            "like.what",
+            "become-1SG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "<span class=\"sc\">3sg.acc</span>",
@@ -1261,8 +1991,19 @@
             "like.what",
             "become-\\textsc{1sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma nis a\u00e1\u01f0 kh-\u00faum ta \\textbf{rhoota\u0161\u00edi-a} ba kan\u00e1a bh-\u00faum",
+        "srcwordsbare": [
+            "ma",
+            "nis",
+            "a\u00e1\u01f0",
+            "kh-\u00faum",
+            "ta",
+            "rhoota\u0161\u00edi-a",
+            "ba",
+            "kan\u00e1a",
+            "bh-\u00faum"
+        ],
         "srcwordshtml": [
             "ma",
             "nis",
@@ -1288,8 +2029,13 @@
         "trs": "If I eat this today, what will then become of me tomorrow.' (A:HUB005)"
     },
     {
+        "categories": [],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "every day",
+        "imtwordsbare": [
+            "every",
+            "day"
+        ],
         "imtwordshtml": [
             "every",
             "day"
@@ -1298,8 +2044,12 @@
             "every",
             "day"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "har de\u00e9s",
+        "srcwordsbare": [
+            "har",
+            "de\u00e9s"
+        ],
         "srcwordshtml": [
             "har",
             "de\u00e9s"
@@ -1311,16 +2061,25 @@
         "trs": "every day"
     },
     {
+        "categories": [
+            "gen"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "day-\\textsc{gen}",
+        "imtwordsbare": [
+            "day-GEN"
+        ],
         "imtwordshtml": [
             "day-<span class=\"sc\">gen</span>"
         ],
         "imtwordstex": [
             "day-\\textsc{gen}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "dees-\u00edi",
+        "srcwordsbare": [
+            "dees-\u00edi"
+        ],
         "srcwordshtml": [
             "dees-\u00edi"
         ],
@@ -1330,8 +2089,16 @@
         "trs": "daily"
     },
     {
+        "categories": [
+            "gen"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "ten fifteen night-\\textsc{gen}",
+        "imtwordsbare": [
+            "ten",
+            "fifteen",
+            "night-GEN"
+        ],
         "imtwordshtml": [
             "ten",
             "fifteen",
@@ -1342,8 +2109,13 @@
             "fifteen",
             "night-\\textsc{gen}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "d\u00e1a\u0161 pan\u01f0\u00edi\u0161 reet-\u00edi",
+        "srcwordsbare": [
+            "d\u00e1a\u0161",
+            "pan\u01f0\u00edi\u0161",
+            "reet-\u00edi"
+        ],
         "srcwordshtml": [
             "d\u00e1a\u0161",
             "pan\u01f0\u00edi\u0161",
@@ -1357,8 +2129,16 @@
         "trs": "every ten to fifteen days"
     },
     {
+        "categories": [
+            "obl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "four night-\\textsc{obl} behind",
+        "imtwordsbare": [
+            "four",
+            "night-OBL",
+            "behind"
+        ],
         "imtwordshtml": [
             "four",
             "night-<span class=\"sc\">obl</span>",
@@ -1369,8 +2149,13 @@
             "night-\\textsc{obl}",
             "behind"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u010d\u00e1ar reet-\u00ed pad\u00fa\u0161i",
+        "srcwordsbare": [
+            "\u010d\u00e1ar",
+            "reet-\u00ed",
+            "pad\u00fa\u0161i"
+        ],
         "srcwordshtml": [
             "\u010d\u00e1ar",
             "reet-\u00ed",
@@ -1384,16 +2169,23 @@
         "trs": "four days later' (B)"
     },
     {
+        "categories": [],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "twenty=of.night",
+        "imtwordsbare": [
+            "twenty=of.night"
+        ],
         "imtwordshtml": [
             "twenty=of.night"
         ],
         "imtwordstex": [
             "twenty=of.night"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "bhi\u0161=raat\u00faku",
+        "srcwordsbare": [
+            "bhi\u0161=raat\u00faku"
+        ],
         "srcwordshtml": [
             "bhi\u0161=raat\u00faku"
         ],
@@ -1403,8 +2195,16 @@
         "trs": "for twenty days"
     },
     {
+        "categories": [
+            "obl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "ten night-\\textsc{obl} until",
+        "imtwordsbare": [
+            "ten",
+            "night-OBL",
+            "until"
+        ],
         "imtwordshtml": [
             "ten",
             "night-<span class=\"sc\">obl</span>",
@@ -1415,8 +2215,13 @@
             "night-\\textsc{obl}",
             "until"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "da\u0161 reet-\u00ed ti\u00ed",
+        "srcwordsbare": [
+            "da\u0161",
+            "reet-\u00ed",
+            "ti\u00ed"
+        ],
         "srcwordshtml": [
             "da\u0161",
             "reet-\u00ed",
@@ -1430,8 +2235,16 @@
         "trs": "for as long as ten days' (B)"
     },
     {
+        "categories": [
+            "gen"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "three month-\\textsc{gen} after",
+        "imtwordsbare": [
+            "three",
+            "month-GEN",
+            "after"
+        ],
         "imtwordshtml": [
             "three",
             "month-<span class=\"sc\">gen</span>",
@@ -1442,8 +2255,13 @@
             "month-\\textsc{gen}",
             "after"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tr\u00f3o y\u00faun\"=ii ba\u00e1d",
+        "srcwordsbare": [
+            "tr\u00f3o",
+            "y\u00faun\"=ii",
+            "ba\u00e1d"
+        ],
         "srcwordshtml": [
             "tr\u00f3o",
             "y\u00faun\"=ii",
@@ -1457,8 +2275,16 @@
         "trs": "after three months"
     },
     {
+        "categories": [
+            "pl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "twenty year-\\textsc{pl} in.front",
+        "imtwordsbare": [
+            "twenty",
+            "year-PL",
+            "in.front"
+        ],
         "imtwordshtml": [
             "twenty",
             "year-<span class=\"sc\">pl</span>",
@@ -1469,8 +2295,13 @@
             "year-\\textsc{pl}",
             "in.front"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "bhi\u0161 kaal-\u00e1 maxad\u00fa\u0161i",
+        "srcwordsbare": [
+            "bhi\u0161",
+            "kaal-\u00e1",
+            "maxad\u00fa\u0161i"
+        ],
         "srcwordshtml": [
             "bhi\u0161",
             "kaal-\u00e1",
@@ -1484,8 +2315,16 @@
         "trs": "20 years earlier/ago"
     },
     {
+        "categories": [
+            "gen"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "six year-\\textsc{gen} since",
+        "imtwordsbare": [
+            "six",
+            "year-GEN",
+            "since"
+        ],
         "imtwordshtml": [
             "six",
             "year-<span class=\"sc\">gen</span>",
@@ -1496,8 +2335,13 @@
             "year-\\textsc{gen}",
             "since"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u1e63o kaal\"=i\u0301i nii\u0261ira\u00e1",
+        "srcwordsbare": [
+            "\u1e63o",
+            "kaal\"=i\u0301i",
+            "nii\u0261ira\u00e1"
+        ],
         "srcwordshtml": [
             "\u1e63o",
             "kaal\"=i\u0301i",
@@ -1511,8 +2355,16 @@
         "trs": "since six years"
     },
     {
+        "categories": [
+            "obl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "other year-\\textsc{obl} to",
+        "imtwordsbare": [
+            "other",
+            "year-OBL",
+            "to"
+        ],
         "imtwordshtml": [
             "other",
             "year-<span class=\"sc\">obl</span>",
@@ -1523,8 +2375,13 @@
             "year-\\textsc{obl}",
             "to"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "d\u00fai kaal-\u00e1 the",
+        "srcwordsbare": [
+            "d\u00fai",
+            "kaal-\u00e1",
+            "the"
+        ],
         "srcwordshtml": [
             "d\u00fai",
             "kaal-\u00e1",
@@ -1538,8 +2395,28 @@
         "trs": "another year, next year"
     },
     {
+        "categories": [
+            "1sg",
+            "cntr",
+            "cv",
+            "gen",
+            "nom",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "afternoon \\textsc{top} Pashambi \\textsc{cntr} oak-\\textsc{gen} load take-\\textsc{cv} \\textsc{1sg.nom} \\textsc{top} free",
+        "imtwordsbare": [
+            "afternoon",
+            "TOP",
+            "Pashambi",
+            "CNTR",
+            "oak-GEN",
+            "load",
+            "take-CV",
+            "1sg.nom",
+            "TOP",
+            "free"
+        ],
         "imtwordshtml": [
             "afternoon",
             "<span class=\"sc\">top</span>",
@@ -1564,8 +2441,20 @@
             "\\textsc{top}",
             "free"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{dhrumana\u00e1m} ba pa\u0161ambe\u00e9 ta c\u0323h\u00f3o\u1e47-ii bh\u00e1aru \u0261hin-\u00ed ma ba \u0261\u00fa\u010di",
+        "srcwordsbare": [
+            "dhrumana\u00e1m",
+            "ba",
+            "pa\u0161ambe\u00e9",
+            "ta",
+            "c\u0323h\u00f3o\u1e47-ii",
+            "bh\u00e1aru",
+            "\u0261hin-\u00ed",
+            "ma",
+            "ba",
+            "\u0261\u00fa\u010di"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">dhrumana\u00e1m</span>",
             "ba",
@@ -1593,8 +2482,20 @@
         "trs": "In the afternoon Pashambi carried fodder [to the goats] while I was free.' (A:PAS051)"
     },
     {
+        "categories": [
+            "cv",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "Jangibaz.Khan-\\textsc{obl} slowly coat take.off-\\textsc{cv} put.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "Jangibaz.Khan-OBL",
+            "slowly",
+            "coat",
+            "take.off-CV",
+            "put.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "Jangibaz.Khan-<span class=\"sc\">obl</span>",
             "slowly",
@@ -1609,8 +2510,15 @@
             "take.off-\\textsc{cv}",
             "put.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u01f0an\u0261ibaazxa\u0301an-a \\textbf{bhra\u00e1\u0161} \u0161ukha\u00e1u \u0261a\u1e0d-\u00ed \u010dh\u00fau\u1e47-u",
+        "srcwordsbare": [
+            "\u01f0an\u0261ibaazxa\u0301an-a",
+            "bhra\u00e1\u0161",
+            "\u0161ukha\u00e1u",
+            "\u0261a\u1e0d-\u00ed",
+            "\u010dh\u00fau\u1e47-u"
+        ],
         "srcwordshtml": [
             "\u01f0an\u0261ibaazxa\u0301an-a",
             "<span class=\"bf\">bhra\u00e1\u0161</span>",
@@ -1628,8 +2536,21 @@
         "trs": "Slowly, Jangibaz Khan took off his coat.' (A:JAN066)"
     },
     {
+        "categories": [
+            "cv",
+            "obl",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "like.that=become.\\textsc{cv} slope-\\textsc{obl} in stone-\\textsc{pl} come.down-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "like.that=become.CV",
+            "slope-OBL",
+            "in",
+            "stone-PL",
+            "come.down-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "like.that=become.<span class=\"sc\">cv</span>",
             "slope-<span class=\"sc\">obl</span>",
@@ -1644,8 +2565,15 @@
             "stone-\\textsc{pl}",
             "come.down-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{and\u00e1a=bhe} pra\u0161-\u00ed w\u00e9e ba\u1e6d-\u00e1 wh-\u00e1and-a",
+        "srcwordsbare": [
+            "and\u00e1a=bhe",
+            "pra\u0161-\u00ed",
+            "w\u00e9e",
+            "ba\u1e6d-\u00e1",
+            "wh-\u00e1and-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">and\u00e1a=bhe</span>",
             "pra\u0161-\u00ed",
@@ -1663,8 +2591,26 @@
         "trs": "Just like that, stones came down the slope.' (A:AYB008)"
     },
     {
+        "categories": [
+            "ag\"=msg",
+            "cv",
+            "pfv\"=msg",
+            "prs\"=msg",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "outside father look-\\textsc{ag\"=msg} become.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg} cigarette pull-\\textsc{cv} \\textsc{top} like.that=do.\\textsc{cv}",
+        "imtwordsbare": [
+            "outside",
+            "father",
+            "look-AG\"=MSG",
+            "become.PFV\"=MSG",
+            "be.PRS\"=MSG",
+            "cigarette",
+            "pull-CV",
+            "TOP",
+            "like.that=do.CV"
+        ],
         "imtwordshtml": [
             "outside",
             "father",
@@ -1687,8 +2633,19 @@
             "\\textsc{top}",
             "like.that=do.\\textsc{cv}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "dhar\u00e9ndi mha\u0301alu dac\u0323h-\u00e1a\u1e6d-u bh\u00edl-u h\u00edn-u  si\u0261r\u00e9\u1e6d dhrak-\u00ed ba \\textbf{and\u00e1a=the}",
+        "srcwordsbare": [
+            "dhar\u00e9ndi",
+            "mha\u0301alu",
+            "dac\u0323h-\u00e1a\u1e6d-u",
+            "bh\u00edl-u",
+            "h\u00edn-u",
+            "si\u0261r\u00e9\u1e6d",
+            "dhrak-\u00ed",
+            "ba",
+            "and\u00e1a=the"
+        ],
         "srcwordshtml": [
             "dhar\u00e9ndi",
             "mha\u0301alu",
@@ -1714,8 +2671,21 @@
         "trs": "While looking at his father outside, he was smoking the cigarette like that.' (A:SMO009)"
     },
     {
+        "categories": [
+            "f",
+            "pfv",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "rain such strong become.\\textsc{pfv\"=msg} flood come.down.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "rain",
+            "such",
+            "strong",
+            "become.PFV\"=MSG",
+            "flood",
+            "come.down.pfv-f"
+        ],
         "imtwordshtml": [
             "rain",
             "such",
@@ -1732,8 +2702,16 @@
             "flood",
             "come.down.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ba\u1e63 \\textbf{hat\u00ed} te\u00e9z bh\u00edl-u oo\u1e0dh\u00e1al wh\u00e9et-i",
+        "srcwordsbare": [
+            "ba\u1e63",
+            "hat\u00ed",
+            "te\u00e9z",
+            "bh\u00edl-u",
+            "oo\u1e0dh\u00e1al",
+            "wh\u00e9et-i"
+        ],
         "srcwordshtml": [
             "ba\u1e63",
             "<span class=\"bf\">hat\u00ed</span>",
@@ -1753,8 +2731,22 @@
         "trs": "The rain became so strong that it flooded.' (B:FLO169)"
     },
     {
+        "categories": [
+            "3msg",
+            "msg",
+            "nom",
+            "prox",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3msg.prox.nom} \\textsc{top} how.much high-\\textsc{msg}  hill",
+        "imtwordsbare": [
+            "3msg.prox.nom",
+            "TOP",
+            "how.much",
+            "high-MSG",
+            "hill"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.prox.nom</span>",
             "<span class=\"sc\">top</span>",
@@ -1769,8 +2761,15 @@
             "high-\\textsc{msg}",
             "hill"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "nu ba \\textbf{kat\u00ed} uth\u00e1al-u t\u00e1apa\u1e5b",
+        "srcwordsbare": [
+            "nu",
+            "ba",
+            "kat\u00ed",
+            "uth\u00e1al-u",
+            "t\u00e1apa\u1e5b"
+        ],
         "srcwordshtml": [
             "nu",
             "ba",
@@ -1788,8 +2787,19 @@
         "trs": "What a~high hill!' (A:HLE3117)"
     },
     {
+        "categories": [
+            "cv",
+            "pfv\"=mpl",
+            "red"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "come.down.\\textsc{pfv\"=mpl} like.that=become.\\textsc{cv} \\textsc{red} slowly",
+        "imtwordsbare": [
+            "come.down.PFV\"=MPL",
+            "like.that=become.CV",
+            "RED",
+            "slowly"
+        ],
         "imtwordshtml": [
             "come.down.<span class=\"sc\">pfv\"=mpl</span>",
             "like.that=become.<span class=\"sc\">cv</span>",
@@ -1802,8 +2812,14 @@
             "\\textsc{red}",
             "slowly"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "wh\u00e1at-a and\u00e1a=bhe \\textbf{bhra\u00e1\u0161} \\textbf{bhra\u00e1\u0161}",
+        "srcwordsbare": [
+            "wh\u00e1at-a",
+            "and\u00e1a=bhe",
+            "bhra\u00e1\u0161",
+            "bhra\u00e1\u0161"
+        ],
         "srcwordshtml": [
             "wh\u00e1at-a",
             "and\u00e1a=bhe",
@@ -1819,8 +2835,24 @@
         "trs": "We came down like that, very slowly.' (A:GHA056)"
     },
     {
+        "categories": [
+            "3msg",
+            "def",
+            "gen",
+            "msg",
+            "nom",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3msg.nom} \\textsc{top} really Khush.Shah.\\textsc{gen} \\textsc{def.msg.nom} uncle",
+        "imtwordsbare": [
+            "3msg.nom",
+            "TOP",
+            "really",
+            "Khush.Shah.GEN",
+            "def.msg.nom",
+            "uncle"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.nom</span>",
             "<span class=\"sc\">top</span>",
@@ -1837,8 +2869,16 @@
             "\\textsc{def.msg.nom}",
             "uncle"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "so ba \\textbf{ri\u0161taa\u0301} xuc\u030cha\u0301ii so ma\u0301amu",
+        "srcwordsbare": [
+            "so",
+            "ba",
+            "ri\u0161taa\u0301",
+            "xuc\u030cha\u0301ii",
+            "so",
+            "ma\u0301amu"
+        ],
         "srcwordshtml": [
             "so",
             "ba",
@@ -1858,8 +2898,30 @@
         "trs": "He was indeed Khush Shah's uncle.' (A:JAN056)"
     },
     {
+        "categories": [
+            "1pl",
+            "3pl",
+            "acc",
+            "cntr",
+            "f",
+            "neg",
+            "pfv",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{neg} \\textsc{cntr} \\textsc{3pl.acc} to give.\\textsc{pfv-f} \\textsc{neg} \\textsc{top} \\textsc{1pl.acc} to give.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "NEG",
+            "CNTR",
+            "3pl.acc",
+            "to",
+            "give.pfv-f",
+            "NEG",
+            "TOP",
+            "1pl.acc",
+            "to",
+            "give.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">neg</span>",
             "<span class=\"sc\">cntr</span>",
@@ -1884,8 +2946,20 @@
             "to",
             "give.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "na ta \\textbf{tana\u00e1m} \\textbf{the} d\u00edt-i na ba  \\textbf{asa\u00e1m} \\textbf{the} d\u00edt-i",
+        "srcwordsbare": [
+            "na",
+            "ta",
+            "tana\u00e1m",
+            "the",
+            "d\u00edt-i",
+            "na",
+            "ba",
+            "asa\u00e1m",
+            "the",
+            "d\u00edt-i"
+        ],
         "srcwordshtml": [
             "na",
             "ta",
@@ -1913,8 +2987,25 @@
         "trs": "Neither did they give them [the guns] to them, nor to us.' (A:GHA089)"
     },
     {
+        "categories": [
+            "1sg",
+            "2sg",
+            "cv",
+            "gen",
+            "nom",
+            "obl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1sg.nom} he.goat take-\\textsc{cv} \\textsc{2sg.gen} house-\\textsc{obl} to come.\\textsc{1sg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "he.goat",
+            "take-CV",
+            "2sg.gen",
+            "house-OBL",
+            "to",
+            "come.1SG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "he.goat",
@@ -1933,8 +3024,17 @@
             "to",
             "come.\\textsc{1sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma bh\u00ediru \u0261hin-\u00ed th\u00edi \\textbf{\u0261hoo\u1e63\u1e6d-\u00e1} \\textbf{the} yh\u00faum",
+        "srcwordsbare": [
+            "ma",
+            "bh\u00ediru",
+            "\u0261hin-\u00ed",
+            "th\u00edi",
+            "\u0261hoo\u1e63\u1e6d-\u00e1",
+            "the",
+            "yh\u00faum"
+        ],
         "srcwordshtml": [
             "ma",
             "bh\u00ediru",
@@ -1956,8 +3056,18 @@
         "trs": "I'll take a~goat with me and come to your house.' (A:MIT013)"
     },
     {
+        "categories": [
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "daughter-\\textsc{obl} Machoke-\\textsc{obl} to say.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "daughter-OBL",
+            "Machoke-OBL",
+            "to",
+            "say.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "daughter-<span class=\"sc\">obl</span>",
             "Machoke-<span class=\"sc\">obl</span>",
@@ -1970,8 +3080,14 @@
             "to",
             "say.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "dhii-\u00e1 \\textbf{mac\u0323hook-\u00e1} \\textbf{the} man\u00edit-u...",
+        "srcwordsbare": [
+            "dhii-\u00e1",
+            "mac\u0323hook-\u00e1",
+            "the",
+            "man\u00edit-u..."
+        ],
         "srcwordshtml": [
             "dhii-\u00e1",
             "<span class=\"bf\">mac\u0323hook-\u00e1</span>",
@@ -1987,8 +3103,17 @@
         "trs": "The daughter told Machoke...' (A:MAA016)"
     },
     {
+        "categories": [
+            "oblg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "there to mason call.for-\\textsc{oblg}",
+        "imtwordsbare": [
+            "there",
+            "to",
+            "mason",
+            "call.for-OBLG"
+        ],
         "imtwordshtml": [
             "there",
             "to",
@@ -2001,8 +3126,14 @@
             "mason",
             "call.for-\\textsc{oblg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{t\u00e1a} \\textbf{the} misr\u00ed bula\u1e0d-ee\u1e47\u1e0de\u00e9u",
+        "srcwordsbare": [
+            "t\u00e1a",
+            "the",
+            "misr\u00ed",
+            "bula\u1e0d-ee\u1e47\u1e0de\u00e9u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">t\u00e1a</span>",
             "<span class=\"bf\">the</span>",
@@ -2018,8 +3149,28 @@
         "trs": "A mason is called to there [to see to that].' (A:KAT009)"
     },
     {
+        "categories": [
+            "3pl",
+            "dist",
+            "erg",
+            "f",
+            "obl",
+            "pfv",
+            "pl",
+            "prs"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3pl.dist.erg} \\textsc{dist} tradition {} Dameli-\\textsc{obl.pl} from take.\\textsc{pfv-f} be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "3pl.dist.erg",
+            "DIST",
+            "tradition",
+            "{}",
+            "Dameli-obl.pl",
+            "from",
+            "take.pfv-f",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.dist.erg</span>",
             "<span class=\"sc\">dist</span>",
@@ -2040,8 +3191,18 @@
             "take.\\textsc{pfv-f}",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u1e5ban\u00edm ee\u1e5b\u00e9 riwaay\u00e1t /{\\ldots}/ \\textbf{\u0261i\u1e0d\u00fau\u010d-am} \\textbf{d\u00edi}  \u0261h\u00edin-i h\u00edn-i",
+        "srcwordsbare": [
+            "\u1e5ban\u00edm",
+            "ee\u1e5b\u00e9",
+            "riwaay\u00e1t",
+            "/{\\ldots}/",
+            "\u0261i\u1e0d\u00fau\u010d-am",
+            "d\u00edi",
+            "\u0261h\u00edin-i",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "\u1e5ban\u00edm",
             "ee\u1e5b\u00e9",
@@ -2065,8 +3226,26 @@
         "trs": "They have received [lit: taken] this tradition from the Damelis.' (A:MIT002-5)"
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1sg.gen} grandmother from \\textsc{1sg.gen} hear.\\textsc{pfv\"=msg} \\textsc{1sg.gen} father.\\textsc{obl} from \\textsc{1sg.gen} hear.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "grandmother",
+            "from",
+            "1sg.gen",
+            "hear.PFV\"=MSG",
+            "1sg.gen",
+            "father.OBL",
+            "from",
+            "1sg.gen",
+            "hear.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "grandmother",
@@ -2091,8 +3270,20 @@
             "\\textsc{1sg.gen}",
             "hear.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{m\u00edi} \\textbf{d\u00e9edi} \\textbf{d\u00edi} m\u00edi \u1e63\u00faunt-u \\textbf{m\u00edi} \\textbf{b\u00e1aba} \\textbf{d\u00edi} m\u00edi \u1e63\u00faunt-u",
+        "srcwordsbare": [
+            "m\u00edi",
+            "d\u00e9edi",
+            "d\u00edi",
+            "m\u00edi",
+            "\u1e63\u00faunt-u",
+            "m\u00edi",
+            "b\u00e1aba",
+            "d\u00edi",
+            "m\u00edi",
+            "\u1e63\u00faunt-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">m\u00edi</span>",
             "<span class=\"bf\">d\u00e9edi</span>",
@@ -2120,8 +3311,18 @@
         "trs": "I heard it from my grandmother, and I heard it from my father.' (A:PAS005)"
     },
     {
+        "categories": [
+            "obl",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "donkey-\\textsc{obl} from donkey be.born\\textsf{-}\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "donkey-OBL",
+            "from",
+            "donkey",
+            "be.born-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "donkey-<span class=\"sc\">obl</span>",
             "from",
@@ -2134,8 +3335,14 @@
             "donkey",
             "be.born\\textsf{-}\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{khar-\u00e1} \\textbf{d\u00edi} khar \u01f0a-y\u00e1an-u",
+        "srcwordsbare": [
+            "khar-\u00e1",
+            "d\u00edi",
+            "khar",
+            "\u01f0a-y\u00e1an-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">khar-\u00e1</span>",
             "<span class=\"bf\">d\u00edi</span>",
@@ -2151,8 +3358,21 @@
         "trs": "A donkey is born by a~donkey.' (B:PRB006)"
     },
     {
+        "categories": [
+            "3sg",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "mason come.\\textsc{pfv\"=msg} when mason from hammer stay-\\textsc{3sg}",
+        "imtwordsbare": [
+            "mason",
+            "come.PFV\"=MSG",
+            "when",
+            "mason",
+            "from",
+            "hammer",
+            "stay-3SG"
+        ],
         "imtwordshtml": [
             "mason",
             "come.<span class=\"sc\">pfv\"=msg</span>",
@@ -2171,8 +3391,17 @@
             "hammer",
             "stay-\\textsc{3sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "misr\u00ed yh\u00f3ol-u seenta\u0301 \\textbf{misr\u00ed} \\textbf{d\u00edi} tsa\u1e6d\u00e1k h\u00f3ons-a",
+        "srcwordsbare": [
+            "misr\u00ed",
+            "yh\u00f3ol-u",
+            "seenta\u0301",
+            "misr\u00ed",
+            "d\u00edi",
+            "tsa\u1e6d\u00e1k",
+            "h\u00f3ons-a"
+        ],
         "srcwordshtml": [
             "misr\u00ed",
             "yh\u00f3ol-u",
@@ -2194,8 +3423,27 @@
         "trs": "When the mason comes he will have a~hammer [lit: When the mason has come, from the mason a~hammer will be present].'  (A:HOW010)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "cv",
+            "obl",
+            "pfv\"=msg",
+            "pl\"=obl",
+            "pst"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "robber-\\textsc{pl\"=obl} come.\\textsc{cv} flock-\\textsc{obl}  with \\textsc{3sg.acc} take-\\textsc{cv} take.away.\\textsc{pfv\"=msg} \\textsc{pst}",
+        "imtwordsbare": [
+            "robber-PL\"=OBL",
+            "come.CV",
+            "flock-OBL",
+            "with",
+            "3sg.acc",
+            "take-CV",
+            "take.away.PFV\"=MSG",
+            "PST"
+        ],
         "imtwordshtml": [
             "robber-<span class=\"sc\">pl\"=obl</span>",
             "come.<span class=\"sc\">cv</span>",
@@ -2216,8 +3464,18 @@
             "take.away.\\textsc{pfv\"=msg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u1e0daaku\"=aan-\u00f3om yha\u00ed \\textbf{bak\u00e1ara-m} \\textbf{san\u0261\u00ed} tas \u0261ha\u0161-\u00ed h\u00ed\u1e5b-u de",
+        "srcwordsbare": [
+            "\u1e0daaku\"=aan-\u00f3om",
+            "yha\u00ed",
+            "bak\u00e1ara-m",
+            "san\u0261\u00ed",
+            "tas",
+            "\u0261ha\u0161-\u00ed",
+            "h\u00ed\u1e5b-u",
+            "de"
+        ],
         "srcwordshtml": [
             "\u1e0daaku\"=aan-\u00f3om",
             "yha\u00ed",
@@ -2241,8 +3499,28 @@
         "trs": "The robbers came and abducted him along with his flock.' (A:GHA005)"
     },
     {
+        "categories": [
+            "1sg",
+            "2sg",
+            "cv",
+            "nom",
+            "obl",
+            "prox",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1sg.nom} \\textsc{2sg.nom} rope give.\\textsc{cv} tie-\\textsc{cv} throw-\\textsc{prs\"=msg} \\textsc{prox} tree-\\textsc{obl} with",
+        "imtwordsbare": [
+            "1sg.nom",
+            "2sg.nom",
+            "rope",
+            "give.CV",
+            "tie-CV",
+            "throw-PRS\"=MSG",
+            "PROX",
+            "tree-OBL",
+            "with"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "<span class=\"sc\">2sg.nom</span>",
@@ -2265,8 +3543,19 @@
             "tree-\\textsc{obl}",
             "with"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma tu r\u00e1a\u01f0-a de \u0261ha\u1e47\u1e0d-\u00ed \u0261al-\u00e1an-u \\textbf{an\u00ed} \\textbf{mu\u1e6d-\u00e1} \\textbf{san\u0261\u00ed}",
+        "srcwordsbare": [
+            "ma",
+            "tu",
+            "r\u00e1a\u01f0-a",
+            "de",
+            "\u0261ha\u1e47\u1e0d-\u00ed",
+            "\u0261al-\u00e1an-u",
+            "an\u00ed",
+            "mu\u1e6d-\u00e1",
+            "san\u0261\u00ed"
+        ],
         "srcwordshtml": [
             "ma",
             "tu",
@@ -2292,8 +3581,27 @@
         "trs": "I will tie you with ropes to this tree.' (A:KIN021)"
     },
     {
+        "categories": [
+            "3sg",
+            "cv",
+            "obl",
+            "pfv\"=msg",
+            "pl",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "foreleg-\\textsc{pl} stretch.out.\\textsc{cv} \\textsc{top} \\textsc{3sg.obl} on head put-\\textsc{cv} \\textsc{top} sit.down.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "foreleg-PL",
+            "stretch.out.CV",
+            "TOP",
+            "3sg.obl",
+            "on",
+            "head",
+            "put-CV",
+            "TOP",
+            "sit.down.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "foreleg-<span class=\"sc\">pl</span>",
             "stretch.out.<span class=\"sc\">cv</span>",
@@ -2316,8 +3624,19 @@
             "\\textsc{top}",
             "sit.down.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "mu\u1e63\u1e6dookhur-\u00e1 dhra\u01f0a\u00e1 ba \\textbf{t\u00edi} \\textbf{\u01f0hul\u00ed} \u1e63i\u1e63 \u010dhoor-\u00ed ba bh\u00e9\u1e6d-u",
+        "srcwordsbare": [
+            "mu\u1e63\u1e6dookhur-\u00e1",
+            "dhra\u01f0a\u00e1",
+            "ba",
+            "t\u00edi",
+            "\u01f0hul\u00ed",
+            "\u1e63i\u1e63",
+            "\u010dhoor-\u00ed",
+            "ba",
+            "bh\u00e9\u1e6d-u"
+        ],
         "srcwordshtml": [
             "mu\u1e63\u1e6dookhur-\u00e1",
             "dhra\u01f0a\u00e1",
@@ -2343,8 +3662,25 @@
         "trs": "Stretching out its forelegs, it put its head on them/there and sat down.' (A:PAS061)"
     },
     {
+        "categories": [
+            "f",
+            "obl",
+            "pfv",
+            "refl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "fox \\textsc{refl} cunning-\\textsc{obl} on ease-\\textsc{obl} on well.\\textsc{obl} from appear.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "fox",
+            "REFL",
+            "cunning-OBL",
+            "on",
+            "ease-OBL",
+            "on",
+            "well.OBL",
+            "from",
+            "appear.pfv-f"
+        ],
         "imtwordshtml": [
             "fox",
             "<span class=\"sc\">refl</span>",
@@ -2367,8 +3703,19 @@
             "from",
             "appear.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "lhoom\u00e9i \\textbf{tee\u1e47\u00edi} \\textbf{m\u00e1kar-a} \\textbf{\u01f0hul\u00ed} ask\u00faun-a ba\u00e1ndi kuh\u00e9e d\u00edi nikh\u00e9et-i",
+        "srcwordsbare": [
+            "lhoom\u00e9i",
+            "tee\u1e47\u00edi",
+            "m\u00e1kar-a",
+            "\u01f0hul\u00ed",
+            "ask\u00faun-a",
+            "ba\u00e1ndi",
+            "kuh\u00e9e",
+            "d\u00edi",
+            "nikh\u00e9et-i"
+        ],
         "srcwordshtml": [
             "lhoom\u00e9i",
             "<span class=\"bf\">tee\u1e47\u00edi</span>",
@@ -2394,8 +3741,27 @@
         "trs": "The fox easily got out of the well due to his own cunning.' (B:FOX033)"
     },
     {
+        "categories": [
+            "3pl",
+            "3sg",
+            "acc",
+            "inf",
+            "obl",
+            "pst"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3pl.acc} among one man tree-\\textsc{obl} up ascend-\\textsc{inf}  be.able.\\textsc{3sg} \\textsc{pst}",
+        "imtwordsbare": [
+            "3pl.acc",
+            "among",
+            "one",
+            "man",
+            "tree-OBL",
+            "up",
+            "ascend-INF",
+            "be.able.3SG",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.acc</span>",
             "among",
@@ -2418,8 +3784,19 @@
             "be.able.\\textsc{3sg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tana\u00e1m} \\textbf{ma\u01f0\u00ed} \u00e1ak m\u00edi\u0161 mu\u1e6d-\u00e1 \u01f0e ukh-\u00e1ai bh\u00f3o de",
+        "srcwordsbare": [
+            "tana\u00e1m",
+            "ma\u01f0\u00ed",
+            "\u00e1ak",
+            "m\u00edi\u0161",
+            "mu\u1e6d-\u00e1",
+            "\u01f0e",
+            "ukh-\u00e1ai",
+            "bh\u00f3o",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tana\u00e1m</span>",
             "<span class=\"bf\">ma\u01f0\u00ed</span>",
@@ -2445,8 +3822,26 @@
         "trs": "Of them only one man was able to climb the tree.' (A:UNF007)"
     },
     {
+        "categories": [
+            "3sg",
+            "idef",
+            "obl",
+            "pst",
+            "refl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{idef} poor man bazaar-\\textsc{obl} in \\textsc{refl} child beat-\\textsc{3sg} \\textsc{pst}",
+        "imtwordsbare": [
+            "IDEF",
+            "poor",
+            "man",
+            "bazaar-OBL",
+            "in",
+            "REFL",
+            "child",
+            "beat-3SG",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">idef</span>",
             "poor",
@@ -2469,8 +3864,19 @@
             "beat-\\textsc{3sg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "a \u0263ar\u00edb m\u00e9e\u0161 \\textbf{baaz\u00faur-a} \\textbf{ma\u01f0\u00ed} tee\u1e47\u00edi ku\u1e47a\u00e1k bhan\u01f0-\u00fau de",
+        "srcwordsbare": [
+            "a",
+            "\u0263ar\u00edb",
+            "m\u00e9e\u0161",
+            "baaz\u00faur-a",
+            "ma\u01f0\u00ed",
+            "tee\u1e47\u00edi",
+            "ku\u1e47a\u00e1k",
+            "bhan\u01f0-\u00fau",
+            "de"
+        ],
         "srcwordshtml": [
             "a",
             "\u0263ar\u00edb",
@@ -2496,8 +3902,28 @@
         "trs": "A poor man was beating his own child in [the middle of] the bazaar.' (B:ANG002)"
     },
     {
+        "categories": [
+            "def",
+            "idef",
+            "msg",
+            "nom",
+            "obl",
+            "pfv",
+            "pl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{idef} tree-\\textsc{obl} in three branch-\\textsc{pl.obl} in.between \\textsc{def.msg.nom} meat put.down.\\textsc{pfv-msg}",
+        "imtwordsbare": [
+            "IDEF",
+            "tree-OBL",
+            "in",
+            "three",
+            "branch-pl.obl",
+            "in.between",
+            "def.msg.nom",
+            "meat",
+            "put.down.pfv-msg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">idef</span>",
             "tree-<span class=\"sc\">obl</span>",
@@ -2520,8 +3946,19 @@
             "meat",
             "put.down.\\textsc{pfv-msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ak mu\u1e6d-a\u0301 we\u0301e \\textbf{tru\u0301u} \\textbf{\u0161u\u0301un\u0261-am} \\textbf{ma\u01f0i\u0301} so mhaa\u0301s c\u030chu\u0301u\u1e47-u",
+        "srcwordsbare": [
+            "ak",
+            "mu\u1e6d-a\u0301",
+            "we\u0301e",
+            "tru\u0301u",
+            "\u0161u\u0301un\u0261-am",
+            "ma\u01f0i\u0301",
+            "so",
+            "mhaa\u0301s",
+            "c\u030chu\u0301u\u1e47-u"
+        ],
         "srcwordshtml": [
             "ak",
             "mu\u1e6d-a\u0301",
@@ -2547,8 +3984,23 @@
         "trs": "He placed it between three branches in a tree.' (B:SHB735)"
     },
     {
+        "categories": [
+            "3sg",
+            "idef",
+            "msg",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3sg.obl} at \\textsc{idef} hairy-\\textsc{msg} monster come.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "3sg.obl",
+            "at",
+            "IDEF",
+            "hairy-MSG",
+            "monster",
+            "come.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.obl</span>",
             "at",
@@ -2565,8 +4017,16 @@
             "monster",
             "come.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{t\u00edi} \\textbf{ma\u01f0\u00ed} \u00e1a \u01f0ha\u1e6d\u00edl-u \u1e6dhaa\u1e6d\u00e1aku yh\u00f3ol-u",
+        "srcwordsbare": [
+            "t\u00edi",
+            "ma\u01f0\u00ed",
+            "\u00e1a",
+            "\u01f0ha\u1e6d\u00edl-u",
+            "\u1e6dhaa\u1e6d\u00e1aku",
+            "yh\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">t\u00edi</span>",
             "<span class=\"bf\">ma\u01f0\u00ed</span>",
@@ -2586,8 +4046,22 @@
         "trs": "Meanwhile a~hairy monster came in.' (A:THA005)"
     },
     {
+        "categories": [
+            "cv",
+            "def",
+            "obl",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "leopard \\textsc{def} deodar.tree-\\textsc{obl} under come.\\textsc{cv} \\textsc{top}",
+        "imtwordsbare": [
+            "leopard",
+            "DEF",
+            "deodar.tree-OBL",
+            "under",
+            "come.CV",
+            "TOP"
+        ],
         "imtwordshtml": [
             "leopard",
             "<span class=\"sc\">def</span>",
@@ -2604,8 +4078,16 @@
             "come.\\textsc{cv}",
             "\\textsc{top}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "kar\u00e1a\u1e5bu \\textbf{se} \\textbf{loomu\u1e6d-\u00e1} \\textbf{t\u00fauri} ye\u00ed ba",
+        "srcwordsbare": [
+            "kar\u00e1a\u1e5bu",
+            "se",
+            "loomu\u1e6d-\u00e1",
+            "t\u00fauri",
+            "ye\u00ed",
+            "ba"
+        ],
         "srcwordshtml": [
             "kar\u00e1a\u1e5bu",
             "<span class=\"bf\">se</span>",
@@ -2625,8 +4107,23 @@
         "trs": "The leopard got in under the deodar tree.' (B:CLE357)"
     },
     {
+        "categories": [
+            "def",
+            "msg",
+            "nom",
+            "obl",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{def.msg.nom} hunter man tree-\\textsc{obl} in be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "def.msg.nom",
+            "hunter",
+            "man",
+            "tree-OBL",
+            "in",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def.msg.nom</span>",
             "hunter",
@@ -2643,8 +4140,16 @@
             "in",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "so i\u0161kaar\u00ed m\u00e9e\u0161 \\textbf{mu\u1e6d-\u00e1} \\textbf{w\u00e9e} h\u00edn-u",
+        "srcwordsbare": [
+            "so",
+            "i\u0161kaar\u00ed",
+            "m\u00e9e\u0161",
+            "mu\u1e6d-\u00e1",
+            "w\u00e9e",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "so",
             "i\u0161kaar\u00ed",
@@ -2664,8 +4169,23 @@
         "trs": "The man is in the tree.' (B:CLE375)"
     },
     {
+        "categories": [
+            "1pl",
+            "gen",
+            "obl",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1pl.gen} class-\\textsc{obl} in eight child-\\textsc{pl}  be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "1pl.gen",
+            "class-OBL",
+            "in",
+            "eight",
+            "child-PL",
+            "be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1pl.gen</span>",
             "class-<span class=\"sc\">obl</span>",
@@ -2682,8 +4202,16 @@
             "child-\\textsc{pl}",
             "be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{as\u00edi} \\textbf{\u01f0ameet-\u00ed} \\textbf{w\u00e9e} \u00e1a\u1e63\u1e6d ku\u1e47aak-\u00e1 h\u00edn-a",
+        "srcwordsbare": [
+            "as\u00edi",
+            "\u01f0ameet-\u00ed",
+            "w\u00e9e",
+            "\u00e1a\u1e63\u1e6d",
+            "ku\u1e47aak-\u00e1",
+            "h\u00edn-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">as\u00edi</span>",
             "<span class=\"bf\">\u01f0ameet-\u00ed</span>",
@@ -2703,8 +4231,27 @@
         "trs": "There are eight children in our class.' (A:OUR010)"
     },
     {
+        "categories": [
+            "gen",
+            "msg",
+            "nom",
+            "obl",
+            "pfv\"=msg",
+            "rem",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{rem.msg.nom} hunter \\textsc{top} fear-\\textsc{gen}  deodar.tree-\\textsc{obl} up upward come.up.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "rem.msg.nom",
+            "hunter",
+            "TOP",
+            "fear-GEN",
+            "deodar.tree-OBL",
+            "up",
+            "upward",
+            "come.up.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">rem.msg.nom</span>",
             "hunter",
@@ -2725,8 +4272,18 @@
             "upward",
             "come.up.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "has\u00f3 i\u0161kaar\u00ed ba bh\u00edilam-e \\textbf{loomu\u1e6d-\u00e1} \\textbf{\u01f0e} hu\u1e47\u1e6dr\u00e1ak ukh\u00e1at-u",
+        "srcwordsbare": [
+            "has\u00f3",
+            "i\u0161kaar\u00ed",
+            "ba",
+            "bh\u00edilam-e",
+            "loomu\u1e6d-\u00e1",
+            "\u01f0e",
+            "hu\u1e47\u1e6dr\u00e1ak",
+            "ukh\u00e1at-u"
+        ],
         "srcwordshtml": [
             "has\u00f3",
             "i\u0161kaar\u00ed",
@@ -2750,8 +4307,23 @@
         "trs": "Due to fear, that hunter climbed into a~deodar tree.' (B:CLE357)"
     },
     {
+        "categories": [
+            "2sg",
+            "gen",
+            "nom",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "o water \\textsc{2sg.nom} apparently pasture-\\textsc{gen} from  come.down-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "o",
+            "water",
+            "2sg.nom",
+            "apparently",
+            "pasture-GEN",
+            "from",
+            "come.down-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "o",
             "water",
@@ -2770,8 +4342,17 @@
             "from",
             "come.down-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u00e9e w\u00edi tu xu \\textbf{s\u00f3on\"=ii} \\textbf{th\u00edi} wh-\u00e1and-u",
+        "srcwordsbare": [
+            "\u00e9e",
+            "w\u00edi",
+            "tu",
+            "xu",
+            "s\u00f3on\"=ii",
+            "th\u00edi",
+            "wh-\u00e1and-u"
+        ],
         "srcwordshtml": [
             "\u00e9e",
             "w\u00edi",
@@ -2793,8 +4374,25 @@
         "trs": "O water, I see you are coming down from the high pasture.' (A:SHY047)"
     },
     {
+        "categories": [
+            "1pl",
+            "cv",
+            "gen",
+            "nom",
+            "obl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "morning  time-\\textsc{gen} from \\textsc{1pl.nom} field-\\textsc{obl} go.\\textsc{cv} work do-\\textsc{1pl}",
+        "imtwordsbare": [
+            "morning",
+            "time-GEN",
+            "from",
+            "1pl.nom",
+            "field-OBL",
+            "go.CV",
+            "work",
+            "do-1PL"
+        ],
         "imtwordshtml": [
             "morning",
             "time-<span class=\"sc\">gen</span>",
@@ -2815,8 +4413,18 @@
             "work",
             "do-\\textsc{1pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "rhoo\u0161na\u00e1m \\textbf{waxt-\u00edi} \\textbf{th\u00edi} be c\u0323h\u00editr-a be kr\u00e1am th-\u00edia",
+        "srcwordsbare": [
+            "rhoo\u0161na\u00e1m",
+            "waxt-\u00edi",
+            "th\u00edi",
+            "be",
+            "c\u0323h\u00editr-a",
+            "be",
+            "kr\u00e1am",
+            "th-\u00edia"
+        ],
         "srcwordshtml": [
             "rhoo\u0161na\u00e1m",
             "<span class=\"bf\">waxt-\u00edi</span>",
@@ -2840,8 +4448,30 @@
         "trs": "Let's go to the field early in the morning and work.' (A:WOM474)"
     },
     {
+        "categories": [
+            "1sg",
+            "2pl",
+            "cv",
+            "erg",
+            "f",
+            "gen",
+            "nom",
+            "obl",
+            "pfv"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{2pl.erg} strange-\\textsc{obl} man-\\textsc{obl} with \\textsc{1sg.nom} spend.night.\\textsc{cv} \\textsc{1sg.gen} disgrace cause.to.do.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "2pl.erg",
+            "strange-OBL",
+            "man-OBL",
+            "with",
+            "1sg.nom",
+            "spend.night.CV",
+            "1sg.gen",
+            "disgrace",
+            "cause.to.do.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">2pl.erg</span>",
             "strange-<span class=\"sc\">obl</span>",
@@ -2864,8 +4494,19 @@
             "disgrace",
             "cause.to.do.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tus\u00edm \\textbf{l\u00fau\u0261-a} \\textbf{m\u00edi\u0161-a} \\textbf{k\u00e9e\u010di} ma baasa\u00e1 m\u00edi bheezat\u00ed thaw\u00e9el-i",
+        "srcwordsbare": [
+            "tus\u00edm",
+            "l\u00fau\u0261-a",
+            "m\u00edi\u0161-a",
+            "k\u00e9e\u010di",
+            "ma",
+            "baasa\u00e1",
+            "m\u00edi",
+            "bheezat\u00ed",
+            "thaw\u00e9el-i"
+        ],
         "srcwordshtml": [
             "tus\u00edm",
             "<span class=\"bf\">l\u00fau\u0261-a</span>",
@@ -2891,8 +4532,24 @@
         "trs": "You disgraced me by making me spend the night with a~stranger.' (A:UXW051)"
     },
     {
+        "categories": [
+            "1sg",
+            "cv",
+            "nom",
+            "obl",
+            "prox",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{prox} house-\\textsc{obl}  inside \\textsc{1sg.nom} sleep.\\textsc{cv} be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "PROX",
+            "house-OBL",
+            "inside",
+            "1sg.nom",
+            "sleep.CV",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "house-<span class=\"sc\">obl</span>",
@@ -2909,8 +4566,16 @@
             "sleep.\\textsc{cv}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{een\u00ed} \\textbf{\u0261hoo\u1e63\u1e6d-\u00e1} \\textbf{\u0161\u00edi\u1e6di} ma se\u00e9 h\u00edn-u",
+        "srcwordsbare": [
+            "een\u00ed",
+            "\u0261hoo\u1e63\u1e6d-\u00e1",
+            "\u0161\u00edi\u1e6di",
+            "ma",
+            "se\u00e9",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">een\u00ed</span>",
             "<span class=\"bf\">\u0261hoo\u1e63\u1e6d-\u00e1</span>",
@@ -2930,8 +4595,21 @@
         "trs": "Inside this very house I was asleep.' (A:HUA014-5)"
     },
     {
+        "categories": [
+            "obl",
+            "prs\"=msg",
+            "rem"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "Lord Isa=peace.be.upon.him \\textsc{rem} path-\\textsc{obl} along go-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "Lord",
+            "Isa=peace.be.upon.him",
+            "REM",
+            "path-OBL",
+            "along",
+            "go-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "Lord",
             "Isa=peace.be.upon.him",
@@ -2948,8 +4626,16 @@
             "along",
             "go-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "hazr\u00e1t iisa=aleehisala\u00e1m \\textbf{ees\u00e9} \\textbf{p\u00e1and-a} \\textbf{phar\u00e9} bi-\u00e1an-u",
+        "srcwordsbare": [
+            "hazr\u00e1t",
+            "iisa=aleehisala\u00e1m",
+            "ees\u00e9",
+            "p\u00e1and-a",
+            "phar\u00e9",
+            "bi-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "hazr\u00e1t",
             "iisa=aleehisala\u00e1m",
@@ -2969,8 +4655,31 @@
         "trs": "Lord Isa [Jesus], PBUH, came walking along that path.' (A:ABO033)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "cv",
+            "obl",
+            "pfv",
+            "pl",
+            "pl\"=obl",
+            "pst"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3sg.acc} kill-\\textsc{cv} throw-\\textsc{cv} brute-\\textsc{pl\"=obl} mouth-\\textsc{obl} toward bread also put.\\textsc{cv} go.\\textsc{pfv.pl} \\textsc{pst}",
+        "imtwordsbare": [
+            "3sg.acc",
+            "kill-CV",
+            "throw-CV",
+            "brute-PL\"=OBL",
+            "mouth-OBL",
+            "toward",
+            "bread",
+            "also",
+            "put.CV",
+            "go.pfv.pl",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.acc</span>",
             "kill-<span class=\"sc\">cv</span>",
@@ -2997,8 +4706,21 @@
             "go.\\textsc{pfv.pl}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tas mheer-\u00ed \u0261al-\u00ed zaalim\"=aan-\u00f3om \\textbf{dh\u00fat-a} \\textbf{phar\u00e9} \u0261\u00fauli bi de \u0261\u00edia de",
+        "srcwordsbare": [
+            "tas",
+            "mheer-\u00ed",
+            "\u0261al-\u00ed",
+            "zaalim\"=aan-\u00f3om",
+            "dh\u00fat-a",
+            "phar\u00e9",
+            "\u0261\u00fauli",
+            "bi",
+            "de",
+            "\u0261\u00edia",
+            "de"
+        ],
         "srcwordshtml": [
             "tas",
             "mheer-\u00ed",
@@ -3028,8 +4750,20 @@
         "trs": "The brutes, who had killed him, had also put bread in his mouth and left.' (A:GHA076-7)"
     },
     {
+        "categories": [
+            "f",
+            "obl",
+            "pfv",
+            "prs"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "village-\\textsc{obl} toward walk.\\textsc{pfv-f} be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "village-OBL",
+            "toward",
+            "walk.pfv-f",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "village-<span class=\"sc\">obl</span>",
             "toward",
@@ -3042,8 +4776,14 @@
             "walk.\\textsc{pfv-f}",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{d\u00edi\u0161-a} \\textbf{d\u00fa\u0161i} til\u00edl-i h\u00edn-i",
+        "srcwordsbare": [
+            "d\u00edi\u0161-a",
+            "d\u00fa\u0161i",
+            "til\u00edl-i",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">d\u00edi\u0161-a</span>",
             "<span class=\"bf\">d\u00fa\u0161i</span>",
@@ -3059,8 +4799,22 @@
         "trs": "She started to walk toward the village.' (A:KAT085)"
     },
     {
+        "categories": [
+            "cntr",
+            "gen",
+            "msg",
+            "oblg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "child-\\textsc{gen}  in.front.of good.\\textsc{msg} work \\textsc{cntr} do-\\textsc{oblg}",
+        "imtwordsbare": [
+            "child-GEN",
+            "in.front.of",
+            "good.MSG",
+            "work",
+            "CNTR",
+            "do-OBLG"
+        ],
         "imtwordshtml": [
             "child-<span class=\"sc\">gen</span>",
             "in.front.of",
@@ -3077,8 +4831,16 @@
             "\\textsc{cntr}",
             "do-\\textsc{oblg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ku\u1e47aak-\u00edi} \\textbf{maxad\u00fa\u0161i} \u0161\u00f3o kr\u00e1am ta th\"=ee\u1e47\u1e0de\u00e9u",
+        "srcwordsbare": [
+            "ku\u1e47aak-\u00edi",
+            "maxad\u00fa\u0161i",
+            "\u0161\u00f3o",
+            "kr\u00e1am",
+            "ta",
+            "th\"=ee\u1e47\u1e0de\u00e9u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ku\u1e47aak-\u00edi</span>",
             "<span class=\"bf\">maxad\u00fa\u0161i</span>",
@@ -3098,8 +4860,19 @@
         "trs": "One should act properly in front of children.' (A:SMO022)"
     },
     {
+        "categories": [
+            "cv",
+            "idef",
+            "obl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "hide-\\textsc{cv} \\textsc{idef} trunk-\\textsc{obl} behind",
+        "imtwordsbare": [
+            "hide-CV",
+            "IDEF",
+            "trunk-OBL",
+            "behind"
+        ],
         "imtwordshtml": [
             "hide-<span class=\"sc\">cv</span>",
             "<span class=\"sc\">idef</span>",
@@ -3112,8 +4885,14 @@
             "trunk-\\textsc{obl}",
             "behind"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "pal-\u00ed \\textbf{\u00e1ak} \\textbf{\u1e6d\u00f3mb-a} \\textbf{pat\u00fa}",
+        "srcwordsbare": [
+            "pal-\u00ed",
+            "\u00e1ak",
+            "\u1e6d\u00f3mb-a",
+            "pat\u00fa"
+        ],
         "srcwordshtml": [
             "pal-\u00ed",
             "<span class=\"bf\">\u00e1ak</span>",
@@ -3129,8 +4908,25 @@
         "trs": "I hid behind a~tree trunk and...' (A:HUA072)"
     },
     {
+        "categories": [
+            "1sg",
+            "cntr",
+            "dist",
+            "neg",
+            "nom",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "there.\\textsc{dist} up.to \\textsc{cntr} \\textsc{1sg.nom}=to line knowledge \\textsc{neg}.be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "there.DIST",
+            "up.to",
+            "CNTR",
+            "1sg.nom=to",
+            "line",
+            "knowledge",
+            "NEG.be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "there.<span class=\"sc\">dist</span>",
             "up.to",
@@ -3149,8 +4945,17 @@
             "knowledge",
             "\\textsc{neg}.be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ee\u1e5b\u00e1a} \\textbf{ti\u00ed} ta m\u00e1a=the \u0161i\u01f0r\u00e1 p\u00e1ta n\u00e1in-u",
+        "srcwordsbare": [
+            "ee\u1e5b\u00e1a",
+            "ti\u00ed",
+            "ta",
+            "m\u00e1a=the",
+            "\u0161i\u01f0r\u00e1",
+            "p\u00e1ta",
+            "n\u00e1in-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ee\u1e5b\u00e1a</span>",
             "<span class=\"bf\">ti\u00ed</span>",
@@ -3172,8 +4977,20 @@
         "trs": "I don't know his line until that point.' (A:ASH015)"
     },
     {
+        "categories": [
+            "obl",
+            "pl",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "winter-\\textsc{obl} knee-\\textsc{obl.pl} as.far.as snow give-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "winter-OBL",
+            "knee-obl.pl",
+            "as.far.as",
+            "snow",
+            "give-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "winter-<span class=\"sc\">obl</span>",
             "knee-<span class=\"sc\">obl.pl</span>",
@@ -3188,8 +5005,15 @@
             "snow",
             "give-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "heewand-\u00e1 \\textbf{kh\u00fa\u1e6d-am} \\textbf{ti\u00ed} kir d-\u00e1an-u",
+        "srcwordsbare": [
+            "heewand-\u00e1",
+            "kh\u00fa\u1e6d-am",
+            "ti\u00ed",
+            "kir",
+            "d-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "heewand-\u00e1",
             "<span class=\"bf\">kh\u00fa\u1e6d-am</span>",
@@ -3207,8 +5031,28 @@
         "trs": "In the winter the snow reaches up to the knees.' (B:DHN4628)"
     },
     {
+        "categories": [
+            "1sg",
+            "2sg",
+            "gen",
+            "nom",
+            "pl",
+            "prox",
+            "prs\"=msg=q",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1sg.nom} \\textsc{top} \\textsc{prox} fattened she.goat.\\textsc{pl} \\textsc{2sg.gen} for keep-\\textsc{prs\"=msg=q}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "TOP",
+            "PROX",
+            "fattened",
+            "she.goat.PL",
+            "2sg.gen",
+            "for",
+            "keep-PRS\"=MSG=Q"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "<span class=\"sc\">top</span>",
@@ -3229,8 +5073,18 @@
             "for",
             "keep-\\textsc{prs\"=msg=q}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma ba an\u00ed poo\u0161tr\u00e1 aba\u00edim \\textbf{th\u00edi} \\textbf{dap\u00e1ara} saat-\u00e1an-u=ee",
+        "srcwordsbare": [
+            "ma",
+            "ba",
+            "an\u00ed",
+            "poo\u0161tr\u00e1",
+            "aba\u00edim",
+            "th\u00edi",
+            "dap\u00e1ara",
+            "saat-\u00e1an-u=ee"
+        ],
         "srcwordshtml": [
             "ma",
             "ba",
@@ -3254,8 +5108,23 @@
         "trs": "Do you think I have taken care of these fattened goats for you?' (A:PAS093)"
     },
     {
+        "categories": [
+            "dist",
+            "f",
+            "prs",
+            "red\"=refl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "from.there.\\textsc{dist} for different different \\textsc{red\"=refl}  things be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "from.there.DIST",
+            "for",
+            "different",
+            "different",
+            "RED\"=REFL",
+            "things",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "from.there.<span class=\"sc\">dist</span>",
             "for",
@@ -3274,8 +5143,17 @@
             "things",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ee\u1e5b\u00e1ai} \\textbf{dap\u00e1ara} muxtal\u00edf muxtal\u00edf tee\u1e47-tee\u1e47\u00edi saama\u00e1n h\u00edn-i",
+        "srcwordsbare": [
+            "ee\u1e5b\u00e1ai",
+            "dap\u00e1ara",
+            "muxtal\u00edf",
+            "muxtal\u00edf",
+            "tee\u1e47-tee\u1e47\u00edi",
+            "saama\u00e1n",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ee\u1e5b\u00e1ai</span>",
             "<span class=\"bf\">dap\u00e1ara</span>",
@@ -3297,8 +5175,19 @@
         "trs": "For that a~lot of different things are needed.' (A:HOW018)"
     },
     {
+        "categories": [
+            "obl",
+            "prs\"=mpl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "pasture-\\textsc{obl} to from.there for take.away-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "pasture-OBL",
+            "to",
+            "from.there",
+            "for",
+            "take.away-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "pasture-<span class=\"sc\">obl</span>",
             "to",
@@ -3313,8 +5202,15 @@
             "for",
             "take.away-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "s\u00faun-a the \\textbf{hat\u00e1awuu} \\textbf{p\u00e1ndee} har-\u00e1an-a",
+        "srcwordsbare": [
+            "s\u00faun-a",
+            "the",
+            "hat\u00e1awuu",
+            "p\u00e1ndee",
+            "har-\u00e1an-a"
+        ],
         "srcwordshtml": [
             "s\u00faun-a",
             "the",
@@ -3332,8 +5228,24 @@
         "trs": "That is why we take them to the high pasture.' (B:SHC015)"
     },
     {
+        "categories": [
+            "idef",
+            "obl",
+            "prs\"=msg",
+            "quot"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "Malikchetre \\textsc{quot} village-\\textsc{obl} to near \\textsc{idef} field be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "Malikchetre",
+            "QUOT",
+            "village-OBL",
+            "to",
+            "near",
+            "IDEF",
+            "field",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "Malikchetre",
             "<span class=\"sc\">quot</span>",
@@ -3354,8 +5266,18 @@
             "field",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "malikc\u0323he\u00e9tr than\u00ed \\textbf{\u0261hr\u00f3om-a} \\textbf{the} \\textbf{nhi\u00e1a\u1e5ba} \u00e1ak c\u0323h\u00editr h\u00edn-u",
+        "srcwordsbare": [
+            "malikc\u0323he\u00e9tr",
+            "than\u00ed",
+            "\u0261hr\u00f3om-a",
+            "the",
+            "nhi\u00e1a\u1e5ba",
+            "\u00e1ak",
+            "c\u0323h\u00editr",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "malikc\u0323he\u00e9tr",
             "than\u00ed",
@@ -3379,8 +5301,25 @@
         "trs": "Near to the village, there is a~field called Malikchetre.' (A:JAN029)"
     },
     {
+        "categories": [
+            "def",
+            "f",
+            "obl",
+            "pfv",
+            "prs"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{def} water-\\textsc{obl} to a.little also near go.\\textsc{pfv.f} be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "DEF",
+            "water-OBL",
+            "to",
+            "a.little",
+            "also",
+            "near",
+            "go.pfv.f",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "water-<span class=\"sc\">obl</span>",
@@ -3401,8 +5340,18 @@
             "go.\\textsc{pfv.f}",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se \\textbf{w\u00edi-a} \\textbf{the} \\textbf{tu\u00fa\u0161} \\textbf{bi} \\textbf{nhi\u00e1a\u1e5ba} \u0261\u00edi h\u00edn-i",
+        "srcwordsbare": [
+            "se",
+            "w\u00edi-a",
+            "the",
+            "tu\u00fa\u0161",
+            "bi",
+            "nhi\u00e1a\u1e5ba",
+            "\u0261\u00edi",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "se",
             "<span class=\"bf\">w\u00edi-a</span>",
@@ -3426,8 +5375,21 @@
         "trs": "She went a~bit closer to the water.' (A:SHY054)"
     },
     {
+        "categories": [
+            "1sg",
+            "imp",
+            "nom",
+            "sg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1sg.nom} with to near sit.down.\\textsc{imp.sg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "with",
+            "to",
+            "near",
+            "sit.down.imp.sg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "with",
@@ -3442,8 +5404,15 @@
             "near",
             "sit.down.\\textsc{imp.sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ma} \\textbf{k\u00e9e\u010di} \\textbf{the} \\textbf{nhi\u00e1a\u1e5ba} bhe\u0161",
+        "srcwordsbare": [
+            "ma",
+            "k\u00e9e\u010di",
+            "the",
+            "nhi\u00e1a\u1e5ba",
+            "bhe\u0161"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ma</span>",
             "<span class=\"bf\">k\u00e9e\u010di</span>",
@@ -3461,8 +5430,29 @@
         "trs": "Sit down next to me!' (A:AYB029)"
     },
     {
+        "categories": [
+            "1pl",
+            "gen",
+            "obl",
+            "pfv\"=msg",
+            "pl",
+            "prs\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{1pl.gen} grandfather Choke Kator-\\textsc{obl} from two hundred year-\\textsc{pl} before come.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "1pl.gen",
+            "grandfather",
+            "Choke",
+            "Kator-OBL",
+            "from",
+            "two",
+            "hundred",
+            "year-PL",
+            "before",
+            "come.PFV\"=MSG",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1pl.gen</span>",
             "grandfather",
@@ -3489,8 +5479,21 @@
             "come.\\textsc{pfv\"=msg}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "as\u00edi d\u00f3odu c\u0323ho\u00f3k \\textbf{ka\u1e6dur-\u00e1} \\textbf{d\u00edi} \\textbf{d\u00fau} \\textbf{s\u00f3o} \\textbf{kaal-\u00e1} \\textbf{mu\u1e63\u1e6d\u00fa} yh\u00f3ol-u h\u00edn-u",
+        "srcwordsbare": [
+            "as\u00edi",
+            "d\u00f3odu",
+            "c\u0323ho\u00f3k",
+            "ka\u1e6dur-\u00e1",
+            "d\u00edi",
+            "d\u00fau",
+            "s\u00f3o",
+            "kaal-\u00e1",
+            "mu\u1e63\u1e6d\u00fa",
+            "yh\u00f3ol-u",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "as\u00edi",
             "d\u00f3odu",
@@ -3520,8 +5523,30 @@
         "trs": "Our ancestor Choke arrived two hundred years prior to the Kator [dynasty].' (A:ASH047)"
     },
     {
+        "categories": [
+            "3pl",
+            "gen",
+            "obl",
+            "pl",
+            "pst",
+            "top"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3pl.gen} field \\textsc{top} \\textsc{3pl.gen} house-\\textsc{obl} from about three four kilometre-\\textsc{pl} away.from be.\\textsc{pst}",
+        "imtwordsbare": [
+            "3pl.gen",
+            "field",
+            "TOP",
+            "3pl.gen",
+            "house-OBL",
+            "from",
+            "about",
+            "three",
+            "four",
+            "kilometre-PL",
+            "away.from",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.gen</span>",
             "field",
@@ -3550,8 +5575,22 @@
             "away.from",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tan\u00edi c\u0323h\u00editr ba \\textbf{tan\u00edi} \\textbf{\u0261hoo\u1e63\u1e6d-\u00e1} \\textbf{d\u00edi} \\textbf{taqriiba\u0301n} \\textbf{tr\u00f3o} \\textbf{\u010d\u00faur} \\textbf{kulumi\u1e6der-\u00e1} \\textbf{dh\u00faura} de",
+        "srcwordsbare": [
+            "tan\u00edi",
+            "c\u0323h\u00editr",
+            "ba",
+            "tan\u00edi",
+            "\u0261hoo\u1e63\u1e6d-\u00e1",
+            "d\u00edi",
+            "taqriiba\u0301n",
+            "tr\u00f3o",
+            "\u010d\u00faur",
+            "kulumi\u1e6der-\u00e1",
+            "dh\u00faura",
+            "de"
+        ],
         "srcwordshtml": [
             "tan\u00edi",
             "c\u0323h\u00editr",
@@ -3583,8 +5622,23 @@
         "trs": "Their field was about three to four kilometres away from their house.' (A:WOM468)"
     },
     {
+        "categories": [
+            "cv",
+            "obl",
+            "pfv",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "hut-\\textsc{obl} inside to take-\\textsc{cv} go.\\textsc{pfv.pl} be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "hut-OBL",
+            "inside",
+            "to",
+            "take-CV",
+            "go.pfv.pl",
+            "be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "hut-<span class=\"sc\">obl</span>",
             "inside",
@@ -3601,8 +5655,16 @@
             "go.\\textsc{pfv.pl}",
             "be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{\u1e0d\u00fakur-a} \\textbf{\u0161\u00edi\u1e6di} \\textbf{the} \u0261hin-\u00ed \u0261\u00edia h\u00edn-a",
+        "srcwordsbare": [
+            "\u1e0d\u00fakur-a",
+            "\u0161\u00edi\u1e6di",
+            "the",
+            "\u0261hin-\u00ed",
+            "\u0261\u00edia",
+            "h\u00edn-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">\u1e0d\u00fakur-a</span>",
             "<span class=\"bf\">\u0161\u00edi\u1e6di</span>",
@@ -3622,8 +5684,24 @@
         "trs": "They brought him inside the hut.' (A:KAT062)"
     },
     {
+        "categories": [
+            "def",
+            "msg",
+            "nom",
+            "obl",
+            "pfv"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{def.msg.nom} child \\textsc{def} monster-\\textsc{obl} near to go.\\textsc{pfv.msg}",
+        "imtwordsbare": [
+            "def.msg.nom",
+            "child",
+            "DEF",
+            "monster-OBL",
+            "near",
+            "to",
+            "go.pfv.msg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def.msg.nom</span>",
             "child",
@@ -3642,8 +5720,17 @@
             "to",
             "go.\\textsc{pfv.msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "so ku\u1e47a\u00e1k \\textbf{se} \\textbf{\u1e6dhaa\u1e6d\u00e1ak-a} \\textbf{kh\u00fana} \\textbf{the} \u0261\u00faum",
+        "srcwordsbare": [
+            "so",
+            "ku\u1e47a\u00e1k",
+            "se",
+            "\u1e6dhaa\u1e6d\u00e1ak-a",
+            "kh\u00fana",
+            "the",
+            "\u0261\u00faum"
+        ],
         "srcwordshtml": [
             "so",
             "ku\u1e47a\u00e1k",
@@ -3665,8 +5752,21 @@
         "trs": "The child went over to the monster.' (A:BER003)"
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "\\textsc{3sg.gen} roof-\\textsc{obl} on to come.down.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "3sg.gen",
+            "roof-OBL",
+            "on",
+            "to",
+            "come.down.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.gen</span>",
             "roof-<span class=\"sc\">obl</span>",
@@ -3681,8 +5781,15 @@
             "to",
             "come.down.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tas\u00edi} \\textbf{\u0161an-\u00e1} \\textbf{\u01f0hul\u00ed} \\textbf{the} wh\u00e1at-u",
+        "srcwordsbare": [
+            "tas\u00edi",
+            "\u0161an-\u00e1",
+            "\u01f0hul\u00ed",
+            "the",
+            "wh\u00e1at-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tas\u00edi</span>",
             "<span class=\"bf\">\u0161an-\u00e1</span>",
@@ -3700,8 +5807,21 @@
         "trs": "I reached [got down to] the roof of his house.' (A:HUA091)"
     },
     {
+        "categories": [
+            "gen",
+            "obl",
+            "pfv\"=mpl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "some persons appear.\\textsc{pfv\"=mpl} Damel-\\textsc{obl} toward.\\textsc{gen} from",
+        "imtwordsbare": [
+            "some",
+            "persons",
+            "appear.PFV\"=MPL",
+            "Damel-OBL",
+            "toward.GEN",
+            "from"
+        ],
         "imtwordshtml": [
             "some",
             "persons",
@@ -3718,8 +5838,16 @@
             "toward.\\textsc{gen}",
             "from"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "aakat\u00ed kasa\u00e1n nikh\u00e1at-a \\textbf{\u0261i\u1e0d-\u00e1} \\textbf{d\u00fa\u0161ii} \\textbf{\\textmd{th\u00edi}}",
+        "srcwordsbare": [
+            "aakat\u00ed",
+            "kasa\u00e1n",
+            "nikh\u00e1at-a",
+            "\u0261i\u1e0d-\u00e1",
+            "d\u00fa\u0161ii",
+            "\\textmd{th\u00edi}"
+        ],
         "srcwordshtml": [
             "aakat\u00ed",
             "kasa\u00e1n",
@@ -3739,8 +5867,25 @@
         "trs": "A few people came down, from the Damel side.' (A:JAN043)"
     },
     {
+        "categories": [
+            "3sg",
+            "f",
+            "gen",
+            "pfv",
+            "pl\"=gen"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "forest.flower flower-\\textsc{pl\"=gen} bouquet water \\textsc{3sg.gen} in.front.of along bring.down.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "forest.flower",
+            "flower-PL\"=GEN",
+            "bouquet",
+            "water",
+            "3sg.gen",
+            "in.front.of",
+            "along",
+            "bring.down.pfv-f"
+        ],
         "imtwordshtml": [
             "forest.flower",
             "flower-<span class=\"sc\">pl\"=gen</span>",
@@ -3761,8 +5906,18 @@
             "along",
             "bring.down.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261ulsamb\u00e9r \u0261hamb\u00fari-m-e bh\u00e9\u1e6di w\u00edi \\textbf{tes\u00e9e} \\textbf{muxad\u00fa\u0161i} \\textbf{phar\u00e1} wheel\u00edl-i",
+        "srcwordsbare": [
+            "\u0261ulsamb\u00e9r",
+            "\u0261hamb\u00fari-m-e",
+            "bh\u00e9\u1e6di",
+            "w\u00edi",
+            "tes\u00e9e",
+            "muxad\u00fa\u0161i",
+            "phar\u00e1",
+            "wheel\u00edl-i"
+        ],
         "srcwordshtml": [
             "\u0261ulsamb\u00e9r",
             "\u0261hamb\u00fari-m-e",
@@ -3786,8 +5941,22 @@
         "trs": "The water brought down a~bouquet of forest flowers in front of her.'\\newline (B:FLW805)"
     },
     {
+        "categories": [
+            "def",
+            "obl",
+            "pfv\"=fpl",
+            "pl"
+        ],
         "filename": "82/07AdverbsAndPostpositions.tex",
         "imt": "pocket-\\textsc{obl} in from \\textsc{def} flower-\\textsc{pl}  take.out.\\textsc{pfv\"=fpl}",
+        "imtwordsbare": [
+            "pocket-OBL",
+            "in",
+            "from",
+            "DEF",
+            "flower-PL",
+            "take.out.PFV\"=FPL"
+        ],
         "imtwordshtml": [
             "pocket-<span class=\"sc\">obl</span>",
             "in",
@@ -3804,8 +5973,16 @@
             "flower-\\textsc{pl}",
             "take.out.\\textsc{pfv\"=fpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\label{bkm:Ref193771773}\\textbf{\u01f0eep-\u00ed} \\textbf{w\u00e9e} \\textbf{y\u00fau} se \u0261hamb\u00fari-m \u0261ha\u1e0d\u00edl-im",
+        "srcwordsbare": [
+            "\\label{bkm:Ref193771773}\u01f0eep-\u00ed",
+            "w\u00e9e",
+            "y\u00fau",
+            "se",
+            "\u0261hamb\u00fari-m",
+            "\u0261ha\u1e0d\u00edl-im"
+        ],
         "srcwordshtml": [
             "\\label{bkm:Ref193771773}<span class=\"bf\">\u01f0eep-\u00ed</span>",
             "<span class=\"bf\">w\u00e9e</span>",

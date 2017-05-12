@@ -1,7 +1,72 @@
 [
     {
+        "categories": [
+            "1pl",
+            "poss"
+        ],
+        "filename": "78/12.tex",
+        "imt": "{} {}  still  {\\textsc{1pl}}  {\\textsc{poss}}  {blood}",
+        "imtwordsbare": [
+            "{}",
+            "{}",
+            "still",
+            "{1PL}",
+            "{POSS}",
+            "{blood}"
+        ],
+        "imtwordshtml": [
+            "{}",
+            "{}",
+            "still",
+            "{<span class=\"sc\">1pl</span>}",
+            "{<span class=\"sc\">poss</span>}",
+            "{blood}"
+        ],
+        "imtwordstex": [
+            "{}",
+            "{}",
+            "still",
+            "{\\textsc{1pl}}",
+            "{\\textsc{poss}}",
+            "{blood}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{\\ldots}  {\\bluebold{\u00d8}}  masi  {tong}  {punya}  {dara}",
+        "srcwordsbare": [
+            "{\\ldots}",
+            "{\\bluebold{\u00d8}}",
+            "masi",
+            "{tong}",
+            "{punya}",
+            "{dara}"
+        ],
+        "srcwordshtml": [
+            "{\\ldots}",
+            "{\\bluebold{\u00d8}}",
+            "masi",
+            "{tong}",
+            "{punya}",
+            "{dara}"
+        ],
+        "srcwordstex": [
+            "{\\ldots}",
+            "{\\bluebold{\u00d8}}",
+            "masi",
+            "{tong}",
+            "{punya}",
+            "{dara}"
+        ],
+        "trs": "\\bluebold{she} requests something, we give (it to her), because (\\bluebold{she}\u2019s) our child, {\\ldots} (\\bluebold{she}\u2019s) still our blood\u2019 \\textstyleExampleSource{[081006-025-CvEx.0020/0022]}"
+    },
+    {
+        "categories": [],
         "filename": "78/12.tex",
         "imt": "{}    snake  two",
+        "imtwordsbare": [
+            "{}",
+            "snake",
+            "two"
+        ],
         "imtwordshtml": [
             "{}",
             "snake",
@@ -12,8 +77,13 @@
             "snake",
             "two"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Wife:  ular  \\bluebold{dua}",
+        "srcwordsbare": [
+            "Wife:",
+            "ular",
+            "\\bluebold{dua}"
+        ],
         "srcwordshtml": [
             "Wife:",
             "ular",
@@ -27,8 +97,21 @@
         "trs": "Wife: \u2018\\bluebold{two} snakes\u2019 (Lit. \u2018the snakes (were) \\bluebold{two}\u2019) \\textstyleExampleSource{[081006-022-CvEx.0002-0003]}"
     },
     {
+        "categories": [
+            "1sg",
+            "poss"
+        ],
         "filename": "78/12.tex",
         "imt": "\\textsc{1sg} go.out from house \\textsc{1sg} \\textsc{poss} parent",
+        "imtwordsbare": [
+            "1SG",
+            "go.out",
+            "from",
+            "house",
+            "1SG",
+            "POSS",
+            "parent"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg</span>",
             "go.out",
@@ -47,8 +130,17 @@
             "\\textsc{poss}",
             "parent"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "sa \\textitbf{kluar} \\textitbf{dari} \\textitbf{ruma} sa punya orang-tua",
+        "srcwordsbare": [
+            "sa",
+            "kluar",
+            "dari",
+            "ruma",
+            "sa",
+            "punya",
+            "orang-tua"
+        ],
         "srcwordshtml": [
             "sa",
             "<span class=\"itbf\">kluar</span>",
@@ -68,5 +160,45 @@
             "orang-tua"
         ],
         "trs": "I \\bluebold{left home}, my parents\u2019 (Lit. \u2018\\bluebold{went out from} the house\u2019) [081115-001b-Cv.0045]"
+    },
+    {
+        "categories": [
+            "rel"
+        ],
+        "filename": "78/12.tex",
+        "imt": "{\\textsc{rel}}  eat  {many}",
+        "imtwordsbare": [
+            "{REL}",
+            "eat",
+            "{many}"
+        ],
+        "imtwordshtml": [
+            "{<span class=\"sc\">rel</span>}",
+            "eat",
+            "{many}"
+        ],
+        "imtwordstex": [
+            "{\\textsc{rel}}",
+            "eat",
+            "{many}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{yang}  makang  {banyak}",
+        "srcwordsbare": [
+            "{yang}",
+            "makang",
+            "{banyak}"
+        ],
+        "srcwordshtml": [
+            "{yang}",
+            "makang",
+            "{banyak}"
+        ],
+        "srcwordstex": [
+            "{yang}",
+            "makang",
+            "{banyak}"
+        ],
+        "trs": "most of that money, that\u2019s \\bluebold{for the community} but (it\u2019s) the officials who take lots (of it)\u2019 \\textstyleExampleSource{[081029-004-Cv.0002]}"
     }
 ]

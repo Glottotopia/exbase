@@ -1,7 +1,284 @@
 [
     {
+        "categories": [
+            "3pl",
+            "3sg"
+        ],
+        "filename": "78/02.tex",
+        "imt": "now  \\textsc{3pl}  give  \\textsc{3sg}  flashlight  give  flashlight  \\textsc{3pl}  give {}",
+        "imtwordsbare": [
+            "now",
+            "3PL",
+            "give",
+            "3SG",
+            "flashlight",
+            "give",
+            "flashlight",
+            "3PL",
+            "give",
+            "{}"
+        ],
+        "imtwordshtml": [
+            "now",
+            "<span class=\"sc\">3pl</span>",
+            "give",
+            "<span class=\"sc\">3sg</span>",
+            "flashlight",
+            "give",
+            "flashlight",
+            "<span class=\"sc\">3pl</span>",
+            "give",
+            "{}"
+        ],
+        "imtwordstex": [
+            "now",
+            "\\textsc{3pl}",
+            "give",
+            "\\textsc{3sg}",
+            "flashlight",
+            "give",
+            "flashlight",
+            "\\textsc{3pl}",
+            "give",
+            "{}"
+        ],
+        "language": "Rapa Nui",
+        "src": "\\bluebold{ska\u027e\u0250n}  d\u0254\u031e\u014b  kasi  d\u026aa  \\bluebold{s\u025b\u031ent\u025b\u031er\u0325},  kasi  \\bluebold{s\u025b\u031ent\u025b\u031er}  d\u0254\u031e\u014b  kasi {\\ldots}",
+        "srcwordsbare": [
+            "\\bluebold{ska\u027e\u0250n}",
+            "d\u0254\u031e\u014b",
+            "kasi",
+            "d\u026aa",
+            "\\bluebold{s\u025b\u031ent\u025b\u031er\u0325},",
+            "kasi",
+            "\\bluebold{s\u025b\u031ent\u025b\u031er}",
+            "d\u0254\u031e\u014b",
+            "kasi",
+            "{\\ldots}"
+        ],
+        "srcwordshtml": [
+            "\\bluebold{ska\u027e\u0250n}",
+            "d\u0254\u031e\u014b",
+            "kasi",
+            "d\u026aa",
+            "\\bluebold{s\u025b\u031ent\u025b\u031er\u0325},",
+            "kasi",
+            "\\bluebold{s\u025b\u031ent\u025b\u031er}",
+            "d\u0254\u031e\u014b",
+            "kasi",
+            "{\\ldots}"
+        ],
+        "srcwordstex": [
+            "\\bluebold{ska\u027e\u0250n}",
+            "d\u0254\u031e\u014b",
+            "kasi",
+            "d\u026aa",
+            "\\bluebold{s\u025b\u031ent\u025b\u031er\u0325},",
+            "kasi",
+            "\\bluebold{s\u025b\u031ent\u025b\u031er}",
+            "d\u0254\u031e\u014b",
+            "kasi",
+            "{\\ldots}"
+        ],
+        "trs": "\\bluebold{now} they give him a \\bluebold{flashlight}, (having) given (him) a \\bluebold{flashlight} they give (him) \\ldots\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}\\\\"
+    },
+    {
+        "categories": [
+            "3pl",
+            "rdp"
+        ],
+        "filename": "78/02.tex",
+        "imt": "{} want  \\textsc{3pl}  sagu.porridge  want  give  \\textsc{rdp}{\\Tilde}child  eat",
+        "imtwordsbare": [
+            "{}",
+            "want",
+            "3PL",
+            "sagu.porridge",
+            "want",
+            "give",
+            "RDP{\\Tilde}child",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "{}",
+            "want",
+            "<span class=\"sc\">3pl</span>",
+            "sagu.porridge",
+            "want",
+            "give",
+            "<span class=\"sc\">rdp</span>{\\Tilde}child",
+            "eat"
+        ],
+        "imtwordstex": [
+            "{}",
+            "want",
+            "\\textsc{3pl}",
+            "sagu.porridge",
+            "want",
+            "give",
+            "\\textsc{rdp}{\\Tilde}child",
+            "eat"
+        ],
+        "language": "Rapa Nui",
+        "src": "{\\ldots}  m\u0254  bik\u026an  pap\u025bda  m\u0254  \\bluebold{kase}  anana  mak\u0250n",
+        "srcwordsbare": [
+            "{\\ldots}",
+            "m\u0254",
+            "bik\u026an",
+            "pap\u025bda",
+            "m\u0254",
+            "\\bluebold{kase}",
+            "anana",
+            "mak\u0250n"
+        ],
+        "srcwordshtml": [
+            "{\\ldots}",
+            "m\u0254",
+            "bik\u026an",
+            "pap\u025bda",
+            "m\u0254",
+            "\\bluebold{kase}",
+            "anana",
+            "mak\u0250n"
+        ],
+        "srcwordstex": [
+            "{\\ldots}",
+            "m\u0254",
+            "bik\u026an",
+            "pap\u025bda",
+            "m\u0254",
+            "\\bluebold{kase}",
+            "anana",
+            "mak\u0250n"
+        ],
+        "trs": "[they said (they) wanted to catch chickens and then] (they) wanted to make sagu porridge to \\bluebold{give} the children to eat\u2019 \\textstyleExampleSource{[081010-001-Cv.0191]}"
+    },
+    {
+        "categories": [
+            "3sg",
+            "d",
+            "dist"
+        ],
+        "filename": "78/02.tex",
+        "imt": "\\textsc{d.dist}  Bop  Bop  \\textsc{d.dist}  \\textsc{3sg}  be.usual  turn.around",
+        "imtwordsbare": [
+            "d.dist",
+            "Bop",
+            "Bop",
+            "d.dist",
+            "3SG",
+            "be.usual",
+            "turn.around"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">d.dist</span>",
+            "Bop",
+            "Bop",
+            "<span class=\"sc\">d.dist</span>",
+            "<span class=\"sc\">3sg</span>",
+            "be.usual",
+            "turn.around"
+        ],
+        "imtwordstex": [
+            "\\textsc{d.dist}",
+            "Bop",
+            "Bop",
+            "\\textsc{d.dist}",
+            "\\textsc{3sg}",
+            "be.usual",
+            "turn.around"
+        ],
+        "language": "Rapa Nui",
+        "src": "itu  B\u0254p  B\u0254p  itu,  de  biasa  \\bluebold{bale}",
+        "srcwordsbare": [
+            "itu",
+            "B\u0254p",
+            "B\u0254p",
+            "itu,",
+            "de",
+            "biasa",
+            "\\bluebold{bale}"
+        ],
+        "srcwordshtml": [
+            "itu",
+            "B\u0254p",
+            "B\u0254p",
+            "itu,",
+            "de",
+            "biasa",
+            "\\bluebold{bale}"
+        ],
+        "srcwordstex": [
+            "itu",
+            "B\u0254p",
+            "B\u0254p",
+            "itu,",
+            "de",
+            "biasa",
+            "\\bluebold{bale}"
+        ],
+        "trs": "that was Bob, that Bob, he usually \\bluebold{(flies) a circle}\u2019 (Lit. \u2018turns around\u2019) \\textstyleExampleSource{[081011-010-Cv.0019]}"
+    },
+    {
+        "categories": [
+            "3pl"
+        ],
+        "filename": "78/02.tex",
+        "imt": "now  \\textsc{3pl}  two  fish",
+        "imtwordsbare": [
+            "now",
+            "3PL",
+            "two",
+            "fish"
+        ],
+        "imtwordshtml": [
+            "now",
+            "<span class=\"sc\">3pl</span>",
+            "two",
+            "fish"
+        ],
+        "imtwordstex": [
+            "now",
+            "\\textsc{3pl}",
+            "two",
+            "fish"
+        ],
+        "language": "Rapa Nui",
+        "src": "ska\u027e\u0250n  d\u0254\u031e\u014b  \\bluebold{doa}  m\u0250n.\u02a7\u026a\u014b",
+        "srcwordsbare": [
+            "ska\u027e\u0250n",
+            "d\u0254\u031e\u014b",
+            "\\bluebold{doa}",
+            "m\u0250n.\u02a7\u026a\u014b"
+        ],
+        "srcwordshtml": [
+            "ska\u027e\u0250n",
+            "d\u0254\u031e\u014b",
+            "\\bluebold{doa}",
+            "m\u0250n.\u02a7\u026a\u014b"
+        ],
+        "srcwordstex": [
+            "ska\u027e\u0250n",
+            "d\u0254\u031e\u014b",
+            "\\bluebold{doa}",
+            "m\u0250n.\u02a7\u026a\u014b"
+        ],
+        "trs": "now the \\bluebold{two} of them are fishing\u2019 \\textstyleExampleSource{[081109-010-JR.0002]}"
+    },
+    {
+        "categories": [
+            "3sg",
+            "d",
+            "dist"
+        ],
         "filename": "78/02.tex",
         "imt": "\\textsc{3sg}  enter  hole  \\textsc{d.dist}",
+        "imtwordsbare": [
+            "3SG",
+            "enter",
+            "hole",
+            "d.dist"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg</span>",
             "enter",
@@ -14,8 +291,14 @@
             "hole",
             "\\textsc{d.dist}"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "d\u025b  mas\u028ak\u031a  \\bluebold{lob\u0250\u014b}  tu",
+        "srcwordsbare": [
+            "d\u025b",
+            "mas\u028ak\u031a",
+            "\\bluebold{lob\u0250\u014b}",
+            "tu"
+        ],
         "srcwordshtml": [
             "d\u025b",
             "mas\u028ak\u031a",

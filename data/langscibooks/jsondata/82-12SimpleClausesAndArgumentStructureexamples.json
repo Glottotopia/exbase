@@ -1,7 +1,22 @@
 [
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "neg",
+            "pfv\"=msg",
+            "top"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "\\textsc{3sg.gen} \\textsc{top} any strength \\textsc{neg} stay.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "3sg.gen",
+            "TOP",
+            "any",
+            "strength",
+            "NEG",
+            "stay.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.gen</span>",
             "<span class=\"sc\">top</span>",
@@ -18,8 +33,16 @@
             "\\textsc{neg}",
             "stay.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tas\u00edi} ba \u0261a w\u00e1sa na heens\u00edl-u",
+        "srcwordsbare": [
+            "tas\u00edi",
+            "ba",
+            "\u0261a",
+            "w\u00e1sa",
+            "na",
+            "heens\u00edl-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tas\u00edi</span>",
             "ba",
@@ -39,8 +62,23 @@
         "trs": "And he had no strength at all [lit: And his strength was not present].' (A:GHA017)"
     },
     {
+        "categories": [
+            "gen",
+            "prs\"=msg",
+            "refl"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "every tribe-\\textsc{gen} every clan-\\textsc{gen} \\textsc{refl} marriage.\\textsc{gen}  customs stay-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "every",
+            "tribe-GEN",
+            "every",
+            "clan-GEN",
+            "REFL",
+            "marriage.GEN",
+            "customs",
+            "stay-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "every",
             "tribe-<span class=\"sc\">gen</span>",
@@ -61,8 +99,18 @@
             "customs",
             "stay-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{har} \\textbf{q\u00f3om\"=ii} \\textbf{har} \\textbf{qabila\u0301-ii} te\u1e47tee\u1e47\u00edi \u01f0han\u00edi dastur\u00e1 haans-\u00e1an-u",
+        "srcwordsbare": [
+            "har",
+            "q\u00f3om\"=ii",
+            "har",
+            "qabila\u0301-ii",
+            "te\u1e47tee\u1e47\u00edi",
+            "\u01f0han\u00edi",
+            "dastur\u00e1",
+            "haans-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">har</span>",
             "<span class=\"bf\">q\u00f3om\"=ii</span>",
@@ -86,8 +134,26 @@
         "trs": "Each tribe and clan has its own marriage customs [lit: Every tribe's and every clan's custom of marriage is present].' (A:MAR001)"
     },
     {
+        "categories": [
+            "gen",
+            "hsay",
+            "idef",
+            "msg",
+            "pst"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "of.past time-\\textsc{gen} \\textsc{idef} man-\\textsc{gen} \\textsc{idef} bald-\\textsc{msg} son be.\\textsc{pst} \\textsc{hsay}",
+        "imtwordsbare": [
+            "of.past",
+            "time-GEN",
+            "IDEF",
+            "man-GEN",
+            "IDEF",
+            "bald-MSG",
+            "son",
+            "be.PST",
+            "HSAY"
+        ],
         "imtwordshtml": [
             "of.past",
             "time-<span class=\"sc\">gen</span>",
@@ -110,8 +176,19 @@
             "be.\\textsc{pst}",
             "\\textsc{hsay}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "mu\u1e63\u1e6d\u00f3oi zamana\u0301-ii \\textbf{\u00e1ak} \\textbf{m\u00edi\u0161-ii} \u00e1ak lh\u00e9\u1e47\u1e0d-u putr de man\u00ed",
+        "srcwordsbare": [
+            "mu\u1e63\u1e6d\u00f3oi",
+            "zamana\u0301-ii",
+            "\u00e1ak",
+            "m\u00edi\u0161-ii",
+            "\u00e1ak",
+            "lh\u00e9\u1e47\u1e0d-u",
+            "putr",
+            "de",
+            "man\u00ed"
+        ],
         "srcwordshtml": [
             "mu\u1e63\u1e6d\u00f3oi",
             "zamana\u0301-ii",
@@ -137,8 +214,21 @@
         "trs": "Once upon a~time a~man had a~bald son [lit: In the past there was a~man's bald son].' (A:KAT001)"
     },
     {
+        "categories": [
+            "1sg",
+            "neg",
+            "nom",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "\\textsc{1sg.nom} from money.\\textsc{pl} \\textsc{neg}.be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "from",
+            "money.PL",
+            "NEG.be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "from",
@@ -151,8 +241,14 @@
             "money.\\textsc{pl}",
             "\\textsc{neg}.be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ma} \\textbf{d\u00edi} paise\u00e9 n\u00e1hin-a",
+        "srcwordsbare": [
+            "ma",
+            "d\u00edi",
+            "paise\u00e9",
+            "n\u00e1hin-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ma</span>",
             "<span class=\"bf\">d\u00edi</span>",
@@ -168,8 +264,22 @@
         "trs": "I don't have any money [lit: From me money is not.].' (B:ANG008)"
     },
     {
+        "categories": [
+            "3sg",
+            "condh",
+            "pfv\"=msg"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "mason come.\\textsc{pfv\"=msg} \\textsc{condh} mason from hammer stay-\\textsc{3sg}",
+        "imtwordsbare": [
+            "mason",
+            "come.PFV\"=MSG",
+            "CONDH",
+            "mason",
+            "from",
+            "hammer",
+            "stay-3SG"
+        ],
         "imtwordshtml": [
             "mason",
             "come.<span class=\"sc\">pfv\"=msg</span>",
@@ -188,8 +298,17 @@
             "hammer",
             "stay-\\textsc{3sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "misr\u00ed yh\u00f3ol-u seenta\u0301 \\textbf{misr\u00ed} \\textbf{d\u00edi} tsa\u1e6d\u00e1k h\u00f3ons-a",
+        "srcwordsbare": [
+            "misr\u00ed",
+            "yh\u00f3ol-u",
+            "seenta\u0301",
+            "misr\u00ed",
+            "d\u00edi",
+            "tsa\u1e6d\u00e1k",
+            "h\u00f3ons-a"
+        ],
         "srcwordshtml": [
             "misr\u00ed",
             "yh\u00f3ol-u",
@@ -211,8 +330,22 @@
         "trs": "When the mason comes he will have a~hammer [lit: When the mason has come, from the mason a~hammer will be present].' (A:HOW010)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "obl",
+            "pfv\"=msg",
+            "pst"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "elder.\\textsc{obl} \\textsc{3sg.acc} worried do.\\textsc{pfv\"=msg} \\textsc{pst}",
+        "imtwordsbare": [
+            "elder.OBL",
+            "3sg.acc",
+            "worried",
+            "do.PFV\"=MSG",
+            "PST"
+        ],
         "imtwordshtml": [
             "elder.<span class=\"sc\">obl</span>",
             "<span class=\"sc\">3sg.acc</span>",
@@ -227,8 +360,15 @@
             "do.\\textsc{pfv\"=msg}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261ha\u1e0deer\u00e1 tas peeri\u0161a\u00e1n th\u00edil-u de",
+        "srcwordsbare": [
+            "\u0261ha\u1e0deer\u00e1",
+            "tas",
+            "peeri\u0161a\u00e1n",
+            "th\u00edil-u",
+            "de"
+        ],
         "srcwordshtml": [
             "\u0261ha\u1e0deer\u00e1",
             "tas",
@@ -246,8 +386,21 @@
         "trs": "The elder had made him worried.' (A:Q9.0088)"
     },
     {
+        "categories": [
+            "obl",
+            "pfv\"=msg",
+            "prox"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "\\textsc{prox} girl pot.\\textsc{obl} into water fill.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "PROX",
+            "girl",
+            "pot.OBL",
+            "into",
+            "water",
+            "fill.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "girl",
@@ -264,8 +417,16 @@
             "water",
             "fill.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "an\u00ed pha\u00ed \\textbf{man\u0261\u00e9e} \\textbf{w\u00e9e} \\textbf{w\u00edi} puur\u00edl-u",
+        "srcwordsbare": [
+            "an\u00ed",
+            "pha\u00ed",
+            "man\u0261\u00e9e",
+            "w\u00e9e",
+            "w\u00edi",
+            "puur\u00edl-u"
+        ],
         "srcwordshtml": [
             "an\u00ed",
             "pha\u00ed",
@@ -285,8 +446,21 @@
         "trs": "This girl filled the pot with water [lit: filled water into the pot].'\\newline (A:CHE070918)"
     },
     {
+        "categories": [
+            "f",
+            "gen",
+            "pfv",
+            "prox"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "\\textsc{prox} girl water-\\textsc{gen} pot fill.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "PROX",
+            "girl",
+            "water-GEN",
+            "pot",
+            "fill.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "girl",
@@ -301,8 +475,15 @@
             "pot",
             "fill.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "an\u00ed pha\u00ed \\textbf{w\u00edi-yii} \\textbf{man\u0261\u00e1i} puur\u00edl-i",
+        "srcwordsbare": [
+            "an\u00ed",
+            "pha\u00ed",
+            "w\u00edi-yii",
+            "man\u0261\u00e1i",
+            "puur\u00edl-i"
+        ],
         "srcwordshtml": [
             "an\u00ed",
             "pha\u00ed",
@@ -320,8 +501,22 @@
         "trs": "This girl filled the pot with water [lit: filled the pot of water].'\\newline (A:CHE070918)"
     },
     {
+        "categories": [
+            "gen",
+            "obl",
+            "prs\"=msg"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "girl.\\textsc{gen} father son.in.law.\\textsc{obl} from compensation also ask.for-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "girl.GEN",
+            "father",
+            "son.in.law.OBL",
+            "from",
+            "compensation",
+            "also",
+            "ask.for-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "girl.<span class=\"sc\">gen</span>",
             "father",
@@ -340,8 +535,17 @@
             "also",
             "ask.for-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "pha\u00edi b\u00e1abu \u01f0haamatre\u00e9 d\u00edi xar\u010d\u00e1 bi dawa-\u00e1an-u",
+        "srcwordsbare": [
+            "pha\u00edi",
+            "b\u00e1abu",
+            "\u01f0haamatre\u00e9",
+            "d\u00edi",
+            "xar\u010d\u00e1",
+            "bi",
+            "dawa-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "pha\u00edi",
             "b\u00e1abu",
@@ -363,8 +567,27 @@
         "trs": "The girl's father demands compensation from the son\"=in\"=law.' (A:MAR032)"
     },
     {
+        "categories": [
+            "erg",
+            "gen",
+            "gen=cnj",
+            "obl",
+            "pfv\"=fpl",
+            "pl",
+            "refl"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "3\\textsc{pl.erg} \\textsc{refl} husband-\\textsc{obl} to king-\\textsc{gen=cnj}  minister-\\textsc{gen} daughter-\\textsc{pl} ask.for.\\textsc{pfv\"=fpl}",
+        "imtwordsbare": [
+            "3pl.erg",
+            "REFL",
+            "husband-OBL",
+            "to",
+            "king-GEN=CNJ",
+            "minister-GEN",
+            "daughter-PL",
+            "ask.for.PFV\"=FPL"
+        ],
         "imtwordshtml": [
             "3<span class=\"sc\">pl.erg</span>",
             "<span class=\"sc\">refl</span>",
@@ -385,8 +608,18 @@
             "daughter-\\textsc{pl}",
             "ask.for.\\textsc{pfv\"=fpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tan\u00edm tee\u1e47\u00edi bhar\u00ediw-a the baa\u010daa-\u00edi=ee waz\u00edir\"=ii dhii-\u00e1 daw\u00e9el\"=im",
+        "srcwordsbare": [
+            "tan\u00edm",
+            "tee\u1e47\u00edi",
+            "bhar\u00ediw-a",
+            "the",
+            "baa\u010daa-\u00edi=ee",
+            "waz\u00edir\"=ii",
+            "dhii-\u00e1",
+            "daw\u00e9el\"=im"
+        ],
         "srcwordshtml": [
             "tan\u00edm",
             "tee\u1e47\u00edi",
@@ -410,8 +643,15 @@
         "trs": "They demanded the king's and the minister's daughters [in marriage] for their husband.' (A:UXW059)"
     },
     {
+        "categories": [
+            "pfv\"=msg"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "sky clear.up.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "sky",
+            "clear.up.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "sky",
             "clear.up.<span class=\"sc\">pfv\"=msg</span>"
@@ -420,8 +660,12 @@
             "sky",
             "clear.up.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "(aa\u0261ha\u00e1) beedhr\u00edil-u",
+        "srcwordsbare": [
+            "(aa\u0261ha\u00e1)",
+            "beedhr\u00edil-u"
+        ],
         "srcwordshtml": [
             "(aa\u0261ha\u00e1)",
             "beedhr\u00edil-u"
@@ -433,8 +677,23 @@
         "trs": "It cleared up.' (A:HLE3047)"
     },
     {
+        "categories": [
+            "10",
+            "gen",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "July month-\\textsc{obl} \\textsc{10} date.\\textsc{gen} Biori.valley heavy  rain.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "July",
+            "month-OBL",
+            "10",
+            "date.GEN",
+            "Biori.valley",
+            "heavy",
+            "rain.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "July",
             "month-<span class=\"sc\">obl</span>",
@@ -453,8 +712,17 @@
             "heavy",
             "rain.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u01f0ula\u00ed y\u00faun-a da\u0161 taarex\u00e9e bioo\u1e5bk\u00fai$\\sim$ sax m\u00fat-u",
+        "srcwordsbare": [
+            "\u01f0ula\u00ed",
+            "y\u00faun-a",
+            "da\u0161",
+            "taarex\u00e9e",
+            "bioo\u1e5bk\u00fai$\\sim$",
+            "sax",
+            "m\u00fat-u"
+        ],
         "srcwordshtml": [
             "\u01f0ula\u00ed",
             "y\u00faun-a",
@@ -476,8 +744,18 @@
         "trs": "The tenth of July it rained heavily in Biori Valley.' (B:FLO166)"
     },
     {
+        "categories": [
+            "pfv\"=msg",
+            "pl"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "five foot-\\textsc{pl} snow give.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "five",
+            "foot-PL",
+            "snow",
+            "give.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "five",
             "foot-<span class=\"sc\">pl</span>",
@@ -490,8 +768,14 @@
             "snow",
             "give.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "pan\u01f0 phu\u1e6d-\u00ed kir d\u00edt-u",
+        "srcwordsbare": [
+            "pan\u01f0",
+            "phu\u1e6d-\u00ed",
+            "kir",
+            "d\u00edt-u"
+        ],
         "srcwordshtml": [
             "pan\u01f0",
             "phu\u1e6d-\u00ed",
@@ -507,8 +791,26 @@
         "trs": "We had five feet of snow.' (B:AVA200)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "host",
+            "pfv\"=fpl",
+            "pl"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "eleven year-\\textsc{pl} after \\textsc{3sg.acc} to two shrine-\\textsc{pl} \\textsc{host} give.\\textsc{pfv\"=fpl}",
+        "imtwordsbare": [
+            "eleven",
+            "year-PL",
+            "after",
+            "3sg.acc",
+            "to",
+            "two",
+            "shrine-PL",
+            "HOST",
+            "give.PFV\"=FPL"
+        ],
         "imtwordshtml": [
             "eleven",
             "year-<span class=\"sc\">pl</span>",
@@ -531,8 +833,19 @@
             "\\textsc{host}",
             "give.\\textsc{pfv\"=fpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ak\u00e1a\u0161 kaal-\u00e1 pad\u00fa\u0161i {\\ob}\\textbf{tas} \\textbf{the}{\\cb} {\\ob}\\textbf{d\u00fau} \\textbf{ziaarat-\u00ed}{\\cb} \u1e0dhoow\u00e1 d\u00edt-im",
+        "srcwordsbare": [
+            "ak\u00e1a\u0161",
+            "kaal-\u00e1",
+            "pad\u00fa\u0161i",
+            "{\\ob}tas",
+            "the{\\cb}",
+            "{\\ob}d\u00fau",
+            "ziaarat-\u00ed{\\cb}",
+            "\u1e0dhoow\u00e1",
+            "d\u00edt-im"
+        ],
         "srcwordshtml": [
             "ak\u00e1a\u0161",
             "kaal-\u00e1",
@@ -558,8 +871,19 @@
         "trs": "Eleven years later he came upon two graves.' (B:FOR021)"
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "\\textsc{1sg.gen} tooth-\\textsc{pl} hurt-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "tooth-PL",
+            "hurt-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "tooth-<span class=\"sc\">pl</span>",
@@ -570,8 +894,13 @@
             "tooth-\\textsc{pl}",
             "hurt-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "m\u00edi d\u00e1and-a \u0161ila-y\u00e1an-a",
+        "srcwordsbare": [
+            "m\u00edi",
+            "d\u00e1and-a",
+            "\u0161ila-y\u00e1an-a"
+        ],
         "srcwordshtml": [
             "m\u00edi",
             "d\u00e1and-a",
@@ -585,8 +914,21 @@
         "trs": "I've got a~toothache [lit: My teeth are hurting].' (B:DHE5112)"
     },
     {
+        "categories": [
+            "obl",
+            "pfv\"=mpl",
+            "pl",
+            "vn"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "elder-\\textsc{obl} people-\\textsc{pl} go.\\textsc{vn} to let.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "elder-OBL",
+            "people-PL",
+            "go.VN",
+            "to",
+            "let.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "elder-<span class=\"sc\">obl</span>",
             "people-<span class=\"sc\">pl</span>",
@@ -601,8 +943,15 @@
             "to",
             "let.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261ha\u1e0deer-\u00e1 x\u00e1lak-a baini\u00ed the u\u1e5b\u00edit-a",
+        "srcwordsbare": [
+            "\u0261ha\u1e0deer-\u00e1",
+            "x\u00e1lak-a",
+            "baini\u00ed",
+            "the",
+            "u\u1e5b\u00edit-a"
+        ],
         "srcwordshtml": [
             "\u0261ha\u1e0deer-\u00e1",
             "x\u00e1lak-a",
@@ -620,8 +969,26 @@
         "trs": "The elder allowed people to leave.' (A:Q6.13.03)"
     },
     {
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "gen",
+            "manip",
+            "obl",
+            "pfv\"=msg",
+            "refl"
+        ],
         "filename": "82/12SimpleClausesAndArgumentStructure.tex",
         "imt": "\\textsc{1sg.gen} \\textsc{3sg.acc} \\textsc{refl} son-\\textsc{obl} \\textsc{manip} cause.to.bring.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "3sg.acc",
+            "REFL",
+            "son-OBL",
+            "MANIP",
+            "cause.to.bring.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "<span class=\"sc\">3sg.acc</span>",
@@ -638,8 +1005,16 @@
             "\\textsc{manip}",
             "cause.to.bring.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "m\u00edi tas tee\u1e47\u00edi putr-\u00e1 \u1e63aawa\u00e1 a\u1e6daw\u00f3ol-u",
+        "srcwordsbare": [
+            "m\u00edi",
+            "tas",
+            "tee\u1e47\u00edi",
+            "putr-\u00e1",
+            "\u1e63aawa\u00e1",
+            "a\u1e6daw\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "m\u00edi",
             "tas",

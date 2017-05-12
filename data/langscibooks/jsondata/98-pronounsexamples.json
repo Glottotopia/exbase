@@ -1,7 +1,15 @@
 [
     {
+        "categories": [
+            "cop",
+            "sg"
+        ],
         "filename": "98/pronouns.tex",
         "imt": "what:\\textsc{cop}   want:2\\textsc{sg}",
+        "imtwordsbare": [
+            "what:COP",
+            "want:2SG"
+        ],
         "imtwordshtml": [
             "what:<span class=\"sc\">cop</span>",
             "want:2<span class=\"sc\">sg</span>"
@@ -10,8 +18,12 @@
             "what:\\textsc{cop}",
             "want:2\\textsc{sg}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{Isio}     b\\'{\u025b}\u0257{\\\u00ce}d\u1d43?",
+        "srcwordsbare": [
+            "Isio",
+            "b\\'{\u025b}\u0257{\\\u00ce}d\u1d43?"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">Isio</span>",
             "b\\'{\u025b}\u0257{\\\u00ce}d\u1d43?"
@@ -23,8 +35,17 @@
         "trs": "What do you want?"
     },
     {
+        "categories": [
+            "3sg",
+            "cop",
+            "dp"
+        ],
         "filename": "98/pronouns.tex",
         "imt": "where:\\textsc{cop}   be:\\textsc{3sg:dp}",
+        "imtwordsbare": [
+            "where:COP",
+            "be:3sg:dp"
+        ],
         "imtwordshtml": [
             "where:<span class=\"sc\">cop</span>",
             "be:<span class=\"sc\">3sg:dp</span>"
@@ -33,8 +54,12 @@
             "where:\\textsc{cop}",
             "be:\\textsc{3sg:dp}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{Nda\u00ed\u00f3}   i\u00e2d\u1d49?",
+        "srcwordsbare": [
+            "Nda\u00ed\u00f3",
+            "i\u00e2d\u1d49?"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">Nda\u00ed\u00f3</span>",
             "i\u00e2d\u1d49?"
@@ -46,8 +71,20 @@
         "trs": "Where is it?"
     },
     {
+        "categories": [
+            "3sg",
+            "nom",
+            "prf",
+            "rel",
+            "sg"
+        ],
         "filename": "98/pronouns.tex",
         "imt": "come:\\textsc{3sg:prf}   woman:\\textsc{nom}=\\textsc{rel:sg} give.birth:\\textsc{3sg}",
+        "imtwordsbare": [
+            "come:3sg:prf",
+            "woman:NOM=rel:sg",
+            "give.birth:3SG"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">3sg:prf</span>",
             "woman:<span class=\"sc\">nom</span>=<span class=\"sc\">rel:sg</span>",
@@ -58,8 +95,13 @@
             "woman:\\textsc{nom}=\\textsc{rel:sg}",
             "give.birth:\\textsc{3sg}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ats\u00e1\u00e1     ceka=[\\textbf{n\u00e1a}       \u0199waatet\u1d43]\\textsc{\\textsubscript{rc}}.",
+        "srcwordsbare": [
+            "Ats\u00e1\u00e1",
+            "ceka=[n\u00e1a",
+            "\u0199waatet\u1d43]\\textsubscript{rc}."
+        ],
         "srcwordshtml": [
             "Ats\u00e1\u00e1",
             "ceka=[<span class=\"bf\">n\u00e1a</span>",
@@ -73,8 +115,20 @@
         "trs": "The woman [who gave birth today] has come."
     },
     {
+        "categories": [
+            "1sg",
+            "hort",
+            "obl",
+            "pl",
+            "rel"
+        ],
         "filename": "98/pronouns.tex",
         "imt": "slaughter:\\textsc{hort}   goats:\\textsc{obl}=\\textsc{rel:pl}   bring:\\textsc{1sg}",
+        "imtwordsbare": [
+            "slaughter:HORT",
+            "goats:OBL=rel:pl",
+            "bring:1SG"
+        ],
         "imtwordshtml": [
             "slaughter:<span class=\"sc\">hort</span>",
             "goats:<span class=\"sc\">obl</span>=<span class=\"sc\">rel:pl</span>",
@@ -85,8 +139,13 @@
             "goats:\\textsc{obl}=\\textsc{rel:pl}",
             "bring:\\textsc{1sg}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "T\u0254\u014b\\'{\u0254}lano     rie=[\\textbf{sini}     det\u00ed]\\textsc{\\textsubscript{rc}}.",
+        "srcwordsbare": [
+            "T\u0254\u014b\\'{\u0254}lano",
+            "rie=[sini",
+            "det\u00ed]\\textsubscript{rc}."
+        ],
         "srcwordshtml": [
             "T\u0254\u014b\\'{\u0254}lano",
             "rie=[<span class=\"bf\">sini</span>",
@@ -100,8 +159,18 @@
         "trs": "Let\u2019s slaughter the goats [that I brought yesterday]."
     },
     {
+        "categories": [
+            "caus",
+            "comp",
+            "imp",
+            "obl"
+        ],
         "filename": "98/pronouns.tex",
         "imt": "small:\\textsc{caus:comp:imp}   self:\\textsc{obl}",
+        "imtwordsbare": [
+            "small:caus:comp:imp",
+            "self:OBL"
+        ],
         "imtwordshtml": [
             "small:<span class=\"sc\">caus:comp:imp</span>",
             "self:<span class=\"sc\">obl</span>"
@@ -110,8 +179,12 @@
             "small:\\textsc{caus:comp:imp}",
             "self:\\textsc{obl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Kwats\u00edt\u00fa\u0199oe     \\textbf{as}.",
+        "srcwordsbare": [
+            "Kwats\u00edt\u00fa\u0199oe",
+            "as."
+        ],
         "srcwordshtml": [
             "Kwats\u00edt\u00fa\u0199oe",
             "<span class=\"bf\">as</span>."
@@ -123,8 +196,21 @@
         "trs": "Humble yourself (lit: make yourself small)."
     },
     {
+        "categories": [
+            "3pl",
+            "acc",
+            "nom",
+            "seq",
+            "sim"
+        ],
         "filename": "98/pronouns.tex",
         "imt": "go:\\textsc{seq}   thieves:\\textsc{nom}   sneak:\\textsc{3pl:sim} selves:\\textsc{acc}",
+        "imtwordsbare": [
+            "go:SEQ",
+            "thieves:NOM",
+            "sneak:3pl:sim",
+            "selves:ACC"
+        ],
         "imtwordshtml": [
             "go:<span class=\"sc\">seq</span>",
             "thieves:<span class=\"sc\">nom</span>",
@@ -137,8 +223,14 @@
             "sneak:\\textsc{3pl:sim}",
             "selves:\\textsc{acc}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0198aio     dz\u00fa\u00edka   \u0268t{\\\u00cd}\u0257{\\\u00cd}\u0257\u00e1tie     \\textbf{\u00e1s{\\\u00cd}k\u00e0k\\\u1d43}.",
+        "srcwordsbare": [
+            "\u0198aio",
+            "dz\u00fa\u00edka",
+            "\u0268t{\\\u00cd}\u0257{\\\u00cd}\u0257\u00e1tie",
+            "\u00e1s{\\\u00cdk\u00e0k\\\u1d43}."
+        ],
         "srcwordshtml": [
             "\u0198aio",
             "dz\u00fa\u00edka",

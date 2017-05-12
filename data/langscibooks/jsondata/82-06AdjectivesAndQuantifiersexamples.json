@@ -1,7 +1,21 @@
 [
     {
+        "categories": [
+            "3sg",
+            "dist",
+            "f",
+            "obl",
+            "pfv"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "\\textsc{3sg.dist.obl} very-\\textsc{f} big-\\textsc{f} power find.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "3sg.dist.obl",
+            "very-F",
+            "big-F",
+            "power",
+            "find.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.dist.obl</span>",
             "very-<span class=\"sc\">f</span>",
@@ -16,8 +30,15 @@
             "power",
             "find.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "l\u00edi b\u00edi\u1e0d-i \\textbf{\u0261\u00e9e\u1e0d-i} rus\u00f3x l\u00e9ed-i",
+        "srcwordsbare": [
+            "l\u00edi",
+            "b\u00edi\u1e0d-i",
+            "\u0261\u00e9e\u1e0d-i",
+            "rus\u00f3x",
+            "l\u00e9ed-i"
+        ],
         "srcwordshtml": [
             "l\u00edi",
             "b\u00edi\u1e0d-i",
@@ -35,8 +56,16 @@
         "trs": "He gained very much power.' (B:ATI021)"
     },
     {
+        "categories": [
+            "msg"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "Pir.Sahib alive-\\textsc{msg} was",
+        "imtwordsbare": [
+            "Pir.Sahib",
+            "alive-MSG",
+            "was"
+        ],
         "imtwordshtml": [
             "Pir.Sahib",
             "alive-<span class=\"sc\">msg</span>",
@@ -47,8 +76,13 @@
             "alive-\\textsc{msg}",
             "was"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "pirsaah\u00edb \\textbf{\u01f0\u00e1and-u} de",
+        "srcwordsbare": [
+            "pirsaah\u00edb",
+            "\u01f0\u00e1and-u",
+            "de"
+        ],
         "srcwordshtml": [
             "pirsaah\u00edb",
             "<span class=\"bf\">\u01f0\u00e1and-u</span>",
@@ -62,8 +96,18 @@
         "trs": "Pir Sahib [a pious man] was [still] alive.' (B:ATI047)"
     },
     {
+        "categories": [
+            "f",
+            "fsg",
+            "prox"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "\\textsc{prox} wall[\\textsc{fsg}] thick-\\textsc{f}",
+        "imtwordsbare": [
+            "PROX",
+            "wall[FSG]",
+            "thick-F"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "wall[<span class=\"sc\">fsg</span>]",
@@ -74,8 +118,13 @@
             "wall[\\textsc{fsg}]",
             "thick-\\textsc{f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "an\u00ed ku\u1e0d \\textbf{\u010d\u00e9el-i}",
+        "srcwordsbare": [
+            "an\u00ed",
+            "ku\u1e0d",
+            "\u010d\u00e9el-i"
+        ],
         "srcwordshtml": [
             "an\u00ed",
             "ku\u1e0d",
@@ -89,8 +138,21 @@
         "trs": "This wall is thick.' (B:DHE4885)"
     },
     {
+        "categories": [
+            "f",
+            "fsg",
+            "obl",
+            "pfv",
+            "quot"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "bear-\\textsc{obl} goat[\\textsc{fsg}] eat.\\textsc{pfv-f} \\textsc{quot}",
+        "imtwordsbare": [
+            "bear-OBL",
+            "goat[FSG]",
+            "eat.pfv-f",
+            "QUOT"
+        ],
         "imtwordshtml": [
             "bear-<span class=\"sc\">obl</span>",
             "goat[<span class=\"sc\">fsg</span>]",
@@ -103,8 +165,14 @@
             "eat.\\textsc{pfv-f}",
             "\\textsc{quot}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u00ed\u1e47c\u0323-a \\textbf{\u010dh\u00e9eli} \\textbf{kh\u00e9el-i} than\u00ed",
+        "srcwordsbare": [
+            "\u00ed\u1e47c\u0323-a",
+            "\u010dh\u00e9eli",
+            "kh\u00e9el-i",
+            "than\u00ed"
+        ],
         "srcwordshtml": [
             "\u00ed\u1e47c\u0323-a",
             "<span class=\"bf\">\u010dh\u00e9eli</span>",
@@ -120,8 +188,22 @@
         "trs": "The bear has eaten the goat.' (A:PAS056)"
     },
     {
+        "categories": [
+            "3msg",
+            "mpl",
+            "nom",
+            "obl",
+            "prs\"=msg"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "\\textsc{3msg.nom} big-\\textsc{mpl.obl} from copying do-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "3msg.nom",
+            "big-mpl.obl",
+            "from",
+            "copying",
+            "do-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.nom</span>",
             "big-<span class=\"sc\">mpl.obl</span>",
@@ -136,8 +218,15 @@
             "copying",
             "do-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "so \\textbf{\u0261\u00e1a\u1e0d-am} d\u00edi n\u00e1qal th-\u00e1an-u",
+        "srcwordsbare": [
+            "so",
+            "\u0261\u00e1a\u1e0d-am",
+            "d\u00edi",
+            "n\u00e1qal",
+            "th-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "so",
             "<span class=\"bf\">\u0261\u00e1a\u1e0d-am</span>",
@@ -155,8 +244,19 @@
         "trs": "He is imitating the adults [the grown up men].' (A:SMO005)"
     },
     {
+        "categories": [
+            "def",
+            "fpl",
+            "pfv\"=fpl"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "\\textsc{def} half-\\textsc{fpl} fearfully speak.\\textsc{pfv\"=fpl}",
+        "imtwordsbare": [
+            "DEF",
+            "half-FPL",
+            "fearfully",
+            "speak.PFV\"=FPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "half-<span class=\"sc\">fpl</span>",
@@ -169,8 +269,14 @@
             "fearfully",
             "speak.\\textsc{pfv\"=fpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se \\textbf{\u00e9e\u1e0d-im} bh\u00edilam khon\u1e0d\u00edl-im",
+        "srcwordsbare": [
+            "se",
+            "\u00e9e\u1e0d-im",
+            "bh\u00edilam",
+            "khon\u1e0d\u00edl-im"
+        ],
         "srcwordshtml": [
             "se",
             "<span class=\"bf\">\u00e9e\u1e0d-im</span>",
@@ -186,8 +292,19 @@
         "trs": "The rest [the other half] of them spoke fearfully.' (A:BEZ022)"
     },
     {
+        "categories": [
+            "msg",
+            "obl"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "Biori Dhamaret-\\textsc{obl} from large-\\textsc{msg} village",
+        "imtwordsbare": [
+            "Biori",
+            "Dhamaret-OBL",
+            "from",
+            "large-MSG",
+            "village"
+        ],
         "imtwordshtml": [
             "Biori",
             "Dhamaret-<span class=\"sc\">obl</span>",
@@ -202,8 +319,15 @@
             "large-\\textsc{msg}",
             "village"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "bhi\u00fau\u1e5bi \\textbf{dhamareet-\u00e1} \\textbf{d\u00edi} \\textbf{\u0261\u00e1a\u1e0d-u} d\u00e9e\u0161",
+        "srcwordsbare": [
+            "bhi\u00fau\u1e5bi",
+            "dhamareet-\u00e1",
+            "d\u00edi",
+            "\u0261\u00e1a\u1e0d-u",
+            "d\u00e9e\u0161"
+        ],
         "srcwordshtml": [
             "bhi\u00fau\u1e5bi",
             "<span class=\"bf\">dhamareet-\u00e1</span>",
@@ -221,8 +345,19 @@
         "trs": "Biori is a~larger village than Dhamaret.' (B:DHE4803)"
     },
     {
+        "categories": [
+            "gen",
+            "obl"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "crow-\\textsc{obl} from crow-\\textsc{gen} son wise",
+        "imtwordsbare": [
+            "crow-OBL",
+            "from",
+            "crow-GEN",
+            "son",
+            "wise"
+        ],
         "imtwordshtml": [
             "crow-<span class=\"sc\">obl</span>",
             "from",
@@ -237,8 +372,15 @@
             "son",
             "wise"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{k\u00fauk-a} \\textbf{d\u00edi} k\u00fauk-e putr \\textbf{hu\u0161ia\u00e1r}",
+        "srcwordsbare": [
+            "k\u00fauk-a",
+            "d\u00edi",
+            "k\u00fauk-e",
+            "putr",
+            "hu\u0161ia\u00e1r"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">k\u00fauk-a</span>",
             "<span class=\"bf\">d\u00edi</span>",
@@ -256,8 +398,19 @@
         "trs": "The son of a~crow is wiser than the crow [himself].' (B:PRB004)"
     },
     {
+        "categories": [
+            "obl",
+            "prs\"=msg"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "all.\\textsc{obl} from powerful be.\\textsc{prs\"=msg} human",
+        "imtwordsbare": [
+            "all.OBL",
+            "from",
+            "powerful",
+            "be.PRS\"=MSG",
+            "human"
+        ],
         "imtwordshtml": [
             "all.<span class=\"sc\">obl</span>",
             "from",
@@ -272,8 +425,15 @@
             "be.\\textsc{prs\"=msg}",
             "human"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{bu\u1e6dhime\u00e9m} \\textbf{d\u00edi} \\textbf{taaqatw\u00e1r} h\u00edn-u insa\u00e1n",
+        "srcwordsbare": [
+            "bu\u1e6dhime\u00e9m",
+            "d\u00edi",
+            "taaqatw\u00e1r",
+            "h\u00edn-u",
+            "insa\u00e1n"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">bu\u1e6dhime\u00e9m</span>",
             "<span class=\"bf\">d\u00edi</span>",
@@ -291,16 +451,23 @@
         "trs": "Man is the most powerful [creature].' (A:KIN003)"
     },
     {
+        "categories": [],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "twenty=and=six",
+        "imtwordsbare": [
+            "twenty=and=six"
+        ],
         "imtwordshtml": [
             "twenty=and=six"
         ],
         "imtwordstex": [
             "twenty=and=six"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "bhi\u0161=ee=\u1e63\u00f3",
+        "srcwordsbare": [
+            "bhi\u0161=ee=\u1e63\u00f3"
+        ],
         "srcwordshtml": [
             "bhi\u0161=ee=\u1e63\u00f3"
         ],
@@ -310,16 +477,23 @@
         "trs": "26"
     },
     {
+        "categories": [],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "two.twenty=and=sixteen",
+        "imtwordsbare": [
+            "two.twenty=and=sixteen"
+        ],
         "imtwordshtml": [
             "two.twenty=and=sixteen"
         ],
         "imtwordstex": [
             "two.twenty=and=sixteen"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "dubhi\u0161=ee=\u1e63o\u1e5b\u00edi\u0161",
+        "srcwordsbare": [
+            "dubhi\u0161=ee=\u1e63o\u1e5b\u00edi\u0161"
+        ],
         "srcwordshtml": [
             "dubhi\u0161=ee=\u1e63o\u1e5b\u00edi\u0161"
         ],
@@ -329,8 +503,21 @@
         "trs": "56"
     },
     {
+        "categories": [
+            "2pl",
+            "imp",
+            "nom",
+            "pl",
+            "red"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "\\textsc{2pl.nom} \\textsc{red}-one bowl-\\textsc{pl} bring-\\textsc{imp.pl}",
+        "imtwordsbare": [
+            "2pl.nom",
+            "RED-one",
+            "bowl-PL",
+            "bring-imp.pl"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">2pl.nom</span>",
             "<span class=\"sc\">red</span>-one",
@@ -343,8 +530,14 @@
             "bowl-\\textsc{pl}",
             "bring-\\textsc{imp.pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tus \\textbf{aak-\u00e1ak} loo\u1e5b\u00edi-a a\u1e6d-\u00f3oi",
+        "srcwordsbare": [
+            "tus",
+            "aak-\u00e1ak",
+            "loo\u1e5b\u00edi-a",
+            "a\u1e6d-\u00f3oi"
+        ],
         "srcwordshtml": [
             "tus",
             "<span class=\"bf\">aak-\u00e1ak</span>",
@@ -360,8 +553,22 @@
         "trs": "Go and get a~bowl each [all of you]!' (A:KAT125-6)"
     },
     {
+        "categories": [
+            "ampl",
+            "gen",
+            "pst",
+            "rem"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "\\textsc{rem} time-\\textsc{gen} ten \\textsc{ampl} household be.\\textsc{pst}",
+        "imtwordsbare": [
+            "REM",
+            "time-GEN",
+            "ten",
+            "AMPL",
+            "household",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">rem</span>",
             "time-<span class=\"sc\">gen</span>",
@@ -378,8 +585,16 @@
             "household",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ees\u00e9 waxt-\u00edi \\textbf{d\u00e1a\u0161} \\textbf{ee\u0301} ku\u0161\u00fani de",
+        "srcwordsbare": [
+            "ees\u00e9",
+            "waxt-\u00edi",
+            "d\u00e1a\u0161",
+            "ee\u0301",
+            "ku\u0161\u00fani",
+            "de"
+        ],
         "srcwordshtml": [
             "ees\u00e9",
             "waxt-\u00edi",
@@ -399,8 +614,20 @@
         "trs": "In those days there were only ten households.' (A:PAS010)"
     },
     {
+        "categories": [
+            "gen",
+            "incl",
+            "pfv\"=mpl",
+            "pl"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "bed-\\textsc{gen} four.\\textsc{incl} leg.of.bed-\\textsc{pl} break.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "bed-GEN",
+            "four.INCL",
+            "leg.of.bed-PL",
+            "break.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "bed-<span class=\"sc\">gen</span>",
             "four.<span class=\"sc\">incl</span>",
@@ -413,8 +640,14 @@
             "leg.of.bed-\\textsc{pl}",
             "break.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0161\u00edin\"=ii \\textbf{\u010dure\u00e9} \u0161eenb\u00f3o-a phoo\u1e6d\u00edl-a",
+        "srcwordsbare": [
+            "\u0161\u00edin\"=ii",
+            "\u010dure\u00e9",
+            "\u0161eenb\u00f3o-a",
+            "phoo\u1e6d\u00edl-a"
+        ],
         "srcwordshtml": [
             "\u0161\u00edin\"=ii",
             "<span class=\"bf\">\u010dure\u00e9</span>",
@@ -430,8 +663,22 @@
         "trs": "All four legs of the bed broke.' (A:GHU024)"
     },
     {
+        "categories": [
+            "obl",
+            "pl",
+            "pst",
+            "rem"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "\\textsc{rem} ten.\\textsc{obl} among two brother.\\textsc{pl} be.\\textsc{pst}",
+        "imtwordsbare": [
+            "REM",
+            "ten.OBL",
+            "among",
+            "two",
+            "brother.PL",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">rem</span>",
             "ten.<span class=\"sc\">obl</span>",
@@ -448,8 +695,16 @@
             "brother.\\textsc{pl}",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ees\u00e9 \\textbf{da\u0161\u00fam} ma\u01f0i\u0301 d\u00fau bhraaw\u00fa de",
+        "srcwordsbare": [
+            "ees\u00e9",
+            "da\u0161\u00fam",
+            "ma\u01f0i\u0301",
+            "d\u00fau",
+            "bhraaw\u00fa",
+            "de"
+        ],
         "srcwordshtml": [
             "ees\u00e9",
             "<span class=\"bf\">da\u0161\u00fam</span>",
@@ -469,8 +724,33 @@
         "trs": "Among these ten were two brothers.' (A:PAS011)"
     },
     {
+        "categories": [
+            "1pl",
+            "cntr",
+            "cv",
+            "mpl",
+            "nom",
+            "obl",
+            "pfv",
+            "pl",
+            "top"
+        ],
         "filename": "82/06AdjectivesAndQuantifiers.tex",
         "imt": "path-\\textsc{obl} go.\\textsc{cv} half-\\textsc{mpl} people-\\textsc{pl} \\textsc{cntr} flee-\\textsc{cv} come.down.\\textsc{pfv-mpl} \\textsc{1pl.nom} five person-\\textsc{pl} \\textsc{top} go.\\textsc{pfv.pl}",
+        "imtwordsbare": [
+            "path-OBL",
+            "go.CV",
+            "half-MPL",
+            "people-PL",
+            "CNTR",
+            "flee-CV",
+            "come.down.pfv-mpl",
+            "1pl.nom",
+            "five",
+            "person-PL",
+            "TOP",
+            "go.pfv.pl"
+        ],
         "imtwordshtml": [
             "path-<span class=\"sc\">obl</span>",
             "go.<span class=\"sc\">cv</span>",
@@ -499,8 +779,22 @@
             "\\textsc{top}",
             "go.\\textsc{pfv.pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "pa\u0301and-a be \\textbf{a\u0301a\u1e0d-a} xa\u0301lak-a ta u\u1e0dheew-i\u0301 wha\u0301at-a be pa\u0301an\u01f0 \u01f0a\u0301an-a ba \u0261i\u0301ia",
+        "srcwordsbare": [
+            "pa\u0301and-a",
+            "be",
+            "a\u0301a\u1e0d-a",
+            "xa\u0301lak-a",
+            "ta",
+            "u\u1e0dheew-i\u0301",
+            "wha\u0301at-a",
+            "be",
+            "pa\u0301an\u01f0",
+            "\u01f0a\u0301an-a",
+            "ba",
+            "\u0261i\u0301ia"
+        ],
         "srcwordshtml": [
             "pa\u0301and-a",
             "be",

@@ -1,7 +1,19 @@
 [
     {
+        "categories": [
+            "3pl",
+            "erg",
+            "neg",
+            "pfv\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3pl.erg} anything \\textsc{neg} find.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "3pl.erg",
+            "anything",
+            "NEG",
+            "find.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.erg</span>",
             "anything",
@@ -14,8 +26,14 @@
             "\\textsc{neg}",
             "find.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tan\u00edm} \\textbf{\u0261a} na l\u00e1ad-u",
+        "srcwordsbare": [
+            "tan\u00edm",
+            "\u0261a",
+            "na",
+            "l\u00e1ad-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tan\u00edm</span>",
             "<span class=\"bf\">\u0261a</span>",
@@ -31,8 +49,20 @@
         "trs": "They didn't find anything.' (A:DRA003)"
     },
     {
+        "categories": [
+            "gen",
+            "prs\"=msg",
+            "vn"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "son-\\textsc{gen} marriage do.\\textsc{vn} necessity become.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "son-GEN",
+            "marriage",
+            "do.VN",
+            "necessity",
+            "become.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "son-<span class=\"sc\">gen</span>",
             "marriage",
@@ -47,8 +77,15 @@
             "necessity",
             "become.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{putr\u00edi} \\textbf{\u01f0han\u00ed} \\textbf{thaini\u00ed} zarur\u00ed bh\u00e1anu",
+        "srcwordsbare": [
+            "putr\u00edi",
+            "\u01f0han\u00ed",
+            "thaini\u00ed",
+            "zarur\u00ed",
+            "bh\u00e1anu"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">putr\u00edi</span>",
             "<span class=\"bf\">\u01f0han\u00ed</span>",
@@ -66,8 +103,32 @@
         "trs": "It is necessary to get one's son married [lit: Making a~son's marriage becomes a~necessity].' (A:MAR009)"
     },
     {
+        "categories": [
+            "3sg",
+            "cv",
+            "def",
+            "gen",
+            "msg",
+            "nom",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "head-\\textsc{gen} \\textsc{def.msg.nom} some piece flesh bring-\\textsc{cv} grave  to bring-\\textsc{cv} \\textsc{3sg.obl} in bury.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "head-GEN",
+            "def.msg.nom",
+            "some",
+            "piece",
+            "flesh",
+            "bring-CV",
+            "grave",
+            "to",
+            "bring-CV",
+            "3sg.obl",
+            "in",
+            "bury.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "head-<span class=\"sc\">gen</span>",
             "<span class=\"sc\">def.msg.nom</span>",
@@ -96,8 +157,22 @@
             "in",
             "bury.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{\u1e63i\u1e63-\u00edi} \\textbf{so} \\textbf{tu\u00fa\u0161} \\textbf{tuk\u1e5b\u00e1} \\textbf{mha\u00e1s} a\u1e6d-\u00ed \\textbf{q\u00e1bur} the a\u1e6d-\u00ed t\u00edi w\u00e9e \u1e0dhan\u0261\u00f3ol-u",
+        "srcwordsbare": [
+            "\u1e63i\u1e63-\u00edi",
+            "so",
+            "tu\u00fa\u0161",
+            "tuk\u1e5b\u00e1",
+            "mha\u00e1s",
+            "a\u1e6d-\u00ed",
+            "q\u00e1bur",
+            "the",
+            "a\u1e6d-\u00ed",
+            "t\u00edi",
+            "w\u00e9e",
+            "\u1e0dhan\u0261\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">\u1e63i\u1e63-\u00edi</span>",
             "<span class=\"bf\">so</span>",
@@ -129,8 +204,20 @@
         "trs": "[He] brought some piece of the flesh to the grave and buried it there.' (A:BER014)"
     },
     {
+        "categories": [
+            "3msg",
+            "msg",
+            "nom",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3msg.nom} \\textsc{top} big-\\textsc{msg} field",
+        "imtwordsbare": [
+            "3msg.nom",
+            "TOP",
+            "big-MSG",
+            "field"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.nom</span>",
             "<span class=\"sc\">top</span>",
@@ -143,8 +230,14 @@
             "big-\\textsc{msg}",
             "field"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "so ba \\textbf{\u0261\u00e1a\u1e0d-u} \\textbf{maid\u00f3on}",
+        "srcwordsbare": [
+            "so",
+            "ba",
+            "\u0261\u00e1a\u1e0d-u",
+            "maid\u00f3on"
+        ],
         "srcwordshtml": [
             "so",
             "ba",
@@ -160,8 +253,24 @@
         "trs": "It was a~big field.' (A:JAN030)"
     },
     {
+        "categories": [
+            "cv",
+            "def",
+            "f",
+            "idef",
+            "obl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def} human-\\textsc{obl} \\textsc{idef} long-\\textsc{f} thick-\\textsc{f} stick  take-\\textsc{cv}",
+        "imtwordsbare": [
+            "DEF",
+            "human-OBL",
+            "IDEF",
+            "long-F",
+            "thick-F",
+            "stick",
+            "take-CV"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "human-<span class=\"sc\">obl</span>",
@@ -180,8 +289,17 @@
             "stick",
             "take-\\textsc{cv}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se insaan-\u00e1 \\textbf{\u00e1a} \\textbf{dhr\u00ed\u0261-i} \\textbf{bhak\u00fal-i} \\textbf{lhal\u00e9emi} \u0261hin-\u00ed",
+        "srcwordsbare": [
+            "se",
+            "insaan-\u00e1",
+            "\u00e1a",
+            "dhr\u00ed\u0261-i",
+            "bhak\u00fal-i",
+            "lhal\u00e9emi",
+            "\u0261hin-\u00ed"
+        ],
         "srcwordshtml": [
             "se",
             "insaan-\u00e1",
@@ -203,8 +321,20 @@
         "trs": "The man took a~long, thick stick{\\ldots}' (A:KIN024)"
     },
     {
+        "categories": [
+            "msg",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "very-\\textsc{msg} sweet-\\textsc{msg} very-\\textsc{msg} good-\\textsc{msg} thing become-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "very-MSG",
+            "sweet-MSG",
+            "very-MSG",
+            "good-MSG",
+            "thing",
+            "become-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "very-<span class=\"sc\">msg</span>",
             "sweet-<span class=\"sc\">msg</span>",
@@ -221,8 +351,16 @@
             "thing",
             "become-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{bi\u0301i\u1e0d-u} \\textbf{mhoo\u0301r-u} \\textbf{bi\u0301i\u1e0d-u} \\textbf{\u0161i\u0161a\u0301w-u} \\textbf{\u0161ay} bh-a\u0301an-u",
+        "srcwordsbare": [
+            "bi\u0301i\u1e0d-u",
+            "mhoo\u0301r-u",
+            "bi\u0301i\u1e0d-u",
+            "\u0161i\u0161a\u0301w-u",
+            "\u0161ay",
+            "bh-a\u0301an-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">bi\u0301i\u1e0d-u</span>",
             "<span class=\"bf\">mhoo\u0301r-u</span>",
@@ -242,8 +380,21 @@
         "trs": "It is a very sweet and a very good thing.' (A:KEE052)"
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg.gen} shelf.\\textsc{pl} different different come.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "3sg.gen",
+            "shelf.PL",
+            "different",
+            "different",
+            "come.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.gen</span>",
             "shelf.<span class=\"sc\">pl</span>",
@@ -258,8 +409,15 @@
             "different",
             "come.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tas\u00edi xaane\u00e9 \\textbf{muxtal\u00edf} \\textbf{muxtal\u00edf} yh\u00e1and-a",
+        "srcwordsbare": [
+            "tas\u00edi",
+            "xaane\u00e9",
+            "muxtal\u00edf",
+            "muxtal\u00edf",
+            "yh\u00e1and-a"
+        ],
         "srcwordshtml": [
             "tas\u00edi",
             "xaane\u00e9",
@@ -277,8 +435,19 @@
         "trs": "There are different kinds of shelves.' (A:HOW050)"
     },
     {
+        "categories": [
+            "gen",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "carpenter veranda-\\textsc{gen} work start do-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "carpenter",
+            "veranda-GEN",
+            "work",
+            "start",
+            "do-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "carpenter",
             "veranda-<span class=\"sc\">gen</span>",
@@ -293,8 +462,15 @@
             "start",
             "do-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tarka\u00e1\u1e47 \\textbf{ma\u1e47\u1e0daw-\u00edi} \\textbf{kr\u00e1am} \u0161iroo\u0301 th-\u00e1an-u",
+        "srcwordsbare": [
+            "tarka\u00e1\u1e47",
+            "ma\u1e47\u1e0daw-\u00edi",
+            "kr\u00e1am",
+            "\u0161iroo\u0301",
+            "th-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "tarka\u00e1\u1e47",
             "<span class=\"bf\">ma\u1e47\u1e0daw-\u00edi</span>",
@@ -312,8 +488,23 @@
         "trs": "The carpenter starts making the veranda [lit: starts the work of the veranda].' (A:HOW072)"
     },
     {
+        "categories": [
+            "3pl",
+            "f",
+            "gen",
+            "nom",
+            "prox",
+            "prs"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3pl.prox.nom} but camel-\\textsc{gen} footprint be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "3pl.prox.nom",
+            "but",
+            "camel-GEN",
+            "footprint",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.prox.nom</span>",
             "but",
@@ -328,8 +519,15 @@
             "footprint",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ni xu \\textbf{ux-\u00edi} \\textbf{rha\u00edi} h\u00edn-i",
+        "srcwordsbare": [
+            "ni",
+            "xu",
+            "ux-\u00edi",
+            "rha\u00edi",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "ni",
             "xu",
@@ -347,8 +545,22 @@
         "trs": "These must be the footprints of a~camel.' (A:HUA061)"
     },
     {
+        "categories": [
+            "gen",
+            "obl",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "girl.\\textsc{gen} father son.in.law.\\textsc{obl} from costs also ask.for-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "girl.GEN",
+            "father",
+            "son.in.law.OBL",
+            "from",
+            "costs",
+            "also",
+            "ask.for-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "girl.<span class=\"sc\">gen</span>",
             "father",
@@ -367,8 +579,17 @@
             "also",
             "ask.for-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{pha\u00edi} \\textbf{ba\u0301abu} \u01f0haamatre\u00e9 d\u00edi xar\u010d\u00e1 bi dawa-\u00e1an-u",
+        "srcwordsbare": [
+            "pha\u00edi",
+            "ba\u0301abu",
+            "\u01f0haamatre\u00e9",
+            "d\u00edi",
+            "xar\u010d\u00e1",
+            "bi",
+            "dawa-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">pha\u00edi</span>",
             "<span class=\"bf\">ba\u0301abu</span>",
@@ -390,8 +611,18 @@
         "trs": "The girl's father also asks the son\"=in\"=law to cover the expenses.' (A:MAR032)"
     },
     {
+        "categories": [
+            "cv",
+            "gen"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "village-\\textsc{gen} people collected become.\\textsc{cv}",
+        "imtwordsbare": [
+            "village-GEN",
+            "people",
+            "collected",
+            "become.CV"
+        ],
         "imtwordshtml": [
             "village-<span class=\"sc\">gen</span>",
             "people",
@@ -404,8 +635,14 @@
             "collected",
             "become.\\textsc{cv}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{di\u0301i\u0161-e} \\textbf{x\u00e1laka} \u01f0am\u00e1 bhe",
+        "srcwordsbare": [
+            "di\u0301i\u0161-e",
+            "x\u00e1laka",
+            "\u01f0am\u00e1",
+            "bhe"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">di\u0301i\u0161-e</span>",
             "<span class=\"bf\">x\u00e1laka</span>",
@@ -421,8 +658,29 @@
         "trs": "The village people used to gather{\\ldots}' (B:AVA198)"
     },
     {
+        "categories": [
+            "3msg",
+            "cntr",
+            "nom",
+            "obl",
+            "pfv\"=mpl",
+            "pfv\"=msg",
+            "pl",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3msg.nom} \\textsc{cntr} saved become.\\textsc{pfv\"=msg} three  person-\\textsc{pl} \\textsc{top} glacier-\\textsc{obl} take.away.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "3msg.nom",
+            "CNTR",
+            "saved",
+            "become.PFV\"=MSG",
+            "three",
+            "person-PL",
+            "TOP",
+            "glacier-OBL",
+            "take.away.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.nom</span>",
             "<span class=\"sc\">cntr</span>",
@@ -445,8 +703,19 @@
             "glacier-\\textsc{obl}",
             "take.away.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "so ta ba\u010d bhil-u \\textbf{tr\u00fau} \\textbf{\u01f0\u00e1an-a} ba hiimeel-\u00ed h\u00ed\u1e5b-a",
+        "srcwordsbare": [
+            "so",
+            "ta",
+            "ba\u010d",
+            "bhil-u",
+            "tr\u00fau",
+            "\u01f0\u00e1an-a",
+            "ba",
+            "hiimeel-\u00ed",
+            "h\u00ed\u1e5b-a"
+        ],
         "srcwordshtml": [
             "so",
             "ta",
@@ -472,8 +741,17 @@
         "trs": "He was saved, but three persons were taken by the avalanche.' (B:AVA214)"
     },
     {
+        "categories": [
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "about twenty year-\\textsc{pl} before",
+        "imtwordsbare": [
+            "about",
+            "twenty",
+            "year-PL",
+            "before"
+        ],
         "imtwordshtml": [
             "about",
             "twenty",
@@ -486,8 +764,14 @@
             "year-\\textsc{pl}",
             "before"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{qariba\u0301n} \\textbf{bhi\u00ed\u0161} \\textbf{kaal-\u00e1} maxad\u00fa\u0161i",
+        "srcwordsbare": [
+            "qariba\u0301n",
+            "bhi\u00ed\u0161",
+            "kaal-\u00e1",
+            "maxad\u00fa\u0161i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">qariba\u0301n</span>",
             "<span class=\"bf\">bhi\u00ed\u0161</span>",
@@ -503,8 +787,29 @@
         "trs": "About twenty years ago...' (A:GHA048)"
     },
     {
+        "categories": [
+            "1sg",
+            "cv",
+            "def",
+            "gen",
+            "neg",
+            "obl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "some cheese \\textsc{1sg.gen} \\textsc{def} friend-\\textsc{gen} handkerchief-\\textsc{obl}  in tie-\\textsc{cv} water-\\textsc{obl} why-\\textsc{neg} throw-\\textsc{1sg}",
+        "imtwordsbare": [
+            "some",
+            "cheese",
+            "1sg.gen",
+            "DEF",
+            "friend-GEN",
+            "handkerchief-OBL",
+            "in",
+            "tie-CV",
+            "water-OBL",
+            "why-NEG",
+            "throw-1SG"
+        ],
         "imtwordshtml": [
             "some",
             "cheese",
@@ -531,8 +836,21 @@
             "why-\\textsc{neg}",
             "throw-\\textsc{1sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tu\u00fa\u0161} \\textbf{\u010dho\u00f3t} m\u00edi se yaar-\u00edi rumeel-\u00ed ma\u01f0\u00ed \u0261ha\u1e47\u1e0d-\u00ed w\u00edi-a ke\u00e9-na \u0261al-\u00faum",
+        "srcwordsbare": [
+            "tu\u00fa\u0161",
+            "\u010dho\u00f3t",
+            "m\u00edi",
+            "se",
+            "yaar-\u00edi",
+            "rumeel-\u00ed",
+            "ma\u01f0\u00ed",
+            "\u0261ha\u1e47\u1e0d-\u00ed",
+            "w\u00edi-a",
+            "ke\u00e9-na",
+            "\u0261al-\u00faum"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tu\u00fa\u0161</span>",
             "<span class=\"bf\">\u010dho\u00f3t</span>",
@@ -562,8 +880,19 @@
         "trs": "Why don't I put some cheese in my friend's handkerchief and throw it into the water?' (A:SHY043)"
     },
     {
+        "categories": [
+            "mpl",
+            "obl",
+            "pst"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Ashret-\\textsc{obl} few-\\textsc{mpl} people be.\\textsc{pst}",
+        "imtwordsbare": [
+            "Ashret-OBL",
+            "few-MPL",
+            "people",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "Ashret-<span class=\"sc\">obl</span>",
             "few-<span class=\"sc\">mpl</span>",
@@ -576,8 +905,14 @@
             "people",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "atshareet-\u00e1 \\textbf{\u00fa\u010d-a} \\textbf{x\u00e1lak} de",
+        "srcwordsbare": [
+            "atshareet-\u00e1",
+            "\u00fa\u010d-a",
+            "x\u00e1lak",
+            "de"
+        ],
         "srcwordshtml": [
             "atshareet-\u00e1",
             "<span class=\"bf\">\u00fa\u010d-a</span>",
@@ -593,8 +928,22 @@
         "trs": "There were few people in Ashret.' (A:JAN001)"
     },
     {
+        "categories": [
+            "condh",
+            "pfv\"=msg",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "five foot-\\textsc{pl} six foot-\\textsc{pl} snow fall.\\textsc{pfv\"=msg} \\textsc{condh}",
+        "imtwordsbare": [
+            "five",
+            "foot-PL",
+            "six",
+            "foot-PL",
+            "snow",
+            "fall.PFV\"=MSG",
+            "CONDH"
+        ],
         "imtwordshtml": [
             "five",
             "foot-<span class=\"sc\">pl</span>",
@@ -613,8 +962,17 @@
             "fall.\\textsc{pfv\"=msg}",
             "\\textsc{condh}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{pan\u01f0} \\textbf{phu\u1e6d-\u00ed} \\textbf{\u1e63o} \\textbf{phu\u1e6d-\u00ed} \\textbf{kir} d\u00edt-u s\u00edinta",
+        "srcwordsbare": [
+            "pan\u01f0",
+            "phu\u1e6d-\u00ed",
+            "\u1e63o",
+            "phu\u1e6d-\u00ed",
+            "kir",
+            "d\u00edt-u",
+            "s\u00edinta"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">pan\u01f0</span>",
             "<span class=\"bf\">phu\u1e6d-\u00ed</span>",
@@ -636,8 +994,22 @@
         "trs": "When five or six feet snow had fallen...' (B:AVA198)"
     },
     {
+        "categories": [
+            "1sg",
+            "imp",
+            "nom",
+            "pl",
+            "sg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1sg}.\\textsc{nom}=to two glass-\\textsc{pl} milk give.\\textsc{imp.sg}",
+        "imtwordsbare": [
+            "1SG.NOM=to",
+            "two",
+            "glass-PL",
+            "milk",
+            "give.imp.sg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg</span>.<span class=\"sc\">nom</span>=to",
             "two",
@@ -652,8 +1024,15 @@
             "milk",
             "give.\\textsc{imp.sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "m\u00e1a=the \\textbf{d\u00fau} \\textbf{\u0261ilees-\u00ed} \\textbf{c\u0323hi\u00edr} da",
+        "srcwordsbare": [
+            "m\u00e1a=the",
+            "d\u00fau",
+            "\u0261ilees-\u00ed",
+            "c\u0323hi\u00edr",
+            "da"
+        ],
         "srcwordshtml": [
             "m\u00e1a=the",
             "<span class=\"bf\">d\u00fau</span>",
@@ -671,8 +1050,24 @@
         "trs": "Give me two glasses of milk!' (A:HLE2298)"
     },
     {
+        "categories": [
+            "1sg",
+            "cv",
+            "nom",
+            "obl",
+            "prox",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{prox} house-\\textsc{obl} inside \\textsc{1sg.nom} fall.asleep.\\textsc{cv} be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "PROX",
+            "house-OBL",
+            "inside",
+            "1sg.nom",
+            "fall.asleep.CV",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "house-<span class=\"sc\">obl</span>",
@@ -689,8 +1084,16 @@
             "fall.asleep.\\textsc{cv}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{een\u00ed} \\textbf{\u0261hoo\u1e63\u1e6d-a\u0301} \u0161\u00edi\u1e6di ma se\u00e9 h\u00edn-u",
+        "srcwordsbare": [
+            "een\u00ed",
+            "\u0261hoo\u1e63\u1e6d-a\u0301",
+            "\u0161\u00edi\u1e6di",
+            "ma",
+            "se\u00e9",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">een\u00ed</span>",
             "<span class=\"bf\">\u0261hoo\u1e63\u1e6d-a\u0301</span>",
@@ -710,8 +1113,30 @@
         "trs": "I was asleep inside this house.' (A:HUA014-5)"
     },
     {
+        "categories": [
+            "cv",
+            "def",
+            "f",
+            "obl",
+            "pfv",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def} man-\\textsc{obl} other day-\\textsc{obl} king minister and other  people-\\textsc{pl} gather-\\textsc{cv} announcement do.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "DEF",
+            "man-OBL",
+            "other",
+            "day-OBL",
+            "king",
+            "minister",
+            "and",
+            "other",
+            "people-PL",
+            "gather-CV",
+            "announcement",
+            "do.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "man-<span class=\"sc\">obl</span>",
@@ -740,8 +1165,22 @@
             "announcement",
             "do.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{se} \\textbf{m\u00edi\u0161-a} \\textbf{d\u00fai} \\textbf{dees-\u00e1} baa\u010da\u00e1 waz\u00edir o \\textbf{d\u00fai} \\textbf{x\u00e1lak-a} sama\u1e6d-\u00ed ila\u00e1n th\u00edil-i",
+        "srcwordsbare": [
+            "se",
+            "m\u00edi\u0161-a",
+            "d\u00fai",
+            "dees-\u00e1",
+            "baa\u010da\u00e1",
+            "waz\u00edir",
+            "o",
+            "d\u00fai",
+            "x\u00e1lak-a",
+            "sama\u1e6d-\u00ed",
+            "ila\u00e1n",
+            "th\u00edil-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">se</span>",
             "<span class=\"bf\">m\u00edi\u0161-a</span>",
@@ -773,8 +1212,31 @@
         "trs": "Next day the man called the king, the prime minister and other people together and made an~announcement.' (A:UXW060)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "cv",
+            "obl",
+            "pfv",
+            "pl",
+            "pl\"=obl",
+            "pst"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg.acc} kill-\\textsc{cv} throw-\\textsc{cv} brute-\\textsc{pl\"=obl} mouth-\\textsc{obl} toward  bread also put.\\textsc{cv} go.\\textsc{pfv.pl} \\textsc{pst}",
+        "imtwordsbare": [
+            "3sg.acc",
+            "kill-CV",
+            "throw-CV",
+            "brute-PL\"=OBL",
+            "mouth-OBL",
+            "toward",
+            "bread",
+            "also",
+            "put.CV",
+            "go.pfv.pl",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.acc</span>",
             "kill-<span class=\"sc\">cv</span>",
@@ -801,8 +1263,21 @@
             "go.\\textsc{pfv.pl}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tas} \\textbf{mheer-\u00ed} \\textbf{\u0261al-\u00ed} \\textbf{zaalim\"=aan-\u00f3om} dh\u00fat-a phar\u00e9 \u0261\u00fauli bi de \u0261\u00edia de",
+        "srcwordsbare": [
+            "tas",
+            "mheer-\u00ed",
+            "\u0261al-\u00ed",
+            "zaalim\"=aan-\u00f3om",
+            "dh\u00fat-a",
+            "phar\u00e9",
+            "\u0261\u00fauli",
+            "bi",
+            "de",
+            "\u0261\u00edia",
+            "de"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tas</span>",
             "<span class=\"bf\">mheer-\u00ed</span>",
@@ -832,8 +1307,23 @@
         "trs": "The brutes, who had killed him, had also put bread in his mouth and left.' (A:GHA076-7)"
     },
     {
+        "categories": [
+            "manip",
+            "obl",
+            "pfv\"=mpl",
+            "pl",
+            "pptc\"=mpl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "people-\\textsc{pl.obl} \\textsc{manip} passed become.\\textsc{pptc\"=mpl} story.\\textsc{pl} make.do.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "people-pl.obl",
+            "MANIP",
+            "passed",
+            "become.PPTC\"=MPL",
+            "story.PL",
+            "make.do.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "people-<span class=\"sc\">pl.obl</span>",
             "<span class=\"sc\">manip</span>",
@@ -850,8 +1340,16 @@
             "story.\\textsc{pl}",
             "make.do.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "xalk-\u00edim \u1e63aawa\u00e1 \\textbf{te\u00e9r} \\textbf{bh\u00edl-a} \\textbf{qise\u00e9} thaw\u00f3ol-a",
+        "srcwordsbare": [
+            "xalk-\u00edim",
+            "\u1e63aawa\u00e1",
+            "te\u00e9r",
+            "bh\u00edl-a",
+            "qise\u00e9",
+            "thaw\u00f3ol-a"
+        ],
         "srcwordshtml": [
             "xalk-\u00edim",
             "\u1e63aawa\u00e1",
@@ -871,8 +1369,21 @@
         "trs": "He had the people tell him what had happened [lit: stories which had passed].' (A:UXW057)"
     },
     {
+        "categories": [
+            "f",
+            "gen",
+            "obl",
+            "pfv"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Ghairat.Khan ruler-\\textsc{gen} house-\\textsc{obl} shelter ask.for.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "Ghairat.Khan",
+            "ruler-GEN",
+            "house-OBL",
+            "shelter",
+            "ask.for.pfv-f"
+        ],
         "imtwordshtml": [
             "Ghairat.Khan",
             "ruler-<span class=\"sc\">gen</span>",
@@ -887,8 +1398,15 @@
             "shelter",
             "ask.for.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{\u0263eirat\"=xa\u00e1n} \\textbf{hakim-\u00ed} \u0261hoo\u1e63\u1e6d-\u00e1 panaah\u00ed daw\u00e9el-i",
+        "srcwordsbare": [
+            "\u0263eirat\"=xa\u00e1n",
+            "hakim-\u00ed",
+            "\u0261hoo\u1e63\u1e6d-\u00e1",
+            "panaah\u00ed",
+            "daw\u00e9el-i"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">\u0263eirat\"=xa\u00e1n</span>",
             "<span class=\"bf\">hakim-\u00ed</span>",
@@ -906,8 +1424,28 @@
         "trs": "He asked for shelter in the ruler Ghairat Khan's house.' (B:ATI025)"
     },
     {
+        "categories": [
+            "dist",
+            "gen",
+            "msg",
+            "nom",
+            "obl",
+            "pfv",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Shuja.ul.Mulk king-\\textsc{gen} time-\\textsc{gen} \\textsc{top} \\textsc{dist.msg.nom}  capital Chitral-\\textsc{obl} to go.\\textsc{pfv.msg}",
+        "imtwordsbare": [
+            "Shuja.ul.Mulk",
+            "king-GEN",
+            "time-GEN",
+            "TOP",
+            "dist.msg.nom",
+            "capital",
+            "Chitral-OBL",
+            "to",
+            "go.pfv.msg"
+        ],
         "imtwordshtml": [
             "Shuja.ul.Mulk",
             "king-<span class=\"sc\">gen</span>",
@@ -930,8 +1468,19 @@
             "to",
             "go.\\textsc{pfv.msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{\u0161u\u01f0aaulm\u00falk} \\textbf{\u1e63oo-\u00edi} waxt-\u00edi ba lo daarulxalaaf\u00e1 c\u0323hatr\u00f3ol-a the \u0261\u00faum",
+        "srcwordsbare": [
+            "\u0161u\u01f0aaulm\u00falk",
+            "\u1e63oo-\u00edi",
+            "waxt-\u00edi",
+            "ba",
+            "lo",
+            "daarulxalaaf\u00e1",
+            "c\u0323hatr\u00f3ol-a",
+            "the",
+            "\u0261\u00faum"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">\u0161u\u01f0aaulm\u00falk</span>",
             "<span class=\"bf\">\u1e63oo-\u00edi</span>",
@@ -957,8 +1506,20 @@
         "trs": "During the reign of king Shuja\"=ul\"=Mulk the capital was moved to Chitral.' (A:MAH005)"
     },
     {
+        "categories": [
+            "msg",
+            "pst",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Biori.valley \\textsc{top} Pir=Lord alive-\\textsc{msg} be.\\textsc{pst}",
+        "imtwordsbare": [
+            "Biori.valley",
+            "TOP",
+            "Pir=Lord",
+            "alive-MSG",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "Biori.valley",
             "<span class=\"sc\">top</span>",
@@ -973,8 +1534,15 @@
             "alive-\\textsc{msg}",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "bhioo\u1e5bk\u00fai$\\sim$ ba \\textbf{pir=saah\u00edb} \u01f0\u00e1and-u de",
+        "srcwordsbare": [
+            "bhioo\u1e5bk\u00fai$\\sim$",
+            "ba",
+            "pir=saah\u00edb",
+            "\u01f0\u00e1and-u",
+            "de"
+        ],
         "srcwordshtml": [
             "bhioo\u1e5bk\u00fai$\\sim$",
             "ba",
@@ -992,8 +1560,22 @@
         "trs": "In Biori vally Pir Sahib was [still] alive.' (B:ATI047)"
     },
     {
+        "categories": [
+            "comp",
+            "obl",
+            "pfv\"=msg",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Mullah=Mahmad=Said-\\textsc{obl} to knowledge stay.\\textsc{pfv\"=msg} be-\\textsc{prs\"=msg} \\textsc{comp}",
+        "imtwordsbare": [
+            "Mullah=Mahmad=Said-OBL",
+            "to",
+            "knowledge",
+            "stay.PFV\"=MSG",
+            "be-PRS\"=MSG",
+            "COMP"
+        ],
         "imtwordshtml": [
             "Mullah=Mahmad=Said-<span class=\"sc\">obl</span>",
             "to",
@@ -1010,8 +1592,16 @@
             "be-\\textsc{prs\"=msg}",
             "\\textsc{comp}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{mulaa=mhaamad=seed-\u00e1} the maal\u00fam heens\u00edl-u h\u00edn-u ki",
+        "srcwordsbare": [
+            "mulaa=mhaamad=seed-\u00e1",
+            "the",
+            "maal\u00fam",
+            "heens\u00edl-u",
+            "h\u00edn-u",
+            "ki"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">mulaa=mhaamad=seed-\u00e1</span>",
             "the",
@@ -1031,8 +1621,28 @@
         "trs": "Mullah Mahmad Said knew that...' (A:MAH011)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "pl",
+            "prs\"=mpl",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg.acc} with four five female.person woman.\\textsc{pl} one \\textsc{top} man {} send-\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "3sg.acc",
+            "with",
+            "four",
+            "five",
+            "female.person",
+            "woman.PL",
+            "one",
+            "TOP",
+            "man",
+            "{}",
+            "send-PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.acc</span>",
             "with",
@@ -1059,8 +1669,21 @@
             "{}",
             "send-\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "tas san\u0261\u00ed \\textbf{\u010d\u00faur} \\textbf{p\u00e1an\u01f0} \\textbf{\u01f0\u00e9eni} \\textbf{ku\u1e5b\u00edina} \u00e1a ba m\u00edi\u0161 \\textbf{{\\ldots}} phray-\u00e1an-a",
+        "srcwordsbare": [
+            "tas",
+            "san\u0261\u00ed",
+            "\u010d\u00faur",
+            "p\u00e1an\u01f0",
+            "\u01f0\u00e9eni",
+            "ku\u1e5b\u00edina",
+            "\u00e1a",
+            "ba",
+            "m\u00edi\u0161",
+            "{\\ldots}",
+            "phray-\u00e1an-a"
+        ],
         "srcwordshtml": [
             "tas",
             "san\u0261\u00ed",
@@ -1090,8 +1713,23 @@
         "trs": "They send with her four or five women and one man.' (A:MAR082-3)"
     },
     {
+        "categories": [
+            "3fsg",
+            "idef",
+            "nom",
+            "pst"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3fsg.nom} \\textsc{idef} shepherd boy to in.love be.\\textsc{pst}",
+        "imtwordsbare": [
+            "3fsg.nom",
+            "IDEF",
+            "shepherd",
+            "boy",
+            "to",
+            "in.love",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3fsg.nom</span>",
             "<span class=\"sc\">idef</span>",
@@ -1110,8 +1748,17 @@
             "in.love",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se \\textbf{\u00e1ak} \\textbf{bakara\u00e1l} \\textbf{pho\u00f3} the a\u0161\u00e1x de",
+        "srcwordsbare": [
+            "se",
+            "\u00e1ak",
+            "bakara\u00e1l",
+            "pho\u00f3",
+            "the",
+            "a\u0161\u00e1x",
+            "de"
+        ],
         "srcwordshtml": [
             "se",
             "<span class=\"bf\">\u00e1ak</span>",
@@ -1133,8 +1780,33 @@
         "trs": "She was in love with a~shepherd boy.' (A:SHY002)"
     },
     {
+        "categories": [
+            "1sg",
+            "def",
+            "gen",
+            "msg",
+            "nom",
+            "obl",
+            "pfv\"=msg",
+            "prs\"=msg",
+            "rem",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1sg.gen} \\textsc{def} grandfather-\\textsc{obl} Mullah=Mahmad=Said-\\textsc{obl} to  \\textsc{top} \\textsc{rem.msg.nom} strong.man knowledge  stay.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "DEF",
+            "grandfather-OBL",
+            "Mullah=Mahmad=Said-OBL",
+            "to",
+            "TOP",
+            "rem.msg.nom",
+            "strong.man",
+            "knowledge",
+            "stay.PFV\"=MSG",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "<span class=\"sc\">def</span>",
@@ -1161,8 +1833,21 @@
             "stay.\\textsc{pfv\"=msg}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{m\u00edi} \\textbf{se} \\textbf{d\u00f3od-a} \\textbf{mulaa=mhaamad=seed-\u00e1} the ba ees\u00f3 paalawa\u00e1\u1e47 maal\u00fam heens\u00edl-u h\u00edn-u",
+        "srcwordsbare": [
+            "m\u00edi",
+            "se",
+            "d\u00f3od-a",
+            "mulaa=mhaamad=seed-\u00e1",
+            "the",
+            "ba",
+            "ees\u00f3",
+            "paalawa\u00e1\u1e47",
+            "maal\u00fam",
+            "heens\u00edl-u",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">m\u00edi</span>",
             "<span class=\"bf\">se</span>",
@@ -1192,8 +1877,22 @@
         "trs": "My grandfather Mullah Mahmad Said knew this strong man.' (A:MAH027)"
     },
     {
+        "categories": [
+            "1pl",
+            "nom",
+            "pfv",
+            "pl",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1pl.nom} five person-\\textsc{pl} \\textsc{top} go.\\textsc{pfv.pl}",
+        "imtwordsbare": [
+            "1pl.nom",
+            "five",
+            "person-PL",
+            "TOP",
+            "go.pfv.pl"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1pl.nom</span>",
             "five",
@@ -1208,8 +1907,15 @@
             "\\textsc{top}",
             "go.\\textsc{pfv.pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{be} \\textbf{p\u00e1an\u01f0} \\textbf{\u01f0\u00e1an-a} ba \u0261\u00edia",
+        "srcwordsbare": [
+            "be",
+            "p\u00e1an\u01f0",
+            "\u01f0\u00e1an-a",
+            "ba",
+            "\u0261\u00edia"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">be</span>",
             "<span class=\"bf\">p\u00e1an\u01f0</span>",
@@ -1227,8 +1933,27 @@
         "trs": "The five of us left.' (A:GHA007)"
     },
     {
+        "categories": [
+            "1sg",
+            "2sg",
+            "cv",
+            "msg",
+            "nom",
+            "obl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{2sg.nom} such-\\textsc{msg} strong bear-\\textsc{obl} from \\textsc{1sg.nom}  like.what become.\\textsc{cv} flee-\\textsc{1sg}",
+        "imtwordsbare": [
+            "2sg.nom",
+            "such-MSG",
+            "strong",
+            "bear-OBL",
+            "from",
+            "1sg.nom",
+            "like.what",
+            "become.CV",
+            "flee-1SG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">2sg.nom</span>",
             "such-<span class=\"sc\">msg</span>",
@@ -1251,8 +1976,19 @@
             "become.\\textsc{cv}",
             "flee-\\textsc{1sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{tu} \\textbf{atee\u1e47-\u00fa} \\textbf{tak\u1e5b\u00e1} \\textbf{\u00ed\u1e47c\u0323-a} d\u00edi ma kan\u00e1a bhe u\u1e0dh\u00ediw\"=um?",
+        "srcwordsbare": [
+            "tu",
+            "atee\u1e47-\u00fa",
+            "tak\u1e5b\u00e1",
+            "\u00ed\u1e47c\u0323-a",
+            "d\u00edi",
+            "ma",
+            "kan\u00e1a",
+            "bhe",
+            "u\u1e0dh\u00ediw\"=um?"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">tu</span>",
             "<span class=\"bf\">atee\u1e47-\u00fa</span>",
@@ -1278,8 +2014,17 @@
         "trs": "How can I flee from such as strong bear as you?' (A:KAT136)"
     },
     {
+        "categories": [
+            "def",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def} two friend-\\textsc{pl}",
+        "imtwordsbare": [
+            "DEF",
+            "two",
+            "friend-PL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "two",
@@ -1290,8 +2035,13 @@
             "two",
             "friend-\\textsc{pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se d\u00fau m\u00edtr-a",
+        "srcwordsbare": [
+            "se",
+            "d\u00fau",
+            "m\u00edtr-a"
+        ],
         "srcwordshtml": [
             "se",
             "d\u00fau",
@@ -1305,8 +2055,17 @@
         "trs": "the two friends' (A:MIT025)"
     },
     {
+        "categories": [
+            "pl",
+            "prox"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{prox} five brother.\\textsc{pl}",
+        "imtwordsbare": [
+            "PROX",
+            "five",
+            "brother.PL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "five",
@@ -1317,8 +2076,13 @@
             "five",
             "brother.\\textsc{pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "an\u00ed p\u00e1an\u01f0 bhraaw\u00fa",
+        "srcwordsbare": [
+            "an\u00ed",
+            "p\u00e1an\u01f0",
+            "bhraaw\u00fa"
+        ],
         "srcwordshtml": [
             "an\u00ed",
             "p\u00e1an\u01f0",
@@ -1332,8 +2096,17 @@
         "trs": "these five brothers' (A:ASC003)"
     },
     {
+        "categories": [
+            "def",
+            "f"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def} old-\\textsc{f} woman",
+        "imtwordsbare": [
+            "DEF",
+            "old-F",
+            "woman"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "old-<span class=\"sc\">f</span>",
@@ -1344,8 +2117,13 @@
             "old-\\textsc{f}",
             "woman"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se b\u00fau\u1e0d-i k\u00fa\u1e5bi",
+        "srcwordsbare": [
+            "se",
+            "b\u00fau\u1e0d-i",
+            "k\u00fa\u1e5bi"
+        ],
         "srcwordshtml": [
             "se",
             "b\u00fau\u1e0d-i",
@@ -1359,8 +2137,16 @@
         "trs": "the old woman' (A:WOM462)"
     },
     {
+        "categories": [
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "some tough people-\\textsc{pl}",
+        "imtwordsbare": [
+            "some",
+            "tough",
+            "people-PL"
+        ],
         "imtwordshtml": [
             "some",
             "tough",
@@ -1371,8 +2157,13 @@
             "tough",
             "people-\\textsc{pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261\u00f3o saxt x\u00e1lak-a",
+        "srcwordsbare": [
+            "\u0261\u00f3o",
+            "saxt",
+            "x\u00e1lak-a"
+        ],
         "srcwordshtml": [
             "\u0261\u00f3o",
             "saxt",
@@ -1386,8 +2177,17 @@
         "trs": "some tough people' (A:KEE043)"
     },
     {
+        "categories": [
+            "f",
+            "gen"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Katamosh-\\textsc{gen} bald-\\textsc{f} skull",
+        "imtwordsbare": [
+            "Katamosh-GEN",
+            "bald-F",
+            "skull"
+        ],
         "imtwordshtml": [
             "Katamosh-<span class=\"sc\">gen</span>",
             "bald-<span class=\"sc\">f</span>",
@@ -1398,8 +2198,13 @@
             "bald-\\textsc{f}",
             "skull"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ka\u1e6damu\u0161-\u00edi} lh\u00e9\u1e47\u1e0d-i kakar\u00edi",
+        "srcwordsbare": [
+            "ka\u1e6damu\u0161-\u00edi",
+            "lh\u00e9\u1e47\u1e0d-i",
+            "kakar\u00edi"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ka\u1e6damu\u0161-\u00edi</span>",
             "lh\u00e9\u1e47\u1e0d-i",
@@ -1413,8 +2218,18 @@
         "trs": "the bald scalp of Katamosh' (A:KAT152)"
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1sg.gen} two dog-\\textsc{pl}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "two",
+            "dog-PL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "two",
@@ -1425,8 +2240,13 @@
             "two",
             "dog-\\textsc{pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{m\u00edi} d\u00fau ku\u010d\u00far-a",
+        "srcwordsbare": [
+            "m\u00edi",
+            "d\u00fau",
+            "ku\u010d\u00far-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">m\u00edi</span>",
             "d\u00fau",
@@ -1440,8 +2260,21 @@
         "trs": "my two dogs' (A:HUA017)"
     },
     {
+        "categories": [
+            "gen",
+            "idef",
+            "refl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "village-\\textsc{gen} or \\textsc{refl} tribe-\\textsc{gen} \\textsc{idef} elder",
+        "imtwordsbare": [
+            "village-GEN",
+            "or",
+            "REFL",
+            "tribe-GEN",
+            "IDEF",
+            "elder"
+        ],
         "imtwordshtml": [
             "village-<span class=\"sc\">gen</span>",
             "or",
@@ -1458,8 +2291,16 @@
             "\\textsc{idef}",
             "elder"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{d\u00edi\u0161-ii} \\textbf{ya\u00e1} \\textbf{tee\u1e47\u00edi} \\textbf{qo\u0301om-ii} \u00e1a \u0261ha\u1e0deer\u00f3",
+        "srcwordsbare": [
+            "d\u00edi\u0161-ii",
+            "ya\u00e1",
+            "tee\u1e47\u00edi",
+            "qo\u0301om-ii",
+            "\u00e1a",
+            "\u0261ha\u1e0deer\u00f3"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">d\u00edi\u0161-ii</span>",
             "<span class=\"bf\">ya\u00e1</span>",
@@ -1479,8 +2320,21 @@
         "trs": "an elder of the village or of one's own tribe' (A:MAR060)"
     },
     {
+        "categories": [
+            "1sg",
+            "def",
+            "gen",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1sg.gen} \\textsc{def} mother.in.law-\\textsc{gen} \\textsc{def} brother.\\textsc{pl}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "DEF",
+            "mother.in.law-GEN",
+            "DEF",
+            "brother.PL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "<span class=\"sc\">def</span>",
@@ -1495,8 +2349,15 @@
             "\\textsc{def}",
             "brother.\\textsc{pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{m\u00edi} \\textbf{se} \\textbf{pre\u1e63-\u00edi} se bhraaw\u00fa",
+        "srcwordsbare": [
+            "m\u00edi",
+            "se",
+            "pre\u1e63-\u00edi",
+            "se",
+            "bhraaw\u00fa"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">m\u00edi</span>",
             "<span class=\"bf\">se</span>",
@@ -1514,8 +2375,17 @@
         "trs": "the brothers of that mother\"=in\"=law of mine' (A:HUA122)"
     },
     {
+        "categories": [
+            "def",
+            "gen"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def} child-\\textsc{gen} clothes",
+        "imtwordsbare": [
+            "DEF",
+            "child-GEN",
+            "clothes"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "child-<span class=\"sc\">gen</span>",
@@ -1526,8 +2396,13 @@
             "child-\\textsc{gen}",
             "clothes"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{se} \\textbf{ku\u1e47aak-\u00edi} paa\u1e47\u1e6d\u00ed",
+        "srcwordsbare": [
+            "se",
+            "ku\u1e47aak-\u00edi",
+            "paa\u1e47\u1e6d\u00ed"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">se</span>",
             "<span class=\"bf\">ku\u1e47aak-\u00edi</span>",
@@ -1541,8 +2416,18 @@
         "trs": "the/that child's clothes' (A:BER012)"
     },
     {
+        "categories": [
+            "gen",
+            "idef",
+            "obl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{idef} hill-\\textsc{gen} top-\\textsc{obl}",
+        "imtwordsbare": [
+            "IDEF",
+            "hill-GEN",
+            "top-OBL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">idef</span>",
             "hill-<span class=\"sc\">gen</span>",
@@ -1553,8 +2438,13 @@
             "hill-\\textsc{gen}",
             "top-\\textsc{obl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{ak} \\textbf{t\u00e1ape\u1e5b-e} \u1e6d\u00e9k-a",
+        "srcwordsbare": [
+            "ak",
+            "t\u00e1ape\u1e5b-e",
+            "\u1e6d\u00e9k-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">ak</span>",
             "<span class=\"bf\">t\u00e1ape\u1e5b-e</span>",
@@ -1568,8 +2458,19 @@
         "trs": "on the top of a~hill' (B:BEL301)"
     },
     {
+        "categories": [
+            "def",
+            "gen",
+            "msg",
+            "nom"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def.msg.nom} house-\\textsc{gen} owner",
+        "imtwordsbare": [
+            "def.msg.nom",
+            "house-GEN",
+            "owner"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def.msg.nom</span>",
             "house-<span class=\"sc\">gen</span>",
@@ -1580,8 +2481,13 @@
             "house-\\textsc{gen}",
             "owner"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "so \\textbf{\u0261hoo\u1e63\u1e6d-\u00edi} khaama\u00e1d",
+        "srcwordsbare": [
+            "so",
+            "\u0261hoo\u1e63\u1e6d-\u00edi",
+            "khaama\u00e1d"
+        ],
         "srcwordshtml": [
             "so",
             "<span class=\"bf\">\u0261hoo\u1e63\u1e6d-\u00edi</span>",
@@ -1595,8 +2501,17 @@
         "trs": "the house owner' (A:MIT020)"
     },
     {
+        "categories": [
+            "idef",
+            "pl\"=obl\"=gen"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{idef} robber-\\textsc{pl\"=obl\"=gen} fort",
+        "imtwordsbare": [
+            "IDEF",
+            "robber-PL\"=OBL\"=GEN",
+            "fort"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">idef</span>",
             "robber-<span class=\"sc\">pl\"=obl\"=gen</span>",
@@ -1607,8 +2522,13 @@
             "robber-\\textsc{pl\"=obl\"=gen}",
             "fort"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u00e1ak \\textbf{\u1e0daaku\"=aan-\u00f3om\"=ii} qila\u00e1",
+        "srcwordsbare": [
+            "\u00e1ak",
+            "\u1e0daaku\"=aan-\u00f3om\"=ii",
+            "qila\u00e1"
+        ],
         "srcwordshtml": [
             "\u00e1ak",
             "<span class=\"bf\">\u1e0daaku\"=aan-\u00f3om\"=ii</span>",
@@ -1622,8 +2542,22 @@
         "trs": "a den of thieves' (A:PIR008)"
     },
     {
+        "categories": [
+            "gen",
+            "idef",
+            "msg",
+            "obl\"=gen",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{idef} big-\\textsc{msg} hall man-\\textsc{gen} guest-\\textsc{pl.obl\"=gen}",
+        "imtwordsbare": [
+            "IDEF",
+            "big-MSG",
+            "hall",
+            "man-GEN",
+            "guest-pl.obl\"=gen"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">idef</span>",
             "big-<span class=\"sc\">msg</span>",
@@ -1638,8 +2572,15 @@
             "man-\\textsc{gen}",
             "guest-\\textsc{pl.obl\"=gen}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u00e1ak \u0261\u00e1a\u1e0d-u ha\u00e1l \\textbf{m\u00edi\u0161-ii} \\textbf{pr\u00e1a\u010d-am\"=ii}",
+        "srcwordsbare": [
+            "\u00e1ak",
+            "\u0261\u00e1a\u1e0d-u",
+            "ha\u00e1l",
+            "m\u00edi\u0161-ii",
+            "pr\u00e1a\u010d-am\"=ii"
+        ],
         "srcwordshtml": [
             "\u00e1ak",
             "\u0261\u00e1a\u1e0d-u",
@@ -1657,8 +2598,29 @@
         "trs": "a big hall for the man's guests' (A:SMO021)"
     },
     {
+        "categories": [
+            "cv",
+            "def",
+            "idef",
+            "msg",
+            "nom",
+            "obl",
+            "pfv\"=msg",
+            "rem"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{rem} forest-\\textsc{obl} \\textsc{idef} stone-\\textsc{obl} on take.away-\\textsc{cv}  \\textsc{def.nom.msg} child[\\textsc{nom.msg}] seat.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "REM",
+            "forest-OBL",
+            "IDEF",
+            "stone-OBL",
+            "on",
+            "take.away-CV",
+            "def.nom.msg",
+            "child[nom.msg]",
+            "seat.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">rem</span>",
             "forest-<span class=\"sc\">obl</span>",
@@ -1681,8 +2643,19 @@
             "child[\\textsc{nom.msg}]",
             "seat.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ees\u00e9 zan\u0261al-i\u0301 \u00e1a ba\u1e6d-\u00e1 \u01f0hul\u00ed har\u00ed \\textbf{so} \\textbf{ku\u1e47a\u00e1k} bhee\u0161\u00f3ol-u",
+        "srcwordsbare": [
+            "ees\u00e9",
+            "zan\u0261al-i\u0301",
+            "\u00e1a",
+            "ba\u1e6d-\u00e1",
+            "\u01f0hul\u00ed",
+            "har\u00ed",
+            "so",
+            "ku\u1e47a\u00e1k",
+            "bhee\u0161\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "ees\u00e9",
             "zan\u0261al-i\u0301",
@@ -1708,8 +2681,28 @@
         "trs": "In that forest he took the child to a~stone and seated him.' (A:BER005)"
     },
     {
+        "categories": [
+            "cv",
+            "def",
+            "f",
+            "fsg",
+            "nom",
+            "obl",
+            "pfv"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "elder.\\textsc{obl} arrive-\\textsc{cv} completely swiftly knife take-\\textsc{cv}  \\textsc{def} crown[\\textsc{nom.fsg}] cut.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "elder.OBL",
+            "arrive-CV",
+            "completely",
+            "swiftly",
+            "knife",
+            "take-CV",
+            "DEF",
+            "crown[nom.fsg]",
+            "cut.pfv-f"
+        ],
         "imtwordshtml": [
             "elder.<span class=\"sc\">obl</span>",
             "arrive-<span class=\"sc\">cv</span>",
@@ -1732,8 +2725,19 @@
             "crown[\\textsc{nom.fsg}]",
             "cut.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0261ha\u1e0deer\u00e1 phed-\u00ed la\u1e63 \u010dax ka\u1e6d\u00e9eri \u0261hin-\u00ed \\textbf{se} \\textbf{ta\u00e1\u01f0} \u010dhin\u00edl-i",
+        "srcwordsbare": [
+            "\u0261ha\u1e0deer\u00e1",
+            "phed-\u00ed",
+            "la\u1e63",
+            "\u010dax",
+            "ka\u1e6d\u00e9eri",
+            "\u0261hin-\u00ed",
+            "se",
+            "ta\u00e1\u01f0",
+            "\u010dhin\u00edl-i"
+        ],
         "srcwordshtml": [
             "\u0261ha\u1e0deer\u00e1",
             "phed-\u00ed",
@@ -1759,8 +2763,33 @@
         "trs": "The older [brother] came, took a~knife, and cut off the crown.' (A:DRA016)"
     },
     {
+        "categories": [
+            "[msg]",
+            "def",
+            "imp",
+            "incl",
+            "obl",
+            "pfv\"=msg",
+            "sg",
+            "vn"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "dragon fodder.sack-\\textsc{obl} in enter-\\textsc{vn} with-\\textsc{incl} fox.\\textsc{obl} \\textsc{def} man\\textsc{[msg]}-\\textsc{obl} toward hint do.\\textsc{pfv\"=msg} string pull-\\textsc{imp.sg}",
+        "imtwordsbare": [
+            "dragon",
+            "fodder.sack-OBL",
+            "in",
+            "enter-VN",
+            "with-INCL",
+            "fox.OBL",
+            "DEF",
+            "man[msg]-OBL",
+            "toward",
+            "hint",
+            "do.PFV\"=MSG",
+            "string",
+            "pull-imp.sg"
+        ],
         "imtwordshtml": [
             "dragon",
             "fodder.sack-<span class=\"sc\">obl</span>",
@@ -1791,8 +2820,23 @@
             "string",
             "pull-\\textsc{imp.sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "a\u01f0daha\u00e1 katool\u00edi-a w\u00e9e a\u010d-an\u00edi san\u0261i-e\u00e9 lhoom\u00e9ea \\textbf{se} \\textbf{m\u00edi\u0161-a} \u1e0d\u00e1\u1e0di i\u0161aar\u00e1 th\u00edil-u, thana\u00e1u dhrak-\u00e9",
+        "srcwordsbare": [
+            "a\u01f0daha\u00e1",
+            "katool\u00edi-a",
+            "w\u00e9e",
+            "a\u010d-an\u00edi",
+            "san\u0261i-e\u00e9",
+            "lhoom\u00e9ea",
+            "se",
+            "m\u00edi\u0161-a",
+            "\u1e0d\u00e1\u1e0di",
+            "i\u0161aar\u00e1",
+            "th\u00edil-u,",
+            "thana\u00e1u",
+            "dhrak-\u00e9"
+        ],
         "srcwordshtml": [
             "a\u01f0daha\u00e1",
             "katool\u00edi-a",
@@ -1826,8 +2870,29 @@
         "trs": "Just as the dragon went into the sack, the fox signaled to the man to pull the string.' (B:DRB036)"
     },
     {
+        "categories": [
+            "cv",
+            "def",
+            "inf",
+            "mpl",
+            "neg",
+            "nom",
+            "pfv",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def} people[\\textsc{nom.mpl}] tax \\textsc{neg} give-\\textsc{inf} be.able.to.\\textsc{cv}  \\textsc{top} flee-\\textsc{cv} go.\\textsc{pfv.mpl}",
+        "imtwordsbare": [
+            "DEF",
+            "people[nom.mpl]",
+            "tax",
+            "NEG",
+            "give-INF",
+            "be.able.to.CV",
+            "TOP",
+            "flee-CV",
+            "go.pfv.mpl"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "people[<span class=\"sc\">nom.mpl</span>]",
@@ -1850,8 +2915,19 @@
             "flee-\\textsc{cv}",
             "go.\\textsc{pfv.mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{se} \\textbf{x\u00e1laka} qala\u0301n\u0261 na d-a\u0301a bha\u00e1 ba u\u1e0dheew-\u00ed \u0261\u00edia",
+        "srcwordsbare": [
+            "se",
+            "x\u00e1laka",
+            "qala\u0301n\u0261",
+            "na",
+            "d-a\u0301a",
+            "bha\u00e1",
+            "ba",
+            "u\u1e0dheew-\u00ed",
+            "\u0261\u00edia"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">se</span>",
             "<span class=\"bf\">x\u00e1laka</span>",
@@ -1877,8 +2953,23 @@
         "trs": "The people were not able to pay the taxes, so they left, fleeing.' (A:MAB030)"
     },
     {
+        "categories": [
+            "1sg",
+            "msg",
+            "nom",
+            "pst",
+            "top"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1sg.nom} \\textsc{top} grown-\\textsc{msg} young man[\\textsc{nom}.\\textsc{msg}] \\textsc{pst}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "TOP",
+            "grown-MSG",
+            "young",
+            "man[NOM.MSG]",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "<span class=\"sc\">top</span>",
@@ -1895,8 +2986,16 @@
             "man[\\textsc{nom}.\\textsc{msg}]",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma ba \\textbf{\u0261\u00e1a\u1e0d-u} \\textbf{zua\u00e1n} \\textbf{m\u00edi\u0161} de",
+        "srcwordsbare": [
+            "ma",
+            "ba",
+            "\u0261\u00e1a\u1e0d-u",
+            "zua\u00e1n",
+            "m\u00edi\u0161",
+            "de"
+        ],
         "srcwordshtml": [
             "ma",
             "ba",
@@ -1916,8 +3015,26 @@
         "trs": "I was in the prime of my youth.' (A:PAS004)"
     },
     {
+        "categories": [
+            "dist",
+            "f",
+            "fsg",
+            "gen",
+            "nom",
+            "pst",
+            "rem"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{dist} age-\\textsc{gen} \\textsc{rem} cave big-\\textsc{f} cave[\\textsc{nom}.\\textsc{fsg}] be.\\textsc{pst}",
+        "imtwordsbare": [
+            "DIST",
+            "age-GEN",
+            "REM",
+            "cave",
+            "big-F",
+            "cave[NOM.FSG]",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">dist</span>",
             "age-<span class=\"sc\">gen</span>",
@@ -1936,8 +3053,17 @@
             "cave[\\textsc{nom}.\\textsc{fsg}]",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ees\u00e9 d\u00e1wur\"=ii ee\u1e5b\u00e9 ke\u00e9\u1e47 \\textbf{\u0261\u00e9e\u1e0d-i} \\textbf{ke\u00e9\u1e47} de",
+        "srcwordsbare": [
+            "ees\u00e9",
+            "d\u00e1wur\"=ii",
+            "ee\u1e5b\u00e9",
+            "ke\u00e9\u1e47",
+            "\u0261\u00e9e\u1e0d-i",
+            "ke\u00e9\u1e47",
+            "de"
+        ],
         "srcwordshtml": [
             "ees\u00e9",
             "d\u00e1wur\"=ii",
@@ -1959,8 +3085,27 @@
         "trs": "In those times that cave was a~big cave.' (A:CAV008)"
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "m",
+            "mpl",
+            "nom",
+            "obl",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1sg.gen} house-\\textsc{obl} small-\\textsc{mpl} small-\\textsc{mpl}  innocent child[\\textsc{nom.m}]-\\textsc{pl} be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "house-OBL",
+            "small-MPL",
+            "small-MPL",
+            "innocent",
+            "child[nom.m]-PL",
+            "be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "house-<span class=\"sc\">obl</span>",
@@ -1979,8 +3124,17 @@
             "child[\\textsc{nom.m}]-\\textsc{pl}",
             "be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "m\u00edi \u0261hoo\u1e63\u1e6d-\u00e1 \\textbf{lho\u00f3k-a} \\textbf{lho\u00f3k-a} \\textbf{maasuuma\u00e1n} \\textbf{ku\u1e47aak-\u00e1} h\u00edn-a",
+        "srcwordsbare": [
+            "m\u00edi",
+            "\u0261hoo\u1e63\u1e6d-\u00e1",
+            "lho\u00f3k-a",
+            "lho\u00f3k-a",
+            "maasuuma\u00e1n",
+            "ku\u1e47aak-\u00e1",
+            "h\u00edn-a"
+        ],
         "srcwordshtml": [
             "m\u00edi",
             "\u0261hoo\u1e63\u1e6d-\u00e1",
@@ -2002,8 +3156,24 @@
         "trs": "There are small innocent children in my house.' (A:KIN017)"
     },
     {
+        "categories": [
+            "1pl",
+            "gen",
+            "mpl",
+            "nom",
+            "obl",
+            "prs\"=mpl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "old-\\textsc{mpl} people[\\textsc{nom.mpl}] \\textsc{1pl.gen} village-\\textsc{obl} in be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "old-MPL",
+            "people[nom.mpl]",
+            "1pl.gen",
+            "village-OBL",
+            "in",
+            "be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "old-<span class=\"sc\">mpl</span>",
             "people[<span class=\"sc\">nom.mpl</span>]",
@@ -2020,8 +3190,16 @@
             "in",
             "be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{pur\u00f3o\u1e47-a} \\textbf{x\u00e1lak} as\u00edi d\u00edi\u0161-a w\u00e9e h\u00edn-a",
+        "srcwordsbare": [
+            "pur\u00f3o\u1e47-a",
+            "x\u00e1lak",
+            "as\u00edi",
+            "d\u00edi\u0161-a",
+            "w\u00e9e",
+            "h\u00edn-a"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">pur\u00f3o\u1e47-a</span>",
             "<span class=\"bf\">x\u00e1lak</span>",
@@ -2041,8 +3219,19 @@
         "trs": "There are old people in our village.' (A:MAR127)"
     },
     {
+        "categories": [
+            "m",
+            "obl",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "old-\\textsc{obl} people[\\textsc{m}].\\textsc{pl.obl} to known",
+        "imtwordsbare": [
+            "old-OBL",
+            "people[M].pl.obl",
+            "to",
+            "known"
+        ],
         "imtwordshtml": [
             "old-<span class=\"sc\">obl</span>",
             "people[<span class=\"sc\">m</span>].<span class=\"sc\">pl.obl</span>",
@@ -2055,8 +3244,14 @@
             "to",
             "known"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\\textbf{pur\u00f3o\u1e47-a} \\textbf{xalk\u00edim} the pat\u00e1",
+        "srcwordsbare": [
+            "pur\u00f3o\u1e47-a",
+            "xalk\u00edim",
+            "the",
+            "pat\u00e1"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">pur\u00f3o\u1e47-a</span>",
             "<span class=\"bf\">xalk\u00edim</span>",
@@ -2072,8 +3267,21 @@
         "trs": "The old people know [lit: It is known to old people].' (A:MAR126)"
     },
     {
+        "categories": [
+            "f",
+            "gen",
+            "pl",
+            "prs"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "cupboard.\\textsc{gen} also different design-\\textsc{pl} come.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "cupboard.GEN",
+            "also",
+            "different",
+            "design-PL",
+            "come.prs-f"
+        ],
         "imtwordshtml": [
             "cupboard.<span class=\"sc\">gen</span>",
             "also",
@@ -2088,8 +3296,15 @@
             "design-\\textsc{pl}",
             "come.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "aalmaar\u00edi bi \\textbf{muxtal\u00edf} \\textbf{\u1e0dizeen-\u00ed} yh\u00e9end-i",
+        "srcwordsbare": [
+            "aalmaar\u00edi",
+            "bi",
+            "muxtal\u00edf",
+            "\u1e0dizeen-\u00ed",
+            "yh\u00e9end-i"
+        ],
         "srcwordshtml": [
             "aalmaar\u00edi",
             "bi",
@@ -2107,8 +3322,18 @@
         "trs": "Cupboards come in many different designs.' (A:HOW049)"
     },
     {
+        "categories": [
+            "msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "human.being but much-\\textsc{msg} powerful thing",
+        "imtwordsbare": [
+            "human.being",
+            "but",
+            "much-MSG",
+            "powerful",
+            "thing"
+        ],
         "imtwordshtml": [
             "human.being",
             "but",
@@ -2123,8 +3348,15 @@
             "powerful",
             "thing"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "insa\u00e1n xu \\textbf{b\u00edi\u1e0d-u} \\textbf{taaqatw\u00e1r} \\textbf{\u0161ay}",
+        "srcwordsbare": [
+            "insa\u00e1n",
+            "xu",
+            "b\u00edi\u1e0d-u",
+            "taaqatw\u00e1r",
+            "\u0161ay"
+        ],
         "srcwordshtml": [
             "insa\u00e1n",
             "xu",
@@ -2142,8 +3374,20 @@
         "trs": "Man, however, is a~very powerful being.' (A:KIN006)"
     },
     {
+        "categories": [
+            "3msg",
+            "msg",
+            "nom",
+            "pst"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3msg.nom} much-\\textsc{msg} thin-\\textsc{msg} be.\\textsc{pst}",
+        "imtwordsbare": [
+            "3msg.nom",
+            "much-MSG",
+            "thin-MSG",
+            "be.PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.nom</span>",
             "much-<span class=\"sc\">msg</span>",
@@ -2156,8 +3400,14 @@
             "thin-\\textsc{msg}",
             "be.\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{so}{\\cb} {\\ob}\\textbf{b\u00edi\u1e0d-u} \\textbf{tr\u00f3k-u}{\\cb} de",
+        "srcwordsbare": [
+            "{\\ob}so{\\cb}",
+            "{\\ob}b\u00edi\u1e0d-u",
+            "tr\u00f3k-u{\\cb}",
+            "de"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">so</span>{\\cb}",
             "{\\ob}<span class=\"bf\">b\u00edi\u1e0d-u</span>",
@@ -2173,8 +3423,20 @@
         "trs": "He was very thin.' (A:KAT003)"
     },
     {
+        "categories": [
+            "m",
+            "mpl",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "often he.goat[\\textsc{m}].\\textsc{pl} thin-\\textsc{mpl} become.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "often",
+            "he.goat[M].PL",
+            "thin-MPL",
+            "become.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "often",
             "he.goat[<span class=\"sc\">m</span>].<span class=\"sc\">pl</span>",
@@ -2187,8 +3449,14 @@
             "thin-\\textsc{mpl}",
             "become.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "aks\u00e1r {\\ob}\\textbf{\u01f0ande\u00e9}{\\cb} {\\ob}\\textbf{tr\u00f3k-a}{\\cb} bh-\u00e1an-a",
+        "srcwordsbare": [
+            "aks\u00e1r",
+            "{\\ob}\u01f0ande\u00e9{\\cb}",
+            "{\\ob}tr\u00f3k-a{\\cb}",
+            "bh-\u00e1an-a"
+        ],
         "srcwordshtml": [
             "aks\u00e1r",
             "{\\ob}<span class=\"bf\">\u01f0ande\u00e9</span>{\\cb}",
@@ -2204,8 +3472,24 @@
         "trs": "Often the he\"=goats become thin.' (A:MAR069)"
     },
     {
+        "categories": [
+            "1sg",
+            "f",
+            "imp",
+            "nom=",
+            "prox",
+            "sg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{prox} knife[\\textsc{f}] dull-\\textsc{f} \\textsc{1sg.nom=}to another give.\\textsc{imp.sg}",
+        "imtwordsbare": [
+            "PROX",
+            "knife[F]",
+            "dull-F",
+            "1sg.nom=to",
+            "another",
+            "give.imp.sg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">prox</span>",
             "knife[<span class=\"sc\">f</span>]",
@@ -2222,8 +3506,16 @@
             "another",
             "give.\\textsc{imp.sg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{an\u00ed} \\textbf{ka\u1e6d\u00e9eri}{\\cb} {\\ob}\\textbf{b\u00fak-i}{\\cb} ma\u0301a=the d\u00fai da",
+        "srcwordsbare": [
+            "{\\ob}an\u00ed",
+            "ka\u1e6d\u00e9eri{\\cb}",
+            "{\\ob}b\u00fak-i{\\cb}",
+            "ma\u0301a=the",
+            "d\u00fai",
+            "da"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">an\u00ed</span>",
             "<span class=\"bf\">ka\u1e6d\u00e9eri</span>{\\cb}",
@@ -2243,8 +3535,19 @@
         "trs": "This knife is dull. Give me another one!' (A:Q9.0160)"
     },
     {
+        "categories": [
+            "dist",
+            "m",
+            "mpl",
+            "pl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{dist} thing[\\textsc{m}]-\\textsc{pl} much-\\textsc{mpl}",
+        "imtwordsbare": [
+            "DIST",
+            "thing[M]-PL",
+            "much-MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">dist</span>",
             "thing[<span class=\"sc\">m</span>]-<span class=\"sc\">pl</span>",
@@ -2255,8 +3558,13 @@
             "thing[\\textsc{m}]-\\textsc{pl}",
             "much-\\textsc{mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{ee\u1e5b\u00e9} \\textbf{\u0161ay-a\u0301}{\\cb} {\\ob}\\textbf{b\u00edi\u1e0d-a}{\\cb}",
+        "srcwordsbare": [
+            "{\\ob}ee\u1e5b\u00e9",
+            "\u0161ay-a\u0301{\\cb}",
+            "{\\ob}b\u00edi\u1e0d-a{\\cb}"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">ee\u1e5b\u00e9</span>",
             "<span class=\"bf\">\u0161ay-a\u0301</span>{\\cb}",
@@ -2270,8 +3578,18 @@
         "trs": "There are lots of those things.' (A:HUA047)"
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg.gen} enemy[\\textsc{msg}] much-\\textsc{msg}",
+        "imtwordsbare": [
+            "3sg.gen",
+            "enemy[MSG]",
+            "much-MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.gen</span>",
             "enemy[<span class=\"sc\">msg</span>]",
@@ -2282,8 +3600,13 @@
             "enemy[\\textsc{msg}]",
             "much-\\textsc{msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{tas\u00edi} \\textbf{du\u1e63ma\u00e1n}{\\cb} {\\ob}\\textbf{b\u00edi\u1e0d-u}{\\cb}",
+        "srcwordsbare": [
+            "{\\ob}tas\u00edi",
+            "du\u1e63ma\u00e1n{\\cb}",
+            "{\\ob}b\u00edi\u1e0d-u{\\cb}"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">tas\u00edi</span>",
             "<span class=\"bf\">du\u1e63ma\u00e1n</span>{\\cb}",
@@ -2297,8 +3620,20 @@
         "trs": "She has many enemies.' (A:KEE008)"
     },
     {
+        "categories": [
+            "mpl",
+            "obl",
+            "pfv\"=mpl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Ashret-\\textsc{obl} in people[\\textsc{mpl}] several-\\textsc{mpl} become.\\textsc{pfv\"=mpl}",
+        "imtwordsbare": [
+            "Ashret-OBL",
+            "in",
+            "people[MPL]",
+            "several-MPL",
+            "become.PFV\"=MPL"
+        ],
         "imtwordshtml": [
             "Ashret-<span class=\"sc\">obl</span>",
             "in",
@@ -2313,8 +3648,15 @@
             "several-\\textsc{mpl}",
             "become.\\textsc{pfv\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "atshareet-\u00e1 w\u00e9e {\\ob}\\textbf{x\u00e1lak}{\\cb} {\\ob}\\textbf{bi\u01f0\u00f3ol-a}{\\cb} bh\u00edl-a",
+        "srcwordsbare": [
+            "atshareet-\u00e1",
+            "w\u00e9e",
+            "{\\ob}x\u00e1lak{\\cb}",
+            "{\\ob}bi\u01f0\u00f3ol-a{\\cb}",
+            "bh\u00edl-a"
+        ],
         "srcwordshtml": [
             "atshareet-\u00e1",
             "w\u00e9e",
@@ -2332,8 +3674,23 @@
         "trs": "In Ashret people became numerous.' (A:GHA001)"
     },
     {
+        "categories": [
+            "gen",
+            "msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "she.goat-\\textsc{gen} benefit[\\textsc{msg}] also much-\\textsc{msg} big-\\textsc{msg}  effort[\\textsc{msg}] also much-\\textsc{msg} great",
+        "imtwordsbare": [
+            "she.goat-GEN",
+            "benefit[MSG]",
+            "also",
+            "much-MSG",
+            "big-MSG",
+            "effort[MSG]",
+            "also",
+            "much-MSG",
+            "great"
+        ],
         "imtwordshtml": [
             "she.goat-<span class=\"sc\">gen</span>",
             "benefit[<span class=\"sc\">msg</span>]",
@@ -2356,8 +3713,19 @@
             "much-\\textsc{msg}",
             "great"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{\u010dh\u00e9el\"=ii} \\textbf{phaaid\u00e1}{\\cb} bi {\\ob}\\textbf{b\u00edi\u1e0d-u} \\textbf{\u0261\u00e1a\u1e0d-u}{\\cb} {\\ob}\\textbf{ka\u1e5ba\u00e1u}{\\cb} bi {\\ob}\\textbf{b\u00edi\u1e0d-u} \\textbf{zia\u00e1t}{\\cb}",
+        "srcwordsbare": [
+            "{\\ob}\u010dh\u00e9el\"=ii",
+            "phaaid\u00e1{\\cb}",
+            "bi",
+            "{\\ob}b\u00edi\u1e0d-u",
+            "\u0261\u00e1a\u1e0d-u{\\cb}",
+            "{\\ob}ka\u1e5ba\u00e1u{\\cb}",
+            "bi",
+            "{\\ob}b\u00edi\u1e0d-u",
+            "zia\u00e1t{\\cb}"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">\u010dh\u00e9el\"=ii</span>",
             "<span class=\"bf\">phaaid\u00e1</span>{\\cb}",
@@ -2383,8 +3751,24 @@
         "trs": "There are many benefits of the goat, but they also require a lot of work.' (A:KEE078)"
     },
     {
+        "categories": [
+            "3sg",
+            "dist",
+            "gen",
+            "m",
+            "mpl",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg}.\\textsc{dist.gen} benefit[\\textsc{m}].\\textsc{pl} much-\\textsc{mpl} great  be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "3SG.dist.gen",
+            "benefit[M].PL",
+            "much-MPL",
+            "great",
+            "be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg</span>.<span class=\"sc\">dist.gen</span>",
             "benefit[<span class=\"sc\">m</span>].<span class=\"sc\">pl</span>",
@@ -2399,8 +3783,15 @@
             "great",
             "be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{las\u00edi} \\textbf{phaaide\u00e9}{\\cb} {\\ob}\\textbf{b\u00edi\u1e0d-a} \\textbf{zia\u00e1t}{\\cb} h\u00edn-a",
+        "srcwordsbare": [
+            "{\\ob}las\u00edi",
+            "phaaide\u00e9{\\cb}",
+            "{\\ob}b\u00edi\u1e0d-a",
+            "zia\u00e1t{\\cb}",
+            "h\u00edn-a"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">las\u00edi</span>",
             "<span class=\"bf\">phaaide\u00e9</span>{\\cb}",
@@ -2418,8 +3809,25 @@
         "trs": "She provides many benefits.' (A:KEE021)"
     },
     {
+        "categories": [
+            "3sg",
+            "f",
+            "fsg",
+            "gen",
+            "pfv",
+            "prs\"=f"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg.gen} mother[\\textsc{fsg}] {} much-\\textsc{f} upset become.\\textsc{pfv-f} be.\\textsc{prs\"=f}",
+        "imtwordsbare": [
+            "3sg.gen",
+            "mother[FSG]",
+            "{}",
+            "much-F",
+            "upset",
+            "become.pfv-f",
+            "be.PRS\"=F"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.gen</span>",
             "mother[<span class=\"sc\">fsg</span>]",
@@ -2438,8 +3846,17 @@
             "become.\\textsc{pfv-f}",
             "be.\\textsc{prs\"=f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{tas\u00edi} \\textbf{y\u00e9ei}{\\cb} /{\\ldots}/ {\\ob}\\textbf{b\u00edi\u1e0d-i} \\textbf{xaf\u00e1}{\\cb} bh\u00edl-i hi\u0301n-i",
+        "srcwordsbare": [
+            "{\\ob}tas\u00edi",
+            "y\u00e9ei{\\cb}",
+            "/{\\ldots}/",
+            "{\\ob}b\u00edi\u1e0d-i",
+            "xaf\u00e1{\\cb}",
+            "bh\u00edl-i",
+            "hi\u0301n-i"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">tas\u00edi</span>",
             "<span class=\"bf\">y\u00e9ei</span>{\\cb}",
@@ -2461,8 +3878,21 @@
         "trs": "His mother became very upset.' (A:KAT004)"
     },
     {
+        "categories": [
+            "msg",
+            "pfv\"=msg",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Katamosh[\\textsc{msg}] {} much-\\textsc{msg} happy become.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "Katamosh[MSG]",
+            "{}",
+            "much-MSG",
+            "happy",
+            "become.PFV\"=MSG",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "Katamosh[<span class=\"sc\">msg</span>]",
             "{}",
@@ -2479,8 +3909,16 @@
             "become.\\textsc{pfv\"=msg}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{ka\u1e6dam\u00fa\u0161}{\\cb} /{\\ldots}/ {\\ob}\\textbf{b\u00edi\u1e0d-u} \\textbf{xu\u0161a\u00e1n}{\\cb} bh\u00edl-u h\u00edn-u",
+        "srcwordsbare": [
+            "{\\ob}ka\u1e6dam\u00fa\u0161{\\cb}",
+            "/{\\ldots}/",
+            "{\\ob}b\u00edi\u1e0d-u",
+            "xu\u0161a\u00e1n{\\cb}",
+            "bh\u00edl-u",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">ka\u1e6dam\u00fa\u0161</span>{\\cb}",
             "/{\\ldots}/",
@@ -2500,8 +3938,23 @@
         "trs": "Katamosh became very happy.' (A:KAT078)"
     },
     {
+        "categories": [
+            "3pl",
+            "mpl",
+            "nom",
+            "obl",
+            "pst"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3pl.nom} winter-\\textsc{obl} much-\\textsc{mpl} happy stay-\\textsc{3pl} \\textsc{pst}",
+        "imtwordsbare": [
+            "3pl.nom",
+            "winter-OBL",
+            "much-MPL",
+            "happy",
+            "stay-3PL",
+            "PST"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3pl.nom</span>",
             "winter-<span class=\"sc\">obl</span>",
@@ -2518,8 +3971,16 @@
             "stay-\\textsc{3pl}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{se}{\\cb} heewand-\u00e1 {\\ob}\\textbf{b\u00edi\u1e0d-a} \\textbf{xu\u0161a\u00e1n}{\\cb} h\u00f3ons\"=an de",
+        "srcwordsbare": [
+            "{\\ob}se{\\cb}",
+            "heewand-\u00e1",
+            "{\\ob}b\u00edi\u1e0d-a",
+            "xu\u0161a\u00e1n{\\cb}",
+            "h\u00f3ons\"=an",
+            "de"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">se</span>{\\cb}",
             "heewand-\u00e1",
@@ -2539,8 +4000,20 @@
         "trs": "They were very happy during the winter.' (A:SHY008)"
     },
     {
+        "categories": [
+            "msg",
+            "pfv\"=msg",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Katamosh[\\textsc{msg}] good.\\textsc{msg} fat become.\\textsc{pfv\"=msg}  be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "Katamosh[MSG]",
+            "good.MSG",
+            "fat",
+            "become.PFV\"=MSG",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "Katamosh[<span class=\"sc\">msg</span>]",
             "good.<span class=\"sc\">msg</span>",
@@ -2555,8 +4028,15 @@
             "become.\\textsc{pfv\"=msg}",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{ka\u1e6dam\u00fa\u0161}{\\cb} {\\ob}\\textbf{\u0161\u00f3o} \\textbf{\u010da\u00e1x}{\\cb} bh\u00edl-u h\u00edn-u",
+        "srcwordsbare": [
+            "{\\ob}ka\u1e6dam\u00fa\u0161{\\cb}",
+            "{\\ob}\u0161\u00f3o",
+            "\u010da\u00e1x{\\cb}",
+            "bh\u00edl-u",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">ka\u1e6dam\u00fa\u0161</span>{\\cb}",
             "{\\ob}<span class=\"bf\">\u0161\u00f3o</span>",
@@ -2574,8 +4054,26 @@
         "trs": "Katamosh became really fat.' (A:KAT082)"
     },
     {
+        "categories": [
+            "1pl",
+            "acc",
+            "f",
+            "fsg",
+            "gen",
+            "prs"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1pl.gen} school[\\textsc{fsg}] also \\textsc{1pl.acc} to much-\\textsc{f} distant be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "1pl.gen",
+            "school[FSG]",
+            "also",
+            "1pl.acc",
+            "to",
+            "much-F",
+            "distant",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1pl.gen</span>",
             "school[<span class=\"sc\">fsg</span>]",
@@ -2596,8 +4094,18 @@
             "distant",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{as\u00edi} \\textbf{isku\u00fal}{\\cb} bi asa\u00e1m the {\\ob}\\textbf{b\u00edi\u1e0d-i} \\textbf{dh\u00faura}{\\cb} h\u00edn-i",
+        "srcwordsbare": [
+            "{\\ob}as\u00edi",
+            "isku\u00fal{\\cb}",
+            "bi",
+            "asa\u00e1m",
+            "the",
+            "{\\ob}b\u00edi\u1e0d-i",
+            "dh\u00faura{\\cb}",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">as\u00edi</span>",
             "<span class=\"bf\">isku\u00fal</span>{\\cb}",
@@ -2621,8 +4129,21 @@
         "trs": "Our school is also very far away for us.' (A:OUR016)"
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "msg",
+            "prs\"=msg"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{1sg.gen} house[\\textsc{msg}] much-\\textsc{msg} distant be.\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "house[MSG]",
+            "much-MSG",
+            "distant",
+            "be.PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "house[<span class=\"sc\">msg</span>]",
@@ -2637,8 +4158,15 @@
             "distant",
             "be.\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{m\u00edi} \\textbf{\u0261ho\u00f3\u1e63\u1e6d}{\\cb} {\\ob}\\textbf{b\u00edi\u1e0d-u} \\textbf{dh\u00faura}{\\cb} h\u00edn-u",
+        "srcwordsbare": [
+            "{\\ob}m\u00edi",
+            "\u0261ho\u00f3\u1e63\u1e6d{\\cb}",
+            "{\\ob}b\u00edi\u1e0d-u",
+            "dh\u00faura{\\cb}",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">m\u00edi</span>",
             "<span class=\"bf\">\u0261ho\u00f3\u1e63\u1e6d</span>{\\cb}",
@@ -2656,8 +4184,20 @@
         "trs": "My house is very far away.' (A:DHE3174)"
     },
     {
+        "categories": [
+            "f",
+            "fsg",
+            "vn"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "Urdu letter[\\textsc{fsg}] write.\\textsc{vn} much-\\textsc{f} easy",
+        "imtwordsbare": [
+            "Urdu",
+            "letter[FSG]",
+            "write.VN",
+            "much-F",
+            "easy"
+        ],
         "imtwordshtml": [
             "Urdu",
             "letter[<span class=\"sc\">fsg</span>]",
@@ -2672,8 +4212,15 @@
             "much-\\textsc{f}",
             "easy"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "{\\ob}\\textbf{urd\u00fa} \\textbf{xat}{\\cb} \u010doo\u1e47\u1e6daini\u00ed {\\ob}\\textbf{b\u00edi\u1e0d-i} \\textbf{ask\u00f3on}{\\cb}",
+        "srcwordsbare": [
+            "{\\ob}urd\u00fa",
+            "xat{\\cb}",
+            "\u010doo\u1e47\u1e6daini\u00ed",
+            "{\\ob}b\u00edi\u1e0d-i",
+            "ask\u00f3on{\\cb}"
+        ],
         "srcwordshtml": [
             "{\\ob}<span class=\"bf\">urd\u00fa</span>",
             "<span class=\"bf\">xat</span>{\\cb}",
@@ -2691,8 +4238,18 @@
         "trs": "It's very easy to write a~letter in Urdu.' (A:HLE3131)"
     },
     {
+        "categories": [
+            "msg",
+            "vn"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "fast run-\\textsc{vn} much-\\textsc{msg} easy",
+        "imtwordsbare": [
+            "fast",
+            "run-VN",
+            "much-MSG",
+            "easy"
+        ],
         "imtwordshtml": [
             "fast",
             "run-<span class=\"sc\">vn</span>",
@@ -2705,8 +4262,14 @@
             "much-\\textsc{msg}",
             "easy"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "lab utrap\"=aini\u00ed {\\ob}\\textbf{b\u00edi\u1e0d-u} \\textbf{ask\u00f3on}{\\cb}",
+        "srcwordsbare": [
+            "lab",
+            "utrap\"=aini\u00ed",
+            "{\\ob}b\u00edi\u1e0d-u",
+            "ask\u00f3on{\\cb}"
+        ],
         "srcwordshtml": [
             "lab",
             "utrap\"=aini\u00ed",
@@ -2722,8 +4285,19 @@
         "trs": "It's very easy to run fast.' (A:HLE3130)"
     },
     {
+        "categories": [
+            "msg",
+            "pl",
+            "vn"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "children-\\textsc{pl} take.care.\\textsc{vn} much-\\textsc{msg} easy",
+        "imtwordsbare": [
+            "children-PL",
+            "take.care.VN",
+            "much-MSG",
+            "easy"
+        ],
         "imtwordshtml": [
             "children-<span class=\"sc\">pl</span>",
             "take.care.<span class=\"sc\">vn</span>",
@@ -2736,8 +4310,14 @@
             "much-\\textsc{msg}",
             "easy"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ku\u1e47aak-\u00e1 saataini\u00ed {\\ob}\\textbf{b\u00edi\u1e0d-u} \\textbf{ask\u00f3on}{\\cb}",
+        "srcwordsbare": [
+            "ku\u1e47aak-\u00e1",
+            "saataini\u00ed",
+            "{\\ob}b\u00edi\u1e0d-u",
+            "ask\u00f3on{\\cb}"
+        ],
         "srcwordshtml": [
             "ku\u1e47aak-\u00e1",
             "saataini\u00ed",
@@ -2753,8 +4333,22 @@
         "trs": "It's very easy to take care of children.' (A:HLE3129)"
     },
     {
+        "categories": [
+            "dist",
+            "f",
+            "msg",
+            "nom",
+            "pfv\"=msg",
+            "prs"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{dist.msg.nom} much-\\textsc{msg} fatten.\\textsc{pfv\"=msg} be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "dist.msg.nom",
+            "much-MSG",
+            "fatten.PFV\"=MSG",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">dist.msg.nom</span>",
             "much-<span class=\"sc\">msg</span>",
@@ -2767,8 +4361,14 @@
             "fatten.\\textsc{pfv\"=msg}",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "a\u1e5b\u00f3 \\textbf{b\u00edi\u1e0d-u} bhakul\u00edil-u h\u00edn-u",
+        "srcwordsbare": [
+            "a\u1e5b\u00f3",
+            "b\u00edi\u1e0d-u",
+            "bhakul\u00edil-u",
+            "h\u00edn-u"
+        ],
         "srcwordshtml": [
             "a\u1e5b\u00f3",
             "<span class=\"bf\">b\u00edi\u1e0d-u</span>",
@@ -2784,8 +4384,23 @@
         "trs": "He has fattened a~lot.' (A:DHE3162)"
     },
     {
+        "categories": [
+            "cv",
+            "f",
+            "fsg",
+            "pfv\"=f"
+        ],
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "northern wind[\\textsc{fsg}] much-\\textsc{f} excessively strong become.\\textsc{cv} come.out.\\textsc{pfv\"=f}",
+        "imtwordsbare": [
+            "northern",
+            "wind[FSG]",
+            "much-F",
+            "excessively",
+            "strong",
+            "become.CV",
+            "come.out.PFV\"=F"
+        ],
         "imtwordshtml": [
             "northern",
             "wind[<span class=\"sc\">fsg</span>]",
@@ -2804,8 +4419,17 @@
             "become.\\textsc{cv}",
             "come.out.\\textsc{pfv\"=f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u0161umaali\u0301 hu\u0301u\u0161i \\textbf{bi\u0301i\u1e0d-i} ziaa\u0301t tee\u0301z bhe nikhe\u0301et-i",
+        "srcwordsbare": [
+            "\u0161umaali\u0301",
+            "hu\u0301u\u0161i",
+            "bi\u0301i\u1e0d-i",
+            "ziaa\u0301t",
+            "tee\u0301z",
+            "bhe",
+            "nikhe\u0301et-i"
+        ],
         "srcwordshtml": [
             "\u0161umaali\u0301",
             "hu\u0301u\u0161i",

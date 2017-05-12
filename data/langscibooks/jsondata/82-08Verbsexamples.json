@@ -1,7 +1,14 @@
 [
     {
+        "categories": [
+            "pfv\"=msg"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "Hazrat.Jan stand.up.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "Hazrat.Jan",
+            "stand.up.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "Hazrat.Jan",
             "stand.up.<span class=\"sc\">pfv\"=msg</span>"
@@ -10,8 +17,12 @@
             "Hazrat.Jan",
             "stand.up.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "hazrat\u01f0a\u00e1n \\textbf{uth\u00edit-u}",
+        "srcwordsbare": [
+            "hazrat\u01f0a\u00e1n",
+            "uth\u00edit-u"
+        ],
         "srcwordshtml": [
             "hazrat\u01f0a\u00e1n",
             "<span class=\"bf\">uth\u00edit-u</span>"
@@ -23,8 +34,25 @@
         "trs": "Hazrat Jan stood up.' (A:GHU025)"
     },
     {
+        "categories": [
+            "1pl",
+            "3sg",
+            "acc",
+            "def",
+            "erg",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{def} peak-\\textsc{obl} to \\textsc{1pl.erg} \\textsc{3sg.acc} bring.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "DEF",
+            "peak-OBL",
+            "to",
+            "1pl.erg",
+            "3sg.acc",
+            "bring.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "peak-<span class=\"sc\">obl</span>",
@@ -41,8 +69,16 @@
             "\\textsc{3sg.acc}",
             "bring.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se \u0263ar-\u00ed the as\u00edm tas \\textbf{phed\u00f3ol-u}",
+        "srcwordsbare": [
+            "se",
+            "\u0263ar-\u00ed",
+            "the",
+            "as\u00edm",
+            "tas",
+            "phed\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "se",
             "\u0263ar-\u00ed",
@@ -62,8 +98,22 @@
         "trs": "We brought him to the peak.' (A:GHA029)"
     },
     {
+        "categories": [
+            "1sg",
+            "f",
+            "nom",
+            "pfv",
+            "prs"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "but of.fear \\textsc{1sg.nom} return.\\textsc{pfv-f} be.\\textsc{prs-f}",
+        "imtwordsbare": [
+            "but",
+            "of.fear",
+            "1sg.nom",
+            "return.pfv-f",
+            "be.prs-f"
+        ],
         "imtwordshtml": [
             "but",
             "of.fear",
@@ -78,8 +128,15 @@
             "return.\\textsc{pfv-f}",
             "be.\\textsc{prs-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "xu bh\u00edilam ma \\textbf{nuu\u1e6d\u00edl-i} h\u00edn-i",
+        "srcwordsbare": [
+            "xu",
+            "bh\u00edilam",
+            "ma",
+            "nuu\u1e6d\u00edl-i",
+            "h\u00edn-i"
+        ],
         "srcwordshtml": [
             "xu",
             "bh\u00edilam",
@@ -97,8 +154,18 @@
         "trs": "But because of fear I turned back.' (A:CAV025)"
     },
     {
+        "categories": [
+            "3msg",
+            "nom",
+            "prox",
+            "prs\"=msg"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{3msg.prox.nom} sleep-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "3msg.prox.nom",
+            "sleep-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3msg.prox.nom</span>",
             "sleep-<span class=\"sc\">prs\"=msg</span>"
@@ -107,8 +174,12 @@
             "\\textsc{3msg.prox.nom}",
             "sleep-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "han\u00fa \\textbf{su-\u00e1an-u}",
+        "srcwordsbare": [
+            "han\u00fa",
+            "su-\u00e1an-u"
+        ],
         "srcwordshtml": [
             "han\u00fa",
             "<span class=\"bf\">su-\u00e1an-u</span>"
@@ -120,8 +191,20 @@
         "trs": "He's sleeping.' (B:DHE1523)"
     },
     {
+        "categories": [
+            "1sg",
+            "nom",
+            "prs\"=msg",
+            "refl"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{1sg.nom} \\textsc{refl} son make.sleep-\\textsc{prs\"=msg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "REFL",
+            "son",
+            "make.sleep-PRS\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "<span class=\"sc\">refl</span>",
@@ -134,8 +217,14 @@
             "son",
             "make.sleep-\\textsc{prs\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma tee\u1e47\u00edi putr \\textbf{su(w)a-(y)\u00e1an-u}",
+        "srcwordsbare": [
+            "ma",
+            "tee\u1e47\u00edi",
+            "putr",
+            "su(w)a-(y)\u00e1an-u"
+        ],
         "srcwordshtml": [
             "ma",
             "tee\u1e47\u00edi",
@@ -151,8 +240,17 @@
         "trs": "I make my son sleep [I put my son to bed].' (B:DHE6695)"
     },
     {
+        "categories": [
+            "1sg",
+            "nom",
+            "pfv\"=msg"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{1sg.nom} laugh.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "laugh.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.nom</span>",
             "laugh.<span class=\"sc\">pfv\"=msg</span>"
@@ -161,8 +259,12 @@
             "\\textsc{1sg.nom}",
             "laugh.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ma \\textbf{hans\u00edl-u}",
+        "srcwordsbare": [
+            "ma",
+            "hans\u00edl-u"
+        ],
         "srcwordshtml": [
             "ma",
             "<span class=\"bf\">hans\u00edl-u</span>"
@@ -174,8 +276,21 @@
         "trs": "I laughed.' (A:PHN6002)"
     },
     {
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "f",
+            "gen",
+            "pfv"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{1sg.gen} \\textsc{3sg.acc} make.laugh.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "1sg.gen",
+            "3sg.acc",
+            "make.laugh.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1sg.gen</span>",
             "<span class=\"sc\">3sg.acc</span>",
@@ -186,8 +301,13 @@
             "\\textsc{3sg.acc}",
             "make.laugh.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "m\u00edi tas \\textbf{hans\u00e9el-i}",
+        "srcwordsbare": [
+            "m\u00edi",
+            "tas",
+            "hans\u00e9el-i"
+        ],
         "srcwordshtml": [
             "m\u00edi",
             "tas",
@@ -201,8 +321,19 @@
         "trs": "I made her laugh.' (A:HLE2546)"
     },
     {
+        "categories": [
+            "def",
+            "fpl",
+            "pfv\"=fpl"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{def} half-\\textsc{fpl} fearfully speak.\\textsc{pfv\"=fpl}",
+        "imtwordsbare": [
+            "DEF",
+            "half-FPL",
+            "fearfully",
+            "speak.PFV\"=FPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "half-<span class=\"sc\">fpl</span>",
@@ -215,8 +346,14 @@
             "fearfully",
             "speak.\\textsc{pfv\"=fpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se \u00e9e\u1e0d-im bh\u00edilam \\textbf{khon\u1e0d\u00edl-im}",
+        "srcwordsbare": [
+            "se",
+            "\u00e9e\u1e0d-im",
+            "bh\u00edilam",
+            "khon\u1e0d\u00edl-im"
+        ],
         "srcwordshtml": [
             "se",
             "\u00e9e\u1e0d-im",
@@ -232,8 +369,21 @@
         "trs": "The rest [the other half] of them [the women] spoke fearfully.' (A:BEZ022)"
     },
     {
+        "categories": [
+            "pfv\"=fpl",
+            "pl",
+            "refl",
+            "rem"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{rem} woman \\textsc{refl} daughter-\\textsc{pl} make.speak.\\textsc{pfv\"=fpl}",
+        "imtwordsbare": [
+            "REM",
+            "woman",
+            "REFL",
+            "daughter-PL",
+            "make.speak.PFV\"=FPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">rem</span>",
             "woman",
@@ -248,8 +398,15 @@
             "daughter-\\textsc{pl}",
             "make.speak.\\textsc{pfv\"=fpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ee\u1e5b\u00e9 k\u00fa\u1e5bi tee\u1e47\u00edi dhi-\u00e1 \\textbf{kho\u1e47\u1e0d\u00e9el\"=im}",
+        "srcwordsbare": [
+            "ee\u1e5b\u00e9",
+            "k\u00fa\u1e5bi",
+            "tee\u1e47\u00edi",
+            "dhi-\u00e1",
+            "kho\u1e47\u1e0d\u00e9el\"=im"
+        ],
         "srcwordshtml": [
             "ee\u1e5b\u00e9",
             "k\u00fa\u1e5bi",
@@ -267,8 +424,19 @@
         "trs": "That woman made her daughters speak.' (A:HLE2553)"
     },
     {
+        "categories": [
+            "1sg",
+            "nom",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "Jangul-\\textsc{obl} \\textsc{1sg.nom} beat.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "Jangul-OBL",
+            "1sg.nom",
+            "beat.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "Jangul-<span class=\"sc\">obl</span>",
             "<span class=\"sc\">1sg.nom</span>",
@@ -279,8 +447,13 @@
             "\\textsc{1sg.nom}",
             "beat.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u01f0aan\u0261ul-\u00e1 ma \\textbf{bhan\u01f0\u00f3ol-u}",
+        "srcwordsbare": [
+            "\u01f0aan\u0261ul-\u00e1",
+            "ma",
+            "bhan\u01f0\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "\u01f0aan\u0261ul-\u00e1",
             "ma",
@@ -294,8 +467,24 @@
         "trs": "Jangul beat me.' (A:HUA120)"
     },
     {
+        "categories": [
+            "1pl",
+            "3sg",
+            "acc",
+            "caus",
+            "manip",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{3sg.obl} \\textsc{1pl.acc} \\textsc{manip} dog beat-\\textsc{caus.pfv\"=msg}",
+        "imtwordsbare": [
+            "3sg.obl",
+            "1pl.acc",
+            "MANIP",
+            "dog",
+            "beat-caus.pfv\"=msg"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.obl</span>",
             "<span class=\"sc\">1pl.acc</span>",
@@ -310,8 +499,15 @@
             "dog",
             "beat-\\textsc{caus.pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "t\u00edi as\u00e1am \u1e63aawa\u00e1 ku\u010d\u00faru \\textbf{bhan\u01f0a-w\u00f3ol-u}",
+        "srcwordsbare": [
+            "t\u00edi",
+            "as\u00e1am",
+            "\u1e63aawa\u00e1",
+            "ku\u010d\u00faru",
+            "bhan\u01f0a-w\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "t\u00edi",
             "as\u00e1am",
@@ -329,8 +525,30 @@
         "trs": "She/He made us beat the dog.' (A:HLE2527)"
     },
     {
+        "categories": [
+            "3pl",
+            "3sg",
+            "acc",
+            "caus\"=prs\"=msg",
+            "obl",
+            "prox",
+            "prs\"=msg",
+            "quot"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{3sg.prox.obl} in water be.\\textsc{prs\"=msg} Chinarom \\textsc{3pl.prox.acc} water why.not drink-\\textsc{caus\"=prs\"=msg} \\textsc{quot}",
+        "imtwordsbare": [
+            "3sg.prox.obl",
+            "in",
+            "water",
+            "be.PRS\"=MSG",
+            "Chinarom",
+            "3pl.prox.acc",
+            "water",
+            "why.not",
+            "drink-CAUS\"=PRS\"=MSG",
+            "QUOT"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.prox.obl</span>",
             "in",
@@ -355,8 +573,20 @@
             "drink-\\textsc{caus\"=prs\"=msg}",
             "\\textsc{quot}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "an\u00edi w\u00e9e w\u00edi h\u00edn-u \u010dinaar\u00f3om aninia\u00e1m w\u00edi ke\u00e9na \\textbf{pil-a-\u00e1an-u} than\u00ed",
+        "srcwordsbare": [
+            "an\u00edi",
+            "w\u00e9e",
+            "w\u00edi",
+            "h\u00edn-u",
+            "\u010dinaar\u00f3om",
+            "aninia\u00e1m",
+            "w\u00edi",
+            "ke\u00e9na",
+            "pil-a-\u00e1an-u",
+            "than\u00ed"
+        ],
         "srcwordshtml": [
             "an\u00edi",
             "w\u00e9e",
@@ -384,8 +614,22 @@
         "trs": " ``Here is water, why not have them [the goats] drink in Chinarom'', he said.' (A:PAS070)"
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "pfv\"=msg",
+            "pptc\"=gen"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "Qadim down give.\\textsc{pptc\"=gen} after \\textsc{3sg.acc} bury.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "Qadim",
+            "down",
+            "give.PPTC\"=GEN",
+            "after",
+            "3sg.acc",
+            "bury.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "Qadim",
             "down",
@@ -402,8 +646,16 @@
             "\\textsc{3sg.acc}",
             "bury.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "qad\u00edm \u1e6d\u00f3pa d\u00edt-ii pah\u00farta tas \\textbf{\u1e0dhan\u0261\u00f3ol-u}",
+        "srcwordsbare": [
+            "qad\u00edm",
+            "\u1e6d\u00f3pa",
+            "d\u00edt-ii",
+            "pah\u00farta",
+            "tas",
+            "\u1e0dhan\u0261\u00f3ol-u"
+        ],
         "srcwordshtml": [
             "qad\u00edm",
             "\u1e6d\u00f3pa",
@@ -423,8 +675,29 @@
         "trs": "After he had knocked down Qadim, he buried him.' (A:SHA037)"
     },
     {
+        "categories": [
+            "1sg",
+            "3fsg",
+            "f",
+            "gen",
+            "nom",
+            "obl",
+            "pfv",
+            "pl",
+            "top"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "eight=twenty-\\textsc{pl} year-\\textsc{pl} after \\textsc{1sg.gen} hand-\\textsc{obl} \\textsc{top} \\textsc{3fsg.nom} be.buried.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "eight=twenty-PL",
+            "year-PL",
+            "after",
+            "1sg.gen",
+            "hand-OBL",
+            "TOP",
+            "3fsg.nom",
+            "be.buried.pfv-f"
+        ],
         "imtwordshtml": [
             "eight=twenty-<span class=\"sc\">pl</span>",
             "year-<span class=\"sc\">pl</span>",
@@ -445,8 +718,18 @@
             "\\textsc{3fsg.nom}",
             "be.buried.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "aa\u1e63\u1e6d=bhi\u0161-\u00e1 kaal-\u00e1 pah\u00farta m\u00edi h\u00e1at-a ba se  \\textbf{\u1e0dhan\u0261i\u01f0\u00edl-i}",
+        "srcwordsbare": [
+            "aa\u1e63\u1e6d=bhi\u0161-\u00e1",
+            "kaal-\u00e1",
+            "pah\u00farta",
+            "m\u00edi",
+            "h\u00e1at-a",
+            "ba",
+            "se",
+            "\u1e0dhan\u0261i\u01f0\u00edl-i"
+        ],
         "srcwordshtml": [
             "aa\u1e63\u1e6d=bhi\u0161-\u00e1",
             "kaal-\u00e1",
@@ -470,8 +753,26 @@
         "trs": "160 years later she was buried by my hand.' (A:PAS133)"
     },
     {
+        "categories": [
+            "3pl",
+            "3sg",
+            "acc",
+            "ob",
+            "pfv\"=mpl",
+            "pl",
+            "prs\"=mpl"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{3sg.ob} {} \\textsc{3pl.acc} much-\\textsc{pl} narrow do.\\textsc{pfv\"=mpl} be.\\textsc{prs\"=mpl}",
+        "imtwordsbare": [
+            "3sg.ob",
+            "{}",
+            "3pl.acc",
+            "much-PL",
+            "narrow",
+            "do.PFV\"=MPL",
+            "be.PRS\"=MPL"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">3sg.ob</span>",
             "{}",
@@ -490,8 +791,17 @@
             "do.\\textsc{pfv\"=mpl}",
             "be.\\textsc{prs\"=mpl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ti\u0301i /{\\ldots}/ tana\u00e1m b\u00edi\u1e0d-a \\textbf{tan\u0261} \\textbf{th\u00edil-a} \\textbf{h\u00edn-a}",
+        "srcwordsbare": [
+            "ti\u0301i",
+            "/{\\ldots}/",
+            "tana\u00e1m",
+            "b\u00edi\u1e0d-a",
+            "tan\u0261",
+            "th\u00edil-a",
+            "h\u00edn-a"
+        ],
         "srcwordshtml": [
             "ti\u0301i",
             "/{\\ldots}/",
@@ -513,8 +823,23 @@
         "trs": "He has troubled them a~lot.' (A:KIN003)"
     },
     {
+        "categories": [
+            "def",
+            "f",
+            "obl",
+            "pfv"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{def} girl \\textsc{def} Machoke-\\textsc{obl} to  love become.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "DEF",
+            "girl",
+            "DEF",
+            "Machoke-OBL",
+            "to",
+            "love",
+            "become.pfv-f"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">def</span>",
             "girl",
@@ -533,8 +858,17 @@
             "love",
             "become.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "se pha\u00ed se mac\u0323hook-\u00e1 the \\textbf{a\u0161\u00e1q} \\textbf{bh\u00edl-i}",
+        "srcwordsbare": [
+            "se",
+            "pha\u00ed",
+            "se",
+            "mac\u0323hook-\u00e1",
+            "the",
+            "a\u0161\u00e1q",
+            "bh\u00edl-i"
+        ],
         "srcwordshtml": [
             "se",
             "pha\u00ed",
@@ -556,8 +890,22 @@
         "trs": "The girl fell in love with this Machoke.' (A:MAA005)"
     },
     {
+        "categories": [
+            "1",
+            "1pl",
+            "nom",
+            "pl",
+            "refl"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "\\textsc{1}\\textsc{pl.nom} \\textsc{refl} inside council do-\\textsc{1pl}",
+        "imtwordsbare": [
+            "1{1}1{pl.nom}",
+            "1{refl}",
+            "inside",
+            "council",
+            "do-1{1pl}"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">1</span><span class=\"sc\">pl.nom</span>",
             "<span class=\"sc\">refl</span>",
@@ -572,8 +920,15 @@
             "council",
             "do-\\textsc{1pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "be tee\u1e47\u00edi ma\u01f0\u00ed \\textbf{\u01f0ar\u0261\u00e1} \\textbf{th-\u00edia}",
+        "srcwordsbare": [
+            "be",
+            "tee\u1e47\u00edi",
+            "ma\u01f0\u00ed",
+            "\u01f0ar\u0261\u00e1",
+            "th-\u00edia"
+        ],
         "srcwordshtml": [
             "be",
             "tee\u1e47\u00edi",
@@ -591,8 +946,22 @@
         "trs": "We will discuss it among ourselves.' (A:MAR015)"
     },
     {
+        "categories": [
+            "3pl",
+            "cntr",
+            "obl\"=gen",
+            "pl"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "woman.\\textsc{pl} \\textsc{cntr} drum-\\textsc{pl.obl\"=gen} beat-\\textsc{3pl} song-\\textsc{pl} give-\\textsc{3pl}",
+        "imtwordsbare": [
+            "woman.PL",
+            "CNTR",
+            "drum-pl.obl\"=gen",
+            "beat-3PL",
+            "song-PL",
+            "give-3PL"
+        ],
         "imtwordshtml": [
             "woman.<span class=\"sc\">pl</span>",
             "<span class=\"sc\">cntr</span>",
@@ -609,8 +978,16 @@
             "song-\\textsc{pl}",
             "give-\\textsc{3pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "ku\u1e5b\u00edina ta t\u00e1mbul\"=am\"=ii \u01f0-\u00edin \\textbf{rhoo-a\u0301} \\textbf{d-\u00edin}",
+        "srcwordsbare": [
+            "ku\u1e5b\u00edina",
+            "ta",
+            "t\u00e1mbul\"=am\"=ii",
+            "\u01f0-\u00edin",
+            "rhoo-a\u0301",
+            "d-\u00edin"
+        ],
         "srcwordshtml": [
             "ku\u1e5b\u00edina",
             "ta",
@@ -630,8 +1007,27 @@
         "trs": "The women were beating the drums and singing.' (A:JAN034)"
     },
     {
+        "categories": [
+            "1pl",
+            "f",
+            "gen",
+            "obl",
+            "pfv",
+            "pl"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "Dir-\\textsc{gen} people-\\textsc{pl.obl} invitation give.\\textsc{pfv-f} Ashreti-\\textsc{pl.obl} to that contest do-\\textsc{1pl}",
+        "imtwordsbare": [
+            "Dir-GEN",
+            "people-pl.obl",
+            "invitation",
+            "give.pfv-f",
+            "Ashreti-pl.obl",
+            "to",
+            "that",
+            "contest",
+            "do-1PL"
+        ],
         "imtwordshtml": [
             "Dir-<span class=\"sc\">gen</span>",
             "people-<span class=\"sc\">pl.obl</span>",
@@ -654,8 +1050,19 @@
             "contest",
             "do-\\textsc{1pl}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "dee\u00fal-ii x\u00e1lak\"=am \\textbf{daaw\u00e1t} \\textbf{d\u00edt-i} atshar\u00edit\"=am the ki \\textbf{muqaabil\u00e1} \\textbf{th-\u00edia}",
+        "srcwordsbare": [
+            "dee\u00fal-ii",
+            "x\u00e1lak\"=am",
+            "daaw\u00e1t",
+            "d\u00edt-i",
+            "atshar\u00edit\"=am",
+            "the",
+            "ki",
+            "muqaabil\u00e1",
+            "th-\u00edia"
+        ],
         "srcwordshtml": [
             "dee\u00fal-ii",
             "x\u00e1lak\"=am",
@@ -681,8 +1088,21 @@
         "trs": "The people from Dir invited the the Ashreti people to have a competition with them.' (A:CHA001)"
     },
     {
+        "categories": [
+            "obl",
+            "pfv\"=f",
+            "pst"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "Chitral-\\textsc{obl} to also phone do.\\textsc{pfv\"=f} \\textsc{pst}",
+        "imtwordsbare": [
+            "Chitral-OBL",
+            "to",
+            "also",
+            "phone",
+            "do.PFV\"=F",
+            "PST"
+        ],
         "imtwordshtml": [
             "Chitral-<span class=\"sc\">obl</span>",
             "to",
@@ -699,8 +1119,16 @@
             "do.\\textsc{pfv\"=f}",
             "\\textsc{pst}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "c\u0323hatr\u00f3ol-a the bi \\textbf{fu\u00fa\u1e47} \\textbf{th\u00edil-i} de",
+        "srcwordsbare": [
+            "c\u0323hatr\u00f3ol-a",
+            "the",
+            "bi",
+            "fu\u00fa\u1e47",
+            "th\u00edil-i",
+            "de"
+        ],
         "srcwordshtml": [
             "c\u0323hatr\u00f3ol-a",
             "the",
@@ -720,8 +1148,29 @@
         "trs": "I also phoned Chitral.' (A:CHN070403)"
     },
     {
+        "categories": [
+            "f",
+            "gen",
+            "neg",
+            "pfv",
+            "pl",
+            "prs"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "four night-\\textsc{pl} airplane-\\textsc{gen} flight \\textsc{neg} become.\\textsc{pfv-f}  be.\\textsc{prs-f} today also cancelled become.\\textsc{pfv-f}",
+        "imtwordsbare": [
+            "four",
+            "night-PL",
+            "airplane-GEN",
+            "flight",
+            "NEG",
+            "become.pfv-f",
+            "be.prs-f",
+            "today",
+            "also",
+            "cancelled",
+            "become.pfv-f"
+        ],
         "imtwordshtml": [
             "four",
             "night-<span class=\"sc\">pl</span>",
@@ -748,8 +1197,21 @@
             "cancelled",
             "become.\\textsc{pfv-f}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "\u010d\u00faur reet-\u00ed \u01f0heez-\u00edi fl\u00e1i\u1e6d na bh\u00edl-i  h\u00edn-i a\u00e1\u01f0 bi \\textbf{kans\u00e1l} \\textbf{bh\u00edl-i}",
+        "srcwordsbare": [
+            "\u010d\u00faur",
+            "reet-\u00ed",
+            "\u01f0heez-\u00edi",
+            "fl\u00e1i\u1e6d",
+            "na",
+            "bh\u00edl-i",
+            "h\u00edn-i",
+            "a\u00e1\u01f0",
+            "bi",
+            "kans\u00e1l",
+            "bh\u00edl-i"
+        ],
         "srcwordshtml": [
             "\u010d\u00faur",
             "reet-\u00ed",
@@ -779,8 +1241,20 @@
         "trs": "There have been no flights for four days, and also today it was cancelled.' (A:CHN070110)"
     },
     {
+        "categories": [
+            "cv",
+            "pfv\"=msg",
+            "top"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "down get.down.\\textsc{cv} \\textsc{top} flee-\\textsc{cv} get.down.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "down",
+            "get.down.CV",
+            "TOP",
+            "flee-CV",
+            "get.down.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "down",
             "get.down.<span class=\"sc\">cv</span>",
@@ -795,8 +1269,15 @@
             "flee-\\textsc{cv}",
             "get.down.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "bhun wha\u00ed ba \\textbf{u\u1e0dheew-\u00ed} \\textbf{wh\u00e1at-u}",
+        "srcwordsbare": [
+            "bhun",
+            "wha\u00ed",
+            "ba",
+            "u\u1e0dheew-\u00ed",
+            "wh\u00e1at-u"
+        ],
         "srcwordshtml": [
             "bhun",
             "wha\u00ed",
@@ -814,8 +1295,24 @@
         "trs": "He got down [from the tree] and escaped [downhill].' (B:CLE377)"
     },
     {
+        "categories": [
+            "cv",
+            "def",
+            "obl",
+            "pfv\"=msg"
+        ],
         "filename": "82/08Verbs.tex",
         "imt": "tree-\\textsc{obl} with \\textsc{def} lion sir {} tie-\\textsc{cv} throw.\\textsc{pfv\"=msg}",
+        "imtwordsbare": [
+            "tree-OBL",
+            "with",
+            "DEF",
+            "lion",
+            "sir",
+            "{}",
+            "tie-CV",
+            "throw.PFV\"=MSG"
+        ],
         "imtwordshtml": [
             "tree-<span class=\"sc\">obl</span>",
             "with",
@@ -836,8 +1333,18 @@
             "tie-\\textsc{cv}",
             "throw.\\textsc{pfv\"=msg}"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "mu\u1e6d-\u00e1 san\u0261\u00ed so amzar\u00e1i se\u00e9b /{\\ldots}/ \\textbf{\u0261ha\u1e47\u1e0d-\u00ed} \\textbf{\u0261ai\u0301l-u}",
+        "srcwordsbare": [
+            "mu\u1e6d-\u00e1",
+            "san\u0261\u00ed",
+            "so",
+            "amzar\u00e1i",
+            "se\u00e9b",
+            "/{\\ldots}/",
+            "\u0261ha\u1e47\u1e0d-\u00ed",
+            "\u0261ai\u0301l-u"
+        ],
         "srcwordshtml": [
             "mu\u1e6d-\u00e1",
             "san\u0261\u00ed",

@@ -1,7 +1,28 @@
 [
     {
+        "categories": [],
         "filename": "78/14.tex",
         "imt": "\\textstyleChSmallCaps{1sg} have.to give eat \\textstyleChSmallCaps{3sg} so.that \\textstyleChSmallCaps{3sg} know \\textstyleChSmallCaps{1sg} more   near so.that \\textstyleChSmallCaps{3sg} be.able know \\textstyleChSmallCaps{1sg} \\textstyleChSmallCaps{poss} name",
+        "imtwordsbare": [
+            "1sg",
+            "have.to",
+            "give",
+            "eat",
+            "3sg",
+            "so.that",
+            "3sg",
+            "know",
+            "1sg",
+            "more",
+            "near",
+            "so.that",
+            "3sg",
+            "be.able",
+            "know",
+            "1sg",
+            "poss",
+            "name"
+        ],
         "imtwordshtml": [
             "<span class=\"styleChSmallCaps\">1sg</span>",
             "have.to",
@@ -42,8 +63,28 @@
             "\\textstyleChSmallCaps{poss}",
             "name"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "saya harus kas makang dia, \\textstyleChBlueBold{supaya} dia kenal saya lebi   dekat, \\textstyleChBlueBold{supaya} de bisa taw saya punya nama",
+        "srcwordsbare": [
+            "saya",
+            "harus",
+            "kas",
+            "makang",
+            "dia,",
+            "supaya",
+            "dia",
+            "kenal",
+            "saya",
+            "lebi",
+            "dekat,",
+            "supaya",
+            "de",
+            "bisa",
+            "taw",
+            "saya",
+            "punya",
+            "nama"
+        ],
         "srcwordshtml": [
             "saya",
             "harus",
@@ -87,8 +128,24 @@
         "trs": "I have to give him/her food \\textstyleChBlueBold{so that} he/she can know me better, \\textstyleChBlueBold{so that} he/she can know my name\u2019 \\textstyleExampleSource{[080919-004-NP.0079]}"
     },
     {
+        "categories": [
+            "1sg",
+            "rdp"
+        ],
         "filename": "78/14.tex",
         "imt": "{time} \\textsc{1sg} {\\ldots} {stay} {at} {village} \\textsc{1sg} {work} {similar.to} {\\textsc{rdp}{\\Tilde}husband}",
+        "imtwordsbare": [
+            "{time}",
+            "1SG",
+            "{\\ldots}",
+            "{stay}",
+            "{at}",
+            "{village}",
+            "1SG",
+            "{work}",
+            "{similar.to}",
+            "{RDP{\\Tilde}husband}"
+        ],
         "imtwordshtml": [
             "{time}",
             "<span class=\"sc\">1sg</span>",
@@ -113,8 +170,20 @@
             "{similar.to}",
             "{\\textsc{rdp}{\\Tilde}husband}"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "\\bluebold{waktu} {saya} {\\ldots} {tinggal} {di} {kampung} {sa} {kerja} {sperti} {laki{\\Tilde}laki}",
+        "srcwordsbare": [
+            "\\bluebold{waktu}",
+            "{saya}",
+            "{\\ldots}",
+            "{tinggal}",
+            "{di}",
+            "{kampung}",
+            "{sa}",
+            "{kerja}",
+            "{sperti}",
+            "{laki{\\Tilde}laki}"
+        ],
         "srcwordshtml": [
             "\\bluebold{waktu}",
             "{saya}",
@@ -142,8 +211,23 @@
         "trs": "\\bluebold{when} I {\\ldots} lived in the village, I worked like a man\u2019 (Lit. \u2018\\bluebold{(at that) time}\u2019) [081014-007-Pr.0048]"
     },
     {
+        "categories": [
+            "3sg",
+            "poss"
+        ],
         "filename": "78/14.tex",
         "imt": "and.then  Pawlus  \\textsc{3sg}  lean  at  \\textsc{3sg}  \\textsc{poss}  body  like.this",
+        "imtwordsbare": [
+            "and.then",
+            "Pawlus",
+            "3SG",
+            "lean",
+            "at",
+            "3SG",
+            "POSS",
+            "body",
+            "like.this"
+        ],
         "imtwordshtml": [
             "and.then",
             "Pawlus",
@@ -166,8 +250,19 @@
             "body",
             "like.this"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "\\bluebold{baru}  Pawlus  de\\textsubscript{j}  sandar  di  de\\textsubscript{i}  pu  badang  begini,",
+        "srcwordsbare": [
+            "\\bluebold{baru}",
+            "Pawlus",
+            "dej",
+            "sandar",
+            "di",
+            "dei",
+            "pu",
+            "badang",
+            "begini,"
+        ],
         "srcwordshtml": [
             "\\bluebold{baru}",
             "Pawlus",
@@ -193,8 +288,23 @@
         "trs": "\\bluebold{but then} Pawlus was leaning against her body like this"
     },
     {
+        "categories": [],
         "filename": "78/14.tex",
         "imt": "and.then  \\textstyleChSmallCaps{3sg}  give  break  neck  to  bottom  at  top   \\textstyleChSmallCaps{3sg}  \\textstyleChSmallCaps{poss}  shoulder",
+        "imtwordsbare": [
+            "and.then",
+            "3sg",
+            "give",
+            "break",
+            "neck",
+            "to",
+            "bottom",
+            "at",
+            "top",
+            "3sg",
+            "poss",
+            "shoulder"
+        ],
         "imtwordshtml": [
             "and.then",
             "<span class=\"styleChSmallCaps\">3sg</span>",
@@ -223,8 +333,22 @@
             "\\textstyleChSmallCaps{poss}",
             "shoulder"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "\\textstyleChBlueBold{baru}  de\\textsubscript{j}  kas  pata  leher  ke  bawa  di  atas de\\textsubscript{i}  pu  bahu",
+        "srcwordsbare": [
+            "baru",
+            "dej",
+            "kas",
+            "pata",
+            "leher",
+            "ke",
+            "bawa",
+            "di",
+            "atas",
+            "dei",
+            "pu",
+            "bahu"
+        ],
         "srcwordshtml": [
             "<span class=\"styleChBlueBold\">baru</span>",
             "de<span class=\"subscript\">j</span>",
@@ -256,8 +380,18 @@
         "trs": "\\textstyleChBlueBold{and then} he bent his neck down onto her shoulder\u2019 (Lit. \u2018give to break neck\u2019) \\textstyleExampleSource{[080916-001-CvNP.0005-0006]}"
     },
     {
+        "categories": [
+            "1sg"
+        ],
         "filename": "78/14.tex",
         "imt": "{}   yes  after.all  \\textsc{1sg}  fail",
+        "imtwordsbare": [
+            "{}",
+            "yes",
+            "after.all",
+            "1SG",
+            "fail"
+        ],
         "imtwordshtml": [
             "{}",
             "yes",
@@ -272,8 +406,15 @@
             "\\textsc{1sg}",
             "fail"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "{Speaker-2:}  yo,  \\bluebold{habis}  sa  gagal",
+        "srcwordsbare": [
+            "{Speaker-2:}",
+            "yo,",
+            "\\bluebold{habis}",
+            "sa",
+            "gagal"
+        ],
         "srcwordshtml": [
             "{Speaker-2:}",
             "yo,",
@@ -291,8 +432,22 @@
         "trs": "Speaker-2: \u2018yes, \\bluebold{after all}, I failed (the last exams)\u2019 \\textstyleExampleSource{[080922-001a-CvPh.0965-0966]}"
     },
     {
+        "categories": [
+            "rdp",
+            "rel"
+        ],
         "filename": "78/14.tex",
         "imt": "{} {} \\textsc{rel}  \\textsc{rdp}{\\Tilde}be.small  {} {}    \\textsc{rel}  \\textsc{rdp}{\\Tilde}be.diligent",
+        "imtwordsbare": [
+            "{}",
+            "{}",
+            "REL",
+            "RDP{\\Tilde}be.small",
+            "{}",
+            "{}",
+            "REL",
+            "RDP{\\Tilde}be.diligent"
+        ],
         "imtwordshtml": [
             "{}",
             "{}",
@@ -313,8 +468,18 @@
             "\\textsc{rel}",
             "\\textsc{rdp}{\\Tilde}be.diligent"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "{Speaker-2:}  {\\bluebold{\u00d8}}  \\bluebold{yang}  kecil{\\Tilde}kecil  {\\ldots}  {\\bluebold{\u00d8}}  \\bluebold{yang}  rajing{\\Tilde}rajing",
+        "srcwordsbare": [
+            "{Speaker-2:}",
+            "{\\bluebold{\u00d8}}",
+            "\\bluebold{yang}",
+            "kecil{\\Tilde}kecil",
+            "{\\ldots}",
+            "{\\bluebold{\u00d8}}",
+            "\\bluebold{yang}",
+            "rajing{\\Tilde}rajing"
+        ],
         "srcwordshtml": [
             "{Speaker-2:}",
             "{\\bluebold{\u00d8}}",

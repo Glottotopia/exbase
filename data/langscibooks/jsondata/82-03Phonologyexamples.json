@@ -1,7 +1,13 @@
 [
     {
+        "categories": [],
         "filename": "82/03Phonology.tex",
         "imt": "/de\u02d0ni/ -- /de\u02d0\u0273i/",
+        "imtwordsbare": [
+            "/de\u02d0ni/",
+            "--",
+            "/de\u02d0\u0273i/"
+        ],
         "imtwordshtml": [
             "/de\u02d0ni/",
             "--",
@@ -12,8 +18,13 @@
             "--",
             "/de\u02d0\u0273i/"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "d\u00e9eni -- d\u00e9e\u1e47i",
+        "srcwordsbare": [
+            "d\u00e9eni",
+            "--",
+            "d\u00e9e\u1e47i"
+        ],
         "srcwordshtml": [
             "d\u00e9eni",
             "--",
@@ -27,8 +38,14 @@
         "trs": "is giving'~-- `calf (of the leg)"
     },
     {
+        "categories": [],
         "filename": "82/03Phonology.tex",
         "imt": "/kan/ -- /ka\u0273/",
+        "imtwordsbare": [
+            "/kan/",
+            "--",
+            "/ka\u0273/"
+        ],
         "imtwordshtml": [
             "/kan/",
             "--",
@@ -39,8 +56,13 @@
             "--",
             "/ka\u0273/"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "kan -- ka\u1e47",
+        "srcwordsbare": [
+            "kan",
+            "--",
+            "ka\u1e47"
+        ],
         "srcwordshtml": [
             "kan",
             "--",
@@ -54,16 +76,23 @@
         "trs": "shoulder'~-- `ear' (B)"
     },
     {
+        "categories": [],
         "filename": "82/03Phonology.tex",
         "imt": "/lo/$\\sim${}/\u027do/",
+        "imtwordsbare": [
+            "/lo/$\\sim${}/\u027do/"
+        ],
         "imtwordshtml": [
             "/lo/$\\sim${}/\u027do/"
         ],
         "imtwordstex": [
             "/lo/$\\sim${}/\u027do/"
         ],
-        "language": "Palula",
+        "language": "Rapa Nui",
         "src": "lo$\\sim${}\u1e5bo",
+        "srcwordsbare": [
+            "lo$\\sim${}\u1e5bo"
+        ],
         "srcwordshtml": [
             "lo$\\sim${}\u1e5bo"
         ],

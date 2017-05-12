@@ -1,7 +1,13 @@
 [
     {
+        "categories": [],
         "filename": "78/01.tex",
         "imt": "war ethnic.group again",
+        "imtwordsbare": [
+            "war",
+            "ethnic.group",
+            "again"
+        ],
         "imtwordshtml": [
             "war",
             "ethnic.group",
@@ -12,8 +18,13 @@
             "ethnic.group",
             "again"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "prang suku lagi",
+        "srcwordsbare": [
+            "prang",
+            "suku",
+            "lagi"
+        ],
         "srcwordshtml": [
             "prang",
             "suku",
@@ -25,5 +36,43 @@
             "lagi"
         ],
         "trs": "\\squarebrackets{About giving children to one\u2019s enemy:}\\\\"
+    },
+    {
+        "categories": [],
+        "filename": "78/01.tex",
+        "imt": "want {give} {knife}",
+        "imtwordsbare": [
+            "want",
+            "{give}",
+            "{knife}"
+        ],
+        "imtwordshtml": [
+            "want",
+            "{give}",
+            "{knife}"
+        ],
+        "imtwordstex": [
+            "want",
+            "{give}",
+            "{knife}"
+        ],
+        "language": "Rapa Nui",
+        "src": "mo {kasi} {pisow}",
+        "srcwordsbare": [
+            "mo",
+            "{kasi}",
+            "{pisow}"
+        ],
+        "srcwordshtml": [
+            "mo",
+            "{kasi}",
+            "{pisow}"
+        ],
+        "srcwordstex": [
+            "mo",
+            "{kasi}",
+            "{pisow}"
+        ],
+        "trs": "now they \\bluebold{give} him \\bluebold{a flashlight}, (having) \\bluebold{given} (him) \\bluebold{a flashlight}, they want to give (him) a knife\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}"
     }
 ]

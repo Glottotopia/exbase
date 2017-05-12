@@ -1,7 +1,21 @@
 [
     {
+        "categories": [
+            "d",
+            "poss",
+            "prox"
+        ],
         "filename": "78/08.tex",
         "imt": "[[all] child [\\textsc{d.prox}]] \\textsc{poss} duty already finish",
+        "imtwordsbare": [
+            "[[all]",
+            "child",
+            "[d.prox]]",
+            "POSS",
+            "duty",
+            "already",
+            "finish"
+        ],
         "imtwordshtml": [
             "[[all]",
             "child",
@@ -20,8 +34,17 @@
             "already",
             "finish"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "\\bluebold{smua} \\bluebold{ana} \\bluebold{ini} pu tugas su selesay",
+        "srcwordsbare": [
+            "\\bluebold{smua}",
+            "\\bluebold{ana}",
+            "\\bluebold{ini}",
+            "pu",
+            "tugas",
+            "su",
+            "selesay"
+        ],
         "srcwordshtml": [
             "\\bluebold{smua}",
             "\\bluebold{ana}",
@@ -41,5 +64,338 @@
             "selesay"
         ],
         "trs": "the duties of all these children are already taken care of\u2019 [Elicited ME151120.002]"
+    },
+    {
+        "categories": [],
+        "filename": "78/08.tex",
+        "imt": "{cloth}  {be.white}  {with}  {be.black}",
+        "imtwordsbare": [
+            "{cloth}",
+            "{be.white}",
+            "{with}",
+            "{be.black}"
+        ],
+        "imtwordshtml": [
+            "{cloth}",
+            "{be.white}",
+            "{with}",
+            "{be.black}"
+        ],
+        "imtwordstex": [
+            "{cloth}",
+            "{be.white}",
+            "{with}",
+            "{be.black}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{[[\\bluebold{kaing}]}  {[\\bluebold{puti}}  {\\bluebold{dengang}}  {\\bluebold{hitam}]]}",
+        "srcwordsbare": [
+            "{[[\\bluebold{kaing}]}",
+            "{[\\bluebold{puti}}",
+            "{\\bluebold{dengang}}",
+            "{\\bluebold{hitam}]]}"
+        ],
+        "srcwordshtml": [
+            "{[[\\bluebold{kaing}]}",
+            "{[\\bluebold{puti}}",
+            "{\\bluebold{dengang}}",
+            "{\\bluebold{hitam}]]}"
+        ],
+        "srcwordstex": [
+            "{[[\\bluebold{kaing}]}",
+            "{[\\bluebold{puti}}",
+            "{\\bluebold{dengang}}",
+            "{\\bluebold{hitam}]]}"
+        ],
+        "trs": "my father buried my grandfather\u2019s \\bluebold{white and black cloth}\u2019 \\textstyleExampleSource{[081014-014-NP.0047]}"
+    },
+    {
+        "categories": [],
+        "filename": "78/08.tex",
+        "imt": "{cloth}  {be.black}  {be.white}",
+        "imtwordsbare": [
+            "{cloth}",
+            "{be.black}",
+            "{be.white}"
+        ],
+        "imtwordshtml": [
+            "{cloth}",
+            "{be.black}",
+            "{be.white}"
+        ],
+        "imtwordstex": [
+            "{cloth}",
+            "{be.black}",
+            "{be.white}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{[[\\bluebold{kaing}]}  {[\\bluebold{hitam}}  {\\bluebold{puti}]]}",
+        "srcwordsbare": [
+            "{[[\\bluebold{kaing}]}",
+            "{[\\bluebold{hitam}}",
+            "{\\bluebold{puti}]]}"
+        ],
+        "srcwordshtml": [
+            "{[[\\bluebold{kaing}]}",
+            "{[\\bluebold{hitam}}",
+            "{\\bluebold{puti}]]}"
+        ],
+        "srcwordstex": [
+            "{[[\\bluebold{kaing}]}",
+            "{[\\bluebold{hitam}}",
+            "{\\bluebold{puti}]]}"
+        ],
+        "trs": "my father buried my grandfather\u2019s \\bluebold{white (and) black cloth}\u2019 \\textstyleExampleSource{[Elicited BR130221.036]}\\footnote{According to one consultant, Papuan Malay speakers prefer \\textitbf{hitam puti} \u2018black (and) white\u2019 over \\textitbf{puti hitam} \u2018white (and) black\u2019, although both constructions are acceptable.}"
+    },
+    {
+        "categories": [],
+        "filename": "78/08.tex",
+        "imt": "five  {year}  {to}  bottom  {until}  {two}  {month}",
+        "imtwordsbare": [
+            "five",
+            "{year}",
+            "{to}",
+            "bottom",
+            "{until}",
+            "{two}",
+            "{month}"
+        ],
+        "imtwordshtml": [
+            "five",
+            "{year}",
+            "{to}",
+            "bottom",
+            "{until}",
+            "{two}",
+            "{month}"
+        ],
+        "imtwordstex": [
+            "five",
+            "{year}",
+            "{to}",
+            "bottom",
+            "{until}",
+            "{two}",
+            "{month}"
+        ],
+        "language": "Rapa Nui",
+        "src": "\\bluebold{lima}  {\\bluebold{taung}}  {ke}  bawa  {sampe}  {\\bluebold{dua}}  {\\bluebold{bulang}}",
+        "srcwordsbare": [
+            "\\bluebold{lima}",
+            "{\\bluebold{taung}}",
+            "{ke}",
+            "bawa",
+            "{sampe}",
+            "{\\bluebold{dua}}",
+            "{\\bluebold{bulang}}"
+        ],
+        "srcwordshtml": [
+            "\\bluebold{lima}",
+            "{\\bluebold{taung}}",
+            "{ke}",
+            "bawa",
+            "{sampe}",
+            "{\\bluebold{dua}}",
+            "{\\bluebold{bulang}}"
+        ],
+        "srcwordstex": [
+            "\\bluebold{lima}",
+            "{\\bluebold{taung}}",
+            "{ke}",
+            "bawa",
+            "{sampe}",
+            "{\\bluebold{dua}}",
+            "{\\bluebold{bulang}}"
+        ],
+        "trs": "this is for children and babies who are \\bluebold{five years} down to \\bluebold{two months}\u2019 \\textstyleExampleSource{[081010-001-Cv.0197]}"
+    },
+    {
+        "categories": [],
+        "filename": "78/08.tex",
+        "imt": "{several}  {platoon}",
+        "imtwordsbare": [
+            "{several}",
+            "{platoon}"
+        ],
+        "imtwordshtml": [
+            "{several}",
+            "{platoon}"
+        ],
+        "imtwordstex": [
+            "{several}",
+            "{platoon}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{\\bluebold{brapa}}  {\\bluebold{pleton}}",
+        "srcwordsbare": [
+            "{\\bluebold{brapa}}",
+            "{\\bluebold{pleton}}"
+        ],
+        "srcwordshtml": [
+            "{\\bluebold{brapa}}",
+            "{\\bluebold{pleton}}"
+        ],
+        "srcwordstex": [
+            "{\\bluebold{brapa}}",
+            "{\\bluebold{pleton}}"
+        ],
+        "trs": "those soldiers were several hundred people, (they) were approximately \\bluebold{several platoons}\u2019 \\textstyleExampleSource{[081029-005-Cv.0131]}"
+    },
+    {
+        "categories": [
+            "d",
+            "prox"
+        ],
+        "filename": "78/08.tex",
+        "imt": "pay  bride.price  \\textsc{d.prox}  be.different  each  culture",
+        "imtwordsbare": [
+            "pay",
+            "bride.price",
+            "d.prox",
+            "be.different",
+            "each",
+            "culture"
+        ],
+        "imtwordshtml": [
+            "pay",
+            "bride.price",
+            "<span class=\"sc\">d.prox</span>",
+            "be.different",
+            "each",
+            "culture"
+        ],
+        "imtwordstex": [
+            "pay",
+            "bride.price",
+            "\\textsc{d.prox}",
+            "be.different",
+            "each",
+            "culture"
+        ],
+        "language": "Rapa Nui",
+        "src": "bayar  mas-kawing  ini  laing  \\bluebold{masing-masing}  \\bluebold{budaya}",
+        "srcwordsbare": [
+            "bayar",
+            "mas-kawing",
+            "ini",
+            "laing",
+            "\\bluebold{masing-masing}",
+            "\\bluebold{budaya}"
+        ],
+        "srcwordshtml": [
+            "bayar",
+            "mas-kawing",
+            "ini",
+            "laing",
+            "\\bluebold{masing-masing}",
+            "\\bluebold{budaya}"
+        ],
+        "srcwordstex": [
+            "bayar",
+            "mas-kawing",
+            "ini",
+            "laing",
+            "\\bluebold{masing-masing}",
+            "\\bluebold{budaya}"
+        ],
+        "trs": "paying this bride price is different (for) \\bluebold{each culture}\u2019 \\textstyleExampleSource{[081006-029-CvEx.0014]}"
+    },
+    {
+        "categories": [],
+        "filename": "78/08.tex",
+        "imt": "at  {group}  {each}  {like.that}",
+        "imtwordsbare": [
+            "at",
+            "{group}",
+            "{each}",
+            "{like.that}"
+        ],
+        "imtwordshtml": [
+            "at",
+            "{group}",
+            "{each}",
+            "{like.that}"
+        ],
+        "imtwordstex": [
+            "at",
+            "{group}",
+            "{each}",
+            "{like.that}"
+        ],
+        "language": "Rapa Nui",
+        "src": "di  {\\bluebold{klompok}}  {\\bluebold{masing-masing}}  {begitu}",
+        "srcwordsbare": [
+            "di",
+            "{\\bluebold{klompok}}",
+            "{\\bluebold{masing-masing}}",
+            "{begitu}"
+        ],
+        "srcwordshtml": [
+            "di",
+            "{\\bluebold{klompok}}",
+            "{\\bluebold{masing-masing}}",
+            "{begitu}"
+        ],
+        "srcwordstex": [
+            "di",
+            "{\\bluebold{klompok}}",
+            "{\\bluebold{masing-masing}}",
+            "{begitu}"
+        ],
+        "trs": "first they bring the sweet potatoes and vegetables (and) place the piles (of food) in (front of) \\bluebold{each group} like that\u2019 \\textstyleExampleSource{[Elicited BR111021.001]}\\footnote{The elicited example in (\\ref{Example_8.85}) is the corrected version of the original recording \\textitbf{tumpukang masing klompok masing-masing} \u2018pile each[\\textsc{tru}] group each\u2019 [081014-017-CvPr.0043]. That is, the speaker started off by saying \\textitbf{tumpukang masing-masing} but she corrected herself, resulting in the truncated \\isi{quantifier} \\textitbf{masing} \u2018each[\\textsc{tru}]\u2019 and the missing \\isi{locative} \\isi{preposition} \\textitbf{di} \u2018at\u2019.}"
+    },
+    {
+        "categories": [
+            "3pl",
+            "d",
+            "prox"
+        ],
+        "filename": "78/08.tex",
+        "imt": "{aunt}  {grandmother}  {\\textsc{d.prox}}  \\textsc{3pl}  {laugh}",
+        "imtwordsbare": [
+            "{aunt}",
+            "{grandmother}",
+            "{d.prox}",
+            "3PL",
+            "{laugh}"
+        ],
+        "imtwordshtml": [
+            "{aunt}",
+            "{grandmother}",
+            "{<span class=\"sc\">d.prox</span>}",
+            "<span class=\"sc\">3pl</span>",
+            "{laugh}"
+        ],
+        "imtwordstex": [
+            "{aunt}",
+            "{grandmother}",
+            "{\\textsc{d.prox}}",
+            "\\textsc{3pl}",
+            "{laugh}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{mama-tua,}  {nene}  {ini}  dong  {tertawa}",
+        "srcwordsbare": [
+            "{mama-tua,}",
+            "{nene}",
+            "{ini}",
+            "dong",
+            "{tertawa}"
+        ],
+        "srcwordshtml": [
+            "{mama-tua,}",
+            "{nene}",
+            "{ini}",
+            "dong",
+            "{tertawa}"
+        ],
+        "srcwordstex": [
+            "{mama-tua,}",
+            "{nene}",
+            "{ini}",
+            "dong",
+            "{tertawa}"
+        ],
+        "trs": "uncle here (and) older sibling, \\bluebold{older sibling, Ms. Pastor}, and, what\u2019s-her-name, aunt, grandmother here, they were laughing\u2019 \\textstyleExampleSource{[080922-001a-CvPh.0824]}"
     }
 ]

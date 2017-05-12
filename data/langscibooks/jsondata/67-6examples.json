@@ -1,7 +1,23 @@
 [
     {
+        "categories": [
+            "acc",
+            "nps",
+            "pr",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3p.\\textsc{unm}  place  other  other  also  3p.\\textsc{acc}  tell-wander-\\textsc{nps}-\\textsc{pr}.1s truly",
+        "imtwordsbare": [
+            "3p.UNM",
+            "place",
+            "other",
+            "other",
+            "also",
+            "3p.ACC",
+            "tell-wander-NPS-PR.1s",
+            "truly"
+        ],
         "imtwordshtml": [
             "3p.<span class=\"sc\">unm</span>",
             "place",
@@ -22,8 +38,18 @@
             "tell-wander-\\textsc{nps}-\\textsc{pr}.1s",
             "truly"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Wi  owow  oko  oko  pun  wia  maake-miaw-i-yem \\textstyleEmphasizedVernacularWords{akena}.",
+        "srcwordsbare": [
+            "Wi",
+            "owow",
+            "oko",
+            "oko",
+            "pun",
+            "wia",
+            "maake-miaw-i-yem",
+            "akena."
+        ],
         "srcwordshtml": [
             "Wi",
             "owow",
@@ -47,8 +73,21 @@
         "trs": "I really walk around telling people in many other places too."
     },
     {
+        "categories": [
+            "nmz",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3p.\\textsc{unm}  3s.\\textsc{unm}  follow.him-\\textsc{nmz}  that1  not  able  truly",
+        "imtwordsbare": [
+            "3p.UNM",
+            "3s.UNM",
+            "follow.him-NMZ",
+            "that1",
+            "not",
+            "able",
+            "truly"
+        ],
         "imtwordshtml": [
             "3p.<span class=\"sc\">unm</span>",
             "3s.<span class=\"sc\">unm</span>",
@@ -67,8 +106,17 @@
             "able",
             "truly"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Wi  o  ook-owa  nain  me  pepek  \\textstyleEmphasizedVernacularWords{akena}.",
+        "srcwordsbare": [
+            "Wi",
+            "o",
+            "ook-owa",
+            "nain",
+            "me",
+            "pepek",
+            "akena."
+        ],
         "srcwordshtml": [
             "Wi",
             "o",
@@ -90,8 +138,20 @@
         "trs": "They really are not able to follow him."
     },
     {
+        "categories": [
+            "acc",
+            "cf",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  big=\\textsc{cf}  somewhat  3p.\\textsc{acc}  scold-\\textsc{pa}-3s-perhaps",
+        "imtwordsbare": [
+            "man",
+            "big=CF",
+            "somewhat",
+            "3p.ACC",
+            "scold-PA-3s-perhaps"
+        ],
         "imtwordshtml": [
             "man",
             "big=<span class=\"sc\">cf</span>",
@@ -106,8 +166,15 @@
             "3p.\\textsc{acc}",
             "scold-\\textsc{pa}-3s-perhaps"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  Maneka=ke  lawisiw  wia  amukar-e-k=\\textstyleEmphasizedVernacularWords{yon}.",
+        "srcwordsbare": [
+            "Mua",
+            "Maneka=ke",
+            "lawisiw",
+            "wia",
+            "amukar-e-k=yon."
+        ],
         "srcwordshtml": [
             "Mua",
             "Maneka=ke",
@@ -125,8 +192,22 @@
         "trs": "Perhaps God reproached/punished them a little."
     },
     {
+        "categories": [
+            "cf",
+            "intj",
+            "nmz",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2p.\\textsc{unm}  also  liver  burst-\\textsc{nmz}  none=\\textsc{cf}-perhaps  \\textsc{intj}",
+        "imtwordsbare": [
+            "2p.UNM",
+            "also",
+            "liver",
+            "burst-NMZ",
+            "none=CF-perhaps",
+            "INTJ"
+        ],
         "imtwordshtml": [
             "2p.<span class=\"sc\">unm</span>",
             "also",
@@ -143,8 +224,16 @@
             "none=\\textsc{cf}-perhaps",
             "\\textsc{intj}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nis  pun  kema  puk-owa  marewa=ke=\\textstyleEmphasizedVernacularWords{yon}  aa!",
+        "srcwordsbare": [
+            "Nis",
+            "pun",
+            "kema",
+            "puk-owa",
+            "marewa=ke=yon",
+            "aa!"
+        ],
         "srcwordshtml": [
             "Nis",
             "pun",
@@ -164,16 +253,23 @@
         "trs": "Ah, I think you don't have any sense at all (lit: your liver hasn't burst)!"
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "thus-perhaps",
+        "imtwordsbare": [
+            "thus-perhaps"
+        ],
         "imtwordshtml": [
             "thus-perhaps"
         ],
         "imtwordstex": [
             "thus-perhaps"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Naap=\\textstyleEmphasizedVernacularWords{yon}.",
+        "srcwordsbare": [
+            "Naap=yon."
+        ],
         "srcwordshtml": [
             "Naap=<span class=\"styleEmphasizedVernacularWords\">yon</span>."
         ],
@@ -183,8 +279,17 @@
         "trs": "I think/suppose it is like that."
     },
     {
+        "categories": [
+            "cntf",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "somewhat  very  die-\\textsc{cntf}-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "somewhat",
+            "very",
+            "die-CNTF-PA-1s"
+        ],
         "imtwordshtml": [
             "somewhat",
             "very",
@@ -195,8 +300,13 @@
             "very",
             "die-\\textsc{cntf}-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Lawisiw  akena  um-\\textstyleEmphasizedVernacularWords{ek}-a-m.",
+        "srcwordsbare": [
+            "Lawisiw",
+            "akena",
+            "um-ek-a-m."
+        ],
         "srcwordshtml": [
             "Lawisiw",
             "akena",
@@ -210,8 +320,23 @@
         "trs": "I very nearly fell (but in reality didn't)."
     },
     {
+        "categories": [
+            "cntf",
+            "gen",
+            "loc",
+            "nmz",
+            "pa",
+            "tp"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{gen}  like-\\textsc{nmz}=\\textsc{loc}  work-\\textsc{cntf}-\\textsc{pa}-1s=\\textsc{tp}  price  say-\\textsc{cntf}-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "1s.GEN",
+            "like-NMZ=LOC",
+            "work-CNTF-PA-1s=TP",
+            "price",
+            "say-CNTF-PA-1s"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">gen</span>",
             "like-<span class=\"sc\">nmz</span>=<span class=\"sc\">loc</span>",
@@ -226,8 +351,15 @@
             "price",
             "say-\\textsc{cntf}-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yena  kookal-owa=pa  uuw-\\textstyleEmphasizedVernacularWords{ek}-a-m=na  sesa  na-ek-a-m.",
+        "srcwordsbare": [
+            "Yena",
+            "kookal-owa=pa",
+            "uuw-ek-a-m=na",
+            "sesa",
+            "na-ek-a-m."
+        ],
         "srcwordshtml": [
             "Yena",
             "kookal-owa=pa",
@@ -245,8 +377,21 @@
         "trs": "If I had worked on my own will, I would have required payment."
     },
     {
+        "categories": [
+            "cntf",
+            "dat",
+            "inch",
+            "intj",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "thus  3.\\textsc{dat}  knowledge-\\textsc{inch}-\\textsc{cntf}-\\textsc{pa}-1/3p  \\textsc{intj}",
+        "imtwordsbare": [
+            "thus",
+            "3.DAT",
+            "knowledge-INCH-CNTF-PA-1/3p",
+            "INTJ"
+        ],
         "imtwordshtml": [
             "thus",
             "3.<span class=\"sc\">dat</span>",
@@ -259,8 +404,14 @@
             "knowledge-\\textsc{inch}-\\textsc{cntf}-\\textsc{pa}-1/3p",
             "\\textsc{intj}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Naap  wiar  amis-ar-\\textstyleEmphasizedVernacularWords{ek}-a-mik  oo!",
+        "srcwordsbare": [
+            "Naap",
+            "wiar",
+            "amis-ar-ek-a-mik",
+            "oo!"
+        ],
         "srcwordshtml": [
             "Naap",
             "wiar",
@@ -276,8 +427,18 @@
         "trs": "Oh, if only we had known that about him/them!"
     },
     {
+        "categories": [
+            "fu",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  able  well  do-Np-\\textsc{fu}.2s",
+        "imtwordsbare": [
+            "2s.UNM",
+            "able",
+            "well",
+            "do-Np-FU.2s"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "able",
@@ -290,8 +451,14 @@
             "well",
             "do-Np-\\textsc{fu}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  \\textstyleEmphasizedVernacularWords{pepek},  eliw  on-i-nan.",
+        "srcwordsbare": [
+            "No",
+            "pepek,",
+            "eliw",
+            "on-i-nan."
+        ],
         "srcwordshtml": [
             "No",
             "<span class=\"styleEmphasizedVernacularWords\">pepek</span>,",
@@ -307,8 +474,19 @@
         "trs": "You are able, you can do it."
     },
     {
+        "categories": [
+            "nmz"
+        ],
         "filename": "67/6.tex",
         "imt": "{\\dots} fire that1  extinguish-\\textsc{nmz} not  able",
+        "imtwordsbare": [
+            "{\\dots}",
+            "fire",
+            "that1",
+            "extinguish-NMZ",
+            "not",
+            "able"
+        ],
         "imtwordshtml": [
             "{\\dots}",
             "fire",
@@ -325,8 +503,16 @@
             "not",
             "able"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "{\\dots} mukuna  nain \\textstyleEmphasizedVernacularWords{umuk-owa}  \\textstyleEmphasizedVernacularWords{me} \\textstyleEmphasizedVernacularWords{pepek}.",
+        "srcwordsbare": [
+            "{\\dots}",
+            "mukuna",
+            "nain",
+            "umuk-owa",
+            "me",
+            "pepek."
+        ],
         "srcwordshtml": [
             "{\\dots}",
             "mukuna",
@@ -346,8 +532,22 @@
         "trs": "{\\dots} (we were) not able to extinguish the fire."
     },
     {
+        "categories": [
+            "cf",
+            "nmz",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{unm}  tomorrow  village  big  go-\\textsc{nmz}=\\textsc{cf}  be-\\textsc{pa}.3s",
+        "imtwordsbare": [
+            "1s.UNM",
+            "tomorrow",
+            "village",
+            "big",
+            "go-NMZ=CF",
+            "be-PA.3s"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">unm</span>",
             "tomorrow",
@@ -364,8 +564,16 @@
             "go-\\textsc{nmz}=\\textsc{cf}",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  uurika  owow  maneka  \\textstyleEmphasizedVernacularWords{ikiw-owa=ke}  \\textstyleEmphasizedVernacularWords{(ik-ua)}.",
+        "srcwordsbare": [
+            "Yo",
+            "uurika",
+            "owow",
+            "maneka",
+            "ikiw-owa=ke",
+            "(ik-ua)."
+        ],
         "srcwordshtml": [
             "Yo",
             "uurika",
@@ -385,8 +593,20 @@
         "trs": "I have to go to town tomorrow."
     },
     {
+        "categories": [
+            "dat",
+            "ds",
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "come-\\textsc{nmz}  1s.\\textsc{dat}  be-2/3s.\\textsc{ds}  come-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "come-NMZ",
+            "1s.DAT",
+            "be-2/3s.DS",
+            "come-PA-1s"
+        ],
         "imtwordshtml": [
             "come-<span class=\"sc\">nmz</span>",
             "1s.<span class=\"sc\">dat</span>",
@@ -399,8 +619,14 @@
             "be-2/3s.\\textsc{ds}",
             "come-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Ekap-owa}  \\textstyleEmphasizedVernacularWords{efar}  \\textstyleEmphasizedVernacularWords{ika-eya}  ekap-e-m.",
+        "srcwordsbare": [
+            "Ekap-owa",
+            "efar",
+            "ika-eya",
+            "ekap-e-m."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Ekap-owa</span>",
             "<span class=\"styleEmphasizedVernacularWords\">efar</span>",
@@ -416,8 +642,21 @@
         "trs": "I had to come, so I came."
     },
     {
+        "categories": [
+            "fu",
+            "nf",
+            "qm",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  thing  that=\\textsc{nf}  well  give.me-Np-\\textsc{fu}.2s=\\textsc{qm}",
+        "imtwordsbare": [
+            "2s.UNM",
+            "thing",
+            "that=NF",
+            "well",
+            "give.me-Np-FU.2s=QM"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "thing",
@@ -432,8 +671,15 @@
             "well",
             "give.me-Np-\\textsc{fu}.2s=\\textsc{qm}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  maa  nain=ko  eliw  yi-i-nan=i?",
+        "srcwordsbare": [
+            "No",
+            "maa",
+            "nain=ko",
+            "eliw",
+            "yi-i-nan=i?"
+        ],
         "srcwordshtml": [
             "No",
             "maa",
@@ -451,8 +697,21 @@
         "trs": "Will/would you give that to me (please)?"
     },
     {
+        "categories": [
+            "cf",
+            "fu",
+            "gen"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{gen}  land  one  well  here.\\textsc{cf}  bury-Np-\\textsc{fu}.1p",
+        "imtwordsbare": [
+            "1p.GEN",
+            "land",
+            "one",
+            "well",
+            "here.CF",
+            "bury-Np-FU.1p"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">gen</span>",
             "land",
@@ -469,8 +728,16 @@
             "here.\\textsc{cf}",
             "bury-Np-\\textsc{fu}.1p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yiena  miiwa  kuisow,  \\textstyleEmphasizedVernacularWords{eliw}  feeke  soop-i-yen.",
+        "srcwordsbare": [
+            "Yiena",
+            "miiwa",
+            "kuisow,",
+            "eliw",
+            "feeke",
+            "soop-i-yen."
+        ],
         "srcwordshtml": [
             "Yiena",
             "miiwa",
@@ -490,8 +757,20 @@
         "trs": "Our land is one, we may bury him here."
     },
     {
+        "categories": [
+            "fu",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "well  come-\\textsc{ss}.\\textsc{seq}  split-Np-\\textsc{fu}.2s  split-\\textsc{ss}.\\textsc{seq}  go-Np-\\textsc{fu}.2s",
+        "imtwordsbare": [
+            "well",
+            "come-SS.SEQ",
+            "split-Np-FU.2s",
+            "split-SS.SEQ",
+            "go-Np-FU.2s"
+        ],
         "imtwordshtml": [
             "well",
             "come-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
@@ -506,8 +785,15 @@
             "split-\\textsc{ss}.\\textsc{seq}",
             "go-Np-\\textsc{fu}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Eliw}  ek-ap  fook-i-nan,  fook-ap  ep-i-nan.",
+        "srcwordsbare": [
+            "Eliw",
+            "ek-ap",
+            "fook-i-nan,",
+            "fook-ap",
+            "ep-i-nan."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Eliw</span>",
             "ek-ap",
@@ -525,8 +811,23 @@
         "trs": "You may come and split (coconuts), and having split them, go."
     },
     {
+        "categories": [
+            "gen",
+            "isol",
+            "loc",
+            "nmz"
+        ],
         "filename": "67/6.tex",
         "imt": "garden  big  2s.\\textsc{isol}  2s.\\textsc{gen}  like-\\textsc{nmz}=\\textsc{loc}  harvest-\\textsc{nmz} no",
+        "imtwordsbare": [
+            "garden",
+            "big",
+            "2s.ISOL",
+            "2s.GEN",
+            "like-NMZ=LOC",
+            "harvest-NMZ",
+            "no"
+        ],
         "imtwordshtml": [
             "garden",
             "big",
@@ -545,8 +846,17 @@
             "harvest-\\textsc{nmz}",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Manin  maneka  na-isow  nena  kookal-owa=pa  \\textstyleEmphasizedVernacularWords{perek-owa} \\textstyleEmphasizedVernacularWords{weetak.}",
+        "srcwordsbare": [
+            "Manin",
+            "maneka",
+            "na-isow",
+            "nena",
+            "kookal-owa=pa",
+            "perek-owa",
+            "weetak."
+        ],
         "srcwordshtml": [
             "Manin",
             "maneka",
@@ -568,8 +878,21 @@
         "trs": "You are not allowed to harvest the big garden by yourself when your like."
     },
     {
+        "categories": [
+            "cf",
+            "nmz",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  not  custom  bad  do-\\textsc{nmz}=\\textsc{cf}  no",
+        "imtwordsbare": [
+            "1p.UNM",
+            "not",
+            "custom",
+            "bad",
+            "do-NMZ=CF",
+            "no"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "not",
@@ -586,8 +909,16 @@
             "do-\\textsc{nmz}=\\textsc{cf}",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  \\textstyleEmphasizedVernacularWords{me}  sira  samora  \\textstyleEmphasizedVernacularWords{on-owa=ke}, weetak.",
+        "srcwordsbare": [
+            "I",
+            "me",
+            "sira",
+            "samora",
+            "on-owa=ke,",
+            "weetak."
+        ],
         "srcwordshtml": [
             "I",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -607,8 +938,23 @@
         "trs": "We must not do bad things."
     },
     {
+        "categories": [
+            "cf",
+            "fc",
+            "nf",
+            "nmz",
+            "pr"
+        ],
         "filename": "67/6.tex",
         "imt": "thing=\\textsc{nf}  not  do-\\textsc{nmz}  that1  2p.\\textsc{fc}=\\textsc{cf}  do-Np-\\textsc{pr}.2p",
+        "imtwordsbare": [
+            "thing=NF",
+            "not",
+            "do-NMZ",
+            "that1",
+            "2p.FC=CF",
+            "do-Np-PR.2p"
+        ],
         "imtwordshtml": [
             "thing=<span class=\"sc\">nf</span>",
             "not",
@@ -625,8 +971,16 @@
             "2p.\\textsc{fc}=\\textsc{cf}",
             "do-Np-\\textsc{pr}.2p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Maa=ko  {\\ob}\\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{on-owa}  nain{\\cb}  nis=ke  on-i-man.",
+        "srcwordsbare": [
+            "Maa=ko",
+            "{\\ob}me",
+            "on-owa",
+            "nain{\\cb}",
+            "nis=ke",
+            "on-i-man."
+        ],
         "srcwordshtml": [
             "Maa=ko",
             "{\\ob}<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -646,8 +1000,23 @@
         "trs": "You do things that must not be done."
     },
     {
+        "categories": [
+            "loc",
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "sabbath  day=\\textsc{loc}  not  work-\\textsc{nmz}  that1  woman  that1  heal-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "sabbath",
+            "day=LOC",
+            "not",
+            "work-NMZ",
+            "that1",
+            "woman",
+            "that1",
+            "heal-PA-3s"
+        ],
         "imtwordshtml": [
             "sabbath",
             "day=<span class=\"sc\">loc</span>",
@@ -668,8 +1037,18 @@
             "that1",
             "heal-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Sabat  fofa=pa  {\\ob}\\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{uuw-owa}  nain{\\cb}  emeria  nain  saliw-a-k.",
+        "srcwordsbare": [
+            "Sabat",
+            "fofa=pa",
+            "{\\ob}me",
+            "uuw-owa",
+            "nain{\\cb}",
+            "emeria",
+            "nain",
+            "saliw-a-k."
+        ],
         "srcwordshtml": [
             "Sabat",
             "fofa=pa",
@@ -693,8 +1072,19 @@
         "trs": "He healed the woman on a Sabbath day when it was forbidden to work."
     },
     {
+        "categories": [
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  sky  canoe  not  see-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "1p.UNM",
+            "sky",
+            "canoe",
+            "not",
+            "see-PA-1/3p"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "sky",
@@ -709,8 +1099,15 @@
             "not",
             "see-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  iinan  aasa  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{kuuf-a-mik}.",
+        "srcwordsbare": [
+            "I",
+            "iinan",
+            "aasa",
+            "me",
+            "kuuf-a-mik."
+        ],
         "srcwordshtml": [
             "I",
             "iinan",
@@ -728,8 +1125,21 @@
         "trs": "We did not see the airplanes."
     },
     {
+        "categories": [
+            "cf",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{unm}  not  fear  hold-\\textsc{pa}-1s,  Kedem=\\textsc{cf}  true",
+        "imtwordsbare": [
+            "1s.UNM",
+            "not",
+            "fear",
+            "hold-PA-1s,",
+            "Kedem=CF",
+            "true"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">unm</span>",
             "not",
@@ -746,8 +1156,16 @@
             "Kedem=\\textsc{cf}",
             "true"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{keker}  \\textstyleEmphasizedVernacularWords{op-a-m},  Kedem=ke  makena.",
+        "srcwordsbare": [
+            "Yo",
+            "me",
+            "keker",
+            "op-a-m,",
+            "Kedem=ke",
+            "makena."
+        ],
         "srcwordshtml": [
             "Yo",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -767,8 +1185,25 @@
         "trs": "I was not afraid, true, Kedem was."
     },
     {
+        "categories": [
+            "acc",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  not  3p.\\textsc{acc}  see-\\textsc{pa}-1/3p  not  3p.\\textsc{acc}  sense-\\textsc{pa}-1/3p and  not  3p.\\textsc{acc}  find-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "man",
+            "not",
+            "3p.ACC",
+            "see-PA-1/3p",
+            "not",
+            "3p.ACC",
+            "sense-PA-1/3p",
+            "and",
+            "not",
+            "3p.ACC",
+            "find-PA-1/3p"
+        ],
         "imtwordshtml": [
             "man",
             "not",
@@ -795,8 +1230,21 @@
             "3p.\\textsc{acc}",
             "find-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{wia}  \\textstyleEmphasizedVernacularWords{kuuf-a-mik},  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{wia}  \\textstyleEmphasizedVernacularWords{furew-a-mik}, ne  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{wia}  \\textstyleEmphasizedVernacularWords{imen-a-mik}.",
+        "srcwordsbare": [
+            "Mua",
+            "me",
+            "wia",
+            "kuuf-a-mik,",
+            "me",
+            "wia",
+            "furew-a-mik,",
+            "ne",
+            "me",
+            "wia",
+            "imen-a-mik."
+        ],
         "srcwordshtml": [
             "Mua",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -826,8 +1274,22 @@
         "trs": "We did not see, sense, or find the men."
     },
     {
+        "categories": [
+            "imp",
+            "nf",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2p.\\textsc{unm}  dance-\\textsc{ss}.\\textsc{seq}=\\textsc{nf}  forehead.ornament  not  remove-\\textsc{imp}.2p",
+        "imtwordsbare": [
+            "2p.UNM",
+            "dance-SS.SEQ=NF",
+            "forehead.ornament",
+            "not",
+            "remove-IMP.2p"
+        ],
         "imtwordshtml": [
             "2p.<span class=\"sc\">unm</span>",
             "dance-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>=<span class=\"sc\">nf</span>",
@@ -842,8 +1304,15 @@
             "not",
             "remove-\\textsc{imp}.2p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ni \\textstyleEmphasizedVernacularWords{uf-ep=na}  maadara  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{iirar-eka}.",
+        "srcwordsbare": [
+            "Ni",
+            "uf-ep=na",
+            "maadara",
+            "me",
+            "iirar-eka."
+        ],
         "srcwordshtml": [
             "Ni",
             "<span class=\"styleEmphasizedVernacularWords\">uf-ep=na</span>",
@@ -861,8 +1330,17 @@
         "trs": "If/when you have danced, do not remove your forehead ornaments."
     },
     {
+        "categories": [
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3s.\\textsc{unm}  song  man  no",
+        "imtwordsbare": [
+            "3s.UNM",
+            "song",
+            "man",
+            "no"
+        ],
         "imtwordshtml": [
             "3s.<span class=\"sc\">unm</span>",
             "song",
@@ -875,8 +1353,14 @@
             "man",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "O  somek  mua  \\textstyleEmphasizedVernacularWords{weetak/wia}.",
+        "srcwordsbare": [
+            "O",
+            "somek",
+            "mua",
+            "weetak/wia."
+        ],
         "srcwordshtml": [
             "O",
             "somek",
@@ -892,8 +1376,18 @@
         "trs": "He is not a teacher."
     },
     {
+        "categories": [
+            "cf",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3s.\\textsc{unm}  not  song  man=\\textsc{cf}",
+        "imtwordsbare": [
+            "3s.UNM",
+            "not",
+            "song",
+            "man=CF"
+        ],
         "imtwordshtml": [
             "3s.<span class=\"sc\">unm</span>",
             "not",
@@ -906,8 +1400,14 @@
             "song",
             "man=\\textsc{cf}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "O  \\textstyleEmphasizedVernacularWords{me}  somek  mua=ke.",
+        "srcwordsbare": [
+            "O",
+            "me",
+            "somek",
+            "mua=ke."
+        ],
         "srcwordshtml": [
             "O",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -923,8 +1423,15 @@
         "trs": "He is not a teacher."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "sweet.potato  this  sweet  no",
+        "imtwordsbare": [
+            "sweet.potato",
+            "this",
+            "sweet",
+            "no"
+        ],
         "imtwordshtml": [
             "sweet.potato",
             "this",
@@ -937,8 +1444,14 @@
             "sweet",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Awuliak  fain  afila  \\textstyleEmphasizedVernacularWords{weetak/wia/marew}.",
+        "srcwordsbare": [
+            "Awuliak",
+            "fain",
+            "afila",
+            "weetak/wia/marew."
+        ],
         "srcwordshtml": [
             "Awuliak",
             "fain",
@@ -954,8 +1467,17 @@
         "trs": "This sweet potato is not sweet."
     },
     {
+        "categories": [
+            "cf"
+        ],
         "filename": "67/6.tex",
         "imt": "sweet.potato  this  not  sweet=\\textsc{cf}",
+        "imtwordsbare": [
+            "sweet.potato",
+            "this",
+            "not",
+            "sweet=CF"
+        ],
         "imtwordshtml": [
             "sweet.potato",
             "this",
@@ -968,8 +1490,14 @@
             "not",
             "sweet=\\textsc{cf}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Awuliak  fain  \\textstyleEmphasizedVernacularWords{me}  afila(=ke).",
+        "srcwordsbare": [
+            "Awuliak",
+            "fain",
+            "me",
+            "afila(=ke)."
+        ],
         "srcwordshtml": [
             "Awuliak",
             "fain",
@@ -985,8 +1513,21 @@
         "trs": "This sweet potato is not sweet."
     },
     {
+        "categories": [
+            "dat",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  custom  thus  not  1p.\\textsc{dat}  be-\\textsc{pa}.3s",
+        "imtwordsbare": [
+            "1p.UNM",
+            "custom",
+            "thus",
+            "not",
+            "1p.DAT",
+            "be-PA.3s"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "custom",
@@ -1003,8 +1544,16 @@
             "1p.\\textsc{dat}",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  sira  naap  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{yiar}  \\textstyleEmphasizedVernacularWords{ik-ua}.",
+        "srcwordsbare": [
+            "I",
+            "sira",
+            "naap",
+            "me",
+            "yiar",
+            "ik-ua."
+        ],
         "srcwordshtml": [
             "I",
             "sira",
@@ -1024,8 +1573,20 @@
         "trs": "We do not have a custom like that."
     },
     {
+        "categories": [
+            "lim",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3p.\\textsc{unm}  Japan  woman  no,  man  big=\\textsc{lim}",
+        "imtwordsbare": [
+            "3p.UNM",
+            "Japan",
+            "woman",
+            "no,",
+            "man",
+            "big=LIM"
+        ],
         "imtwordshtml": [
             "3p.<span class=\"sc\">unm</span>",
             "Japan",
@@ -1042,8 +1603,16 @@
             "man",
             "big=\\textsc{lim}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Wi  Yaapan  emeria  \\textstyleEmphasizedVernacularWords{weetak},  mua  manek=iw.",
+        "srcwordsbare": [
+            "Wi",
+            "Yaapan",
+            "emeria",
+            "weetak,",
+            "mua",
+            "manek=iw."
+        ],
         "srcwordshtml": [
             "Wi",
             "Yaapan",
@@ -1063,8 +1632,21 @@
         "trs": "The Japanese had no women/wives, (they were) only men."
     },
     {
+        "categories": [
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "earlier  land  for  that1  fight-\\textsc{nmz}  not  be-\\textsc{pa}.3s",
+        "imtwordsbare": [
+            "earlier",
+            "land",
+            "for",
+            "that1",
+            "fight-NMZ",
+            "not",
+            "be-PA.3s"
+        ],
         "imtwordshtml": [
             "earlier",
             "land",
@@ -1083,8 +1665,17 @@
             "not",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Iiriw  miiwa  muuta  nain  irak-owa  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{ik-ua.}",
+        "srcwordsbare": [
+            "Iiriw",
+            "miiwa",
+            "muuta",
+            "nain",
+            "irak-owa",
+            "me",
+            "ik-ua."
+        ],
         "srcwordshtml": [
             "Iiriw",
             "miiwa",
@@ -1106,8 +1697,21 @@
         "trs": "Earlier there was no fighting for land."
     },
     {
+        "categories": [
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  son  no(ne)  oh  1p.\\textsc{unm}  daughter  no(ne)  oh",
+        "imtwordsbare": [
+            "1p.UNM",
+            "son",
+            "no(ne)",
+            "oh",
+            "1p.UNM",
+            "daughter",
+            "no(ne)",
+            "oh"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "son",
@@ -1128,8 +1732,18 @@
             "no(ne)",
             "oh"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  muuka  \\textstyleEmphasizedVernacularWords{marew}  a,  i  wiipa  \\textstyleEmphasizedVernacularWords{marew}  a.",
+        "srcwordsbare": [
+            "I",
+            "muuka",
+            "marew",
+            "a,",
+            "i",
+            "wiipa",
+            "marew",
+            "a."
+        ],
         "srcwordshtml": [
             "I",
             "muuka",
@@ -1153,8 +1767,22 @@
         "trs": "We have no son, and we have no daughter."
     },
     {
+        "categories": [
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  cup  no  1p.\\textsc{unm}  spoon  no  1p.\\textsc{unm} plate  no(ne)",
+        "imtwordsbare": [
+            "1p.UNM",
+            "cup",
+            "no",
+            "1p.UNM",
+            "spoon",
+            "no",
+            "1p.UNM",
+            "plate",
+            "no(ne)"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "cup",
@@ -1177,8 +1805,19 @@
             "plate",
             "no(ne)"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  urupa  \\textstyleEmphasizedVernacularWords{weetak},  i  soomia  \\textstyleEmphasizedVernacularWords{wia},  i epira  \\textstyleEmphasizedVernacularWords{marew.}",
+        "srcwordsbare": [
+            "I",
+            "urupa",
+            "weetak,",
+            "i",
+            "soomia",
+            "wia,",
+            "i",
+            "epira",
+            "marew."
+        ],
         "srcwordshtml": [
             "I",
             "urupa",
@@ -1204,8 +1843,16 @@
         "trs": "We had no cups, we had no spoons, we had no plates."
     },
     {
+        "categories": [
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  talk  no",
+        "imtwordsbare": [
+            "1p.UNM",
+            "talk",
+            "no"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "talk",
@@ -1216,8 +1863,13 @@
             "talk",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  opora  \\textstyleEmphasizedVernacularWords{weetak/wia}.",
+        "srcwordsbare": [
+            "Yo",
+            "opora",
+            "weetak/wia."
+        ],
         "srcwordshtml": [
             "Yo",
             "opora",
@@ -1231,8 +1883,16 @@
         "trs": "I have no talk. (= I do not have anything to say.)"
     },
     {
+        "categories": [
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  talk  no(ne)",
+        "imtwordsbare": [
+            "1p.UNM",
+            "talk",
+            "no(ne)"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "talk",
@@ -1243,8 +1903,13 @@
             "talk",
             "no(ne)"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  opora  \\textstyleEmphasizedVernacularWords{marew}.",
+        "srcwordsbare": [
+            "Yo",
+            "opora",
+            "marew."
+        ],
         "srcwordshtml": [
             "Yo",
             "opora",
@@ -1258,8 +1923,21 @@
         "trs": "I have no talk. (= It is OK / I do not have anything against it.)"
     },
     {
+        "categories": [
+            "ds",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "thing  leaf  no(ne)-2/3s.\\textsc{ds}  /  no-2/3s.\\textsc{ds}  market  go-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "thing",
+            "leaf",
+            "no(ne)-2/3s.DS",
+            "/",
+            "no-2/3s.DS",
+            "market",
+            "go-PA-1s"
+        ],
         "imtwordshtml": [
             "thing",
             "leaf",
@@ -1278,8 +1956,17 @@
             "market",
             "go-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Maa  pela  \\textstyleEmphasizedVernacularWords{marew-eya}  /  \\textstyleEmphasizedVernacularWords{weetak-eya}  fofa  er-a-m.",
+        "srcwordsbare": [
+            "Maa",
+            "pela",
+            "marew-eya",
+            "/",
+            "weetak-eya",
+            "fofa",
+            "er-a-m."
+        ],
         "srcwordshtml": [
             "Maa",
             "pela",
@@ -1301,8 +1988,16 @@
         "trs": "I had no greens and went to the market."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "not  sickness  kill-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "not",
+            "sickness",
+            "kill-PA-3s"
+        ],
         "imtwordshtml": [
             "not",
             "sickness",
@@ -1313,8 +2008,13 @@
             "sickness",
             "kill-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Me}  \\textstyleEmphasizedVernacularWords{napuma=ke}  ifakim-o-k.",
+        "srcwordsbare": [
+            "Me",
+            "napuma=ke",
+            "ifakim-o-k."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Me</span>",
             "<span class=\"styleEmphasizedVernacularWords\">napuma=ke</span>",
@@ -1328,8 +2028,18 @@
         "trs": "It wasn't sickness that killed him."
     },
     {
+        "categories": [
+            "pr"
+        ],
         "filename": "67/6.tex",
         "imt": "thing  meat  not  soon  eat-Np-\\textsc{pr}.1/3p",
+        "imtwordsbare": [
+            "thing",
+            "meat",
+            "not",
+            "soon",
+            "eat-Np-PR.1/3p"
+        ],
         "imtwordshtml": [
             "thing",
             "meat",
@@ -1344,8 +2054,15 @@
             "soon",
             "eat-Np-\\textsc{pr}.1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Maa  oposia  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{ewur}  enim-i-mik.",
+        "srcwordsbare": [
+            "Maa",
+            "oposia",
+            "me",
+            "ewur",
+            "enim-i-mik."
+        ],
         "srcwordshtml": [
             "Maa",
             "oposia",
@@ -1363,8 +2080,19 @@
         "trs": "Meat we will not eat soon (after spouse's death)."
     },
     {
+        "categories": [
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "not  place  here  fight-\\textsc{nmz}  see-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "not",
+            "place",
+            "here",
+            "fight-NMZ",
+            "see-PA-1/3p"
+        ],
         "imtwordshtml": [
             "not",
             "place",
@@ -1379,8 +2107,15 @@
             "fight-\\textsc{nmz}",
             "see-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Me}  \\textstyleEmphasizedVernacularWords{epa}  \\textstyleEmphasizedVernacularWords{fan}  irak-owa  uruf-a-mik.",
+        "srcwordsbare": [
+            "Me",
+            "epa",
+            "fan",
+            "irak-owa",
+            "uruf-a-mik."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Me</span>",
             "<span class=\"styleEmphasizedVernacularWords\">epa</span>",
@@ -1398,8 +2133,18 @@
         "trs": "It was not here that they saw the fighting."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "bird  talk  not  well  hear-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "bird",
+            "talk",
+            "not",
+            "well",
+            "hear-PA-1/3p"
+        ],
         "imtwordshtml": [
             "bird",
             "talk",
@@ -1414,8 +2159,15 @@
             "well",
             "hear-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nepa  opaimika  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{baliwep}  miim-a-mik.",
+        "srcwordsbare": [
+            "Nepa",
+            "opaimika",
+            "me",
+            "baliwep",
+            "miim-a-mik."
+        ],
         "srcwordshtml": [
             "Nepa",
             "opaimika",
@@ -1433,8 +2185,17 @@
         "trs": "They did not hear (understand) Tok Pisin well."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  one  not  come-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "man",
+            "one",
+            "not",
+            "come-PA-3s"
+        ],
         "imtwordshtml": [
             "man",
             "one",
@@ -1447,8 +2208,14 @@
             "not",
             "come-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  \\textstyleEmphasizedVernacularWords{kuisow}  \\textstyleEmphasizedVernacularWords{me}  ekap-o-k.",
+        "srcwordsbare": [
+            "Mua",
+            "kuisow",
+            "me",
+            "ekap-o-k."
+        ],
         "srcwordshtml": [
             "Mua",
             "<span class=\"styleEmphasizedVernacularWords\">kuisow</span>",
@@ -1464,8 +2231,18 @@
         "trs": "One (particular) man did not come."
     },
     {
+        "categories": [
+            "nf",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  one=\\textsc{nf}  not  come-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "man",
+            "one=NF",
+            "not",
+            "come-PA-3s"
+        ],
         "imtwordshtml": [
             "man",
             "one=<span class=\"sc\">nf</span>",
@@ -1478,8 +2255,14 @@
             "not",
             "come-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  \\textstyleEmphasizedVernacularWords{kuisow}=\\textstyleEmphasizedVernacularWords{ko}  \\textstyleEmphasizedVernacularWords{me}  ekap-o-k.",
+        "srcwordsbare": [
+            "Mua",
+            "kuisow=ko",
+            "me",
+            "ekap-o-k."
+        ],
         "srcwordshtml": [
             "Mua",
             "<span class=\"styleEmphasizedVernacularWords\">kuisow</span>=<span class=\"styleEmphasizedVernacularWords\">ko</span>",
@@ -1495,8 +2278,20 @@
         "trs": "Not (even) one man came."
     },
     {
+        "categories": [
+            "loc",
+            "nf",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  one  village=\\textsc{loc}=\\textsc{nf}  not  be-\\textsc{pa}.3s",
+        "imtwordsbare": [
+            "man",
+            "one",
+            "village=LOC=NF",
+            "not",
+            "be-PA.3s"
+        ],
         "imtwordshtml": [
             "man",
             "one",
@@ -1511,8 +2306,15 @@
             "not",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  \\textstyleEmphasizedVernacularWords{kuisow}  owowa=pa=\\textstyleEmphasizedVernacularWords{ko}  \\textstyleEmphasizedVernacularWords{me}  ik-ua.",
+        "srcwordsbare": [
+            "Mua",
+            "kuisow",
+            "owowa=pa=ko",
+            "me",
+            "ik-ua."
+        ],
         "srcwordshtml": [
             "Mua",
             "<span class=\"styleEmphasizedVernacularWords\">kuisow</span>",
@@ -1530,8 +2332,18 @@
         "trs": "Not (even) one man stayed in the village."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  one  only  not  come-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "man",
+            "one",
+            "only",
+            "not",
+            "come-PA-3s"
+        ],
         "imtwordshtml": [
             "man",
             "one",
@@ -1546,8 +2358,15 @@
             "not",
             "come-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  kuisow  muuta  \\textstyleEmphasizedVernacularWords{me}  ekap-o-k.",
+        "srcwordsbare": [
+            "Mua",
+            "kuisow",
+            "muuta",
+            "me",
+            "ekap-o-k."
+        ],
         "srcwordshtml": [
             "Mua",
             "kuisow",
@@ -1565,8 +2384,18 @@
         "trs": "Only one man did not come.' Or: `Not only one man came (but more)."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "not  man  one  (only)  come-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "not",
+            "man",
+            "one",
+            "(only)",
+            "come-PA-3s"
+        ],
         "imtwordshtml": [
             "not",
             "man",
@@ -1581,8 +2410,15 @@
             "(only)",
             "come-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Me}  mua  kuisow  (muuta)  ekap-o-k.",
+        "srcwordsbare": [
+            "Me",
+            "mua",
+            "kuisow",
+            "(muuta)",
+            "ekap-o-k."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Me</span>",
             "mua",
@@ -1600,8 +2436,21 @@
         "trs": "Not only one man came."
     },
     {
+        "categories": [
+            "pr"
+        ],
         "filename": "67/6.tex",
         "imt": "woman  man  all  Man  Big  talk  not  follow-Np-\\textsc{pr}.1/3p",
+        "imtwordsbare": [
+            "woman",
+            "man",
+            "all",
+            "Man",
+            "Big",
+            "talk",
+            "not",
+            "follow-Np-PR.1/3p"
+        ],
         "imtwordshtml": [
             "woman",
             "man",
@@ -1622,8 +2471,18 @@
             "not",
             "follow-Np-\\textsc{pr}.1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Emeria  mua  \\textstyleEmphasizedVernacularWords{unowiya}  Mua  Maneka  opora  \\textstyleEmphasizedVernacularWords{me}  ook-i-mik.",
+        "srcwordsbare": [
+            "Emeria",
+            "mua",
+            "unowiya",
+            "Mua",
+            "Maneka",
+            "opora",
+            "me",
+            "ook-i-mik."
+        ],
         "srcwordshtml": [
             "Emeria",
             "mua",
@@ -1647,8 +2506,21 @@
         "trs": "All the people do not follow God's talk."
     },
     {
+        "categories": [
+            "dat",
+            "pr"
+        ],
         "filename": "67/6.tex",
         "imt": "but  not  man  all  talk  3.\\textsc{dat}  hold-Np-\\textsc{pr}.1/3p",
+        "imtwordsbare": [
+            "but",
+            "not",
+            "man",
+            "all",
+            "talk",
+            "3.DAT",
+            "hold-Np-PR.1/3p"
+        ],
         "imtwordshtml": [
             "but",
             "not",
@@ -1667,8 +2539,17 @@
             "3.\\textsc{dat}",
             "hold-Np-\\textsc{pr}.1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nain  \\textstyleEmphasizedVernacularWords{me}  mua  \\textstyleEmphasizedVernacularWords{unowiya}  opora  wiar  op-i-mik.",
+        "srcwordsbare": [
+            "Nain",
+            "me",
+            "mua",
+            "unowiya",
+            "opora",
+            "wiar",
+            "op-i-mik."
+        ],
         "srcwordshtml": [
             "Nain",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -1690,8 +2571,18 @@
         "trs": "But not all men/people believe in him (= some do)."
     },
     {
+        "categories": [
+            "com",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  many=\\textsc{com}  not  go-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "man",
+            "many=COM",
+            "not",
+            "go-PA-1/3p"
+        ],
         "imtwordshtml": [
             "man",
             "many=<span class=\"sc\">com</span>",
@@ -1704,8 +2595,14 @@
             "not",
             "go-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua \\textstyleEmphasizedVernacularWords{unow=iya}  \\textstyleEmphasizedVernacularWords{'me}  \\textstyleEmphasizedVernacularWords{ikiw-e-mik.}",
+        "srcwordsbare": [
+            "Mua",
+            "unow=iya",
+            "'me",
+            "ikiw-e-mik."
+        ],
         "srcwordshtml": [
             "Mua",
             "<span class=\"styleEmphasizedVernacularWords\">unow=iya</span>",
@@ -1721,8 +2618,18 @@
         "trs": "All the men \\textit{didn't go} (=none of them went)."
     },
     {
+        "categories": [
+            "com",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  many=\\textsc{com}  not  go-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "man",
+            "many=COM",
+            "not",
+            "go-PA-1/3p"
+        ],
         "imtwordshtml": [
             "man",
             "many=<span class=\"sc\">com</span>",
@@ -1735,8 +2642,14 @@
             "not",
             "go-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  \\textstyleEmphasizedVernacularWords{'unow=iya} \\textstyleEmphasizedVernacularWords{me}  ikiw-e-mik.",
+        "srcwordsbare": [
+            "Mua",
+            "'unow=iya",
+            "me",
+            "ikiw-e-mik."
+        ],
         "srcwordshtml": [
             "Mua",
             "<span class=\"styleEmphasizedVernacularWords\">'unow=iya</span>",
@@ -1752,8 +2665,17 @@
         "trs": "\\textit{All} the men didn't go (=only some went)."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "many  with  not  go-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "many",
+            "with",
+            "not",
+            "go-PA-1/3p"
+        ],
         "imtwordshtml": [
             "many",
             "with",
@@ -1766,8 +2688,14 @@
             "not",
             "go-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Unow}  \\textstyleEmphasizedVernacularWords{onaiya}  \\textstyleEmphasizedVernacularWords{me}  ikiw-e-mik.",
+        "srcwordsbare": [
+            "Unow",
+            "onaiya",
+            "me",
+            "ikiw-e-mik."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Unow</span>",
             "<span class=\"styleEmphasizedVernacularWords\">onaiya</span>",
@@ -1783,8 +2711,17 @@
         "trs": "Not all of them went (= only some went)"
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  not  many  come-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "man",
+            "not",
+            "many",
+            "come-PA-1/3p"
+        ],
         "imtwordshtml": [
             "man",
             "not",
@@ -1797,8 +2734,14 @@
             "many",
             "come-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{unowa}  ekap-e-mik.",
+        "srcwordsbare": [
+            "Mua",
+            "me",
+            "unowa",
+            "ekap-e-mik."
+        ],
         "srcwordshtml": [
             "Mua",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -1814,8 +2757,20 @@
         "trs": "There were not many men that came.' Or: `As for men, not many came."
     },
     {
+        "categories": [
+            "bpx",
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "thing  eat-\\textsc{nmz}  good  no(ne)  \\textsc{bpx}-descend-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "thing",
+            "eat-NMZ",
+            "good",
+            "no(ne)",
+            "BPX-descend-PA-1/3p"
+        ],
         "imtwordshtml": [
             "thing",
             "eat-<span class=\"sc\">nmz</span>",
@@ -1830,8 +2785,15 @@
             "no(ne)",
             "\\textsc{bpx}-descend-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Maa  en-owa  \\textstyleEmphasizedVernacularWords{eliw(a)}  \\textstyleEmphasizedVernacularWords{marew}  p-or-o-mik.",
+        "srcwordsbare": [
+            "Maa",
+            "en-owa",
+            "eliw(a)",
+            "marew",
+            "p-or-o-mik."
+        ],
         "srcwordshtml": [
             "Maa",
             "en-owa",
@@ -1849,8 +2811,20 @@
         "trs": "They brought down not-good food."
     },
     {
+        "categories": [
+            "nf",
+            "pa",
+            "rdp"
+        ],
         "filename": "67/6.tex",
         "imt": "bridge  not  good  \\textsc{rdp}-bad=\\textsc{nf}  make-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "bridge",
+            "not",
+            "good",
+            "RDP-bad=NF",
+            "make-PA-1/3p"
+        ],
         "imtwordshtml": [
             "bridge",
             "not",
@@ -1865,8 +2839,15 @@
             "\\textsc{rdp}-bad=\\textsc{nf}",
             "make-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Biiris  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{eliwa},  damo-damola=ko  on-a-mik.",
+        "srcwordsbare": [
+            "Biiris",
+            "me",
+            "eliwa,",
+            "damo-damola=ko",
+            "on-a-mik."
+        ],
         "srcwordshtml": [
             "Biiris",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -1884,8 +2865,20 @@
         "trs": "They did not make good bridges (but) bad ones.' (Or: The bridges were not good, they made bad ones.)"
     },
     {
+        "categories": [
+            "caus",
+            "imp",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "not  eye(s)  closed-\\textsc{caus}-\\textsc{ss}.\\textsc{seq}  be-\\textsc{imp}.2s",
+        "imtwordsbare": [
+            "not",
+            "eye(s)",
+            "closed-CAUS-SS.SEQ",
+            "be-IMP.2s"
+        ],
         "imtwordshtml": [
             "not",
             "eye(s)",
@@ -1898,8 +2891,14 @@
             "closed-\\textsc{caus}-\\textsc{ss}.\\textsc{seq}",
             "be-\\textsc{imp}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Me}  mokoka  op-ar-ep  ik-e.",
+        "srcwordsbare": [
+            "Me",
+            "mokoka",
+            "op-ar-ep",
+            "ik-e."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Me</span>",
             "mokoka",
@@ -1915,8 +2914,20 @@
         "trs": "Do not have your eyes closed."
     },
     {
+        "categories": [
+            "imp",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2p.\\textsc{unm}  eel  this  not  eat-\\textsc{imp}.2p  throw-\\textsc{imp}.2p",
+        "imtwordsbare": [
+            "2p.UNM",
+            "eel",
+            "this",
+            "not",
+            "eat-IMP.2p",
+            "throw-IMP.2p"
+        ],
         "imtwordshtml": [
             "2p.<span class=\"sc\">unm</span>",
             "eel",
@@ -1933,14 +2944,22 @@
             "eat-\\textsc{imp}.2p",
             "throw-\\textsc{imp}.2p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ni  iperuma  fain  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{e{\\textprimstress}nim-eka},  wafur-eka!",
+        "srcwordsbare": [
+            "Ni",
+            "iperuma",
+            "fain",
+            "me",
+            "e{\u02c8nim-eka},",
+            "wafur-eka!"
+        ],
         "srcwordshtml": [
             "Ni",
             "iperuma",
             "fain",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
-            "<span class=\"styleEmphasizedVernacularWords\">e{\\textprimstress</span>nim-eka},",
+            "<span class=\"styleEmphasizedVernacularWords\">e{\u02c8</span>nim-eka},",
             "wafur-eka!"
         ],
         "srcwordstex": [
@@ -1954,8 +2973,21 @@
         "trs": "\\textit{Don't eat}  this eel, throw it away!"
     },
     {
+        "categories": [
+            "pa",
+            "qm",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  sugar  buy-\\textsc{pa}-2s=\\textsc{qm}  -no  (not  buy-\\textsc{pa}-1s)",
+        "imtwordsbare": [
+            "2s.UNM",
+            "sugar",
+            "buy-PA-2s=QM",
+            "-no",
+            "(not",
+            "buy-PA-1s)"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "sugar",
@@ -1972,8 +3004,16 @@
             "(not",
             "buy-\\textsc{pa}-1s)"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  aaya  sesenar-e-n=i?  -\\textstyleEmphasizedVernacularWords{Weetak/wia}  (me  sesenar-e-m).",
+        "srcwordsbare": [
+            "No",
+            "aaya",
+            "sesenar-e-n=i?",
+            "-Weetak/wia",
+            "(me",
+            "sesenar-e-m)."
+        ],
         "srcwordshtml": [
             "No",
             "aaya",
@@ -1993,8 +3033,24 @@
         "trs": "Did you buy sugar?' --`No (I didn't)."
     },
     {
+        "categories": [
+            "cf",
+            "dat",
+            "fc",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "1s/p.cousin  betelnut  1s.\\textsc{dat}  take-\\textsc{pa}-3s -no  not  3s.\\textsc{fc}=\\textsc{cf}  take-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "1s/p.cousin",
+            "betelnut",
+            "1s.DAT",
+            "take-PA-3s",
+            "-no",
+            "not",
+            "3s.FC=CF",
+            "take-PA-3s"
+        ],
         "imtwordshtml": [
             "1s/p.cousin",
             "betelnut",
@@ -2015,8 +3071,18 @@
             "3s.\\textsc{fc}=\\textsc{cf}",
             "take-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yomar  owora  efar  aaw-o-k. -\\textstyleEmphasizedVernacularWords{Weetak/wia},  me  os=ke  aaw-o-k.",
+        "srcwordsbare": [
+            "Yomar",
+            "owora",
+            "efar",
+            "aaw-o-k.",
+            "-Weetak/wia,",
+            "me",
+            "os=ke",
+            "aaw-o-k."
+        ],
         "srcwordshtml": [
             "Yomar",
             "owora",
@@ -2040,8 +3106,26 @@
         "trs": "My cousin took my betelnut. --No, it wasn't he who took it."
     },
     {
+        "categories": [
+            "cf",
+            "fu"
+        ],
         "filename": "67/6.tex",
         "imt": "man  wind  long  that1=\\textsc{cf}  fish  many  spear-Np-\\textsc{fu}.3s man  wind  short  that1  no.",
+        "imtwordsbare": [
+            "man",
+            "wind",
+            "long",
+            "that1=CF",
+            "fish",
+            "many",
+            "spear-Np-FU.3s",
+            "man",
+            "wind",
+            "short",
+            "that1",
+            "no."
+        ],
         "imtwordshtml": [
             "man",
             "wind",
@@ -2070,8 +3154,22 @@
             "that1",
             "no."
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  bug  maala  nain=ke  mera  unowa  isak-i-non, mua  bug  iiwa  nain  \\textstyleEmphasizedVernacularWords{weetak/wia}.",
+        "srcwordsbare": [
+            "Mua",
+            "bug",
+            "maala",
+            "nain=ke",
+            "mera",
+            "unowa",
+            "isak-i-non,",
+            "mua",
+            "bug",
+            "iiwa",
+            "nain",
+            "weetak/wia."
+        ],
         "srcwordshtml": [
             "Mua",
             "bug",
@@ -2103,8 +3201,16 @@
         "trs": "A man with long breath (=big lungs) will spear many fish, a man with short breath will not."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "fish  some  many  some  no",
+        "imtwordsbare": [
+            "fish",
+            "some",
+            "many",
+            "some",
+            "no"
+        ],
         "imtwordshtml": [
             "fish",
             "some",
@@ -2119,8 +3225,15 @@
             "some",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mera  papako  unowa,  papako  \\textstyleEmphasizedVernacularWords{weetak/wia}.",
+        "srcwordsbare": [
+            "Mera",
+            "papako",
+            "unowa,",
+            "papako",
+            "weetak/wia."
+        ],
         "srcwordshtml": [
             "Mera",
             "papako",
@@ -2138,8 +3251,19 @@
         "trs": "Some fish there are many, some not."
     },
     {
+        "categories": [
+            "fu",
+            "qm"
+        ],
         "filename": "67/6.tex",
         "imt": "habit  that  leave-Np-\\textsc{fu}.2s=\\textsc{qm}  or  no",
+        "imtwordsbare": [
+            "habit",
+            "that",
+            "leave-Np-FU.2s=QM",
+            "or",
+            "no"
+        ],
         "imtwordshtml": [
             "habit",
             "that",
@@ -2154,8 +3278,15 @@
             "or",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Sira  nain  piipua-i-nan=i  e  \\textstyleEmphasizedVernacularWords{weetak}?",
+        "srcwordsbare": [
+            "Sira",
+            "nain",
+            "piipua-i-nan=i",
+            "e",
+            "weetak?"
+        ],
         "srcwordshtml": [
             "Sira",
             "nain",
@@ -2173,8 +3304,23 @@
         "trs": "Will you stop that habit or not?"
     },
     {
+        "categories": [
+            "dat",
+            "nf",
+            "pa",
+            "qm",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{unm}  woman=\\textsc{nf}  1s.\\textsc{dat}  see-\\textsc{pa}-2p=\\textsc{qm}  or  no",
+        "imtwordsbare": [
+            "1s.UNM",
+            "woman=NF",
+            "1s.DAT",
+            "see-PA-2p=QM",
+            "or",
+            "no"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">unm</span>",
             "woman=<span class=\"sc\">nf</span>",
@@ -2191,8 +3337,16 @@
             "or",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  emeria=ko  efar  uruf-a-man=i  e  \\textstyleEmphasizedVernacularWords{weetak}?",
+        "srcwordsbare": [
+            "Yo",
+            "emeria=ko",
+            "efar",
+            "uruf-a-man=i",
+            "e",
+            "weetak?"
+        ],
         "srcwordshtml": [
             "Yo",
             "emeria=ko",
@@ -2212,8 +3366,19 @@
         "trs": "Have you seen my wife or not?"
     },
     {
+        "categories": [
+            "ben",
+            "bnfy",
+            "pa",
+            "tp"
+        ],
         "filename": "67/6.tex",
         "imt": "medicine  put-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1/3p=\\textsc{tp}  no",
+        "imtwordsbare": [
+            "medicine",
+            "put-BEN-BNFY2.PA-1/3p=TP",
+            "no"
+        ],
         "imtwordshtml": [
             "medicine",
             "put-<span class=\"sc\">ben</span>-<span class=\"sc\">bnfy</span>2.<span class=\"sc\">pa</span>-1/3p=<span class=\"sc\">tp</span>",
@@ -2224,8 +3389,13 @@
             "put-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1/3p=\\textsc{tp}",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Marasin  wu-om-a-mik=na  \\textstyleEmphasizedVernacularWords{weetak}.",
+        "srcwordsbare": [
+            "Marasin",
+            "wu-om-a-mik=na",
+            "weetak."
+        ],
         "srcwordshtml": [
             "Marasin",
             "wu-om-a-mik=na",
@@ -2239,8 +3409,19 @@
         "trs": "They put medicine in him but no (=with no result)."
     },
     {
+        "categories": [
+            "ds",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "thus  be-\\textsc{ss}  see-\\textsc{ss}.\\textsc{sim}-be-2/3p.\\textsc{ds}  no",
+        "imtwordsbare": [
+            "thus",
+            "be-SS",
+            "see-SS.SIM-be-2/3p.DS",
+            "no"
+        ],
         "imtwordshtml": [
             "thus",
             "be-<span class=\"sc\">ss</span>",
@@ -2253,8 +3434,14 @@
             "see-\\textsc{ss}.\\textsc{sim}-be-2/3p.\\textsc{ds}",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Naap  ik-ok  uruf-am-ika-iwkin  \\textstyleEmphasizedVernacularWords{wia}.",
+        "srcwordsbare": [
+            "Naap",
+            "ik-ok",
+            "uruf-am-ika-iwkin",
+            "wia."
+        ],
         "srcwordshtml": [
             "Naap",
             "ik-ok",
@@ -2270,8 +3457,26 @@
         "trs": "They were thus watching him (but) no (he did not revive)."
     },
     {
+        "categories": [
+            "pa",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  yesterday  food  eat-\\textsc{pa}-1/3p  eat-\\textsc{pa}-1/3p  no stomach  become.full-\\textsc{ss}.\\textsc{seq}  half  put-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "1p.UNM",
+            "yesterday",
+            "food",
+            "eat-PA-1/3p",
+            "eat-PA-1/3p",
+            "no",
+            "stomach",
+            "become.full-SS.SEQ",
+            "half",
+            "put-PA-1/3p"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "yesterday",
@@ -2296,8 +3501,20 @@
             "half",
             "put-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  unan  maa  en-e-mik  en-e-mik  \\textstyleEmphasizedVernacularWords{wia}, ipoka  taan-ep  enakiwa  wu-a-mik.",
+        "srcwordsbare": [
+            "I",
+            "unan",
+            "maa",
+            "en-e-mik",
+            "en-e-mik",
+            "wia,",
+            "ipoka",
+            "taan-ep",
+            "enakiwa",
+            "wu-a-mik."
+        ],
         "srcwordshtml": [
             "I",
             "unan",
@@ -2325,8 +3542,25 @@
         "trs": "Yesterday we ate and ate, (but) no (=we could not finish the food), our stomachs were full and we put half of it aside."
     },
     {
+        "categories": [
+            "add",
+            "bpx",
+            "cf",
+            "fu",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "\\textsc{add}  no  other=\\textsc{cf}  say-\\textsc{pa}-1/3p  no  why village  \\textsc{bpx}-go-Np-\\textsc{fu}.1p",
+        "imtwordsbare": [
+            "ADD",
+            "no",
+            "other=CF",
+            "say-PA-1/3p",
+            "no",
+            "why",
+            "village",
+            "BPX-go-Np-FU.1p"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">add</span>",
             "no",
@@ -2347,8 +3581,18 @@
             "village",
             "\\textsc{bpx}-go-Np-\\textsc{fu}.1p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Ne}  \\textstyleEmphasizedVernacularWords{wia},  papako=ke  ma-e-mik,  ``Weetak,  moram owowa  p-ikiw-i-yan?''",
+        "srcwordsbare": [
+            "Ne",
+            "wia,",
+            "papako=ke",
+            "ma-e-mik,",
+            "``Weetak,",
+            "moram",
+            "owowa",
+            "p-ikiw-i-yan?''"
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Ne</span>",
             "<span class=\"styleEmphasizedVernacularWords\">wia</span>,",
@@ -2372,8 +3616,22 @@
         "trs": "But no, others said, ``Why take him to the village?'' "
     },
     {
+        "categories": [
+            "cf",
+            "gen",
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "3s.\\textsc{gen}  son  not  send-\\textsc{nmz}=\\textsc{cf}  not  say-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "3s.GEN",
+            "son",
+            "not",
+            "send-NMZ=CF",
+            "not",
+            "say-PA-3s"
+        ],
         "imtwordshtml": [
             "3s.<span class=\"sc\">gen</span>",
             "son",
@@ -2390,8 +3648,16 @@
             "not",
             "say-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ona  muuka  \\textstyleEmphasizedVernacularWords{me}  sesek-owa=ke  \\textstyleEmphasizedVernacularWords{me}  ma-e-k.",
+        "srcwordsbare": [
+            "Ona",
+            "muuka",
+            "me",
+            "sesek-owa=ke",
+            "me",
+            "ma-e-k."
+        ],
         "srcwordshtml": [
             "Ona",
             "muuka",
@@ -2411,8 +3677,17 @@
         "trs": "He did not say that he wouldn't send (lit: say about not sending) his son."
     },
     {
+        "categories": [
+            "inch",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "money  not  no(ne)-\\textsc{inch}-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "money",
+            "not",
+            "no(ne)-INCH-PA-1/3p"
+        ],
         "imtwordshtml": [
             "money",
             "not",
@@ -2423,8 +3698,13 @@
             "not",
             "no(ne)-\\textsc{inch}-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Maamuma  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{marew-ar-e-mik}.",
+        "srcwordsbare": [
+            "Maamuma",
+            "me",
+            "marew-ar-e-mik."
+        ],
         "srcwordshtml": [
             "Maamuma",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -2438,8 +3718,18 @@
         "trs": "We/They did not lack money."
     },
     {
+        "categories": [
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{unm}  tobacco  no.  -no  no",
+        "imtwordsbare": [
+            "1s.UNM",
+            "tobacco",
+            "no.",
+            "-no",
+            "no"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">unm</span>",
             "tobacco",
@@ -2454,8 +3744,15 @@
             "-no",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  episowa  weetak.  -\\textstyleEmphasizedVernacularWords{Weetak}  \\textstyleEmphasizedVernacularWords{wia}.",
+        "srcwordsbare": [
+            "Yo",
+            "episowa",
+            "weetak.",
+            "-Weetak",
+            "wia."
+        ],
         "srcwordshtml": [
             "Yo",
             "episowa",
@@ -2473,8 +3770,19 @@
         "trs": "I have no tobacco.'  `Don't say you don't have any."
     },
     {
+        "categories": [
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "no  very  1p.\\textsc{unm}  not  burn-\\textsc{pa}-1/3s",
+        "imtwordsbare": [
+            "no",
+            "very",
+            "1p.UNM",
+            "not",
+            "burn-PA-1/3s"
+        ],
         "imtwordshtml": [
             "no",
             "very",
@@ -2489,8 +3797,15 @@
             "not",
             "burn-\\textsc{pa}-1/3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Weetak}  \\textstyleEmphasizedVernacularWords{akena},  i  me  kuum-e-mik.",
+        "srcwordsbare": [
+            "Weetak",
+            "akena,",
+            "i",
+            "me",
+            "kuum-e-mik."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Weetak</span>",
             "<span class=\"styleEmphasizedVernacularWords\">akena</span>,",
@@ -2508,8 +3823,18 @@
         "trs": "\\textstyleEmphasizedWords{{No}}, we did not burn it."
     },
     {
+        "categories": [
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  not  burn-\\textsc{pa}-1/3p  very",
+        "imtwordsbare": [
+            "1p.UNM",
+            "not",
+            "burn-PA-1/3p",
+            "very"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "not",
@@ -2522,8 +3847,14 @@
             "burn-\\textsc{pa}-1/3p",
             "very"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  \\textstyleEmphasizedVernacularWords{me}  kuum-e-mik  \\textstyleEmphasizedVernacularWords{akena}.",
+        "srcwordsbare": [
+            "I",
+            "me",
+            "kuum-e-mik",
+            "akena."
+        ],
         "srcwordshtml": [
             "I",
             "<span class=\"styleEmphasizedVernacularWords\">me</span>",
@@ -2539,8 +3870,18 @@
         "trs": "We did \\textstyleEmphasizedWords{{not}} burn it."
     },
     {
+        "categories": [
+            "nf",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  not=\\textsc{nf}  hear-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "1p.UNM",
+            "not=NF",
+            "hear-PA-1/3p"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "not=<span class=\"sc\">nf</span>",
@@ -2551,8 +3892,13 @@
             "not=\\textsc{nf}",
             "hear-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  \\textstyleEmphasizedVernacularWords{me=ko}  miim-a-mik.",
+        "srcwordsbare": [
+            "I",
+            "me=ko",
+            "miim-a-mik."
+        ],
         "srcwordshtml": [
             "I",
             "<span class=\"styleEmphasizedVernacularWords\">me=ko</span>",
@@ -2566,8 +3912,18 @@
         "trs": "We did \\textstyleEmphasizedWords{{not}} hear it."
     },
     {
+        "categories": [
+            "nf",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{unm}=\\textsc{nf}  not=\\textsc{nf}  see-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "1s.UNM=NF",
+            "not=NF",
+            "see-PA-1s"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">unm</span>=<span class=\"sc\">nf</span>",
             "not=<span class=\"sc\">nf</span>",
@@ -2578,8 +3934,13 @@
             "not=\\textsc{nf}",
             "see-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo=ko  \\textstyleEmphasizedVernacularWords{me=ko}  uruf-a-m.",
+        "srcwordsbare": [
+            "Yo=ko",
+            "me=ko",
+            "uruf-a-m."
+        ],
         "srcwordshtml": [
             "Yo=ko",
             "<span class=\"styleEmphasizedVernacularWords\">me=ko</span>",
@@ -2593,8 +3954,22 @@
         "trs": "\\textstyleEmphasizedWords{I} did \\textstyleEmphasizedWords{{not}} see it."
     },
     {
+        "categories": [
+            "imp",
+            "inch",
+            "intj",
+            "nf",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "not=\\textsc{nf}  laugh-\\textsc{imp}.2s  \\textsc{intj}  grandfather  sick-\\textsc{inch}-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "not=NF",
+            "laugh-IMP.2s",
+            "INTJ",
+            "grandfather",
+            "sick-INCH-PA-3s"
+        ],
         "imtwordshtml": [
             "not=<span class=\"sc\">nf</span>",
             "laugh-<span class=\"sc\">imp</span>.2s",
@@ -2609,8 +3984,15 @@
             "grandfather",
             "sick-\\textsc{inch}-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Me}\\textstyleEmphasizedVernacularWords{=ko}  niir-e  sa,  kae  napum-ar-e-k.",
+        "srcwordsbare": [
+            "Me=ko",
+            "niir-e",
+            "sa,",
+            "kae",
+            "napum-ar-e-k."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Me</span><span class=\"styleEmphasizedVernacularWords\">=ko</span>",
             "niir-e",
@@ -2628,8 +4010,23 @@
         "trs": "Do \\textstyleEmphasizedWords{{not}} laugh, grandfather is sick."
     },
     {
+        "categories": [
+            "acc",
+            "pa",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "but  1s.\\textsc{unm}  not  come-\\textsc{ss}.\\textsc{seq}  2s.\\textsc{acc}  get-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "but",
+            "1s.UNM",
+            "not",
+            "come-SS.SEQ",
+            "2s.ACC",
+            "get-PA-1s"
+        ],
         "imtwordshtml": [
             "but",
             "1s.<span class=\"sc\">unm</span>",
@@ -2646,8 +4043,16 @@
             "2s.\\textsc{acc}",
             "get-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nain  yo  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{ep-ap}  \\textstyleEmphasizedVernacularWords{nefa}  \\textstyleEmphasizedVernacularWords{aaw-e-m}.",
+        "srcwordsbare": [
+            "Nain",
+            "yo",
+            "me",
+            "ep-ap",
+            "nefa",
+            "aaw-e-m."
+        ],
         "srcwordshtml": [
             "Nain",
             "yo",
@@ -2667,8 +4072,20 @@
         "trs": "But I did not come and get you."
     },
     {
+        "categories": [
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "again  come-\\textsc{ss}.\\textsc{seq}  food  not  sell-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "again",
+            "come-SS.SEQ",
+            "food",
+            "not",
+            "sell-PA-1/3p"
+        ],
         "imtwordshtml": [
             "again",
             "come-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
@@ -2683,8 +4100,15 @@
             "not",
             "sell-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nainiw  \\textstyleEmphasizedVernacularWords{ekap-ep}  \\textstyleEmphasizedVernacularWords{maa}  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{sesek-a-mik}.",
+        "srcwordsbare": [
+            "Nainiw",
+            "ekap-ep",
+            "maa",
+            "me",
+            "sesek-a-mik."
+        ],
         "srcwordshtml": [
             "Nainiw",
             "<span class=\"styleEmphasizedVernacularWords\">ekap-ep</span>",
@@ -2702,8 +4126,29 @@
         "trs": "They did not come back and sell food again."
     },
     {
+        "categories": [
+            "acc",
+            "gen",
+            "inch",
+            "inst",
+            "pa",
+            "seq",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "bird  talk  not  well  knowledge-\\textsc{inch}-\\textsc{ss}.\\textsc{seq}  3p.\\textsc{gen} talk=\\textsc{inst}  1p.\\textsc{acc}  tell-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "bird",
+            "talk",
+            "not",
+            "well",
+            "knowledge-INCH-SS.SEQ",
+            "3p.GEN",
+            "talk=INST",
+            "1p.ACC",
+            "tell-SS.SIM-be-PA-1/3p"
+        ],
         "imtwordshtml": [
             "bird",
             "talk",
@@ -2726,8 +4171,19 @@
             "1p.\\textsc{acc}",
             "tell-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nepa  opaimika  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{baliwep}  \\textstyleEmphasizedVernacularWords{amis-ar-ep}  wiena opaimik=iw  yia  maak-em-ik-e-mik.",
+        "srcwordsbare": [
+            "Nepa",
+            "opaimika",
+            "me",
+            "baliwep",
+            "amis-ar-ep",
+            "wiena",
+            "opaimik=iw",
+            "yia",
+            "maak-em-ik-e-mik."
+        ],
         "srcwordshtml": [
             "Nepa",
             "opaimika",
@@ -2753,8 +4209,26 @@
         "trs": "They did not know Tok Pisin well and talked to us in their own language."
     },
     {
+        "categories": [
+            "acc",
+            "pr",
+            "seq",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "man  lazy  not  grow-\\textsc{ss}.\\textsc{seq}  young  be-\\textsc{ss}.\\textsc{sim}  woman 3s.\\textsc{acc}  take-Np-\\textsc{pr}.1/3p",
+        "imtwordsbare": [
+            "man",
+            "lazy",
+            "not",
+            "grow-SS.SEQ",
+            "young",
+            "be-SS.SIM",
+            "woman",
+            "3s.ACC",
+            "take-Np-PR.1/3p"
+        ],
         "imtwordshtml": [
             "man",
             "lazy",
@@ -2777,8 +4251,19 @@
             "3s.\\textsc{acc}",
             "take-Np-\\textsc{pr}.1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  lebuma  \\textstyleEmphasizedVernacularWords{me}  \\textstyleEmphasizedVernacularWords{arim-ep}  takira  ik-ok  emeria wia  aaw-i-mik.",
+        "srcwordsbare": [
+            "Mua",
+            "lebuma",
+            "me",
+            "arim-ep",
+            "takira",
+            "ik-ok",
+            "emeria",
+            "wia",
+            "aaw-i-mik."
+        ],
         "srcwordshtml": [
             "Mua",
             "lebuma",
@@ -2804,8 +4289,19 @@
         "trs": "Lazy men, not having grown and (still) being young, take wives."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "again  come-\\textsc{pa}-1/3p  that1  food  not  sell-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "again",
+            "come-PA-1/3p",
+            "that1",
+            "food",
+            "not",
+            "sell-PA-1/3p"
+        ],
         "imtwordshtml": [
             "again",
             "come-<span class=\"sc\">pa</span>-1/3p",
@@ -2822,8 +4318,16 @@
             "not",
             "sell-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nainiw  ekap-e-mik,  nain  maa  \\textstyleEmphasizedVernacularWords{me}  sesek-a-mik.",
+        "srcwordsbare": [
+            "Nainiw",
+            "ekap-e-mik,",
+            "nain",
+            "maa",
+            "me",
+            "sesek-a-mik."
+        ],
         "srcwordshtml": [
             "Nainiw",
             "ekap-e-mik,",
@@ -2843,8 +4347,24 @@
         "trs": "They came back again, but did not sell any food."
     },
     {
+        "categories": [
+            "inch",
+            "pr",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "man  many  3s.\\textsc{unm}  not  knowledge-\\textsc{inch}-\\textsc{ss}.\\textsc{seq} not  follow-Np-\\textsc{pr}.3p",
+        "imtwordsbare": [
+            "man",
+            "many",
+            "3s.UNM",
+            "not",
+            "knowledge-INCH-SS.SEQ",
+            "not",
+            "follow-Np-PR.3p"
+        ],
         "imtwordshtml": [
             "man",
             "many",
@@ -2863,8 +4383,17 @@
             "not",
             "follow-Np-\\textsc{pr}.3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  unowa  o  \\textstyleEmphasizedVernacularWords{me}  amis-ar-ep \\textstyleEmphasizedVernacularWords{me}  ook-i-mik.",
+        "srcwordsbare": [
+            "Mua",
+            "unowa",
+            "o",
+            "me",
+            "amis-ar-ep",
+            "me",
+            "ook-i-mik."
+        ],
         "srcwordshtml": [
             "Mua",
             "unowa",
@@ -2886,8 +4415,29 @@
         "trs": "Many people do not know him and do not follow him."
     },
     {
+        "categories": [
+            "acc",
+            "fu",
+            "imp",
+            "loc",
+            "nf",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "alright  1p.\\textsc{unm}  village=\\textsc{nf}  ascend-\\textsc{imp}.1d  1s/p.father  1s/p.mother 3p.\\textsc{acc}  visit-Np-\\textsc{fu}.1p  village=\\textsc{loc}  3p.\\textsc{acc}  see-\\textsc{imp}.1d",
+        "imtwordsbare": [
+            "alright",
+            "1p.UNM",
+            "village=NF",
+            "ascend-IMP.1d",
+            "1s/p.father",
+            "1s/p.mother",
+            "3p.ACC",
+            "visit-Np-FU.1p",
+            "village=LOC",
+            "3p.ACC",
+            "see-IMP.1d"
+        ],
         "imtwordshtml": [
             "alright",
             "1p.<span class=\"sc\">unm</span>",
@@ -2914,8 +4464,21 @@
             "3p.\\textsc{acc}",
             "see-\\textsc{imp}.1d"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Aria,  i  owowa=ko  urup-\\textstyleEmphasizedVernacularWords{u}.  Auwa  aite wia  karu-i-yan,  owowa=pa  wia  uruf-\\textstyleEmphasizedVernacularWords{u}.",
+        "srcwordsbare": [
+            "Aria,",
+            "i",
+            "owowa=ko",
+            "urup-u.",
+            "Auwa",
+            "aite",
+            "wia",
+            "karu-i-yan,",
+            "owowa=pa",
+            "wia",
+            "uruf-u."
+        ],
         "srcwordshtml": [
             "Aria,",
             "i",
@@ -2945,8 +4508,29 @@
         "trs": "Alright, let's (dl) go up to the village. We'll visit father and mother, let's (dl) see them in the village."
     },
     {
+        "categories": [
+            "a",
+            "acc",
+            "cf",
+            "distr",
+            "fu",
+            "sim",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "later  Japan=\\textsc{cf}  come-\\textsc{ss}.\\textsc{sim}  2p.\\textsc{unm}  woman  many  this 2p.\\textsc{acc}  take-\\textsc{distr}/\\textsc{a}-Np-\\textsc{fu}.3p",
+        "imtwordsbare": [
+            "later",
+            "Japan=CF",
+            "come-SS.SIM",
+            "2p.UNM",
+            "woman",
+            "many",
+            "this",
+            "2p.ACC",
+            "take-DISTR/A-Np-FU.3p"
+        ],
         "imtwordshtml": [
             "later",
             "Japan=<span class=\"sc\">cf</span>",
@@ -2969,8 +4553,19 @@
             "2p.\\textsc{acc}",
             "take-\\textsc{distr}/\\textsc{a}-Np-\\textsc{fu}.3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ikoka  Yaapan=ke  ekap-emi  \\textstyleEmphasizedVernacularWords{ni}  emeria  unowa  \\textstyleEmphasizedVernacularWords{fain} nia  aaw-urum-i-kuan.",
+        "srcwordsbare": [
+            "Ikoka",
+            "Yaapan=ke",
+            "ekap-emi",
+            "ni",
+            "emeria",
+            "unowa",
+            "fain",
+            "nia",
+            "aaw-urum-i-kuan."
+        ],
         "srcwordshtml": [
             "Ikoka",
             "Yaapan=ke",
@@ -2996,8 +4591,24 @@
         "trs": "Later the Japanese will come and take all of you many women [here in this village]."
     },
     {
+        "categories": [
+            "imp",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "come-\\textsc{ss}.\\textsc{seq}  betelnut  this  take-\\textsc{ss}.\\textsc{seq}  eat-\\textsc{imp}.2p  coconut  water this  eat-\\textsc{imp}.2p",
+        "imtwordsbare": [
+            "come-SS.SEQ",
+            "betelnut",
+            "this",
+            "take-SS.SEQ",
+            "eat-IMP.2p",
+            "coconut",
+            "water",
+            "this",
+            "eat-IMP.2p"
+        ],
         "imtwordshtml": [
             "come-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
             "betelnut",
@@ -3020,8 +4631,19 @@
             "this",
             "eat-\\textsc{imp}.2p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ep-ap  owora  \\textstyleEmphasizedVernacularWords{fain}  aaw-ep  enim-eka,  iwer(a)  eka \\textstyleEmphasizedVernacularWords{fain}  enim-eka.",
+        "srcwordsbare": [
+            "Ep-ap",
+            "owora",
+            "fain",
+            "aaw-ep",
+            "enim-eka,",
+            "iwer(a)",
+            "eka",
+            "fain",
+            "enim-eka."
+        ],
         "srcwordshtml": [
             "Ep-ap",
             "owora",
@@ -3047,8 +4669,25 @@
         "trs": "Come and take this betelnut and eat it, (and) drink this coconut water."
     },
     {
+        "categories": [
+            "acc",
+            "pa",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{unm}  3p.\\textsc{acc}  escort-ascend-\\textsc{ss}.\\textsc{seq}  here  3p.\\textsc{acc}  put-\\textsc{ss}.\\textsc{seq} again  go-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "1s.UNM",
+            "3p.ACC",
+            "escort-ascend-SS.SEQ",
+            "here",
+            "3p.ACC",
+            "put-SS.SEQ",
+            "again",
+            "go-PA-1s"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">unm</span>",
             "3p.<span class=\"sc\">acc</span>",
@@ -3069,8 +4708,18 @@
             "again",
             "go-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  wia  wiim-urup-ep  \\textstyleEmphasizedVernacularWords{fan}  wia  wu-ap kiiriw  iw-a-m.",
+        "srcwordsbare": [
+            "Yo",
+            "wia",
+            "wiim-urup-ep",
+            "fan",
+            "wia",
+            "wu-ap",
+            "kiiriw",
+            "iw-a-m."
+        ],
         "srcwordshtml": [
             "Yo",
             "wia",
@@ -3094,8 +4743,28 @@
         "trs": "I escorted them up here and went (back) again."
     },
     {
+        "categories": [
+            "dat",
+            "imp",
+            "intj",
+            "nf",
+            "pa",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s/p.father  lime  here-\\textsc{pa}-3s  \\textsc{intj}  2s.\\textsc{unm}=\\textsc{nf}  3.\\textsc{dat} try-\\textsc{ss}.\\textsc{seq}=\\textsc{nf}  see-\\textsc{imp}.2s",
+        "imtwordsbare": [
+            "1s/p.father",
+            "lime",
+            "here-PA-3s",
+            "INTJ",
+            "2s.UNM=NF",
+            "3.DAT",
+            "try-SS.SEQ=NF",
+            "see-IMP.2s"
+        ],
         "imtwordshtml": [
             "1s/p.father",
             "lime",
@@ -3116,8 +4785,18 @@
             "try-\\textsc{ss}.\\textsc{seq}=\\textsc{nf}",
             "see-\\textsc{imp}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Auwa  afura  \\textstyleEmphasizedVernacularWords{fan-e-k}  a,  no=ko  wiar akim-ap=ko  uruf-e.",
+        "srcwordsbare": [
+            "Auwa",
+            "afura",
+            "fan-e-k",
+            "a,",
+            "no=ko",
+            "wiar",
+            "akim-ap=ko",
+            "uruf-e."
+        ],
         "srcwordshtml": [
             "Auwa",
             "afura",
@@ -3141,8 +4820,17 @@
         "trs": "Ah, father's lime is here, you try it and see."
     },
     {
+        "categories": [
+            "dat",
+            "fu"
+        ],
         "filename": "67/6.tex",
         "imt": "tomorrow  2s.\\textsc{dat}  go-Np-\\textsc{fu}.1s",
+        "imtwordsbare": [
+            "tomorrow",
+            "2s.DAT",
+            "go-Np-FU.1s"
+        ],
         "imtwordshtml": [
             "tomorrow",
             "2s.<span class=\"sc\">dat</span>",
@@ -3153,8 +4841,13 @@
             "2s.\\textsc{dat}",
             "go-Np-\\textsc{fu}.1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Uurika  nefar  \\textstyleEmphasizedVernacularWords{ikiw-i-nen}.",
+        "srcwordsbare": [
+            "Uurika",
+            "nefar",
+            "ikiw-i-nen."
+        ],
         "srcwordshtml": [
             "Uurika",
             "nefar",
@@ -3168,8 +4861,24 @@
         "trs": "Tomorrow I'll come to you.' (Lit: `{\\dots}I'll go (from my present place) ...')"
     },
     {
+        "categories": [
+            "acc",
+            "bpx",
+            "cf",
+            "imp",
+            "seq",
+            "ss",
+            "tp"
+        ],
         "filename": "67/6.tex",
         "imt": "man  find-\\textsc{ss}.\\textsc{seq}=\\textsc{tp}  here.\\textsc{cf}  3p.\\textsc{acc}  \\textsc{bpx}-come-\\textsc{imp}.2p",
+        "imtwordsbare": [
+            "man",
+            "find-SS.SEQ=TP",
+            "here.CF",
+            "3p.ACC",
+            "BPX-come-IMP.2p"
+        ],
         "imtwordshtml": [
             "man",
             "find-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>=<span class=\"sc\">tp</span>",
@@ -3184,8 +4893,15 @@
             "3p.\\textsc{acc}",
             "\\textsc{bpx}-come-\\textsc{imp}.2p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  imen-ap=na  feeke  wia  \\textstyleEmphasizedVernacularWords{p-ekap-eka}.",
+        "srcwordsbare": [
+            "Mua",
+            "imen-ap=na",
+            "feeke",
+            "wia",
+            "p-ekap-eka."
+        ],
         "srcwordshtml": [
             "Mua",
             "imen-ap=na",
@@ -3203,8 +4919,22 @@
         "trs": "If you find the men, bring them here."
     },
     {
+        "categories": [
+            "add",
+            "loc",
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "\\textsc{add}  come-\\textsc{ss}.\\textsc{seq}  Numbia=\\textsc{loc}  there  ascend-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "ADD",
+            "come-SS.SEQ",
+            "Numbia=LOC",
+            "there",
+            "ascend-PA-1/3p"
+        ],
         "imtwordshtml": [
             "<span class=\"sc\">add</span>",
             "come-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
@@ -3219,8 +4949,15 @@
             "there",
             "ascend-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ne  \\textstyleEmphasizedVernacularWords{ekap-ep}  Numbia=pa  nan  urup-e-mik.",
+        "srcwordsbare": [
+            "Ne",
+            "ekap-ep",
+            "Numbia=pa",
+            "nan",
+            "urup-e-mik."
+        ],
         "srcwordshtml": [
             "Ne",
             "<span class=\"styleEmphasizedVernacularWords\">ekap-ep</span>",
@@ -3238,8 +4975,25 @@
         "trs": "And they came and landed at Numbia."
     },
     {
+        "categories": [
+            "ds",
+            "pa",
+            "sim",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "spirit  woman  that  go-2/3s.\\textsc{ds}  3s.\\textsc{unm}  get.up-\\textsc{ss}.\\textsc{sim}  village come-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "spirit",
+            "woman",
+            "that",
+            "go-2/3s.DS",
+            "3s.UNM",
+            "get.up-SS.SIM",
+            "village",
+            "come-PA-3s"
+        ],
         "imtwordshtml": [
             "spirit",
             "woman",
@@ -3260,8 +5014,18 @@
             "village",
             "come-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Sawur  emeria  nain  ikiw-eya  o  iikir-ami  owowa ekap-o-k.",
+        "srcwordsbare": [
+            "Sawur",
+            "emeria",
+            "nain",
+            "ikiw-eya",
+            "o",
+            "iikir-ami",
+            "owowa",
+            "ekap-o-k."
+        ],
         "srcwordshtml": [
             "Sawur",
             "emeria",
@@ -3285,8 +5049,24 @@
         "trs": "When the spirit woman went (away), he came to the/his village."
     },
     {
+        "categories": [
+            "add",
+            "fu",
+            "pa",
+            "pr"
+        ],
         "filename": "67/6.tex",
         "imt": "yesterday  talk-\\textsc{pa}-1/3p  now/today  talk-Np-\\textsc{pr}.1/3p  \\textsc{add} tomorrow  again  talk-Np-\\textsc{fu}.1p",
+        "imtwordsbare": [
+            "yesterday",
+            "talk-PA-1/3p",
+            "now/today",
+            "talk-Np-PR.1/3p",
+            "ADD",
+            "tomorrow",
+            "again",
+            "talk-Np-FU.1p"
+        ],
         "imtwordshtml": [
             "yesterday",
             "talk-<span class=\"sc\">pa</span>-1/3p",
@@ -3307,8 +5087,18 @@
             "again",
             "talk-Np-\\textsc{fu}.1p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Unan  \\textstyleEmphasizedVernacularWords{aakun-e-mik},  aakisa  \\textstyleEmphasizedVernacularWords{aakun-i-mik}  ne uurika  nainiw  \\textstyleEmphasizedVernacularWords{aakun-i-yen}.",
+        "srcwordsbare": [
+            "Unan",
+            "aakun-e-mik,",
+            "aakisa",
+            "aakun-i-mik",
+            "ne",
+            "uurika",
+            "nainiw",
+            "aakun-i-yen."
+        ],
         "srcwordshtml": [
             "Unan",
             "<span class=\"styleEmphasizedVernacularWords\">aakun-e-mik</span>,",
@@ -3332,8 +5122,27 @@
         "trs": "Yesterday we talked, now/today we talk and tomorrow we'll talk again."
     },
     {
+        "categories": [
+            "acc",
+            "ben",
+            "bnfy",
+            "ds",
+            "pa",
+            "rdp",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "cart  3p.\\textsc{acc}  pull-\\textsc{ss}.\\textsc{sim}-be-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1/3p  man \\textsc{rdp}-one  3p.\\textsc{acc}  tell-2/3p.\\textsc{ds}",
+        "imtwordsbare": [
+            "cart",
+            "3p.ACC",
+            "pull-SS.SIM-be-BEN-BNFY2.PA-1/3p",
+            "man",
+            "RDP-one",
+            "3p.ACC",
+            "tell-2/3p.DS"
+        ],
         "imtwordshtml": [
             "cart",
             "3p.<span class=\"sc\">acc</span>",
@@ -3352,8 +5161,17 @@
             "3p.\\textsc{acc}",
             "tell-2/3p.\\textsc{ds}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Wilkar  wia  muf-em-ik-om-a-mik,  \\textstyleEmphasizedVernacularWords{mua} \\textstyleEmphasizedVernacularWords{kui-kuisow}  \\textstyleEmphasizedVernacularWords{wia}  \\textstyleEmphasizedVernacularWords{maak-iwkin}.",
+        "srcwordsbare": [
+            "Wilkar",
+            "wia",
+            "muf-em-ik-om-a-mik,",
+            "mua",
+            "kui-kuisow",
+            "wia",
+            "maak-iwkin."
+        ],
         "srcwordshtml": [
             "Wilkar",
             "wia",
@@ -3375,8 +5193,20 @@
         "trs": "They\\textsubscript{1} pulled carts for them\\textsubscript{2}, after they\\textsubscript{2} had told the men\\textsubscript{1} one by one."
     },
     {
+        "categories": [
+            "pa",
+            "seq",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "thus  do-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p  come-\\textsc{ss}.\\textsc{seq}  now",
+        "imtwordsbare": [
+            "thus",
+            "do-SS.SIM-be-PA-1/3p",
+            "come-SS.SEQ",
+            "now"
+        ],
         "imtwordshtml": [
             "thus",
             "do-<span class=\"sc\">ss</span>.<span class=\"sc\">sim</span>-be-<span class=\"sc\">pa</span>-1/3p",
@@ -3389,8 +5219,14 @@
             "come-\\textsc{ss}.\\textsc{seq}",
             "now"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Naap  on-am-ik-e-mik,  \\textbf{ekap-ep} aakisa.",
+        "srcwordsbare": [
+            "Naap",
+            "on-am-ik-e-mik,",
+            "ekap-ep",
+            "aakisa."
+        ],
         "srcwordshtml": [
             "Naap",
             "on-am-ik-e-mik,",
@@ -3406,8 +5242,24 @@
         "trs": "We have been doing like that (all the time) up until now."
     },
     {
+        "categories": [
+            "fu",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  thus  be-\\textsc{ss}  go-\\textsc{ss}.\\textsc{seq}  year  new  altogether talk-Np-\\textsc{fu}.2s",
+        "imtwordsbare": [
+            "2s.UNM",
+            "thus",
+            "be-SS",
+            "go-SS.SEQ",
+            "year",
+            "new",
+            "altogether",
+            "talk-Np-FU.2s"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "thus",
@@ -3428,8 +5280,18 @@
             "altogether",
             "talk-Np-\\textsc{fu}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  naap  ik-ok  \\textbf{iki(w-e)p}  mokoma  enuma  iiwawun aakun-i-nan.",
+        "srcwordsbare": [
+            "No",
+            "naap",
+            "ik-ok",
+            "iki(w-e)p",
+            "mokoma",
+            "enuma",
+            "iiwawun",
+            "aakun-i-nan."
+        ],
         "srcwordshtml": [
             "No",
             "naap",
@@ -3453,8 +5315,21 @@
         "trs": "You will be like that (long time) but next year you will talk."
     },
     {
+        "categories": [
+            "fu",
+            "nmz",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "{\\dots}1p.\\textsc{unm}  tomorrow  descend-Np-\\textsc{fu}.1p  sea(water)  fetch-\\textsc{nmz} descend-Np-\\textsc{fu}.1p",
+        "imtwordsbare": [
+            "{\\dots}1p.UNM",
+            "tomorrow",
+            "descend-Np-FU.1p",
+            "sea(water)",
+            "fetch-NMZ",
+            "descend-Np-FU.1p"
+        ],
         "imtwordshtml": [
             "{\\dots}1p.<span class=\"sc\">unm</span>",
             "tomorrow",
@@ -3471,8 +5346,16 @@
             "fetch-\\textsc{nmz}",
             "descend-Np-\\textsc{fu}.1p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "{\\dots}i  \\textbf{uurika}  ora-i-yan,  ifera  un-owa ora-i-yan.",
+        "srcwordsbare": [
+            "{\\dots}i",
+            "uurika",
+            "ora-i-yan,",
+            "ifera",
+            "un-owa",
+            "ora-i-yan."
+        ],
         "srcwordshtml": [
             "{\\dots}i",
             "<span class=\"bf\">uurika</span>",
@@ -3492,8 +5375,22 @@
         "trs": "{\\dots}we will go down tomorrow, we will go down to fetch sea water."
     },
     {
+        "categories": [
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "that1  fall-\\textsc{ss}.\\textsc{seq}  buu  say-\\textsc{pa}-3s  now  water  dry-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "that1",
+            "fall-SS.SEQ",
+            "buu",
+            "say-PA-3s",
+            "now",
+            "water",
+            "dry-PA-3s"
+        ],
         "imtwordshtml": [
             "that1",
             "fall-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
@@ -3512,8 +5409,17 @@
             "water",
             "dry-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nain  or-op  ``buu''  (na-e-k),  \\textstyleEmphasizedVernacularWords{aakisa}  eka  saanar-\\textstyleEmphasizedVernacularWords{e}-k.",
+        "srcwordsbare": [
+            "Nain",
+            "or-op",
+            "``buu''",
+            "(na-e-k),",
+            "aakisa",
+            "eka",
+            "saanar-e-k."
+        ],
         "srcwordshtml": [
             "Nain",
             "or-op",
@@ -3535,8 +5441,24 @@
         "trs": "It fell with a thud (and they knew that) now the water had dried up."
     },
     {
+        "categories": [
+            "loc",
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "come-\\textsc{ss}.\\textsc{seq}  come-\\textsc{ss}.\\textsc{seq}  now  here  many  Wewak=\\textsc{loc} there  ascend-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "come-SS.SEQ",
+            "come-SS.SEQ",
+            "now",
+            "here",
+            "many",
+            "Wewak=LOC",
+            "there",
+            "ascend-PA-1/3p"
+        ],
         "imtwordshtml": [
             "come-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
             "come-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
@@ -3557,8 +5479,18 @@
             "there",
             "ascend-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ekap-ep,  ekap-ep,  \\textstyleEmphasizedVernacularWords{aakisa} \\textstyleEmphasizedVernacularWords{fan}  unowa  Wewak=pa nan  urup-\\textstyleEmphasizedVernacularWords{e}-mik.",
+        "srcwordsbare": [
+            "Ekap-ep,",
+            "ekap-ep,",
+            "aakisa",
+            "fan",
+            "unowa",
+            "Wewak=pa",
+            "nan",
+            "urup-e-mik."
+        ],
         "srcwordshtml": [
             "Ekap-ep,",
             "ekap-ep,",
@@ -3582,8 +5514,19 @@
         "trs": "They came and came, and just now many came up there in Wewak."
     },
     {
+        "categories": [
+            "inst",
+            "loc",
+            "pr"
+        ],
         "filename": "67/6.tex",
         "imt": "pig  first=\\textsc{inst}  see-Np-\\textsc{pr}.1/3p  village=\\textsc{loc}",
+        "imtwordsbare": [
+            "pig",
+            "first=INST",
+            "see-Np-PR.1/3p",
+            "village=LOC"
+        ],
         "imtwordshtml": [
             "pig",
             "first=<span class=\"sc\">inst</span>",
@@ -3596,8 +5539,14 @@
             "see-Np-\\textsc{pr}.1/3p",
             "village=\\textsc{loc}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Waaya  kiikir=iw  uruf-i-mik,  owowa=pa.",
+        "srcwordsbare": [
+            "Waaya",
+            "kiikir=iw",
+            "uruf-i-mik,",
+            "owowa=pa."
+        ],
         "srcwordshtml": [
             "Waaya",
             "kiikir=iw",
@@ -3613,8 +5562,22 @@
         "trs": "First they look at the pig(s) in the village."
     },
     {
+        "categories": [
+            "inst",
+            "nf",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "that1  too  custom  thus=\\textsc{inst}  man=\\textsc{nf}  not  appear-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "that1",
+            "too",
+            "custom",
+            "thus=INST",
+            "man=NF",
+            "not",
+            "appear-PA-1/3p"
+        ],
         "imtwordshtml": [
             "that1",
             "too",
@@ -3633,8 +5596,17 @@
             "not",
             "appear-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nain  pun  sira  naap=iw,  mua=ko  me  kerer-e-mik.",
+        "srcwordsbare": [
+            "Nain",
+            "pun",
+            "sira",
+            "naap=iw,",
+            "mua=ko",
+            "me",
+            "kerer-e-mik."
+        ],
         "srcwordshtml": [
             "Nain",
             "pun",
@@ -3656,8 +5628,20 @@
         "trs": "That was like that too, the (guilty) person/people did not appear."
     },
     {
+        "categories": [
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "engine  two  again  put-\\textsc{nmz}  place  be-\\textsc{pa}.3s",
+        "imtwordsbare": [
+            "engine",
+            "two",
+            "again",
+            "put-NMZ",
+            "place",
+            "be-PA.3s"
+        ],
         "imtwordshtml": [
             "engine",
             "two",
@@ -3674,8 +5658,16 @@
             "place",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Masin} \\textstyleEmphasizedVernacularWords{erup}  nainiw  wu-owa  epa  ik-ua.",
+        "srcwordsbare": [
+            "Masin",
+            "erup",
+            "nainiw",
+            "wu-owa",
+            "epa",
+            "ik-ua."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Masin</span>",
             "<span class=\"styleEmphasizedVernacularWords\">erup</span>",
@@ -3695,8 +5687,17 @@
         "trs": "There is a place for putting two more engines."
     },
     {
+        "categories": [
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "pig  son  three  come-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "pig",
+            "son",
+            "three",
+            "come-PA-1s"
+        ],
         "imtwordshtml": [
             "pig",
             "son",
@@ -3709,8 +5710,14 @@
             "three",
             "come-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Waa}  \\textstyleEmphasizedVernacularWords{muuka} \\textstyleEmphasizedVernacularWords{arow}  ekap-o-k.",
+        "srcwordsbare": [
+            "Waa",
+            "muuka",
+            "arow",
+            "ekap-o-k."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Waa</span>",
             "<span class=\"styleEmphasizedVernacularWords\">muuka</span>",
@@ -3726,8 +5733,22 @@
         "trs": "Three piglets came."
     },
     {
+        "categories": [
+            "com",
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "woman  many=\\textsc{com}  go-\\textsc{ss}.\\textsc{seq}  river  that1  catch.fish-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "woman",
+            "many=COM",
+            "go-SS.SEQ",
+            "river",
+            "that1",
+            "catch.fish-PA-1/3p"
+        ],
         "imtwordshtml": [
             "woman",
             "many=<span class=\"sc\">com</span>",
@@ -3744,8 +5765,16 @@
             "that1",
             "catch.fish-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{Emeria}  \\textstyleEmphasizedVernacularWords{unow=iya}  ikiw-ep  eka  nain  imar-e-mik.",
+        "srcwordsbare": [
+            "Emeria",
+            "unow=iya",
+            "ikiw-ep",
+            "eka",
+            "nain",
+            "imar-e-mik."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">Emeria</span>",
             "<span class=\"styleEmphasizedVernacularWords\">unow=iya</span>",
@@ -3765,8 +5794,22 @@
         "trs": "All the women went and fished at the river."
     },
     {
+        "categories": [
+            "cf",
+            "nmz",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "that1  3p.\\textsc{unm}  man  custom=\\textsc{cf}  woman  bury-\\textsc{nmz}  custom",
+        "imtwordsbare": [
+            "that1",
+            "3p.UNM",
+            "man",
+            "custom=CF",
+            "woman",
+            "bury-NMZ",
+            "custom"
+        ],
         "imtwordshtml": [
             "that1",
             "3p.<span class=\"sc\">unm</span>",
@@ -3785,8 +5828,17 @@
             "bury-\\textsc{nmz}",
             "custom"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nain  \\textstyleEmphasizedVernacularWords{wi} \\textstyleEmphasizedVernacularWords{mua}  sira=ke,  emeria  soop-owa  sira.",
+        "srcwordsbare": [
+            "Nain",
+            "wi",
+            "mua",
+            "sira=ke,",
+            "emeria",
+            "soop-owa",
+            "sira."
+        ],
         "srcwordshtml": [
             "Nain",
             "<span class=\"styleEmphasizedVernacularWords\">wi</span>",
@@ -3808,8 +5860,22 @@
         "trs": "That is the men's custom, the custom of burying wife/wives."
     },
     {
+        "categories": [
+            "ds",
+            "nmz",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "fight-\\textsc{nmz}  finish-2/3s.\\textsc{ds}  alright  3p.\\textsc{unm}  Simbine flee-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "fight-NMZ",
+            "finish-2/3s.DS",
+            "alright",
+            "3p.UNM",
+            "Simbine",
+            "flee-PA-1/3p"
+        ],
         "imtwordshtml": [
             "fight-<span class=\"sc\">nmz</span>",
             "finish-2/3s.<span class=\"sc\">ds</span>",
@@ -3826,8 +5892,16 @@
             "Simbine",
             "flee-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Irak-owa  weeser-eya  aria  \\textstyleEmphasizedVernacularWords{wi}  \\textstyleEmphasizedVernacularWords{Simbine} baurar-e-mik.",
+        "srcwordsbare": [
+            "Irak-owa",
+            "weeser-eya",
+            "aria",
+            "wi",
+            "Simbine",
+            "baurar-e-mik."
+        ],
         "srcwordshtml": [
             "Irak-owa",
             "weeser-eya",
@@ -3847,8 +5921,21 @@
         "trs": "When the fighting was finished, alright the Simbine people fled."
     },
     {
+        "categories": [
+            "pa",
+            "rdp",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "pig  butcher-\\textsc{ss}.\\textsc{seq}  \\textsc{rdp}-piece  thus  cook-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "pig",
+            "butcher-SS.SEQ",
+            "RDP-piece",
+            "thus",
+            "cook-PA-1/3p"
+        ],
         "imtwordshtml": [
             "pig",
             "butcher-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
@@ -3863,8 +5950,15 @@
             "thus",
             "cook-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Waaya  pa-ep  \\textstyleEmphasizedVernacularWords{kio-kiowa}  naap  uup-e-mik.",
+        "srcwordsbare": [
+            "Waaya",
+            "pa-ep",
+            "kio-kiowa",
+            "naap",
+            "uup-e-mik."
+        ],
         "srcwordshtml": [
             "Waaya",
             "pa-ep",
@@ -3882,8 +5976,23 @@
         "trs": "We butchered the pig and cooked the pieces like that."
     },
     {
+        "categories": [
+            "cf",
+            "pr",
+            "rdp"
+        ],
         "filename": "67/6.tex",
         "imt": "village  headman=\\textsc{cf}  first  pull.out-Np-\\textsc{pr}.1/3p man  \\textsc{rdp}-insignificant  this  no",
+        "imtwordsbare": [
+            "village",
+            "headman=CF",
+            "first",
+            "pull.out-Np-PR.1/3p",
+            "man",
+            "RDP-insignificant",
+            "this",
+            "no"
+        ],
         "imtwordshtml": [
             "village",
             "headman=<span class=\"sc\">cf</span>",
@@ -3904,8 +6013,18 @@
             "this",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Owow(a)  saria=ke  kiikir  perek-i-mik, \\textstyleEmphasizedVernacularWords{mua}  \\textstyleEmphasizedVernacularWords{or-oram}  fain  weetak.",
+        "srcwordsbare": [
+            "Owow(a)",
+            "saria=ke",
+            "kiikir",
+            "perek-i-mik,",
+            "mua",
+            "or-oram",
+            "fain",
+            "weetak."
+        ],
         "srcwordshtml": [
             "Owow(a)",
             "saria=ke",
@@ -3929,8 +6048,19 @@
         "trs": "The village headmen harvest it first, not common people like this/us."
     },
     {
+        "categories": [
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s/1p.\\textsc{unm}  1s/p.father  together.with  here  be-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "1s/1p.UNM",
+            "1s/p.father",
+            "together.with",
+            "here",
+            "be-PA-1/3p"
+        ],
         "imtwordshtml": [
             "1s/1p.<span class=\"sc\">unm</span>",
             "1s/p.father",
@@ -3945,8 +6075,15 @@
             "here",
             "be-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "\\textstyleEmphasizedVernacularWords{(Yo/I)}  \\textstyleEmphasizedVernacularWords{auwa}  \\textstyleEmphasizedVernacularWords{ikos}  fan  ik-e-mik.",
+        "srcwordsbare": [
+            "(Yo/I)",
+            "auwa",
+            "ikos",
+            "fan",
+            "ik-e-mik."
+        ],
         "srcwordshtml": [
             "<span class=\"styleEmphasizedVernacularWords\">(Yo/I)</span>",
             "<span class=\"styleEmphasizedVernacularWords\">auwa</span>",
@@ -3964,8 +6101,25 @@
         "trs": "I and my father are here."
     },
     {
+        "categories": [
+            "dat",
+            "imp",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  later  man  with  fight-\\textsc{ss}.\\textsc{seq}  not  1s.\\textsc{dat} appear-\\textsc{imp}.2s",
+        "imtwordsbare": [
+            "2s.UNM",
+            "later",
+            "man",
+            "with",
+            "fight-SS.SEQ",
+            "not",
+            "1s.DAT",
+            "appear-IMP.2s"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "later",
@@ -3986,8 +6140,18 @@
             "1s.\\textsc{dat}",
             "appear-\\textsc{imp}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  ikoka  \\textstyleEmphasizedVernacularWords{mua}  \\textstyleEmphasizedVernacularWords{owawiya}  irak-ep  me  efar kerer-e.",
+        "srcwordsbare": [
+            "No",
+            "ikoka",
+            "mua",
+            "owawiya",
+            "irak-ep",
+            "me",
+            "efar",
+            "kerer-e."
+        ],
         "srcwordshtml": [
             "No",
             "ikoka",
@@ -4011,8 +6175,27 @@
         "trs": "Later when you and your husband fight, don't come to me."
     },
     {
+        "categories": [
+            "acc",
+            "nf",
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "go-\\textsc{ss}.\\textsc{seq}  man  3p.\\textsc{acc}  see-\\textsc{pa}-3s  but  no  man=\\textsc{nf}  not 3p.\\textsc{acc}  sense-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "go-SS.SEQ",
+            "man",
+            "3p.ACC",
+            "see-PA-3s",
+            "but",
+            "no",
+            "man=NF",
+            "not",
+            "3p.ACC",
+            "sense-PA-3s"
+        ],
         "imtwordshtml": [
             "go-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
             "man",
@@ -4037,8 +6220,20 @@
             "3p.\\textsc{acc}",
             "sense-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ikiw-ep  mua  \\textstyleEmphasizedVernacularWords{wia}  uruf-a-k  na  weetak,  mua=ko  me \\textstyleEmphasizedVernacularWords{wia}  furew-a-k.",
+        "srcwordsbare": [
+            "Ikiw-ep",
+            "mua",
+            "wia",
+            "uruf-a-k",
+            "na",
+            "weetak,",
+            "mua=ko",
+            "me",
+            "wia",
+            "furew-a-k."
+        ],
         "srcwordshtml": [
             "Ikiw-ep",
             "mua",
@@ -4066,8 +6261,23 @@
         "trs": "She went and looked for anyone/people but no, she did not sense (there was) anyone (there)."
     },
     {
+        "categories": [
+            "ds",
+            "nmz",
+            "pa",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "work-\\textsc{ss}.\\textsc{sim}-be-\\textsc{ss}  be-\\textsc{ss}  work-\\textsc{nmz}  finish-2/3s.\\textsc{ds} afternoon  come-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "work-SS.SIM-be-SS",
+            "be-SS",
+            "work-NMZ",
+            "finish-2/3s.DS",
+            "afternoon",
+            "come-PA-1/3p"
+        ],
         "imtwordshtml": [
             "work-<span class=\"sc\">ss</span>.<span class=\"sc\">sim</span>-be-<span class=\"sc\">ss</span>",
             "be-<span class=\"sc\">ss</span>",
@@ -4084,8 +6294,16 @@
             "afternoon",
             "come-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mauw-am-ik-ok  ik-ok  mauw-owa  weeser-eya urera  ekap-e-\\textstyleEmphasizedVernacularWords{mik}.",
+        "srcwordsbare": [
+            "Mauw-am-ik-ok",
+            "ik-ok",
+            "mauw-owa",
+            "weeser-eya",
+            "urera",
+            "ekap-e-mik."
+        ],
         "srcwordshtml": [
             "Mauw-am-ik-ok",
             "ik-ok",
@@ -4105,8 +6323,36 @@
         "trs": "They came and landed there at Numbia."
     },
     {
+        "categories": [
+            "inst",
+            "nmz",
+            "pa",
+            "rdp",
+            "seq",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "America  fight-\\textsc{nmz}  sky  canoe  come-\\textsc{ss}.\\textsc{seq}  Ulingan  there  bomb \\textsc{rdp}-drop-go-\\textsc{pa}-1/3p  sky=\\textsc{inst}  sky=\\textsc{inst}  put-\\textsc{ss}.\\textsc{sim}  like.this Wewak  side  thus  go-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "America",
+            "fight-NMZ",
+            "sky",
+            "canoe",
+            "come-SS.SEQ",
+            "Ulingan",
+            "there",
+            "bomb",
+            "RDP-drop-go-PA-1/3p",
+            "sky=INST",
+            "sky=INST",
+            "put-SS.SIM",
+            "like.this",
+            "Wewak",
+            "side",
+            "thus",
+            "go-PA-3s"
+        ],
         "imtwordshtml": [
             "America",
             "fight-<span class=\"sc\">nmz</span>",
@@ -4145,8 +6391,27 @@
             "thus",
             "go-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Amerika  irak-ow(a)  iinan  aasa  ekap-ep  Ulingan  nan  bom \\textstyleEmphasizedVernacularWords{fu-fuurk-ikiw-e-mik}.  Iinan=iw  iinan=iw  wu-ami  feenap Wewak  kame  naap  \\textstyleEmphasizedVernacularWords{ikiw-o-k}.",
+        "srcwordsbare": [
+            "Amerika",
+            "irak-ow(a)",
+            "iinan",
+            "aasa",
+            "ekap-ep",
+            "Ulingan",
+            "nan",
+            "bom",
+            "fu-fuurk-ikiw-e-mik.",
+            "Iinan=iw",
+            "iinan=iw",
+            "wu-ami",
+            "feenap",
+            "Wewak",
+            "kame",
+            "naap",
+            "ikiw-o-k."
+        ],
         "srcwordshtml": [
             "Amerika",
             "irak-ow(a)",
@@ -4188,8 +6453,22 @@
         "trs": "American fighter planes came and went on dropping bombs there in Ulingan. They were really high up and went like this to Wewak."
     },
     {
+        "categories": [
+            "pa",
+            "rdp",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "cow  that1  butcher-\\textsc{ss}.\\textsc{seq}  \\textsc{rdp}-small-\\textsc{rdp} \\textsc{rdp}-cut-\\textsc{ss}.\\textsc{seq}  cook-\\textsc{pa}-1/3",
+        "imtwordsbare": [
+            "cow",
+            "that1",
+            "butcher-SS.SEQ",
+            "RDP-small-RDP",
+            "RDP-cut-SS.SEQ",
+            "cook-PA-1/3"
+        ],
         "imtwordshtml": [
             "cow",
             "that1",
@@ -4206,8 +6485,16 @@
             "\\textsc{rdp}-cut-\\textsc{ss}.\\textsc{seq}",
             "cook-\\textsc{pa}-1/3"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Kau  nain  pa-ep,  gele-gelemuti-tik \\textstyleEmphasizedVernacularWords{pu-puuk}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{ap}  uup-e-mik.",
+        "srcwordsbare": [
+            "Kau",
+            "nain",
+            "pa-ep,",
+            "gele-gelemuti-tik",
+            "pu-puuk-ap",
+            "uup-e-mik."
+        ],
         "srcwordshtml": [
             "Kau",
             "nain",
@@ -4227,8 +6514,23 @@
         "trs": "They butchered the cow and cut it into small pieces and cooked it/them."
     },
     {
+        "categories": [
+            "dat",
+            "nmz",
+            "pa",
+            "rdp",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "hit-to.and.fro-\\textsc{ss}.\\textsc{sim}  leg  pull-\\textsc{nmz}  3.\\textsc{dat} \\textsc{rdp}-tear-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "hit-to.and.fro-SS.SIM",
+            "leg",
+            "pull-NMZ",
+            "3.DAT",
+            "RDP-tear-PA-1/3p"
+        ],
         "imtwordshtml": [
             "hit-to.and.fro-<span class=\"sc\">ss</span>.<span class=\"sc\">sim</span>",
             "leg",
@@ -4243,8 +6545,15 @@
             "3.\\textsc{dat}",
             "\\textsc{rdp}-tear-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Aruf-irapar-emi  meren(a)  suuw-owa  wiar \\textstyleEmphasizedVernacularWords{pere-perek-a-mik.}",
+        "srcwordsbare": [
+            "Aruf-irapar-emi",
+            "meren(a)",
+            "suuw-owa",
+            "wiar",
+            "pere-perek-a-mik."
+        ],
         "srcwordshtml": [
             "Aruf-irapar-emi",
             "meren(a)",
@@ -4262,8 +6571,21 @@
         "trs": "They hit him all over and tore his trousers to pieces."
     },
     {
+        "categories": [
+            "distr",
+            "pl",
+            "pr",
+            "sim",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "sky  canoe  here  descend-\\textsc{ss}.\\textsc{sim}-be-\\textsc{distr}/\\textsc{pl}-Np-\\textsc{pr}.3s",
+        "imtwordsbare": [
+            "sky",
+            "canoe",
+            "here",
+            "descend-SS.SIM-be-DISTR/PL-Np-PR.3s"
+        ],
         "imtwordshtml": [
             "sky",
             "canoe",
@@ -4276,8 +6598,14 @@
             "here",
             "descend-\\textsc{ss}.\\textsc{sim}-be-\\textsc{distr}/\\textsc{pl}-Np-\\textsc{pr}.3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Iinan  aasa  fan  \\textstyleEmphasizedVernacularWords{or-om-ik-omak-i-ya}.",
+        "srcwordsbare": [
+            "Iinan",
+            "aasa",
+            "fan",
+            "or-om-ik-omak-i-ya."
+        ],
         "srcwordshtml": [
             "Iinan",
             "aasa",
@@ -4293,8 +6621,22 @@
         "trs": "Many planes are descending here."
     },
     {
+        "categories": [
+            "cf",
+            "distr",
+            "ds",
+            "pa",
+            "pl"
+        ],
         "filename": "67/6.tex",
         "imt": "house  also  arrow=\\textsc{cf}  burn-2/3s.\\textsc{ds}  burn-\\textsc{distr}/\\textsc{pl}-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "house",
+            "also",
+            "arrow=CF",
+            "burn-2/3s.DS",
+            "burn-DISTR/PL-PA-3s"
+        ],
         "imtwordshtml": [
             "house",
             "also",
@@ -4309,8 +6651,15 @@
             "burn-2/3s.\\textsc{ds}",
             "burn-\\textsc{distr}/\\textsc{pl}-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Koora  pun  ariwa=ke  kuum-eya  \\textstyleEmphasizedVernacularWords{aw-omak-e-k}.",
+        "srcwordsbare": [
+            "Koora",
+            "pun",
+            "ariwa=ke",
+            "kuum-eya",
+            "aw-omak-e-k."
+        ],
         "srcwordshtml": [
             "Koora",
             "pun",
@@ -4328,8 +6677,23 @@
         "trs": "Also many houses burned down when the ammunition burned them."
     },
     {
+        "categories": [
+            "a",
+            "acc",
+            "distr",
+            "fu",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "village  3p.\\textsc{acc}  give.them-\\textsc{distr}/\\textsc{a}-\\textsc{ss}.\\textsc{seq}  thus  go-Np-\\textsc{fu}.3p",
+        "imtwordsbare": [
+            "village",
+            "3p.ACC",
+            "give.them-DISTR/A-SS.SEQ",
+            "thus",
+            "go-Np-FU.3p"
+        ],
         "imtwordshtml": [
             "village",
             "3p.<span class=\"sc\">acc</span>",
@@ -4344,8 +6708,15 @@
             "thus",
             "go-Np-\\textsc{fu}.3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Owowa  wia  \\textstyleEmphasizedVernacularWords{wi-urum-e-p}  naap  ikiw-i-kuan.",
+        "srcwordsbare": [
+            "Owowa",
+            "wia",
+            "wi-urum-e-p",
+            "naap",
+            "ikiw-i-kuan."
+        ],
         "srcwordshtml": [
             "Owowa",
             "wia",
@@ -4363,8 +6734,31 @@
         "trs": "They give villages to all of them and then they go like that.' (Certain villages are designated for certain people to go to.)"
     },
     {
+        "categories": [
+            "a",
+            "acc",
+            "distr",
+            "gen",
+            "lim",
+            "loc",
+            "pa",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3s.\\textsc{unm}  earlier  thing  ornament  3.\\textsc{acc}  get-\\textsc{distr}/\\textsc{a}-\\textsc{ss}.\\textsc{seq} 3s.\\textsc{gen}  body=\\textsc{loc}-{\\O}=\\textsc{lim}  put-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "3s.UNM",
+            "earlier",
+            "thing",
+            "ornament",
+            "3.ACC",
+            "get-DISTR/A-SS.SEQ",
+            "3s.GEN",
+            "body=LOC-{\\O}=LIM",
+            "put-PA-3s"
+        ],
         "imtwordshtml": [
             "3s.<span class=\"sc\">unm</span>",
             "earlier",
@@ -4387,8 +6781,19 @@
             "body=\\textsc{loc}-{\\O}=\\textsc{lim}",
             "put-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "O  iiriw  maa  bala  wiar  \\textstyleEmphasizedVernacularWords{aaw-urum-ep} ona  mia=pa-r=iw  wu-a-k.",
+        "srcwordsbare": [
+            "O",
+            "iiriw",
+            "maa",
+            "bala",
+            "wiar",
+            "aaw-urum-ep",
+            "ona",
+            "mia=pa-r=iw",
+            "wu-a-k."
+        ],
         "srcwordshtml": [
             "O",
             "iiriw",
@@ -4414,8 +6819,16 @@
         "trs": "Earlier he had received ornaments from all of them and (now) he put them on his own body only."
     },
     {
+        "categories": [
+            "fu"
+        ],
         "filename": "67/6.tex",
         "imt": "middle.aged  talk  follow.them-Np-\\textsc{fu}.1p",
+        "imtwordsbare": [
+            "middle.aged",
+            "talk",
+            "follow.them-Np-FU.1p"
+        ],
         "imtwordshtml": [
             "middle.aged",
             "talk",
@@ -4426,8 +6839,13 @@
             "talk",
             "follow.them-Np-\\textsc{fu}.1p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Iperowa  opora  \\textstyleEmphasizedVernacularWords{wiok-i-yan}.",
+        "srcwordsbare": [
+            "Iperowa",
+            "opora",
+            "wiok-i-yan."
+        ],
         "srcwordshtml": [
             "Iperowa",
             "opora",
@@ -4441,8 +6859,20 @@
         "trs": "We'll follow/obey the talk of the middle-aged men."
     },
     {
+        "categories": [
+            "pa",
+            "rdp"
+        ],
         "filename": "67/6.tex",
         "imt": "thing  tooth  case  \\textsc{rdp}-big  just  give.him-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "thing",
+            "tooth",
+            "case",
+            "RDP-big",
+            "just",
+            "give.him-PA-1/3p"
+        ],
         "imtwordshtml": [
             "thing",
             "tooth",
@@ -4459,8 +6889,16 @@
             "just",
             "give.him-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Maa  eneka  kes  mane-maneka  oram  \\textstyleEmphasizedVernacularWords{iw-e-mik}.",
+        "srcwordsbare": [
+            "Maa",
+            "eneka",
+            "kes",
+            "mane-maneka",
+            "oram",
+            "iw-e-mik."
+        ],
         "srcwordshtml": [
             "Maa",
             "eneka",
@@ -4480,8 +6918,19 @@
         "trs": "They gave him big meat (tin) cases for free."
     },
     {
+        "categories": [
+            "imp",
+            "nmz"
+        ],
         "filename": "67/6.tex",
         "imt": "wind  big  pull-\\textsc{nmz}  two  become-\\textsc{imp}.2s",
+        "imtwordsbare": [
+            "wind",
+            "big",
+            "pull-NMZ",
+            "two",
+            "become-IMP.2s"
+        ],
         "imtwordshtml": [
             "wind",
             "big",
@@ -4496,8 +6945,15 @@
             "two",
             "become-\\textsc{imp}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ewar  maneka  \\textstyleEmphasizedVernacularWords{muf-owa}  \\textstyleEmphasizedVernacularWords{erup}  \\textstyleEmphasizedVernacularWords{ar-e}.",
+        "srcwordsbare": [
+            "Ewar",
+            "maneka",
+            "muf-owa",
+            "erup",
+            "ar-e."
+        ],
         "srcwordshtml": [
             "Ewar",
             "maneka",
@@ -4515,8 +6971,20 @@
         "trs": "Breathe deeply twice."
     },
     {
+        "categories": [
+            "loc",
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "first  top=\\textsc{loc}  try-\\textsc{nmz}  three  become-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "first",
+            "top=LOC",
+            "try-NMZ",
+            "three",
+            "become-PA-1/3p"
+        ],
         "imtwordshtml": [
             "first",
             "top=<span class=\"sc\">loc</span>",
@@ -4531,8 +6999,15 @@
             "three",
             "become-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Kiikir  iinan=pa  \\textstyleEmphasizedVernacularWords{akim-owa}  \\textstyleEmphasizedVernacularWords{arow} \\textstyleEmphasizedVernacularWords{ar-e-mik}.",
+        "srcwordsbare": [
+            "Kiikir",
+            "iinan=pa",
+            "akim-owa",
+            "arow",
+            "ar-e-mik."
+        ],
         "srcwordshtml": [
             "Kiikir",
             "iinan=pa",
@@ -4550,8 +7025,20 @@
         "trs": "First they tried it three times on top."
     },
     {
+        "categories": [
+            "add"
+        ],
         "filename": "67/6.tex",
         "imt": "stilt  this  long  \\textsc{add}  other  long  very",
+        "imtwordsbare": [
+            "stilt",
+            "this",
+            "long",
+            "ADD",
+            "other",
+            "long",
+            "very"
+        ],
         "imtwordshtml": [
             "stilt",
             "this",
@@ -4570,8 +7057,17 @@
             "long",
             "very"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Poka  fain  \\textstyleEmphasizedVernacularWords{maala},  ne  oko  \\textstyleEmphasizedVernacularWords{maala}  \\textstyleEmphasizedVernacularWords{akena}.",
+        "srcwordsbare": [
+            "Poka",
+            "fain",
+            "maala,",
+            "ne",
+            "oko",
+            "maala",
+            "akena."
+        ],
         "srcwordshtml": [
             "Poka",
             "fain",
@@ -4593,8 +7089,24 @@
         "trs": "This stilt is long but the other one is longer (lit: very long)."
     },
     {
+        "categories": [
+            "add",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "mountain  top  ascend-\\textsc{pa}-1s  \\textsc{add}  2s.\\textsc{unm}  mountain top  very  ascend-\\textsc{pa}-2s",
+        "imtwordsbare": [
+            "mountain",
+            "top",
+            "ascend-PA-1s",
+            "ADD",
+            "2s.UNM",
+            "mountain",
+            "top",
+            "very",
+            "ascend-PA-2s"
+        ],
         "imtwordshtml": [
             "mountain",
             "top",
@@ -4617,8 +7129,19 @@
             "very",
             "ascend-\\textsc{pa}-2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ema  \\textstyleEmphasizedVernacularWords{iinan} urup-e-m,  ne  no  ema \\textstyleEmphasizedVernacularWords{iinan}  \\textstyleEmphasizedVernacularWords{akena}  urup-o-n.",
+        "srcwordsbare": [
+            "Ema",
+            "iinan",
+            "urup-e-m,",
+            "ne",
+            "no",
+            "ema",
+            "iinan",
+            "akena",
+            "urup-o-n."
+        ],
         "srcwordshtml": [
             "Ema",
             "<span class=\"styleEmphasizedVernacularWords\">iinan</span>",
@@ -4644,8 +7167,17 @@
         "trs": "I climbed a high mountain, but you climbed a higher (lit: very high) mountain."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "pig  that1  small  other  that1  big",
+        "imtwordsbare": [
+            "pig",
+            "that1",
+            "small",
+            "other",
+            "that1",
+            "big"
+        ],
         "imtwordshtml": [
             "pig",
             "that1",
@@ -4662,8 +7194,16 @@
             "that1",
             "big"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Waaya  nain  \\textstyleEmphasizedVernacularWords{gelemuta},  oko  nain  \\textstyleEmphasizedVernacularWords{maneka}.",
+        "srcwordsbare": [
+            "Waaya",
+            "nain",
+            "gelemuta,",
+            "oko",
+            "nain",
+            "maneka."
+        ],
         "srcwordshtml": [
             "Waaya",
             "nain",
@@ -4683,8 +7223,20 @@
         "trs": "That pig is smaller than the other one.' Or: `That other pig is bigger than that one.' (Lit: That pig is small, the other one is big.)"
     },
     {
+        "categories": [
+            "nmz"
+        ],
         "filename": "67/6.tex",
         "imt": "1s/p.father  work-\\textsc{nmz}  good  man  other  this  no",
+        "imtwordsbare": [
+            "1s/p.father",
+            "work-NMZ",
+            "good",
+            "man",
+            "other",
+            "this",
+            "no"
+        ],
         "imtwordshtml": [
             "1s/p.father",
             "work-<span class=\"sc\">nmz</span>",
@@ -4703,8 +7255,17 @@
             "this",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Auwa  uuw-owa  \\textstyleEmphasizedVernacularWords{eliwa},  mua  oko  fain  \\textstyleEmphasizedVernacularWords{wia}.",
+        "srcwordsbare": [
+            "Auwa",
+            "uuw-owa",
+            "eliwa,",
+            "mua",
+            "oko",
+            "fain",
+            "wia."
+        ],
         "srcwordshtml": [
             "Auwa",
             "uuw-owa",
@@ -4726,8 +7287,22 @@
         "trs": "My father's work is better than this other man's. (Lit: My father's work is good, this other man's is not.) "
     },
     {
+        "categories": [
+            "pa",
+            "rdp",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "thing  \\textsc{rdp}-big  thing  this  surpass-\\textsc{ss}.\\textsc{seq}  be-\\textsc{pa}.3s",
+        "imtwordsbare": [
+            "thing",
+            "RDP-big",
+            "thing",
+            "this",
+            "surpass-SS.SEQ",
+            "be-PA.3s"
+        ],
         "imtwordshtml": [
             "thing",
             "<span class=\"sc\">rdp</span>-big",
@@ -4744,8 +7319,16 @@
             "surpass-\\textsc{ss}.\\textsc{seq}",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Maa  mane-maneka,  maa  fain  \\textstyleEmphasizedVernacularWords{nomak-ep}  ik-ua.",
+        "srcwordsbare": [
+            "Maa",
+            "mane-maneka,",
+            "maa",
+            "fain",
+            "nomak-ep",
+            "ik-ua."
+        ],
         "srcwordshtml": [
             "Maa",
             "mane-maneka,",
@@ -4765,8 +7348,26 @@
         "trs": "They are big things, greater than these."
     },
     {
+        "categories": [
+            "cntf",
+            "gen",
+            "pa",
+            "qm",
+            "seq",
+            "ss",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  1p.\\textsc{gen}  ancestor  surpass-\\textsc{ss}.\\textsc{seq}  big become-\\textsc{cntf}-\\textsc{pa}-1s  say-\\textsc{ss}.\\textsc{seq}=\\textsc{qm}",
+        "imtwordsbare": [
+            "2s.UNM",
+            "1p.GEN",
+            "ancestor",
+            "surpass-SS.SEQ",
+            "big",
+            "become-CNTF-PA-1s",
+            "say-SS.SEQ=QM"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "1p.<span class=\"sc\">gen</span>",
@@ -4785,8 +7386,17 @@
             "become-\\textsc{cntf}-\\textsc{pa}-1s",
             "say-\\textsc{ss}.\\textsc{seq}=\\textsc{qm}"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  yiena  nembesir  \\textstyleEmphasizedVernacularWords{nomak-ep}  maneka ar-ek-a-m  na-ep=i?",
+        "srcwordsbare": [
+            "No",
+            "yiena",
+            "nembesir",
+            "nomak-ep",
+            "maneka",
+            "ar-ek-a-m",
+            "na-ep=i?"
+        ],
         "srcwordshtml": [
             "No",
             "yiena",
@@ -4808,8 +7418,22 @@
         "trs": "Do you want to become greater than our ancestors?"
     },
     {
+        "categories": [
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "tree  strip  this  short  other  surpass-\\textsc{ss}.\\textsc{seq}  cut-\\textsc{pa}-1s.",
+        "imtwordsbare": [
+            "tree",
+            "strip",
+            "this",
+            "short",
+            "other",
+            "surpass-SS.SEQ",
+            "cut-PA-1s."
+        ],
         "imtwordshtml": [
             "tree",
             "strip",
@@ -4828,8 +7452,17 @@
             "surpass-\\textsc{ss}.\\textsc{seq}",
             "cut-\\textsc{pa}-1s."
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Nomokowa  kakawa  fain  iiwa,  oko  \\textstyleEmphasizedVernacularWords{nomak-ep}  puuk-a-m.",
+        "srcwordsbare": [
+            "Nomokowa",
+            "kakawa",
+            "fain",
+            "iiwa,",
+            "oko",
+            "nomak-ep",
+            "puuk-a-m."
+        ],
         "srcwordshtml": [
             "Nomokowa",
             "kakawa",
@@ -4851,8 +7484,23 @@
         "trs": "This piece of timber is short, I cut the other one longer."
     },
     {
+        "categories": [
+            "cf",
+            "dat",
+            "nmz",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3s.\\textsc{unm}  be.strong-\\textsc{nmz}=\\textsc{cf}  1s.\\textsc{unm}  be.strong-\\textsc{nmz}  1s.\\textsc{dat} surpass-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "3s.UNM",
+            "be.strong-NMZ=CF",
+            "1s.UNM",
+            "be.strong-NMZ",
+            "1s.DAT",
+            "surpass-PA-3s"
+        ],
         "imtwordshtml": [
             "3s.<span class=\"sc\">unm</span>",
             "be.strong-<span class=\"sc\">nmz</span>=<span class=\"sc\">cf</span>",
@@ -4869,8 +7517,16 @@
             "1s.\\textsc{dat}",
             "surpass-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "O  kekan-owa=ke  yo  kekan-owa  efar \\textstyleEmphasizedVernacularWords{nomak-e-k}.",
+        "srcwordsbare": [
+            "O",
+            "kekan-owa=ke",
+            "yo",
+            "kekan-owa",
+            "efar",
+            "nomak-e-k."
+        ],
         "srcwordshtml": [
             "O",
             "kekan-owa=ke",
@@ -4890,8 +7546,20 @@
         "trs": "He is stronger than I. (Lit: His strength surpasses my strength.)"
     },
     {
+        "categories": [
+            "cf",
+            "dat",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "man  other=\\textsc{cf}  head/knowledge  1s.\\textsc{dat}  surpass-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "man",
+            "other=CF",
+            "head/knowledge",
+            "1s.DAT",
+            "surpass-PA-3s"
+        ],
         "imtwordshtml": [
             "man",
             "other=<span class=\"sc\">cf</span>",
@@ -4906,8 +7574,15 @@
             "1s.\\textsc{dat}",
             "surpass-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mua  oko=ke  ikiwosa/amisa  efar  \\textstyleEmphasizedVernacularWords{nomak-e-k}.",
+        "srcwordsbare": [
+            "Mua",
+            "oko=ke",
+            "ikiwosa/amisa",
+            "efar",
+            "nomak-e-k."
+        ],
         "srcwordshtml": [
             "Mua",
             "oko=ke",
@@ -4925,8 +7600,23 @@
         "trs": "Someone else is more intelligent than I. (Lit: {\\dots}surpasses my head/knowledge.)"
     },
     {
+        "categories": [
+            "acc",
+            "fu",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "3p.\\textsc{acc}  surpass-\\textsc{ss}.\\textsc{seq}  not  precede-\\textsc{ss}.\\textsc{seq}  {\\dots} ascend-Np-\\textsc{fu}.1p  no",
+        "imtwordsbare": [
+            "3p.ACC",
+            "surpass-SS.SEQ",
+            "not",
+            "precede-SS.SEQ",
+            "{\\dots}",
+            "ascend-Np-FU.1p",
+            "no"
+        ],
         "imtwordshtml": [
             "3p.<span class=\"sc\">acc</span>",
             "surpass-<span class=\"sc\">ss</span>.<span class=\"sc\">seq</span>",
@@ -4945,8 +7635,17 @@
             "ascend-Np-\\textsc{fu}.1p",
             "no"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "...wia  \\textstyleEmphasizedVernacularWords{nomak-ep}  me  miim-ep  ... urup-i-yen,  weetak.",
+        "srcwordsbare": [
+            "...wia",
+            "nomak-ep",
+            "me",
+            "miim-ep",
+            "...",
+            "urup-i-yen,",
+            "weetak."
+        ],
         "srcwordshtml": [
             "...wia",
             "<span class=\"styleEmphasizedVernacularWords\">nomak-ep</span>",
@@ -4968,8 +7667,23 @@
         "trs": "{\\dots} we'll not go up earlier than they, no."
     },
     {
+        "categories": [
+            "acc",
+            "com",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  name  that1  man  many=\\textsc{com}  3p.\\textsc{acc}  surpass-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "2s.UNM",
+            "name",
+            "that1",
+            "man",
+            "many=COM",
+            "3p.ACC",
+            "surpass-PA-3s"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "name",
@@ -4988,8 +7702,17 @@
             "3p.\\textsc{acc}",
             "surpass-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  unuma  nain  mua  \\textstyleEmphasizedVernacularWords{unow=iya}  wia  \\textstyleEmphasizedVernacularWords{nomakek}.",
+        "srcwordsbare": [
+            "No",
+            "unuma",
+            "nain",
+            "mua",
+            "unow=iya",
+            "wia",
+            "nomakek."
+        ],
         "srcwordshtml": [
             "No",
             "unuma",
@@ -5011,8 +7734,24 @@
         "trs": "You are the most important of all people.' (Lit: `Your name surpasses all people.')"
     },
     {
+        "categories": [
+            "add",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "stilt  this  long  that1  surpass-\\textsc{pa}-3s  \\textsc{add}  other  that1  long very",
+        "imtwordsbare": [
+            "stilt",
+            "this",
+            "long",
+            "that1",
+            "surpass-PA-3s",
+            "ADD",
+            "other",
+            "that1",
+            "long",
+            "very"
+        ],
         "imtwordshtml": [
             "stilt",
             "this",
@@ -5037,8 +7776,20 @@
             "long",
             "very"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Poka  fain  \\textstyleEmphasizedVernacularWords{maala},  nain  \\textstyleEmphasizedVernacularWords{nomak-e-k},  ne  oko  nain  \\textstyleEmphasizedVernacularWords{maala} \\textstyleEmphasizedVernacularWords{akena}.",
+        "srcwordsbare": [
+            "Poka",
+            "fain",
+            "maala,",
+            "nain",
+            "nomak-e-k,",
+            "ne",
+            "oko",
+            "nain",
+            "maala",
+            "akena."
+        ],
         "srcwordshtml": [
             "Poka",
             "fain",
@@ -5066,8 +7817,20 @@
         "trs": "This stilt is longer than that one, and/but that other one is the longest."
     },
     {
+        "categories": [
+            "pa",
+            "seq",
+            "ss"
+        ],
         "filename": "67/6.tex",
         "imt": "neck  kind  other  hear-\\textsc{ss}.\\textsc{seq}  flee-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "neck",
+            "kind",
+            "other",
+            "hear-SS.SEQ",
+            "flee-PA-1/3p"
+        ],
         "imtwordshtml": [
             "neck",
             "kind",
@@ -5082,8 +7845,15 @@
             "hear-\\textsc{ss}.\\textsc{seq}",
             "flee-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Iwakara  \\textstyleEmphasizedVernacularWords{sira} \\textstyleEmphasizedVernacularWords{oko}  miim-ap  baurar-e-mik.",
+        "srcwordsbare": [
+            "Iwakara",
+            "sira",
+            "oko",
+            "miim-ap",
+            "baurar-e-mik."
+        ],
         "srcwordshtml": [
             "Iwakara",
             "<span class=\"styleEmphasizedVernacularWords\">sira</span>",
@@ -5101,8 +7871,22 @@
         "trs": "They heard a different voice and ran away."
     },
     {
+        "categories": [
+            "acc",
+            "imp",
+            "nf"
+        ],
         "filename": "67/6.tex",
         "imt": "youngster  talk  kind  other=\\textsc{nf}  not  3p.\\textsc{acc}  tell-\\textsc{imp}.2s",
+        "imtwordsbare": [
+            "youngster",
+            "talk",
+            "kind",
+            "other=NF",
+            "not",
+            "3p.ACC",
+            "tell-IMP.2s"
+        ],
         "imtwordshtml": [
             "youngster",
             "talk",
@@ -5121,8 +7905,17 @@
             "3p.\\textsc{acc}",
             "tell-\\textsc{imp}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Takira  opor(a)  \\textstyleEmphasizedVernacularWords{sira}  \\textstyleEmphasizedVernacularWords{oko}=ko  me  wia  maak-e.",
+        "srcwordsbare": [
+            "Takira",
+            "opor(a)",
+            "sira",
+            "oko=ko",
+            "me",
+            "wia",
+            "maak-e."
+        ],
         "srcwordshtml": [
             "Takira",
             "opor(a)",
@@ -5144,8 +7937,20 @@
         "trs": "Don't tell different things to the youngsters (from what you are supposed to tell them)."
     },
     {
+        "categories": [
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "2s.\\textsc{unm}  foot  big  1s.\\textsc{unm}  foot  altogether  enough",
+        "imtwordsbare": [
+            "2s.UNM",
+            "foot",
+            "big",
+            "1s.UNM",
+            "foot",
+            "altogether",
+            "enough"
+        ],
         "imtwordshtml": [
             "2s.<span class=\"sc\">unm</span>",
             "foot",
@@ -5164,8 +7969,17 @@
             "altogether",
             "enough"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "No  merena  \\textstyleEmphasizedVernacularWords{maneka}  yo  merena  \\textstyleEmphasizedVernacularWords{iiwawun}  \\textstyleEmphasizedVernacularWords{pepek}.",
+        "srcwordsbare": [
+            "No",
+            "merena",
+            "maneka",
+            "yo",
+            "merena",
+            "iiwawun",
+            "pepek."
+        ],
         "srcwordshtml": [
             "No",
             "merena",
@@ -5187,8 +8001,18 @@
         "trs": "Your feet are big, just as big as my feet.' Or: `Your big feet are just as big as mine."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "hole  long  Moro  village  long  enough  very",
+        "imtwordsbare": [
+            "hole",
+            "long",
+            "Moro",
+            "village",
+            "long",
+            "enough",
+            "very"
+        ],
         "imtwordshtml": [
             "hole",
             "long",
@@ -5207,8 +8031,17 @@
             "enough",
             "very"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Urauwa  maala  Moro  owowa  \\textstyleEmphasizedVernacularWords{maala}  \\textstyleEmphasizedVernacularWords{pepek}  \\textstyleEmphasizedVernacularWords{akena}.",
+        "srcwordsbare": [
+            "Urauwa",
+            "maala",
+            "Moro",
+            "owowa",
+            "maala",
+            "pepek",
+            "akena."
+        ],
         "srcwordshtml": [
             "Urauwa",
             "maala",
@@ -5230,8 +8063,17 @@
         "trs": "The hole (is) as deep as Moro village is long."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "1s/p.father  body  big  son  also  like.that",
+        "imtwordsbare": [
+            "1s/p.father",
+            "body",
+            "big",
+            "son",
+            "also",
+            "like.that"
+        ],
         "imtwordshtml": [
             "1s/p.father",
             "body",
@@ -5248,8 +8090,16 @@
             "also",
             "like.that"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Auwa  mia  maneka,  muuka  pun  \\textstyleEmphasizedVernacularWords{naap}.",
+        "srcwordsbare": [
+            "Auwa",
+            "mia",
+            "maneka,",
+            "muuka",
+            "pun",
+            "naap."
+        ],
         "srcwordshtml": [
             "Auwa",
             "mia",
@@ -5269,8 +8119,18 @@
         "trs": "The father is big, (and) the son is like that too."
     },
     {
+        "categories": [
+            "gen"
+        ],
         "filename": "67/6.tex",
         "imt": "boy  that1  3s/p.\\textsc{gen}  father  like.that",
+        "imtwordsbare": [
+            "boy",
+            "that1",
+            "3s/p.GEN",
+            "father",
+            "like.that"
+        ],
         "imtwordshtml": [
             "boy",
             "that1",
@@ -5285,8 +8145,15 @@
             "father",
             "like.that"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Muuka  nain  (ona)  wiawi  \\textstyleEmphasizedVernacularWords{naap}.",
+        "srcwordsbare": [
+            "Muuka",
+            "nain",
+            "(ona)",
+            "wiawi",
+            "naap."
+        ],
         "srcwordshtml": [
             "Muuka",
             "nain",
@@ -5304,8 +8171,21 @@
         "trs": "The boy/son is like his father."
     },
     {
+        "categories": [
+            "imp",
+            "nmz",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1p.\\textsc{unm}  food  eat-\\textsc{nmz}  like.that  that1  feed.us-\\textsc{imp}.2s",
+        "imtwordsbare": [
+            "1p.UNM",
+            "food",
+            "eat-NMZ",
+            "like.that",
+            "that1",
+            "feed.us-IMP.2s"
+        ],
         "imtwordshtml": [
             "1p.<span class=\"sc\">unm</span>",
             "food",
@@ -5322,8 +8202,16 @@
             "that1",
             "feed.us-\\textsc{imp}.2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "I  maa  en-owa  \\textstyleEmphasizedVernacularWords{naap}  nain  yienak-e.",
+        "srcwordsbare": [
+            "I",
+            "maa",
+            "en-owa",
+            "naap",
+            "nain",
+            "yienak-e."
+        ],
         "srcwordshtml": [
             "I",
             "maa",
@@ -5343,8 +8231,21 @@
         "trs": "Give us food like that."
     },
     {
+        "categories": [
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "night  like.this  that1  3p.\\textsc{unm}  cart  that1  pull-\\textsc{pa}-1/3p",
+        "imtwordsbare": [
+            "night",
+            "like.this",
+            "that1",
+            "3p.UNM",
+            "cart",
+            "that1",
+            "pull-PA-1/3p"
+        ],
         "imtwordshtml": [
             "night",
             "like.this",
@@ -5363,8 +8264,17 @@
             "that1",
             "pull-\\textsc{pa}-1/3p"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Uura  \\textstyleEmphasizedVernacularWords{feenap}  nain,  wi  wilkar  nain  muf-e-mik.",
+        "srcwordsbare": [
+            "Uura",
+            "feenap",
+            "nain,",
+            "wi",
+            "wilkar",
+            "nain",
+            "muf-e-mik."
+        ],
         "srcwordshtml": [
             "Uura",
             "<span class=\"styleEmphasizedVernacularWords\">feenap</span>",
@@ -5386,8 +8296,17 @@
         "trs": "On nights like this they pulled the carts."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "turtle  meat  good  chicken  meat  like",
+        "imtwordsbare": [
+            "turtle",
+            "meat",
+            "good",
+            "chicken",
+            "meat",
+            "like"
+        ],
         "imtwordshtml": [
             "turtle",
             "meat",
@@ -5404,8 +8323,16 @@
             "meat",
             "like"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Pon  oposia  eliwa,  aara  oposia  \\textstyleEmphasizedVernacularWords{saarik}.",
+        "srcwordsbare": [
+            "Pon",
+            "oposia",
+            "eliwa,",
+            "aara",
+            "oposia",
+            "saarik."
+        ],
         "srcwordshtml": [
             "Pon",
             "oposia",
@@ -5425,8 +8352,15 @@
         "trs": "Turtle meat is good, like chicken meat."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "fish  eel  snake  like",
+        "imtwordsbare": [
+            "fish",
+            "eel",
+            "snake",
+            "like"
+        ],
         "imtwordshtml": [
             "fish",
             "eel",
@@ -5439,8 +8373,14 @@
             "snake",
             "like"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Mera  iperuma  ifa  \\textstyleEmphasizedVernacularWords{saarik}.",
+        "srcwordsbare": [
+            "Mera",
+            "iperuma",
+            "ifa",
+            "saarik."
+        ],
         "srcwordshtml": [
             "Mera",
             "iperuma",
@@ -5456,8 +8396,22 @@
         "trs": "An eel is like a snake."
     },
     {
+        "categories": [
+            "intj",
+            "tp"
+        ],
         "filename": "67/6.tex",
         "imt": "Ulingan  \\textsc{intj}=\\textsc{tp}  sky  canoe  bird  like  many  very",
+        "imtwordsbare": [
+            "Ulingan",
+            "INTJ=TP",
+            "sky",
+            "canoe",
+            "bird",
+            "like",
+            "many",
+            "very"
+        ],
         "imtwordshtml": [
             "Ulingan",
             "<span class=\"sc\">intj</span>=<span class=\"sc\">tp</span>",
@@ -5478,8 +8432,18 @@
             "many",
             "very"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Ulingan  fa=na  iinan  aasa  nepa  \\textstyleEmphasizedVernacularWords{saarik,}  unow(a)  akena.",
+        "srcwordsbare": [
+            "Ulingan",
+            "fa=na",
+            "iinan",
+            "aasa",
+            "nepa",
+            "saarik,",
+            "unow(a)",
+            "akena."
+        ],
         "srcwordshtml": [
             "Ulingan",
             "fa=na",
@@ -5503,8 +8467,23 @@
         "trs": "Ulingan -- wow -- the airplanes were like birds, there were lots of them."
     },
     {
+        "categories": [
+            "acc",
+            "bpx",
+            "nmz",
+            "pa"
+        ],
         "filename": "67/6.tex",
         "imt": "why  road  understand-\\textsc{nmz}  like  here  1p.\\textsc{acc} \\textsc{bpx}-descend-\\textsc{pa}-2s",
+        "imtwordsbare": [
+            "why",
+            "road",
+            "understand-NMZ",
+            "like",
+            "here",
+            "1p.ACC",
+            "BPX-descend-PA-2s"
+        ],
         "imtwordshtml": [
             "why",
             "road",
@@ -5523,8 +8502,17 @@
             "1p.\\textsc{acc}",
             "\\textsc{bpx}-descend-\\textsc{pa}-2s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Moram  era  \\textstyleEmphasizedVernacularWords{paayar-owa}  \\textstyleEmphasizedVernacularWords{saarik}  fan  yia p-or-o-n?",
+        "srcwordsbare": [
+            "Moram",
+            "era",
+            "paayar-owa",
+            "saarik",
+            "fan",
+            "yia",
+            "p-or-o-n?"
+        ],
         "srcwordshtml": [
             "Moram",
             "era",
@@ -5546,8 +8534,21 @@
         "trs": "Why did you bring us down here as if you knew the road?"
     },
     {
+        "categories": [
+            "nmz",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "3s.\\textsc{unm}  Manam  descend-\\textsc{nmz}  like  coconut  split-\\textsc{pa}-3s",
+        "imtwordsbare": [
+            "3s.UNM",
+            "Manam",
+            "descend-NMZ",
+            "like",
+            "coconut",
+            "split-PA-3s"
+        ],
         "imtwordshtml": [
             "3s.<span class=\"sc\">unm</span>",
             "Manam",
@@ -5564,8 +8565,16 @@
             "coconut",
             "split-\\textsc{pa}-3s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "O  Menamura  \\textstyleEmphasizedVernacularWords{or-owa}  \\textstyleEmphasizedVernacularWords{saarik}  iwera  fook-a-k.",
+        "srcwordsbare": [
+            "O",
+            "Menamura",
+            "or-owa",
+            "saarik",
+            "iwera",
+            "fook-a-k."
+        ],
         "srcwordshtml": [
             "O",
             "Menamura",
@@ -5585,8 +8594,25 @@
         "trs": "He split coconuts (for copra), as if he were going to Manam."
     },
     {
+        "categories": [
+            "acc",
+            "nmz",
+            "pa",
+            "unm"
+        ],
         "filename": "67/6.tex",
         "imt": "1s.\\textsc{unm}  1s.\\textsc{acc}  buy-\\textsc{nmz}  like  for.nothing  big work-\\textsc{nmz}  hot  do-\\textsc{pa}-1s",
+        "imtwordsbare": [
+            "1s.UNM",
+            "1s.ACC",
+            "buy-NMZ",
+            "like",
+            "for.nothing",
+            "big",
+            "work-NMZ",
+            "hot",
+            "do-PA-1s"
+        ],
         "imtwordshtml": [
             "1s.<span class=\"sc\">unm</span>",
             "1s.<span class=\"sc\">acc</span>",
@@ -5609,8 +8635,19 @@
             "hot",
             "do-\\textsc{pa}-1s"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Yo  \\textstyleEmphasizedVernacularWords{efa}  \\textstyleEmphasizedVernacularWords{sesenar-owa}  \\textstyleEmphasizedVernacularWords{saarik}  oram  maneka uuw-owa  yoowa  on-a-m.",
+        "srcwordsbare": [
+            "Yo",
+            "efa",
+            "sesenar-owa",
+            "saarik",
+            "oram",
+            "maneka",
+            "uuw-owa",
+            "yoowa",
+            "on-a-m."
+        ],
         "srcwordshtml": [
             "Yo",
             "<span class=\"styleEmphasizedVernacularWords\">efa</span>",
@@ -5636,8 +8673,17 @@
         "trs": "I worked hard for nothing, as if they would pay me for it (lit: buy me)."
     },
     {
+        "categories": [],
         "filename": "67/6.tex",
         "imt": "girl  that1  3s/p.mother  face  again  very",
+        "imtwordsbare": [
+            "girl",
+            "that1",
+            "3s/p.mother",
+            "face",
+            "again",
+            "very"
+        ],
         "imtwordshtml": [
             "girl",
             "that1",
@@ -5654,8 +8700,16 @@
             "again",
             "very"
         ],
-        "language": "Mauwake",
+        "language": "Rapa Nui",
         "src": "Wiipa  nain  onak  miikapura  \\textstyleEmphasizedVernacularWords{nainiw}  \\textstyleEmphasizedVernacularWords{akena}.",
+        "srcwordsbare": [
+            "Wiipa",
+            "nain",
+            "onak",
+            "miikapura",
+            "nainiw",
+            "akena."
+        ],
         "srcwordshtml": [
             "Wiipa",
             "nain",

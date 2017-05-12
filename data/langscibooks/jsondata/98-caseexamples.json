@@ -1,7 +1,15 @@
 [
     {
+        "categories": [
+            "nom",
+            "prf"
+        ],
         "filename": "98/case.tex",
         "imt": "come:\\textsc{prf}   enemies-\\textsc{nom}",
+        "imtwordsbare": [
+            "come:PRF",
+            "enemies-NOM"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">prf</span>",
             "enemies-<span class=\"sc\">nom</span>"
@@ -10,8 +18,12 @@
             "come:\\textsc{prf}",
             "enemies-\\textsc{nom}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ats\u00e1\u00e1   l\u0254\u014b\\'{\u0254}t-\\textbf{\\\u1d43}!",
+        "srcwordsbare": [
+            "Ats\u00e1\u00e1",
+            "l\u0254\u014b\\'{\u0254}t-\\\u1d43!"
+        ],
         "srcwordshtml": [
             "Ats\u00e1\u00e1",
             "l\u0254\u014b\\'{\u0254}t-<span class=\"bf\">\\\u1d43</span>!"
@@ -23,8 +35,18 @@
         "trs": "The enemies have come!"
     },
     {
+        "categories": [
+            "acc",
+            "nom",
+            "seq"
+        ],
         "filename": "98/case.tex",
         "imt": "spear:\\textsc{seq}   hunter-\\textsc{nom}   bushbuck:\\textsc{acc}",
+        "imtwordsbare": [
+            "spear:SEQ",
+            "hunter-NOM",
+            "bushbuck:ACC"
+        ],
         "imtwordshtml": [
             "spear:<span class=\"sc\">seq</span>",
             "hunter-<span class=\"sc\">nom</span>",
@@ -35,8 +57,13 @@
             "hunter-\\textsc{nom}",
             "bushbuck:\\textsc{acc}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "To\u0253uo   \u0199a\u0199aam-\\textbf{a}   k\u0289l\u00e1\u0253\u00e1k\u1d43.",
+        "srcwordsbare": [
+            "To\u0253uo",
+            "\u0199a\u0199aam-a",
+            "k\u0289l\u00e1\u0253\u00e1k\u1d43."
+        ],
         "srcwordshtml": [
             "To\u0253uo",
             "\u0199a\u0199aam-<span class=\"bf\">a</span>",
@@ -50,8 +77,16 @@
         "trs": "And the hunter speared the bushbuck."
     },
     {
+        "categories": [
+            "2sg",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{2sg}   mush-\\textsc{nom}=this",
+        "imtwordsbare": [
+            "eat:2SG",
+            "mush-NOM=this"
+        ],
         "imtwordshtml": [
             "eat:<span class=\"sc\">2sg</span>",
             "mush-<span class=\"sc\">nom</span>=this"
@@ -60,8 +95,12 @@
             "eat:\\textsc{2sg}",
             "mush-\\textsc{nom}=this"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a\u0199{\\\u00cd}da   t\u0254b\u0254\u014b-\\textbf{a}=na.",
+        "srcwordsbare": [
+            "\u014a\u0199{\\\u00cd}da",
+            "t\u0254b\u0254\u014b-a=na."
+        ],
         "srcwordshtml": [
             "\u014a\u0199{\\\u00cd}da",
             "t\u0254b\u0254\u014b-<span class=\"bf\">a</span>=na."
@@ -73,8 +112,16 @@
         "trs": "You eat this meal mush."
     },
     {
+        "categories": [
+            "3sg",
+            "acc"
+        ],
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{3sg}   mush-\\textsc{acc}=this",
+        "imtwordsbare": [
+            "eat:3SG",
+            "mush-ACC=this"
+        ],
         "imtwordshtml": [
             "eat:<span class=\"sc\">3sg</span>",
             "mush-<span class=\"sc\">acc</span>=this"
@@ -83,8 +130,12 @@
             "eat:\\textsc{3sg}",
             "mush-\\textsc{acc}=this"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a\u0199a   t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na.",
+        "srcwordsbare": [
+            "\u014a\u0199a",
+            "t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na."
+        ],
         "srcwordshtml": [
             "\u014a\u0199a",
             "t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na."
@@ -96,8 +147,17 @@
         "trs": "She eats this meal mush."
     },
     {
+        "categories": [
+            "1pl",
+            "exc",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{1pl.exc}   mush-\\textsc{nom}=this",
+        "imtwordsbare": [
+            "eat:1pl.exc",
+            "mush-NOM=this"
+        ],
         "imtwordshtml": [
             "eat:<span class=\"sc\">1pl.exc</span>",
             "mush-<span class=\"sc\">nom</span>=this"
@@ -106,8 +166,12 @@
             "eat:\\textsc{1pl.exc}",
             "mush-\\textsc{nom}=this"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a\u0199{\\\u00cd}m\u00e1     t\u0254b\u0254\u014b-\\textbf{a}=na",
+        "srcwordsbare": [
+            "\u014a\u0199{\\\u00cd}m\u00e1",
+            "t\u0254b\u0254\u014b-a=na"
+        ],
         "srcwordshtml": [
             "\u014a\u0199{\\\u00cd}m\u00e1",
             "t\u0254b\u0254\u014b-<span class=\"bf\">a</span>=na"
@@ -119,8 +183,17 @@
         "trs": "We eat this meal mush."
     },
     {
+        "categories": [
+            "1pl",
+            "inc",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{1pl.inc}   mush-\\textsc{nom}=this",
+        "imtwordsbare": [
+            "eat:1pl.inc",
+            "mush-NOM=this"
+        ],
         "imtwordshtml": [
             "eat:<span class=\"sc\">1pl.inc</span>",
             "mush-<span class=\"sc\">nom</span>=this"
@@ -129,8 +202,12 @@
             "eat:\\textsc{1pl.inc}",
             "mush-\\textsc{nom}=this"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a\u0199{\\\u00cd}s{\\\u00cd}na     t\u0254b\u0254\u014b-\\textbf{a}=na.",
+        "srcwordsbare": [
+            "\u014a\u0199{\\\u00cd}s{\\\u00cd}na",
+            "t\u0254b\u0254\u014b-a=na."
+        ],
         "srcwordshtml": [
             "\u014a\u0199{\\\u00cd}s{\\\u00cd}na",
             "t\u0254b\u0254\u014b-<span class=\"bf\">a</span>=na."
@@ -142,8 +219,16 @@
         "trs": "We all eat this meal mush."
     },
     {
+        "categories": [
+            "2pl",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{2pl}   mush-\\textsc{nom}=this",
+        "imtwordsbare": [
+            "eat:2PL",
+            "mush-NOM=this"
+        ],
         "imtwordshtml": [
             "eat:<span class=\"sc\">2pl</span>",
             "mush-<span class=\"sc\">nom</span>=this"
@@ -152,8 +237,12 @@
             "eat:\\textsc{2pl}",
             "mush-\\textsc{nom}=this"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a\u0199{\\\u00cd}t\u00e1   t\u0254b\u0254\u014b-\\textbf{a}=na.",
+        "srcwordsbare": [
+            "\u014a\u0199{\\\u00cd}t\u00e1",
+            "t\u0254b\u0254\u014b-a=na."
+        ],
         "srcwordshtml": [
             "\u014a\u0199{\\\u00cd}t\u00e1",
             "t\u0254b\u0254\u014b-<span class=\"bf\">a</span>=na."
@@ -165,8 +254,16 @@
         "trs": "You all eat this meal mush."
     },
     {
+        "categories": [
+            "3pl",
+            "acc"
+        ],
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{3pl}   mush-\\textsc{acc}=this",
+        "imtwordsbare": [
+            "eat:3PL",
+            "mush-ACC=this"
+        ],
         "imtwordshtml": [
             "eat:<span class=\"sc\">3pl</span>",
             "mush-<span class=\"sc\">acc</span>=this"
@@ -175,8 +272,12 @@
             "eat:\\textsc{3pl}",
             "mush-\\textsc{acc}=this"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a\u0199\u00e1ta   t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na.",
+        "srcwordsbare": [
+            "\u014a\u0199\u00e1ta",
+            "t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na."
+        ],
         "srcwordshtml": [
             "\u014a\u0199\u00e1ta",
             "t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na."
@@ -188,8 +289,18 @@
         "trs": "They eat this meal mush."
     },
     {
+        "categories": [
+            "3pl",
+            "acc",
+            "fut"
+        ],
         "filename": "98/case.tex",
         "imt": "drink:\\textsc{fut:3pl}   beer-\\textsc{acc}   all",
+        "imtwordsbare": [
+            "drink:fut:3pl",
+            "beer-ACC",
+            "all"
+        ],
         "imtwordshtml": [
             "drink:<span class=\"sc\">fut:3pl</span>",
             "beer-<span class=\"sc\">acc</span>",
@@ -200,8 +311,13 @@
             "beer-\\textsc{acc}",
             "all"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Wet\u00e9s\u00e1t\u00e0   m\\`{\u025b}s\\`{\u025b}-\\textbf{\u00e0}   m\u00f9\u0272.",
+        "srcwordsbare": [
+            "Wet\u00e9s\u00e1t\u00e0",
+            "m\\`{\u025b}s\\`{\u025b}-\u00e0",
+            "m\u00f9\u0272."
+        ],
         "srcwordshtml": [
             "Wet\u00e9s\u00e1t\u00e0",
             "m\\`{\u025b}s\\`{\u025b}-<span class=\"bf\">\u00e0</span>",
@@ -215,8 +331,19 @@
         "trs": "They will drink all the beer."
     },
     {
+        "categories": [
+            "1pl",
+            "exc",
+            "fut",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "drink:\\textsc{fut:1pl.exc}   beer-\\textsc{nom}   all",
+        "imtwordsbare": [
+            "drink:fut:1pl.exc",
+            "beer-NOM",
+            "all"
+        ],
         "imtwordshtml": [
             "drink:<span class=\"sc\">fut:1pl.exc</span>",
             "beer-<span class=\"sc\">nom</span>",
@@ -227,8 +354,13 @@
             "beer-\\textsc{nom}",
             "all"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Wet\u00e9s\u00edm\u00e0     m\\`{\u025b}s-\u00e0     m\u00f9\u0272.",
+        "srcwordsbare": [
+            "Wet\u00e9s\u00edm\u00e0",
+            "m\\`{\u025b}s-\u00e0",
+            "m\u00f9\u0272."
+        ],
         "srcwordshtml": [
             "Wet\u00e9s\u00edm\u00e0",
             "m\\`{\u025b}s-\u00e0",
@@ -242,8 +374,17 @@
         "trs": "We will drink all the beer."
     },
     {
+        "categories": [
+            "1sg",
+            "dat",
+            "fut"
+        ],
         "filename": "98/case.tex",
         "imt": "go:\\textsc{fut:1sg}   home-\\textsc{dat}",
+        "imtwordsbare": [
+            "go:fut:1sg",
+            "home-DAT"
+        ],
         "imtwordshtml": [
             "go:<span class=\"sc\">fut:1sg</span>",
             "home-<span class=\"sc\">dat</span>"
@@ -252,8 +393,12 @@
             "go:\\textsc{fut:1sg}",
             "home-\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0198ees\u00ed\u00e1   aw\u00e1-\\textbf{k\\\u1d49}.",
+        "srcwordsbare": [
+            "\u0198ees\u00ed\u00e1",
+            "aw\u00e1-k\\\u1d49."
+        ],
         "srcwordshtml": [
             "\u0198ees\u00ed\u00e1",
             "aw\u00e1-<span class=\"bf\">k\\\u1d49</span>."
@@ -265,8 +410,16 @@
         "trs": "I\u2019m going home."
     },
     {
+        "categories": [
+            "3sg",
+            "dat"
+        ],
         "filename": "98/case.tex",
         "imt": "be:\\textsc{3sg}   garden-\\textsc{dat}",
+        "imtwordsbare": [
+            "be:3SG",
+            "garden-DAT"
+        ],
         "imtwordshtml": [
             "be:<span class=\"sc\">3sg</span>",
             "garden-<span class=\"sc\">dat</span>"
@@ -275,8 +428,12 @@
             "be:\\textsc{3sg}",
             "garden-\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ia     s\u00e9d\u00e0-\\textbf{k\\\u1d49}.",
+        "srcwordsbare": [
+            "Ia",
+            "s\u00e9d\u00e0-k\\\u1d49."
+        ],
         "srcwordshtml": [
             "Ia",
             "s\u00e9d\u00e0-<span class=\"bf\">k\\\u1d49</span>."
@@ -288,8 +445,18 @@
         "trs": "She\u2019s in the garden."
     },
     {
+        "categories": [
+            "3pl",
+            "acc",
+            "dat"
+        ],
         "filename": "98/case.tex",
         "imt": "divide:\\textsc{3pl}   flour:\\textsc{acc}   people-\\textsc{dat}",
+        "imtwordsbare": [
+            "divide:3PL",
+            "flour:ACC",
+            "people-DAT"
+        ],
         "imtwordshtml": [
             "divide:<span class=\"sc\">3pl</span>",
             "flour:<span class=\"sc\">acc</span>",
@@ -300,8 +467,13 @@
             "flour:\\textsc{acc}",
             "people-\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "T\u0254k\u0254r\u00e1ta   kabas\u00e1\u00e1   r\u00f2\u0253\u00e0-\\textbf{k\\\u1d49}.",
+        "srcwordsbare": [
+            "T\u0254k\u0254r\u00e1ta",
+            "kabas\u00e1\u00e1",
+            "r\u00f2\u0253\u00e0-k\\\u1d49."
+        ],
         "srcwordshtml": [
             "T\u0254k\u0254r\u00e1ta",
             "kabas\u00e1\u00e1",
@@ -315,8 +487,17 @@
         "trs": "They are dividing out flour to people."
     },
     {
+        "categories": [
+            "3sg",
+            "dat"
+        ],
         "filename": "98/case.tex",
         "imt": "appall:\\textsc{3sg}   I-\\textsc{dat}   very",
+        "imtwordsbare": [
+            "appall:3SG",
+            "I-DAT",
+            "very"
+        ],
         "imtwordshtml": [
             "appall:<span class=\"sc\">3sg</span>",
             "I-<span class=\"sc\">dat</span>",
@@ -327,8 +508,13 @@
             "I-\\textsc{dat}",
             "very"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0197\u0253\u00e1l\u00e1     \u0272c\u00ec-\\textbf{\u00e8}   z\u00f9k\u1d58.",
+        "srcwordsbare": [
+            "\u0197\u0253\u00e1l\u00e1",
+            "\u0272c\u00ec-\u00e8",
+            "z\u00f9k\u1d58."
+        ],
         "srcwordshtml": [
             "\u0197\u0253\u00e1l\u00e1",
             "\u0272c\u00ec-<span class=\"bf\">\u00e8</span>",
@@ -342,8 +528,18 @@
         "trs": "It really appalls me.\u2019 (Lit: \u2018It is very appalling to me.\u2019)"
     },
     {
+        "categories": [
+            "3sg",
+            "dat",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "be:\\textsc{3sg}   cattle:\\textsc{nom}    he-\\textsc{dat}",
+        "imtwordsbare": [
+            "be:3SG",
+            "cattle:NOM",
+            "he-DAT"
+        ],
         "imtwordshtml": [
             "be:<span class=\"sc\">3sg</span>",
             "cattle:<span class=\"sc\">nom</span>",
@@ -354,8 +550,13 @@
             "cattle:\\textsc{nom}",
             "he-\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ia     \u0266y\u0254a     nts\u00ed-\\textbf{k\\\u1d49}.",
+        "srcwordsbare": [
+            "Ia",
+            "\u0266y\u0254a",
+            "nts\u00ed-k\\\u1d49."
+        ],
         "srcwordshtml": [
             "Ia",
             "\u0266y\u0254a",
@@ -369,8 +570,18 @@
         "trs": "He has cattle.\u2019 (Lit: \u2018There are cattle to him.\u2019)"
     },
     {
+        "categories": [
+            "3sg",
+            "dat",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "go:\\textsc{3sg}   girls:\\textsc{nom}   wood:inside-\\textsc{dat}",
+        "imtwordsbare": [
+            "go:3SG",
+            "girls:NOM",
+            "wood:inside-DAT"
+        ],
         "imtwordshtml": [
             "go:<span class=\"sc\">3sg</span>",
             "girls:<span class=\"sc\">nom</span>",
@@ -381,8 +592,13 @@
             "girls:\\textsc{nom}",
             "wood:inside-\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0198aa     \u0272era     dak\u00fa\u00e1\u0199\\`{\u0254}-\\textbf{k\\\u1d4b}.",
+        "srcwordsbare": [
+            "\u0198aa",
+            "\u0272era",
+            "dak\u00fa\u00e1\u0199\\`{\u0254}-k\\\u1d4b."
+        ],
         "srcwordshtml": [
             "\u0198aa",
             "\u0272era",
@@ -396,8 +612,20 @@
         "trs": "The girls go for firewood."
     },
     {
+        "categories": [
+            "acc",
+            "dat",
+            "gen",
+            "seq"
+        ],
         "filename": "98/case.tex",
         "imt": "drive:\\textsc{seq}   cattle:\\textsc{acc}   they-\\textsc{gen}   corral:\\textsc{dat}",
+        "imtwordsbare": [
+            "drive:SEQ",
+            "cattle:ACC",
+            "they-GEN",
+            "corral:DAT"
+        ],
         "imtwordshtml": [
             "drive:<span class=\"sc\">seq</span>",
             "cattle:<span class=\"sc\">acc</span>",
@@ -410,8 +638,14 @@
             "they-\\textsc{gen}",
             "corral:\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "H\\'{\u0254}n\u0268n\u0268   \u0266y\u0254a     \u0144t\u00ed-\\textbf{e}     \u0253\u00f3r\u00e9k\u1d49.",
+        "srcwordsbare": [
+            "H\\'{\u0254}n\u0268n\u0268",
+            "\u0266y\u0254a",
+            "\u0144t\u00ed-e",
+            "\u0253\u00f3r\u00e9k\u1d49."
+        ],
         "srcwordshtml": [
             "H\\'{\u0254}n\u0268n\u0268",
             "\u0266y\u0254a",
@@ -427,8 +661,18 @@
         "trs": "And they drove their cattle to the corral."
     },
     {
+        "categories": [
+            "3sg",
+            "dat",
+            "gen"
+        ],
         "filename": "98/case.tex",
         "imt": "stand:\\textsc{3sg}   foot:\\textsc{dat}   mountain-\\textsc{gen}",
+        "imtwordsbare": [
+            "stand:3SG",
+            "foot:DAT",
+            "mountain-GEN"
+        ],
         "imtwordshtml": [
             "stand:<span class=\"sc\">3sg</span>",
             "foot:<span class=\"sc\">dat</span>",
@@ -439,8 +683,13 @@
             "foot:\\textsc{dat}",
             "mountain-\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Was\u00e1     d\u025b\u025bd\u025b\u025b   kwar\u00e1-\\textbf{\\\u1d49}.",
+        "srcwordsbare": [
+            "Was\u00e1",
+            "d\u025b\u025bd\u025b\u025b",
+            "kwar\u00e1-\\\u1d49."
+        ],
         "srcwordshtml": [
             "Was\u00e1",
             "d\u025b\u025bd\u025b\u025b",
@@ -454,8 +703,19 @@
         "trs": "He\u2019s standing at the foot of the mountain."
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "gen"
+        ],
         "filename": "98/case.tex",
         "imt": "love:\\textsc{3sg}   wife:\\textsc{acc}   he-\\textsc{gen}   very",
+        "imtwordsbare": [
+            "love:3SG",
+            "wife:ACC",
+            "he-GEN",
+            "very"
+        ],
         "imtwordshtml": [
             "love:<span class=\"sc\">3sg</span>",
             "wife:<span class=\"sc\">acc</span>",
@@ -468,8 +728,14 @@
             "he-\\textsc{gen}",
             "very"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "M{\\\u00cd}n\u00e1     cek\u00ed\u00e1     nts\u00ed-\\textbf{\u00e9}     z\u00f9k\u1d58.",
+        "srcwordsbare": [
+            "M{\\\u00cd}n\u00e1",
+            "cek\u00ed\u00e1",
+            "nts\u00ed-\u00e9",
+            "z\u00f9k\u1d58."
+        ],
         "srcwordshtml": [
             "M{\\\u00cd}n\u00e1",
             "cek\u00ed\u00e1",
@@ -485,8 +751,18 @@
         "trs": "He loves his wife very much."
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "good:\\textsc{3sg}   way:\\textsc{nom}   you-\\textsc{gen}",
+        "imtwordsbare": [
+            "good:3SG",
+            "way:NOM",
+            "you-GEN"
+        ],
         "imtwordshtml": [
             "good:<span class=\"sc\">3sg</span>",
             "way:<span class=\"sc\">nom</span>",
@@ -497,8 +773,13 @@
             "way:\\textsc{nom}",
             "you-\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Mar\u00e1\u014b\u00e1   muce\u00e1   b\u00ec-\\textsuperscript{\u00d8}.",
+        "srcwordsbare": [
+            "Mar\u00e1\u014b\u00e1",
+            "muce\u00e1",
+            "b\u00ec-\u00d8."
+        ],
         "srcwordshtml": [
             "Mar\u00e1\u014b\u00e1",
             "muce\u00e1",
@@ -512,8 +793,16 @@
         "trs": "Your luck is good.\u2019 (lit: Your way is good.)"
     },
     {
+        "categories": [
+            "1sg",
+            "abl"
+        ],
         "filename": "98/case.tex",
         "imt": "come:\\textsc{1sg}   home-\\textsc{abl}",
+        "imtwordsbare": [
+            "come:1SG",
+            "home-ABL"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">1sg</span>",
             "home-<span class=\"sc\">abl</span>"
@@ -522,8 +811,12 @@
             "come:\\textsc{1sg}",
             "home-\\textsc{abl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ats\u00eda     aw\u00e1-\\textbf{\\\u1d52}.",
+        "srcwordsbare": [
+            "Ats\u00eda",
+            "aw\u00e1-\\\u1d52."
+        ],
         "srcwordshtml": [
             "Ats\u00eda",
             "aw\u00e1-<span class=\"bf\">\\\u1d52</span>."
@@ -535,8 +828,17 @@
         "trs": "I come from home."
     },
     {
+        "categories": [
+            "3sg",
+            "abl",
+            "pst"
+        ],
         "filename": "98/case.tex",
         "imt": "die:\\textsc{3sg}=\\textsc{pst}     hunger-\\textsc{abl}",
+        "imtwordsbare": [
+            "die:3SG=PST",
+            "hunger-ABL"
+        ],
         "imtwordshtml": [
             "die:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst</span>",
             "hunger-<span class=\"sc\">abl</span>"
@@ -545,8 +847,12 @@
             "die:\\textsc{3sg}=\\textsc{pst}",
             "hunger-\\textsc{abl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Badu\u0199ota=noo   \u0272\\'{\u025b}\u0199\\`{\u025b}{-}\\textbf{\\\u1d53}.",
+        "srcwordsbare": [
+            "Badu\u0199ota=noo",
+            "\u0272\\'{\u025b}\u0199\\`{\u025b}{-}\\\u1d53."
+        ],
         "srcwordshtml": [
             "Badu\u0199ota=noo",
             "\u0272\\'{\u025b}\u0199\\`{\u025b}{-}<span class=\"bf\">\\\u1d53</span>."
@@ -558,8 +864,16 @@
         "trs": "He died from hunger."
     },
     {
+        "categories": [
+            "3sg",
+            "abl"
+        ],
         "filename": "98/case.tex",
         "imt": "fear:\\textsc{3sg}   girls-\\textsc{abl}",
+        "imtwordsbare": [
+            "fear:3SG",
+            "girls-ABL"
+        ],
         "imtwordshtml": [
             "fear:<span class=\"sc\">3sg</span>",
             "girls-<span class=\"sc\">abl</span>"
@@ -568,8 +882,12 @@
             "fear:\\textsc{3sg}",
             "girls-\\textsc{abl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "X\u025b\u0253a     \u0272\u00e9r\u00e0-\\textbf{\\\u1d52}.",
+        "srcwordsbare": [
+            "X\u025b\u0253a",
+            "\u0272\u00e9r\u00e0-\\\u1d52."
+        ],
         "srcwordshtml": [
             "X\u025b\u0253a",
             "\u0272\u00e9r\u00e0-<span class=\"bf\">\\\u1d52</span>."
@@ -581,8 +899,16 @@
         "trs": "He\u2019s shy of girls."
     },
     {
+        "categories": [
+            "3sg",
+            "abl"
+        ],
         "filename": "98/case.tex",
         "imt": "nice:\\textsc{3sg}   I-\\textsc{abl}",
+        "imtwordsbare": [
+            "nice:3SG",
+            "I-ABL"
+        ],
         "imtwordshtml": [
             "nice:<span class=\"sc\">3sg</span>",
             "I-<span class=\"sc\">abl</span>"
@@ -591,8 +917,12 @@
             "nice:\\textsc{3sg}",
             "I-\\textsc{abl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Daa     \\'{\u0272}c\u00f9-\\textsuperscript{\u00d8}.",
+        "srcwordsbare": [
+            "Daa",
+            "\\'{\u0272}c\u00f9-\u00d8."
+        ],
         "srcwordshtml": [
             "Daa",
             "\\'{\u0272}c\u00f9-<span class=\"superscript\">\u00d8</span>."
@@ -604,8 +934,16 @@
         "trs": "It\u2019s nice to me."
     },
     {
+        "categories": [
+            "3pl",
+            "abl"
+        ],
         "filename": "98/case.tex",
         "imt": "fight:\\textsc{3pl}   gardens-\\textsc{abl}",
+        "imtwordsbare": [
+            "fight:3PL",
+            "gardens-ABL"
+        ],
         "imtwordshtml": [
             "fight:<span class=\"sc\">3pl</span>",
             "gardens-<span class=\"sc\">abl</span>"
@@ -614,8 +952,12 @@
             "fight:\\textsc{3pl}",
             "gardens-\\textsc{abl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "C\u025bm\u00e1ta   s\u00e9d\u00eck\u00e0-\\textbf{\\\u1d52}.",
+        "srcwordsbare": [
+            "C\u025bm\u00e1ta",
+            "s\u00e9d\u00eck\u00e0-\\\u1d52."
+        ],
         "srcwordshtml": [
             "C\u025bm\u00e1ta",
             "s\u00e9d\u00eck\u00e0-<span class=\"bf\">\\\u1d52</span>."
@@ -627,8 +969,19 @@
         "trs": "They are fighting in the gardens."
     },
     {
+        "categories": [
+            "1sg",
+            "ins",
+            "nom",
+            "pst"
+        ],
         "filename": "98/case.tex",
         "imt": "spear:\\textsc{1sg}=\\textsc{pst}   warthog:\\textsc{nom}   spear-\\textsc{ins}",
+        "imtwordsbare": [
+            "spear:1SG=PST",
+            "warthog:NOM",
+            "spear-INS"
+        ],
         "imtwordshtml": [
             "spear:<span class=\"sc\">1sg</span>=<span class=\"sc\">pst</span>",
             "warthog:<span class=\"sc\">nom</span>",
@@ -639,8 +992,13 @@
             "warthog:\\textsc{nom}",
             "spear-\\textsc{ins}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "To\u0253\u00ed\u00e1=noo     gasoa       \u0253\u0268s-\\textbf{\\\u1d53}.",
+        "srcwordsbare": [
+            "To\u0253\u00ed\u00e1=noo",
+            "gasoa",
+            "\u0253\u0268s-\\\u1d53."
+        ],
         "srcwordshtml": [
             "To\u0253\u00ed\u00e1=noo",
             "gasoa",
@@ -654,8 +1012,18 @@
         "trs": "I speared a warthog with a spear."
     },
     {
+        "categories": [
+            "3pl",
+            "dat",
+            "ins"
+        ],
         "filename": "98/case.tex",
         "imt": "go:\\textsc{3pl}   ravine-\\textsc{ins}   downside:\\textsc{dat}",
+        "imtwordsbare": [
+            "go:3PL",
+            "ravine-INS",
+            "downside:DAT"
+        ],
         "imtwordshtml": [
             "go:<span class=\"sc\">3pl</span>",
             "ravine-<span class=\"sc\">ins</span>",
@@ -666,8 +1034,13 @@
             "ravine-\\textsc{ins}",
             "downside:\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0198aini     fots-\\textbf{o}     g\u00edg\u00ecr\u00f2k\u1d49.",
+        "srcwordsbare": [
+            "\u0198aini",
+            "fots-o",
+            "g\u00edg\u00ecr\u00f2k\u1d49."
+        ],
         "srcwordshtml": [
             "\u0198aini",
             "fots-<span class=\"bf\">o</span>",
@@ -681,8 +1054,19 @@
         "trs": "And they went down by way of the ravine."
     },
     {
+        "categories": [
+            "1pl",
+            "gen",
+            "ins",
+            "pst"
+        ],
         "filename": "98/case.tex",
         "imt": "come:\\textsc{1pl}=\\textsc{pst}   things-\\textsc{ins}   we:\\textsc{gen}",
+        "imtwordsbare": [
+            "come:1PL=PST",
+            "things-INS",
+            "we:GEN"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">1pl</span>=<span class=\"sc\">pst</span>",
             "things-<span class=\"sc\">ins</span>",
@@ -693,8 +1077,13 @@
             "things-\\textsc{ins}",
             "we:\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ats\u00edm\u00e1=naa     k\u00far\u00fa\u0253\u00e1d-\\textbf{o}   \u014bg\u00f3\u1d49.",
+        "srcwordsbare": [
+            "Ats\u00edm\u00e1=naa",
+            "k\u00far\u00fa\u0253\u00e1d-o",
+            "\u014bg\u00f3\u1d49."
+        ],
         "srcwordshtml": [
             "Ats\u00edm\u00e1=naa",
             "k\u00far\u00fa\u0253\u00e1d-<span class=\"bf\">o</span>",
@@ -708,8 +1097,18 @@
         "trs": "We came with our things."
     },
     {
+        "categories": [
+            "3sg",
+            "dat",
+            "ins"
+        ],
         "filename": "98/case.tex",
         "imt": "answer:\\textsc{3sg}   I:\\textsc{dat}   badness-\\textsc{ins}",
+        "imtwordsbare": [
+            "answer:3SG",
+            "I:DAT",
+            "badness-INS"
+        ],
         "imtwordshtml": [
             "answer:<span class=\"sc\">3sg</span>",
             "I:<span class=\"sc\">dat</span>",
@@ -720,8 +1119,13 @@
             "I:\\textsc{dat}",
             "badness-\\textsc{ins}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "R\u00e1\u029d\u00e9tuo   \u0272cie   g\u00e1\u00e1n\u00e0s-\\textbf{\\\u1d53}.",
+        "srcwordsbare": [
+            "R\u00e1\u029d\u00e9tuo",
+            "\u0272cie",
+            "g\u00e1\u00e1n\u00e0s-\\\u1d53."
+        ],
         "srcwordshtml": [
             "R\u00e1\u029d\u00e9tuo",
             "\u0272cie",
@@ -735,8 +1139,18 @@
         "trs": "And he answered me with hostility."
     },
     {
+        "categories": [
+            "3sg",
+            "ins",
+            "nom"
+        ],
         "filename": "98/case.tex",
         "imt": "lack:\\textsc{3sg}   hunger:\\textsc{nom}   days-\\textsc{ins}=these",
+        "imtwordsbare": [
+            "lack:3SG",
+            "hunger:NOM",
+            "days-INS=these"
+        ],
         "imtwordshtml": [
             "lack:<span class=\"sc\">3sg</span>",
             "hunger:<span class=\"sc\">nom</span>",
@@ -747,8 +1161,13 @@
             "hunger:\\textsc{nom}",
             "days-\\textsc{ins}=these"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "B\u0268raa     \u0272\u025b\u0199a     \u00f3doicik-\\textbf{\u00f3}=ni.",
+        "srcwordsbare": [
+            "B\u0268raa",
+            "\u0272\u025b\u0199a",
+            "\u00f3doicik-\u00f3=ni."
+        ],
         "srcwordshtml": [
             "B\u0268raa",
             "\u0272\u025b\u0199a",
@@ -762,8 +1181,18 @@
         "trs": "There is no hunger these days."
     },
     {
+        "categories": [
+            "3sg",
+            "gen",
+            "ins"
+        ],
         "filename": "98/case.tex",
         "imt": "fight:\\textsc{3sg}   washing-\\textsc{ins}   clothes:\\textsc{gen}",
+        "imtwordsbare": [
+            "fight:3SG",
+            "washing-INS",
+            "clothes:GEN"
+        ],
         "imtwordshtml": [
             "fight:<span class=\"sc\">3sg</span>",
             "washing-<span class=\"sc\">ins</span>",
@@ -774,8 +1203,13 @@
             "washing-\\textsc{ins}",
             "clothes:\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "C\u025bma     f\u00edt\u00e9s-\\textbf{o}   \u0199w\u00e1z\u00eck\u00e0\u1d49.",
+        "srcwordsbare": [
+            "C\u025bma",
+            "f\u00edt\u00e9s-o",
+            "\u0199w\u00e1z\u00eck\u00e0\u1d49."
+        ],
         "srcwordshtml": [
             "C\u025bma",
             "f\u00edt\u00e9s-<span class=\"bf\">o</span>",
@@ -789,8 +1223,18 @@
         "trs": "She\u2019s washing clothes.\u2019 (lit: \u2018She is fighting with the washing of clothes.\u2019)"
     },
     {
+        "categories": [
+            "1pl",
+            "cop",
+            "exc",
+            "pst"
+        ],
         "filename": "98/case.tex",
         "imt": "we-\\textsc{cop}=\\textsc{pst}   drink:\\textsc{1pl.exc}",
+        "imtwordsbare": [
+            "we-COP=PST",
+            "drink:1pl.exc"
+        ],
         "imtwordshtml": [
             "we-<span class=\"sc\">cop</span>=<span class=\"sc\">pst</span>",
             "drink:<span class=\"sc\">1pl.exc</span>"
@@ -799,8 +1243,12 @@
             "we-\\textsc{cop}=\\textsc{pst}",
             "drink:\\textsc{1pl.exc}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u014a{g\u00f3-}\\textbf{\u00f3}=naa   wet\u00edm.",
+        "srcwordsbare": [
+            "\u014a{g\u00f3-}\u00f3=naa",
+            "wet\u00edm."
+        ],
         "srcwordshtml": [
             "\u014a{g\u00f3-}<span class=\"bf\">\u00f3</span>=naa",
             "wet\u00edm."
@@ -812,8 +1260,16 @@
         "trs": "It was we (who) drank (it)."
     },
     {
+        "categories": [
+            "1sg",
+            "cop"
+        ],
         "filename": "98/case.tex",
         "imt": "meat-\\textsc{cop}   want:\\textsc{1sg}",
+        "imtwordsbare": [
+            "meat-COP",
+            "want:1SG"
+        ],
         "imtwordshtml": [
             "meat-<span class=\"sc\">cop</span>",
             "want:<span class=\"sc\">1sg</span>"
@@ -822,8 +1278,12 @@
             "meat-\\textsc{cop}",
             "want:\\textsc{1sg}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Em\u00f3-\\textbf{\u00f3}     b\\'{\u025b}\u0257{\\\u00cd}.",
+        "srcwordsbare": [
+            "Em\u00f3-\u00f3",
+            "b\\'{\u025b}\u0257{\\\u00cd}."
+        ],
         "srcwordshtml": [
             "Em\u00f3-<span class=\"bf\">\u00f3</span>",
             "b\\'{\u025b}\u0257{\\\u00cd}."
@@ -835,8 +1295,19 @@
         "trs": "It is meat (that) I want."
     },
     {
+        "categories": [
+            "3pl",
+            "cop",
+            "dat",
+            "plur"
+        ],
         "filename": "98/case.tex",
         "imt": "hunger-\\textsc{cop}   go:\\textsc{plur:3pl}   hunt:inside:\\textsc{dat}",
+        "imtwordsbare": [
+            "hunger-COP",
+            "go:plur:3pl",
+            "hunt:inside:DAT"
+        ],
         "imtwordshtml": [
             "hunger-<span class=\"sc\">cop</span>",
             "go:<span class=\"sc\">plur:3pl</span>",
@@ -847,8 +1318,13 @@
             "go:\\textsc{plur:3pl}",
             "hunt:inside:\\textsc{dat}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u019d\u025b\u0199\u0254{-}\\textbf{\u0254}     \u0199ai\u00e1t\u00e8\u00e8   \u0199\u00e0\u0199\u00e0\u00e0\u0199\\`{\u0254}k\\\u1d4b.",
+        "srcwordsbare": [
+            "\u019d\u025b\u0199\u0254{-}\u0254",
+            "\u0199ai\u00e1t\u00e8\u00e8",
+            "\u0199\u00e0\u0199\u00e0\u00e0\u0199\\`{\u0254}k\\\u1d4b."
+        ],
         "srcwordshtml": [
             "\u019d\u025b\u0199\u0254{-}<span class=\"bf\">\u0254</span>",
             "\u0199ai\u00e1t\u00e8\u00e8",
@@ -862,16 +1338,25 @@
         "trs": "It is (due to) hunger (that) they keep going hunting."
     },
     {
+        "categories": [
+            "cop"
+        ],
         "filename": "98/case.tex",
         "imt": "person-\\textsc{cop}",
+        "imtwordsbare": [
+            "person-COP"
+        ],
         "imtwordshtml": [
             "person-<span class=\"sc\">cop</span>"
         ],
         "imtwordstex": [
             "person-\\textsc{cop}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u00c1m\u00e1-\\textbf{k\\\u1d52}.",
+        "srcwordsbare": [
+            "\u00c1m\u00e1-k\\\u1d52."
+        ],
         "srcwordshtml": [
             "\u00c1m\u00e1-<span class=\"bf\">k\\\u1d52</span>."
         ],
@@ -881,8 +1366,17 @@
         "trs": "It\u2019s a person."
     },
     {
+        "categories": [
+            "3sg",
+            "cop",
+            "pst"
+        ],
         "filename": "98/case.tex",
         "imt": "not.be:\\textsc{3sg}=\\textsc{pst}   I-\\textsc{cop}",
+        "imtwordsbare": [
+            "not.be:3SG=PST",
+            "I-COP"
+        ],
         "imtwordshtml": [
             "not.be:<span class=\"sc\">3sg</span>=<span class=\"sc\">pst</span>",
             "I-<span class=\"sc\">cop</span>"
@@ -891,8 +1385,12 @@
             "not.be:\\textsc{3sg}=\\textsc{pst}",
             "I-\\textsc{cop}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "B\u025bna=n\u00e1\u00e1     \\'{\u0272}c\u00f9-\\textbf{k\\\u1d52}.",
+        "srcwordsbare": [
+            "B\u025bna=n\u00e1\u00e1",
+            "\\'{\u0272}c\u00f9-k\\\u1d52."
+        ],
         "srcwordshtml": [
             "B\u025bna=n\u00e1\u00e1",
             "\\'{\u0272}c\u00f9-<span class=\"bf\">k\\\u1d52</span>."
@@ -904,8 +1402,17 @@
         "trs": "It was not me!"
     },
     {
+        "categories": [
+            "imp",
+            "obl"
+        ],
         "filename": "98/case.tex",
         "imt": "bring:\\textsc{imp}   you:\\textsc{obl}   water:\\textsc{obl}=those",
+        "imtwordsbare": [
+            "bring:IMP",
+            "you:OBL",
+            "water:OBL=those"
+        ],
         "imtwordshtml": [
             "bring:<span class=\"sc\">imp</span>",
             "you:<span class=\"sc\">obl</span>",
@@ -916,8 +1423,13 @@
             "you:\\textsc{obl}",
             "water:\\textsc{obl}=those"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Det\u00e9     bi     cue=d\u00ed\u00ed\u01c3",
+        "srcwordsbare": [
+            "Det\u00e9",
+            "bi",
+            "cue=d\u00ed\u00ed\u01c3"
+        ],
         "srcwordshtml": [
             "Det\u00e9",
             "bi",
@@ -931,8 +1443,20 @@
         "trs": "You bring that water!"
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "obl",
+            "opt"
+        ],
         "filename": "98/case.tex",
         "imt": "I:\\textsc{obl}   listen:\\textsc{1sg:opt}   story:\\textsc{obl}   he:\\textsc{gen}",
+        "imtwordsbare": [
+            "I:OBL",
+            "listen:1sg:opt",
+            "story:OBL",
+            "he:GEN"
+        ],
         "imtwordshtml": [
             "I:<span class=\"sc\">obl</span>",
             "listen:<span class=\"sc\">1sg:opt</span>",
@@ -945,8 +1469,14 @@
             "story:\\textsc{obl}",
             "he:\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\'{\u019d}ci   nes\u00edbine     emuti     nts\u00ed.",
+        "srcwordsbare": [
+            "\\'{\u019d}ci",
+            "nes\u00edbine",
+            "emuti",
+            "nts\u00ed."
+        ],
         "srcwordshtml": [
             "\\'{\u019d}ci",
             "nes\u00edbine",
@@ -962,8 +1492,21 @@
         "trs": "Let me listen to her story."
     },
     {
+        "categories": [
+            "3sg",
+            "acc",
+            "nom",
+            "obl"
+        ],
         "filename": "98/case.tex",
         "imt": "follow:\\textsc{3sg}   child:\\textsc{nom}   I:\\textsc{acc}   until   home:\\textsc{obl}",
+        "imtwordsbare": [
+            "follow:3SG",
+            "child:NOM",
+            "I:ACC",
+            "until",
+            "home:OBL"
+        ],
         "imtwordshtml": [
             "follow:<span class=\"sc\">3sg</span>",
             "child:<span class=\"sc\">nom</span>",
@@ -978,8 +1521,15 @@
             "until",
             "home:\\textsc{obl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "T\u00fabia     ima     \\'{\u0272}cia   p\u00e1ka   aw\u1d43.",
+        "srcwordsbare": [
+            "T\u00fabia",
+            "ima",
+            "\\'{\u0272}cia",
+            "p\u00e1ka",
+            "aw\u1d43."
+        ],
         "srcwordshtml": [
             "T\u00fabia",
             "ima",
@@ -997,8 +1547,19 @@
         "trs": "The child follows me up to home."
     },
     {
+        "categories": [
+            "1sg",
+            "gen",
+            "obl"
+        ],
         "filename": "98/case.tex",
         "imt": "sweat:\\textsc{1sg}   for     life:\\textsc{obl}   you:\\textsc{gen}",
+        "imtwordsbare": [
+            "sweat:1SG",
+            "for",
+            "life:OBL",
+            "you:GEN"
+        ],
         "imtwordshtml": [
             "sweat:<span class=\"sc\">1sg</span>",
             "for",
@@ -1011,8 +1572,14 @@
             "life:\\textsc{obl}",
             "you:\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Kirot\u00e1n\u00eda  k\u00f3ter\u00e9   \u0266yekes\u00ed   b\u00ec.",
+        "srcwordsbare": [
+            "Kirot\u00e1n\u00eda",
+            "k\u00f3ter\u00e9",
+            "\u0266yekes\u00ed",
+            "b\u00ec."
+        ],
         "srcwordshtml": [
             "Kirot\u00e1n\u00eda",
             "k\u00f3ter\u00e9",
@@ -1028,8 +1595,17 @@
         "trs": "I sweat for your survival."
     },
     {
+        "categories": [
+            "imp",
+            "obl"
+        ],
         "filename": "98/case.tex",
         "imt": "hey   children:\\textsc{obl}  come:\\textsc{imp}",
+        "imtwordsbare": [
+            "hey",
+            "children:OBL",
+            "come:IMP"
+        ],
         "imtwordshtml": [
             "hey",
             "children:<span class=\"sc\">obl</span>",
@@ -1040,8 +1616,13 @@
             "children:\\textsc{obl}",
             "come:\\textsc{imp}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u00c9\u00e9   wice,     ats\u00fa\u01c3",
+        "srcwordsbare": [
+            "\u00c9\u00e9",
+            "wice,",
+            "ats\u00fa\u01c3"
+        ],
         "srcwordshtml": [
             "\u00c9\u00e9",
             "wice,",

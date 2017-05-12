@@ -1,7 +1,17 @@
 [
     {
+        "categories": [
+            "abl",
+            "obl"
+        ],
         "filename": "98/morphology.tex",
         "imt": "from   Kaabong:\\textsc{abl}   up.to   home:\\textsc{obl}",
+        "imtwordsbare": [
+            "from",
+            "Kaabong:ABL",
+            "up.to",
+            "home:OBL"
+        ],
         "imtwordshtml": [
             "from",
             "Kaabong:<span class=\"sc\">abl</span>",
@@ -14,8 +24,14 @@
             "up.to",
             "home:\\textsc{obl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "napei Kaa\u0253\\'{\u0254}\u014b\u0289\u0254     \\textbf{p\u00e1ka}   aw\u1d43",
+        "srcwordsbare": [
+            "napei",
+            "Kaa\u0253\\'{\u0254}\u014b\u0289\u0254",
+            "p\u00e1ka",
+            "aw\u1d43"
+        ],
         "srcwordshtml": [
             "napei",
             "Kaa\u0253\\'{\u0254}\u014b\u0289\u0254",
@@ -31,8 +47,19 @@
         "trs": "from Kaabong up to home"
     },
     {
+        "categories": [
+            "gen",
+            "nom",
+            "pass"
+        ],
         "filename": "98/morphology.tex",
         "imt": "peg:\\textsc{pass}   field.rat:\\textsc{nom}   like   goat:\\textsc{gen}",
+        "imtwordsbare": [
+            "peg:PASS",
+            "field.rat:NOM",
+            "like",
+            "goat:GEN"
+        ],
         "imtwordshtml": [
             "peg:<span class=\"sc\">pass</span>",
             "field.rat:<span class=\"sc\">nom</span>",
@@ -45,8 +72,14 @@
             "like",
             "goat:\\textsc{gen}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "G\u00f3gese   tuf\u00fal\u00e1       \\textbf{\u0257{\\\u00cd}t\u00e1}   ri\u00e9.",
+        "srcwordsbare": [
+            "G\u00f3gese",
+            "tuf\u00fal\u00e1",
+            "\u0257{\\\u00cdt\u00e1}",
+            "ri\u00e9."
+        ],
         "srcwordshtml": [
             "G\u00f3gese",
             "tuf\u00fal\u00e1",
@@ -62,8 +95,18 @@
         "trs": "And the field rat is pegged up like a goat."
     },
     {
+        "categories": [
+            "1sg",
+            "gen"
+        ],
         "filename": "98/morphology.tex",
         "imt": "come:\\textsc{1sg}   from   Timu:inside:\\textsc{gen}  that",
+        "imtwordsbare": [
+            "come:1SG",
+            "from",
+            "Timu:inside:GEN",
+            "that"
+        ],
         "imtwordshtml": [
             "come:<span class=\"sc\">1sg</span>",
             "from",
@@ -76,8 +119,14 @@
             "Timu:inside:\\textsc{gen}",
             "that"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ats\u00eda     \\textbf{n\\'{\u025b}\\'{\u025b}}   T\u00edmua\u0199w\u025b\u025b  n\u025b.",
+        "srcwordsbare": [
+            "Ats\u00eda",
+            "n\\'{\u025b\\'{\u025b}}",
+            "T\u00edmua\u0199w\u025b\u025b",
+            "n\u025b."
+        ],
         "srcwordshtml": [
             "Ats\u00eda",
             "<span class=\"bf\">n\\'{\u025b</span>\\'{\u025b}}",
@@ -93,8 +142,17 @@
         "trs": "I\u2019m coming from within Timu there."
     },
     {
+        "categories": [
+            "imp",
+            "obl"
+        ],
         "filename": "98/morphology.tex",
         "imt": "set.free:\\textsc{imp}   instead.of   killing:\\textsc{obl}",
+        "imtwordsbare": [
+            "set.free:IMP",
+            "instead.of",
+            "killing:OBL"
+        ],
         "imtwordshtml": [
             "set.free:<span class=\"sc\">imp</span>",
             "instead.of",
@@ -105,8 +163,13 @@
             "instead.of",
             "killing:\\textsc{obl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Ho\u0257u\u0199ot{\\\u1d49},   \\textbf{ak\u0268l\u0254}     c\u025b\\'{\u025b}s\\'{\u0289}\u0199\u0254t\\\u1da4.",
+        "srcwordsbare": [
+            "Ho\u0257u\u0199ot{\\\u1d49},",
+            "ak\u0268l\u0254",
+            "c\u025b\\'{\u025b}s\\'{\u0289}\u0199\u0254t\\\u1da4."
+        ],
         "srcwordshtml": [
             "Ho\u0257u\u0199ot{\\\u1d49},",
             "<span class=\"bf\">ak\u0268l\u0254</span>",
@@ -120,8 +183,18 @@
         "trs": "Set (him) free instead of killing (him)."
     },
     {
+        "categories": [
+            "obl",
+            "seq"
+        ],
         "filename": "98/morphology.tex",
         "imt": "take:\\textsc{seq}   up.to   hut:\\textsc{obl}   that",
+        "imtwordsbare": [
+            "take:SEQ",
+            "up.to",
+            "hut:OBL",
+            "that"
+        ],
         "imtwordshtml": [
             "take:<span class=\"sc\">seq</span>",
             "up.to",
@@ -134,8 +207,14 @@
             "hut:\\textsc{obl}",
             "that"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Du\u0199otuo   \\textbf{gone}   hoo     d\u00e9\u00e9.",
+        "srcwordsbare": [
+            "Du\u0199otuo",
+            "gone",
+            "hoo",
+            "d\u00e9\u00e9."
+        ],
         "srcwordshtml": [
             "Du\u0199otuo",
             "<span class=\"bf\">gone</span>",
@@ -151,8 +230,20 @@
         "trs": "And she took (it) up to that hut."
     },
     {
+        "categories": [
+            "3pl",
+            "dat",
+            "obl",
+            "prf"
+        ],
         "filename": "98/morphology.tex",
         "imt": "go:\\textsc{3pl:prf}   West:\\textsc{dat}   because.of   hunger:\\textsc{obl}",
+        "imtwordsbare": [
+            "go:3pl:prf",
+            "West:DAT",
+            "because.of",
+            "hunger:OBL"
+        ],
         "imtwordshtml": [
             "go:<span class=\"sc\">3pl:prf</span>",
             "West:<span class=\"sc\">dat</span>",
@@ -165,8 +256,14 @@
             "because.of",
             "hunger:\\textsc{obl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0198\u00e1\u00e1taa   T\u00e1bay\u025b\u025b   \\textbf{ik\u00f3ter\u00e9}   \u0272\\`{\u025b}\u0199{\\\u1d4b}.",
+        "srcwordsbare": [
+            "\u0198\u00e1\u00e1taa",
+            "T\u00e1bay\u025b\u025b",
+            "ik\u00f3ter\u00e9",
+            "\u0272\\`{\u025b}\u0199{\\\u1d4b}."
+        ],
         "srcwordshtml": [
             "\u0198\u00e1\u00e1taa",
             "T\u00e1bay\u025b\u025b",
@@ -182,8 +279,20 @@
         "trs": "They\u2019ve gone west because of hunger."
     },
     {
+        "categories": [
+            "gen",
+            "inf",
+            "nom",
+            "obl"
+        ],
         "filename": "98/morphology.tex",
         "imt": "sow:\\textsc{inf:nom}   cucumber:\\textsc{gen}   and   squash:\\textsc{obl}",
+        "imtwordsbare": [
+            "sow:inf:nom",
+            "cucumber:GEN",
+            "and",
+            "squash:OBL"
+        ],
         "imtwordshtml": [
             "sow:<span class=\"sc\">inf:nom</span>",
             "cucumber:<span class=\"sc\">gen</span>",
@@ -196,8 +305,14 @@
             "and",
             "squash:\\textsc{obl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "t\u025bw\u025b\u025bsa     k\u0254l\u0268l{\\\u00cd}\\'{\u025b}       \\textbf{\u0144da}   lomu\u0199e\u2071",
+        "srcwordsbare": [
+            "t\u025bw\u025b\u025bsa",
+            "k\u0254l\u0268l{\\\u00cd}\\'{\u025b}",
+            "\u0144da",
+            "lomu\u0199e\u2071"
+        ],
         "srcwordshtml": [
             "t\u025bw\u025b\u025bsa",
             "k\u0254l\u0268l{\\\u00cd}\\'{\u025b}",
@@ -213,8 +328,20 @@
         "trs": "the sowing of cucumber and squash"
     },
     {
+        "categories": [
+            "dp",
+            "ips",
+            "obl",
+            "sim"
+        ],
         "filename": "98/morphology.tex",
         "imt": "even  Turkanas:\\textsc{obl}   also   seated:\\textsc{ips:sim:dp}",
+        "imtwordsbare": [
+            "even",
+            "Turkanas:OBL",
+            "also",
+            "seated:ips:sim:dp"
+        ],
         "imtwordshtml": [
             "even",
             "Turkanas:<span class=\"sc\">obl</span>",
@@ -227,8 +354,14 @@
             "also",
             "seated:\\textsc{ips:sim:dp}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{toni}   Pak\u00f3\u00edce     \u029d\u0268k,   g\u00f3\u0199\u00e1n\u0268k\\^{\u025b}d{\\\u1d4b}",
+        "srcwordsbare": [
+            "toni",
+            "Pak\u00f3\u00edce",
+            "\u029d\u0268k,",
+            "g\u00f3\u0199\u00e1n\u0268k\\^{\u025b}d{\\\u1d4b}"
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">toni</span>",
             "Pak\u00f3\u00edce",
@@ -244,8 +377,20 @@
         "trs": "even the Turkanas as well, (were) staying there"
     },
     {
+        "categories": [
+            "1sg",
+            "2sg",
+            "nom",
+            "obl"
+        ],
         "filename": "98/morphology.tex",
         "imt": "know:\\textsc{1sg}   that:\\textsc{nom}   be:\\textsc{2sg}   orphan:\\textsc{obl}",
+        "imtwordsbare": [
+            "know:1SG",
+            "that:NOM",
+            "be:2SG",
+            "orphan:OBL"
+        ],
         "imtwordshtml": [
             "know:<span class=\"sc\">1sg</span>",
             "that:<span class=\"sc\">nom</span>",
@@ -258,8 +403,14 @@
             "be:\\textsc{2sg}",
             "orphan:\\textsc{obl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "Hye\u00ed\u00e1   \\textbf{toim\u025bna}   m\u0268t{\\\u00cd}da   b\u0254n\u00e1n.",
+        "srcwordsbare": [
+            "Hye\u00ed\u00e1",
+            "toim\u025bna",
+            "m\u0268t{\\\u00cd}da",
+            "b\u0254n\u00e1n."
+        ],
         "srcwordshtml": [
             "Hye\u00ed\u00e1",
             "<span class=\"bf\">toim\u025bna</span>",
@@ -275,8 +426,21 @@
         "trs": "I know that you are an orphan."
     },
     {
+        "categories": [
+            "3sg",
+            "dat",
+            "nom"
+        ],
         "filename": "98/morphology.tex",
         "imt": "say:\\textsc{3sg}   I:\\textsc{dat}   that   be:\\textsc{3sg}  we:land:\\textsc{nom} there",
+        "imtwordsbare": [
+            "say:3SG",
+            "I:DAT",
+            "that",
+            "be:3SG",
+            "we:land:NOM",
+            "there"
+        ],
         "imtwordshtml": [
             "say:<span class=\"sc\">3sg</span>",
             "I:<span class=\"sc\">dat</span>",
@@ -293,8 +457,16 @@
             "we:land:\\textsc{nom}",
             "there"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "K\u0289ta   \\'{\u0272}cie   \\textbf{taa}   ia     \u0272j\u00edn\u00edki\u029da    k\\'{\u0254}\\'{\u0254}k\u025b.",
+        "srcwordsbare": [
+            "K\u0289ta",
+            "\\'{\u0272}cie",
+            "taa",
+            "ia",
+            "\u0272j\u00edn\u00edki\u029da",
+            "k\\'{\u0254}\\'{\u0254}k\u025b."
+        ],
         "srcwordshtml": [
             "K\u0289ta",
             "\\'{\u0272}cie",
@@ -314,8 +486,16 @@
         "trs": "He says to me that our land is over there."
     },
     {
+        "categories": [
+            "abl"
+        ],
         "filename": "98/morphology.tex",
         "imt": "West:\\textsc{abl}   or   East:\\textsc{abl}",
+        "imtwordsbare": [
+            "West:ABL",
+            "or",
+            "East:ABL"
+        ],
         "imtwordshtml": [
             "West:<span class=\"sc\">abl</span>",
             "or",
@@ -326,8 +506,13 @@
             "or",
             "East:\\textsc{abl}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "T\u00e1bay\u0254\u0254   \\textbf{ke\u0257e}   Fet\u00ed\u00e9k\u00f9?",
+        "srcwordsbare": [
+            "T\u00e1bay\u0254\u0254",
+            "ke\u0257e",
+            "Fet\u00ed\u00e9k\u00f9?"
+        ],
         "srcwordshtml": [
             "T\u00e1bay\u0254\u0254",
             "<span class=\"bf\">ke\u0257e</span>",
@@ -341,8 +526,22 @@
         "trs": "From the West or from the East?"
     },
     {
+        "categories": [
+            "1sg",
+            "dp",
+            "ips",
+            "nom",
+            "seq"
+        ],
         "filename": "98/morphology.tex",
         "imt": "marry.forcibly:\\textsc{1sg:seq:dp}  not:\\textsc{seq}   but   kill:\\textsc{ips}   animal:\\textsc{nom}",
+        "imtwordsbare": [
+            "marry.forcibly:1sg:seq:dp",
+            "not:SEQ",
+            "but",
+            "kill:IPS",
+            "animal:NOM"
+        ],
         "imtwordshtml": [
             "marry.forcibly:<span class=\"sc\">1sg:seq:dp</span>",
             "not:<span class=\"sc\">seq</span>",
@@ -357,8 +556,15 @@
             "kill:\\textsc{ips}",
             "animal:\\textsc{nom}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\u0197\\'{\u0289}m\u0289\u0199\u0254t\u0268ak\u00f4d{\\\u1d49}, moo     \\textbf{koto}   s\u00e1\u0253\u00e1n\u0268   \u00ednw{\\\u1d43}",
+        "srcwordsbare": [
+            "\u0197\\'{\u0289}m\u0289\u0199\u0254t\u0268ak\u00f4d{\\\u1d49},",
+            "moo",
+            "koto",
+            "s\u00e1\u0253\u00e1n\u0268",
+            "\u00ednw{\\\u1d43}"
+        ],
         "srcwordshtml": [
             "\u0197\\'{\u0289}m\u0289\u0199\u0254t\u0268ak\u00f4d{\\\u1d49},",
             "moo",
@@ -376,8 +582,20 @@
         "trs": "And from there I took (her) away as my wife, but no animal was killed."
     },
     {
+        "categories": [
+            "ips",
+            "nom",
+            "sps"
+        ],
         "filename": "98/morphology.tex",
         "imt": "kill:\\textsc{sps}  eland:\\textsc{nom}   and   fetch:\\textsc{ips} water:\\textsc{nom}",
+        "imtwordsbare": [
+            "kill:SPS",
+            "eland:NOM",
+            "and",
+            "fetch:IPS",
+            "water:NOM"
+        ],
         "imtwordshtml": [
             "kill:<span class=\"sc\">sps</span>",
             "eland:<span class=\"sc\">nom</span>",
@@ -392,8 +610,15 @@
             "fetch:\\textsc{ips}",
             "water:\\textsc{nom}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "S\u00e1\u0253ese   basa\u00far   \\textbf{\u0144da}   kotsana   cue.",
+        "srcwordsbare": [
+            "S\u00e1\u0253ese",
+            "basa\u00far",
+            "\u0144da",
+            "kotsana",
+            "cue."
+        ],
         "srcwordshtml": [
             "S\u00e1\u0253ese",
             "basa\u00far",
@@ -411,8 +636,19 @@
         "trs": "Elands were killed, and water was fetched."
     },
     {
+        "categories": [
+            "cop",
+            "ips",
+            "plur",
+            "pst3"
+        ],
         "filename": "98/morphology.tex",
         "imt": "what:\\textsc{cop}   \\textsc{pst3}   wear:\\textsc{plur:ips}",
+        "imtwordsbare": [
+            "what:COP",
+            "PST3",
+            "wear:plur:ips"
+        ],
         "imtwordshtml": [
             "what:<span class=\"sc\">cop</span>",
             "<span class=\"sc\">pst3</span>",
@@ -423,8 +659,13 @@
             "\\textsc{pst3}",
             "wear:\\textsc{plur:ips}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "isio     noo   \u014b\u00e1b\u00ec\u00e0n?",
+        "srcwordsbare": [
+            "isio",
+            "noo",
+            "\u014b\u00e1b\u00ec\u00e0n?"
+        ],
         "srcwordshtml": [
             "isio",
             "noo",
@@ -438,8 +679,19 @@
         "trs": "what was typically worn?"
     },
     {
+        "categories": [
+            "dat",
+            "ips",
+            "sps"
+        ],
         "filename": "98/morphology.tex",
         "imt": "if   reach:\\textsc{ips}   eland:\\textsc{dat}   kill:\\textsc{sps}",
+        "imtwordsbare": [
+            "if",
+            "reach:IPS",
+            "eland:DAT",
+            "kill:SPS"
+        ],
         "imtwordshtml": [
             "if",
             "reach:<span class=\"sc\">ips</span>",
@@ -452,8 +704,14 @@
             "eland:\\textsc{dat}",
             "kill:\\textsc{sps}"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{M{\\\u00cd}s\u0268}   \u0268t\u00e1\u00e1na   basa\u00far\u00e9k{\\\u1d49},   s\u00e1\u0253es.",
+        "srcwordsbare": [
+            "M{\\\u00cds\u0268}",
+            "\u0268t\u00e1\u00e1na",
+            "basa\u00far\u00e9k{\\\u1d49},",
+            "s\u00e1\u0253es."
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">M{\\\u00cd</span>s\u0268}",
             "\u0268t\u00e1\u00e1na",
@@ -469,8 +727,20 @@
         "trs": "If they reach the eland, it is killed."
     },
     {
+        "categories": [
+            "3sg",
+            "seq",
+            "sim"
+        ],
         "filename": "98/morphology.tex",
         "imt": "when   come:\\textsc{3sg:sim}   sit:\\textsc{3sg:seq}   here   this",
+        "imtwordsbare": [
+            "when",
+            "come:3sg:sim",
+            "sit:3sg:seq",
+            "here",
+            "this"
+        ],
         "imtwordshtml": [
             "when",
             "come:<span class=\"sc\">3sg:sim</span>",
@@ -485,8 +755,15 @@
             "here",
             "this"
         ],
-        "language": "Ik",
+        "language": "Rapa Nui",
         "src": "\\textbf{Na}   \u00e1tsik{\\\u1d49},       z\\'{\u025b}\u0199w\\'{\u025b}t\u0254\u0254   nay\u00e9\u00e9   na.",
+        "srcwordsbare": [
+            "Na",
+            "\u00e1tsik{\\\u1d49},",
+            "z\\'{\u025b}\u0199w\\'{\u025b}t\u0254\u0254",
+            "nay\u00e9\u00e9",
+            "na."
+        ],
         "srcwordshtml": [
             "<span class=\"bf\">Na</span>",
             "\u00e1tsik{\\\u1d49},",

@@ -1,7 +1,126 @@
 [
     {
+        "categories": [
+            "1pl",
+            "neg"
+        ],
+        "filename": "78/13.tex",
+        "imt": "think  {\\textsc{1pl}}  {\\textsc{neg}}  {be.good}",
+        "imtwordsbare": [
+            "think",
+            "{1PL}",
+            "{NEG}",
+            "{be.good}"
+        ],
+        "imtwordshtml": [
+            "think",
+            "{<span class=\"sc\">1pl</span>}",
+            "{<span class=\"sc\">neg</span>}",
+            "{be.good}"
+        ],
+        "imtwordstex": [
+            "think",
+            "{\\textsc{1pl}}",
+            "{\\textsc{neg}}",
+            "{be.good}"
+        ],
+        "language": "Rapa Nui",
+        "src": "pikir  {kitong}  {\\bluebold{tra}}  {\\bluebold{baik}}",
+        "srcwordsbare": [
+            "pikir",
+            "{kitong}",
+            "{\\bluebold{tra}}",
+            "{\\bluebold{baik}}"
+        ],
+        "srcwordshtml": [
+            "pikir",
+            "{kitong}",
+            "{\\bluebold{tra}}",
+            "{\\bluebold{baik}}"
+        ],
+        "srcwordstex": [
+            "pikir",
+            "{kitong}",
+            "{\\bluebold{tra}}",
+            "{\\bluebold{baik}}"
+        ],
+        "trs": "very soon he\u2019ll think that I\u2019m\\bluebold{ not good} {\\ldots} very soon he\u2019ll think that we are \\bluebold{not good}\u2019 \\textstyleExampleSource{[080919-004-NP.0052-0053]}"
+    },
+    {
+        "categories": [
+            "d",
+            "prox"
+        ],
+        "filename": "78/13.tex",
+        "imt": "mother  \\textsc{d.prox}  live  {with}  {person}  {at}  {outside}",
+        "imtwordsbare": [
+            "mother",
+            "d.prox",
+            "live",
+            "{with}",
+            "{person}",
+            "{at}",
+            "{outside}"
+        ],
+        "imtwordshtml": [
+            "mother",
+            "<span class=\"sc\">d.prox</span>",
+            "live",
+            "{with}",
+            "{person}",
+            "{at}",
+            "{outside}"
+        ],
+        "imtwordstex": [
+            "mother",
+            "\\textsc{d.prox}",
+            "live",
+            "{with}",
+            "{person}",
+            "{at}",
+            "{outside}"
+        ],
+        "language": "Rapa Nui",
+        "src": "mama  ni  hidup  {deng}  {orang}  {di}  {luar}",
+        "srcwordsbare": [
+            "mama",
+            "ni",
+            "hidup",
+            "{deng}",
+            "{orang}",
+            "{di}",
+            "{luar}"
+        ],
+        "srcwordshtml": [
+            "mama",
+            "ni",
+            "hidup",
+            "{deng}",
+            "{orang}",
+            "{di}",
+            "{luar}"
+        ],
+        "srcwordstex": [
+            "mama",
+            "ni",
+            "hidup",
+            "{deng}",
+            "{orang}",
+            "{di}",
+            "{luar}"
+        ],
+        "trs": "(the situation was) \\bluebold{not} (that) I (\u2018mother\u2019) here lived with (my) parents in the village, (but) I (\u2018mother\u2019) here lived with strangers away from home\u2019 \\textstyleExampleSource{[081115-001b-Cv.0043]}"
+    },
+    {
+        "categories": [],
         "filename": "78/13.tex",
         "imt": "{}    yes  oil  ground",
+        "imtwordsbare": [
+            "{}",
+            "yes",
+            "oil",
+            "ground"
+        ],
         "imtwordshtml": [
             "{}",
             "yes",
@@ -14,8 +133,14 @@
             "oil",
             "ground"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{yo,}  minyak  tana",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{yo,}",
+            "minyak",
+            "tana"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{yo,}",
@@ -31,8 +156,13 @@
         "trs": "Speaker-2: \u2018\\bluebold{yes}, kerosene\u2019 \\textstyleExampleSource{[080923-009-Cv.0037-0038]}"
     },
     {
+        "categories": [],
         "filename": "78/13.tex",
         "imt": "{}    mhm",
+        "imtwordsbare": [
+            "{}",
+            "mhm"
+        ],
         "imtwordshtml": [
             "{}",
             "mhm"
@@ -41,8 +171,12 @@
             "{}",
             "mhm"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{mm-mm}",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{mm-mm}"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{mm-mm}"
@@ -54,8 +188,18 @@
         "trs": "Speaker-1: \u2018\\bluebold{mhm}\u2019 \\textstyleExampleSource{[080919-006-CvNP.0030-0031]}"
     },
     {
+        "categories": [
+            "1sg"
+        ],
         "filename": "78/13.tex",
         "imt": "{}   yes  \\textsc{1sg}  request  permission",
+        "imtwordsbare": [
+            "{}",
+            "yes",
+            "1SG",
+            "request",
+            "permission"
+        ],
         "imtwordshtml": [
             "{}",
             "yes",
@@ -70,8 +214,15 @@
             "request",
             "permission"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{yo},  sa  minta  ijing",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{yo},",
+            "sa",
+            "minta",
+            "ijing"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{yo},",
@@ -89,8 +240,18 @@
         "trs": "Speaker-2: \u2018\\bluebold{yes}, I asked for a leave of absence\u2019 (Lit. \u2018request permission (to be absent from school)\u2019) \\textstyleExampleSource{[080922-001a-CvPh.0093-0094]}"
     },
     {
+        "categories": [
+            "3sg",
+            "neg"
+        ],
         "filename": "78/13.tex",
         "imt": "{}   \\textsc{neg}  \\textsc{3sg}  race",
+        "imtwordsbare": [
+            "{}",
+            "NEG",
+            "3SG",
+            "race"
+        ],
         "imtwordshtml": [
             "{}",
             "<span class=\"sc\">neg</span>",
@@ -103,8 +264,14 @@
             "\\textsc{3sg}",
             "race"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{tida},  dia  balap",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{tida},",
+            "dia",
+            "balap"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{tida},",
@@ -120,8 +287,20 @@
         "trs": "Speaker-2: \u2018\\bluebold{no}, he raced (his motorbike)\u2019 \\textstyleExampleSource{[081014-013-NP.0003-0004]}"
     },
     {
+        "categories": [
+            "3sg",
+            "neg",
+            "poss"
+        ],
         "filename": "78/13.tex",
         "imt": "{}    \\textsc{neg}  \\textsc{3sg}  \\textsc{poss}  date",
+        "imtwordsbare": [
+            "{}",
+            "NEG",
+            "3SG",
+            "POSS",
+            "date"
+        ],
         "imtwordshtml": [
             "{}",
             "<span class=\"sc\">neg</span>",
@@ -136,8 +315,15 @@
             "\\textsc{poss}",
             "date"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{bukang},  de  punya  pacar",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{bukang},",
+            "de",
+            "punya",
+            "pacar"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{bukang},",
@@ -155,8 +341,18 @@
         "trs": "Speaker-2: \u2018\\bluebold{no}, (it was) her lover\u2019 \\textstyleExampleSource{[081006-022-CvEx.0044-0045]}"
     },
     {
+        "categories": [
+            "poss"
+        ],
         "filename": "78/13.tex",
         "imt": "{}  {}    Jayapura  \\textsc{poss}  be.bitter",
+        "imtwordsbare": [
+            "{}",
+            "{}",
+            "Jayapura",
+            "POSS",
+            "be.bitter"
+        ],
         "imtwordshtml": [
             "{}",
             "{}",
@@ -171,8 +367,15 @@
             "\\textsc{poss}",
             "be.bitter"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  {\\bluebold{\u00d8}},  Jayapura  pu  pahit",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "{\\bluebold{\u00d8}},",
+            "Jayapura",
+            "pu",
+            "pahit"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "{\\bluebold{\u00d8}},",
@@ -190,8 +393,16 @@
         "trs": "Speaker-2: \u2018(\\bluebold{no}, the ones from) Jayapura are bitter\u2019 \\textstyleExampleSource{[080923-004-Cv.0011-0012]}"
     },
     {
+        "categories": [],
         "filename": "78/13.tex",
         "imt": "{}    mhm  house  at  coast",
+        "imtwordsbare": [
+            "{}",
+            "mhm",
+            "house",
+            "at",
+            "coast"
+        ],
         "imtwordshtml": [
             "{}",
             "mhm",
@@ -206,8 +417,15 @@
             "at",
             "coast"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{mm-mm},  ruma  di  pante",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{mm-mm},",
+            "ruma",
+            "di",
+            "pante"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{mm-mm},",
@@ -225,8 +443,22 @@
         "trs": "Speaker-2: \u2018\\bluebold{mhm}, the houses along the beach\u2019 \\textstyleExampleSource{[080917-009-CvEx.0012-0013]}"
     },
     {
+        "categories": [
+            "1sg",
+            "d",
+            "dist",
+            "poss"
+        ],
         "filename": "78/13.tex",
         "imt": "{}    yes  \\textsc{d.dist}  \\textsc{1sg}  \\textsc{poss}  affairs",
+        "imtwordsbare": [
+            "{}",
+            "yes",
+            "d.dist",
+            "1SG",
+            "POSS",
+            "affairs"
+        ],
         "imtwordshtml": [
             "{}",
             "yes",
@@ -243,8 +475,16 @@
             "\\textsc{poss}",
             "affairs"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{yo},  tu  sa  pu  urusang",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{yo},",
+            "tu",
+            "sa",
+            "pu",
+            "urusang"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{yo},",
@@ -264,8 +504,20 @@
         "trs": "Speaker-2: \u2018\\bluebold{yes}, that\u2019s my responsibility\u2019 \\textstyleExampleSource{[081005-001-Cv.0031-0032]}"
     },
     {
+        "categories": [
+            "1sg",
+            "neg",
+            "poss"
+        ],
         "filename": "78/13.tex",
         "imt": "{}   yes  \\textsc{neg}  \\textsc{1sg}  \\textsc{poss}",
+        "imtwordsbare": [
+            "{}",
+            "yes",
+            "NEG",
+            "1SG",
+            "POSS"
+        ],
         "imtwordshtml": [
             "{}",
             "yes",
@@ -280,8 +532,15 @@
             "\\textsc{1sg}",
             "\\textsc{poss}"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{yo},  bukang  sa  punya",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{yo},",
+            "bukang",
+            "sa",
+            "punya"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{yo},",
@@ -299,8 +558,13 @@
         "trs": "Speaker-2: \u2018\\bluebold{yes}, (it\u2019s) not mine\u2019 \\textstyleExampleSource{[080922-001a-CvPh.0078-0079]}"
     },
     {
+        "categories": [],
         "filename": "78/13.tex",
         "imt": "{}    mhm",
+        "imtwordsbare": [
+            "{}",
+            "mhm"
+        ],
         "imtwordshtml": [
             "{}",
             "mhm"
@@ -309,8 +573,12 @@
             "{}",
             "mhm"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "Speaker-2:  \\bluebold{mm}{}-\\bluebold{mm}",
+        "srcwordsbare": [
+            "Speaker-2:",
+            "\\bluebold{mm}{}-\\bluebold{mm}"
+        ],
         "srcwordshtml": [
             "Speaker-2:",
             "\\bluebold{mm}{}-\\bluebold{mm}"
@@ -322,8 +590,57 @@
         "trs": "Speaker-2: \u2018\\bluebold{mhm}\u2019 \\textstyleExampleSource{[080925-003-Cv.0173-0174]}"
     },
     {
+        "categories": [],
+        "filename": "78/13.tex",
+        "imt": "{be.wrong}  {or}  {be.true}  {or}",
+        "imtwordsbare": [
+            "{be.wrong}",
+            "{or}",
+            "{be.true}",
+            "{or}"
+        ],
+        "imtwordshtml": [
+            "{be.wrong}",
+            "{or}",
+            "{be.true}",
+            "{or}"
+        ],
+        "imtwordstex": [
+            "{be.wrong}",
+            "{or}",
+            "{be.true}",
+            "{or}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{sala}  {\\bluebold{ka}?}  {benar}  {\\bluebold{ka}?}",
+        "srcwordsbare": [
+            "{sala}",
+            "{\\bluebold{ka}?}",
+            "{benar}",
+            "{\\bluebold{ka}?}"
+        ],
+        "srcwordshtml": [
+            "{sala}",
+            "{\\bluebold{ka}?}",
+            "{benar}",
+            "{\\bluebold{ka}?}"
+        ],
+        "srcwordstex": [
+            "{sala}",
+            "{\\bluebold{ka}?}",
+            "{benar}",
+            "{\\bluebold{ka}?}"
+        ],
+        "trs": "I (\\textsc{emph}) usually ask the kids in school, ``(is this) right \\bluebold{or} wrong?''' \\textstyleExampleSource{[081014-015-Cv.0029]}"
+    },
+    {
+        "categories": [],
         "filename": "78/13.tex",
         "imt": "hey!  wake.up",
+        "imtwordsbare": [
+            "hey!",
+            "wake.up"
+        ],
         "imtwordshtml": [
             "hey!",
             "wake.up"
@@ -332,8 +649,12 @@
             "hey!",
             "wake.up"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "{e} {bangung!}",
+        "srcwordsbare": [
+            "{e}",
+            "{bangung!}"
+        ],
         "srcwordshtml": [
             "{e}",
             "{bangung!}"
@@ -345,8 +666,13 @@
         "trs": "{\u2018hey, wake up!\u2019}"
     },
     {
+        "categories": [],
         "filename": "78/13.tex",
         "imt": "go.home  already",
+        "imtwordsbare": [
+            "go.home",
+            "already"
+        ],
         "imtwordshtml": [
             "go.home",
             "already"
@@ -355,8 +681,12 @@
             "go.home",
             "already"
         ],
-        "language": "Papuan Malay",
+        "language": "Rapa Nui",
         "src": "{pulang} {suda!}",
+        "srcwordsbare": [
+            "{pulang}",
+            "{suda!}"
+        ],
         "srcwordshtml": [
             "{pulang}",
             "{suda!}"
@@ -366,5 +696,208 @@
             "{suda!}"
         ],
         "trs": "{\u2018go home already!\u2019}"
+    },
+    {
+        "categories": [
+            "1pl",
+            "l",
+            "med"
+        ],
+        "filename": "78/13.tex",
+        "imt": "let  \\textsc{1pl}  stay  at  \\textsc{l.med}",
+        "imtwordsbare": [
+            "let",
+            "1PL",
+            "stay",
+            "at",
+            "l.med"
+        ],
+        "imtwordshtml": [
+            "let",
+            "<span class=\"sc\">1pl</span>",
+            "stay",
+            "at",
+            "<span class=\"sc\">l.med</span>"
+        ],
+        "imtwordstex": [
+            "let",
+            "\\textsc{1pl}",
+            "stay",
+            "at",
+            "\\textsc{l.med}"
+        ],
+        "language": "Rapa Nui",
+        "src": "\\bluebold{biar}  \\bluebold{tong}  tinggal  di  situ!",
+        "srcwordsbare": [
+            "\\bluebold{biar}",
+            "\\bluebold{tong}",
+            "tinggal",
+            "di",
+            "situ!"
+        ],
+        "srcwordshtml": [
+            "\\bluebold{biar}",
+            "\\bluebold{tong}",
+            "tinggal",
+            "di",
+            "situ!"
+        ],
+        "srcwordstex": [
+            "\\bluebold{biar}",
+            "\\bluebold{tong}",
+            "tinggal",
+            "di",
+            "situ!"
+        ],
+        "trs": "\\bluebold{let us} live there!\u2019 \\textstyleExampleSource{[081110-008-CvNP.0091]}"
+    },
+    {
+        "categories": [
+            "1sg",
+            "3sg"
+        ],
+        "filename": "78/13.tex",
+        "imt": "yes  let  \\textsc{3sg}  also  see  \\textsc{1sg}",
+        "imtwordsbare": [
+            "yes",
+            "let",
+            "3SG",
+            "also",
+            "see",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "yes",
+            "let",
+            "<span class=\"sc\">3sg</span>",
+            "also",
+            "see",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "yes",
+            "let",
+            "\\textsc{3sg}",
+            "also",
+            "see",
+            "\\textsc{1sg}"
+        ],
+        "language": "Rapa Nui",
+        "src": "yo,  \\bluebold{biar}  \\bluebold{de}  juga  liat  sa!",
+        "srcwordsbare": [
+            "yo,",
+            "\\bluebold{biar}",
+            "\\bluebold{de}",
+            "juga",
+            "liat",
+            "sa!"
+        ],
+        "srcwordshtml": [
+            "yo,",
+            "\\bluebold{biar}",
+            "\\bluebold{de}",
+            "juga",
+            "liat",
+            "sa!"
+        ],
+        "srcwordstex": [
+            "yo,",
+            "\\bluebold{biar}",
+            "\\bluebold{de}",
+            "juga",
+            "liat",
+            "sa!"
+        ],
+        "trs": "yes, \\bluebold{let her} also see me!\u2019 \\textstyleExampleSource{[081015-005-NP.0013]}"
+    },
+    {
+        "categories": [],
+        "filename": "78/13.tex",
+        "imt": "{with}  {oSb}",
+        "imtwordsbare": [
+            "{with}",
+            "{oSb}"
+        ],
+        "imtwordshtml": [
+            "{with}",
+            "{oSb}"
+        ],
+        "imtwordstex": [
+            "{with}",
+            "{oSb}"
+        ],
+        "language": "Rapa Nui",
+        "src": "{dengang}  {kaka}",
+        "srcwordsbare": [
+            "{dengang}",
+            "{kaka}"
+        ],
+        "srcwordshtml": [
+            "{dengang}",
+            "{kaka}"
+        ],
+        "srcwordstex": [
+            "{dengang}",
+            "{kaka}"
+        ],
+        "trs": "[my husband said, \u2018(here in my village) don\u2019t extract and crush the sago, you just knead and filter it,] when you\u2019re staying in Arbais, (it is) \\bluebold{allowed} (that) you (extract and) crush (the sago) together with (your) older sibling\u2019 \\textstyleExampleSource{[081014-007-CvEx.0058]}"
+    },
+    {
+        "categories": [
+            "1sg"
+        ],
+        "filename": "78/13.tex",
+        "imt": "buy  {light.bulb}  {\\textsc{1sg}}  {have.to}  {fetch}  {flashlight}",
+        "imtwordsbare": [
+            "buy",
+            "{light.bulb}",
+            "{1SG}",
+            "{have.to}",
+            "{fetch}",
+            "{flashlight}"
+        ],
+        "imtwordshtml": [
+            "buy",
+            "{light.bulb}",
+            "{<span class=\"sc\">1sg</span>}",
+            "{have.to}",
+            "{fetch}",
+            "{flashlight}"
+        ],
+        "imtwordstex": [
+            "buy",
+            "{light.bulb}",
+            "{\\textsc{1sg}}",
+            "{have.to}",
+            "{fetch}",
+            "{flashlight}"
+        ],
+        "language": "Rapa Nui",
+        "src": "bli  {pecis,}  {sa}  {\\bluebold{harus}}  {ambil}  {senter}",
+        "srcwordsbare": [
+            "bli",
+            "{pecis,}",
+            "{sa}",
+            "{\\bluebold{harus}}",
+            "{ambil}",
+            "{senter}"
+        ],
+        "srcwordshtml": [
+            "bli",
+            "{pecis,}",
+            "{sa}",
+            "{\\bluebold{harus}}",
+            "{ambil}",
+            "{senter}"
+        ],
+        "srcwordstex": [
+            "bli",
+            "{pecis,}",
+            "{sa}",
+            "{\\bluebold{harus}}",
+            "{ambil}",
+            "{senter}"
+        ],
+        "trs": "[Getting ready for hunting:] \u2018tomorrow morning I \\bluebold{have to} get batteries, I \\bluebold{have to} buy small light bulbs, I \\bluebold{have to} take a flashlight\u2019 \\textstyleExampleSource{[080919-004-NP.0003]}"
     }
 ]
