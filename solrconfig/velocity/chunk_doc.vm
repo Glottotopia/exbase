@@ -46,6 +46,9 @@
 
 ## <div class="tagbag" name="extr"  id="tagbag"> 
 
+<div class="chunkmeta">
+    $doc.getFieldValue('ID')[0]
+</div>
 <div>     
     <div class="chunkcontent" id="chunkcontent$docId">  
 ##     $doc.getFieldValue('content')[0] 
@@ -68,9 +71,6 @@
 
 #set($part =$doc.getFieldValue('partof'))
 
-<div class="chunkmeta">
-    $doc.getFieldValue('filename')[0]
-</div>
 
 ##   <div class="tagcontainer"  name="extr"   id="tagcontainer$docId" style="display:none;" >
 <div class="tagcontainer"  name="extr"  id="tagcontainer$docId"  style="display:none;">    

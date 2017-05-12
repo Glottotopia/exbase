@@ -281,11 +281,7 @@ li.show {
 }
 
 /* Seb additions */
-
-
-/* Seb additions */
-
-
+ 
 
 
 #logo {
@@ -748,48 +744,31 @@ scrollbar-track-color: #fff!important;
     right: 30px;
     top: 100;
     z-index: 3;
-}
- 
- 
-.tagbag button{ 
-    vertical-align:bottom; 
-    margin-left: 5px;
-    font-size:120%;
+} 
+
+span.subscript{
+  vertical-align: sub;
+  font-size:83%;
 }
   
-
-.tagadder select{
-    font-size:8pt;   
-    padding: 0px;
-    width:180px;
-    margin-left:auto;
-    margin-right:auto;
 }
 
-.tagadder button{
-    font-size:8pt;   
-    padding: 0px;
+span.superscript{
+  vertical-align: super;
+  font-size:83%;
 }
 
-.tagadder form{
-/*     width:100px; */
-/*     display:inline; */
+span.bf{
+  font-weight:bold;
 }
- 
-.pos{
-    margin-left:auto;
-    margin-right:auto;
-    width:50%;
-    border-radius: 0 2px 2px 2px;
-    box-shadow: 1px 1px 0 0;
-    background:red;
+span.it{
+  font-family:italic;
 }
-
-.pos span{
-    margin-left:auto;
-    margin-right:auto;
-    width:50%;
-    border-radius: 0 2px 2px 2px;
-    box-shadow: 1px 1px 0 0;
+span.bfit{
+  font-family:italic;  
+  font-weight:bold;
 }
-
+span.itbf{
+  font-weight:bold;
+  font-family:italic;  
+}
