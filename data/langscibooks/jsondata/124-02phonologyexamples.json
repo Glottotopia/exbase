@@ -1,5 +1,6 @@
 [
     {
+        "ID": "02phonology--33355",
         "categories": [
             "2sg",
             "a",
@@ -66,7 +67,7 @@
             "~~~~~~",
             "{\\\ua78c\u0101}",
             "~~~~~~~",
-            "t\u0101\\nobreakdash-\\nobreakdash-\\nobreakdash---\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-{\\\ua78c}au."
+            "t\u0101-----------\ua78cau."
         ],
         "srcwordshtml": [
             "~",
@@ -80,7 +81,7 @@
             "~~~~~~",
             "<span class=\"bf\">{\\\ua78c</span>\u0101}",
             "~~~~~~~",
-            "t\u0101\\nobreakdash-\\nobreakdash-\\nobreakdash---\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-{\\\ua78c}au."
+            "t\u0101-----------\ua78cau."
         ],
         "srcwordstex": [
             "~",
@@ -100,6 +101,7 @@
         "wlength": 12
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "art",
             "dem",
@@ -186,12 +188,12 @@
             "~~~",
             "te",
             "~",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "~~~~~~~~~~~~~~~~~~~",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "~~",
             "t\u016b",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~",
             "era."
         ],
@@ -207,12 +209,12 @@
             "~~~",
             "te",
             "~",
-            "<span class=\"bf\">nu</span>{\\\ua78c}u",
+            "<span class=\"bf\">nu</span>\ua78cu",
             "~~~~~~~~~~~~~~~~~~~",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "~~",
             "t\u016b",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~",
             "<span class=\"bf\">e</span>ra."
         ],
@@ -241,6 +243,7 @@
         "wlength": 19
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "dem",
             "dist",
@@ -363,6 +366,7 @@
         "wlength": 16
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "2sg",
             "a",
@@ -432,8 +436,8 @@
             "~",
             "{\\\ua78c\u0101}",
             "~",
-            "ta{\\\ua78c}a",
-            "p\u0101\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash---\\nobreakdash-\\nobreakdash-hono."
+            "ta\ua78ca",
+            "p\u0101--------hono."
         ],
         "srcwordshtml": [
             "~",
@@ -447,8 +451,8 @@
             "~",
             "<span class=\"bf\">{\\\ua78c</span>\u0101}",
             "~",
-            "ta{\\\ua78c}a",
-            "p\u0101\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash---\\nobreakdash-\\nobreakdash-hono."
+            "ta\ua78ca",
+            "p\u0101--------hono."
         ],
         "srcwordstex": [
             "~",
@@ -469,6 +473,7 @@
         "wlength": 13
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "2sg",
             "art",
@@ -567,13 +572,13 @@
             "{\\\ua78c\u0101}",
             "~",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~~~~",
             "era",
             "~~~",
             "mo",
             "~",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "~",
             "mai?"
         ],
@@ -591,13 +596,13 @@
             "<span class=\"bf\">{\\\ua78c</span>\u0101}",
             "~",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~~~~",
             "era",
             "~~~",
             "mo",
             "~",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "~",
             "mai?"
         ],
@@ -629,6 +634,7 @@
         "wlength": 22
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "2pl",
             "neg"
@@ -698,13 +704,13 @@
             "~",
             "~",
             "~~~~~~~~~",
-            "\u00bf{\\\ua78c}Ina",
+            "\u00bf\ua78cIna",
             "~~~~~~~",
             "{\\\ua78c\u014d}",
             "~~~~~~",
             "k\u014drua",
             "~~~~~~",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~~~~~~~~",
             "mo",
             "~~~~~~~~~~~~",
@@ -716,13 +722,13 @@
             "~",
             "~",
             "~~~~~~~~~",
-            "\u00bf{\\\ua78c}Ina",
+            "\u00bf\ua78cIna",
             "~~~~~~~",
             "<span class=\"bf\">{\\\ua78c</span>\u014d}",
             "~~~~~~",
             "k\u014drua",
             "~~~~~~",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~~~~~~~~",
             "mo",
             "~~~~~~~~~~~~",
@@ -750,6 +756,7 @@
         "wlength": 16
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "art",
             "prom",
@@ -860,6 +867,7 @@
         "wlength": 14
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "art",
             "pred"
@@ -943,7 +951,7 @@
             "~~",
             "te",
             "~~",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~",
             "mo",
             "~~",
@@ -963,7 +971,7 @@
             "~~",
             "te",
             "~~",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "~",
             "mo",
             "~~",
@@ -993,6 +1001,7 @@
         "wlength": 18
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "art"
         ],
@@ -1031,7 +1040,7 @@
             "o",
             "te",
             "h\u0101ipoipo,",
-            "pa{\\\ua78c}i."
+            "pa\ua78ci."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">Cincuenta</span>",
@@ -1039,7 +1048,7 @@
             "o",
             "te",
             "h\u0101ipoipo,",
-            "pa{\\\ua78c}i."
+            "pa\ua78ci."
         ],
         "srcwordstex": [
             "\\textbf{Cincuenta}",
@@ -1053,6 +1062,7 @@
         "wlength": 6
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "1pl",
             "excl",
@@ -1116,6 +1126,7 @@
         "wlength": 6
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "3pl",
             "art",
@@ -1186,7 +1197,7 @@
             "he",
             "p\u012bpiko",
             "n\u014d",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "roto",
             "i",
             "te",
@@ -1202,7 +1213,7 @@
             "he",
             "<span class=\"bf\">p\u012bpiko</span>",
             "n\u014d",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "roto",
             "i",
             "te",
@@ -1229,6 +1240,7 @@
         "wlength": 14
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "2pl",
             "acc",
@@ -1287,8 +1299,8 @@
             "k\u014drua",
             "ka",
             "uunu",
-            "{\\\ua78c}i",
-            "ra{\\\ua78c}e",
+            "\ua78ci",
+            "ra\ua78ce",
             "i",
             "te",
             "k\u014drua",
@@ -1300,8 +1312,8 @@
             "k\u014drua",
             "ka",
             "<span class=\"bf\">uunu</span>",
-            "{\\\ua78c}i",
-            "ra{\\\ua78c}e",
+            "\ua78ci",
+            "ra\ua78ce",
             "i",
             "te",
             "k\u014drua",
@@ -1324,6 +1336,7 @@
         "wlength": 11
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "dem",
             "dist",
@@ -1393,6 +1406,7 @@
         "wlength": 7
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "art",
             "ntr"
@@ -1435,22 +1449,22 @@
         "srcwordsbare": [
             "He",
             "more",
-            "{\\\ua78c}ino",
+            "\ua78cino",
             "Rau",
             "Nui",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
-            "m\u0101{\\\ua78c}ea."
+            "m\u0101\ua78cea."
         ],
         "srcwordshtml": [
             "<span class=\"it\">He</span>",
             "<span class=\"bf\">more</span>",
-            "{\\\ua78c}ino",
+            "\ua78cino",
             "Rau",
             "Nui",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
-            "m\u0101{\\\ua78c}ea."
+            "m\u0101\ua78cea."
         ],
         "srcwordstex": [
             "\\textit{He}",
@@ -1466,6 +1480,7 @@
         "wlength": 8
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "acc",
             "art",
@@ -1548,6 +1563,7 @@
         "wlength": 9
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "art",
             "pfv",
@@ -1614,15 +1630,15 @@
             "ta\u014bata",
             "nei",
             "i",
-            "ha{\\\ua78c}amata",
+            "ha\ua78camata",
             "ai",
             "i",
-            "tu{\\\ua78cutu{\\\ua78c}u}",
+            "tu{\\\ua78cutu\ua78cu}",
             "mai",
             "ai",
             "te",
             "pah\u012b",
-            "papa{\\\ua78c}\u0101."
+            "papa\ua78c\u0101."
         ],
         "srcwordshtml": [
             "Mai",
@@ -1630,15 +1646,15 @@
             "ta\u014bata",
             "nei",
             "i",
-            "ha{\\\ua78c}amata",
+            "ha\ua78camata",
             "ai",
             "i",
-            "<span class=\"bf\">tu{\\\ua78c</span>utu{\\\ua78c}u}",
+            "<span class=\"bf\">tu{\\\ua78c</span>utu\ua78cu}",
             "mai",
             "ai",
             "te",
             "pah\u012b",
-            "papa{\\\ua78c}\u0101."
+            "papa\ua78c\u0101."
         ],
         "srcwordstex": [
             "Mai",
@@ -1660,6 +1676,7 @@
         "wlength": 14
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "ag",
             "dem",
@@ -1741,44 +1758,44 @@
         "srcwordsbare": [
             "P\u0113",
             "r\u0101",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "e",
-            "u{\\\ua78ciu{\\\ua78c}i}",
+            "u{\\\ua78ciu\ua78ci}",
             "era",
             "a",
-            "tu{\\\ua78c}a",
-            "koi{\\\ua78c}ite",
+            "tu\ua78ca",
+            "koi\ua78cite",
             "e",
             "tute",
             "r\u014d",
             "mai",
             "e",
             "t\u016b",
-            "{\\\ua78c}amahi\u014bo",
+            "\ua78camahi\u014bo",
             "era",
             "ko",
-            "Mako{\\\ua78c}i."
+            "Mako\ua78ci."
         ],
         "srcwordshtml": [
             "P\u0113",
             "r\u0101",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "e",
-            "<span class=\"bf\">u{\\\ua78c</span>iu{\\\ua78c}i}",
+            "<span class=\"bf\">u{\\\ua78c</span>iu\ua78ci}",
             "era",
             "a",
-            "tu{\\\ua78c}a",
-            "koi{\\\ua78c}ite",
+            "tu\ua78ca",
+            "koi\ua78cite",
             "e",
             "tute",
             "r\u014d",
             "mai",
             "e",
             "t\u016b",
-            "{\\\ua78c}amahi\u014bo",
+            "\ua78camahi\u014bo",
             "era",
             "ko",
-            "Mako{\\\ua78c}i."
+            "Mako\ua78ci."
         ],
         "srcwordstex": [
             "P\u0113",
@@ -1805,6 +1822,7 @@
         "wlength": 19
     },
     {
+        "ID": "02phonology--33355",
         "categories": [
             "art",
             "ntr",
@@ -1845,19 +1863,19 @@
         "src": "He \\textbf{u{\\\ua78c}iu{\\\ua78c}i} ia te {\\\ua78c}\u0101ri\u014ba a totoru.",
         "srcwordsbare": [
             "He",
-            "u{\\\ua78ciu{\\\ua78c}i}",
+            "u{\\\ua78ciu\ua78ci}",
             "ia",
             "te",
-            "{\\\ua78c}\u0101ri\u014ba",
+            "\ua78c\u0101ri\u014ba",
             "a",
             "totoru."
         ],
         "srcwordshtml": [
             "He",
-            "<span class=\"bf\">u{\\\ua78c</span>iu{\\\ua78c}i}",
+            "<span class=\"bf\">u{\\\ua78c</span>iu\ua78ci}",
             "ia",
             "te",
-            "{\\\ua78c}\u0101ri\u014ba",
+            "\ua78c\u0101ri\u014ba",
             "a",
             "totoru."
         ],

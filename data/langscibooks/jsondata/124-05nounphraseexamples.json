@@ -1,5 +1,6 @@
 [
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "ag",
@@ -38,14 +39,14 @@
         "srcwordsbare": [
             "e0",
             "ku\u01012",
-            "t\u014d{\\\ua78c}oku3",
+            "t\u014d\ua78coku3",
             "p\u0101p\u01017",
             "era13"
         ],
         "srcwordshtml": [
             "e<span class=\"subscript\">0</span>",
             "ku\u0101<span class=\"subscript\">2</span>",
-            "t\u014d{\\\ua78c}oku<span class=\"subscript\">3</span>",
+            "t\u014d\ua78coku<span class=\"subscript\">3</span>",
             "p\u0101p\u0101<span class=\"subscript\">7</span>",
             "era<span class=\"subscript\">13</span>"
         ],
@@ -60,6 +61,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ident",
@@ -103,22 +105,22 @@
         "srcwordsbare": [
             "mo0",
             "te3",
-            "nu{\\\ua78c}u7",
-            "pa{\\\ua78c}ari8",
-            "ta{\\\ua78c}ato{\\\ua78c}a9",
+            "nu\ua78cu7",
+            "pa\ua78cari8",
+            "ta\ua78cato\ua78ca9",
             "mau11",
             "nei13",
-            "{\\\ua78c}\u010114"
+            "\ua78c\u010114"
         ],
         "srcwordshtml": [
             "mo<span class=\"subscript\">0</span>",
             "te<span class=\"subscript\">3</span>",
-            "nu{\\\ua78c}u<span class=\"subscript\">7</span>",
-            "pa{\\\ua78c}ari<span class=\"subscript\">8</span>",
-            "ta{\\\ua78c}ato{\\\ua78c}a<span class=\"subscript\">9</span>",
+            "nu\ua78cu<span class=\"subscript\">7</span>",
+            "pa\ua78cari<span class=\"subscript\">8</span>",
+            "ta\ua78cato\ua78ca<span class=\"subscript\">9</span>",
             "mau<span class=\"subscript\">11</span>",
             "nei<span class=\"subscript\">13</span>",
-            "{\\\ua78c}\u0101<span class=\"subscript\">14</span>"
+            "\ua78c\u0101<span class=\"subscript\">14</span>"
         ],
         "srcwordstex": [
             "mo\\textsubscript{0}",
@@ -134,6 +136,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "dem",
             "dist"
@@ -168,14 +171,14 @@
             "ki0",
             "t\u016b3",
             "ta\u014bata7",
-            "haka{\\\ua78c}ou10",
+            "haka\ua78cou10",
             "era13"
         ],
         "srcwordshtml": [
             "ki<span class=\"subscript\">0</span>",
             "t\u016b<span class=\"subscript\">3</span>",
             "ta\u014bata<span class=\"subscript\">7</span>",
-            "haka{\\\ua78c}ou<span class=\"subscript\">10</span>",
+            "haka\ua78cou<span class=\"subscript\">10</span>",
             "era<span class=\"subscript\">13</span>"
         ],
         "srcwordstex": [
@@ -189,6 +192,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -202,21 +206,21 @@
         "imtwordsbare": [
             "ACC",
             "poss.3sg.a",
-            "{\\db}child",
+            " child",
             "female",
             "really",
             "just",
-            "{\\db}NUM",
+            " NUM",
             "one"
         ],
         "imtwordshtml": [
             "<span class=\"sc\">acc</span>",
             "<span class=\"sc\">poss.3sg.a</span>",
-            "{\\db}child",
+            " child",
             "female",
             "really",
             "just",
-            "{\\db}<span class=\"sc\">num</span>",
+            " <span class=\"sc\">num</span>",
             "one"
         ],
         "imtwordstex": [
@@ -233,23 +237,23 @@
         "src": "i\\textsubscript{0} t\u0101{\\\ua78c}ana\\textsubscript{3} {\\ob}poki vahine\\,{\\cb}\\textsubscript{7} mau\\textsubscript{11} n\u014d\\textsubscript{12} {\\ob}e tahi\\,{\\cb}\\textsubscript{15}",
         "srcwordsbare": [
             "i0",
-            "t\u0101{\\\ua78c}ana3",
-            "{\\ob}poki",
-            "vahine\\,{\\cb}7",
+            "t\u0101\ua78cana3",
+            "[poki",
+            "vahine\\,]7",
             "mau11",
             "n\u014d12",
-            "{\\ob}e",
-            "tahi\\,{\\cb}15"
+            "[e",
+            "tahi\\,]15"
         ],
         "srcwordshtml": [
             "i<span class=\"subscript\">0</span>",
-            "t\u0101{\\\ua78c}ana<span class=\"subscript\">3</span>",
-            "{\\ob}poki",
-            "vahine\\,{\\cb}<span class=\"subscript\">7</span>",
+            "t\u0101\ua78cana<span class=\"subscript\">3</span>",
+            "[poki",
+            "vahine\\,]<span class=\"subscript\">7</span>",
             "mau<span class=\"subscript\">11</span>",
             "n\u014d<span class=\"subscript\">12</span>",
-            "{\\ob}e",
-            "tahi\\,{\\cb}<span class=\"subscript\">15</span>"
+            "[e",
+            "tahi\\,]<span class=\"subscript\">15</span>"
         ],
         "srcwordstex": [
             "i\\textsubscript{0}",
@@ -265,6 +269,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -278,7 +283,7 @@
             "ART",
             "father",
             "DIST",
-            "{\\db}of",
+            " of",
             "Peter",
             "there"
         ],
@@ -287,7 +292,7 @@
             "<span class=\"sc\">art</span>",
             "father",
             "<span class=\"sc\">dist</span>",
-            "{\\db}of",
+            " of",
             "Peter",
             "there"
         ],
@@ -307,8 +312,8 @@
             "te3",
             "p\u0101p\u01017",
             "era13",
-            "{\\ob}o",
-            "P\u0113tero\\,{\\cb}16",
+            "[o",
+            "P\u0113tero\\,]16",
             "ai17"
         ],
         "srcwordshtml": [
@@ -316,8 +321,8 @@
             "te<span class=\"subscript\">3</span>",
             "p\u0101p\u0101<span class=\"subscript\">7</span>",
             "era<span class=\"subscript\">13</span>",
-            "{\\ob}o",
-            "P\u0113tero\\,{\\cb}<span class=\"subscript\">16</span>",
+            "[o",
+            "P\u0113tero\\,]<span class=\"subscript\">16</span>",
             "ai<span class=\"subscript\">17</span>"
         ],
         "srcwordstex": [
@@ -333,6 +338,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art"
         ],
@@ -362,14 +368,14 @@
         "srcwordsbare": [
             "rauhuru1",
             "te3",
-            "me{\\\ua78c}e7",
-            "m\u0101t\u0101mu{\\\ua78c}a8"
+            "me\ua78ce7",
+            "m\u0101t\u0101mu\ua78ca8"
         ],
         "srcwordshtml": [
             "rauhuru<span class=\"subscript\">1</span>",
             "te<span class=\"subscript\">3</span>",
-            "me{\\\ua78c}e<span class=\"subscript\">7</span>",
-            "m\u0101t\u0101mu{\\\ua78c}a<span class=\"subscript\">8</span>"
+            "me\ua78ce<span class=\"subscript\">7</span>",
+            "m\u0101t\u0101mu\ua78ca<span class=\"subscript\">8</span>"
         ],
         "srcwordstex": [
             "rauhuru\\textsubscript{1}",
@@ -381,6 +387,7 @@
         "wlength": 4
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3pl",
             "pl"
@@ -389,7 +396,7 @@
         "filename": "124/05nounphrase.tex",
         "imt": "{\\ob}thing many just away \\textsc{3pl} \\textsc{pl} child",
         "imtwordsbare": [
-            "{\\ob}thing",
+            "[thing",
             "many",
             "just",
             "away",
@@ -398,7 +405,7 @@
             "child"
         ],
         "imtwordshtml": [
-            "{\\ob}thing",
+            "[thing",
             "many",
             "just",
             "away",
@@ -418,19 +425,19 @@
         "language": "Rapa Nui",
         "src": "{\\ob}me{\\\ua78c}e rahi n\u014d atu\\,{\\cb}\\textsubscript{4} r\u0101ua\\textsubscript{5} \u014b\u0101\\textsubscript{6} poki\\textsubscript{7}",
         "srcwordsbare": [
-            "{\\ob}me{\\\ua78c}e",
+            "[me\ua78ce",
             "rahi",
             "n\u014d",
-            "atu\\,{\\cb}4",
+            "atu\\,]4",
             "r\u0101ua5",
             "\u014b\u01016",
             "poki7"
         ],
         "srcwordshtml": [
-            "{\\ob}me{\\\ua78c}e",
+            "[me\ua78ce",
             "rahi",
             "n\u014d",
-            "atu\\,{\\cb}<span class=\"subscript\">4</span>",
+            "atu\\,]<span class=\"subscript\">4</span>",
             "r\u0101ua<span class=\"subscript\">5</span>",
             "\u014b\u0101<span class=\"subscript\">6</span>",
             "poki<span class=\"subscript\">7</span>"
@@ -448,6 +455,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ana",
             "coll",
@@ -517,7 +525,7 @@
             "iri",
             "ai",
             "ki",
-            "{\\\ua78c}uta",
+            "\ua78cuta",
             "e",
             "tahi",
             "mahana."
@@ -532,7 +540,7 @@
             "iri",
             "ai",
             "ki",
-            "{\\\ua78c}uta",
+            "\ua78cuta",
             "e",
             "tahi",
             "mahana."
@@ -556,6 +564,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "coll",
             "ntr",
@@ -626,6 +635,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2sg",
             "acc",
@@ -680,7 +690,7 @@
             "E",
             "Tiare,",
             "e",
-            "h\u0101pa{\\\ua78c}o",
+            "h\u0101pa\ua78co",
             "rivariva",
             "koe",
             "i",
@@ -692,7 +702,7 @@
             "E",
             "Tiare,",
             "e",
-            "h\u0101pa{\\\ua78c}o",
+            "h\u0101pa\ua78co",
             "rivariva",
             "koe",
             "i",
@@ -716,6 +726,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2pl",
             "coll",
@@ -772,6 +783,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "coll",
             "imp",
@@ -840,6 +852,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "coll",
@@ -908,8 +921,8 @@
             "rikiriki",
             "era",
             "ko",
-            "t\u014d{\\\ua78c}oku",
-            "p\u0101p\u0101r\u016b{\\\ua78c}au",
+            "t\u014d\ua78coku",
+            "p\u0101p\u0101r\u016b\ua78cau",
             "era."
         ],
         "srcwordshtml": [
@@ -922,8 +935,8 @@
             "rikiriki",
             "era",
             "ko",
-            "t\u014d{\\\ua78c}oku",
-            "p\u0101p\u0101r\u016b{\\\ua78c}au",
+            "t\u014d\ua78coku",
+            "p\u0101p\u0101r\u016b\ua78cau",
             "era."
         ],
         "srcwordstex": [
@@ -944,6 +957,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "~~pred"
@@ -993,6 +1007,7 @@
         "wlength": 4
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "num"
@@ -1048,6 +1063,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "ntr",
@@ -1110,6 +1126,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "pfv",
             "pl"
@@ -1165,6 +1182,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cq",
@@ -1200,7 +1218,7 @@
         "language": "Rapa Nui",
         "src": "\u00bf{\\\ua78c}I \\textbf{kona} \\textbf{h\u0113} te m\u0101moe nei?",
         "srcwordsbare": [
-            "\u00bf{\\\ua78c}I",
+            "\u00bf\ua78cI",
             "kona",
             "h\u0113",
             "te",
@@ -1208,7 +1226,7 @@
             "nei?"
         ],
         "srcwordshtml": [
-            "\u00bf{\\\ua78c}I",
+            "\u00bf\ua78cI",
             "<span class=\"bf\">kona</span>",
             "<span class=\"bf\">h\u0113</span>",
             "te",
@@ -1227,6 +1245,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ins",
             "ntr",
@@ -1264,7 +1283,7 @@
         "src": "He pu{\\\ua78c}apu{\\\ua78c}a \\textbf{hai} \\textbf{p\u0101oa}; he mate.",
         "srcwordsbare": [
             "He",
-            "pu{\\\ua78c}apu{\\\ua78c}a",
+            "pu\ua78capu\ua78ca",
             "hai",
             "p\u0101oa;",
             "he",
@@ -1272,7 +1291,7 @@
         ],
         "srcwordshtml": [
             "He",
-            "pu{\\\ua78c}apu{\\\ua78c}a",
+            "pu\ua78capu\ua78ca",
             "<span class=\"bf\">hai</span>",
             "<span class=\"bf\">p\u0101oa</span>;",
             "he",
@@ -1290,6 +1309,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "dist",
             "ntr"
@@ -1341,9 +1361,9 @@
         "src": "He e{\\\ua78c}a r\u0101 matu{\\\ua78c}a Iporito \\textbf{ki} \\textbf{hare} \\textbf{era} \\textbf{ki} \\textbf{hare} \\textbf{era}.",
         "srcwordsbare": [
             "He",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "r\u0101",
-            "matu{\\\ua78c}a",
+            "matu\ua78ca",
             "Iporito",
             "ki",
             "hare",
@@ -1354,9 +1374,9 @@
         ],
         "srcwordshtml": [
             "He",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "r\u0101",
-            "matu{\\\ua78c}a",
+            "matu\ua78ca",
             "Iporito",
             "<span class=\"bf\">ki</span>",
             "<span class=\"bf\">hare</span>",
@@ -1382,6 +1402,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr"
@@ -1461,6 +1482,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3pl",
             "art",
@@ -1523,30 +1545,30 @@
             "ki",
             "a",
             "r\u0101ua",
-            "{\\\ua78c}e",
+            "\ua78ce",
             "ki",
             "te",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "era",
-            "hua{\\\ua78c}ai,",
+            "hua\ua78cai,",
             "matu{\\\ua78ca},",
             "nu{\\\ua78cu}",
-            "pa{\\\ua78c}ari..."
+            "pa\ua78cari..."
         ],
         "srcwordshtml": [
             "M\u0101uruuru",
             "ki",
             "a",
             "r\u0101ua",
-            "{\\\ua78c}e",
+            "\ua78ce",
             "ki",
             "te",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "era",
-            "hua{\\\ua78c}ai,",
+            "hua\ua78cai,",
             "<span class=\"bf\">matu{\\\ua78c</span>a},",
             "<span class=\"bf\">nu{\\\ua78c</span>u}",
-            "pa{\\\ua78c}ari..."
+            "pa\ua78cari..."
         ],
         "srcwordstex": [
             "M\u0101uruuru",
@@ -1567,6 +1589,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "cont",
             "prf",
@@ -1622,7 +1645,7 @@
             "ko",
             "hoki",
             "mai",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "mai",
             "Tahiti",
             "ki",
@@ -1635,7 +1658,7 @@
             "ko",
             "hoki",
             "mai",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "mai",
             "Tahiti",
             "ki",
@@ -1659,6 +1682,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2pl",
             "med",
@@ -1728,6 +1752,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "o",
@@ -1777,22 +1802,22 @@
             "Ta\u014bata",
             "nei",
             "ko",
-            "P\u0101pu{\\\ua78c}e,",
-            "{\\\ua78c}i",
-            "M\u0101{\\\ua78c}ea",
+            "P\u0101pu\ua78ce,",
+            "\ua78ci",
+            "M\u0101\ua78cea",
             "Makohe",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hare."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">Ta\u014bata</span>",
             "<span class=\"bf\">nei</span>",
             "ko",
-            "P\u0101pu{\\\ua78c}e,",
-            "{\\\ua78c}i",
-            "M\u0101{\\\ua78c}ea",
+            "P\u0101pu\ua78ce,",
+            "\ua78ci",
+            "M\u0101\ua78cea",
             "Makohe",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hare."
         ],
         "srcwordstex": [
@@ -1810,6 +1835,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "pred",
@@ -1878,6 +1904,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "acc",
@@ -1923,8 +1950,8 @@
         "src": "*Ko tike{\\\ua78c}a {\\\ua78c}\u0101 a au (i) \\textbf{he} honu.",
         "srcwordsbare": [
             "*Ko",
-            "tike{\\\ua78c}a",
-            "{\\\ua78c}\u0101",
+            "tike\ua78ca",
+            "\ua78c\u0101",
             "a",
             "au",
             "(i)",
@@ -1933,8 +1960,8 @@
         ],
         "srcwordshtml": [
             "*Ko",
-            "tike{\\\ua78c}a",
-            "{\\\ua78c}\u0101",
+            "tike\ua78ca",
+            "\ua78c\u0101",
             "a",
             "au",
             "(i)",
@@ -1955,6 +1982,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr"
@@ -2018,12 +2046,12 @@
         "src": "He tu{\\\ua78c}u mai \\textbf{te} ta\u014bata, \\textbf{te} vi{\\\ua78c}e, he popo mai ki roto ki \\textbf{te} hare.",
         "srcwordsbare": [
             "He",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "mai",
             "te",
             "ta\u014bata,",
             "te",
-            "vi{\\\ua78c}e,",
+            "vi\ua78ce,",
             "he",
             "popo",
             "mai",
@@ -2035,12 +2063,12 @@
         ],
         "srcwordshtml": [
             "He",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "mai",
             "<span class=\"bf\">te</span>",
             "ta\u014bata,",
             "<span class=\"bf\">te</span>",
-            "vi{\\\ua78c}e,",
+            "vi\ua78ce,",
             "he",
             "popo",
             "mai",
@@ -2071,6 +2099,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cont",
@@ -2118,7 +2147,7 @@
             "Ko",
             "mate",
             "atu",
-            "{\\\ua78c}ana",
+            "\ua78cana",
             "ki",
             "te",
             "vai",
@@ -2129,7 +2158,7 @@
             "Ko",
             "mate",
             "atu",
-            "{\\\ua78c}ana",
+            "\ua78cana",
             "ki",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">vai</span>",
@@ -2151,6 +2180,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -2231,6 +2261,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "art",
@@ -2288,8 +2319,8 @@
         "src": "Ko tu{\\\ua78c}u {\\\ua78c}ana a au ki ru\u014ba i \\textbf{te} \\textbf{henua} e hitu.",
         "srcwordsbare": [
             "Ko",
-            "tu{\\\ua78c}u",
-            "{\\\ua78c}ana",
+            "tu\ua78cu",
+            "\ua78cana",
             "a",
             "au",
             "ki",
@@ -2302,8 +2333,8 @@
         ],
         "srcwordshtml": [
             "Ko",
-            "tu{\\\ua78c}u",
-            "{\\\ua78c}ana",
+            "tu\ua78cu",
+            "\ua78cana",
             "a",
             "au",
             "ki",
@@ -2332,6 +2363,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -2397,38 +2429,38 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}I te noho i\u014ba tuai era {\\\ua78c}\u0101 \\textbf{te} \\textbf{ta\u014bata} \\textbf{e} \\textbf{tahi} te {\\\ua78c}\u012b\u014boa  ko Tu{\\\ua78c}uhakararo.",
         "srcwordsbare": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "te",
             "noho",
             "i\u014ba",
             "tuai",
             "era",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "te",
             "ta\u014bata",
             "e",
             "tahi",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "ko",
-            "Tu{\\\ua78c}uhakararo."
+            "Tu\ua78cuhakararo."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "te",
             "noho",
             "i\u014ba",
             "tuai",
             "era",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">ta\u014bata</span>",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">tahi</span>",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "ko",
-            "Tu{\\\ua78c}uhakararo."
+            "Tu\ua78cuhakararo."
         ],
         "srcwordstex": [
             "{\\\ua78c}I",
@@ -2451,6 +2483,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "ag",
@@ -2538,46 +2571,46 @@
             "tano",
             "n\u014d",
             "mo",
-            "ma{\\\ua78c}u",
+            "ma\ua78cu",
             "i",
             "te",
             "m\u014dai",
             "e",
-            "ho{\\\ua78c}e",
-            "{\\\ua78c}ahuru",
+            "ho\ua78ce",
+            "\ua78cahuru",
             "toneladas",
             "...",
             "e",
             "te",
             "ta\u014bata",
             "e",
-            "ho{\\\ua78c}e",
+            "ho\ua78ce",
             "h\u0101nere",
-            "va{\\\ua78c}u",
-            "{\\\ua78c}ahuru."
+            "va\ua78cu",
+            "\ua78cahuru."
         ],
         "srcwordshtml": [
             "E",
             "tano",
             "n\u014d",
             "mo",
-            "ma{\\\ua78c}u",
+            "ma\ua78cu",
             "i",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">m\u014dai</span>",
             "e",
-            "ho{\\\ua78c}e",
-            "{\\\ua78c}ahuru",
+            "ho\ua78ce",
+            "\ua78cahuru",
             "toneladas",
             "...",
             "e",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">ta\u014bata</span>",
             "e",
-            "ho{\\\ua78c}e",
+            "ho\ua78ce",
             "h\u0101nere",
-            "va{\\\ua78c}u",
-            "{\\\ua78c}ahuru."
+            "va\ua78cu",
+            "\ua78cahuru."
         ],
         "srcwordstex": [
             "E",
@@ -2606,6 +2639,7 @@
         "wlength": 21
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art"
@@ -2661,7 +2695,7 @@
             "te",
             "moni",
             "mo",
-            "ho{\\\ua78c}o",
+            "ho\ua78co",
             "mai",
             "i",
             "te",
@@ -2674,7 +2708,7 @@
             "te",
             "moni",
             "mo",
-            "ho{\\\ua78c}o",
+            "ho\ua78co",
             "mai",
             "i",
             "<span class=\"bf\">te</span>",
@@ -2697,6 +2731,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1pl",
             "1sg",
@@ -2778,9 +2813,9 @@
         "srcwordsbare": [
             "He",
             "k\u012b",
-            "\u014d{\\\ua78c}oku",
+            "\u014d\ua78coku",
             "ki",
-            "t\u014d{\\\ua78c}oku",
+            "t\u014d\ua78coku",
             "\u014b\u0101",
             "poki",
             "taina",
@@ -2798,9 +2833,9 @@
         "srcwordshtml": [
             "He",
             "k\u012b",
-            "\u014d{\\\ua78c}oku",
+            "\u014d\ua78coku",
             "ki",
-            "t\u014d{\\\ua78c}oku",
+            "t\u014d\ua78coku",
             "\u014b\u0101",
             "poki",
             "taina",
@@ -2839,6 +2874,7 @@
         "wlength": 18
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -2878,7 +2914,7 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}Ina ko kai i \\textbf{te} \\textbf{kai} mata.",
         "srcwordsbare": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "ko",
             "kai",
             "i",
@@ -2887,7 +2923,7 @@
             "mata."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "ko",
             "kai",
             "i",
@@ -2908,6 +2944,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cont",
@@ -2964,12 +3001,12 @@
             "\u2014\u00bfE",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "te",
             "ika",
             "o",
             "roto?",
-            "\u2014{\\\ua78c}Ina",
+            "\u2014\ua78cIna",
             "e",
             "tahi."
         ],
@@ -2977,12 +3014,12 @@
             "\u2014\u00bfE",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">ika</span>",
             "o",
             "roto?",
-            "\u2014{\\\ua78c}Ina",
+            "\u2014\ua78cIna",
             "e",
             "tahi."
         ],
@@ -3003,6 +3040,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "dist",
             "ntr"
@@ -3054,9 +3092,9 @@
         "src": "He e{\\\ua78c}a r\u0101 matu{\\\ua78c}a Iporito \\textbf{ki} \\textbf{hare} \\textbf{era} \\textbf{ki} \\textbf{hare} \\textbf{era}.",
         "srcwordsbare": [
             "He",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "r\u0101",
-            "matu{\\\ua78c}a",
+            "matu\ua78ca",
             "Iporito",
             "ki",
             "hare",
@@ -3067,9 +3105,9 @@
         ],
         "srcwordshtml": [
             "He",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "r\u0101",
-            "matu{\\\ua78c}a",
+            "matu\ua78ca",
             "Iporito",
             "<span class=\"bf\">ki</span>",
             "<span class=\"bf\">hare</span>",
@@ -3095,6 +3133,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -3134,7 +3173,7 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}Ina ko kai i \\textbf{te} \\textbf{kai} mata.",
         "srcwordsbare": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "ko",
             "kai",
             "i",
@@ -3143,7 +3182,7 @@
             "mata."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "ko",
             "kai",
             "i",
@@ -3164,6 +3203,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cont",
@@ -3220,12 +3260,12 @@
             "\u2014\u00bfE",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "te",
             "ika",
             "o",
             "roto?",
-            "\u2014{\\\ua78c}Ina",
+            "\u2014\ua78cIna",
             "e",
             "tahi."
         ],
@@ -3233,12 +3273,12 @@
             "\u2014\u00bfE",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">ika</span>",
             "o",
             "roto?",
-            "\u2014{\\\ua78c}Ina",
+            "\u2014\ua78cIna",
             "e",
             "tahi."
         ],
@@ -3259,6 +3299,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "neg",
             "ntr",
@@ -3310,7 +3351,7 @@
         "srcwordsbare": [
             "{\\\ua78cIna}",
             "he",
-            "r\u016b{\\\ua78c}au",
+            "r\u016b\ua78cau",
             "nei",
             "he",
             "turu",
@@ -3322,7 +3363,7 @@
         "srcwordshtml": [
             "<span class=\"bf\">{\\\ua78c</span>Ina}",
             "<span class=\"bf\">he</span>",
-            "r\u016b{\\\ua78c}au",
+            "r\u016b\ua78cau",
             "nei",
             "he",
             "turu",
@@ -3347,6 +3388,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "dem",
             "dist",
@@ -3403,6 +3445,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "pred",
             "prom"
@@ -3452,6 +3495,7 @@
         "wlength": 4
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ag",
             "art",
@@ -3529,7 +3573,7 @@
             "k\u012b",
             "e",
             "te",
-            "matu{\\\ua78c}a",
+            "matu\ua78ca",
             "tane",
             "era",
             "o",
@@ -3537,10 +3581,10 @@
             "Rau,",
             "he",
             "ta\u014bata",
-            "p\u016b{\\\ua78c}oko",
+            "p\u016b\ua78coko",
             "o",
             "te",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "o",
             "Kapiti..."
         ],
@@ -3549,7 +3593,7 @@
             "k\u012b",
             "e",
             "te",
-            "matu{\\\ua78c}a",
+            "matu\ua78ca",
             "tane",
             "era",
             "o",
@@ -3557,10 +3601,10 @@
             "Rau,",
             "<span class=\"bf\">he</span>",
             "<span class=\"bf\">ta\u014bata</span>",
-            "p\u016b{\\\ua78c}oko",
+            "p\u016b\ua78coko",
             "o",
             "te",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "o",
             "Kapiti..."
         ],
@@ -3588,6 +3632,7 @@
         "wlength": 18
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "nmlz",
@@ -3645,7 +3690,7 @@
             "He",
             "a\u014ba",
             "vaka,",
-            "{\\\ua78c}e",
+            "\ua78ce",
             "he",
             "e{\\\ua78ca}",
             "i\u014ba",
@@ -3659,7 +3704,7 @@
             "<span class=\"bf\">He</span>",
             "<span class=\"bf\">a\u014ba</span>",
             "vaka,",
-            "{\\\ua78c}e",
+            "\ua78ce",
             "<span class=\"bf\">he</span>",
             "<span class=\"bf\">e{\\\ua78c</span>a}",
             "<span class=\"bf\">i\u014ba</span>",
@@ -3687,6 +3732,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "pred",
@@ -3762,6 +3808,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "",
             "a",
@@ -3845,7 +3892,7 @@
             "Te",
             "a\u014ba",
             "n\u014d",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "Re\u014ba",
             "he",
             "tunu",
@@ -3859,7 +3906,7 @@
             "he",
             "k\u016bm\u0101,",
             "ika",
-            "{\\\ua78c}e",
+            "\ua78ce",
             "t\u0113tahi",
             "atu."
         ],
@@ -3867,7 +3914,7 @@
             "Te",
             "a\u014ba",
             "n\u014d",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "Re\u014ba",
             "he",
             "tunu",
@@ -3881,7 +3928,7 @@
             "<span class=\"bf\">he</span>",
             "k\u016bm\u0101,",
             "ika",
-            "{\\\ua78c}e",
+            "\ua78ce",
             "t\u0113tahi",
             "atu."
         ],
@@ -3911,6 +3958,7 @@
         "wlength": 20
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "neg",
             "ntr",
@@ -3999,6 +4047,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -4104,6 +4153,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "art",
@@ -4143,7 +4193,7 @@
         "src": "Te me{\\\ua78c}e nei \\textbf{he} \\textbf{toto} \\textbf{\u014d{\\\ua78c}oku}.",
         "srcwordsbare": [
             "Te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "nei",
             "he",
             "toto",
@@ -4151,7 +4201,7 @@
         ],
         "srcwordshtml": [
             "Te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "nei",
             "<span class=\"bf\">he</span>",
             "<span class=\"bf\">toto</span>",
@@ -4169,6 +4219,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1pl",
             "excl",
@@ -4212,20 +4263,20 @@
         "polarity": "negative",
         "src": "{\\\ua78c}Ina e tahi me{\\\ua78c}e o m\u0101tou mo kai.",
         "srcwordsbare": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "e",
             "tahi",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "o",
             "m\u0101tou",
             "mo",
             "kai."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "e",
             "tahi",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "o",
             "m\u0101tou",
             "mo",
@@ -4245,6 +4296,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -4303,11 +4355,11 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}Iti{\\\ua78c}iti \\textbf{p\u0113} \\textbf{he} kio{\\\ua78c}e, h\u0101pa{\\\ua78c}o i te hare \\textbf{p\u0113} \\textbf{he} paihe\u014ba haka {\\\ua78c}\u0101ri\u014ba.",
         "srcwordsbare": [
-            "{\\\ua78c}Iti{\\\ua78c}iti",
+            "\ua78cIti\ua78citi",
             "p\u0113",
             "he",
-            "kio{\\\ua78c}e,",
-            "h\u0101pa{\\\ua78c}o",
+            "kio\ua78ce,",
+            "h\u0101pa\ua78co",
             "i",
             "te",
             "hare",
@@ -4315,14 +4367,14 @@
             "he",
             "paihe\u014ba",
             "haka",
-            "{\\\ua78c}\u0101ri\u014ba."
+            "\ua78c\u0101ri\u014ba."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}Iti{\\\ua78c}iti",
+            "\ua78cIti\ua78citi",
             "<span class=\"bf\">p\u0113</span>",
             "<span class=\"bf\">he</span>",
-            "kio{\\\ua78c}e,",
-            "h\u0101pa{\\\ua78c}o",
+            "kio\ua78ce,",
+            "h\u0101pa\ua78co",
             "i",
             "te",
             "hare",
@@ -4330,7 +4382,7 @@
             "<span class=\"bf\">he</span>",
             "paihe\u014ba",
             "haka",
-            "{\\\ua78c}\u0101ri\u014ba."
+            "\ua78c\u0101ri\u014ba."
         ],
         "srcwordstex": [
             "{\\\ua78c}Iti{\\\ua78c}iti",
@@ -4351,6 +4403,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -4409,7 +4462,7 @@
         "src": "Te me{\\\ua78c}e n\u014d e noho era \\textbf{he} \\textbf{rauhuru} n\u014d atu o te taro.",
         "srcwordsbare": [
             "Te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "n\u014d",
             "e",
             "noho",
@@ -4424,7 +4477,7 @@
         ],
         "srcwordshtml": [
             "Te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "n\u014d",
             "e",
             "noho",
@@ -4456,6 +4509,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -4507,25 +4561,25 @@
             "Te",
             "vaka",
             "o",
-            "Paka{\\\ua78c}a",
+            "Paka\ua78ca",
             "p\u0113",
             "he",
             "t\u0113tahi",
             "vaka",
             "era",
-            "{\\\ua78c}\u0101."
+            "\ua78c\u0101."
         ],
         "srcwordshtml": [
             "Te",
             "vaka",
             "o",
-            "Paka{\\\ua78c}a",
+            "Paka\ua78ca",
             "p\u0113",
             "<span class=\"bf\">he</span>",
             "<span class=\"bf\">t\u0113tahi</span>",
             "vaka",
             "era",
-            "{\\\ua78c}\u0101."
+            "\ua78c\u0101."
         ],
         "srcwordstex": [
             "Te",
@@ -4543,6 +4597,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "num"
@@ -4598,6 +4653,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "num"
@@ -4653,6 +4709,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "neg",
@@ -4709,30 +4766,30 @@
         "polarity": "negative",
         "src": "{\\\ua78c}Ina \\textbf{e} \\textbf{tahi} kope i {\\\ua78c}ite ko ai te me{\\\ua78c}e i r\u0113.",
         "srcwordsbare": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "e",
             "tahi",
             "kope",
             "i",
-            "{\\\ua78c}ite",
+            "\ua78cite",
             "ko",
             "ai",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "i",
             "r\u0113."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}Ina",
+            "\ua78cIna",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">tahi</span>",
             "kope",
             "i",
-            "{\\\ua78c}ite",
+            "\ua78cite",
             "ko",
             "ai",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "i",
             "r\u0113."
         ],
@@ -4754,6 +4811,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cntg",
@@ -4809,12 +4867,12 @@
             "tahi",
             "poki",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "ko",
             "Eva",
             "ka",
-            "ho{\\\ua78c}e",
-            "{\\\ua78c}ahuru",
+            "ho\ua78ce",
+            "\ua78cahuru",
             "matahiti."
         ],
         "srcwordshtml": [
@@ -4822,12 +4880,12 @@
             "<span class=\"bf\">tahi</span>",
             "poki",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "ko",
             "Eva",
             "ka",
-            "ho{\\\ua78c}e",
-            "{\\\ua78c}ahuru",
+            "ho\ua78ce",
+            "\ua78cahuru",
             "matahiti."
         ],
         "srcwordstex": [
@@ -4847,6 +4905,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "num",
             "pred"
@@ -4922,8 +4981,8 @@
             "ta\u014bata,",
             "e",
             "tahi",
-            "vi{\\\ua78c}e,",
-            "{\\\ua78c}e",
+            "vi\ua78ce,",
+            "\ua78ce",
             "he",
             "poki",
             "e",
@@ -4940,8 +4999,8 @@
             "ta\u014bata,",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">tahi</span>",
-            "vi{\\\ua78c}e,",
-            "{\\\ua78c}e",
+            "vi\ua78ce,",
+            "\ua78ce",
             "he",
             "poki",
             "e",
@@ -4969,6 +5028,7 @@
         "wlength": 16
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "a",
@@ -5026,27 +5086,27 @@
         "srcwordsbare": [
             "E",
             "ko",
-            "{\\\ua78c}avai",
+            "\ua78cavai",
             "e",
             "au",
             "e",
             "tahi",
             "ta\u014bata",
             "i",
-            "t\u0101{\\\ua78c}aku",
+            "t\u0101\ua78caku",
             "poki."
         ],
         "srcwordshtml": [
             "E",
             "ko",
-            "{\\\ua78c}avai",
+            "\ua78cavai",
             "e",
             "au",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">tahi</span>",
             "ta\u014bata",
             "i",
-            "t\u0101{\\\ua78c}aku",
+            "t\u0101\ua78caku",
             "poki."
         ],
         "srcwordstex": [
@@ -5066,6 +5126,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "num"
@@ -5111,7 +5172,7 @@
             "e",
             "toru",
             "marama",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "Aro",
             "Huri."
         ],
@@ -5121,7 +5182,7 @@
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">toru</span>",
             "marama",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "Aro",
             "Huri."
         ],
@@ -5139,6 +5200,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "num"
@@ -5206,6 +5268,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr",
@@ -5256,7 +5319,7 @@
             "ru\u014ba",
             "i",
             "te",
-            "m\u0101{\\\ua78c}ea",
+            "m\u0101\ua78cea",
             "e",
             "tahi."
         ],
@@ -5267,7 +5330,7 @@
             "ru\u014ba",
             "<span class=\"bf\">i</span>",
             "<span class=\"bf\">te</span>",
-            "m\u0101{\\\ua78c}ea",
+            "m\u0101\ua78cea",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">tahi</span>."
         ],
@@ -5286,6 +5349,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -5336,11 +5400,11 @@
         "src": "E {\\\ua78c}auhau era {\\\ua78c}i te {\\\ua78c}\u0101va{\\\ua78c}e \\textbf{hai} m\u0101moe \\textbf{e} \\textbf{h\u0101}.",
         "srcwordsbare": [
             "E",
-            "{\\\ua78c}auhau",
+            "\ua78cauhau",
             "era",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
-            "{\\\ua78c}\u0101va{\\\ua78c}e",
+            "\ua78c\u0101va\ua78ce",
             "hai",
             "m\u0101moe",
             "e",
@@ -5348,11 +5412,11 @@
         ],
         "srcwordshtml": [
             "E",
-            "{\\\ua78c}auhau",
+            "\ua78cauhau",
             "era",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
-            "{\\\ua78c}\u0101va{\\\ua78c}e",
+            "\ua78c\u0101va\ua78ce",
             "<span class=\"bf\">hai</span>",
             "m\u0101moe",
             "<span class=\"bf\">e</span>",
@@ -5374,6 +5438,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3pl",
             "art",
@@ -5450,16 +5515,16 @@
         "language": "Rapa Nui",
         "src": "Ta{\\\ua78c}ato{\\\ua78c}a mata e ai r\u014d {\\\ua78c}ana te r\u0101ua ta\u014bata p\u016b{\\\ua78c}oko... \\textbf{p\u0113} he suerekao  \\textbf{e} \\textbf{tahi} te haka aura{\\\ua78c}a.",
         "srcwordsbare": [
-            "Ta{\\\ua78c}ato{\\\ua78c}a",
+            "Ta\ua78cato\ua78ca",
             "mata",
             "e",
             "ai",
             "r\u014d",
-            "{\\\ua78c}ana",
+            "\ua78cana",
             "te",
             "r\u0101ua",
             "ta\u014bata",
-            "p\u016b{\\\ua78c}oko...",
+            "p\u016b\ua78coko...",
             "p\u0113",
             "he",
             "suerekao",
@@ -5467,19 +5532,19 @@
             "tahi",
             "te",
             "haka",
-            "aura{\\\ua78c}a."
+            "aura\ua78ca."
         ],
         "srcwordshtml": [
-            "Ta{\\\ua78c}ato{\\\ua78c}a",
+            "Ta\ua78cato\ua78ca",
             "mata",
             "e",
             "ai",
             "r\u014d",
-            "{\\\ua78c}ana",
+            "\ua78cana",
             "te",
             "r\u0101ua",
             "ta\u014bata",
-            "p\u016b{\\\ua78c}oko...",
+            "p\u016b\ua78coko...",
             "<span class=\"bf\">p\u0113</span>",
             "he",
             "suerekao",
@@ -5487,7 +5552,7 @@
             "<span class=\"bf\">tahi</span>",
             "te",
             "haka",
-            "aura{\\\ua78c}a."
+            "aura\ua78ca."
         ],
         "srcwordstex": [
             "Ta{\\\ua78c}ato{\\\ua78c}a",
@@ -5513,6 +5578,7 @@
         "wlength": 18
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dem",
@@ -5638,6 +5704,7 @@
         "wlength": 16
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr",
@@ -5707,7 +5774,7 @@
             "Tema",
             "ko",
             "Pau",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "Vaka."
         ],
         "srcwordshtml": [
@@ -5722,7 +5789,7 @@
             "Tema",
             "ko",
             "Pau",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "Vaka."
         ],
         "srcwordstex": [
@@ -5744,6 +5811,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -5819,6 +5887,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "neg",
             "ntr",
@@ -5873,10 +5942,10 @@
             "pero",
             "{\\\ua78cina}",
             "kai",
-            "rava{\\\ua78c}a",
+            "rava\ua78ca",
             "e",
             "tahi",
-            "me{\\\ua78c}e."
+            "me\ua78ce."
         ],
         "srcwordshtml": [
             "He",
@@ -5885,10 +5954,10 @@
             "pero",
             "<span class=\"bf\">{\\\ua78c</span>ina}",
             "<span class=\"bf\">kai</span>",
-            "rava{\\\ua78c}a",
+            "rava\ua78ca",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">tahi</span>",
-            "me{\\\ua78c}e."
+            "me\ua78ce."
         ],
         "srcwordstex": [
             "He",
@@ -5906,6 +5975,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "neg",
             "num"
@@ -5973,6 +6043,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr",
@@ -6041,6 +6112,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dem",
@@ -6101,13 +6173,13 @@
             "ta\u014bata",
             "h\u014dnui,",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "o",
             "t\u016b",
             "ta\u014bata",
             "era",
             "ko",
-            "{\\\ua78c}Ohovehi."
+            "\ua78cOhovehi."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">E</span>",
@@ -6115,13 +6187,13 @@
             "ta\u014bata",
             "h\u014dnui,",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "o",
             "t\u016b",
             "ta\u014bata",
             "era",
             "ko",
-            "{\\\ua78c}Ohovehi."
+            "\ua78cOhovehi."
         ],
         "srcwordstex": [
             "\\textbf{E}",
@@ -6141,6 +6213,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "num",
@@ -6190,7 +6263,7 @@
             "ko",
             "Marupua",
             "te",
-            "{\\\ua78c}\u012b\u014boa."
+            "\ua78c\u012b\u014boa."
         ],
         "srcwordshtml": [
             "He",
@@ -6200,7 +6273,7 @@
             "ko",
             "Marupua",
             "te",
-            "{\\\ua78c}\u012b\u014boa."
+            "\ua78c\u012b\u014boa."
         ],
         "srcwordstex": [
             "He",
@@ -6216,6 +6289,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "dem",
             "dist",
@@ -6256,7 +6330,7 @@
         "src": "He tu{\\\ua78c}u mai tou \\textbf{\u014b\u0101} \\textbf{uka} era.",
         "srcwordsbare": [
             "He",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "mai",
             "tou",
             "\u014b\u0101",
@@ -6265,7 +6339,7 @@
         ],
         "srcwordshtml": [
             "He",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "mai",
             "tou",
             "<span class=\"bf\">\u014b\u0101</span>",
@@ -6285,6 +6359,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "conneg",
             "dist",
@@ -6322,19 +6397,19 @@
         "polarity": "negative",
         "src": "Ta{\\\ua78c}e he a\u014ba \\textbf{\u014b\u0101} vi{\\\ua78c}e r\u0101.",
         "srcwordsbare": [
-            "Ta{\\\ua78c}e",
+            "Ta\ua78ce",
             "he",
             "a\u014ba",
             "\u014b\u0101",
-            "vi{\\\ua78c}e",
+            "vi\ua78ce",
             "r\u0101."
         ],
         "srcwordshtml": [
-            "Ta{\\\ua78c}e",
+            "Ta\ua78ce",
             "he",
             "a\u014ba",
             "<span class=\"bf\">\u014b\u0101</span>",
-            "vi{\\\ua78c}e",
+            "vi\ua78ce",
             "r\u0101."
         ],
         "srcwordstex": [
@@ -6349,6 +6424,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "cont",
             "emph",
@@ -6398,24 +6474,24 @@
         "language": "Rapa Nui",
         "src": "Vi{\\\ua78c}e nei e ai r\u014d {\\\ua78c}\u0101 \\textbf{e} \\textbf{rua} \\textbf{poki} vahine.",
         "srcwordsbare": [
-            "Vi{\\\ua78c}e",
+            "Vi\ua78ce",
             "nei",
             "e",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "e",
             "rua",
             "poki",
             "vahine."
         ],
         "srcwordshtml": [
-            "Vi{\\\ua78c}e",
+            "Vi\ua78ce",
             "nei",
             "e",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">rua</span>",
             "<span class=\"bf\">poki</span>",
@@ -6437,6 +6513,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dem",
@@ -6487,7 +6564,7 @@
             "He",
             "\u014baro",
             "t\u016b",
-            "pere{\\\ua78c}oa",
+            "pere\ua78coa",
             "era,",
             "he",
             "\u014b\u0101\u014baro",
@@ -6498,7 +6575,7 @@
             "He",
             "\u014baro",
             "t\u016b",
-            "pere{\\\ua78c}oa",
+            "pere\ua78coa",
             "era,",
             "he",
             "<span class=\"bf\">\u014b\u0101\u014baro</span>",
@@ -6520,6 +6597,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3pl",
             "art",
@@ -6626,6 +6704,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dem",
@@ -6687,7 +6766,7 @@
         "src": "He e{\\\ua78c}a mai tou \\textbf{\u014b\u0101\u014bata} \\textbf{e} \\textbf{ono} mai roto mai te hare ki haho.",
         "srcwordsbare": [
             "He",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "mai",
             "tou",
             "\u014b\u0101\u014bata",
@@ -6703,7 +6782,7 @@
         ],
         "srcwordshtml": [
             "He",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "mai",
             "tou",
             "<span class=\"bf\">\u014b\u0101\u014bata</span>",
@@ -6737,6 +6816,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "cont",
             "dem",
@@ -6778,8 +6858,8 @@
         "src": "Ko \\textbf{{\\\ua78c}a{\\\ua78c}ara} {\\\ua78c}ana t\u016b \u014b\u0101 v\u0101rua era.",
         "srcwordsbare": [
             "Ko",
-            "{\\\ua78ca{\\\ua78c}ara}",
-            "{\\\ua78c}ana",
+            "{\\\ua78ca\ua78cara}",
+            "\ua78cana",
             "t\u016b",
             "\u014b\u0101",
             "v\u0101rua",
@@ -6787,8 +6867,8 @@
         ],
         "srcwordshtml": [
             "Ko",
-            "<span class=\"bf\">{\\\ua78c</span>a{\\\ua78c}ara}",
-            "{\\\ua78c}ana",
+            "<span class=\"bf\">{\\\ua78c</span>a\ua78cara}",
+            "\ua78cana",
             "t\u016b",
             "\u014b\u0101",
             "v\u0101rua",
@@ -6807,6 +6887,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cont",
@@ -6881,18 +6962,18 @@
             "Te",
             "\u014b\u0101",
             "vaka",
-            "ra{\\\ua78c}e",
-            "tu{\\\ua78c}u",
+            "ra\ua78ce",
+            "tu\ua78cu",
             "mai",
             "era",
             "e",
             "ueue",
             "n\u014d",
-            "{\\\ua78c}ana",
-            "{\\\ua78c}i",
+            "\ua78cana",
+            "\ua78ci",
             "rote",
             "vai",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "reherehe."
         ],
@@ -6900,18 +6981,18 @@
             "Te",
             "<span class=\"bf\">\u014b\u0101</span>",
             "<span class=\"bf\">vaka</span>",
-            "ra{\\\ua78c}e",
-            "tu{\\\ua78c}u",
+            "ra\ua78ce",
+            "tu\ua78cu",
             "mai",
             "era",
             "e",
             "ueue",
             "n\u014d",
-            "{\\\ua78c}ana",
-            "{\\\ua78c}i",
+            "\ua78cana",
+            "\ua78ci",
             "rote",
             "vai",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "reherehe."
         ],
@@ -6938,6 +7019,7 @@
         "wlength": 17
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cntg",
@@ -6997,11 +7079,11 @@
         "src": "E tai{\\\ua78c}o {\\\ua78c}i ra{\\\ua78c}e {\\\ua78c}e {\\\ua78c}ai ka p\u0101hono iho te \\textbf{\u014b\u0101} \\textbf{{\\\ua78c}ui} ena.",
         "srcwordsbare": [
             "E",
-            "tai{\\\ua78c}o",
-            "{\\\ua78c}i",
-            "ra{\\\ua78c}e",
-            "{\\\ua78c}e",
-            "{\\\ua78c}ai",
+            "tai\ua78co",
+            "\ua78ci",
+            "ra\ua78ce",
+            "\ua78ce",
+            "\ua78cai",
             "ka",
             "p\u0101hono",
             "iho",
@@ -7012,11 +7094,11 @@
         ],
         "srcwordshtml": [
             "E",
-            "tai{\\\ua78c}o",
-            "{\\\ua78c}i",
-            "ra{\\\ua78c}e",
-            "{\\\ua78c}e",
-            "{\\\ua78c}ai",
+            "tai\ua78co",
+            "\ua78ci",
+            "ra\ua78ce",
+            "\ua78ce",
+            "\ua78cai",
             "ka",
             "p\u0101hono",
             "iho",
@@ -7044,6 +7126,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -7078,14 +7161,14 @@
         "language": "Rapa Nui",
         "src": "t\u0101{\\\ua78c}ana \u014b\u0101 poki \\textbf{e} \\textbf{rua}",
         "srcwordsbare": [
-            "t\u0101{\\\ua78c}ana",
+            "t\u0101\ua78cana",
             "\u014b\u0101",
             "poki",
             "e",
             "rua"
         ],
         "srcwordshtml": [
-            "t\u0101{\\\ua78c}ana",
+            "t\u0101\ua78cana",
             "\u014b\u0101",
             "poki",
             "<span class=\"bf\">e</span>",
@@ -7102,6 +7185,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3pl",
             "ntr",
@@ -7183,6 +7267,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "caus",
@@ -7297,6 +7382,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "pl",
@@ -7360,7 +7446,7 @@
             "te",
             "\u014b\u0101",
             "me{\\\ua78ce}",
-            "ha{\\\ua78c}ere",
+            "ha\ua78cere",
             "taha\u014ba",
             "n\u014d",
             "a",
@@ -7375,7 +7461,7 @@
             "te",
             "<span class=\"bf\">\u014b\u0101</span>",
             "<span class=\"bf\">me{\\\ua78c</span>e}",
-            "ha{\\\ua78c}ere",
+            "ha\ua78cere",
             "taha\u014ba",
             "n\u014d",
             "a",
@@ -7401,6 +7487,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2pl",
             "cq",
@@ -7464,6 +7551,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "imp",
             "pl"
@@ -7531,6 +7619,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr",
@@ -7608,7 +7697,7 @@
             "pihi",
             "o",
             "te",
-            "ta{\\\ua78c}u",
+            "ta\ua78cu",
             "o",
             "\u014b\u0101",
             "poki",
@@ -7616,7 +7705,7 @@
             "Miru,",
             "he",
             "ora",
-            "haka{\\\ua78c}ou",
+            "haka\ua78cou",
             "\u014b\u0101",
             "poki",
             "o",
@@ -7628,7 +7717,7 @@
             "pihi",
             "o",
             "te",
-            "ta{\\\ua78c}u",
+            "ta\ua78cu",
             "o",
             "<span class=\"bf\">\u014b\u0101</span>",
             "<span class=\"bf\">poki</span>",
@@ -7636,7 +7725,7 @@
             "Miru,",
             "he",
             "ora",
-            "haka{\\\ua78c}ou",
+            "haka\ua78cou",
             "<span class=\"bf\">\u014b\u0101</span>",
             "<span class=\"bf\">poki</span>",
             "o",
@@ -7666,6 +7755,7 @@
         "wlength": 18
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "ins",
@@ -7725,7 +7815,7 @@
             "\u014b\u0101",
             "hare",
             "he",
-            "no{\\\ua78c}ino{\\\ua78c}i",
+            "no\ua78cino\ua78ci",
             "hai",
             "kona",
             "mahute."
@@ -7738,7 +7828,7 @@
             "<span class=\"bf\">\u014b\u0101</span>",
             "<span class=\"bf\">hare</span>",
             "he",
-            "no{\\\ua78c}ino{\\\ua78c}i",
+            "no\ua78cino\ua78ci",
             "hai",
             "kona",
             "mahute."
@@ -7760,6 +7850,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "num"
@@ -7851,6 +7942,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -7902,7 +7994,7 @@
             "i",
             "noho",
             "era",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "Rapa",
             "Nui"
         ],
@@ -7913,7 +8005,7 @@
             "i",
             "noho",
             "era",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "Rapa",
             "Nui"
         ],
@@ -7932,6 +8024,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "pl"
@@ -7999,6 +8092,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1du",
             "1sg",
@@ -8027,7 +8121,7 @@
             "of",
             "poss.1sg.o",
             "people",
-            "parent\\nobreakdash-in\\nobreakdash-law"
+            "parent-in-law"
         ],
         "imtwordshtml": [
             "from",
@@ -8043,7 +8137,7 @@
             "of",
             "<span class=\"sc\">poss.1sg.o</span>",
             "people",
-            "parent\\nobreakdash-in\\nobreakdash-law"
+            "parent-in-law"
         ],
         "imtwordstex": [
             "from",
@@ -8075,7 +8169,7 @@
             "te",
             "hare",
             "o",
-            "t\u014d{\\\ua78c}oku",
+            "t\u014d\ua78coku",
             "nu{\\\ua78cu}",
             "hu\u014bavai."
         ],
@@ -8091,7 +8185,7 @@
             "te",
             "hare",
             "o",
-            "t\u014d{\\\ua78c}oku",
+            "t\u014d\ua78coku",
             "<span class=\"bf\">nu{\\\ua78c</span>u}",
             "<span class=\"bf\">hu\u014bavai</span>."
         ],
@@ -8115,6 +8209,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -8165,26 +8260,26 @@
         "language": "Rapa Nui",
         "src": "T\u0101{\\\ua78c}ana me{\\\ua78c}e ha\u014ba... he reka ananake ko t\u014d{\\\ua78c}ona \\textbf{nu{\\\ua78c}u} \\textbf{repahoa}.",
         "srcwordsbare": [
-            "T\u0101{\\\ua78c}ana",
-            "me{\\\ua78c}e",
+            "T\u0101\ua78cana",
+            "me\ua78ce",
             "ha\u014ba...",
             "he",
             "reka",
             "ananake",
             "ko",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "nu{\\\ua78cu}",
             "repahoa."
         ],
         "srcwordshtml": [
-            "T\u0101{\\\ua78c}ana",
-            "me{\\\ua78c}e",
+            "T\u0101\ua78cana",
+            "me\ua78ce",
             "ha\u014ba...",
             "he",
             "reka",
             "ananake",
             "ko",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "<span class=\"bf\">nu{\\\ua78c</span>u}",
             "<span class=\"bf\">repahoa</span>."
         ],
@@ -8204,6 +8299,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "num",
@@ -8272,35 +8368,35 @@
             "E",
             "tahi",
             "i",
-            "va{\\\ua78c}ai",
+            "va\ua78cai",
             "ki",
             "a",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "m\u0101m\u0101tia.",
             "T\u0113tahi",
             "atu",
             "i",
-            "va{\\\ua78c}ai",
+            "va\ua78cai",
             "ki",
             "t\u0113tahi",
-            "nu{\\\ua78c}u."
+            "nu\ua78cu."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">E</span>",
             "<span class=\"bf\">tahi</span>",
             "i",
-            "va{\\\ua78c}ai",
+            "va\ua78cai",
             "ki",
             "a",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "m\u0101m\u0101tia.",
             "<span class=\"bf\">T\u0113tahi</span>",
             "<span class=\"bf\">atu</span>",
             "i",
-            "va{\\\ua78c}ai",
+            "va\ua78cai",
             "ki",
             "t\u0113tahi",
-            "nu{\\\ua78c}u."
+            "nu\ua78cu."
         ],
         "srcwordstex": [
             "\\textbf{E}",
@@ -8323,6 +8419,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -8374,7 +8471,7 @@
         "language": "Rapa Nui",
         "src": "\\textbf{Ta{\\\ua78c}ato{\\\ua78c}a} e tahuti era, e tari mai era i te kai.",
         "srcwordsbare": [
-            "Ta{\\\ua78cato{\\\ua78c}a}",
+            "Ta{\\\ua78cato\ua78ca}",
             "e",
             "tahuti",
             "era,",
@@ -8387,7 +8484,7 @@
             "kai."
         ],
         "srcwordshtml": [
-            "<span class=\"bf\">Ta{\\\ua78c</span>ato{\\\ua78c}a}",
+            "<span class=\"bf\">Ta{\\\ua78c</span>ato\ua78ca}",
             "e",
             "tahuti",
             "era,",
@@ -8416,6 +8513,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -8481,10 +8579,10 @@
             "ika,",
             "o",
             "te",
-            "{\\\ua78c}ura,",
+            "\ua78cura,",
             "o",
             "te",
-            "k\u014d{\\\ua78c}iro."
+            "k\u014d\ua78ciro."
         ],
         "srcwordshtml": [
             "Kai",
@@ -8495,10 +8593,10 @@
             "<span class=\"bf\">ika</span>,",
             "o",
             "te",
-            "{\\\ua78c}ura,",
+            "\ua78cura,",
             "o",
             "te",
-            "k\u014d{\\\ua78c}iro."
+            "k\u014d\ua78ciro."
         ],
         "srcwordstex": [
             "Kai",
@@ -8518,6 +8616,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -8583,7 +8682,7 @@
         "src": "Ka rova{\\\ua78c}a e Hete i te m\u0101mari ka pu\u0101 tako{\\\ua78c}a a Kikio ki \\textbf{t\u0101{\\\ua78c}ana}.",
         "srcwordsbare": [
             "Ka",
-            "rova{\\\ua78c}a",
+            "rova\ua78ca",
             "e",
             "Hete",
             "i",
@@ -8591,7 +8690,7 @@
             "m\u0101mari",
             "ka",
             "pu\u0101",
-            "tako{\\\ua78c}a",
+            "tako\ua78ca",
             "a",
             "Kikio",
             "ki",
@@ -8599,7 +8698,7 @@
         ],
         "srcwordshtml": [
             "Ka",
-            "rova{\\\ua78c}a",
+            "rova\ua78ca",
             "e",
             "Hete",
             "i",
@@ -8607,7 +8706,7 @@
             "m\u0101mari",
             "ka",
             "pu\u0101",
-            "tako{\\\ua78c}a",
+            "tako\ua78ca",
             "a",
             "Kikio",
             "ki",
@@ -8633,6 +8732,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -8670,19 +8770,19 @@
         "src": "He va{\\\ua78c}ai \\textbf{t\u0101{\\\ua78c}ana}, \\textbf{t\u0101{\\\ua78c}ana}, he tuha{\\\ua78c}a.",
         "srcwordsbare": [
             "He",
-            "va{\\\ua78c}ai",
+            "va\ua78cai",
             "t\u0101{\\\ua78cana},",
             "t\u0101{\\\ua78cana},",
             "he",
-            "tuha{\\\ua78c}a."
+            "tuha\ua78ca."
         ],
         "srcwordshtml": [
             "He",
-            "va{\\\ua78c}ai",
+            "va\ua78cai",
             "<span class=\"bf\">t\u0101{\\\ua78c</span>ana},",
             "<span class=\"bf\">t\u0101{\\\ua78c</span>ana},",
             "he",
-            "tuha{\\\ua78c}a."
+            "tuha\ua78ca."
         ],
         "srcwordstex": [
             "He",
@@ -8696,6 +8796,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -8762,9 +8863,9 @@
             "Ko",
             "Koka",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "o",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hoi...",
             "ko",
             "Parasa",
@@ -8772,15 +8873,15 @@
             "te",
             "r\u016b{\\\ua78cau}",
             "era",
-            "{\\\ua78c}\u0101{\\\ua78c}ana."
+            "\ua78c\u0101\ua78cana."
         ],
         "srcwordshtml": [
             "Ko",
             "Koka",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "o",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hoi...",
             "ko",
             "Parasa",
@@ -8788,7 +8889,7 @@
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">r\u016b{\\\ua78c</span>au}",
             "era",
-            "{\\\ua78c}\u0101{\\\ua78c}ana."
+            "\ua78c\u0101\ua78cana."
         ],
         "srcwordstex": [
             "Ko",
@@ -8810,6 +8911,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "prom"
@@ -8859,7 +8961,7 @@
             "\u00bfKo",
             "ai",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "o",
             "te",
             "ta\u014bata?",
@@ -8871,7 +8973,7 @@
             "\u00bfKo",
             "ai",
             "te",
-            "{\\\ua78c}\u012b\u014boa",
+            "\ua78c\u012b\u014boa",
             "o",
             "te",
             "ta\u014bata?",
@@ -8895,6 +8997,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr",
@@ -8956,14 +9059,14 @@
             "te",
             "poki",
             "(kope,",
-            "me{\\\ua78c}e)",
+            "me\ua78ce)",
             "nuinui",
             "ki",
             "te",
             "poki",
             "(kope,",
-            "me{\\\ua78c}e)",
-            "{\\\ua78c}iti{\\\ua78c}iti..."
+            "me\ua78ce)",
+            "\ua78citi\ua78citi..."
         ],
         "srcwordshtml": [
             "He",
@@ -8971,14 +9074,14 @@
             "te",
             "poki",
             "(kope,",
-            "me{\\\ua78c}e)",
+            "me\ua78ce)",
             "nuinui",
             "ki",
             "te",
             "poki",
             "(kope,",
-            "me{\\\ua78c}e)",
-            "{\\\ua78c}iti{\\\ua78c}iti..."
+            "me\ua78ce)",
+            "\ua78citi\ua78citi..."
         ],
         "srcwordstex": [
             "He",
@@ -8999,6 +9102,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -9099,6 +9203,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1du",
             "art",
@@ -9170,7 +9275,7 @@
             "o",
             "Tahiti",
             "e",
-            "{\\\ua78c}\u0101mui",
+            "\ua78c\u0101mui",
             "atu",
             "t\u0101ua",
             "e",
@@ -9187,7 +9292,7 @@
             "o",
             "Tahiti",
             "e",
-            "{\\\ua78c}\u0101mui",
+            "\ua78c\u0101mui",
             "atu",
             "t\u0101ua",
             "e",
@@ -9219,6 +9324,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "caus",
@@ -9230,10 +9336,10 @@
         "imt": "\\textsc{art} {\\db}head \\textsc{caus} run {\\db}\\textsc{conneg} correct \\textsc{dist} of \\textsc{art} house judgment",
         "imtwordsbare": [
             "ART",
-            "{\\db}head",
+            " head",
             "CAUS",
             "run",
-            "{\\db}CONNEG",
+            " CONNEG",
             "correct",
             "DIST",
             "of",
@@ -9243,10 +9349,10 @@
         ],
         "imtwordshtml": [
             "<span class=\"sc\">art</span>",
-            "{\\db}head",
+            " head",
             "<span class=\"sc\">caus</span>",
             "run",
-            "{\\db}<span class=\"sc\">conneg</span>",
+            " <span class=\"sc\">conneg</span>",
             "correct",
             "<span class=\"sc\">dist</span>",
             "of",
@@ -9271,11 +9377,11 @@
         "src": "te {\\ob}\\textbf{p\u016b{\\\ua78c}oko} \\textbf{haka} \\textbf{tere}\\,{\\cb} {\\ob}\\textbf{ta{\\\ua78c}e} \\textbf{tano}\\,{\\cb} era o te hare ture",
         "srcwordsbare": [
             "te",
-            "{\\ob}p\u016b{\\\ua78coko}",
+            "[p\u016b{\\\ua78coko}",
             "haka",
-            "tere\\,{\\cb}",
-            "{\\ob}ta{\\\ua78ce}",
-            "tano\\,{\\cb}",
+            "tere\\,]",
+            "[ta{\\\ua78ce}",
+            "tano\\,]",
             "era",
             "o",
             "te",
@@ -9284,11 +9390,11 @@
         ],
         "srcwordshtml": [
             "te",
-            "{\\ob}<span class=\"bf\">p\u016b{\\\ua78c</span>oko}",
+            "[<span class=\"bf\">p\u016b{\\\ua78c</span>oko}",
             "<span class=\"bf\">haka</span>",
-            "<span class=\"bf\">tere</span>\\,{\\cb}",
-            "{\\ob}<span class=\"bf\">ta{\\\ua78c</span>e}",
-            "<span class=\"bf\">tano</span>\\,{\\cb}",
+            "<span class=\"bf\">tere</span>\\,]",
+            "[<span class=\"bf\">ta{\\\ua78c</span>e}",
+            "<span class=\"bf\">tano</span>\\,]",
             "era",
             "o",
             "te",
@@ -9312,6 +9418,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -9365,26 +9472,26 @@
             "Poki",
             "{\\\ua78c\u0101p\u012b}",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "era,",
             "poki",
             "rapa",
             "nui",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "ena."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">Poki</span>",
             "<span class=\"bf\">{\\\ua78c</span>\u0101p\u012b}",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "era,",
             "<span class=\"bf\">poki</span>",
             "<span class=\"bf\">rapa</span>",
             "<span class=\"bf\">nui</span>",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "ena."
         ],
         "srcwordstex": [
@@ -9404,6 +9511,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2sg",
             "a",
@@ -9448,9 +9556,9 @@
         "src": "Ka ma{\\\ua78c}u mai ta{\\\ua78c}a pokopoko teatea \\textbf{tuki} \\textbf{t\u014duam\u0101mari}.",
         "srcwordsbare": [
             "Ka",
-            "ma{\\\ua78c}u",
+            "ma\ua78cu",
             "mai",
-            "ta{\\\ua78c}a",
+            "ta\ua78ca",
             "pokopoko",
             "teatea",
             "tuki",
@@ -9458,9 +9566,9 @@
         ],
         "srcwordshtml": [
             "Ka",
-            "ma{\\\ua78c}u",
+            "ma\ua78cu",
             "mai",
-            "ta{\\\ua78c}a",
+            "ta\ua78ca",
             "pokopoko",
             "teatea",
             "<span class=\"bf\">tuki</span>",
@@ -9480,6 +9588,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ntr"
@@ -9534,7 +9643,7 @@
             "te",
             "kai",
             "h\u0101haki",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "tai."
         ],
         "srcwordshtml": [
@@ -9546,7 +9655,7 @@
             "te",
             "kai",
             "h\u0101haki",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "tai."
         ],
         "srcwordstex": [
@@ -9565,6 +9674,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dem",
@@ -9677,6 +9787,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "conneg",
             "dist",
@@ -9714,19 +9825,19 @@
         "polarity": "negative",
         "src": "Ta{\\\ua78c}e he a\u014ba \\textbf{\u014b\u0101} vi{\\\ua78c}e r\u0101.",
         "srcwordsbare": [
-            "Ta{\\\ua78c}e",
+            "Ta\ua78ce",
             "he",
             "a\u014ba",
             "\u014b\u0101",
-            "vi{\\\ua78c}e",
+            "vi\ua78ce",
             "r\u0101."
         ],
         "srcwordshtml": [
-            "Ta{\\\ua78c}e",
+            "Ta\ua78ce",
             "he",
             "a\u014ba",
             "<span class=\"bf\">\u014b\u0101</span>",
-            "vi{\\\ua78c}e",
+            "vi\ua78ce",
             "r\u0101."
         ],
         "srcwordstex": [
@@ -9741,6 +9852,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -9762,7 +9874,7 @@
             "ART",
             "place",
             "enclosure",
-            "{\\db}to_plant",
+            " to_plant",
             "food",
             "PROX",
             "poss.3sg.a"
@@ -9777,7 +9889,7 @@
             "<span class=\"sc\">art</span>",
             "place",
             "enclosure",
-            "{\\db}to_plant",
+            " to_plant",
             "food",
             "<span class=\"sc\">prox</span>",
             "<span class=\"sc\">poss.3sg.a</span>"
@@ -9801,34 +9913,34 @@
         "polarity": "negative",
         "src": "{\\\ua78c}i te mahana ta{\\\ua78c}e noho {\\\ua78c}i te \\textbf{kona} \\textbf{{\\\ua78c}\u0101ua} {\\ob}\\textbf{{\\\ua78c}oka} \\textbf{kai}\\,{\\cb} nei {\\\ua78c}\u0101{\\\ua78c}ana",
         "srcwordsbare": [
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "mahana",
-            "ta{\\\ua78c}e",
+            "ta\ua78ce",
             "noho",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "kona",
             "{\\\ua78c\u0101ua}",
-            "{\\ob}{\\\ua78coka}",
-            "kai\\,{\\cb}",
+            "[{\\\ua78coka}",
+            "kai\\,]",
             "nei",
-            "{\\\ua78c}\u0101{\\\ua78c}ana"
+            "\ua78c\u0101\ua78cana"
         ],
         "srcwordshtml": [
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "mahana",
-            "ta{\\\ua78c}e",
+            "ta\ua78ce",
             "noho",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "<span class=\"bf\">kona</span>",
             "<span class=\"bf\">{\\\ua78c</span>\u0101ua}",
-            "{\\ob}<span class=\"bf\">{\\\ua78c</span>oka}",
-            "<span class=\"bf\">kai</span>\\,{\\cb}",
+            "[<span class=\"bf\">{\\\ua78c</span>oka}",
+            "<span class=\"bf\">kai</span>\\,]",
             "nei",
-            "{\\\ua78c}\u0101{\\\ua78c}ana"
+            "\ua78c\u0101\ua78cana"
         ],
         "srcwordstex": [
             "{\\\ua78c}i",
@@ -9849,6 +9961,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -9867,7 +9980,7 @@
             "piece:RED",
             "wire:RED",
             "spine:RED",
-            "{\\db}pull",
+            " pull",
             "enclosure",
             "MED",
             "IPFV",
@@ -9884,7 +9997,7 @@
             "piece:<span class=\"sc\">red</span>",
             "wire:<span class=\"sc\">red</span>",
             "spine:<span class=\"sc\">red</span>",
-            "{\\db}pull",
+            " pull",
             "enclosure",
             "<span class=\"sc\">med</span>",
             "<span class=\"sc\">ipfv</span>",
@@ -9920,14 +10033,14 @@
             "potupotu",
             "niuniu",
             "taratara",
-            "{\\ob}haro",
-            "{\\\ua78c\u0101ua}\\,{\\cb}",
+            "[haro",
+            "{\\\ua78c\u0101ua}\\,]",
             "ena",
             "e",
             "a\u014ba",
             "era",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "vivi",
             "rikiriki."
         ],
@@ -9937,14 +10050,14 @@
             "<span class=\"bf\">potupotu</span>",
             "<span class=\"bf\">niuniu</span>",
             "<span class=\"bf\">taratara</span>",
-            "{\\ob}<span class=\"bf\">haro</span>",
-            "<span class=\"bf\">{\\\ua78c</span>\u0101ua}\\,{\\cb}",
+            "[<span class=\"bf\">haro</span>",
+            "<span class=\"bf\">{\\\ua78c</span>\u0101ua}\\,]",
             "ena",
             "e",
             "a\u014ba",
             "era",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "vivi",
             "rikiriki."
         ],
@@ -9969,6 +10082,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "art",
@@ -10035,8 +10149,8 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}I t\u014d{\\\ua78c}ona mahana he ai mai te a\u014ba he \\textbf{{\\\ua78c}\u0101ua} \\textbf{titi},  {\\\ua78c}o he \\textbf{rau} \\textbf{kato}.",
         "srcwordsbare": [
-            "{\\\ua78c}I",
-            "t\u014d{\\\ua78c}ona",
+            "\ua78cI",
+            "t\u014d\ua78cona",
             "mahana",
             "he",
             "ai",
@@ -10046,14 +10160,14 @@
             "he",
             "{\\\ua78c\u0101ua}",
             "titi,",
-            "{\\\ua78c}o",
+            "\ua78co",
             "he",
             "rau",
             "kato."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}I",
-            "t\u014d{\\\ua78c}ona",
+            "\ua78cI",
+            "t\u014d\ua78cona",
             "mahana",
             "he",
             "ai",
@@ -10063,7 +10177,7 @@
             "he",
             "<span class=\"bf\">{\\\ua78c</span>\u0101ua}",
             "<span class=\"bf\">titi</span>,",
-            "{\\\ua78c}o",
+            "\ua78co",
             "he",
             "<span class=\"bf\">rau</span>",
             "<span class=\"bf\">kato</span>."
@@ -10089,6 +10203,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "pred"
@@ -10174,6 +10289,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "acc",
@@ -10247,12 +10363,12 @@
             "paepae",
             "e",
             "tahi",
-            "{\\\ua78c}i",
-            "tu{\\\ua78c}a",
+            "\ua78ci",
+            "tu\ua78ca",
             "o",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hare",
-            "{\\\ua78c}\u0101p\u012b",
+            "\ua78c\u0101p\u012b",
             "a\u014ba",
             "iho."
         ],
@@ -10264,12 +10380,12 @@
             "paepae",
             "e",
             "tahi",
-            "{\\\ua78c}i",
-            "tu{\\\ua78c}a",
+            "\ua78ci",
+            "tu\ua78ca",
             "o",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hare",
-            "{\\\ua78c}\u0101p\u012b",
+            "\ua78c\u0101p\u012b",
             "<span class=\"bf\">a\u014ba</span>",
             "<span class=\"bf\">iho</span>."
         ],
@@ -10294,6 +10410,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "acc",
@@ -10359,7 +10476,7 @@
         "src": "He {\\\ua78c}amo tahi mai ia i t\u016b \u014b\u0101 kai \\textbf{haka} \\textbf{rito} \\textbf{era} \\textbf{e} \\textbf{ia}.",
         "srcwordsbare": [
             "He",
-            "{\\\ua78c}amo",
+            "\ua78camo",
             "tahi",
             "mai",
             "ia",
@@ -10375,7 +10492,7 @@
         ],
         "srcwordshtml": [
             "He",
-            "{\\\ua78c}amo",
+            "\ua78camo",
             "tahi",
             "mai",
             "ia",
@@ -10409,6 +10526,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "dist",
             "ntr"
@@ -10454,7 +10572,7 @@
         "src": "He to{\\\ua78c}o mai era he \\textbf{tunu} \\textbf{pani}, he \\textbf{tunuahi}.",
         "srcwordsbare": [
             "He",
-            "to{\\\ua78c}o",
+            "to\ua78co",
             "mai",
             "era",
             "he",
@@ -10465,7 +10583,7 @@
         ],
         "srcwordshtml": [
             "He",
-            "to{\\\ua78c}o",
+            "to\ua78co",
             "mai",
             "era",
             "he",
@@ -10489,6 +10607,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -10590,6 +10709,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "conneg",
@@ -10647,13 +10767,13 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}E nu{\\\ua78c}u ta{\\\ua78c}e rahi {\\\ua78c}i te ra{\\\ua78c}\u0101 nei e \\textbf{{\\\ua78c}aroha} \\textbf{rapa} \\textbf{nui} nei.",
         "srcwordsbare": [
-            "{\\\ua78c}E",
-            "nu{\\\ua78c}u",
-            "ta{\\\ua78c}e",
+            "\ua78cE",
+            "nu\ua78cu",
+            "ta\ua78ce",
             "rahi",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
-            "ra{\\\ua78c}\u0101",
+            "ra\ua78c\u0101",
             "nei",
             "e",
             "{\\\ua78caroha}",
@@ -10662,13 +10782,13 @@
             "nei."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}E",
-            "nu{\\\ua78c}u",
-            "ta{\\\ua78c}e",
+            "\ua78cE",
+            "nu\ua78cu",
+            "ta\ua78ce",
             "rahi",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
-            "ra{\\\ua78c}\u0101",
+            "ra\ua78c\u0101",
             "nei",
             "e",
             "<span class=\"bf\">{\\\ua78c</span>aroha}",
@@ -10695,6 +10815,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -10764,6 +10885,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -10833,6 +10955,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -10876,21 +10999,21 @@
         "src": "He u{\\\ua78c}i mai i te {\\\ua78c}ohe \\textbf{t\u012btika} \\textbf{rivariva}.",
         "srcwordsbare": [
             "He",
-            "u{\\\ua78c}i",
+            "u\ua78ci",
             "mai",
             "i",
             "te",
-            "{\\\ua78c}ohe",
+            "\ua78cohe",
             "t\u012btika",
             "rivariva."
         ],
         "srcwordshtml": [
             "He",
-            "u{\\\ua78c}i",
+            "u\ua78ci",
             "mai",
             "i",
             "te",
-            "{\\\ua78c}ohe",
+            "\ua78cohe",
             "<span class=\"bf\">t\u012btika</span>",
             "<span class=\"bf\">rivariva</span>."
         ],
@@ -10908,6 +11031,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "pred",
             "red"
@@ -10957,6 +11081,7 @@
         "wlength": 4
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cont",
@@ -11026,10 +11151,10 @@
         "srcwordsbare": [
             "He",
             "oti",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "te",
             "henua",
-            "m\u0101{\\\ua78c}ohi",
+            "m\u0101\ua78cohi",
             "{\\\ua78capa}",
             "h\u0101hine",
             "ki",
@@ -11044,10 +11169,10 @@
         "srcwordshtml": [
             "He",
             "oti",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "te",
             "henua",
-            "m\u0101{\\\ua78c}ohi",
+            "m\u0101\ua78cohi",
             "<span class=\"bf\">{\\\ua78c</span>apa}",
             "<span class=\"bf\">h\u0101hine</span>",
             "ki",
@@ -11081,6 +11206,7 @@
         "wlength": 16
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "prox",
@@ -11143,15 +11269,15 @@
         "language": "Rapa Nui",
         "src": "Me{\\\ua78c}e \\textbf{rivariva} \\textbf{rahi} te me{\\\ua78c}e nei mo te orara{\\\ua78c}a o te mahi\u014bo o Rapa Nui.",
         "srcwordsbare": [
-            "Me{\\\ua78c}e",
+            "Me\ua78ce",
             "rivariva",
             "rahi",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "nei",
             "mo",
             "te",
-            "orara{\\\ua78c}a",
+            "orara\ua78ca",
             "o",
             "te",
             "mahi\u014bo",
@@ -11160,15 +11286,15 @@
             "Nui."
         ],
         "srcwordshtml": [
-            "Me{\\\ua78c}e",
+            "Me\ua78ce",
             "<span class=\"bf\">rivariva</span>",
             "<span class=\"bf\">rahi</span>",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "nei",
             "mo",
             "te",
-            "orara{\\\ua78c}a",
+            "orara\ua78ca",
             "o",
             "te",
             "mahi\u014bo",
@@ -11197,6 +11323,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "pred"
@@ -11239,22 +11366,22 @@
         "srcwordsbare": [
             "P\u0113",
             "he",
-            "{\\\ua78c}ariki",
+            "\ua78cariki",
             "te",
-            "ha{\\\ua78c}aaura{\\\ua78c}a,",
-            "me{\\\ua78c}e",
+            "ha\ua78caaura\ua78ca,",
+            "me\ua78ce",
             "mo{\\\ua78ca}",
-            "ri{\\\ua78cari{\\\ua78c}a}."
+            "ri{\\\ua78cari\ua78ca}."
         ],
         "srcwordshtml": [
             "P\u0113",
             "he",
-            "{\\\ua78c}ariki",
+            "\ua78cariki",
             "te",
-            "ha{\\\ua78c}aaura{\\\ua78c}a,",
-            "me{\\\ua78c}e",
+            "ha\ua78caaura\ua78ca,",
+            "me\ua78ce",
             "<span class=\"bf\">mo{\\\ua78c</span>a}",
-            "<span class=\"bf\">ri{\\\ua78c</span>ari{\\\ua78c}a}."
+            "<span class=\"bf\">ri{\\\ua78c</span>ari\ua78ca}."
         ],
         "srcwordstex": [
             "P\u0113",
@@ -11270,6 +11397,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ident",
             "pfv",
@@ -11323,12 +11451,12 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}I nei i nonoho i u{\\\ua78c}i ai k\u0101i\u014ba \\textbf{rivariva} \\textbf{mau} \\textbf{{\\\ua78c}\u0101}.",
         "srcwordsbare": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "nei",
             "i",
             "nonoho",
             "i",
-            "u{\\\ua78c}i",
+            "u\ua78ci",
             "ai",
             "k\u0101i\u014ba",
             "rivariva",
@@ -11336,12 +11464,12 @@
             "{\\\ua78c\u0101}."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "nei",
             "i",
             "nonoho",
             "i",
-            "u{\\\ua78c}i",
+            "u\ua78ci",
             "ai",
             "k\u0101i\u014ba",
             "<span class=\"bf\">rivariva</span>",
@@ -11365,6 +11493,7 @@
         "wlength": 11
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -11384,8 +11513,8 @@
             "at",
             "ART",
             "place",
-            "{\\db}near",
-            "{\\db}to",
+            " near",
+            " to",
             "ART",
             "hospital",
             "ancient",
@@ -11401,8 +11530,8 @@
             "at",
             "<span class=\"sc\">art</span>",
             "place",
-            "{\\db}near",
-            "{\\db}to",
+            " near",
+            " to",
             "<span class=\"sc\">art</span>",
             "hospital",
             "ancient",
@@ -11428,38 +11557,38 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}I Ha\u014ba Roa te nonoho ha\u014ba, {\\\ua78c}i te kona {\\ob}\\textbf{h\u0101hine}   {\\ob}\\textbf{ki} \\textbf{te} \\textbf{{\\\ua78c}\u014dp\u012btara} \\textbf{tuai} \\textbf{era}\\,{\\cb}\\,{\\cb}.",
         "srcwordsbare": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "Ha\u014ba",
             "Roa",
             "te",
             "nonoho",
             "ha\u014ba,",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "kona",
-            "{\\ob}h\u0101hine",
-            "{\\ob}ki",
+            "[h\u0101hine",
+            "[ki",
             "te",
             "{\\\ua78c\u014dp\u012btara}",
             "tuai",
-            "era\\,{\\cb}\\,{\\cb}."
+            "era\\,]\\,]."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "Ha\u014ba",
             "Roa",
             "te",
             "nonoho",
             "ha\u014ba,",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "kona",
-            "{\\ob}<span class=\"bf\">h\u0101hine</span>",
-            "{\\ob}<span class=\"bf\">ki</span>",
+            "[<span class=\"bf\">h\u0101hine</span>",
+            "[<span class=\"bf\">ki</span>",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">{\\\ua78c</span>\u014dp\u012btara}",
             "<span class=\"bf\">tuai</span>",
-            "<span class=\"bf\">era</span>\\,{\\cb}\\,{\\cb}."
+            "<span class=\"bf\">era</span>\\,]\\,]."
         ],
         "srcwordstex": [
             "{\\\ua78c}I",
@@ -11482,6 +11611,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "pred"
@@ -11579,6 +11709,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1pl",
             "3sg",
@@ -11641,13 +11772,13 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}E \\textbf{t\u014d{\\\ua78c}ona} \\textbf{{\\\ua78c}\u012b\u014boa} \\textbf{n\u014d} pa{\\\ua78c}i i {\\\ua78c}ite era e t\u0101tou ko Sebasti\u00e1n Englert.",
         "srcwordsbare": [
-            "{\\\ua78c}E",
+            "\ua78cE",
             "t\u014d{\\\ua78cona}",
             "{\\\ua78c\u012b\u014boa}",
             "n\u014d",
-            "pa{\\\ua78c}i",
+            "pa\ua78ci",
             "i",
-            "{\\\ua78c}ite",
+            "\ua78cite",
             "era",
             "e",
             "t\u0101tou",
@@ -11656,13 +11787,13 @@
             "Englert."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}E",
+            "\ua78cE",
             "<span class=\"bf\">t\u014d{\\\ua78c</span>ona}",
             "<span class=\"bf\">{\\\ua78c</span>\u012b\u014boa}",
             "<span class=\"bf\">n\u014d</span>",
-            "pa{\\\ua78c}i",
+            "pa\ua78ci",
             "i",
-            "{\\\ua78c}ite",
+            "\ua78cite",
             "era",
             "e",
             "t\u0101tou",
@@ -11689,6 +11820,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3pl",
             "art",
@@ -11804,6 +11936,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "irr",
@@ -11884,6 +12017,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "art",
@@ -11930,7 +12064,7 @@
             "n\u014d",
             "te",
             "poki",
-            "{\\\ua78c}\u0101p\u012b",
+            "\ua78c\u0101p\u012b",
             "o",
             "roto."
         ],
@@ -11940,7 +12074,7 @@
             "<span class=\"bf\">n\u014d</span>",
             "te",
             "poki",
-            "{\\\ua78c}\u0101p\u012b",
+            "\ua78c\u0101p\u012b",
             "o",
             "roto."
         ],
@@ -11958,6 +12092,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1du",
             "2sg",
@@ -11997,14 +12132,14 @@
             "t\u0101vini",
             "n\u014d",
             "m\u0101ua",
-            "\u014d{\\\ua78c}ou."
+            "\u014d\ua78cou."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">He</span>",
             "<span class=\"bf\">t\u0101vini</span>",
             "<span class=\"bf\">n\u014d</span>",
             "m\u0101ua",
-            "\u014d{\\\ua78c}ou."
+            "\u014d\ua78cou."
         ],
         "srcwordstex": [
             "\\textbf{He}",
@@ -12017,6 +12152,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "2sg",
@@ -12055,14 +12191,14 @@
             "repahoa",
             "n\u014d",
             "au",
-            "\u014d{\\\ua78c}ou."
+            "\u014d\ua78cou."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">He</span>",
             "<span class=\"bf\">repahoa</span>",
             "<span class=\"bf\">n\u014d</span>",
             "au",
-            "\u014d{\\\ua78c}ou."
+            "\u014d\ua78cou."
         ],
         "srcwordstex": [
             "\\textbf{He}",
@@ -12075,6 +12211,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "neg",
@@ -12127,7 +12264,7 @@
             "te",
             "{\\\ua78cino}",
             "n\u014d,",
-            "{\\\ua78c}ina",
+            "\ua78cina",
             "e",
             "tahi",
             "materiare",
@@ -12139,7 +12276,7 @@
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">{\\\ua78c</span>ino}",
             "<span class=\"bf\">n\u014d</span>,",
-            "{\\\ua78c}ina",
+            "\ua78cina",
             "e",
             "tahi",
             "materiare",
@@ -12162,6 +12299,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "a",
@@ -12226,28 +12364,28 @@
             "riva",
             "n\u014d,",
             "e",
-            "ta{\\\ua78c}ero",
+            "ta\ua78cero",
             "era,",
-            "{\\\ua78c}ina",
+            "\ua78cina",
             "he",
-            "ti\u014ba{\\\ua78c}i",
+            "ti\u014ba\ua78ci",
             "i",
-            "t\u0101{\\\ua78c}ana",
-            "hua{\\\ua78c}ai."
+            "t\u0101\ua78cana",
+            "hua\ua78cai."
         ],
         "srcwordshtml": [
             "<span class=\"bf\">Te</span>",
             "<span class=\"bf\">riva</span>",
             "<span class=\"bf\">n\u014d</span>,",
             "e",
-            "ta{\\\ua78c}ero",
+            "ta\ua78cero",
             "era,",
-            "{\\\ua78c}ina",
+            "\ua78cina",
             "he",
-            "ti\u014ba{\\\ua78c}i",
+            "ti\u014ba\ua78ci",
             "i",
-            "t\u0101{\\\ua78c}ana",
-            "hua{\\\ua78c}ai."
+            "t\u0101\ua78cana",
+            "hua\ua78cai."
         ],
         "srcwordstex": [
             "\\textbf{Te}",
@@ -12267,6 +12405,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "art",
@@ -12374,24 +12513,24 @@
             "Te",
             "me{\\\ua78ce}",
             "n\u014d,",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "ru\u014ba",
             "i",
             "t\u016b",
             "vaka",
             "era",
-            "\u014d{\\\ua78c}ona",
+            "\u014d\ua78cona",
             "e",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "e",
             "tahi",
-            "p\u0113{\\\ua78c}ue,",
+            "p\u0113\ua78cue,",
             "e",
             "rua",
             "miro",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "kaokao",
             "o",
@@ -12402,24 +12541,24 @@
             "<span class=\"bf\">Te</span>",
             "<span class=\"bf\">me{\\\ua78c</span>e}",
             "<span class=\"bf\">n\u014d,</span>",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "ru\u014ba",
             "i",
             "t\u016b",
             "vaka",
             "era",
-            "\u014d{\\\ua78c}ona",
+            "\u014d\ua78cona",
             "e",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "e",
             "tahi",
-            "p\u0113{\\\ua78c}ue,",
+            "p\u0113\ua78cue,",
             "e",
             "rua",
             "miro",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "kaokao",
             "o",
@@ -12458,6 +12597,7 @@
         "wlength": 26
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "acc",
@@ -12535,17 +12675,17 @@
         "src": "Ko ri{\\\ua78c}ari{\\\ua78c}a {\\\ua78c}ana {\\\ua78c}i t\u016b m\u0101uiui era \u014d{\\\ua78c}ona e ma{\\\ua78c}u era {\\\ua78c}i roto  \\textbf{i} \\textbf{a} \\textbf{ia} \\textbf{{\\\ua78c}\u0101}.",
         "srcwordsbare": [
             "Ko",
-            "ri{\\\ua78c}ari{\\\ua78c}a",
-            "{\\\ua78c}ana",
-            "{\\\ua78c}i",
+            "ri\ua78cari\ua78ca",
+            "\ua78cana",
+            "\ua78ci",
             "t\u016b",
             "m\u0101uiui",
             "era",
-            "\u014d{\\\ua78c}ona",
+            "\u014d\ua78cona",
             "e",
-            "ma{\\\ua78c}u",
+            "ma\ua78cu",
             "era",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "roto",
             "i",
             "a",
@@ -12554,17 +12694,17 @@
         ],
         "srcwordshtml": [
             "Ko",
-            "ri{\\\ua78c}ari{\\\ua78c}a",
-            "{\\\ua78c}ana",
-            "{\\\ua78c}i",
+            "ri\ua78cari\ua78ca",
+            "\ua78cana",
+            "\ua78ci",
             "t\u016b",
             "m\u0101uiui",
             "era",
-            "\u014d{\\\ua78c}ona",
+            "\u014d\ua78cona",
             "e",
-            "ma{\\\ua78c}u",
+            "ma\ua78cu",
             "era",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "roto",
             "<span class=\"bf\">i</span>",
             "<span class=\"bf\">a</span>",
@@ -12594,6 +12734,7 @@
         "wlength": 17
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "art",
@@ -12662,11 +12803,11 @@
         "srcwordsbare": [
             "He",
             "noho",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "ru\u014ba",
             "i",
             "te",
-            "m\u0101{\\\ua78c}ea",
+            "m\u0101\ua78cea",
             "e",
             "tahi,",
             "he",
@@ -12679,11 +12820,11 @@
         "srcwordshtml": [
             "He",
             "noho",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "ru\u014ba",
             "i",
             "te",
-            "m\u0101{\\\ua78c}ea",
+            "m\u0101\ua78cea",
             "e",
             "tahi,",
             "he",
@@ -12714,6 +12855,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "3sg",
@@ -12800,16 +12942,16 @@
             "atu",
             "ia",
             "e",
-            "t\u014d{\\\ua78c}oku",
+            "t\u014d\ua78coku",
             "koro",
             "era",
             "ki",
             "a",
             "au...",
-            "{\\\ua78c}Ai",
+            "\ua78cAi",
             "ka",
             "k\u012b",
-            "haka{\\\ua78c}ou",
+            "haka\ua78cou",
             "atu",
             "e",
             "ia",
@@ -12821,16 +12963,16 @@
             "atu",
             "ia",
             "e",
-            "t\u014d{\\\ua78c}oku",
+            "t\u014d\ua78coku",
             "koro",
             "era",
             "ki",
             "a",
             "au...",
-            "{\\\ua78c}Ai",
+            "\ua78cAi",
             "ka",
             "k\u012b",
-            "haka{\\\ua78c}ou",
+            "haka\ua78cou",
             "atu",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">ia</span>",
@@ -12861,6 +13003,7 @@
         "wlength": 19
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dem",
@@ -12938,12 +13081,12 @@
             "te",
             "kai,",
             "he",
-            "ha{\\\ua78c}uru",
+            "ha\ua78curu",
             "r\u014d",
-            "{\\\ua78c}ai",
+            "\ua78cai",
             "a",
             "Taparahi",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "t\u016b",
             "kona",
             "era",
@@ -12956,12 +13099,12 @@
             "te",
             "kai,",
             "he",
-            "ha{\\\ua78c}uru",
+            "ha\ua78curu",
             "r\u014d",
-            "{\\\ua78c}ai",
+            "\ua78cai",
             "a",
             "Taparahi",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "t\u016b",
             "kona",
             "era",
@@ -12989,6 +13132,7 @@
         "wlength": 16
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "art",
@@ -13060,13 +13204,13 @@
             "ai",
             "a",
             "ia",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "motu",
             "mau",
             "nei",
             "{\\\ua78c\u0101}",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "matahiti",
             "1922."
@@ -13077,13 +13221,13 @@
             "ai",
             "a",
             "ia",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "motu",
             "mau",
             "nei",
             "<span class=\"bf\">{\\\ua78c</span>\u0101}",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "te",
             "matahiti",
             "1922."
@@ -13109,6 +13253,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2sg",
             "emph",
@@ -13159,8 +13304,8 @@
             "\u00bfE",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
-            "tu{\\\ua78c}u",
+            "\ua78c\u0101",
+            "tu\ua78cu",
             "vaka",
             "\u014d{\\\ua78cou}",
             "mau",
@@ -13170,8 +13315,8 @@
             "\u00bfE",
             "ai",
             "r\u014d",
-            "{\\\ua78c}\u0101",
-            "tu{\\\ua78c}u",
+            "\ua78c\u0101",
+            "tu\ua78cu",
             "vaka",
             "<span class=\"bf\">\u014d{\\\ua78c</span>ou}",
             "<span class=\"bf\">mau</span>",
@@ -13192,6 +13337,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "cq",
@@ -13231,19 +13377,19 @@
         "src": "\u00bfO hua{\\\ua78c}ai h\u0113 te r\u016b{\\\ua78c}au era \\textbf{ai}?",
         "srcwordsbare": [
             "\u00bfO",
-            "hua{\\\ua78c}ai",
+            "hua\ua78cai",
             "h\u0113",
             "te",
-            "r\u016b{\\\ua78c}au",
+            "r\u016b\ua78cau",
             "era",
             "ai?"
         ],
         "srcwordshtml": [
             "\u00bfO",
-            "hua{\\\ua78c}ai",
+            "hua\ua78cai",
             "h\u0113",
             "te",
-            "r\u016b{\\\ua78c}au",
+            "r\u016b\ua78cau",
             "era",
             "<span class=\"bf\">ai</span>?"
         ],
@@ -13260,6 +13406,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ident"
@@ -13300,23 +13447,23 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}Ai {\\\ua78c}\u014d te me{\\\ua78c}e p\u0113 Mariana {\\\ua78c}\u0101 \\textbf{ai}.",
         "srcwordsbare": [
-            "{\\\ua78c}Ai",
-            "{\\\ua78c}\u014d",
+            "\ua78cAi",
+            "\ua78c\u014d",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "p\u0113",
             "Mariana",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "ai."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}Ai",
-            "{\\\ua78c}\u014d",
+            "\ua78cAi",
+            "\ua78c\u014d",
             "te",
-            "me{\\\ua78c}e",
+            "me\ua78ce",
             "p\u0113",
             "Mariana",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "<span class=\"bf\">ai</span>."
         ],
         "srcwordstex": [
@@ -13333,6 +13480,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art"
         ],
@@ -13367,7 +13515,7 @@
         "src": "te nu{\\\ua78c}u \\textbf{ai} o te vaka",
         "srcwordsbare": [
             "te",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "ai",
             "o",
             "te",
@@ -13375,7 +13523,7 @@
         ],
         "srcwordshtml": [
             "te",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "<span class=\"bf\">ai</span>",
             "o",
             "te",
@@ -13393,6 +13541,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1du",
             "3sg",
@@ -13463,14 +13612,14 @@
         "src": "He take{\\\ua78c}a ta{\\\ua78c}ato{\\\ua78c}a mai e t\u0101ua te ta{\\\ua78c}ato{\\\ua78c}a ma{\\\ua78c}u\u014ba \\textbf{{\\\ua78c}ata} \\textbf{rikiriki} era  \\textbf{ki} \\textbf{a} \\textbf{ia}.",
         "srcwordsbare": [
             "He",
-            "take{\\\ua78c}a",
-            "ta{\\\ua78c}ato{\\\ua78c}a",
+            "take\ua78ca",
+            "ta\ua78cato\ua78ca",
             "mai",
             "e",
             "t\u0101ua",
             "te",
-            "ta{\\\ua78c}ato{\\\ua78c}a",
-            "ma{\\\ua78c}u\u014ba",
+            "ta\ua78cato\ua78ca",
+            "ma\ua78cu\u014ba",
             "{\\\ua78cata}",
             "rikiriki",
             "era",
@@ -13480,14 +13629,14 @@
         ],
         "srcwordshtml": [
             "He",
-            "take{\\\ua78c}a",
-            "ta{\\\ua78c}ato{\\\ua78c}a",
+            "take\ua78ca",
+            "ta\ua78cato\ua78ca",
             "mai",
             "e",
             "t\u0101ua",
             "te",
-            "ta{\\\ua78c}ato{\\\ua78c}a",
-            "ma{\\\ua78c}u\u014ba",
+            "ta\ua78cato\ua78ca",
+            "ma\ua78cu\u014ba",
             "<span class=\"bf\">{\\\ua78c</span>ata}",
             "<span class=\"bf\">rikiriki</span>",
             "era",
@@ -13516,6 +13665,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dem",
@@ -13549,7 +13699,7 @@
             "white:RED",
             "NUM",
             "one",
-            "{\\db}IPFV",
+            " IPFV",
             "see",
             "hither",
             "DIST",
@@ -13585,7 +13735,7 @@
             "white:<span class=\"sc\">red</span>",
             "<span class=\"sc\">num</span>",
             "one",
-            "{\\db}<span class=\"sc\">ipfv</span>",
+            " <span class=\"sc\">ipfv</span>",
             "see",
             "hither",
             "<span class=\"sc\">dist</span>",
@@ -13642,13 +13792,13 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}I t\u016b hora era ia i u{\\\ua78c}i atu ai a K\u0101lia ko te \\textbf{me{\\\ua78c}e} \\textbf{teatea} \\textbf{e} \\textbf{tahi} {\\ob}e take{\\\ua78c}a mai era mai ru\u014ba i t\u016b pah\u012b era\\,{\\cb} \\textbf{{\\\ua78c}ata} \\textbf{nuinui} \\textbf{ki} \\textbf{te} \\textbf{ta\u014bata} \\textbf{e} \\textbf{tahi}.",
         "srcwordsbare": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "t\u016b",
             "hora",
             "era",
             "ia",
             "i",
-            "u{\\\ua78c}i",
+            "u\ua78ci",
             "atu",
             "ai",
             "a",
@@ -13659,8 +13809,8 @@
             "teatea",
             "e",
             "tahi",
-            "{\\ob}e",
-            "take{\\\ua78c}a",
+            "[e",
+            "take\ua78ca",
             "mai",
             "era",
             "mai",
@@ -13668,7 +13818,7 @@
             "i",
             "t\u016b",
             "pah\u012b",
-            "era\\,{\\cb}",
+            "era\\,]",
             "{\\\ua78cata}",
             "nuinui",
             "ki",
@@ -13678,13 +13828,13 @@
             "tahi."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "t\u016b",
             "hora",
             "era",
             "ia",
             "i",
-            "u{\\\ua78c}i",
+            "u\ua78ci",
             "atu",
             "ai",
             "a",
@@ -13695,8 +13845,8 @@
             "<span class=\"bf\">teatea</span>",
             "<span class=\"bf\">e</span>",
             "<span class=\"bf\">tahi</span>",
-            "{\\ob}e",
-            "take{\\\ua78c}a",
+            "[e",
+            "take\ua78ca",
             "mai",
             "era",
             "mai",
@@ -13704,7 +13854,7 @@
             "i",
             "t\u016b",
             "pah\u012b",
-            "era\\,{\\cb}",
+            "era\\,]",
             "<span class=\"bf\">{\\\ua78c</span>ata}",
             "<span class=\"bf\">nuinui</span>",
             "<span class=\"bf\">ki</span>",
@@ -13753,6 +13903,7 @@
         "wlength": 34
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "prom"
@@ -13820,6 +13971,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ana",
             "dem",
@@ -13878,7 +14030,7 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}I ira e noho era t\u016b ta\u014bata era, \\textbf{ta\u014bata} keukeu henua {\\\ua78c}oka kai.",
         "srcwordsbare": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "ira",
             "e",
             "noho",
@@ -13889,11 +14041,11 @@
             "ta\u014bata",
             "keukeu",
             "henua",
-            "{\\\ua78c}oka",
+            "\ua78coka",
             "kai."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "ira",
             "e",
             "noho",
@@ -13904,7 +14056,7 @@
             "<span class=\"bf\">ta\u014bata</span>",
             "keukeu",
             "henua",
-            "{\\\ua78c}oka",
+            "\ua78coka",
             "kai."
         ],
         "srcwordstex": [
@@ -13926,6 +14078,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "prom"
@@ -13969,7 +14122,7 @@
             "te",
             "kona",
             "ko",
-            "Pape{\\\ua78c}ete,",
+            "Pape\ua78cete,",
             "kona",
             "rarahi",
             "o",
@@ -13979,7 +14132,7 @@
             "te",
             "kona",
             "ko",
-            "Pape{\\\ua78c}ete,",
+            "Pape\ua78cete,",
             "<span class=\"bf\">kona</span>",
             "<span class=\"bf\">rarahi</span>",
             "o",
@@ -13999,6 +14152,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "ntr",
@@ -14065,13 +14219,13 @@
             "oho",
             "ki",
             "V\u0113rene",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "H\u016brea,",
             "he",
             "kona",
             "poreko",
             "o",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hakaara",
             "ko",
             "T\u0101vita."
@@ -14081,13 +14235,13 @@
             "oho",
             "ki",
             "V\u0113rene",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "H\u016brea,",
             "<span class=\"bf\">he</span>",
             "<span class=\"bf\">kona</span>",
             "poreko",
             "o",
-            "t\u014d{\\\ua78c}ona",
+            "t\u014d\ua78cona",
             "hakaara",
             "ko",
             "T\u0101vita."
@@ -14112,6 +14266,7 @@
         "wlength": 14
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "caus",
             "dist",
@@ -14171,7 +14326,7 @@
             "haka",
             "h\u0101hine",
             "r\u0101",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "ki",
             "a",
             "Feripe,",
@@ -14185,7 +14340,7 @@
             "haka",
             "h\u0101hine",
             "r\u0101",
-            "nu{\\\ua78c}u",
+            "nu\ua78cu",
             "ki",
             "a",
             "Feripe,",
@@ -14212,6 +14367,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ana",
             "art",
@@ -14289,7 +14445,7 @@
             "Rano",
             "Raraku,",
             "kona",
-            "[{\\\ua78c}i",
+            "[\ua78ci",
             "ira",
             "te",
             "kape",
@@ -14307,7 +14463,7 @@
             "Rano",
             "Raraku,",
             "<span class=\"bf\">kona</span>",
-            "[{\\\ua78c}i",
+            "[\ua78ci",
             "ira",
             "te",
             "kape",
@@ -14337,6 +14493,7 @@
         "wlength": 16
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "",
             "a",
@@ -14402,13 +14559,13 @@
             "Rovi,",
             "he",
             "ta\u014bata",
-            "[h\u0101pa{\\\ua78c}o",
+            "[h\u0101pa\ua78co",
             "i",
             "te",
             "poki",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "Hotu",
-            "{\\\ua78c}ariki]."
+            "\ua78cariki]."
         ],
         "srcwordshtml": [
             "He",
@@ -14417,13 +14574,13 @@
             "Rovi,",
             "<span class=\"bf\">he</span>",
             "<span class=\"bf\">ta\u014bata</span>",
-            "[h\u0101pa{\\\ua78c}o",
+            "[h\u0101pa\ua78co",
             "i",
             "te",
             "poki",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "Hotu",
-            "{\\\ua78c}ariki]."
+            "\ua78cariki]."
         ],
         "srcwordstex": [
             "He",
@@ -14444,6 +14601,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "ipfv",
@@ -14513,11 +14671,11 @@
         "src": "He tu{\\\ua78c}u mai te {\\\ua78c}avione ra{\\\ua78c}e \\textbf{ko} \\textbf{te} \\textbf{{\\\ua78c}avione} ena e k\u012b ena he DC 10.",
         "srcwordsbare": [
             "He",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "mai",
             "te",
-            "{\\\ua78c}avione",
-            "ra{\\\ua78c}e",
+            "\ua78cavione",
+            "ra\ua78ce",
             "ko",
             "te",
             "{\\\ua78cavione}",
@@ -14531,11 +14689,11 @@
         ],
         "srcwordshtml": [
             "He",
-            "tu{\\\ua78c}u",
+            "tu\ua78cu",
             "mai",
             "te",
-            "{\\\ua78c}avione",
-            "ra{\\\ua78c}e",
+            "\ua78cavione",
+            "ra\ua78ce",
             "<span class=\"bf\">ko</span>",
             "<span class=\"bf\">te</span>",
             "<span class=\"bf\">{\\\ua78c</span>avione}",
@@ -14569,6 +14727,7 @@
         "wlength": 16
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "caus",
@@ -14640,7 +14799,7 @@
             "haka",
             "mara\u014ba",
             "ena",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "ru\u014ba",
             "i",
             "te",
@@ -14657,7 +14816,7 @@
             "haka",
             "mara\u014ba",
             "ena",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "ru\u014ba",
             "i",
             "te",
@@ -14688,6 +14847,7 @@
         "wlength": 15
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "dist",
@@ -14748,7 +14908,7 @@
             "mai",
             "era",
             "te",
-            "{\\\ua78c}ariki",
+            "\ua78cariki",
             "ko",
             "Hotu",
             "Matu{\\\ua78ca},",
@@ -14762,7 +14922,7 @@
             "mai",
             "era",
             "te",
-            "{\\\ua78c}ariki",
+            "\ua78cariki",
             "<span class=\"bf\">ko</span>",
             "<span class=\"bf\">Hotu</span>",
             "<span class=\"bf\">Matu{\\\ua78c</span>a},",
@@ -14788,6 +14948,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "prom"
@@ -14861,6 +15022,7 @@
         "wlength": 8
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art"
         ],
@@ -14917,12 +15079,12 @@
             "noho",
             "o",
             "te",
-            "{\\\ua78c}ariki",
+            "\ua78cariki",
             "Hotu",
             "Matu{\\\ua78ca}",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "Hiva",
-            "Mara{\\\ua78c}e",
+            "Mara\ua78ce",
             "Re\u014ba."
         ],
         "srcwordshtml": [
@@ -14931,12 +15093,12 @@
             "noho",
             "o",
             "te",
-            "{\\\ua78c}ariki",
+            "\ua78cariki",
             "<span class=\"bf\">Hotu</span>",
             "<span class=\"bf\">Matu{\\\ua78c</span>a}",
-            "{\\\ua78c}i",
+            "\ua78ci",
             "Hiva",
-            "Mara{\\\ua78c}e",
+            "Mara\ua78ce",
             "Re\u014ba."
         ],
         "srcwordstex": [
@@ -14957,6 +15119,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "",
             "a",
@@ -15023,11 +15186,11 @@
             "Rovi,",
             "he",
             "ta\u014bata",
-            "h\u0101pa{\\\ua78c}o",
+            "h\u0101pa\ua78co",
             "i",
             "te",
             "poki",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "Hotu",
             "{\\\ua78cariki}."
         ],
@@ -15038,11 +15201,11 @@
             "Rovi,",
             "he",
             "ta\u014bata",
-            "h\u0101pa{\\\ua78c}o",
+            "h\u0101pa\ua78co",
             "i",
             "te",
             "poki",
-            "{\\\ua78c}a",
+            "\ua78ca",
             "<span class=\"bf\">Hotu</span>",
             "<span class=\"bf\">{\\\ua78c</span>ariki}."
         ],
@@ -15065,6 +15228,7 @@
         "wlength": 13
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2sg",
             "o",
@@ -15078,14 +15242,14 @@
             "to",
             "PROP",
             "poss.2sg.o",
-            "{\\db}parent",
+            " parent",
             "female"
         ],
         "imtwordshtml": [
             "to",
             "<span class=\"sc\">prop</span>",
             "<span class=\"sc\">poss.2sg.o</span>",
-            "{\\db}parent",
+            " parent",
             "female"
         ],
         "imtwordstex": [
@@ -15100,16 +15264,16 @@
         "srcwordsbare": [
             "ki0",
             "a1",
-            "t\u014d{\\\ua78c}oku3",
-            "{\\ob}matu{\\\ua78c}a",
-            "vahine\\,{\\cb}4"
+            "t\u014d\ua78coku3",
+            "[matu\ua78ca",
+            "vahine\\,]4"
         ],
         "srcwordshtml": [
             "ki<span class=\"subscript\">0</span>",
             "a<span class=\"subscript\">1</span>",
-            "t\u014d{\\\ua78c}oku<span class=\"subscript\">3</span>",
-            "{\\ob}matu{\\\ua78c}a",
-            "vahine\\,{\\cb}<span class=\"subscript\">4</span>"
+            "t\u014d\ua78coku<span class=\"subscript\">3</span>",
+            "[matu\ua78ca",
+            "vahine\\,]<span class=\"subscript\">4</span>"
         ],
         "srcwordstex": [
             "ki\\textsubscript{0}",
@@ -15122,6 +15286,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "coll",
             "prop"
@@ -15166,6 +15331,7 @@
         "wlength": 3
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "prop"
         ],
@@ -15197,13 +15363,13 @@
             "ki0",
             "a1",
             "R\u0101taro4",
-            "tako{\\\ua78c}a5"
+            "tako\ua78ca5"
         ],
         "srcwordshtml": [
             "ki<span class=\"subscript\">0</span>",
             "a<span class=\"subscript\">1</span>",
             "R\u0101taro<span class=\"subscript\">4</span>",
-            "tako{\\\ua78c}a<span class=\"subscript\">5</span>"
+            "tako\ua78ca<span class=\"subscript\">5</span>"
         ],
         "srcwordstex": [
             "ki\\textsubscript{0}",
@@ -15215,6 +15381,7 @@
         "wlength": 4
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "prom"
         ],
@@ -15244,13 +15411,13 @@
         "src": "ko\\textsubscript{0} {\\\ua78c}Anakena\\textsubscript{4} mau\\textsubscript{6} n\u014d\\textsubscript{7}",
         "srcwordsbare": [
             "ko0",
-            "{\\\ua78c}Anakena4",
+            "\ua78cAnakena4",
             "mau6",
             "n\u014d7"
         ],
         "srcwordshtml": [
             "ko<span class=\"subscript\">0</span>",
-            "{\\\ua78c}Anakena<span class=\"subscript\">4</span>",
+            "\ua78cAnakena<span class=\"subscript\">4</span>",
             "mau<span class=\"subscript\">6</span>",
             "n\u014d<span class=\"subscript\">7</span>"
         ],
@@ -15264,6 +15431,7 @@
         "wlength": 4
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ident"
         ],
@@ -15272,14 +15440,14 @@
         "imt": "like {\\db}Maria Gonzales really \\textsc{ident}",
         "imtwordsbare": [
             "like",
-            "{\\db}Maria",
+            " Maria",
             "Gonzales",
             "really",
             "IDENT"
         ],
         "imtwordshtml": [
             "like",
-            "{\\db}Maria",
+            " Maria",
             "Gonzales",
             "really",
             "<span class=\"sc\">ident</span>"
@@ -15295,17 +15463,17 @@
         "src": "P\u0113\\textsubscript{0} {\\ob}M\u0101ria Gonzales\\,{\\cb}\\textsubscript{4} mau\\textsubscript{6} {\\\ua78c}\u0101\\textsubscript{9}",
         "srcwordsbare": [
             "P\u01130",
-            "{\\ob}M\u0101ria",
-            "Gonzales\\,{\\cb}4",
+            "[M\u0101ria",
+            "Gonzales\\,]4",
             "mau6",
-            "{\\\ua78c}\u01019"
+            "\ua78c\u01019"
         ],
         "srcwordshtml": [
             "P\u0113<span class=\"subscript\">0</span>",
-            "{\\ob}M\u0101ria",
-            "Gonzales\\,{\\cb}<span class=\"subscript\">4</span>",
+            "[M\u0101ria",
+            "Gonzales\\,]<span class=\"subscript\">4</span>",
             "mau<span class=\"subscript\">6</span>",
-            "{\\\ua78c}\u0101<span class=\"subscript\">9</span>"
+            "\ua78c\u0101<span class=\"subscript\">9</span>"
         ],
         "srcwordstex": [
             "P\u0113\\textsubscript{0}",
@@ -15318,6 +15486,7 @@
         "wlength": 5
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3sg",
             "prom"
@@ -15345,12 +15514,12 @@
         "srcwordsbare": [
             "ko",
             "ia",
-            "tako{\\\ua78c}a"
+            "tako\ua78ca"
         ],
         "srcwordshtml": [
             "ko",
             "ia",
-            "tako{\\\ua78c}a"
+            "tako\ua78ca"
         ],
         "srcwordstex": [
             "ko",
@@ -15361,6 +15530,7 @@
         "wlength": 3
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "prom"
@@ -15410,6 +15580,7 @@
         "wlength": 4
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "prom",
@@ -15454,6 +15625,7 @@
         "wlength": 3
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "acc",
             "art",
@@ -15523,6 +15695,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "acc",
@@ -15579,7 +15752,7 @@
         "language": "Rapa Nui",
         "src": "{\\\ua78c}I te ahiahi he oho \\textbf{a} \\textbf{au} he tatau i te \u016b.",
         "srcwordsbare": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "te",
             "ahiahi",
             "he",
@@ -15593,7 +15766,7 @@
             "\u016b."
         ],
         "srcwordshtml": [
-            "{\\\ua78c}I",
+            "\ua78cI",
             "te",
             "ahiahi",
             "he",
@@ -15624,6 +15797,7 @@
         "wlength": 12
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "3pl",
             "art",
@@ -15663,7 +15837,7 @@
         "src": "Ka e{\\\ua78c}a mai \\textbf{r\u0101ua} mai te h\u0101p\u012b...",
         "srcwordsbare": [
             "Ka",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "mai",
             "r\u0101ua",
             "mai",
@@ -15672,7 +15846,7 @@
         ],
         "srcwordshtml": [
             "Ka",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "mai",
             "<span class=\"bf\">r\u0101ua</span>",
             "mai",
@@ -15692,6 +15866,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2sg",
             "ipfv",
@@ -15755,6 +15930,7 @@
         "wlength": 6
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2sg",
             "imp"
@@ -15798,6 +15974,7 @@
         "wlength": 3
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "2pl",
@@ -15852,24 +16029,24 @@
         "src": "I e{\\\ua78c}a era au e kimi {\\\ua78c}\u0101 \\textbf{i} \\textbf{a} k\u014drua.",
         "srcwordsbare": [
             "I",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "era",
             "au",
             "e",
             "kimi",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "i",
             "a",
             "k\u014drua."
         ],
         "srcwordshtml": [
             "I",
-            "e{\\\ua78c}a",
+            "e\ua78ca",
             "era",
             "au",
             "e",
             "kimi",
-            "{\\\ua78c}\u0101",
+            "\ua78c\u0101",
             "<span class=\"bf\">i</span>",
             "<span class=\"bf\">a</span>",
             "k\u014drua."
@@ -15890,6 +16067,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "ntr",
             "prop"
@@ -15946,7 +16124,7 @@
             "Makita",
             "ki",
             "a",
-            "Roke{\\\ua78c}aua..."
+            "Roke\ua78caua..."
         ],
         "srcwordshtml": [
             "He",
@@ -15958,7 +16136,7 @@
             "Makita",
             "<span class=\"bf\">ki</span>",
             "<span class=\"bf\">a</span>",
-            "Roke{\\\ua78c}aua..."
+            "Roke\ua78caua..."
         ],
         "srcwordstex": [
             "He",
@@ -15976,6 +16154,7 @@
         "wlength": 10
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "imp",
             "prop",
@@ -16044,6 +16223,7 @@
         "wlength": 7
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "2sg",
             "prom",
@@ -16125,6 +16305,7 @@
         "wlength": 9
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "2sg",
@@ -16208,7 +16389,7 @@
             "au?",
             "A",
             "raro",
-            "{\\\ua78c}\u0101,",
+            "\ua78c\u0101,",
             "a",
             "pie."
         ],
@@ -16226,7 +16407,7 @@
             "<span class=\"bf\">au</span>?",
             "A",
             "raro",
-            "{\\\ua78c}\u0101,",
+            "\ua78c\u0101,",
             "a",
             "pie."
         ],
@@ -16252,6 +16433,7 @@
         "wlength": 16
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "coll",
             "prop"
@@ -16296,6 +16478,7 @@
         "wlength": 3
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "art",
             "coll"
@@ -16340,6 +16523,7 @@
         "wlength": 3
     },
     {
+        "ID": "05nounphrase-517268",
         "categories": [
             "1sg",
             "dist",
@@ -16391,10 +16575,10 @@
         "src": "He {\\\ua78c}ui iho ia \u014d{\\\ua78c}oku ki \\textbf{a} \\textbf{t\u014d{\\\ua78c}oku} koro era...",
         "srcwordsbare": [
             "He",
-            "{\\\ua78c}ui",
+            "\ua78cui",
             "iho",
             "ia",
-            "\u014d{\\\ua78c}oku",
+            "\u014d\ua78coku",
             "ki",
             "a",
             "t\u014d{\\\ua78coku}",
@@ -16403,10 +16587,10 @@
         ],
         "srcwordshtml": [
             "He",
-            "{\\\ua78c}ui",
+            "\ua78cui",
             "iho",
             "ia",
-            "\u014d{\\\ua78c}oku",
+            "\u014d\ua78coku",
             "ki",
             "<span class=\"bf\">a</span>",
             "<span class=\"bf\">t\u014d{\\\ua78c</span>oku}",

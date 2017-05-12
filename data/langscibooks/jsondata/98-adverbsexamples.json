@@ -1,5 +1,6 @@
 [
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3sg",
             "nom"
@@ -49,6 +50,7 @@
         "wlength": 4
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3sg",
             "comp",
@@ -95,6 +97,7 @@
         "wlength": 3
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3sg",
             "nom",
@@ -139,6 +142,7 @@
         "wlength": 3
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3sg",
             "gen",
@@ -184,6 +188,7 @@
         "wlength": 3
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "1sg",
             "3sg",
@@ -230,6 +235,7 @@
         "wlength": 3
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3pl",
             "comp",
@@ -271,14 +277,16 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
-            "1sg=pst"
+            "1sg",
+            "pst"
         ],
         "clength": 37,
         "filename": "98/adverbs.tex",
         "imt": "come:\\textsc{1sg=pst}   just",
         "imtwordsbare": [
-            "come:1SG=PST",
+            "come:1sg=pst",
             "just"
         ],
         "imtwordshtml": [
@@ -307,6 +315,7 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "1sg",
             "int"
@@ -344,6 +353,7 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "1pl",
             "exc",
@@ -389,9 +399,11 @@
         "wlength": 3
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
-            "3sg=infr",
-            "comp"
+            "3sg",
+            "comp",
+            "infr"
         ],
         "clength": 27,
         "filename": "98/adverbs.tex",
@@ -420,6 +432,7 @@
         "wlength": 1
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3sg",
             "comp",
@@ -458,6 +471,7 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3pl",
             "infr"
@@ -495,9 +509,11 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
-            "2sg=pst2",
-            "comp"
+            "2sg",
+            "comp",
+            "pst2"
         ],
         "clength": 13,
         "filename": "98/adverbs.tex",
@@ -526,6 +542,7 @@
         "wlength": 1
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "",
             "1sg",
@@ -565,14 +582,16 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
-            "3sg=pst4"
+            "3sg",
+            "pst4"
         ],
         "clength": 9,
         "filename": "98/adverbs.tex",
         "imt": "bring:\\textsc{3sg=pst4}",
         "imtwordsbare": [
-            "bring:3SG=PST4"
+            "bring:3sg=pst4"
         ],
         "imtwordshtml": [
             "bring:<span class=\"sc\">3sg=pst4</span>"
@@ -595,6 +614,7 @@
         "wlength": 1
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "3sg",
             "conf"
@@ -632,15 +652,17 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
-            "2sg=hypo",
-            "dat"
+            "2sg",
+            "dat",
+            "hypo"
         ],
         "clength": 32,
         "filename": "98/adverbs.tex",
         "imt": "tell:\\textsc{2sg=hypo}     I:\\textsc{dat}",
         "imtwordsbare": [
-            "tell:2SG=HYPO",
+            "tell:2sg=hypo",
             "I:DAT"
         ],
         "imtwordshtml": [
@@ -669,9 +691,11 @@
         "wlength": 2
     },
     {
+        "ID": "adverbs-500704",
         "categories": [
             "1pl",
-            "inc=cond"
+            "cond",
+            "inc"
         ],
         "clength": 32,
         "filename": "98/adverbs.tex",

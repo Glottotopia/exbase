@@ -1,5 +1,6 @@
 [
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "cop",
             "dem",
@@ -40,6 +41,7 @@
         "wlength": 2
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "dem",
             "dist",
@@ -85,9 +87,11 @@
         "wlength": 3
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
+            "dem",
             "imp",
-            "obl=dem",
+            "obl",
             "rec",
             "sg",
             "ven"
@@ -125,6 +129,7 @@
         "wlength": 2
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "3sg",
             "dem",
@@ -178,6 +183,7 @@
         "wlength": 4
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "3sg",
             "anaph",
@@ -217,6 +223,7 @@
         "wlength": 2
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "3sg",
             "abl",
@@ -264,6 +271,7 @@
         "wlength": 3
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "1sg",
             "dem",
@@ -304,6 +312,7 @@
         "wlength": 2
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "acc",
             "dem",
@@ -350,16 +359,18 @@
         "wlength": 3
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
-            "3sg=pst",
+            "3sg",
             "dat",
-            "nom"
+            "nom",
+            "pst"
         ],
         "clength": 46,
         "filename": "98/demonstratives.tex",
         "imt": "go:\\textsc{3sg=pst}   elephant(s):\\textsc{nom}=also   there:\\textsc{dat}",
         "imtwordsbare": [
-            "go:3SG=PST",
+            "go:3sg=pst",
             "elephant(s):NOM=also",
             "there:DAT"
         ],
@@ -394,6 +405,7 @@
         "wlength": 3
     },
     {
+        "ID": "demonstratives-724680",
         "categories": [
             "abl",
             "nom",

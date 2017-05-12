@@ -25,7 +25,12 @@ TEXREPLACEMENTS = [
   (r'\textepsilon','ε'),
   (r'\textphi','φ'),
   (r'\textupsilon','υ'),
-  (r'\newline',' ')
+  (r'\newline',' '),
+  (r'{\ꞌ}','ꞌ'),
+  (r'{\ob}','['),
+  (r'{\cb}',']'),
+  (r'{\db}',' '),
+  (r'\nobreakdash','')
 ]
 
 class gll():
@@ -49,6 +54,7 @@ class gll():
     self.imtwordsbare = [self.striptex(w,sc2upper=True) for w in self.imtwordstex]
     self.clength = len(self.src)
     self.wlength = len(self.srcwordsbare)
+    self.ID = '%s-%s'%(self.filename.replace('.tex','').split('/')[-1],str(hash('asdfarew ewe'))[:6])
     self.analyze()
     
   def tex2html(self,s):
@@ -71,7 +77,7 @@ class gll():
       d = {}
       scs =  re.findall('\\\\textsc\{(.*?)\}',s)
       for sc in scs:
-        cats = re.split('[-.:]',sc)
+        cats = re.split('[-=.:]',sc)
         for cat in cats: 
           d[cat] = True
       return sorted(list(d.keys()))
