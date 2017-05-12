@@ -9,7 +9,7 @@
   #foreach($field in $response.facetFields)
     ## Hide facets without value
     #if($field.values.size() > 0)
-	#if($formheaders.contains($field.name) == true)
+## 	#if($formheaders.contains($field.name) == true)
 	<div>
 	<span class="togglebutton"  name="show" id="$field.name" onClick="toggleFacets('ul$field.name')">&#x25BE;&#x25B4;</span>
 	
@@ -25,7 +25,7 @@
 	    #end
 	</ul>
 	    </div>
-	#end  ## end if !- gloss
+## 	#end  ## end if !- gloss
     #end  ## end if > 0
   #end    ## end for each facet field
 </div>
