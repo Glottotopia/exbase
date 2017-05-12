@@ -4,8 +4,8 @@ import pprint
 import json
 import os
 
-GLL = re.compile('\\gll[ \t]*(.*?) *?\\\\\\\\\n[ \t]*(.*?) *?\\\\\\\\\n[ \t]*\\\\glt[ \t]*(.*?)\n')
-TEXTEXT = re.compile('\\\\text(.*?)\{(.*?)\}')
+GLL = re.compile('\\gll[ \t]*(.*?) *?\\\\\\\\\n[ \t]*(.*?) *?\\\\\\\\\n+[ \t]*\\\\glt[ \t\n]*(.*?)\n')
+TEXTEXT = re.compile('\\\\text(.*?)\{(.*?)\}') 
 STARTINGQUOTE = "`‘"
 ENDINGQUOTE = "'’"
 
@@ -23,13 +23,28 @@ class gll():
     self.srcwordstex=self.src.split()
     self.imtwordstex=self.imt.split()
     assert(len(self.srcwordstex)==len(self.imtwordstex))
+    self.categories = self.tex2categories(imt)
     self.srcwordshtml = [self.tex2html(w) for w in self.srcwordstex]
     self.imtwordshtml = [self.tex2html(w) for w in self.imtwordstex]
+    self.srcwordsbare = [self.striptex(w) for w in self.srcwordstex]
+    self.imtwordsbare = [self.striptex(w,sc2upper=True) for w in self.imtwordstex]
     
   def tex2html(self,s):
       result = re.sub(TEXTEXT,'<span class="\\1">\\2</span>',s)
       return result
-  
+      
+  def striptex(self,s,sc2upper=False):
+      if sc2upper:
+        print(self.categories)
+        for c in self.categories:
+          s = re.sub('\\\\textsc{%s}'%c,c.upper(),s)
+      result = re.sub(TEXTEXT,'\\2',s)
+      return result
+    
+  def tex2categories(self,s):
+      return list(set(re.findall('\\\\textsc\{(.*?)\}',s)))
+    
+    
   def json(self):
     print(json.dumps(self.__dict__, sort_keys=True, indent=4))
     
@@ -46,7 +61,7 @@ class example()  :
 if __name__ == '__main__':
   filename = sys.argv[1]
   language = sys.argv[2]
-  s = open(filename).read()
+  s = open(filename).read() 
   examples = []
   glls = GLL.findall(s)
   for g in glls:
