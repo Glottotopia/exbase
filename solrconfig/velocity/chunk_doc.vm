@@ -27,7 +27,7 @@
 <b>#field('name')</b> 
 
 ## <span class="togglebutton" onclick='jQuery(this).parent().siblings("table").toggle();' > &pm;   </span>
-<a     onclick='jQuery(this).parent().siblings("table").toggle();jQuery(this).parent().siblings("div[class=tagcontainer]").toggle("fast");' > expand  </a>
+## <a     onclick='jQuery(this).parent().siblings("table").toggle();jQuery(this).parent().siblings("div[class=tagcontainer]").toggle("fast");' > expand  </a>
 
 #if($request.params.get('admin')=='true') 
 ## <span class="togglebutton"  onclick='hidealltagbags(); jQuery(this).parent().siblings("div[class=tagbag]").slideDown("slow");jQuery(this).parent().parent().attr("style","border:2px dotted darkred;background:#f4ffe0")' > &equiv;   </span>
@@ -39,7 +39,7 @@
 
 <span class="mlt">   #if($params.getBool('mlt', false) == false)
 ## <a href="#lensNoQ&q=id:$docId&mlt=true">&hellip;</a>
-<a href="#lensNoQ&q=id:$docId&mlt=true">similar chunks</a>
+## <a href="#lensNoQ&q=id:$docId&mlt=true">similar chunks</a>
 #end
 </span>
 </div>
@@ -47,17 +47,17 @@
 ## <div class="tagbag" name="extr"  id="tagbag"> 
 
 <div class="chunkmeta">
-    $doc.getFieldValue('ID')[0]
+    ($doc.getFieldValue('ID')[0])
 </div>
 <div>     
     <div class="chunkcontent" id="chunkcontent$docId">  
 ##     $doc.getFieldValue('content')[0] 
 <table>
-  <tr>
+  <tr class="srcline">
     #foreach($w in $doc.getFieldValue('srcwordshtml'))
       <td  style="padding:5px;">$w</td>
     #end
-    </tr><tr>
+    </tr><tr class="imtline">
     #foreach($w in $doc.getFieldValue('imtwordshtml'))
       <td  style="padding:5px;">$w</td>
     #end

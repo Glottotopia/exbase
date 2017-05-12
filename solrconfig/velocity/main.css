@@ -658,7 +658,7 @@ scrollbar-track-color: #fff!important;
 
 .chunkcontent{
     max-width:800px;
-    background:#fffdee;
+/*     background:#fffdee; */
     padding:5px;
     max-height:200px;
     overflow-y:auto;
@@ -772,3 +772,25 @@ span.itbf{
   font-weight:bold;
   font-family:italic;  
 }
+
+span.sc{
+font-variant:small-caps;
+}
+
+srcline{
+  background:#ddd;
+}
+
+imtline{
+  background: #eee;
+}
+
+srcline:nth-child(even), imtline:nth-child(even){
+  background:#ded;
+}
+
+
+srcline:nth-child(odd), imtline:nth-child(odd){
+  background:#ede;
+}
+ 
