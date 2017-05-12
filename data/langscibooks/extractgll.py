@@ -54,7 +54,7 @@ class gll():
     self.imtwordsbare = [self.striptex(w,sc2upper=True) for w in self.imtwordstex]
     self.clength = len(self.src)
     self.wlength = len(self.srcwordsbare)
-    self.ID = '%s-%s'%(self.filename.replace('.tex','').split('/')[-1],str(hash('asdfarew ewe'))[:6])
+    self.ID = '%s-%s'%(self.filename.replace('.tex','').split('/')[-1],str(hash(self.src))[:6])
     self.analyze()
     
   def tex2html(self,s):
