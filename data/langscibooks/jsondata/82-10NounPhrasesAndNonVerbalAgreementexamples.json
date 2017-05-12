@@ -113,6 +113,7 @@
             "obl",
             "pfv\"=msg"
         ],
+        "coordination": "and",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "head-\\textsc{gen} \\textsc{def.msg.nom} some piece flesh bring-\\textsc{cv} grave  to bring-\\textsc{cv} \\textsc{3sg.obl} in bury.\\textsc{pfv\"=msg}",
         "imtwordsbare": [
@@ -325,6 +326,7 @@
             "msg",
             "prs\"=msg"
         ],
+        "coordination": "and",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "very-\\textsc{msg} sweet-\\textsc{msg} very-\\textsc{msg} good-\\textsc{msg} thing become-\\textsc{prs\"=msg}",
         "imtwordsbare": [
@@ -795,6 +797,7 @@
             "neg",
             "obl"
         ],
+        "coordination": "and",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "some cheese \\textsc{1sg.gen} \\textsc{def} friend-\\textsc{gen} handkerchief-\\textsc{obl}  in tie-\\textsc{cv} water-\\textsc{obl} why-\\textsc{neg} throw-\\textsc{1sg}",
         "imtwordsbare": [
@@ -933,6 +936,7 @@
             "pfv\"=msg",
             "pl"
         ],
+        "coordination": "or",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "five foot-\\textsc{pl} six foot-\\textsc{pl} snow fall.\\textsc{pfv\"=msg} \\textsc{condh}",
         "imtwordsbare": [
@@ -1121,6 +1125,7 @@
             "pfv",
             "pl"
         ],
+        "coordination": "and",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{def} man-\\textsc{obl} other day-\\textsc{obl} king minister and other  people-\\textsc{pl} gather-\\textsc{cv} announcement do.\\textsc{pfv-f}",
         "imtwordsbare": [
@@ -1222,6 +1227,7 @@
             "pl\"=obl",
             "pst"
         ],
+        "coordination": "and",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg.acc} kill-\\textsc{cv} throw-\\textsc{cv} brute-\\textsc{pl\"=obl} mouth-\\textsc{obl} toward  bread also put.\\textsc{cv} go.\\textsc{pfv.pl} \\textsc{pst}",
         "imtwordsbare": [
@@ -1628,6 +1634,7 @@
             "prs\"=mpl",
             "top"
         ],
+        "coordination": "or",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{3sg.acc} with four five female.person woman.\\textsc{pl} one \\textsc{top} man {} send-\\textsc{prs\"=mpl}",
         "imtwordsbare": [
@@ -2265,6 +2272,7 @@
             "idef",
             "refl"
         ],
+        "coordination": "or",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "village-\\textsc{gen} or \\textsc{refl} tribe-\\textsc{gen} \\textsc{idef} elder",
         "imtwordsbare": [
@@ -2608,6 +2616,7 @@
             "pfv\"=msg",
             "rem"
         ],
+        "coordination": "and",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "\\textsc{rem} forest-\\textsc{obl} \\textsc{idef} stone-\\textsc{obl} on take.away-\\textsc{cv}  \\textsc{def.nom.msg} child[\\textsc{nom.msg}] seat.\\textsc{pfv\"=msg}",
         "imtwordsbare": [
@@ -2690,6 +2699,7 @@
             "obl",
             "pfv"
         ],
+        "coordination": "and",
         "filename": "82/10NounPhrasesAndNonVerbalAgreement.tex",
         "imt": "elder.\\textsc{obl} arrive-\\textsc{cv} completely swiftly knife take-\\textsc{cv}  \\textsc{def} crown[\\textsc{nom.fsg}] cut.\\textsc{pfv-f}",
         "imtwordsbare": [
@@ -2916,6 +2926,7 @@
             "go.\\textsc{pfv.mpl}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{se} \\textbf{x\u00e1laka} qala\u0301n\u0261 na d-a\u0301a bha\u00e1 ba u\u1e0dheew-\u00ed \u0261\u00edia",
         "srcwordsbare": [
             "se",

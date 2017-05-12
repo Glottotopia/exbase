@@ -24,7 +24,7 @@
             "up.to",
             "home:\\textsc{obl}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "napei Kaa\u0253\\'{\u0254}\u014b\u0289\u0254     \\textbf{p\u00e1ka}   aw\u1d43",
         "srcwordsbare": [
             "napei",
@@ -72,7 +72,7 @@
             "like",
             "goat:\\textsc{gen}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "G\u00f3gese   tuf\u00fal\u00e1       \\textbf{\u0257{\\\u00cd}t\u00e1}   ri\u00e9.",
         "srcwordsbare": [
             "G\u00f3gese",
@@ -119,7 +119,7 @@
             "Timu:inside:\\textsc{gen}",
             "that"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "Ats\u00eda     \\textbf{n\\'{\u025b}\\'{\u025b}}   T\u00edmua\u0199w\u025b\u025b  n\u025b.",
         "srcwordsbare": [
             "Ats\u00eda",
@@ -163,7 +163,7 @@
             "instead.of",
             "killing:\\textsc{obl}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "Ho\u0257u\u0199ot{\\\u1d49},   \\textbf{ak\u0268l\u0254}     c\u025b\\'{\u025b}s\\'{\u0289}\u0199\u0254t\\\u1da4.",
         "srcwordsbare": [
             "Ho\u0257u\u0199ot{\\\u1d49},",
@@ -207,7 +207,7 @@
             "hut:\\textsc{obl}",
             "that"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "Du\u0199otuo   \\textbf{gone}   hoo     d\u00e9\u00e9.",
         "srcwordsbare": [
             "Du\u0199otuo",
@@ -256,7 +256,7 @@
             "because.of",
             "hunger:\\textsc{obl}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "\u0198\u00e1\u00e1taa   T\u00e1bay\u025b\u025b   \\textbf{ik\u00f3ter\u00e9}   \u0272\\`{\u025b}\u0199{\\\u1d4b}.",
         "srcwordsbare": [
             "\u0198\u00e1\u00e1taa",
@@ -285,6 +285,7 @@
             "nom",
             "obl"
         ],
+        "coordination": "and",
         "filename": "98/morphology.tex",
         "imt": "sow:\\textsc{inf:nom}   cucumber:\\textsc{gen}   and   squash:\\textsc{obl}",
         "imtwordsbare": [
@@ -305,7 +306,7 @@
             "and",
             "squash:\\textsc{obl}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "t\u025bw\u025b\u025bsa     k\u0254l\u0268l{\\\u00cd}\\'{\u025b}       \\textbf{\u0144da}   lomu\u0199e\u2071",
         "srcwordsbare": [
             "t\u025bw\u025b\u025bsa",
@@ -354,7 +355,7 @@
             "also",
             "seated:\\textsc{ips:sim:dp}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "\\textbf{toni}   Pak\u00f3\u00edce     \u029d\u0268k,   g\u00f3\u0199\u00e1n\u0268k\\^{\u025b}d{\\\u1d4b}",
         "srcwordsbare": [
             "toni",
@@ -403,7 +404,7 @@
             "be:\\textsc{2sg}",
             "orphan:\\textsc{obl}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "Hye\u00ed\u00e1   \\textbf{toim\u025bna}   m\u0268t{\\\u00cd}da   b\u0254n\u00e1n.",
         "srcwordsbare": [
             "Hye\u00ed\u00e1",
@@ -457,7 +458,7 @@
             "we:land:\\textsc{nom}",
             "there"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "K\u0289ta   \\'{\u0272}cie   \\textbf{taa}   ia     \u0272j\u00edn\u00edki\u029da    k\\'{\u0254}\\'{\u0254}k\u025b.",
         "srcwordsbare": [
             "K\u0289ta",
@@ -489,6 +490,7 @@
         "categories": [
             "abl"
         ],
+        "coordination": "or",
         "filename": "98/morphology.tex",
         "imt": "West:\\textsc{abl}   or   East:\\textsc{abl}",
         "imtwordsbare": [
@@ -506,7 +508,7 @@
             "or",
             "East:\\textsc{abl}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "T\u00e1bay\u0254\u0254   \\textbf{ke\u0257e}   Fet\u00ed\u00e9k\u00f9?",
         "srcwordsbare": [
             "T\u00e1bay\u0254\u0254",
@@ -556,7 +558,7 @@
             "kill:\\textsc{ips}",
             "animal:\\textsc{nom}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "\u0197\\'{\u0289}m\u0289\u0199\u0254t\u0268ak\u00f4d{\\\u1d49}, moo     \\textbf{koto}   s\u00e1\u0253\u00e1n\u0268   \u00ednw{\\\u1d43}",
         "srcwordsbare": [
             "\u0197\\'{\u0289}m\u0289\u0199\u0254t\u0268ak\u00f4d{\\\u1d49},",
@@ -587,6 +589,7 @@
             "nom",
             "sps"
         ],
+        "coordination": "and",
         "filename": "98/morphology.tex",
         "imt": "kill:\\textsc{sps}  eland:\\textsc{nom}   and   fetch:\\textsc{ips} water:\\textsc{nom}",
         "imtwordsbare": [
@@ -610,7 +613,7 @@
             "fetch:\\textsc{ips}",
             "water:\\textsc{nom}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "S\u00e1\u0253ese   basa\u00far   \\textbf{\u0144da}   kotsana   cue.",
         "srcwordsbare": [
             "S\u00e1\u0253ese",
@@ -659,7 +662,7 @@
             "\\textsc{pst3}",
             "wear:\\textsc{plur:ips}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "isio     noo   \u014b\u00e1b\u00ec\u00e0n?",
         "srcwordsbare": [
             "isio",
@@ -704,7 +707,7 @@
             "eland:\\textsc{dat}",
             "kill:\\textsc{sps}"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "\\textbf{M{\\\u00cd}s\u0268}   \u0268t\u00e1\u00e1na   basa\u00far\u00e9k{\\\u1d49},   s\u00e1\u0253es.",
         "srcwordsbare": [
             "M{\\\u00cds\u0268}",
@@ -755,7 +758,7 @@
             "here",
             "this"
         ],
-        "language": "Rapa Nui",
+        "language": "Ik",
         "src": "\\textbf{Na}   \u00e1tsik{\\\u1d49},       z\\'{\u025b}\u0199w\\'{\u025b}t\u0254\u0254   nay\u00e9\u00e9   na.",
         "srcwordsbare": [
             "Na",

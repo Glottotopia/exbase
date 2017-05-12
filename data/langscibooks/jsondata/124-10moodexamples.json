@@ -7,6 +7,7 @@
             "imp",
             "ins"
         ],
+        "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} go\\_out to outside \\textsc{imp} take hither \\textsc{ins} water \\textsc{ben.1sg.a} for drink",
         "imtwordsbare": [
@@ -797,6 +798,7 @@
             "imp",
             "red"
         ],
+        "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} person all \\textsc{imp} go all \\textsc{imp} dress:\\textsc{red} \\textsc{acc} \\textsc{art} clothes black:\\textsc{red}",
         "imtwordsbare": [
@@ -1023,6 +1025,7 @@
             "hort",
             "incl"
         ],
+        "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{hort} sit \\textsc{1pl.incl} \\textsc{hort} think like \\textsc{cq} \\textsc{art} manner of \\textsc{art} sea",
         "imtwordsbare": [
@@ -2210,6 +2213,7 @@
             "\\textsc{ident}"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "\u2014\u00bfKai ha\u014ba {\\\ua78c}\u014d koe ko au {\\\ua78c}\u0101 t\u014d{\\\ua78c}ou matu{\\\ua78c}a?  \u2014{\\\ua78c}Ina, t\u014d{\\\ua78c}oku mau {\\\ua78c}\u0101.",
         "srcwordsbare": [
             "\u2014\u00bfKai",
@@ -2870,6 +2874,7 @@
             "\\textsc{med}"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "\u00bfKo ai te me{\\\ua78c}e ena e k\u014drua ka haka tere ena?",
         "srcwordsbare": [
             "\u00bfKo",
@@ -4546,6 +4551,7 @@
             "pfv",
             "prom"
         ],
+        "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "~to \\textsc{cq} \\textsc{2pl} \\textsc{prom} \\textsc{art} child \\textsc{pfv} ascend hither \\textsc{med}",
         "imtwordsbare": [
@@ -5650,6 +5656,7 @@
             "neg",
             "pfv"
         ],
+        "coordination": "or",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg.pfv} know hither \\textsc{1sg} {\\db}\\textsc{ipfv} see again \\textsc{emph} hither \\textsc{2sg} or \\textsc{neg}",
         "imtwordsbare": [
@@ -5808,6 +5815,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "{\\\ua78c}O ira a au i {\\\ua78c}ui atu ena {\\ob}\\textbf{ana} ha\u014ba koe mo turu mai  ki nei...\\,{\\cb}",
         "srcwordsbare": [
             "{\\\ua78c}O",
@@ -5993,6 +6001,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Ka u{\\\ua78c}i a Ha\u014ba Roa {\\ob}\\textbf{he} aha e ta{\\\ua78c}e tu{\\\ua78c}u mai nei\\,{\\cb}.",
         "srcwordsbare": [
             "Ka",
@@ -6251,6 +6260,7 @@
             "prom",
             "red"
         ],
+        "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "there \\textsc{art} big:\\textsc{red} of \\textsc{art} head \\textsc{prom} enormous \\textsc{cntg} handsome \\textsc{art} head",
         "imtwordsbare": [
@@ -6955,6 +6965,7 @@
             "eye"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{{\\\ua78c}Ina} a Heru he u{\\\ua78c}i r\u014d mai hai mata.",
         "srcwordsbare": [
             "{\\\ua78cIna}",
@@ -7039,6 +7050,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{{\\\ua78c}Ina} a au he ha{\\\ua78c}am\u0101 haka{\\\ua78c}ou {\\\ua78c}i te hora nei.",
         "srcwordsbare": [
             "{\\\ua78cIna}",
@@ -7225,6 +7237,7 @@
             "eat"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{{\\\ua78c}Ina}, ho{\\\ua78c}i, he ho{\\\ua78c}o mau ena, te me{\\\ua78c}e n\u014d, ko ai {\\\ua78c}ana mo kai.",
         "srcwordsbare": [
             "{\\\ua78cIna},",
@@ -7286,6 +7299,7 @@
             "o",
             "poss"
         ],
+        "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} begin \\textsc{ntr} angry and \\textsc{neg} \\textsc{ntr} listen to \\textsc{dem} word \\textsc{dist}  of \\textsc{dem} friend \\textsc{dist} \\textsc{poss.3sg.o}",
         "imtwordsbare": [
@@ -7346,6 +7360,7 @@
             "\\textsc{poss.3sg.o}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "He ha{\\\ua78c}amata he riri, {\\\ua78c}e \\textbf{{\\\ua78c}ina} he hakaro\u014bo ki t\u016b v\u0101na\u014ba era  o t\u016b hoa era \u014d{\\\ua78c}ona.",
         "srcwordsbare": [
             "He",
@@ -7540,6 +7555,7 @@
             "king"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina he a\u014bia\u014bi \\textbf{e} \\textbf{t\u016b} \\textbf{\u014b\u0101} \\textbf{{\\\ua78c}aku{\\\ua78c}aku} \\textbf{era} e aha {\\\ua78c}\u0101 te {\\\ua78c}ariki.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -7634,6 +7650,7 @@
             "Roa"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina \\textbf{he} \\textbf{r\u016b{\\\ua78c}au} \\textbf{nei} he turu mai ki Ha\u014ba Roa.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -7723,6 +7740,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Te probrema ho{\\\ua78c}i, {\\\ua78c}ina \\textbf{he} \\textbf{m\u0101m\u0101} o n\u0101 poki o nei.",
         "srcwordsbare": [
             "Te",
@@ -7911,6 +7929,7 @@
             "know"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "Te {\\\ua78c}ati n\u014d {\\\ua78c}ina \\textbf{te} \\textbf{\u014b\u0101} \\textbf{poki} he ha\u014ba mo {\\\ua78c}ite.",
         "srcwordsbare": [
             "Te",
@@ -8088,6 +8107,7 @@
             "land"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina he hua{\\\ua78c}ai rahi [v\u0101na\u014ba ki te \u014b\u0101 poki i te re{\\\ua78c}o henua].",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -8180,6 +8200,7 @@
             "\\textsc{dist}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina he me{\\\ua78c}e i rov\u0101 o t\u016b p\u014d era.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -8378,6 +8399,7 @@
             "won"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "I oti era te {\\\ua78c}\u0101{\\\ua78c}ati, {\\\ua78c}ina e tahi kope i {\\\ua78c}ite  ko ai te me{\\\ua78c}e i r\u0113.",
         "srcwordsbare": [
             "I",
@@ -8560,6 +8582,7 @@
             "hungry"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina a au kai maruaki.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -8626,6 +8649,7 @@
             "\\textsc{2sg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\u00a1{\\\ua78c}Ina m\u0101tou e ko hoa i a koe!",
         "srcwordsbare": [
             "\u00a1{\\\ua78c}Ina",
@@ -8708,6 +8732,7 @@
             "boat"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina e ko kai i te kahi o t\u014d{\\\ua78c}ona vaka.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -8982,6 +9007,7 @@
             "stay"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}\\textbf{Ina} pa{\\\ua78c}i o m\u0101ua kona mo noho.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -9052,6 +9078,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina he m\u0101m\u0101 o n\u0101 poki o nei.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -9409,6 +9436,7 @@
             "smallpox"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina, \\textbf{pa{\\\ua78c}i}, a m\u0101tou kai m\u0101uiui {\\\ua78c}i te r\u014dviro.",
         "srcwordsbare": [
             "{\\\ua78c}Ina,",
@@ -9491,6 +9519,7 @@
             "fishing\\_zone"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "He hoki mai ki {\\\ua78c}uta, \\textbf{kai} iri ki te hakanono\u014ba.",
         "srcwordsbare": [
             "He",
@@ -9580,6 +9609,7 @@
             "Tahonga"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Kai} p\u0101hono e Hotu i t\u016b v\u0101na\u014ba era {\\\ua78c}a Taho\u014ba.",
         "srcwordsbare": [
             "Kai",
@@ -9936,6 +9966,7 @@
             "hungry"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina a au \\textbf{kai} maruaki.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -10020,6 +10051,7 @@
             "go"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "\u00a1Ko ha\u014ba {\\\ua78c}\u0101 a au mo topa atu! \u00a1\\textbf{Kai} ha\u014ba a au mo oho!",
         "srcwordsbare": [
             "\u00a1Ko",
@@ -10111,6 +10143,7 @@
             "hither"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "{\\\ua78c}Ina a au \\textbf{kai} ha\u014ba mo iri atu.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -10333,6 +10366,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\u00bf\\textbf{Kai} {\\\ua78c}ara \\textbf{{\\\ua78c}ana} {\\\ua78c}\u014d a nua era ko Kava, e ta{\\\ua78c}e tu{\\\ua78c}u mai nei?",
         "srcwordsbare": [
             "\u00bfKai",
@@ -10734,6 +10768,7 @@
             "small:\\textsc{red}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina a {\\\ua78c}Orohe \\textbf{e} \\textbf{ko} hoa i t\u014d{\\\ua78c}ona taina {\\\ua78c}iti{\\\ua78c}iti.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -10938,6 +10973,7 @@
             "\\textsc{nmlz}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{E} \\textbf{ko} rivariva te k\u0101i\u014ba, e ko nahonaho te noho o\u014ba.",
         "srcwordsbare": [
             "E",
@@ -11024,6 +11060,7 @@
             "\\textsc{1du.incl}"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "\u00bf\\textbf{E} ko ha\u014ba {\\\ua78c}\u014d koe mo {\\\ua78c}ori o t\u0101ua?",
         "srcwordsbare": [
             "\u00bfE",
@@ -11337,6 +11374,7 @@
             "ipfv",
             "neg"
         ],
+        "coordination": "or",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{neg.ipfv} noise \\textsc{neg.ipfv} move much also",
         "imtwordsbare": [
@@ -11522,6 +11560,7 @@
             "\\textsc{dist}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{{\\\ua78c}Ina} a t\u0101tou \\textbf{ko} eke {\\\ua78c}i ru\u014ba i te tumu era.",
         "srcwordsbare": [
             "{\\\ua78cIna}",
@@ -11708,6 +11747,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Ta{\\\ua78c}e} he m\u014drore te poki nei, {\\\ua78c}\u0101{\\\ua78c}au mau te poki nei.",
         "srcwordsbare": [
             "Ta{\\\ua78ce}",
@@ -11789,6 +11829,7 @@
             "\\textsc{med}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Ta{\\\ua78c}e} ko Re\u014ba Roiti ta{\\\ua78c}a me{\\\ua78c}e ena.",
         "srcwordsbare": [
             "Ta{\\\ua78ce}",
@@ -11957,6 +11998,7 @@
             "land"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "...mahana va{\\\ua78c}ai era i te mauku, \\textbf{ta{\\\ua78c}e} i te henua",
         "srcwordsbare": [
             "...mahana",
@@ -12041,6 +12083,7 @@
             "Koihu"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "T\u014d{\\\ua78c}oku hare \\textbf{ta{\\\ua78c}e} a te ara ko Tu{\\\ua78c}u K\u014dihu.",
         "srcwordsbare": [
             "T\u014d{\\\ua78c}oku",
@@ -12110,6 +12153,7 @@
             "\\textsc{poss.1sg.o}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Te hare nei, \\textbf{ta{\\\ua78c}e} \u014d{\\\ua78c}oku.",
         "srcwordsbare": [
             "Te",
@@ -12194,6 +12238,7 @@
             "money"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Kai pu\u0113 tako{\\\ua78c}a a ia mo h\u0101p\u012b {\\\ua78c}o te \\textbf{ta{\\\ua78c}e} rava o te moni.",
         "srcwordsbare": [
             "Kai",
@@ -12292,6 +12337,7 @@
             "\\textsc{med}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\u00bfKo take{\\\ua78c}a {\\\ua78c}\u0101 e koe tu{\\\ua78c}u \\textbf{ta{\\\ua78c}e} hakaro\u014bo ena?",
         "srcwordsbare": [
             "\u00bfKo",
@@ -12437,6 +12483,7 @@
             "above"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Hora nei \\textbf{ta{\\\ua78c}e} ta{\\\ua78c}ato{\\\ua78c}a ta\u014bata {\\\ua78c}ite o ru\u014ba.",
         "srcwordsbare": [
             "Hora",
@@ -12509,6 +12556,7 @@
             "away"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}E {\\\ua78c}ina he pu\u0113 \\textbf{mo} \\textbf{ta{\\\ua78c}e} u{\\\ua78c}i atu.",
         "srcwordsbare": [
             "{\\\ua78c}E",
@@ -12699,6 +12747,7 @@
             "\\textsc{1sg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Te v\u0101na\u014ba rapa nui ta{\\\ua78c}e he me{\\\ua78c}e {\\ob}e \\textbf{ta{\\\ua78c}e} ha\u014ba r\u014d {\\\ua78c}\u0101 e au\\,{\\cb}.",
         "srcwordsbare": [
             "Te",
@@ -12803,6 +12852,7 @@
             "boat"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "A Julio ta\u014bata {\\ob}\\textbf{ta{\\\ua78c}e} {\\\ua78c}ite i te haka tere i te vaka\\,{\\cb}.",
         "srcwordsbare": [
             "A",
@@ -12921,6 +12971,7 @@
             "Tahiti"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "I \\textbf{ta{\\\ua78c}e} kore era tu{\\\ua78c}u tokerau era he mana{\\\ua78c}u mo haka t\u012btika  i te vaka ki Tahiti.",
         "srcwordsbare": [
             "I",
@@ -13061,6 +13112,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}\u0100hani {\\\ua78c}\u014d t\u014d{\\\ua78c}oku nua era i \\textbf{ta{\\\ua78c}e} mate, {\\\ua78c}\u012b au  {\\\ua78c}i muri i a ia {\\\ua78c}i te hora nei.",
         "srcwordsbare": [
             "{\\\ua78c}\u0100hani",
@@ -13192,6 +13244,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\ob}Hai {\\\ua78c}arero\\,{\\cb}, pa{\\\ua78c}i, e \\textbf{ta{\\\ua78c}e} \u014baro ena te haka tere i\u014ba  o te motu nei.",
         "srcwordsbare": [
             "{\\ob}Hai",
@@ -13378,6 +13431,7 @@
             "\\textsc{pvp}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\ob}Mai r\u0101 mahana\\,{\\cb} i \\textbf{ta{\\\ua78c}e} a\u014ba haka{\\\ua78c}ou ai.",
         "srcwordsbare": [
             "{\\ob}Mai",
@@ -13545,6 +13599,7 @@
             "string\\_figure"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}O ira, \\textbf{{\\\ua78c}ina} \\textbf{e} \\textbf{ko} \u014baro te kaikai.",
         "srcwordsbare": [
             "{\\\ua78c}O",
@@ -13635,6 +13690,7 @@
             "do"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Kai} \\textbf{ta{\\\ua78c}e} haka {\\\ua78c}ite ko ai a ia hai me{\\\ua78c}e rivariva a\u014ba.",
         "srcwordsbare": [
             "Kai",
@@ -13717,6 +13773,7 @@
             "fish"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "...\\textbf{{\\\ua78c}ina} \\textbf{e} \\textbf{ko} \\textbf{ta{\\\ua78c}e} rava{\\\ua78c}a te ika.",
         "srcwordsbare": [
             "...{\\\ua78cina}",
@@ -13895,6 +13952,7 @@
             "dist",
             "pl"
         ],
+        "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} \\textsc{pl} child parent lack \\textsc{dist} of \\textsc{coll} Eugenio \\textsc{art} care\\_for",
         "imtwordsbare": [
@@ -14587,6 +14645,7 @@
             "\\textsc{dist}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Kai} \\textbf{tomo} \\textbf{ia} mai {\\\ua78c}\u0101 {\\\ua78c}i te ahiahi i {\\\ua78c}ite tahi r\u014d ai te {\\\ua78c}uta i t\u016b parau {\\\ua78c}\u0101p\u012b era.",
         "srcwordsbare": [
             "Kai",

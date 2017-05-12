@@ -597,6 +597,7 @@
             "ident",
             "pred"
         ],
+        "coordination": "and",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "\\textsc{conneg} \\textsc{pred} person \\textsc{pred} spirit like \\textsc{ana} \\textsc{ident} \\textsc{1sg}",
         "imtwordsbare": [
@@ -633,6 +634,7 @@
             "\\textsc{1sg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Ta{\\\ua78c}e} \\textbf{he} \\textbf{ta\u014bata}, \\textbf{he} \\textbf{{\\\ua78c}aku{\\\ua78c}aku}, p\u0113 ira {\\\ua78c}\u0101 au.",
         "srcwordsbare": [
             "Ta{\\\ua78ce}",
@@ -840,6 +842,7 @@
             "hora",
             "nei."
         ],
+        "time": "present",
         "trs": "But I am the governor now (or: the governor now is me).\u2019 \\textstyleExampleref{[R201.007]}"
     },
     {
@@ -1119,6 +1122,7 @@
             "hora",
             "nei."
         ],
+        "time": "present",
         "trs": "But I am the governor now (or: the governor now is me).\u2019 \\textstyleExampleref{[R201.007]}"
     },
     {
@@ -1617,6 +1621,7 @@
             "pred",
             "prop"
         ],
+        "coordination": "and",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "\\textsc{prop} Tiki \\textsc{pred} child of \\textsc{art} sun and \\textsc{pred} god great of \\textsc{3pl}",
         "imtwordsbare": [
@@ -2287,6 +2292,7 @@
             "pred",
             "prf"
         ],
+        "coordination": "and",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "\\textsc{art} \\textsc{pl} child \\textsc{prf} know \\textsc{cont} of above at \\textsc{art} thing all of \\textsc{art} mosquito and \\textsc{pred} adult \\textsc{art} thing \\textsc{pfv} \\textsc{conneg} know",
         "imtwordsbare": [
@@ -2513,6 +2519,7 @@
             "\\textsc{dist}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Ta{\\\ua78c}e he {\\\ua78c}atua tau me{\\\ua78c}e era, he ta\u014bata; \\textbf{ko} \\textbf{te} \\textbf{\u014b\u0101} \\textbf{io} \\textbf{era} \\textbf{{\\\ua78c}\u0100mai} tau me{\\\ua78c}e era.",
         "srcwordsbare": [
             "Ta{\\\ua78c}e",
@@ -2818,6 +2825,7 @@
             "prom",
             "prox"
         ],
+        "coordination": "or",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "~\\textsc{prom} Korike \\textsc{art} thing \\textsc{prox} or \\textsc{prom} Titata  ~ ~\\textsc{prom} Titata \\textsc{art} thing \\textsc{prox}",
         "imtwordsbare": [
@@ -2978,6 +2986,7 @@
             "\\textsc{med}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Ko} \\textbf{{\\\ua78c}Anakena} \\textbf{mau} \\textbf{n\u014d} te kona kai m\u0101uiui {\\\ua78c}\u0101 e noho mai ena.",
         "srcwordsbare": [
             "Ko",
@@ -3278,6 +3287,7 @@
             "God"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "He vi{\\\ua78c}e {\\ob}a\u014ba mau {\\\ua78c}\u0101\\,{\\cb} \\textbf{a} \\textbf{ia} {\\ob}i te me{\\\ua78c}e ha\u014ba o te {\\\ua78c}Atua\\,{\\cb}.",
         "srcwordsbare": [
             "He",
@@ -3904,6 +3914,7 @@
             "pred",
             "prf"
         ],
+        "coordination": "and",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "\\textsc{art} \\textsc{pl} child \\textsc{prf} know \\textsc{cont} of above at \\textsc{art} thing all of \\textsc{art} mosquito and \\textsc{pred} adult {\\db}\\textsc{art} thing \\textsc{pfv} \\textsc{conneg} know",
         "imtwordsbare": [
@@ -4091,6 +4102,7 @@
             "want"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "\\textbf{He} \\textbf{k\u0101p\u0113} t\u0101{\\\ua78c}aku me{\\\ua78c}e ha\u014ba.",
         "srcwordsbare": [
             "He",
@@ -4314,6 +4326,7 @@
             "prox",
             "red"
         ],
+        "coordination": "and",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "person black:\\textsc{red} \\textsc{art} person \\textsc{prox}\\textsc{} and person bad:\\textsc{red}",
         "imtwordsbare": [
@@ -4836,6 +4849,7 @@
             "good:\\textsc{red}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\\textbf{Kai} ta{\\\ua78c}e piropiro, \\textbf{kai} rivariva.",
         "srcwordsbare": [
             "Kai",
@@ -5078,6 +5092,7 @@
             "num",
             "prom"
         ],
+        "coordination": "and",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "\\textsc{ntr} young\\_man \\textsc{num} two \\textsc{art} name \\textsc{prom} Makita \\textsc{prom} Roke\u2019aua",
         "imtwordsbare": [
@@ -5429,6 +5444,7 @@
             "poss",
             "pred"
         ],
+        "coordination": "or",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "at \\textsc{poss.3sg.o} day \\textsc{ntr} exist hither \\textsc{art} work \\textsc{pred} fence build or \\textsc{pred} leaf pick",
         "imtwordsbare": [
@@ -6786,6 +6802,7 @@
             "stay"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}\\textbf{Ina} pa{\\\ua78c}i o m\u0101ua kona mo noho.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -7066,6 +7083,7 @@
             "Puakiva"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "Te hare nei, ta{\\\ua78c}e \u014d{\\\ua78c}oku; o t\u0101{\\\ua78c}aku m\u0101{\\\ua78c}a\u014ba ena ko Puakiva.",
         "srcwordsbare": [
             "Te",
@@ -7540,6 +7558,7 @@
             "\\textsc{prox}"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "Te ha\u014ba o te h\u0101nau {\\\ua78c}e{\\\ua78c}epe \\textbf{m\u014d{\\\ua78c}ona} te k\u0101i\u014ba nei.",
         "srcwordsbare": [
             "Te",
@@ -7677,6 +7696,7 @@
             "Kava"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "A k\u014drua ta{\\\ua78c}e mau {\\\ua78c}ana \\textbf{p\u0113} Kava.",
         "srcwordsbare": [
             "A",
@@ -8060,6 +8080,7 @@
             "neg",
             "pred"
         ],
+        "coordination": "or",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "\\textsc{neg} \\textsc{art} God \\textsc{pred} consider away \\textsc{irr} exist \\textsc{2sg} \\textsc{pred} Jew or \\textsc{conneg} \\textsc{pred} Jew",
         "imtwordsbare": [
@@ -8114,6 +8135,7 @@
             "Jew"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "{\\\ua78c}Ina te {\\\ua78c}Atua he tapa atu ana \\textbf{ai} koe he h\u016brio {\\\ua78c}o ta{\\\ua78c}e he h\u016brio.",
         "srcwordsbare": [
             "{\\\ua78c}Ina",
@@ -8306,6 +8328,7 @@
             "person"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "\u00a1E u{\\\ua78c}i he ra{\\\ua78c}e ana \\textbf{ai} {\\ob}e ha\u014ba r\u014d te ta\u014bata\\,{\\cb}!",
         "srcwordsbare": [
             "\u00a1E",
@@ -8774,6 +8797,7 @@
             "ntr",
             "pred"
         ],
+        "coordination": "and",
         "filename": "124/09nonverbalclauses.tex",
         "imt": "\\textsc{ntr} enter hither \\textsc{art} wave \\textsc{ntr} take \\textsc{acc} \\textsc{dem} child \\textsc{dist} \\textsc{pred} fish \\textsc{dem} child \\textsc{dist}",
         "imtwordsbare": [

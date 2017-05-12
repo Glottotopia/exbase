@@ -92,6 +92,7 @@
             "gen",
             "nom"
         ],
+        "coordination": "or",
         "filename": "82/09VerbalCategories.tex",
         "imt": "then \\textsc{1sg.gen} father die-\\textsc{3sg} either \\textsc{2sg.nom} kill-\\textsc{2sg}  or \\textsc{3sg.dist.nom} \\textsc{ampl} die-\\textsc{3sg}",
         "imtwordsbare": [
@@ -188,6 +189,7 @@
             "pl",
             "prox"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "\\textsc{1sg.nom} \\textsc{prox} wood-\\textsc{pl} take-\\textsc{1sg} house-\\textsc{obl} take-\\textsc{cv} wife fire light-\\textsc{cv} \\textsc{3pl.acc} to bread do-\\textsc{3sg}",
         "imtwordsbare": [
@@ -1147,6 +1149,7 @@
             "pl",
             "sub"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "Dir.\\textsc{gen} people-\\textsc{obl.pl} invitation give.\\textsc{pfv-f}  Ashreti-\\textsc{obl.pl} to \\textsc{comp} competition do-\\textsc{1pl}  say.\\textsc{pfv\"=msg} \\textsc{sub} Ashret-\\textsc{gen} strong.man-\\textsc{pl} go.\\textsc{pfv.pl}  strong.man-\\textsc{pl} go.\\textsc{cv} Dir arrive.\\textsc{pfv\"=mpl}",
         "imtwordsbare": [
@@ -1283,6 +1286,7 @@
             "prs\"=msg",
             "pst"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "\\textsc{1sg.gen} father\\textsc{[msg]} also come.down.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg} greeting do-\\textsc{3sg} \\textsc{pst}",
         "imtwordsbare": [
@@ -1464,6 +1468,7 @@
             "pfv\"=msg",
             "prs\"=msg"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "\\textsc{3sg.nom} run-\\textsc{cv} tree-\\textsc{obl} up go.up.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg}",
         "imtwordsbare": [
@@ -1789,6 +1794,7 @@
             "say.\\textsc{pfv\"=msg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "ma na \\textbf{niwe\u0161-\u00ed} \\textbf{hin-u} than\u00edit-u",
         "srcwordsbare": [
             "ma",
@@ -2694,6 +2700,7 @@
             "imp",
             "pl"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "door open-\\textsc{imp.pl} \\textsc{hon}",
         "imtwordsbare": [
@@ -3406,6 +3413,7 @@
             "prs",
             "prs\"=msg"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "\\textsc{1pl.gen} Ashret-\\textsc{obl} much-\\textsc{pl} snow give.\\textsc{pfv\"=msg} be.\\textsc{prs\"=msg} \\textsc{hsay} glacier-\\textsc{pl} also come.down.\\textsc{pfv\"=fpl} be.\\textsc{prs-f}",
         "imtwordsbare": [
@@ -3846,6 +3854,7 @@
             "pptc\"=msg=adj\"=msg",
             "prs\"=msg"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "back period.\\textsc{gen} elder-\\textsc{pl} old-\\textsc{pl} big-\\textsc{pl}  people-\\textsc{pl.obl} from hear.\\textsc{pptc\"=msg=adj\"=msg} \\textsc{idef} story such-\\textsc{msg} be.\\textsc{prs\"=msg} \\textsc{comp}",
         "imtwordsbare": [
@@ -4134,6 +4143,7 @@
             "dist",
             "pl"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "amulet-\\textsc{pl} do-\\textsc{ag\"=msg} \\textsc{dist} djinn.\\textsc{pl} take-\\textsc{cv} lead.out-\\textsc{ag\"=msg}",
         "imtwordsbare": [
@@ -4238,6 +4248,7 @@
             "fsg",
             "pfv"
         ],
+        "coordination": "and",
         "filename": "82/09VerbalCategories.tex",
         "imt": "\\textsc{def} mother wake.up.\\textsc{cv} search-\\textsc{cprd} go.\\textsc{pfv.fsg}",
         "imtwordsbare": [
@@ -4379,6 +4390,7 @@
             "win-\\textsc{inf}=be.able.to.\\textsc{pfv\"=msg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "d\u00fai ta \u0261a\u1e6d\u00edl-u \u00e1ak \u1e0daaku\"=waan-\u00f3om\"=ii qila\u00e1 t\u00edi na \\textbf{\u0261a\u1e6d-aa}=bh\u00f3ol-u",
         "srcwordsbare": [
             "d\u00fai",

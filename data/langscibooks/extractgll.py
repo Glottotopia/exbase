@@ -24,7 +24,8 @@ TEXREPLACEMENTS = [
   (r'\textdelta','δ'),
   (r'\textepsilon','ε'),
   (r'\textphi','φ'),
-  (r'\textupsilon','υ')
+  (r'\textupsilon','υ'),
+  (r'\newline',' ')
 ]
 
 class gll():
@@ -46,6 +47,7 @@ class gll():
     self.imtwordshtml = [self.tex2html(w) for w in self.imtwordstex]
     self.srcwordsbare = [self.striptex(w) for w in self.srcwordstex]
     self.imtwordsbare = [self.striptex(w,sc2upper=True) for w in self.imtwordstex]
+    self.analyze()
     
   def tex2html(self,s):
       result = re.sub(TEXTEXT,'<span class="\\1">\\2</span>',s)
@@ -79,9 +81,22 @@ class gll():
   def __str__(self):
     return "%s\n%s\n%s\n" % (self.srcwordshtml,self.imtwordshtml,self.trs)
   
-class example()  :
-  def __init__(self,s):
-    pass
+  def analyze(self):
+    if ' and ' in self.trs:
+      self.coordination = 'and'
+    if ' or ' in self.trs:
+      self.coordination = 'or'
+    if ' yesterday ' in self.trs.lower():
+      self.time = 'past'
+    if ' tomorrow ' in self.trs.lower():
+      self.time = 'future'
+    if ' now ' in self.trs.lower():
+      self.time = 'present'
+    if ' want' in self.trs.lower():
+      self.modality = 'volitive'
+    if ' not ' in self.trs.lower():
+      self.polarity= 'negative'
+  
   
   
 

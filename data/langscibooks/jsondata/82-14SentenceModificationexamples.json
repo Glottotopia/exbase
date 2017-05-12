@@ -321,6 +321,7 @@
             "nom",
             "pfv\"=msg"
         ],
+        "coordination": "or",
         "filename": "82/14SentenceModification.tex",
         "imt": "\\textsc{2sg.nom} to arrive.\\textsc{pfv\"=msg} or \\textsc{neg}",
         "imtwordsbare": [
@@ -376,6 +377,7 @@
             "pfv\"=msg",
             "rem"
         ],
+        "coordination": "or",
         "filename": "82/14SentenceModification.tex",
         "imt": "\\textsc{rem.nom} gift arrive.\\textsc{pfv\"=msg} or \\textsc{neg}  arrive.\\textsc{pfv\"=msg}",
         "imtwordsbare": [
@@ -435,6 +437,7 @@
             "neg",
             "pfv\"=msg"
         ],
+        "coordination": "or",
         "filename": "82/14SentenceModification.tex",
         "imt": "understand.\\textsc{pfv\"=msg} or \\textsc{neg}",
         "imtwordsbare": [
@@ -1235,6 +1238,7 @@
             "gen",
             "msg"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "Rota what.kind-\\textsc{msg} man what.kind colour-\\textsc{gen} man",
         "imtwordsbare": [
@@ -1344,6 +1348,7 @@
             "pfv\"=msg",
             "prs\"=msg"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "king \\textsc{def.nom.msg} man call.for-\\textsc{cv} ask.\\textsc{pfv\"=msg} \\textsc{comp} \\textsc{2sg.nom} \\textsc{1sg.gen} kingdom which-\\textsc{f} place take-\\textsc{prs\"=msg}",
         "imtwordsbare": [
@@ -1389,6 +1394,7 @@
             "take-\\textsc{prs\"=msg}"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
         "src": "baa\u010da\u00e1 so m\u00edi\u0161 bula\u1e0d-\u00ed khoo\u01f0\u00f3ol-u ki tu m\u00edi baa\u010da\u00ed \\textbf{khay-\u00ed} \\textbf{zha\u00e1y} \u0261hin-\u00e1an-u",
         "srcwordsbare": [
             "baa\u010da\u00e1",
@@ -1736,6 +1742,7 @@
             "\\textbf{kan\u00e1a}",
             "\\textbf{bh-\u00faum}"
         ],
+        "time": "present",
         "trs": "What will now happen to me? [lit: Like what will I become now?]'\\newline (A:MAA017)"
     },
     {
@@ -2779,6 +2786,7 @@
             "abandon-\\textsc{1pl}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "be musibat-\u00edi waxt-\u00edi akaad\u00fai \\textbf{na} u\u1e5bi\u0261al-\u00edia",
         "srcwordsbare": [
             "be",
@@ -2845,6 +2853,8 @@
             "\\textsc{pst}"
         ],
         "language": "Rapa Nui",
+        "modality": "volitive",
+        "polarity": "negative",
         "src": "mu\u1e63\u1e6d\u00fak-a x\u00e1lak-a dhii-\u00e1 d\u00edi \\textbf{na} khoo\u01f0-\u00f3on de",
         "srcwordsbare": [
             "mu\u1e63\u1e6d\u00fak-a",
@@ -2909,6 +2919,7 @@
             "be.\\textsc{prs\"=msg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "as\u00edm tu \\textbf{na} bula\u1e0d\u00edl-u h\u00edn-u",
         "srcwordsbare": [
             "as\u00edm",
@@ -2964,6 +2975,7 @@
             "be.hit.\\textsc{pfv\"=msg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "thup\u00edik\"=am \u01f0en\u00edi-e kar\u00e1a\u1e5bu \\textbf{na} kha\u1e47i\u01f0\u00edl-u",
         "srcwordsbare": [
             "thup\u00edik\"=am",
@@ -3089,6 +3101,7 @@
             "\\textsc{neg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "an\u00fa m\u00edi bhar\u00ediw \\textbf{na}",
         "srcwordsbare": [
             "an\u00fa",
@@ -3129,6 +3142,7 @@
             "\\textsc{neg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\u0161uy \\textbf{na}",
         "srcwordsbare": [
             "\u0161uy",
@@ -3194,6 +3208,7 @@
             "be.able.to.\\textsc{pfv\"=msg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "d\u00fai ta \u0261a\u1e6d\u00edl-u \u00e1ak \u1e0daaku\"=aan-\u00f3om\"=ii qila\u00e1 t\u00edi \\textbf{na} \u0261a\u1e6d\u00e1a bh\u00f3ol-u",
         "srcwordsbare": [
             "d\u00fai",
@@ -3356,6 +3371,7 @@
             "neg",
             "top"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "leopard \\textsc{1pl.gen} word \\textsc{neg} \\textsc{host} do-\\textsc{3sg} \\textsc{1pl.acc} catch-\\textsc{cv}  \\textsc{top} eat-\\textsc{3sg}",
         "imtwordsbare": [
@@ -3395,6 +3411,7 @@
             "eat-\\textsc{3sg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "kar\u00e1a\u1e5bu as\u00e9e ba\u00e1t \\textbf{na} ka\u1e47 th-\u00edi asa\u00e1m \u0261ha\u0161-\u00ed ba kh-\u00fau",
         "srcwordsbare": [
             "kar\u00e1a\u1e5bu",
@@ -3489,6 +3506,7 @@
             "\\textsc{pst}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "xu ees\u00e9 waxt-\u00edi pee\u0263amb\u00e1r hazr\u00e1t iliaa\u0301s aleehisalaam-\u00edi beet-\u00ed k\u00e1a\u1e47 \\textbf{na} th-\u00edi de",
         "srcwordsbare": [
             "xu",
@@ -3546,6 +3564,7 @@
             "prs\"=msg",
             "sub"
         ],
+        "coordination": "or",
         "filename": "82/14SentenceModification.tex",
         "imt": "mother stand.up-\\textsc{cv} conscious become.\\textsc{cv} look-\\textsc{3sg}  \\textsc{sub} child \\textsc{neg.}be.\\textsc{prs\"=msg} appearance \\textsc{neg.}be.\\textsc{prs-f}  here give.\\textsc{pfv-f} there give.\\textsc{pfv-f}",
         "imtwordsbare": [
@@ -3597,6 +3616,7 @@
             "give.\\textsc{pfv-f}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "y\u00e9ei uth-\u00ed an\u0261a\u00e1 bhe dac\u0323h-\u00edi ta ku\u1e47a\u00e1k \\textbf{n\u00e1in-u} dar\u00e1k \\textbf{n\u00e1in-i} \u00ednda d\u00edt-i ee\u1e5b\u00e1a d\u00edt-i",
         "srcwordsbare": [
             "y\u00e9ei",
@@ -4034,6 +4054,7 @@
             "go.\\textsc{pfv.msg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\u0261\u00faum t\u00e1a the r\u00f3ot-a \\textbf{dees-\u00e1} \\textbf{na} r\u00f3ot-a  \u0261\u00faum",
         "srcwordsbare": [
             "\u0261\u00faum",
@@ -4121,6 +4142,7 @@
             "\\textsc{neg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\u1e0daaku\"=aan-\u00f3om\"=ii qila\u00e1 \u01f0hul\u00ed ta\u0301ndar d\u00edt-u, xu \u00e9e iskand\u00e1r \\textbf{th\u00edi} \\textbf{d\u00fa\u0161ii} \\textbf{ba} \\textbf{na}",
         "srcwordsbare": [
             "\u1e0daaku\"=aan-\u00f3om\"=ii",
@@ -4178,6 +4200,7 @@
             "prs\"=msg",
             "rem"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "\\textsc{3sg.rem.acc} churn.\\textsc{pfv\"=msg} \\textsc{condh} \\textsc{3sg.gen} also ghee  become-\\textsc{prs\"=msg} but \\textsc{neg} often sip-\\textsc{prs\"=mpl}",
         "imtwordsbare": [
@@ -4220,6 +4243,7 @@
             "sip-\\textsc{prs\"=mpl}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "eet\u00e1s mat\u00edl-u seenta\u0301 tas\u00edi bi \u0261hi\u00ed\u1e5b  bh-\u00e1an-u \\textbf{xu} \\textbf{na} \\textbf{aks\u00e1r} dhruus-\u00e1an-a",
         "srcwordsbare": [
             "eet\u00e1s",
@@ -4354,6 +4378,7 @@
             "let-\\textsc{prs\"=msg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "uc\u0323h\u00ed ba se \u010d\u00fati-m-e zar\u00edia baa\u0301ndi  so ba\u1e6d hu\u0301\u1e47\u1e6draak c\u0323hu\u0261al-\u00e1an-u  \\textbf{se} \\textbf{k\u00fauk-a} \\textbf{se} \\textbf{mu\u1e6d-\u00e1} \\textbf{bhe\u0161-an\u00edi} \\textbf{the} na u\u1e5b-\u00e1an-u \\textbf{mha\u00e1s} \\textbf{khain\u00edi} \\textbf{the} na u\u1e5b-\u00e1an-u",
         "srcwordsbare": [
             "uc\u0323h\u00ed",
@@ -4502,6 +4527,7 @@
             "give.\\textsc{pfv-f}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "q\u00e1buree fari\u0161te\u00e9m \\textbf{dunia-\u00ed} \\textbf{w\u00e9e} \\textbf{xuda\u00e1-ii} \\textbf{h\u00fakum} \\textbf{na} \\textbf{man\"=ain\u00edi} \\textbf{w\u00e1\u01f0a} \\textbf{\u01f0hul\u00ed} tas b\u00edi\u1e0d-u zia\u00e1t  \u0261oor-\u00edi aza\u00e1b d\u00edt-i",
         "srcwordsbare": [
             "q\u00e1buree",
@@ -4597,6 +4623,7 @@
             "become.\\textsc{pfv-f}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "\u010dh\u00e9eli \\textbf{na} \\textbf{\u010dit\"=an\u00edi} \\textbf{\u01f0hul\u00ed} \u0261hrast-\u00edi i\u1e63k\u00e1ar bh\u00edl-i",
         "srcwordsbare": [
             "\u010dh\u00e9eli",
@@ -4754,6 +4781,7 @@
             "\\textsc{neg}.be.\\textsc{prs\"=mpl}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "ma d\u00edi paise\u00e9 n\u00e1hin-a",
         "srcwordsbare": [
             "ma",
@@ -4877,6 +4905,7 @@
             "take.away-\\textsc{oblg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "an\u00fa pho\u00f3 axsa\u00e1 nis \u0261hoo\u1e63\u1e6d-\u00e1 the na har\"=ee\u1e47\u1e0de\u00e9u",
         "srcwordsbare": [
             "an\u00fa",
@@ -4935,6 +4964,7 @@
             "come-\\textsc{oblg}"
         ],
         "language": "Rapa Nui",
+        "polarity": "negative",
         "src": "so na yh-ee\u1e47\u1e0de\u00e9u",
         "srcwordsbare": [
             "so",
@@ -5319,6 +5349,7 @@
             "q",
             "top"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "\\textsc{2pl.nom} ruler-\\textsc{gen} all son-\\textsc{pl} kill-\\textsc{imp.pl-q} \\textsc{3sg.acc} also kill-\\textsc{cv} woman.\\textsc{pl} \\textsc{top} take-\\textsc{cv} bring.up-\\textsc{imp.pl=q}  house-\\textsc{pl.obl} \\textsc{top} fire put.on-\\textsc{imp.pl=q}",
         "imtwordsbare": [
@@ -5439,6 +5470,7 @@
             "gen",
             "top"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "\\textsc{1sg.gen} name Akhund.Seyd \\textsc{1sg.gen} father.\\textsc{gen} name \\textsc{top} Gul.Seyd \\textsc{1sg.gen} grandfather.\\textsc{gen} name \\textsc{top} Ghulam.Seyd.Malak Ghulam.Seyd.Malak-\\textsc{gen} father.\\textsc{gen} name \\textsc{top} Sahib.Jee",
         "imtwordsbare": [
@@ -5574,6 +5606,7 @@
             "refl",
             "top"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "carpenter \\textsc{refl} do.\\textsc{cv} main.beam put.in-\\textsc{3sg} on.top main.beam-\\textsc{obl} on \\textsc{top} cross.beam put.in-\\textsc{3sg} cross.beam-\\textsc{obl} on \\textsc{top} plank-\\textsc{pl} put.in-\\textsc{3sg}",
         "imtwordsbare": [
@@ -6012,6 +6045,7 @@
             "top",
             "vn"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "see-\\textsc{vn} custom \\textsc{top} \\textsc{dist.nom} \\textsc{comp} boy-\\textsc{gen} house-\\textsc{gen} direction \\textsc{3sg.gen} relative-\\textsc{pl} woman.\\textsc{pl}  man-\\textsc{pl} \\textsc{refl} \\textsc{def} daughter\"=in\"=law see-\\textsc{vn} to go-\\textsc{prs\"=mpl}",
         "imtwordsbare": [
@@ -6231,6 +6265,7 @@
             "refl",
             "top"
         ],
+        "coordination": "and",
         "filename": "82/14SentenceModification.tex",
         "imt": "\\textsc{idef} woman grass in \\textsc{refl} several-\\textsc{f} daughter-\\textsc{pl} \\textsc{3sg.gen} stay.\\textsc{pfv\"=fpl} \\textsc{pst} \\textsc{idef} single-\\textsc{msg} \\textsc{top} son be.\\textsc{pst}",
         "imtwordsbare": [

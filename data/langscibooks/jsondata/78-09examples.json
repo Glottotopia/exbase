@@ -24,7 +24,7 @@
             "plate",
             "be.special"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "[\\bluebold{de}  \\bluebold{punya}  \\bluebold{piring}]  [kusus]",
         "srcwordsbare": [
             "[\\bluebold{de}",
@@ -71,7 +71,7 @@
             "ySb",
             "\\textsc{rdp}{\\Tilde}husband"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{mama}  \\textitbf{punya} \\textitbf{ade} \\textitbf{laki{\\Tilde}laki}",
         "srcwordsbare": [
             "mama",
@@ -114,7 +114,7 @@
             "\\textsc{poss}",
             "eye"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{bapa} \\textitbf{pu}  \\textitbf{mata}",
         "srcwordsbare": [
             "bapa",
@@ -157,7 +157,7 @@
             "\\textsc{poss}",
             "\\textsc{d.prox}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{de}  \\textitbf{punya}  \\textitbf{ini}",
         "srcwordsbare": [
             "de",
@@ -195,7 +195,7 @@
             "\\textupsc{poss}",
             "\\textupsc{d.dist}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{ade}  \\textitbf{pu}  \\textitbf{itu}",
         "srcwordsbare": [
             "ade",
@@ -233,7 +233,7 @@
             "\\textupsc{poss}",
             "power"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{setang}  \\textitbf{punya} \\textitbf{kwasa}",
         "srcwordsbare": [
             "setang",
@@ -271,7 +271,7 @@
             "\\textupsc{poss}",
             "black.magic"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{setang}  \\textitbf{pu} \\textitbf{pake-pake}",
         "srcwordsbare": [
             "setang",
@@ -316,7 +316,7 @@
             "container",
             "\\textsc{d.dist}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{LNG}  \\textitbf{pu}  \\textitbf{terpol} \\textitbf{itu}",
         "srcwordsbare": [
             "LNG",
@@ -361,7 +361,7 @@
             "\\textsc{poss}",
             "\\textsc{rdp}{\\Tilde}body.hair"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{de} \\textitbf{punya} \\textitbf{bulu{\\Tilde}bulu}",
         "srcwordsbare": [
             "de",
@@ -410,7 +410,7 @@
             "manner",
             "marry"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{orang} \\textitbf{Isirawa}  \\textitbf{punya,} \\textitbf{apa,} \\textitbf{cara} \\textitbf{kawing}",
         "srcwordsbare": [
             "orang",
@@ -465,7 +465,7 @@
             "child",
             "woman"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{mama} \\textitbf{Klara}  \\textitbf{pu} \\textitbf{ana} \\textitbf{prempuang}",
         "srcwordsbare": [
             "mama",
@@ -516,7 +516,7 @@
             "\\textsc{poss}",
             "product"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{kebung} \\textitbf{ini} \\textitbf{punya}  \\textitbf{hasil}",
         "srcwordsbare": [
             "kebung",
@@ -578,7 +578,7 @@
             "at",
             "\\textsc{l.med}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{torang} / \\bluebold{dorang} \\bluebold{pu} \\bluebold{ruma} ada di situ",
         "srcwordsbare": [
             "\\bluebold{torang}",
@@ -635,7 +635,7 @@
             "{\\textsc{poss}}",
             "{front}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{\\bluebold{ini}}  {\\bluebold{pu}}  {\\bluebold{muka}}",
         "srcwordsbare": [
             "{\\bluebold{ini}}",
@@ -670,7 +670,7 @@
             "{cry}",
             "{be.continuous}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{menangis}  {trus}",
         "srcwordsbare": [
             "{menangis}",
@@ -690,6 +690,7 @@
         "categories": [
             "poss"
         ],
+        "coordination": "and",
         "filename": "78/09.tex",
         "imt": "{oSb}  {woman}  \\textsc{poss}  {child}",
         "imtwordsbare": [
@@ -710,7 +711,8 @@
             "\\textsc{poss}",
             "{child}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "polarity": "negative",
         "src": "{\\bluebold{kaka}}  {\\bluebold{prempuang}}  \\bluebold{pu}  {\\bluebold{ana}}",
         "srcwordsbare": [
             "{\\bluebold{kaka}}",
@@ -766,7 +768,7 @@
             "cotton",
             "{right?}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{di}  {\\bluebold{dalam}}  {\\bluebold{itu}}  {kang}  {kaya}  kapas  {to?}",
         "srcwordsbare": [
             "\\bluebold{di}",
@@ -801,6 +803,7 @@
         "categories": [
             "1sg"
         ],
+        "coordination": "and",
         "filename": "78/09.tex",
         "imt": "{and.then}  {\\textsc{1sg}}  {return}  {}",
         "imtwordsbare": [
@@ -821,7 +824,7 @@
             "{return}",
             "{}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{baru}  {sa}  {kembali}  {\\ldots}",
         "srcwordsbare": [
             "{baru}",
@@ -871,7 +874,7 @@
             "{finish}",
             "{all}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{baru}  {dong}  {kasi}  {selesay}  {smua}",
         "srcwordsbare": [
             "{baru}",
@@ -902,6 +905,7 @@
             "3sg",
             "poss"
         ],
+        "coordination": "and",
         "filename": "78/09.tex",
         "imt": "\\textsc{3sg}  {\\textsc{poss}}  {night}  {\\textsc{3pl}}  {go}  to  {Jayapura}",
         "imtwordsbare": [
@@ -931,7 +935,7 @@
             "to",
             "{Jayapura}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{de}  {\\bluebold{pu}}  {\\bluebold{malam}}  {dong}  {pi}  ke  {Jayapura}",
         "srcwordsbare": [
             "\\bluebold{de}",
@@ -988,7 +992,7 @@
             "{\\textsc{poss}}",
             "{\\textsc{d.dist}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{lima}  \\bluebold{juta}  {\\bluebold{punya}}  {\\bluebold{tu}}",
         "srcwordsbare": [
             "\\bluebold{lima}",
@@ -1035,7 +1039,7 @@
             "\\textsc{poss}",
             "{be.listless}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{adu},  {sa}  \\bluebold{pu}  {\\bluebold{malas}}",
         "srcwordsbare": [
             "{adu},",
@@ -1085,7 +1089,7 @@
             "\\textsc{poss}",
             "be.pleasant"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "mama  de  \\bluebold{masak}  \\bluebold{punya}  \\bluebold{enak}",
         "srcwordsbare": [
             "mama",
@@ -1147,7 +1151,8 @@
             "{\\textsc{rel}}",
             "{happen}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "polarity": "negative",
         "src": "\\bluebold{sa}  {\\bluebold{pu}}  {\\bluebold{diri}}  {tapi}  {itu}  {yang}  {terjadi}",
         "srcwordsbare": [
             "\\bluebold{sa}",

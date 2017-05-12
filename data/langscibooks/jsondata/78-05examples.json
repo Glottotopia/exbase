@@ -15,7 +15,7 @@
             "sago",
             "many"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{sagu} \\textitbf{banyak}",
         "srcwordsbare": [
             "sagu",
@@ -49,7 +49,7 @@
             "Iskia",
             "\\textsc{3sg}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{Iskia} \\textitbf{de}",
         "srcwordsbare": [
             "Iskia",
@@ -84,7 +84,7 @@
             "\\ili{Sarmi}",
             "\\textsc{d.dist}."
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{Sarmi} \\textitbf{itu}",
         "srcwordsbare": [
             "Sarmi",
@@ -119,7 +119,7 @@
             "Paynete",
             "\\textsc{l.med}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{Paynete} \\textitbf{situ}",
         "srcwordsbare": [
             "Paynete",
@@ -151,7 +151,7 @@
             "Muay",
             "where?"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{Muay} \\textitbf{mana?}",
         "srcwordsbare": [
             "Muay",
@@ -183,7 +183,7 @@
             "Sope",
             "many"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{Sope} \\textitbf{banyak}",
         "srcwordsbare": [
             "Sope",
@@ -220,7 +220,7 @@
             "\\textsc{rel}",
             "stay"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{Wili} \\textitbf{yang} \\textitbf{tinggal}",
         "srcwordsbare": [
             "Wili",
@@ -258,7 +258,7 @@
             "bottom",
             "tree"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\textitbf{di}  \\textitbf{bawa}  \\textitbf{pohong}",
         "srcwordsbare": [
             "di",
@@ -308,7 +308,8 @@
             "at",
             "backside"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "polarity": "negative",
         "src": "{ana}  {prempuang}  {itu}  {duduk}  \\bluebold{di}  \\bluebold{blakang}",
         "srcwordsbare": [
             "{ana}",
@@ -374,7 +375,7 @@
             "{border}",
             "{\\textsc{l.med}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{Wamena}  {dorang,}  {pas}  {Wamena}  dong  {\\bluebold{di}}  {\\bluebold{pinggir}}  {\\bluebold{situ}}",
         "srcwordsbare": [
             "{Wamena}",
@@ -413,6 +414,7 @@
             "dist",
             "l"
         ],
+        "coordination": "and",
         "filename": "78/05.tex",
         "imt": "\\textsc{l.dist}  {next}  {to}  {Wamena}",
         "imtwordsbare": [
@@ -433,7 +435,7 @@
             "{to}",
             "{Wamena}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "sana  {trus}  {ke}  {Wamena}",
         "srcwordsbare": [
             "sana",
@@ -477,7 +479,7 @@
             "{right}",
             "{\\textsc{l.dist}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "ke  {\\bluebold{kanang}}  {\\bluebold{sana}}",
         "srcwordsbare": [
             "ke",
@@ -500,6 +502,7 @@
         "categories": [
             "2sg"
         ],
+        "coordination": "and",
         "filename": "78/05.tex",
         "imt": "{front}  again  \\textsc{2sg}  {turn}  {}  {left}",
         "imtwordsbare": [
@@ -526,7 +529,7 @@
             "{}",
             "{left}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{depang}  lagi  ko  {belok}  {\u00d8}  {\\bluebold{kiri}}",
         "srcwordsbare": [
             "{depang}",
@@ -584,7 +587,8 @@
             "{east}",
             "{\\textsc{neg}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "polarity": "negative",
         "src": "{ramas}  tapi  {kalo}  {\\bluebold{bagiang}}  {\\bluebold{timur}}  {tida}",
         "srcwordsbare": [
             "{ramas}",
@@ -652,7 +656,7 @@
             "month",
             "or"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "brapa   bulang  dorang skola        ka  mace,  \\bluebold{lima}  \\bluebold{bulang}  ka?",
         "srcwordsbare": [
             "brapa",
@@ -723,7 +727,7 @@
             "have.to",
             "attend"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{hari}  \\bluebold{sening}  \\bluebold{sore}  \\bluebold{itu}  smua  harus  hadir",
         "srcwordsbare": [
             "\\bluebold{hari}",
@@ -773,7 +777,7 @@
             "midday",
             "child"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "slamat  \\bluebold{siang}  ana",
         "srcwordsbare": [
             "slamat",
@@ -811,7 +815,7 @@
             "afternoon",
             "all"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "slamat  \\bluebold{sore}  smua",
         "srcwordsbare": [
             "slamat",
@@ -863,7 +867,7 @@
             "{until}",
             "{Wednesday}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "jadi  {tong}  {tinggal}  di  {ruma}  {sampe}  \\bluebold{rabu}",
         "srcwordsbare": [
             "jadi",
@@ -896,6 +900,7 @@
     },
     {
         "categories": [],
+        "coordination": "and",
         "filename": "78/05.tex",
         "imt": "night  {come}  {with}  {cry}",
         "imtwordsbare": [
@@ -916,7 +921,7 @@
             "{with}",
             "{cry}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "malam  {datang}  {deng}  {menangis}",
         "srcwordsbare": [
             "malam",
@@ -973,7 +978,7 @@
             "already",
             "go.to.school"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "yo,  \\bluebold{hari}  \\bluebold{ini}  suda  ko  su  skola",
         "srcwordsbare": [
             "yo,",
@@ -1028,7 +1033,7 @@
             "{similar.to}",
             "{boss}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{biking}  de  {sperti}  {bos}",
         "srcwordsbare": [
             "{biking}",
@@ -1075,7 +1080,7 @@
             "{thousand}",
             "{two}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "taung  {{\\ldots}}  dua  {ribu}  {dua}",
         "srcwordsbare": [
             "taung",
@@ -1133,7 +1138,7 @@
             "{two}",
             "{}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{dapat}  {\\bluebold{ikang}}  {\\bluebold{tiga}}  {\\bluebold{ekor}}  dong  {dua}  {{\\ldots}}",
         "srcwordsbare": [
             "{dapat}",
@@ -1195,7 +1200,7 @@
             "{tradition}",
             "{\\textsc{d.dist}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{spulu}  {\\bluebold{kaing}}  {\\bluebold{itu}}  {\\bluebold{kaing}}  {\\bluebold{adat}}  {\\bluebold{itu}}",
         "srcwordsbare": [
             "\\bluebold{spulu}",
@@ -1251,7 +1256,7 @@
             "from",
             "\\textsc{1sg}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "Nofita  de  \\bluebold{lari}  dari  saya",
         "srcwordsbare": [
             "Nofita",
@@ -1292,7 +1297,7 @@
             "spirit",
             "give"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{sifat} {kasi}",
         "srcwordsbare": [
             "{sifat}",
@@ -1324,7 +1329,7 @@
             "child",
             "lift"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{ana}  {angkat}",
         "srcwordsbare": [
             "{ana}",
@@ -1356,7 +1361,7 @@
             "craftsman",
             "drink"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{tukang}  {minum}",
         "srcwordsbare": [
             "{tukang}",
@@ -1388,7 +1393,7 @@
             "soap",
             "bathe"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{sabung}  {mandi}",
         "srcwordsbare": [
             "{sabung}",
@@ -1420,7 +1425,7 @@
             "craftsman",
             "walk"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{tukang}  {jalang}",
         "srcwordsbare": [
             "{tukang}",
@@ -1452,7 +1457,7 @@
             "person",
             "be.old"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{orang}  {tua}",
         "srcwordsbare": [
             "{orang}",
@@ -1493,7 +1498,7 @@
             "ask",
             "\\textsc{3pl}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "sa  \\bluebold{langsung}  \\bluebold{tanya}  dorang",
         "srcwordsbare": [
             "sa",
@@ -1536,7 +1541,7 @@
             "immediately",
             "go.home"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "sa  \\bluebold{langsung}  \\bluebold{pulang}",
         "srcwordsbare": [
             "sa",
@@ -1580,7 +1585,7 @@
             "\\textsc{3sg}",
             "again"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "sa  \\bluebold{tampeleng}  dia  \\bluebold{lagi}",
         "srcwordsbare": [
             "sa",
@@ -1606,6 +1611,7 @@
         "categories": [
             "3pl"
         ],
+        "coordination": "and",
         "filename": "78/05.tex",
         "imt": "very.soon  Lodia  \\textsc{3pl}  come  again",
         "imtwordsbare": [
@@ -1629,7 +1635,7 @@
             "come",
             "again"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "nanti  Lodia  dong  \\bluebold{datang}  \\bluebold{lagi}",
         "srcwordsbare": [
             "nanti",
@@ -1676,7 +1682,7 @@
             "{\\textsc{2sg}}",
             "{give}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "yang  {ko}  {kasi}",
         "srcwordsbare": [
             "yang",
@@ -1724,7 +1730,7 @@
             "most",
             "feel.afraid(.of)"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "tempat  itu  sa  \\bluebold{paling}  \\bluebold{takut}",
         "srcwordsbare": [
             "tempat",
@@ -1788,7 +1794,7 @@
             "for",
             "\\textsc{1sg}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "yo  kaka,  itu  yang  \\bluebold{lebi}  \\bluebold{baik}  untuk  saya",
         "srcwordsbare": [
             "yo",
@@ -1854,7 +1860,7 @@
             "\\textsc{poss}",
             "\\textsc{rdp}{\\Tilde}friend"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "Roni  \\bluebold{masi}  deng  de  pu  temang{\\Tilde}temang",
         "srcwordsbare": [
             "Roni",
@@ -1901,7 +1907,7 @@
             "{uncle}",
             "{pastor}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "sama  {bapa-ade}  {pendeta}",
         "srcwordsbare": [
             "sama",
@@ -1936,7 +1942,7 @@
             "{have.sexual.intercourse}",
             "{first}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{berhubungang}  {\\bluebold{dulu}}",
         "srcwordsbare": [
             "{berhubungang}",
@@ -1968,7 +1974,7 @@
             "{marry}",
             "{be.civil}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{nika}  {sipil}",
         "srcwordsbare": [
             "{nika}",
@@ -2011,7 +2017,8 @@
             "{head}",
             "{ceremony}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "modality": "volitive",
         "src": "kerja,  {sa}  {sebagey}  {kepala}  {acara}",
         "srcwordsbare": [
             "kerja,",
@@ -2069,7 +2076,7 @@
             "{start}",
             "{be.healed}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{baru} {kita} {pergi} {skola,} \\bluebold{suda} \\bluebold{mulay} {sembu}",
         "srcwordsbare": [
             "{baru}",
@@ -2127,7 +2134,7 @@
             "be.fast",
             "already"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "e,  kam  mandi  \\bluebold{cepat}  suda!",
         "srcwordsbare": [
             "e,",
@@ -2176,7 +2183,7 @@
             "run",
             "be.continuous"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "dong  dua  lari  \\bluebold{trus}",
         "srcwordsbare": [
             "dong",
@@ -2234,7 +2241,7 @@
             "\\textsc{neg}",
             "{draw}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{ana}  {\\bluebold{murit}}  {\\bluebold{satu}}  {\\bluebold{ni}}  {de}  tra  {gambar}",
         "srcwordsbare": [
             "\\bluebold{ana}",
@@ -2281,7 +2288,7 @@
             "{color}",
             "{be.white}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{warna}  {puti}",
         "srcwordsbare": [
             "{warna}",
@@ -2323,7 +2330,7 @@
             "at",
             "\\textsc{l.dist}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "sa  tinggal  di  \\bluebold{sana}",
         "srcwordsbare": [
             "sa",
@@ -2367,7 +2374,7 @@
             "side",
             "\\textsc{l.prox}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{ke} {sebla} {\\bluebold{sini}}",
         "srcwordsbare": [
             "{ke}",
@@ -2406,7 +2413,7 @@
             "\\textsc{3pl}",
             "\\textsc{l.prox}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{dong} {\\bluebold{sini}}",
         "srcwordsbare": [
             "{dong}",
@@ -2444,7 +2451,7 @@
             "office",
             "\\textsc{l.med}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{orang} {kantor} {\\bluebold{situ}}",
         "srcwordsbare": [
             "{orang}",
@@ -2470,6 +2477,7 @@
             "d",
             "dist"
         ],
+        "coordination": "and",
         "filename": "78/05.tex",
         "imt": "{\\textsc{d.dist}}  {child}  {\\textsc{d.dist}}  {\\textsc{3sg}}  {respect}  {\\textsc{1pl}}",
         "imtwordsbare": [
@@ -2496,7 +2504,7 @@
             "{respect}",
             "{\\textsc{1pl}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{itu}  {ana}  {itu,}  {de}  {hormat}  {torang}",
         "srcwordsbare": [
             "{itu}",
@@ -2549,7 +2557,7 @@
             "{bring}",
             "{\\textsc{3sg}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{kapang}  {kitong}  {antar}  {dia?}",
         "srcwordsbare": [
             "\\bluebold{kapang}",
@@ -2596,7 +2604,7 @@
             "speak",
             "just"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "bicara  \\bluebold{apa}  \\bluebold{saja},  bicara  saja",
         "srcwordsbare": [
             "bicara",
@@ -2661,7 +2669,7 @@
             "where",
             "just"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "di  \\bluebold{mana}  \\bluebold{saja}  bapa  bisa  tinggal,  di  \\bluebold{tempat}  \\bluebold{mana}  \\bluebold{saja}",
         "srcwordsbare": [
             "di",
@@ -2728,7 +2736,7 @@
             "be.able",
             "come"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{kapang}  \\bluebold{saja}  ko  bisa  datang",
         "srcwordsbare": [
             "\\bluebold{kapang}",
@@ -2787,7 +2795,7 @@
             "{number}",
             "three"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{ana}  {prempuang}  {yang}  {sa}  {bilang}  {\\bluebold{nomor}}  \\bluebold{tiga}",
         "srcwordsbare": [
             "{ana}",
@@ -2840,7 +2848,7 @@
             "{one}",
             "{descend}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{ada}  {\\bluebold{ojek}}  {\\bluebold{satu}}  {turung}",
         "srcwordsbare": [
             "{ada}",
@@ -2878,7 +2886,7 @@
             "many",
             "person"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{banyak} orang",
         "srcwordsbare": [
             "\\bluebold{banyak}",
@@ -2910,7 +2918,7 @@
             "tea",
             "many"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "te \\bluebold{banyak}",
         "srcwordsbare": [
             "te",
@@ -2942,7 +2950,7 @@
             "few",
             "person"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{sedikit} orang",
         "srcwordsbare": [
             "\\bluebold{sedikit}",
@@ -2974,7 +2982,7 @@
             "taro.root",
             "few"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "kladi \\bluebold{sedikit}",
         "srcwordsbare": [
             "kladi",
@@ -3006,7 +3014,7 @@
             "water",
             "few"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "air \\bluebold{sedikit}",
         "srcwordsbare": [
             "air",
@@ -3038,7 +3046,7 @@
             "all",
             "problem"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{smua} masala",
         "srcwordsbare": [
             "\\bluebold{smua}",
@@ -3070,7 +3078,7 @@
             "youth",
             "all"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "pemuda \\bluebold{smua}",
         "srcwordsbare": [
             "pemuda",
@@ -3102,7 +3110,7 @@
             "sugar",
             "all"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "gula \\bluebold{smua}",
         "srcwordsbare": [
             "gula",
@@ -3134,7 +3142,7 @@
             "several",
             "person"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{brapa} orang",
         "srcwordsbare": [
             "\\bluebold{brapa}",
@@ -3168,7 +3176,7 @@
             "\\textsc{3pl}",
             "several"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "dorang \\bluebold{brapa}",
         "srcwordsbare": [
             "dorang",
@@ -3200,7 +3208,7 @@
             "each",
             "truck"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{masing-masing} trek",
         "srcwordsbare": [
             "\\bluebold{masing-masing}",
@@ -3232,7 +3240,7 @@
             "truck",
             "each"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "trek \\bluebold{masing-masing}",
         "srcwordsbare": [
             "trek",
@@ -3264,7 +3272,7 @@
             "all",
             "variety"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{segala} macang",
         "srcwordsbare": [
             "\\bluebold{segala}",
@@ -3296,7 +3304,7 @@
             "any",
             "person"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{sembarang} orang",
         "srcwordsbare": [
             "\\bluebold{sembarang}",
@@ -3328,7 +3336,7 @@
             "every",
             "song"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{setiap} lagu",
         "srcwordsbare": [
             "\\bluebold{setiap}",
@@ -3360,7 +3368,7 @@
             "half",
             "hour"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{stenga} jam",
         "srcwordsbare": [
             "\\bluebold{stenga}",
@@ -3395,7 +3403,7 @@
             "{}",
             "{just}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{\\bluebold{brapa}}  \u00d8  {saja}",
         "srcwordsbare": [
             "{\\bluebold{brapa}}",
@@ -3455,7 +3463,7 @@
             "(sport.)net",
             "right?"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{mpfff},  Yonece  de  liat\\bluebold{{\\Tilde}}liat  sa  smes  di  net  to?",
         "srcwordsbare": [
             "\\bluebold{mpfff},",
@@ -3514,7 +3522,7 @@
             "{with}",
             "{plate}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{su}  {angkat}  {deng}  {piring}",
         "srcwordsbare": [
             "{su}",
@@ -3561,7 +3569,7 @@
             "{kerosene.lantern}",
             "{\\textsc{d.dist}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{lampu}  {itu}  {petromaks}  {itu}",
         "srcwordsbare": [
             "{lampu}",
@@ -3585,6 +3593,7 @@
     },
     {
         "categories": [],
+        "coordination": "and",
         "filename": "78/05.tex",
         "imt": "{grandfather}  {wheeze!}  {wheeze!}",
         "imtwordsbare": [
@@ -3602,7 +3611,7 @@
             "{wheeze!}",
             "{wheeze!}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{tete}  {\\bluebold{wruaw}}  {\\bluebold{wruaw}}",
         "srcwordsbare": [
             "{tete}",

@@ -31,7 +31,7 @@
             "{walk}",
             "{foot}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{sial\u2013ang}  {\\bluebold{ter\u2013paksa}}  {tong}  {dua}  {jalang}  {kaki}",
         "srcwordsbare": [
             "{sial\u2013ang}",
@@ -90,7 +90,7 @@
             "{walk}",
             "{already}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "de  {bilang,}  {kitong}  dua  {\\bluebold{jalang}}  {suda!}",
         "srcwordsbare": [
             "de",
@@ -131,7 +131,7 @@
         "imtwordstex": [
             "{betel.nut}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{pinang}",
         "srcwordsbare": [
             "{pinang}"
@@ -148,6 +148,7 @@
         "categories": [
             "1sg"
         ],
+        "coordination": "and",
         "filename": "78/03.tex",
         "imt": "and.then  {\\textsc{1sg}}  {go}",
         "imtwordsbare": [
@@ -165,7 +166,8 @@
             "{\\textsc{1sg}}",
             "{go}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "modality": "volitive",
         "src": "baru  {sa}  {pergi}",
         "srcwordsbare": [
             "baru",
@@ -202,7 +204,7 @@
             "thing",
             "{\\textsc{nmlz}\u2013be.true\u2013\\textsc{nmlz}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "hal  {ke\u2013benar\u2013ang}",
         "srcwordsbare": [
             "hal",
@@ -239,7 +241,7 @@
             "speak",
             "be.continuous"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "de  \\bluebold{bicara}  trus",
         "srcwordsbare": [
             "de",
@@ -277,7 +279,7 @@
             "{English}",
             "{first}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{bahasa}  {Inggris}  {dulu}",
         "srcwordsbare": [
             "{bahasa}",
@@ -301,6 +303,7 @@
             "neg",
             "rel"
         ],
+        "coordination": "and",
         "filename": "78/03.tex",
         "imt": "\\textsc{neg}  {}  {you.know}  {exist}  {sago}  {\\textsc{rel}}  {\\textsc{neg}}  exist  {thorn}",
         "imtwordsbare": [
@@ -336,7 +339,7 @@
             "exist",
             "{thorn}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "tida  {\\ldots}  {kang}  {ada}  {sagu}  {yang}  {tida}  \\bluebold{ada}  {\\bluebold{duri}}",
         "srcwordsbare": [
             "tida",
@@ -407,7 +410,7 @@
             "{\\textsc{vblz}\u2013language}",
             "Yali"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{kamu}  {ber\\bluebold{\u2013}syukur}  {karna}  {bisa}  {\\ldots}  {\\bluebold{ber}\\bluebold{\u2013}\\bluebold{bahasa}}  \\bluebold{Yali}",
         "srcwordsbare": [
             "{kamu}",

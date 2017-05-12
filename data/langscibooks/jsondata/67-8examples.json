@@ -40,7 +40,7 @@
             "1s.\\textsc{acc}",
             "say-\\textsc{Np}-\\textsc{pr}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Yo  owora=ko  me  aaw-e-m,  no  moram  efa ma-i-n?",
         "srcwordsbare": [
             "Yo",
@@ -105,7 +105,8 @@
             "1s.\\textsc{unm}",
             "dislike-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "modality": "volitive",
         "src": "Ni  uf-owa  ikiw-eka,  yo  miatin-i-yem.",
         "srcwordsbare": [
             "Ni",
@@ -169,7 +170,7 @@
             "what.like",
             "do-\\textsc{Np}-\\textsc{pr}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Ni  ifa  nia  keraw-i-ya  nain{\\cb}  sira  kamenap on-i-man?",
         "srcwordsbare": [
             "{\\ob}Ni",
@@ -242,7 +243,7 @@
             "that1",
             "arrive-\\textsc{distr/pl}-2p.\\textsc{imp}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ni  {\\ob}yapen  ...  wiar  in-em-ik-e-man  nain{\\cb} kerer-omak-eka!",
         "srcwordsbare": [
             "Ni",
@@ -307,7 +308,8 @@
             "not",
             "remove-2p.\\textsc{imp}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Ni  uf-ep-na{\\cb}  ni  maadara  me iirar-eka.",
         "srcwordsbare": [
             "{\\ob}Ni",
@@ -366,7 +368,7 @@
             "1s.\\textsc{unm}",
             "tell-\\textsc{Np}-\\textsc{pr}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "No  {\\ob}\\textstyleEmphasizedVernacularWords{kaaneke}  \\textstyleEmphasizedVernacularWords{ikiw-owa}{\\cb}  efa  maak-i-n?",
         "srcwordsbare": [
             "No",
@@ -398,6 +400,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "money  see-\\textsc{ss}.\\textsc{seq}  say-\\textsc{pa}-2s=\\textsc{qm}",
         "imtwordsbare": [
@@ -415,7 +418,7 @@
             "see-\\textsc{ss}.\\textsc{seq}",
             "say-\\textsc{pa}-2s=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Maamuma  uruf-ap{\\cb}  ma-i-n-i?",
         "srcwordsbare": [
             "{\\ob}Maamuma",
@@ -443,6 +446,7 @@
             "qm",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{unm}  guilt  do-1s/p.\\textsc{ds}=\\textsc{nf}  2s.\\textsc{acc}  see-\\textsc{pa}-2p=\\textsc{qm}",
         "imtwordsbare": [
@@ -466,7 +470,7 @@
             "2s.\\textsc{acc}",
             "see-\\textsc{pa}-2p=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo  pina  on-amkun=ko{\\cb}  efa  uruf-a-man=i?",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -520,7 +524,7 @@
             "village",
             "come-\\textsc{pa}-2p=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Sande  erup  weeser-eya{\\cb}  owowa  ekap-e-man=i?",
         "srcwordsbare": [
             "{\\ob}Sande",
@@ -553,6 +557,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "or",
         "filename": "67/8.tex",
         "imt": "later  come-\\textsc{ss}.\\textsc{seq}  habit  that1  leave-\\textsc{Np}-\\textsc{fu}.2s=\\textsc{qm}  or  no",
         "imtwordsbare": [
@@ -582,7 +587,7 @@
             "or",
             "no"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}...ikoka  ekap-ep{\\cb}  sira  nain  piipua-i-nan=i  e  weetak?",
         "srcwordsbare": [
             "{\\ob}...ikoka",
@@ -620,6 +625,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{unm}  thing  what  see-\\textsc{ss}.\\textsc{seq}  be.startled-\\textsc{ss}.\\textsc{seq}  shout-\\textsc{pa}-2s",
         "imtwordsbare": [
@@ -646,7 +652,7 @@
             "be.startled-\\textsc{ss}.\\textsc{seq}",
             "shout-\\textsc{pa}-2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{No}  \\textstyleEmphasizedVernacularWords{maa}  \\textstyleEmphasizedVernacularWords{mauwa}  \\textstyleEmphasizedVernacularWords{uruf-ap}{\\cb}  soran-ep  kirir-e-n?",
         "srcwordsbare": [
             "{\\ob}No",
@@ -681,6 +687,7 @@
             "ds",
             "pa"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "who.\\textsc{cf}  2p.\\textsc{acc}  tell-2/3s.\\textsc{ds}  come-\\textsc{pa}-2p",
         "imtwordsbare": [
@@ -701,7 +708,7 @@
             "tell-2/3s.\\textsc{ds}",
             "come-\\textsc{pa}-2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Naareke}  \\textstyleEmphasizedVernacularWords{nia}  \\textstyleEmphasizedVernacularWords{maak-eya}{\\cb}  ekap-e-man?",
         "srcwordsbare": [
             "{\\ob}Naareke",
@@ -732,6 +739,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{unm}  2s.\\textsc{gen}  food  abstain-\\textsc{ss}.\\textsc{seq}  son  that1 grow-\\textsc{caus}-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -761,7 +769,7 @@
             "that1",
             "grow-\\textsc{caus}-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{No}  \\textstyleEmphasizedVernacularWords{nena}  \\textstyleEmphasizedVernacularWords{maa}  \\textstyleEmphasizedVernacularWords{fariar-ep}{\\cb}  \\textstyleEmphasizedVernacularWords{muuka}  \\textstyleEmphasizedVernacularWords{nain} \\textstyleEmphasizedVernacularWords{arim-ow-e}.",
         "srcwordsbare": [
             "{\\ob}No",
@@ -823,7 +831,7 @@
             "man",
             "big=\\textsc{lim}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Wi  Yaapan  emeria  weetak,  mua  manek=iw.",
         "srcwordsbare": [
             "Wi",
@@ -882,7 +890,7 @@
             "1s/p.father",
             "lastborn=\\textsc{cf}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Kuuten  wiawi  iperowa,  yo  auwa  kapa=ke.",
         "srcwordsbare": [
             "Kuuten",
@@ -940,7 +948,7 @@
             "2p.\\textsc{unm}",
             "grass.skirt=\\textsc{cf}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  uruwa  miim-i-mik,  ni  sosora=ke.",
         "srcwordsbare": [
             "I",
@@ -1004,7 +1012,7 @@
             "become-\\textsc{pa}-1/3p",
             "\\textsc{rdp}-fly-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Na-emi  wi  afa  ar-omak-e-mik, osaiwa  ar-e-mik,  biri-birin-e-mik.",
         "srcwordsbare": [
             "Na-emi",
@@ -1076,7 +1084,7 @@
             "bamboo",
             "tie-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria  makera  miirifa  okaiwi  soo=pa  kaik-i-mik, okaiwi  pia  kaik-i-mik.",
         "srcwordsbare": [
             "Aria",
@@ -1123,6 +1131,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "house=\\textsc{loc}  1s.\\textsc{acc}  see-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds}  go-\\textsc{Np}-\\textsc{fu}.1s come-\\textsc{Np}-\\textsc{fu}.1s",
         "imtwordsbare": [
@@ -1146,7 +1155,7 @@
             "go-\\textsc{Np}-\\textsc{fu}.1s",
             "come-\\textsc{Np}-\\textsc{fu}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Koora=pa  efa  uruf-am-ik-eya  \\textstyleEmphasizedVernacularWords{ikiw}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{i}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{nen} \\textstyleEmphasizedVernacularWords{ekap}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{i}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{nen}.",
         "srcwordsbare": [
             "Koora=pa",
@@ -1208,7 +1217,7 @@
             "3p.\\textsc{acc}",
             "see-1d.\\textsc{imp}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Auwa  aite  wia  karu-i-yen,  owowa=pa wia  uruf-u.",
         "srcwordsbare": [
             "Auwa",
@@ -1280,7 +1289,8 @@
             "3p.\\textsc{acc}",
             "enough-\\textsc{inch}-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Waaya  maneka  marew  pun,  mua  unowa  me  wia pepek-er-a-k.",
         "srcwordsbare": [
             "Waaya",
@@ -1352,7 +1362,7 @@
             "spirit",
             "man=\\textsc{cf}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ni  iperuma  fain  me  enim-eka,  inasin(a)  mua=ke.",
         "srcwordsbare": [
             "Ni",
@@ -1392,6 +1402,7 @@
             "pa",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1p.\\textsc{unm}  man=\\textsc{nf}  not  3p.\\textsc{acc}  sense-\\textsc{pa}-1/3p  \\textsc{add}  1p.\\textsc{gen}  also fire=\\textsc{nf}  not  hold-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -1433,7 +1444,8 @@
             "not",
             "hold-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "I  mua=ko  me  wia  furew-a-mik,  \\textstyleEmphasizedVernacularWords{ne}  yiena  pun  mukuna=ko  me  op-a-mik.",
         "srcwordsbare": [
             "I",
@@ -1482,6 +1494,7 @@
             "add",
             "pa"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "man  burn-\\textsc{pa}-1/3p  that1  not  3p.\\textsc{acc}  see-\\textsc{pa}-1/3p  not 3p.\\textsc{acc}  sense-\\textsc{pa}-1/3p  \\textsc{add}  not  3p.\\textsc{acc}  find-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -1529,7 +1542,7 @@
             "3p.\\textsc{acc}",
             "find-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mua  kuum-e-mik  nain  me  wia  kuuf-a-mik,  me wia  furew-a-mik,  \\textstyleEmphasizedVernacularWords{ne}  me  wia  imen-a-mik.",
         "srcwordsbare": [
             "Mua",
@@ -1586,6 +1599,7 @@
             "pa",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "pot  spear  water  bamboo  house  front=\\textsc{loc} stand-\\textsc{caus}-go-\\textsc{pa}-1/3p  \\textsc{add}  3p.\\textsc{unm}  many  flee-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -1627,7 +1641,7 @@
             "many",
             "flee-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Amina,  wiowa,  eka  napia  koor(a)  miira=pa iimar-aw-ikiw-e-mik,  \\textstyleEmphasizedVernacularWords{ne}  wi  unowa  baurar-e-mik.",
         "srcwordsbare": [
             "Amina,",
@@ -1679,6 +1693,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "place  \\textsc{rdp}-dawn-be-\\textsc{pa}.3s  alright  3p.\\textsc{unm}  spirit=\\textsc{cf}  come-\\textsc{ss}.\\textsc{seq} boy  that1  bed  with  shoulder  take-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -1723,7 +1738,7 @@
             "shoulder",
             "take-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Epa  wii-wiim-ik-ua,  \\textstyleEmphasizedVernacularWords{aria}  wi  sawur=ke  ekap-ep  takira  nain  samapora  onaiya  akua  aaw-e-mik.",
         "srcwordsbare": [
             "Epa",
@@ -1822,7 +1837,8 @@
             "put-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1/3p",
             "perhaps"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Iiriw  muuka  oko  wiawi  onak  urera  maa uup-e-mik,  \\textstyleEmphasizedVernacularWords{aria}  maa  me  wu-om-a-mik  yon{\\dots}",
         "srcwordsbare": [
             "Iiriw",
@@ -1880,6 +1896,7 @@
             "pr",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{unm}  Malala  work-\\textsc{nmz}  2p.\\textsc{acc}  help-\\textsc{Np}-\\textsc{pr}.1s  alright 1s.\\textsc{gen}  village  Moro  village  3p.\\textsc{acc}  help-\\textsc{Np}-\\textsc{pr}.1s",
         "imtwordsbare": [
@@ -1924,7 +1941,7 @@
             "3p.\\textsc{acc}",
             "help-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Yo  Malala  mauw-owa  nia  asip-i-yem,  \\textstyleEmphasizedVernacularWords{aria} yena  owowa,  Moro  owowa  wia  asip-i-yem.",
         "srcwordsbare": [
             "Yo",
@@ -1978,6 +1995,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Eema  also  come-\\textsc{ss}.\\textsc{seq}  1p.\\textsc{acc}  tell-\\textsc{pa}-3s  alright  bald  3s.\\textsc{gen} also  come-\\textsc{ss}.\\textsc{seq}  1p.\\textsc{acc}  tell-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -2022,7 +2040,7 @@
             "1p.\\textsc{acc}",
             "tell-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Eema  pun  ekap-ep  yia  maak-e-k,  \\textstyleEmphasizedVernacularWords{aria}  buburia  ona pun  ekap-ep  yia  maak-e-k.",
         "srcwordsbare": [
             "Eema",
@@ -2076,6 +2094,7 @@
             "pa",
             "pr"
         ],
+        "coordination": "or",
         "filename": "67/8.tex",
         "imt": "that1=\\textsc{cf}  sickness-\\textsc{inch}-\\textsc{Np}-\\textsc{pr}.1/3p  or  die-\\textsc{Np}-\\textsc{pr}.1/3p  man  other sickness-\\textsc{inch}-\\textsc{pa}-3s  that1  foresee-\\textsc{pa}-2s",
         "imtwordsbare": [
@@ -2111,7 +2130,7 @@
             "that1",
             "foresee-\\textsc{pa}-2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Nain=ke  napum-ar-i-mik  \\textstyleEmphasizedVernacularWords{e}  um-i-mik,  mua  oko napum-ar-e-k  nain  erewar-e-n.",
         "srcwordsbare": [
             "Nain=ke",
@@ -2157,6 +2176,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "or",
         "filename": "67/8.tex",
         "imt": "later  come-\\textsc{ss}.\\textsc{seq}  here.\\textsc{cf}  habit  that1  leave-\\textsc{Np}-\\textsc{fu}.2s=\\textsc{qm} or  no",
         "imtwordsbare": [
@@ -2189,7 +2209,7 @@
             "or",
             "no"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ikoka  ekap-ep  feeke  sira  nain  piipua-i-nan=\\textstyleEmphasizedVernacularWords{i} \\textstyleEmphasizedVernacularWords{e}  weetak?",
         "srcwordsbare": [
             "Ikoka",
@@ -2234,6 +2254,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "or",
         "filename": "67/8.tex",
         "imt": "man  other  face  dream=\\textsc{loc}  see-\\textsc{ss}.\\textsc{seq}  say-\\textsc{Np}-\\textsc{pr}.1/3p man  other=\\textsc{cf} sickness  get-\\textsc{pa}-3s=\\textsc{qm}  or  die-\\textsc{pa}-3s=\\textsc{qm}",
         "imtwordsbare": [
@@ -2278,7 +2299,7 @@
             "or",
             "die-\\textsc{pa}-3s=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mua  oko  miira  inawera=pa  uruf-ap  ma-i-mik, mua  oko=ke  napuma  aaw-o-k=\\textstyleEmphasizedVernacularWords{i}  \\textstyleEmphasizedVernacularWords{e}  um-o-k=\\textstyleEmphasizedVernacularWords{i}?",
         "srcwordsbare": [
             "Mua",
@@ -2367,7 +2388,7 @@
             "Yoli",
             "no"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Iir  nain  Kedem  manek  akena  keker  op-a-k \\textstyleEmphasizedVernacularWords{ne}  Yoli  weetak.",
         "srcwordsbare": [
             "Iir",
@@ -2448,7 +2469,8 @@
             "not",
             "give.3s-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Panewowa  nain,  wi  iiriw  eno-wa  en-e-mik,  \\textstyleEmphasizedVernacularWords{nain}  me onak-e-mik.",
         "srcwordsbare": [
             "Panewowa",
@@ -2532,7 +2554,7 @@
             "not",
             "flee-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Yo  bom  koor  miira=pa  efar  or-om-ik-ua. \\textstyleEmphasizedVernacularWords{Nain}  yo  me  baurar-em-ik-e-m.",
         "srcwordsbare": [
             "Yo",
@@ -2619,7 +2641,7 @@
             "not",
             "eat-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mera  eka  enim-i-mik,  \\textstyleEmphasizedVernacularWords{nain}  i  mangala me  enim-i-mik,  waaya  me  enim-i-mik.",
         "srcwordsbare": [
             "Mera",
@@ -2700,7 +2722,8 @@
             "not",
             "hold-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "I  nan  soomar-e-mik,  \\textstyleEmphasizedVernacularWords{nain}  i  mukuna=ko  me op-a-mik.",
         "srcwordsbare": [
             "I",
@@ -2772,7 +2795,7 @@
             "not",
             "hold-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  nan  soomar-e-mik \\textstyleEmphasizedVernacularWords{nain},  i  mukuna=ko  me op-a-mik.",
         "srcwordsbare": [
             "I",
@@ -2816,6 +2839,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s/p.friend  2s.\\textsc{cf}=\\textsc{cf}  1s.\\textsc{unm}  1s.\\textsc{acc}  pity-\\textsc{ss}.\\textsc{seq}  iguana  this kill-\\textsc{pa}-2s  therefore  iguana  this  roast-\\textsc{ss}.\\textsc{seq}  eat-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -2863,7 +2887,7 @@
             "roast-\\textsc{ss}.\\textsc{seq}",
             "eat-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Emar,  nos=ke  yo  efa  kemal-ep  iripuma  fain ifakim-o-n,  \\textstyleEmphasizedVernacularWords{naapeya}  iripuma  fain  ik-ep  enim-e.",
         "srcwordsbare": [
             "Emar,",
@@ -2958,7 +2982,8 @@
             "too.much",
             "sense-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Koora  fuluwa  unowa  marew,  \\textstyleEmphasizedVernacularWords{naapeya}  in-i-mik  nain dabela  me  senam  furew-i-mik.",
         "srcwordsbare": [
             "Koora",
@@ -3042,7 +3067,7 @@
             "not",
             "go-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Pita  weke  wiar  um-o-k,  \\textstyleEmphasizedVernacularWords{naapeya}  o  suule me  iw-a-k.",
         "srcwordsbare": [
             "Pita",
@@ -3088,6 +3113,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "...wall  support  not  be.strong-\\textsc{caus}-\\textsc{pa}-3s  therefore  night wind  big=\\textsc{cf}  appear-\\textsc{ss}-\\textsc{sim}  house  that1  3.\\textsc{dat} tear-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -3135,7 +3161,8 @@
             "3.\\textsc{dat}",
             "tear-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\dots}pika  oona  me  kekan-ow-a-k,  \\textstyleEmphasizedVernacularWords{naeya}  uura ewar  maneka=ke  kerer-emi  koora  nain  wiar teek-a-k.",
         "srcwordsbare": [
             "{\\dots}pika",
@@ -3241,7 +3268,7 @@
             "talk=\\textsc{loc}",
             "be-\\textsc{Np}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "No  nena  pun  pina  sira  naap  nain  on-i-n, \\textstyleEmphasizedVernacularWords{naeya}  nos  pun  opora=pa  ika-i-nan.",
         "srcwordsbare": [
             "No",
@@ -3299,6 +3326,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "place  there  walk-\\textsc{ss}.\\textsc{sim}-be-\\textsc{ss} descend-\\textsc{pa}-1/3p \\textsc{add}  therefore  guilt  3p.\\textsc{unm} 3.\\textsc{acc} stick-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -3337,7 +3365,7 @@
             "3.\\textsc{acc}",
             "stick-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Epa  nan  soomar-em-ik-ok  or-o-mik, \\textstyleEmphasizedVernacularWords{ne}  \\textstyleEmphasizedVernacularWords{naapeya}  pina  wi  wiar  korin-e-k.",
         "srcwordsbare": [
             "Epa",
@@ -3423,7 +3451,8 @@
             "3.\\textsc{dat}",
             "follow-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "\\textstyleEmphasizedVernacularWords{Aria}  \\textstyleEmphasizedVernacularWords{naapeya}  wi  inasina  ook-i-mik sira  nain  me  wiar  ook-eka.",
         "srcwordsbare": [
             "Aria",
@@ -3506,7 +3535,8 @@
             "turn-\\textsc{nmz}",
             "dislike-\\textsc{Np}-\\textsc{pr}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "No  mua  woos  reen-owa=ke,  \\textstyleEmphasizedVernacularWords{naeya}  no  kema  kir-owa miatin-i-n.",
         "srcwordsbare": [
             "No",
@@ -3599,7 +3629,7 @@
             "2p.\\textsc{acc}",
             "say-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ni  sira-sira  naap  on-i-man.  \\textstyleEmphasizedVernacularWords{Naeya}  opora  iiriw ma-e-k  nain  pepek  akena  nia  ma-e-k.",
         "srcwordsbare": [
             "Ni",
@@ -3694,7 +3724,7 @@
             "K10",
             "put-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Teeria  fain  K10  wu-a-mik.  \\textstyleEmphasizedVernacularWords{Neemi}  wi  teeria  nain  pun K10  wu-a-mik.",
         "srcwordsbare": [
             "Teeria",
@@ -3782,7 +3812,7 @@
             "thus",
             "get-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Krais  sirir-owa  aaw-omak-e-k,  \\textstyleEmphasizedVernacularWords{neemi}  is  pun unowiya  naap  aaw-i-mik.",
         "srcwordsbare": [
             "Krais",
@@ -3851,7 +3881,7 @@
             "2s.\\textsc{unm}",
             "who.\\textsc{cf}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Naeya  nokar-e-mik, ``\\textstyleEmphasizedVernacularWords{Naap}  \\textstyleEmphasizedVernacularWords{nain}  no  naareke?''",
         "srcwordsbare": [
             "Naeya",
@@ -3885,6 +3915,7 @@
             "refl",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "3p.\\textsc{refl} three  enough  there  ascend-\\textsc{pa}-1/3p  that1 thus  that1  1s.\\textsc{unm} why/in.vain ascend-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -3926,7 +3957,7 @@
             "why/in.vain",
             "ascend-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Wiam  arow  pepek  nan  urup-e-mik  nain, \\textstyleEmphasizedVernacularWords{naap}  \\textstyleEmphasizedVernacularWords{nain}  yo  moram  urup-e-m.",
         "srcwordsbare": [
             "Wiam",
@@ -4004,7 +4035,7 @@
             "coconut",
             "plant-\\textsc{distr}/\\textsc{pl}-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Owowa  mamaiya  soora  weetak,  \\textstyleEmphasizedVernacularWords{moram}  iwera isak-omak-e-mik.",
         "srcwordsbare": [
             "Owowa",
@@ -4043,6 +4074,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Poh  San  see-\\textsc{ss}.\\textsc{seq} liver fall-\\textsc{pa}-1/3p  because 1p.\\textsc{unm} liver thus  push-\\textsc{pa}-1/3p sickness  not heal-\\textsc{nmz} be-\\textsc{pa}.3s",
         "imtwordsbare": [
@@ -4093,7 +4125,7 @@
             "heal-\\textsc{nmz}",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Poh  San  uruf-ap  kema  ten-e-mik,  \\textstyleEmphasizedVernacularWords{moram}  i  kema naap  suuw-a-mik,  napuma  me  sariar-owa  ik-ua.",
         "srcwordsbare": [
             "Poh",
@@ -4182,7 +4214,7 @@
             "\\textsc{rdp}-good",
             "sell-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "...maamuma  senam  aaw-e-mik.  \\textstyleEmphasizedVernacularWords{Moram}  \\textstyleEmphasizedVernacularWords{wia}, maa  ele-eliwa  sesek-a-mik.",
         "srcwordsbare": [
             "...maamuma",
@@ -4227,6 +4259,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "time  that1  1s.\\textsc{unm} village=\\textsc{loc}=\\textsc{nf} not  work-\\textsc{pa}-1s because  not  1s.\\textsc{unm} Ukarumpa  ascend-\\textsc{nmz}=\\textsc{cf} say-\\textsc{ss}.\\textsc{seq} work-\\textsc{nmz} dislike-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -4277,7 +4310,8 @@
             "work-\\textsc{nmz}",
             "dislike-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Iir  nain  yo  owowa=pa=ko  me  mauw-a-m, \\textstyleEmphasizedVernacularWords{moram}  \\textstyleEmphasizedVernacularWords{wia}  yo  Ukarumpa  urup-owa=ke  na-ep mauw-owa  miatin-e-m.",
         "srcwordsbare": [
             "Iir",
@@ -4378,7 +4412,7 @@
             "walk-\\textsc{nmz}",
             "lazy-\\textsc{inch}-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  epa  unowa=ko  me  soomar-e-mik,  \\textstyleEmphasizedVernacularWords{moram}  owowa maneka,  \\textstyleEmphasizedVernacularWords{naapeya}  soomar-owa  lebum(a)-ar-e-mik.",
         "srcwordsbare": [
             "I",
@@ -4493,7 +4527,8 @@
             "not",
             "give.them-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Mua  lebuma  emeria  me  wi-i-mik,  \\textstyleEmphasizedVernacularWords{moram}  emeria  muukar-eya  muuka  nain  maa  mauwa  enim-i-non, \\textstyleEmphasizedVernacularWords{naapeya}  mua  lebuma  emeria  me  wi-i-mik.",
         "srcwordsbare": [
             "Mua",
@@ -4607,7 +4642,7 @@
             "2p.\\textsc{acc}",
             "cheat-\\textsc{Np}-\\textsc{fu}.3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ni  maa  uru-uruf-ami  ik-eka,  \\textstyleEmphasizedVernacularWords{oko}  mua  oko=ke nia  peeskim-i-kuan.",
         "srcwordsbare": [
             "Ni",
@@ -4680,7 +4715,8 @@
             "custom",
             "cut-\\textsc{nps}-\\textsc{fu}.1p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Naap  on-owa  weetak, \\textstyleEmphasizedVernacularWords{oko}  yiena  sira  puuk-i-yen.",
         "srcwordsbare": [
             "Naap",
@@ -4720,6 +4756,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "...  3p.\\textsc{gen} eat-\\textsc{ss}.\\textsc{sim} plate  mud  spread-\\textsc{ss}.\\textsc{sim} \\textsc{add} village \\textsc{PBx}-ascend-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -4755,7 +4792,7 @@
             "village",
             "\\textsc{PBx}-ascend-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "...  wiena  en-emi,  epira  lolom  if-emi  \\textbf{ne}  owowa p-urup-em-ik-e-mik.",
         "srcwordsbare": [
             "...",
@@ -4804,6 +4841,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1p.\\textsc{unm} later 1p.\\textsc{gen}=\\textsc{lim} ascend-\\textsc{ss}.\\textsc{seq} 2p.\\textsc{acc} tell-1s/p.\\textsc{ds} descend-2/3p.\\textsc{ds} alright together here.\\textsc{cf} sit-\\textsc{ss}.\\textsc{seq} be-\\textsc{ss} water little  only  eat-\\textsc{ss}.\\textsc{seq} alright  2p.\\textsc{unm} walk-go-2p.\\textsc{imp}",
         "imtwordsbare": [
@@ -4869,7 +4907,7 @@
             "2p.\\textsc{unm}",
             "walk-go-2p.\\textsc{imp}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  ikoka  yien=iw  urup-ep  nia  maak-omkun ora-iwkin,  \\textstyleEmphasizedVernacularWords{aria}  owawiya  feeke  pok-ap  ik-ok  eka liiwa  muuta  en-ep  \\textstyleEmphasizedVernacularWords{aria}  ni  soomar-ek-eka.",
         "srcwordsbare": [
             "I",
@@ -4942,6 +4980,7 @@
             "pa",
             "qm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "week  two  finish-2/3s.\\textsc{ds} village  come-\\textsc{pa}-2p=\\textsc{qm}",
         "imtwordsbare": [
@@ -4965,7 +5004,8 @@
             "village",
             "come-\\textsc{pa}-2p=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Sande  erup  weeser-eya  owowa  ekap-e-man=i?",
         "srcwordsbare": [
             "Sande",
@@ -4998,6 +5038,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "thus do-\\textsc{ss}.\\textsc{seq} kill-\\textsc{Np}-\\textsc{fu}.1s=\\textsc{qm}",
         "imtwordsbare": [
@@ -5015,7 +5056,7 @@
             "do-\\textsc{ss}.\\textsc{seq}",
             "kill-\\textsc{Np}-\\textsc{fu}.1s=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Naap  on-ap  ifakim-i-nen=i?",
         "srcwordsbare": [
             "Naap",
@@ -5073,7 +5114,7 @@
             "2s.\\textsc{dat}",
             "appear-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "No  sira  kamenap  on-eya  napuma  fain nefar  kerer-e-k?",
         "srcwordsbare": [
             "No",
@@ -5114,6 +5155,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{unm} run-\\textsc{ss}.\\textsc{sim} side  where  go-\\textsc{pa}-2s",
         "imtwordsbare": [
@@ -5137,7 +5179,7 @@
             "where",
             "go-\\textsc{pa}-2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "No  karu-emi  kame  kaanek  ikiw-o-n?",
         "srcwordsbare": [
             "No",
@@ -5168,6 +5210,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "again  come-\\textsc{ss}.\\textsc{seq} food  not  sell-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -5191,7 +5234,8 @@
             "not",
             "sell-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Nainiw  \\textbf{ekap-ep}  maa  \\textbf{me} \\textbf{sesenar-e-mik}.",
         "srcwordsbare": [
             "Nainiw",
@@ -5224,6 +5268,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "go-\\textsc{ss}.\\textsc{sim}-be-\\textsc{ss} not  turn-\\textsc{ss}.\\textsc{seq} look-\\textsc{imp}.2s 2s.\\textsc{unm} just  paddle-go-\\textsc{ss}.\\textsc{sim}-be-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -5253,7 +5298,7 @@
             "just",
             "paddle-go-\\textsc{ss}.\\textsc{sim}-be-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ikiw-em-ik-ok  \\textbf{me} \\textbf{kir-ep} \\textbf{uruf-e}, no  oram  woolal-ikiw-em-ik-e.",
         "srcwordsbare": [
             "Ikiw-em-ik-ok",
@@ -5295,6 +5340,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Japan=\\textsc{cf} ascend-\\textsc{ss}.\\textsc{sim}-be-2/3p.\\textsc{ds} 3p.\\textsc{unm} Australia=\\textsc{cf} 3p.\\textsc{acc} see-\\textsc{ss}.\\textsc{seq} flee-\\textsc{ss}.\\textsc{sim} not 1p.\\textsc{acc} tell-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -5333,7 +5379,8 @@
             "1p.\\textsc{acc}",
             "tell-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Yaapan=ke  urup-em-ika-iwkin  wi  Australia=ke wia  uruf-ap  baurar-emi  \\textstyleEmphasizedVernacularWords{me} \\textstyleEmphasizedVernacularWords{yia}  \\textstyleEmphasizedVernacularWords{maak-e-mik}.",
         "srcwordsbare": [
             "Yaapan=ke",
@@ -5382,6 +5429,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "earlier  1s/p.father=\\textsc{cf} custom  this  not  understand-\\textsc{ss}.\\textsc{seq} son indiscriminately 3.\\textsc{dat} get-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -5420,7 +5468,7 @@
             "3.\\textsc{dat}",
             "get-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Iiriw  auwa=ke  sira  fain  \\textbf{me}  \\textbf{paayar-ep} muuka  momor  wiar  aaw-em-ik-e-mik.",
         "srcwordsbare": [
             "Iiriw",
@@ -5471,6 +5519,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "alright  1s.\\textsc{gen} man  too  fight-\\textsc{nmz} appear-\\textsc{nmz} time finish-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds} remove-2/3p.\\textsc{ds} village come-\\textsc{pa}-3s 3s.\\textsc{unm} bow man=\\textsc{loc} be-\\textsc{ss}",
         "imtwordsbare": [
@@ -5524,7 +5573,7 @@
             "man=\\textsc{loc}",
             "be-\\textsc{ss}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria  \\textstyleEmphasizedVernacularWords{yena} \\textstyleEmphasizedVernacularWords{mua}  \\textstyleEmphasizedVernacularWords{pun}  {\\ob}irak-owa  kerer-owa  epa weeser-em-ik-eya{\\cb}  \\textstyleEmphasizedVernacularWords{iirar-iwkin}  owowa  ekap-o-k, o  amia  mua=pa  ik-ok.",
         "srcwordsbare": [
             "Aria",
@@ -5590,6 +5639,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "shallow.water=\\textsc{loc} put-\\textsc{ss}.\\textsc{seq} some man=\\textsc{cf} fish sand ascend-2/3s.\\textsc{ds} fishing.spear=\\textsc{inst} spear-\\textsc{Np}-\\textsc{pr}.1/3p",
         "imtwordsbare": [
@@ -5625,7 +5675,7 @@
             "fishing.spear=\\textsc{inst}",
             "spear-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Sisina=pa  wu-ap  \\textstyleEmphasizedVernacularWords{papako}\\textsubscript{O}  \\textstyleEmphasizedVernacularWords{mua=ke}\\textsubscript{S}  {\\ob}mera  saa urup-eya{\\cb}  \\textstyleEmphasizedVernacularWords{patopat=iw}  \\textstyleEmphasizedVernacularWords{mik-i-mik}.",
         "srcwordsbare": [
             "Sisina=pa",
@@ -5669,6 +5719,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1p.\\textsc{unm} coconut  water  go-\\textsc{ss}.\\textsc{seq} fetch-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -5692,7 +5743,7 @@
             "go-\\textsc{ss}.\\textsc{seq}",
             "fetch-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "\\textstyleEmphasizedVernacularWords{I} \\textstyleEmphasizedVernacularWords{iwer(a)} \\textstyleEmphasizedVernacularWords{eka}  {\\ob}iki(w-e)p{\\cb}  \\textstyleEmphasizedVernacularWords{nop-a-mik}.",
         "srcwordsbare": [
             "I",
@@ -5724,6 +5775,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{unm} leg  knife  take-\\textsc{ss}.\\textsc{seq} cut-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -5747,7 +5799,7 @@
             "take-\\textsc{ss}.\\textsc{seq}",
             "cut-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "\\textstyleEmphasizedVernacularWords{Yo}  \\textstyleEmphasizedVernacularWords{merena}  {\\ob}fura  aaw-ep{\\cb}  \\textstyleEmphasizedVernacularWords{puuk-a-m}.",
         "srcwordsbare": [
             "Yo",
@@ -5781,6 +5833,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "die-2/3s.\\textsc{ds} leg \\textsc{rdp}-two rope take-\\textsc{ss}.\\textsc{sim} tie-\\textsc{ss}.\\textsc{seq} carrying.pole push-\\textsc{ss}.\\textsc{seq} shoulder take-\\textsc{ss}.\\textsc{seq} descend-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -5822,7 +5875,7 @@
             "take-\\textsc{ss}.\\textsc{seq}",
             "descend-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Um-eya  \\textstyleEmphasizedVernacularWords{merena}  \\textstyleEmphasizedVernacularWords{ere-erup}  {\\ob}ifara  aaw-ep{\\cb}  \\textstyleEmphasizedVernacularWords{kaik-ap} nabena  suuw-ap  akua  aaw-ep  or-o-m.",
         "srcwordsbare": [
             "Um-eya",
@@ -5874,6 +5927,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "descend-\\textsc{ss}.\\textsc{seq} thus 3p.\\textsc{acc} see-\\textsc{pa}-1/3p man  bone  tooth  head white  turn-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds}",
         "imtwordsbare": [
@@ -5912,7 +5966,7 @@
             "white",
             "turn-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Or-op  naap  wia  uruf-a-mik,  {\\ob}mua  oona,  eneka,  woosa kia  kir-em-ik-eya{\\cb}.",
         "srcwordsbare": [
             "Or-op",
@@ -5962,6 +6016,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "burn-go-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds} 3p.\\textsc{gen} man  many  kunai.grass  fire that1 follow-\\textsc{Np}-\\textsc{fu}.3p  spear  take-\\textsc{ss}.\\textsc{seq}",
         "imtwordsbare": [
@@ -6000,7 +6055,7 @@
             "spear",
             "take-\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aw-iki(w-e)m-ik-eya  wiena  mua  unowa  fiker(a)  epia nain  ook-i-kuan,  {\\ob}wiowa  aaw-ep{\\cb}.",
         "srcwordsbare": [
             "Aw-iki(w-e)m-ik-eya",
@@ -6082,7 +6137,7 @@
             "1p.\\textsc{acc}",
             "get-\\textsc{ben}-2/3p.\\textsc{ds}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aaya  muuna  kuisow  enim-i-mik,  {\\ob}aite=ke manina=pa  yia  aaw-om-iwkin{\\cb}.",
         "srcwordsbare": [
             "Aaya",
@@ -6125,6 +6180,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{unm} again  turn-\\textsc{ss}.\\textsc{seq} go-\\textsc{ss}.\\textsc{seq} village  man  3p.\\textsc{acc} tell-2/3s.\\textsc{ds}  ascend-\\textsc{ss}.\\textsc{seq} fire  that1 extinguish-\\textsc{imp}.3p",
         "imtwordsbare": [
@@ -6169,7 +6225,7 @@
             "that1",
             "extinguish-\\textsc{imp}.3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "No  nainiw  kir-\\textstyleEmphasizedVernacularWords{ep}  ikiw-\\textstyleEmphasizedVernacularWords{ep}  owow  mua  wia maak-eya  urup-\\textstyleEmphasizedVernacularWords{ep}  mukuna  nain  umuk-uk.",
         "srcwordsbare": [
             "No",
@@ -6223,6 +6279,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "come-\\textsc{ss}.\\textsc{sim} 1s.\\textsc{unm} 1s.\\textsc{acc} take-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -6243,7 +6300,7 @@
             "1s.\\textsc{acc}",
             "take-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ekap-\\textstyleEmphasizedVernacularWords{emi}  yo  efa  aaw-o-k.",
         "srcwordsbare": [
             "Ekap-emi",
@@ -6274,6 +6331,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "food  eat-\\textsc{ss}.\\textsc{seq}-\\textsc{cmpl}-\\textsc{ss}.\\textsc{sim} trap take-\\textsc{ss}.\\textsc{sim} taro wrap-\\textsc{ss}.\\textsc{sim} trap.frame spear take-\\textsc{ss}.\\textsc{seq} kunai.grass go-\\textsc{Np}-\\textsc{pr}.1/3p",
         "imtwordsbare": [
@@ -6315,7 +6373,7 @@
             "kunai.grass",
             "go-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Maa  en-ep-pu-\\textstyleEmphasizedVernacularWords{ami}  top  aaw-\\textstyleEmphasizedVernacularWords{emi}  moma unukum-\\textstyleEmphasizedVernacularWords{emi}  kapit,  wiowa  aaw-\\textstyleEmphasizedVernacularWords{ep}  fikera iw-i-mik.",
         "srcwordsbare": [
             "Maa",
@@ -6364,6 +6422,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "tree  long  cut-\\textsc{ss}.\\textsc{seq} come-\\textsc{ss}.\\textsc{seq} snake that1 kill-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -6393,7 +6452,7 @@
             "that1",
             "kill-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Nomokowa  maala  war-ep    ekap-ep  ifa  nain  ifakim-\\textstyleEmphasizedVernacularWords{o}-k.",
         "srcwordsbare": [
             "Nomokowa",
@@ -6435,6 +6494,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "man=\\textsc{cf} husk-\\textsc{ss}.\\textsc{seq} there.\\textsc{cf} put-\\textsc{ss}.\\textsc{seq} land-canoe fetch-\\textsc{ss}.\\textsc{seq} land-canoe=\\textsc{cf} coconut dry that1 take-\\textsc{ss}.\\textsc{seq} \\textsc{\\textsc{bp}x}-come-\\textsc{ss}.\\textsc{seq} fire house near=\\textsc{loc} put-2/3s.\\textsc{ds} split-\\textsc{Np}-\\textsc{pr}.1/3p",
         "imtwordsbare": [
@@ -6494,7 +6554,7 @@
             "put-2/3s.\\textsc{ds}",
             "split-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mua=ke  kais-ap  neeke  wu-ap  miiw-aasa  nop-ap miiw-aasa=ke  iwer(a)  ififa  nain  aaw-ep  p-ekap-ep epia  koora  mamaiya=pa  wu-eya  fook-\\textstyleEmphasizedVernacularWords{i-mik}.",
         "srcwordsbare": [
             "Mua=ke",
@@ -6562,6 +6622,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "later  man  become-\\textsc{ss}.\\textsc{seq} woman take-\\textsc{ss}.\\textsc{seq} how do-\\textsc{Np}-\\textsc{fu}.2s",
         "imtwordsbare": [
@@ -6591,7 +6652,7 @@
             "how",
             "do-\\textsc{Np}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ikoka  mua  ar-ep  emeria  aaw-ep  kamenap  on-\\textstyleEmphasizedVernacularWords{i-nan}?",
         "srcwordsbare": [
             "Ikoka",
@@ -6631,6 +6692,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "thing  many  sea-canoe=\\textsc{cf} \\textsc{bpx}-ascend-2/3s.\\textsc{ds} land-canoe=\\textsc{cf} here \\textsc{bpx}-come-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}.3s",
         "imtwordsbare": [
@@ -6660,7 +6722,7 @@
             "here",
             "\\textsc{bpx}-come-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Maa  unowa  ifer-aasa=ke  p-urup\\textstyleEmphasizedVernacularWords{-eya} miiw-aasa=ke fan  p-ir-am-ik-ua.",
         "srcwordsbare": [
             "Maa",
@@ -6700,6 +6762,7 @@
             "pl",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "3p.\\textsc{unm} inland=\\textsc{loc} be-\\textsc{distr}/\\textsc{pl}-2/3p.\\textsc{ds} America appear-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -6723,7 +6786,7 @@
             "America",
             "appear-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Wi  yapen=pa  \\textstyleEmphasizedVernacularWords{ik-}omak\\textstyleEmphasizedVernacularWords{-iwkin}  Amerika  kerer-e-mik.",
         "srcwordsbare": [
             "Wi",
@@ -6757,6 +6820,7 @@
             "pa",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{unm} money no(ne)-2/3s.\\textsc{ds} tell-\\textsc{pa}-1s time  other=\\textsc{loc} give.you-\\textsc{Np}-\\textsc{fu}.1s",
         "imtwordsbare": [
@@ -6786,7 +6850,7 @@
             "other=\\textsc{loc}",
             "give.you-\\textsc{Np}-\\textsc{fu}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Yo  maamuma  marew\\textstyleEmphasizedVernacularWords{-eya} maak-e-m, {\\textquotedbl}Iir  oko=pa  ni-i-nen.''",
         "srcwordsbare": [
             "Yo",
@@ -6826,6 +6890,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "son \\textsc{bpx}-descend-\\textsc{ss}.\\textsc{seq} \\textsc{bpx}-go-2/3p.\\textsc{ds} bathe-\\textsc{Np}-\\textsc{pr}.3s",
         "imtwordsbare": [
@@ -6846,7 +6911,7 @@
             "\\textsc{bpx}-go-2/3p.\\textsc{ds}",
             "bathe-\\textsc{Np}-\\textsc{pr}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Muuka}{\\cb}\\textsubscript{O}  p-or-op \\textstyleEmphasizedVernacularWords{p-er-iwkin}  \\textstyleEmphasizedVernacularWords{yak-i-ya}.",
         "srcwordsbare": [
             "{\\ob}Muuka{\\cb}O",
@@ -6875,6 +6940,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "moon  place/time  tell-\\textsc{pa}-1/3p that1  understand-\\textsc{ss}.\\textsc{seq} say-\\textsc{pa}-3s America now fight-\\textsc{nmz} appear-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -6913,7 +6979,7 @@
             "fight-\\textsc{nmz}",
             "appear-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Siiwa,  epa  maak-e-mik  nain  \\textstyleEmphasizedVernacularWords{paayar-ep}  ma-e-k, ``Amerika  aakisa  irak-owa  kerer-e-mik.''",
         "srcwordsbare": [
             "Siiwa,",
@@ -6961,6 +7027,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "...  \\textsc{add} 3p.\\textsc{unm} go-\\textsc{pa}-1/3p become.angry-\\textsc{ss}.\\textsc{seq} go-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -6987,7 +7054,7 @@
             "become.angry-\\textsc{ss}.\\textsc{seq}",
             "go-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "...  ne  wi  ikiw-e-mik,  \\textstyleEmphasizedVernacularWords{kerewar-ep}  ikiw-e-mik.",
         "srcwordsbare": [
             "...",
@@ -7025,6 +7092,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "man  other=\\textsc{cf} sickness-\\textsc{inch}-\\textsc{ss}.\\textsc{seq} wound tie-\\textsc{nmz} man 3.\\textsc{dat} go-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -7057,7 +7125,7 @@
             "3.\\textsc{dat}",
             "go-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mua  oko=ko  \\textstyleEmphasizedVernacularWords{napum-ar-}\\textstyleEmphasizedVernacularWords{ep}  ikemika  kaik-ow(a)  mua wiar  ikiw-o-k.",
         "srcwordsbare": [
             "Mua",
@@ -7101,6 +7169,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "go-\\textsc{ss}.\\textsc{seq} there be-2/3p.\\textsc{ds} spirit  man  snake change.into-\\textsc{ss}.\\textsc{seq} crawl-\\textsc{ss}.\\textsc{seq} ascend-\\textsc{ss}.\\textsc{seq} garden=\\textsc{loc} pig change.into-\\textsc{ss}.\\textsc{seq} taro 3.\\textsc{dat} eat-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds} see-\\textsc{pa}-1/3s",
         "imtwordsbare": [
@@ -7157,7 +7226,7 @@
             "eat-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds}",
             "see-\\textsc{pa}-1/3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ikiw-\\textstyleEmphasizedVernacularWords{ep}\\textsubscript{i}  nan  ika-\\textstyleEmphasizedVernacularWords{iwkin}\\textsubscript{i}  inasina  mua\\textsubscript{j}  ifa  puuk-\\textstyleEmphasizedVernacularWords{ap}\\textsubscript{j}  solon-\\textstyleEmphasizedVernacularWords{ep}\\textsubscript{j}  urup-\\textstyleEmphasizedVernacularWords{ep}\\textsubscript{j}  manina=pa  waaya puuk-\\textstyleEmphasizedVernacularWords{ap}\\textsubscript{j}  moma  wiar  en-em-ik-\\textstyleEmphasizedVernacularWords{eya}\\textsubscript{j} uruf-a-mik\\textsubscript{i}.",
         "srcwordsbare": [
             "Ikiw-epi",
@@ -7226,6 +7295,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "spear-\\textsc{ss}.\\textsc{seq} fishing.spear=\\textsc{inst} spear-\\textsc{ss}.\\textsc{seq} take-\\textsc{ss}.\\textsc{seq} canoe=\\textsc{loc} put-\\textsc{ss}.\\textsc{seq} \\textsc{\\textsc{bp}x}-ascend-\\textsc{ss}.\\textsc{seq} 1s.\\textsc{gen} house=\\textsc{loc} put-\\textsc{ss}.\\textsc{seq} morning place get.light-2/3s.\\textsc{ds} descend-\\textsc{ss}.\\textsc{seq} sand=\\textsc{loc} butcher-\\textsc{ss}.\\textsc{seq} cook-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -7285,7 +7355,7 @@
             "butcher-\\textsc{ss}.\\textsc{seq}",
             "cook-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mik-ap,  patot=iw  mik-ap,  aaw-ep, aasa=pa  wu-ap,  amap-urup-ep,  yena  koora=pa wu-ap,  uuriw  epa  wiim-eya  or-op, saa=pa  pa-\\textstyleEmphasizedVernacularWords{ep}  uup-e-mik.",
         "srcwordsbare": [
             "Mik-ap,",
@@ -7366,7 +7436,7 @@
             "come-2/3s.\\textsc{ds}",
             "go-\\textsc{Np}-\\textsc{fu}.1p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ekap-\\textbf{eya} ikiw-i-yen.",
         "srcwordsbare": [
             "Ekap-eya",
@@ -7394,6 +7464,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1p.\\textsc{unm} later 1p.\\textsc{gen}=\\textsc{lim} ascend-\\textsc{ss}.\\textsc{seq} 2p.\\textsc{acc} tell-1s/p.\\textsc{ds} descend-2/3p.\\textsc{ds} alright  together  here.\\textsc{cf} sit-\\textsc{ss}.\\textsc{seq} be-\\textsc{ss} water  a.little  only  eat-\\textsc{ss}.\\textsc{seq} alright 2p.\\textsc{unm} walk-go-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -7459,7 +7530,7 @@
             "2p.\\textsc{unm}",
             "walk-go-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  ikoka  yien=iw  urup-ep  nia  maak-omkun ora-\\textstyleEmphasizedVernacularWords{iwkin}  aria  owawiya  feeke  pok-ap  ik-ok eka  liiwa  muuta  en-\\textbf{ep}  aria  ni  soomar-ek-eka.",
         "srcwordsbare": [
             "I",
@@ -7535,6 +7606,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "cook-\\textsc{ss}.\\textsc{sim}-be-2/3p.\\textsc{ds} food water  dry-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds} go-\\textsc{ss}.\\textsc{seq}  water  draw-\\textsc{ss}.\\textsc{seq} come-\\textsc{ss}.\\textsc{seq} pot=\\textsc{loc} pour-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -7573,7 +7645,7 @@
             "pot=\\textsc{loc}",
             "pour-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Uup-em-ika-\\textstyleEmphasizedVernacularWords{iwkin}  maa  eka  saanar-em-ik-\\textstyleEmphasizedVernacularWords{eya} iki(w-e)p  eka  un-ep  ekap-ep  amina=pa feef-am-ik-e-mik.",
         "srcwordsbare": [
             "Uup-em-ika-iwkin",
@@ -7622,6 +7694,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "woman  old  that1  3s/p.grandchild  two  3p.\\textsc{acc} take-\\textsc{ss}.\\textsc{seq} village open.place descend-\\textsc{ss}.\\textsc{seq} stand.up-\\textsc{ss}.\\textsc{seq} be-2/3p.\\textsc{ds} coconut  other  bend-\\textsc{ss}.\\textsc{seq} descend-2/3s.\\textsc{ds} 3p.\\textsc{unm} coconut climb-2/3p.\\textsc{ds} again  straight  stand.up-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -7696,7 +7769,7 @@
             "straight",
             "stand.up-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Emeria  panewowa  nain  wiimasip  erup  wia  aaw-ep owow  uruma  or-op  iimar-ep  ika-\\textstyleEmphasizedVernacularWords{iwkin} iwera  oko  mekemkar-ep  or-\\textstyleEmphasizedVernacularWords{eya}  wi  iwera ir-\\textstyleEmphasizedVernacularWords{iwkin}  nainiw  kaken  iimar-e-k.",
         "srcwordsbare": [
             "Emeria",
@@ -7780,6 +7853,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "alright  food  eat-\\textsc{ss}.\\textsc{seq} thus be-\\textsc{ss} dark-\\textsc{inch}-2/3s.\\textsc{ds} sleep-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -7809,7 +7883,7 @@
             "dark-\\textsc{inch}-2/3s.\\textsc{ds}",
             "sleep-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria  maa  en-ep  naap  ik-\\textstyleEmphasizedVernacularWords{ok}  {\\ob}kokom-ar-\\textstyleEmphasizedVernacularWords{e}\\textstyleEmphasizedVernacularWords{y}\\textstyleEmphasizedVernacularWords{a}{\\cb} in-e-mik.",
         "srcwordsbare": [
             "Aria",
@@ -7848,6 +7922,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "turn-\\textsc{ss}.\\textsc{seq} come-\\textsc{ss}.\\textsc{sim}-be-2/3p.\\textsc{ds} place dawn-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -7868,7 +7943,7 @@
             "place",
             "dawn-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Kir-ep  ekap-em-ika-\\textstyleEmphasizedVernacularWords{iwkin}  epa  wiim-o-k.",
         "srcwordsbare": [
             "Kir-ep",
@@ -7899,6 +7974,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "work-\\textsc{ss}.\\textsc{seq} work-\\textsc{ss}.\\textsc{seq} bone=\\textsc{qf} 1s.\\textsc{acc} hurt-\\textsc{Nc}-\\textsc{pr}.3s",
         "imtwordsbare": [
@@ -7922,7 +7998,7 @@
             "1s.\\textsc{acc}",
             "hurt-\\textsc{Nc}-\\textsc{pr}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Uuw-ap uuw-\\textstyleEmphasizedVernacularWords{ap} oona=ke efa  sirir-i-ya.",
         "srcwordsbare": [
             "Uuw-ap",
@@ -7958,6 +8034,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "cook-\\textsc{ss}.\\textsc{seq} finish-2/3s.\\textsc{ds} alright  meat  small  3p.\\textsc{refl} two this 3p.\\textsc{acc} put-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -7996,7 +8073,7 @@
             "3p.\\textsc{acc}",
             "put-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Uup-\\textstyleEmphasizedVernacularWords{ep}  {\\ob}weeser-\\textstyleEmphasizedVernacularWords{eya}{\\cb}  aria  oposia  gelemuta  wiam  erup fain  wia  wu-om-a-m.",
         "srcwordsbare": [
             "Uup-ep",
@@ -8043,6 +8120,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "food  cook-\\textsc{ss}.\\textsc{seq} foam rise-2/3s.\\textsc{ds} food  be.done-2/3s.\\textsc{ds} dish.out-\\textsc{pa}-3s\\hspace{-1mm}",
         "imtwordsbare": [
@@ -8072,7 +8150,7 @@
             "be.done-2/3s.\\textsc{ds}",
             "dish.out-\\textsc{pa}-3s\\hspace{-1mm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Maa  uup-\\textstyleEmphasizedVernacularWords{ep} {\\ob}fofola  urup-\\textstyleEmphasizedVernacularWords{eya}{\\cb}  {\\ob}maa  op-\\textstyleEmphasizedVernacularWords{iya}{\\cb} iiw-o-k.",
         "srcwordsbare": [
             "Maa",
@@ -8113,6 +8191,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{acc}  wait-\\textsc{ss}.\\textsc{seq} food water little only make-1s/p.\\textsc{ds} eat-\\textsc{ss}.\\textsc{seq}-\\textsc{cmpl}-\\textsc{ss}.\\textsc{sim} walk-go-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -8148,7 +8227,7 @@
             "eat-\\textsc{ss}.\\textsc{seq}-\\textsc{cmpl}-\\textsc{ss}.\\textsc{sim}",
             "walk-go-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Efa  arew-\\textstyleEmphasizedVernacularWords{ap}  {\\ob}maa  eka  liiwa  muuta  on-\\textstyleEmphasizedVernacularWords{amkun}{\\cb} en-ep-pu-ami  soomar-ek-eka.",
         "srcwordsbare": [
             "Efa",
@@ -8194,6 +8273,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "go-\\textsc{ss}.\\textsc{seq} man  that1 bandicoot path=\\textsc{loc} stand-\\textsc{ss}.\\textsc{seq} be-2/3s.\\textsc{ds} 3s.\\textsc{gen} man  that1 kill-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -8235,7 +8315,7 @@
             "that1",
             "kill-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ikiw-\\textstyleEmphasizedVernacularWords{ep}  {\\ob}mua  nain  urema  osarena=pa  iimar-ep ik-\\textstyleEmphasizedVernacularWords{eya}{\\cb} ona  mua  nain  ifakim-o-k.",
         "srcwordsbare": [
             "Ikiw-ep",
@@ -8287,6 +8367,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "fire  put-\\textsc{ss}.\\textsc{seq} go-\\textsc{ss}.\\textsc{seq} coconut  watch-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds} coconut  dry-2/3s.\\textsc{ds} coconut shell knock-\\textsc{Np}-\\textsc{pr}.1/3p",
         "imtwordsbare": [
@@ -8325,7 +8406,7 @@
             "shell",
             "knock-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Epia  wu-ap  ikiw-\\textstyleEmphasizedVernacularWords{ep} {\\ob}iwera  kuuf-am-ik-\\textstyleEmphasizedVernacularWords{eya}{\\cb} {\\ob}iwera  reen-\\textstyleEmphasizedVernacularWords{eya}{\\cb} iwer  urupa  anum-i-mik.",
         "srcwordsbare": [
             "Epia",
@@ -8374,6 +8455,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "burn-2/3p.\\textsc{ds}  burn-\\textsc{ss}.\\textsc{sim} man many very altogether kunai.grass burn-\\textsc{ss}.\\textsc{sim} round-\\textsc{caus}-2/3p.\\textsc{ds} alright  kunai.grass  fire burn-\\textsc{Np}-\\textsc{fu}.3s",
         "imtwordsbare": [
@@ -8421,7 +8503,7 @@
             "fire",
             "burn-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Kuum-\\textstyleEmphasizedVernacularWords{iwkin}  aw-\\textstyleEmphasizedVernacularWords{emi}  {\\ob}mua  unow  maneka  iiwawun  fikera kuum-emi  saawirin-ow-\\textstyleEmphasizedVernacularWords{iwkin}{\\cb}  aria  fiker  epia aw-i-non.",
         "srcwordsbare": [
             "Kuum-iwkin",
@@ -8478,6 +8560,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "3s/p.father burn-2/3s.\\textsc{ds} burn-2/3s.\\textsc{ds} burn-2/3s.\\textsc{ds} burn-\\textsc{ss}.\\textsc{seq} river enter-\\textsc{pa}-3s but no river=\\textsc{cf} dry-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -8519,7 +8602,7 @@
             "river=\\textsc{cf}",
             "dry-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Wiawi  kuum-\\textstyleEmphasizedVernacularWords{eya}  kuum-\\textstyleEmphasizedVernacularWords{eya}  kuum-\\textstyleEmphasizedVernacularWords{eya}  aw-ep eka  iw-a-k  na  wia,  eka=ke  saanar-e-k.",
         "srcwordsbare": [
             "Wiawi",
@@ -8572,6 +8655,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{acc}  see-\\textsc{ss}.\\textsc{sim}-be-2/3.\\textsc{ds} house=\\textsc{loc} 1s.\\textsc{acc} see-\\textsc{ss}.\\textsc{sim}-be-2/3.\\textsc{ds} go-\\textsc{Np}-\\textsc{fu}.1s come-\\textsc{Np}-\\textsc{fu}.1s",
         "imtwordsbare": [
@@ -8601,7 +8685,7 @@
             "go-\\textsc{Np}-\\textsc{fu}.1s",
             "come-\\textsc{Np}-\\textsc{fu}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Efa  uruf-am-ik-\\textstyleEmphasizedVernacularWords{eya},  koora=pa  efa  uruf-am-ik-\\textstyleEmphasizedVernacularWords{eya} ikiw-i-nen  ekap-i-nen.",
         "srcwordsbare": [
             "Efa",
@@ -8640,6 +8724,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "{\\dots}turtle  shallow.water=\\textsc{loc} be-2/3s.\\textsc{ds} seaweed  many=\\textsc{loc} walk-\\textsc{ss}.\\textsc{sim}.be-2/3s.\\textsc{ds} spear-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -8669,7 +8754,7 @@
             "walk-\\textsc{ss}.\\textsc{sim}.be-2/3s.\\textsc{ds}",
             "spear-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "...pon  sisina=pa  ik-\\textstyleEmphasizedVernacularWords{eya},  piipa  unowa=pa soomar-em-ik-\\textstyleEmphasizedVernacularWords{eya}  mik-a-m.",
         "srcwordsbare": [
             "...pon",
@@ -8707,6 +8792,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "thus  be-\\textsc{ss} 3p.\\textsc{unm} Saramun=\\textsc{cf} dance.name  dance-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -8733,7 +8819,7 @@
             "dance.name",
             "dance-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "\\textstyleEmphasizedVernacularWords{Naap}  \\textstyleEmphasizedVernacularWords{ik-ok}  wi  Saramun=ke  wiisa  uf-e-mik.",
         "srcwordsbare": [
             "Naap",
@@ -8771,6 +8857,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "{\\dots}man  not  3p.\\textsc{acc} find-\\textsc{pa}-1/3p  thus  be-\\textsc{ss} Saturday night bald 3s.\\textsc{gen} bow  man 3.\\textsc{dat} appear-\\textsc{ss}.\\textsc{seq} talk=\\textsc{loc} 1p.\\textsc{acc} put-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -8830,7 +8917,7 @@
             "1p.\\textsc{acc}",
             "put-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "...mua  me  wia  imen-a-mik.  \\textstyleEmphasizedVernacularWords{Naap} \\textstyleEmphasizedVernacularWords{ik-ok} sarere  uura buburia  ona  amia  mua  wiar  kerer-ep opaimika=pa  yia  wu-a-k.",
         "srcwordsbare": [
             "...mua",
@@ -8897,6 +8984,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "thus  be-\\textsc{ss} see-\\textsc{ss}.\\textsc{sim}-be-2/3p.\\textsc{ds}  no",
         "imtwordsbare": [
@@ -8917,7 +9005,7 @@
             "see-\\textsc{ss}.\\textsc{sim}-be-2/3p.\\textsc{ds}",
             "no"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Naap  ik-\\textstyleEmphasizedVernacularWords{ok}  uruf-am-ika-\\textstyleEmphasizedVernacularWords{iwkin}  wia.",
         "srcwordsbare": [
             "Naap",
@@ -8946,6 +9034,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "sky  canoe  rumble-\\textsc{nmz} hear-\\textsc{ss}.\\textsc{seq} water=\\textsc{inst} extinguish-\\textsc{nmz} quickly",
         "imtwordsbare": [
@@ -8975,7 +9064,7 @@
             "extinguish-\\textsc{nmz}",
             "quickly"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Iinan  aasa  gurun-owa  miim-\\textstyleEmphasizedVernacularWords{ap}  eka=iw  umuk-owa ewur.",
         "srcwordsbare": [
             "Iinan",
@@ -9043,7 +9132,7 @@
             "3p.\\textsc{acc}",
             "see-\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Wi  Yaapan  nan  ik-e-mik  nain  wia  uruf-\\textstyleEmphasizedVernacularWords{ap}.",
         "srcwordsbare": [
             "Wi",
@@ -9082,6 +9171,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "taro  3.\\textsc{dat} eat-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds}  see-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -9102,7 +9192,7 @@
             "eat-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds}",
             "see-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Moma  wiar  \\textstyleEmphasizedVernacularWords{en-em-ik-eya}  uruf-a-mik.",
         "srcwordsbare": [
             "Moma",
@@ -9132,6 +9222,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "hen  son-\\textsc{inch}-\\textsc{ss}.\\textsc{seq} be-2/3s.\\textsc{ds} see-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -9152,7 +9243,7 @@
             "be-2/3s.\\textsc{ds}",
             "see-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aara  \\textstyleEmphasizedVernacularWords{muuk-ar-ep} \\textstyleEmphasizedVernacularWords{ik-eya} uruf-a-mik.",
         "srcwordsbare": [
             "Aara",
@@ -9213,7 +9304,8 @@
             "tell.story-2/3p.\\textsc{ds}",
             "hear-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Yo  me  baliwep  paayar-e-m,  oram  iperowa=ke \\textstyleEmphasizedVernacularWords{nanar}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{iwkin}  miim-a-m.",
         "srcwordsbare": [
             "Yo",
@@ -9253,6 +9345,7 @@
             "inch",
             "pa"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "land-canoe  bad-\\textsc{inch}-\\textsc{pa}-3s land-canoe bad-\\textsc{inch}-2/3s.\\textsc{ds}",
         "imtwordsbare": [
@@ -9273,7 +9366,7 @@
             "land-canoe",
             "bad-\\textsc{inch}-2/3s.\\textsc{ds}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "\\textstyleEmphasizedVernacularWords{Miiw-aasa}  \\textstyleEmphasizedVernacularWords{samor-ar-e-k.} \\textstyleEmphasizedVernacularWords{Miiw-aasa}  \\textstyleEmphasizedVernacularWords{samor-ar-eya}{\\dots}",
         "srcwordsbare": [
             "Miiw-aasa",
@@ -9305,6 +9398,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "\\textsc{bpx}-go-\\textsc{ss}.\\textsc{seq} Bogia=\\textsc{loc} there put-\\textsc{pa}-1/3p Bogia=\\textsc{loc} there  put-\\textsc{ss}.\\textsc{seq} 1p.\\textsc{\\textsc{unm}} again come-\\textsc{\\textsc{pa}}-1/3p",
         "imtwordsbare": [
@@ -9343,7 +9437,7 @@
             "again",
             "come-\\textsc{\\textsc{pa}}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "P-ikiw-ep  \\textstyleEmphasizedVernacularWords{Bogia=pa} \\textstyleEmphasizedVernacularWords{nan} \\textstyleEmphasizedVernacularWords{wu-a-mik}. \\textstyleEmphasizedVernacularWords{Bogia=pa} \\textstyleEmphasizedVernacularWords{nan}  \\textstyleEmphasizedVernacularWords{wu-ap}  i  kiiriw  ekap-e-mik.",
         "srcwordsbare": [
             "P-ikiw-ep",
@@ -9392,6 +9486,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Olas=\\textsc{cf}  come-\\textsc{ss}.\\textsc{sim} spear throw-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-3s throw-\\textsc{pa}-3s  but  no  miss-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -9424,7 +9519,7 @@
             "no",
             "miss-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Olas=ke  ekap-emi  wiowa  \\textstyleEmphasizedVernacularWords{wafur-om-a-k}. \\textstyleEmphasizedVernacularWords{Wafur-a-k}  na  weetak,  ufer-a-k.",
         "srcwordsbare": [
             "Olas=ke",
@@ -9467,6 +9562,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "head  3.\\textsc{dat} measure-\\textsc{ss}.\\textsc{seq} tie-\\textsc{pa}-1s  tie-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{ss}.\\textsc{seq}",
         "imtwordsbare": [
@@ -9490,7 +9586,7 @@
             "tie-\\textsc{pa}-1s",
             "tie-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ikiwosa  wiar  pepekim-ep  \\textstyleEmphasizedVernacularWords{kaik-a-m}.  \\textstyleEmphasizedVernacularWords{Kaik-om-ap}{\\dots}",
         "srcwordsbare": [
             "Ikiwosa",
@@ -9524,6 +9620,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "{\\dots}tree  long  cut-\\textsc{ss}.\\textsc{seq} come-\\textsc{ss}.\\textsc{seq} snake  that1 beat-\\textsc{pa}-3s beat-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds} snake  that1=\\textsc{cf} dog  release-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -9568,7 +9665,7 @@
             "dog",
             "release-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "...nomokowa  maala  war-ep,  ekap-ep  ifa  nain \\textstyleEmphasizedVernacularWords{ifakim-o-k}.  \\textstyleEmphasizedVernacularWords{Ifakim-em-ik-eya}  ifa  nain=ke siowa  wasirk-a-k.",
         "srcwordsbare": [
             "...nomokowa",
@@ -9651,7 +9748,7 @@
             "tree",
             "cut-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Moma  manina  mokomokoka  \\textstyleEmphasizedVernacularWords{nop}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{i}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{mik}. \\textbf{Nop}\\textbf{-}\\textbf{ap-pu}\\textbf{-}\\textbf{ap}  nomokowa  war-i-mik.",
         "srcwordsbare": [
             "Moma",
@@ -9692,6 +9789,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "sit.down-\\textsc{ss}.\\textsc{seq} be-\\textsc{ss}.\\textsc{seq} man  3.\\textsc{dat} come-\\textsc{pa}-1/3p make.planting.holes-\\textsc{ss}.\\textsc{seq} come-\\textsc{ss}.\\textsc{sim} 3p.\\textsc{acc} tell-\\textsc{pa}-1/3p food dish.out-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -9733,7 +9831,7 @@
             "food",
             "dish.out-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "...pok-ap  ika-iwkin  mua  wiar  \\textstyleEmphasizedVernacularWords{ekap-e-mik}, wiinar-ep.  \\textstyleEmphasizedVernacularWords{Ekap-emi}  wia  maak-e-mik, ``Maa  iiw-eka.''",
         "srcwordsbare": [
             "...pok-ap",
@@ -9800,7 +9898,7 @@
             "that1",
             "see-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Takira  gelemuta  nain{\\cb}\\textsubscript{NP}  uruf-a-m.",
         "srcwordsbare": [
             "{\\ob}Takira",
@@ -9849,7 +9947,8 @@
             "that1",
             "see-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Takira  me  arim-o-k  nain{\\cb}\\textsubscript{\\textsc{rc}}  uruf-a-m.",
         "srcwordsbare": [
             "{\\ob}Takira",
@@ -9911,7 +10010,7 @@
             "one",
             "say-\\textsc{pa}-2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Ni  \\textstyleEmphasizedVernacularWords{nomona}  unuf-a-man  nain{\\cb},  aria  iimeka  kuisow  na-e-man.",
         "srcwordsbare": [
             "{\\ob}Ni",
@@ -9984,7 +10083,7 @@
             "3p.\\textsc{gen}",
             "do-\\textsc{ss}.\\textsc{sim}-be-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ne  {\\ob}eka  opora  \\textstyleEmphasizedVernacularWords{biiris}  marew  nain{\\cb}  wiena on-am-ik-e-mik.",
         "srcwordsbare": [
             "Ne",
@@ -10049,7 +10148,8 @@
             "3p.\\textsc{acc}",
             "see-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Mua}  kuum-e-mik  nain{\\cb}  me  wia  kuuf-a-mik.",
         "srcwordsbare": [
             "{\\ob}Mua",
@@ -10108,7 +10208,8 @@
             "not",
             "eat-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Ne  {\\ob}\\textstyleEmphasizedVernacularWords{akia}  ik-e-k  nain{\\cb}  me  en-e-k.",
         "srcwordsbare": [
             "Ne",
@@ -10173,7 +10274,8 @@
             "not",
             "know-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Fofa}  ikiw-e-mik  nain{\\cb},  \\textstyleEmphasizedVernacularWords{fofa}  nain  yo  me  paayar-e-m.",
         "srcwordsbare": [
             "{\\ob}Fofa",
@@ -10215,6 +10317,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "3p.\\textsc{unm} group  other  3s.\\textsc{unm} help-\\textsc{pa}-1/3p  3s.\\textsc{gen} water buy-\\textsc{ss}.\\textsc{seq} feed.them-\\textsc{pa}-3s that1",
         "imtwordsbare": [
@@ -10253,7 +10356,7 @@
             "feed.them-\\textsc{pa}-3s",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "\\textstyleEmphasizedVernacularWords{Wi}  \\textstyleEmphasizedVernacularWords{teeria}  \\textstyleEmphasizedVernacularWords{papako}  o  asip-a-mik,  {\\ob}ona  eka sesenar-ep  wienak-e-k  nain{\\cb}.",
         "srcwordsbare": [
             "Wi",
@@ -10328,7 +10431,7 @@
             "go-\\textsc{pa}-1/3p",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "\\textstyleEmphasizedVernacularWords{I} \\textstyleEmphasizedVernacularWords{mua}  yiam  ikur,  {\\ob}fikera  ikiw-e-mik  nain{\\cb}.",
         "srcwordsbare": [
             "I",
@@ -10365,6 +10468,7 @@
             "pa",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "3p.\\textsc{unm} man  ...  come-2/3p.\\textsc{ds} feed.them-\\textsc{pa}-1/3p food  search-\\textsc{pa}-1/3p  that1",
         "imtwordsbare": [
@@ -10397,7 +10501,7 @@
             "search-\\textsc{pa}-1/3p",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Wi  mua  ...  ekap-iwkin  wienak-e-mik, {\\ob}\\textstyleEmphasizedVernacularWords{maa}  nop-a-mik  nain{\\cb}.",
         "srcwordsbare": [
             "Wi",
@@ -10458,7 +10562,7 @@
             "that1",
             "die-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Siowa  kasi  keraw-a-k  nain{\\cb}  um-o-k.",
         "srcwordsbare": [
             "{\\ob}Siowa",
@@ -10515,7 +10619,7 @@
             "that1",
             "see-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Mua  ona  emeria=ke  aruf-a-k  nain{\\cb}  uruf-a-m.",
         "srcwordsbare": [
             "{\\ob}Mua",
@@ -10578,7 +10682,7 @@
             "that",
             "blunt-\\textsc{inch}-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "[\\textbf{Burir=iw}  nomokowa  war-e-m  nain,]  burir  nain  duduw-ar-e-k.",
         "srcwordsbare": [
             "[Burir=iw",
@@ -10638,7 +10742,7 @@
             "that1=\\textsc{cf}",
             "blunt-\\textsc{inch}-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textbf{Burir}  nomokowa  war-e-m  nain=ke{\\cb}  duduw-ar-e-k.",
         "srcwordsbare": [
             "{\\ob}Burir",
@@ -10703,7 +10807,7 @@
             "3p.\\textsc{gen}",
             "do-\\textsc{ss}.\\textsc{sim}-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ne  {\\ob}eka  opora  biiris  marew  nain{\\cb}  wiena on-am-ik-e-mik.",
         "srcwordsbare": [
             "Ne",
@@ -10766,7 +10870,7 @@
             "3.\\textsc{dat}",
             "buy-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Moma  p-or-o-mik  nain{\\cb}  wiar  sesenar-e-mik.",
         "srcwordsbare": [
             "{\\ob}Moma",
@@ -10836,7 +10940,7 @@
             "well",
             "get-\\textsc{fu}.2p=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo  ikoka  sirir-owa  aaw-i-yem  nain{\\cb},  nis  pun  eliw aaw-owen=i?",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -10909,7 +11013,7 @@
             "that1",
             "cold"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Iinan  aasa=pa  or-omi  kiikir  furew-a-mik  nain{\\cb}  dabela.",
         "srcwordsbare": [
             "{\\ob}Iinan",
@@ -10966,7 +11070,7 @@
             "that1",
             "turn/reply-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Kululu  ma-e-k  nain{\\cb}  kirip-i-yem.",
         "srcwordsbare": [
             "{\\ob}Kululu",
@@ -11020,7 +11124,7 @@
             "cane",
             "cut-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria  {\\ob}malol=pa  ifemak-i-mik  nain{\\cb}  aana puuk-i-mik.",
         "srcwordsbare": [
             "Aria",
@@ -11055,6 +11159,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Domora=\\textsc{loc} descend-\\textsc{ss}.\\textsc{sim} there be-pa-1/3p  flying.fox become-\\textsc{pa}-1/3p  that1",
         "imtwordsbare": [
@@ -11084,7 +11189,7 @@
             "become-\\textsc{pa}-1/3p",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Domora=pa  or-omi  nan  ik-e-mik,  {\\ob}afa ar-e-mik  nain{\\cb}.",
         "srcwordsbare": [
             "Domora=pa",
@@ -11123,6 +11228,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "noise  put-\\textsc{Np}-\\textsc{pr}.1/3p that1 go-\\textsc{ss}.\\textsc{sim} hear-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -11146,7 +11252,7 @@
             "go-\\textsc{ss}.\\textsc{sim}",
             "hear-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Mukuruna  wua-i-mik  nain{\\cb}  ikiw-ep  miim-eka.",
         "srcwordsbare": [
             "{\\ob}Mukuruna",
@@ -11180,6 +11286,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "noise  put-\\textsc{Np}-\\textsc{pr}.1/3p that1 go-\\textsc{ss}.\\textsc{seq} 3p.\\textsc{acc} hear-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -11206,7 +11313,7 @@
             "3p.\\textsc{acc}",
             "hear-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Mukuruna  wua-i-mik  nain{\\cb}  ikiw-ep  wia  miim-eka.",
         "srcwordsbare": [
             "{\\ob}Mukuruna",
@@ -11270,7 +11377,8 @@
             "2s.\\textsc{acc}",
             "hear-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Maa  mauwa  maak-i-n  nain{\\cb}  me  nefa  miim-i-non.",
         "srcwordsbare": [
             "{\\ob}Maa",
@@ -11341,7 +11449,7 @@
             "cold",
             "eat-\\textsc{Np}-\\textsc{imp}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Mua  naareke  kema  enek-ar-i-ya  nain{\\cb}  eka  dabela enim-i-nok.",
         "srcwordsbare": [
             "{\\ob}Mua",
@@ -11400,7 +11508,7 @@
             "that1",
             "like-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Mua  eliwa  nain{\\cb}  kookal-i-yem.",
         "srcwordsbare": [
             "{\\ob}Mua",
@@ -11449,7 +11557,8 @@
             "that1",
             "see-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Koora  \\textstyleEmphasizedVernacularWords{me}  maneka  nain{\\cb}  uruf-a-m.",
         "srcwordsbare": [
             "{\\ob}Koora",
@@ -11512,7 +11621,7 @@
             "that1",
             "get-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Mesa}  \\textstyleEmphasizedVernacularWords{asia}  fiker(a)  gone=pa  ika-i-ya  nain{\\cb} aaw-em-ik-e-m.",
         "srcwordsbare": [
             "{\\ob}Mesa",
@@ -11553,6 +11662,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "son  1s.\\textsc{unm} talk 2s.\\textsc{acc} tell-\\textsc{Np}-\\textsc{pr}.1s that1 hear-\\textsc{ss}.\\textsc{seq} follow-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -11585,7 +11695,7 @@
             "hear-\\textsc{ss}.\\textsc{seq}",
             "follow-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Muuka,  {\\ob}yo  \\textstyleEmphasizedVernacularWords{opora}  nefa  maak-i-yem  nain{\\cb}  miim-ap ook-e.",
         "srcwordsbare": [
             "Muuka,",
@@ -11651,7 +11761,7 @@
             "1s.\\textsc{gen}",
             "1s/p.younger.sibling=\\textsc{cf}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Takira}  iwoka  iw-e-m  nain{\\cb}  yena  aamun=ke.",
         "srcwordsbare": [
             "{\\ob}Takira",
@@ -11709,7 +11819,7 @@
             "that1",
             "distribute-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria  {\\ob}\\textstyleEmphasizedVernacularWords{maa} \\textstyleEmphasizedVernacularWords{unowa}  wakesim-e-mik  nain{\\cb}  sererk-a-mik.",
         "srcwordsbare": [
             "Aria",
@@ -11768,7 +11878,7 @@
             "that1",
             "sick-\\textsc{inch}-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textbf{Mua}  \\textbf{nain}  \\textbf{ikos}  ikiw-e-mik  nain{\\cb}  napum-ar-e-k.",
         "srcwordsbare": [
             "{\\ob}Mua",
@@ -11804,6 +11914,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "man  woman  3.\\textsc{dat}  die-\\textsc{pa}-3s that1=\\textsc{cf} flee-\\textsc{ss}.\\textsc{seq} village  other go-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -11839,7 +11950,8 @@
             "other",
             "go-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}\\textbf{Mua}  emeria  \\textbf{wiar}  um-o-k  nain=ke{\\cb}  baurar-ep owowa  oko  ikiw-o-k.",
         "srcwordsbare": [
             "{\\ob}Mua",
@@ -11903,7 +12015,7 @@
             "not",
             "understand-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Fofa  ikiw-e-mik  nain{\\cb}  me  paayar-e-m.",
         "srcwordsbare": [
             "{\\ob}Fofa",
@@ -11963,7 +12075,7 @@
             "that1",
             "see-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Koora  maneka  wiena  opora  siisim-i-mik  nain{\\cb}  uruf-a-mik.",
         "srcwordsbare": [
             "{\\ob}Koora",
@@ -12031,7 +12143,7 @@
             "Madang",
             "go-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "[Aite  uroma  yaki-e-k  fofa  nain/nan/neeke] auwa  Madang  ikiw-o-k.",
         "srcwordsbare": [
             "[Aite",
@@ -12073,6 +12185,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "descend-\\textsc{ss}.\\textsc{seq} 1p.\\textsc{unm} house be-\\textsc{pa}-1p there.\\textsc{cf} come-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -12099,7 +12212,7 @@
             "there.\\textsc{cf}",
             "come-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Or-op  {\\ob}i  koora  ik-e-mik  neeke{\\cb}  ekap-o-k.",
         "srcwordsbare": [
             "Or-op",
@@ -12155,7 +12268,7 @@
             "get-\\textsc{pa}-3s",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Bang=ke  ekap-o-k,  {\\ob}Ponkila  aaw-o-k  nain{\\cb}.",
         "srcwordsbare": [
             "Bang=ke",
@@ -12216,7 +12329,7 @@
             "that1",
             "dislike-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Yo  nena  owowa  {\\ob}moma  marew  nain{\\cb}  miatin-i-yem.",
         "srcwordsbare": [
             "Yo",
@@ -12279,7 +12392,7 @@
             "come-\\textsc{distr}/\\textsc{pl}-\\textsc{pa}-1/3p",
             "this"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Nomokowa  unowa  fan-e-mik,  {\\ob}Simbine ekap-omak-e-mik  fain{\\cb}.",
         "srcwordsbare": [
             "Nomokowa",
@@ -12342,7 +12455,7 @@
             "go-\\textsc{pa}-1/3p",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  mua  yiam  ikur,  {\\ob}fikera  ikiw-e-mik  nain{\\cb}.",
         "srcwordsbare": [
             "I",
@@ -12382,6 +12495,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "\\textsc{add} 3s.\\textsc{gen} man  also  say-\\textsc{pa}-3s river big  that1=\\textsc{cf} come-\\textsc{ss}.\\textsc{sim} kill-\\textsc{pa}-3s  say-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -12423,7 +12537,7 @@
             "kill-\\textsc{pa}-3s",
             "say-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ne  ona  mua  pun  \\textbf{ma-e-k},  ``Eka  maneka  nain=ke iwa-mi  ifakim-o-k,''  \\textstyleEmphasizedVernacularWords{na-e-k}.",
         "srcwordsbare": [
             "Ne",
@@ -12506,7 +12620,7 @@
             "1s.\\textsc{acc}",
             "disobey-\\textsc{pa}-2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Panewowa=ke  \\textbf{ma-e-k},  ``Yo  nia  maak-emkun  opaimika efa  fien-a-man.''",
         "srcwordsbare": [
             "Panewowa=ke",
@@ -12551,6 +12665,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "dish.out-\\textsc{ss}.\\textsc{seq} daughter  son  that1 3p.\\textsc{acc} tell-\\textsc{pa}-3s 1s/p.father food \\textsc{bpx}-go-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -12586,7 +12701,7 @@
             "food",
             "\\textsc{bpx}-go-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Iiw-ep  wiipa  muuka  nain  wia  \\textbf{maak-e-k}, ``Auwa  maa  p-ikiw-om-aka.",
         "srcwordsbare": [
             "Iiw-ep",
@@ -12656,7 +12771,7 @@
             "burn-\\textsc{imp}.2s",
             "tell-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "``No  bom  fain=iw  mera  kuum-e,''  \\textbf{naak-e-mik}.",
         "srcwordsbare": [
             "``No",
@@ -12728,7 +12843,7 @@
             "3p.\\textsc{acc}",
             "tell-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "``I  muuka  marew  a,  wiipa  marew  a,''  \\textbf{naap} \\textbf{wia} \\textstyleEmphasizedVernacularWords{maak-e-k}.",
         "srcwordsbare": [
             "``I",
@@ -12782,6 +12897,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "\\textsc{add} 3s/p.mother  {\\O}  Ah,  salt.water  here.\\textsc{cf} fetch(water)-\\textsc{imp}.2p \\textsc{add} 3p.\\textsc{unm} tell-\\textsc{pa}-1/3p No  1p.\\textsc{unm} \\textsc{rdp}-descend-\\textsc{ss}.\\textsc{seq} fetch-\\textsc{Np}-\\textsc{fu}.1p Ah there.\\textsc{cf}-{\\O}=\\textsc{lim} fetch-\\textsc{imp}.2p no 1p.\\textsc{unm} \\textsc{rdp}-descend-\\textsc{Np}-\\textsc{fu}.1p",
         "imtwordsbare": [
@@ -12850,7 +12966,7 @@
             "1p.\\textsc{unm}",
             "\\textsc{rdp}-descend-\\textsc{Np}-\\textsc{fu}.1p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ne  onak=ke  \\textstyleEmphasizedVernacularWords{{\\O}},  ``A,  ifera  feeke  un-eka.'' Ne  wi  maak-e-mik,  ``Wia,  i  oro-or-op un-i-yan.''  ``A,  neeke-r=iw  un-eka.''  ``Weetak, i  oro-ora-i-yan.''",
         "srcwordsbare": [
             "Ne",
@@ -12953,7 +13069,7 @@
             "Sarak=\\textsc{cf}",
             "{\\O}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "``Mauwa ar-e-n, amia=iya nenar-e-mik=i?'' Sarak=ke \\textstyleEmphasizedVernacularWords{{\\O}}.\\hspace{-1mm}",
         "srcwordsbare": [
             "``Mauwa",
@@ -13010,7 +13126,7 @@
             "come-\\textsc{pa}-1/3p",
             "say-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria,  Kalina,  {\\ob}Amerika  ekap-e-mik{\\cb}  na-i-mik.",
         "srcwordsbare": [
             "Aria,",
@@ -13061,7 +13177,7 @@
             "village=\\textsc{loc}",
             "be-\\textsc{pa}-2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ma-e-m,  {\\ob}nena  owowa=pa  ik-o-n{\\cb}.",
         "srcwordsbare": [
             "Ma-e-m,",
@@ -13116,7 +13232,7 @@
             "3s.\\textsc{unm}",
             "follow.her-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aite=ke  {\\ob}manina  yook-e{\\cb}  na-eya  o ook-e.",
         "srcwordsbare": [
             "Aite=ke",
@@ -13156,6 +13272,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2p.\\textsc{unm} Christ 1s.\\textsc{gen} family 1s.\\textsc{dat} be-\\textsc{imp}.2p say-\\textsc{ss}.\\textsc{seq} 2p.\\textsc{acc} call-2/3s.\\textsc{ds} 3s.\\textsc{gen} family 3.\\textsc{dat} be-\\textsc{pa}-2p",
         "imtwordsbare": [
@@ -13203,7 +13320,7 @@
             "3.\\textsc{dat}",
             "be-\\textsc{pa}-2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ni  Krais  {\\ob}yena  teeria  efar  ik-eka{\\cb}  na-ep nia  far-eya  ona  teeria  wiar  ik-e-man.",
         "srcwordsbare": [
             "Ni",
@@ -13262,6 +13379,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Sarak \\textsc{intj} America come-\\textsc{ss}.\\textsc{seq} Ulingan  there be-\\textsc{pa}-1/3p 2s.\\textsc{acc} wonder.about-\\textsc{Np}-\\textsc{pr}.1/3p say-\\textsc{Np}-\\textsc{pr}.1/3p \\textsc{intj}",
         "imtwordsbare": [
@@ -13303,7 +13421,7 @@
             "say-\\textsc{Np}-\\textsc{pr}.1/3p",
             "\\textsc{intj}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Sarak  oo,  Amerika  ekap-ep  Ulingan  nan  ik-e-mik, {\\ob}\\textstyleEmphasizedVernacularWords{nefa}  ikum-i-mik{\\cb}  na-i-mik  oo.",
         "srcwordsbare": [
             "Sarak",
@@ -13381,7 +13499,7 @@
             "that1",
             "send-\\textsc{ben}-\\textsc{bnfy}1.\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "No  owowa  ikiw-ep  buk  nain  sesek-om-e.",
         "srcwordsbare": [
             "No",
@@ -13452,7 +13570,7 @@
             "1s.\\textsc{acc}",
             "say-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Yo} owowa \\textstyleEmphasizedVernacularWords{ikiw-ep} buk  nain  sesek-om-e{\\cb} efa  na-e-k.",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -13509,7 +13627,7 @@
             "2s.\\textsc{dat}",
             "go-\\textsc{Np}-\\textsc{fu}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Uurika  nefar  ikiw-i-nen.",
         "srcwordsbare": [
             "Uurika",
@@ -13561,7 +13679,7 @@
             "but",
             "no"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Ikoka}  \\textstyleEmphasizedVernacularWords{efar}  \\textstyleEmphasizedVernacularWords{ekap-}i-nen{\\cb}  na-e-k  na  weetak.",
         "srcwordsbare": [
             "{\\ob}Ikoka",
@@ -13612,7 +13730,7 @@
             "village=\\textsc{loc}",
             "be-\\textsc{pa}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ona  owowa=pa  ik-ua.",
         "srcwordsbare": [
             "Ona",
@@ -13668,7 +13786,7 @@
             "not",
             "look-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Muuka  ifera  me  enim-i-non{\\cb} na-ep  me  uruf-a-m.",
         "srcwordsbare": [
             "{\\ob}Muuka",
@@ -13708,6 +13826,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "man  inexperienced=\\textsc{cf} tide=\\textsc{cf} go-\\textsc{Np}-\\textsc{pr}.3s think-\\textsc{ss}.\\textsc{seq} tide descend-\\textsc{Np}-\\textsc{fu}.2s",
         "imtwordsbare": [
@@ -13737,7 +13856,7 @@
             "tide",
             "descend-\\textsc{Np}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mua  pepena=ke  {\\ob}menat=ke  ek-i-ya{\\cb}  na-ep menat  ora-i-nan.",
         "srcwordsbare": [
             "Mua",
@@ -13801,7 +13920,7 @@
             "be-\\textsc{pa}.3s",
             "say-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Wi  uf-ow(a)  epa  kaaneke  ik-ua{\\cb}  na-e-k.",
         "srcwordsbare": [
             "{\\ob}Wi",
@@ -13862,7 +13981,7 @@
             "get-\\textsc{Np}-\\textsc{fu}.3s",
             "say-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}O  ikoka  sesa  kamenap  aaw-i-non{\\cb}  na-e-k.",
         "srcwordsbare": [
             "{\\ob}O",
@@ -13901,6 +14020,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "or",
         "filename": "67/8.tex",
         "imt": "rotten-\\textsc{inch}-\\textsc{Np}-\\textsc{fu}.3s=\\textsc{qm} or.what  think-\\textsc{ss}.\\textsc{seq} see-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}.3s",
         "imtwordsbare": [
@@ -13921,7 +14041,7 @@
             "think-\\textsc{ss}.\\textsc{seq}",
             "see-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Beel-al-i-non=i  kamenion{\\cb}  na-ep uruf-am-ik-ua.",
         "srcwordsbare": [
             "{\\ob}Beel-al-i-non=i",
@@ -13973,7 +14093,8 @@
             "say-\\textsc{ss}.\\textsc{seq}",
             "dish.out-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "modality": "volitive",
         "src": "Niena  {\\ob}maa  enim-u{\\cb}  na-ep  iiw-eka.",
         "srcwordsbare": [
             "Niena",
@@ -14030,7 +14151,8 @@
             "say-\\textsc{nps}-\\textsc{fu}.1s",
             "say-\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "modality": "volitive",
         "src": "Yo  {\\ob}opora  gelemuta=ko  ma-i-nen{\\cb}  na-ep.",
         "srcwordsbare": [
             "Yo",
@@ -14063,6 +14185,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "aidpost \\textsc{\\textsc{bp}x}-go-\\textsc{imp}.1d say-\\textsc{ss}.\\textsc{seq} land-canoe search-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -14086,7 +14209,8 @@
             "land-canoe",
             "search-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "modality": "volitive",
         "src": "{\\ob}Haussik  p-ek-u{\\cb}  na-ep  miiw-aasa  nop-a-mik.",
         "srcwordsbare": [
             "{\\ob}Haussik",
@@ -14141,7 +14265,7 @@
             "see-\\textsc{cntf}-\\textsc{pa}-1s",
             "say-\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo=ko  wia  uruf-ek-a-m{\\cb} na-ep.",
         "srcwordsbare": [
             "{\\ob}Yo=ko",
@@ -14173,6 +14297,7 @@
             "tp",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "\\textsc{add} 3s.\\textsc{unm} see-\\textsc{nmz} \\textsc{add} food  eat-\\textsc{nmz} help-\\textsc{nmz} say-\\textsc{ss}.\\textsc{seq}=\\textsc{tp} well help-\\textsc{imp}.3p",
         "imtwordsbare": [
@@ -14211,7 +14336,8 @@
             "well",
             "help-\\textsc{imp}.3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "modality": "volitive",
         "src": "Ne  {\\ob}o  uruf-owa{\\cb}  ne  {\\ob}maa  en-owa  asip-owa{\\cb} na-ep=na  eliw  asip-uk.",
         "srcwordsbare": [
             "Ne",
@@ -14280,7 +14406,7 @@
             "say-\\textsc{ss}.\\textsc{seq}",
             "work-\\textsc{Np}-\\textsc{pr}.1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Weniwa=pa  en-owa{\\cb}  na-ep  uuw-i-mik.",
         "srcwordsbare": [
             "{\\ob}Weniwa=pa",
@@ -14337,7 +14463,7 @@
             "say/think-\\textsc{ss}.\\textsc{seq}",
             "go-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Wi  Amerika  wiam=iya  irak-owa{\\cb}  na-ep  ikiw-e-mik.",
         "srcwordsbare": [
             "{\\ob}Wi",
@@ -14405,7 +14531,7 @@
             "make-\\textsc{nmz}",
             "say-\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ona  siowa  ikos  manina  ikiw-e-mik, {\\ob}pika  on-owa{\\cb} na-ep.",
         "srcwordsbare": [
             "Ona",
@@ -14475,7 +14601,7 @@
             "1s.\\textsc{unm}",
             "come-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Nain  nefa  maak-i-nen{\\cb}  na-ep  yo  ep-a-m.",
         "srcwordsbare": [
             "{\\ob}Nain",
@@ -14513,6 +14639,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{unm} betelnut  buy-\\textsc{Np}-\\textsc{fu}.1s say-\\textsc{ss}.\\textsc{seq} Kainantu  market go-\\textsc{ss}.\\textsc{seq} there.\\textsc{cf} get-\\textsc{nps}-\\textsc{fu}.2s",
         "imtwordsbare": [
@@ -14548,7 +14675,7 @@
             "there.\\textsc{cf}",
             "get-\\textsc{nps}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "No  {\\ob}owora  sesenar-i-nen{\\cb}  na-ep  Kainantu  fofa ikiw-ep  neeke  aaw-i-nan.",
         "srcwordsbare": [
             "No",
@@ -14620,7 +14747,7 @@
             "land-canoe",
             "search-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ne  {\\ob}haussik  p-ek-u{\\cb} na-ep miiw-aasa nop-a-mik.",
         "srcwordsbare": [
             "Ne",
@@ -14679,7 +14806,8 @@
             "jungle=\\textsc{loc}",
             "be-\\textsc{pa}-1/3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Me  yiar-uk{\\cb}  na-ep  koka=pa  ik-e-mik.",
         "srcwordsbare": [
             "{\\ob}Me",
@@ -14744,7 +14872,8 @@
             "thus",
             "make-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Auwa=ke  o=ko  amukar-inok{\\cb}  na-ep  maa  naap sirar-em-ik-e-mik.",
         "srcwordsbare": [
             "{\\ob}Auwa=ke",
@@ -14811,7 +14940,7 @@
             "like.this",
             "do-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Nain  {\\ob}ni  amis-ar-eka{\\cb}  na-ep  feenap on-i-yem.",
         "srcwordsbare": [
             "Nain",
@@ -14867,7 +14996,7 @@
             "say-\\textsc{ss}.\\textsc{seq}",
             "come-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Efa  asip-e{\\cb}  na-ep  ekap-e-m.",
         "srcwordsbare": [
             "{\\ob}Efa",
@@ -14920,7 +15049,7 @@
             "1p.\\textsc{acc}",
             "send-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Feenap  nokar-eka{\\cb}  na-ep  yia  sesek-a-k.",
         "srcwordsbare": [
             "{\\ob}Feenap",
@@ -14955,6 +15084,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{unm} 1s.\\textsc{acc} hear-\\textsc{imp}.2p say-\\textsc{ss}.\\textsc{seq} hand put-\\textsc{ss}.\\textsc{sim} say-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -14984,7 +15114,7 @@
             "put-\\textsc{ss}.\\textsc{sim}",
             "say-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo efa miim-eka{\\cb} na-ep wapena wu-ami ma-e-k,{\\dots}",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -15030,6 +15160,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "\\textsc{add} 3p.\\textsc{unm} silent-\\textsc{inch}-\\textsc{distr}/\\textsc{a}-\\textsc{ss}.\\textsc{seq} be-\\textsc{ss} ear  only put-\\textsc{ss}.\\textsc{sim}-be-\\textsc{Np}-\\textsc{fu}.3p  man  name  3p.\\textsc{acc} hear-\\textsc{imp}.1d say-\\textsc{ss}.\\textsc{seq}",
         "imtwordsbare": [
@@ -15074,7 +15205,7 @@
             "hear-\\textsc{imp}.1d",
             "say-\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ne  wi  popor-ar-urum-ep  ik-ok  ifana  muutiw wu-am-ika-i-kuan,  {\\ob}mua  unuma  wia  miim-u{\\cb} na-ep.",
         "srcwordsbare": [
             "Ne",
@@ -15161,7 +15292,8 @@
             "say-\\textsc{ss}.\\textsc{seq}",
             "say-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Yo  me  pina=pa  nia  wu-ek-a-m{\\cb}  na-ep ma-i-yem.",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -15222,7 +15354,7 @@
             "take-\\textsc{nmz}",
             "ascend-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo  yena  emeria  aaw-owa{\\cb}  urup-e-m.",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -15272,7 +15404,7 @@
             "talk",
             "talk-\\textsc{nmz}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Bogia  ikiw-e-mik,  {\\ob}opaimika  aakun-owa{\\cb}.",
         "srcwordsbare": [
             "Bogia",
@@ -15326,7 +15458,7 @@
             "that1",
             "walk-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Tunde=pa  {\\ob}maa  muutitik  uruf-owa  nain{\\cb}  soomar-e-mik.",
         "srcwordsbare": [
             "Tunde=pa",
@@ -15364,6 +15496,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "press-\\textsc{ss}.\\textsc{seq} stone on.top=\\textsc{loc} put-\\textsc{Np}-\\textsc{fu}.2s later sea not \\textsc{bpx}-go-\\textsc{nmz} that1",
         "imtwordsbare": [
@@ -15399,7 +15532,8 @@
             "\\textsc{bpx}-go-\\textsc{nmz}",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Ifemak-ep  nomona  iinan=pa  wua-i-nan,  {\\ob}ikoka  ifera  me p-ikiw-owa  nain{\\cb}.",
         "srcwordsbare": [
             "Ifemak-ep",
@@ -15470,7 +15604,8 @@
             "not",
             "enough"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Mukuna  umuk-u  na-ep  on-a-mik{\\cb}=na  me  pepek.",
         "srcwordsbare": [
             "{\\ob}Mukuna",
@@ -15531,7 +15666,7 @@
             "do-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds}",
             "hold-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Emeria  aruf-i-nen  na-ep  on-am-ik-eya{\\cb}  op-a-mik.",
         "srcwordsbare": [
             "{\\ob}Emeria",
@@ -15565,6 +15700,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "3p.\\textsc{acc} see-\\textsc{cntf}-\\textsc{pa}-1s say-\\textsc{ss}.\\textsc{seq} do-\\textsc{pa}-3s do-\\textsc{pa}-3s no 3s.\\textsc{unm} not  3p.\\textsc{acc} see-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -15603,7 +15739,7 @@
             "3p.\\textsc{acc}",
             "see-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Wia  uruf-ek-a-m  na-ep  on-a-k  on-a-k{\\cb} weetak, o me wia  uruf-a-k.",
         "srcwordsbare": [
             "{\\ob}Wia",
@@ -15652,6 +15788,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "canoe  carve-\\textsc{nmz} try-\\textsc{ss}.\\textsc{seq} try-\\textsc{ss}.\\textsc{seq} knowledge-\\textsc{inch}-\\textsc{Np}-\\textsc{fu}.2s",
         "imtwordsbare": [
@@ -15675,7 +15812,7 @@
             "try-\\textsc{ss}.\\textsc{seq}",
             "knowledge-\\textsc{inch}-\\textsc{Np}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Aasa  keraw-owa{\\cb}  akim-ap  akim-ap amis-ar-i-nan.",
         "srcwordsbare": [
             "{\\ob}Aasa",
@@ -15731,7 +15868,7 @@
             "that1",
             "try-\\textsc{ss}.\\textsc{sim}-be-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Weria  op-ap  wiinar-owa nain{\\cb}  akim-am-ik-e.",
         "srcwordsbare": [
             "{\\ob}Weria",
@@ -15784,7 +15921,8 @@
             "say-\\textsc{Np}-\\textsc{fu}.1s",
             "say/think-\\textsc{ss}.\\textsc{seq}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "modality": "volitive",
         "src": "{\\ob}Opora  gelemuta=ko{\\cb}\\textsubscript{\\textsc{np}}  ma-i-nen  na-ep.",
         "srcwordsbare": [
             "{\\ob}Opora",
@@ -15855,7 +15993,7 @@
             "that1",
             "say-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria  yo  aakisa  {\\ob}takira  en-owa  gelemuta  wia on-om-a-mik  nain{\\cb}\\textsubscript{\\textsc{cc}} ma-i-yem.",
         "srcwordsbare": [
             "Aria",
@@ -15893,6 +16031,7 @@
             "nain{\\cb}\\textsubscript{\\textsc{cc}}",
             "ma-i-yem."
         ],
+        "time": "present",
         "trs": "Alright now I tell about our making a feast for the children."
     },
     {
@@ -15905,6 +16044,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Tuesday=\\textsc{loc} kunai.grass burn-2/3p.\\textsc{ds} go-\\textsc{ss}.\\textsc{seq} pig spear-\\textsc{pa}-1s that1 say-\\textsc{Np}-\\textsc{pr}.1s",
         "imtwordsbare": [
@@ -15937,7 +16077,7 @@
             "that1",
             "say-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Tunde=pa  fikera  kuum-iwkin  ikiw-ep  waaya mik-a-m  nain{\\cb}\\textsubscript{\\textsc{cc}} ma-i-yem.",
         "srcwordsbare": [
             "{\\ob}Tunde=pa",
@@ -16017,7 +16157,7 @@
             "little=\\textsc{nf}",
             "say-\\textsc{Np}-\\textsc{pr}.1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Aria  yo  aakisa  {\\ob}fikera  ikum  kuum-e-mik  nain{\\cb}\\textsubscript{\\textsc{cc}} opora  gelemuta=ko  ma-i-yem.",
         "srcwordsbare": [
             "Aria",
@@ -16055,6 +16195,7 @@
             "gelemuta=ko",
             "ma-i-yem."
         ],
+        "time": "present",
         "trs": "Alright now I tell a little story about the kunai grass that was burned by arson."
     },
     {
@@ -16078,7 +16219,7 @@
             "work-\\textsc{nmz}",
             "talk"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "manina  uuw-owa  opora",
         "srcwordsbare": [
             "manina",
@@ -16139,7 +16280,7 @@
             "3s.\\textsc{unm}",
             "become-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  {\\ob}yiena  {\\ob}miiw-aasa  muf-owa{\\cb}  ikiw-owa{\\cb} na-em-ik-omkun  o  ar-e-k.",
         "srcwordsbare": [
             "I",
@@ -16209,7 +16350,7 @@
             "2s.\\textsc{acc}",
             "tell-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Emar,  {\\ob}no  muut  fain  uf-owa{\\cb}  nefa  maak-e-m.",
         "srcwordsbare": [
             "Emar,",
@@ -16268,7 +16409,7 @@
             "1p.\\textsc{unm}",
             "hear-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Mukuruna  wu-am-ika-iwkin{\\cb}  i  miim-a-mik.",
         "srcwordsbare": [
             "{\\ob}Mukuruna",
@@ -16320,7 +16461,7 @@
             "be-2/3s.\\textsc{ds}",
             "see-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Urema  maneka  um-ep  ika-eya{\\cb}  uruf-a-mik.",
         "srcwordsbare": [
             "{\\ob}Urema",
@@ -16351,6 +16492,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Jesus  village  above  ascend-\\textsc{pa}-3s that1 see-\\textsc{ss}.\\textsc{seq} rejoice-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -16380,7 +16522,7 @@
             "see-\\textsc{ss}.\\textsc{seq}",
             "rejoice-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yeesus  owow  iinan  urup-o-k  nain{\\cb}\\textsubscript{\\textsc{cc}}  uruf-ap kemel-a-mik.",
         "srcwordsbare": [
             "{\\ob}Yeesus",
@@ -16448,7 +16590,7 @@
             "that1",
             "see-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ni  {\\ob}kakala  sira  kamenap  eliw-ar-i-ya  nain{\\cb}\\textsubscript{\\textsc{cc}} uruf-eka.",
         "srcwordsbare": [
             "Ni",
@@ -16490,6 +16632,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "3s.   where.\\textsc{cf} get-\\textsc{ss}.\\textsc{seq} \\textsc{bpx}-come-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1/3p that1  not  knowledge-\\textsc{inch}-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -16519,7 +16662,7 @@
             "not",
             "knowledge-\\textsc{inch}-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "O  {\\ob}kaanek  aaw-ep  p-ekap-om-a-mik nain{\\cb}  me  amis-ar-e-k.",
         "srcwordsbare": [
             "O",
@@ -16578,7 +16721,7 @@
             "that1",
             "knowledge-\\textsc{inch}-\\textsc{pa}-2s=\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}O  ikiw-owa  nain{\\cb}  amis-ar-e-n=i?",
         "srcwordsbare": [
             "{\\ob}O",
@@ -16629,7 +16772,7 @@
             "not",
             "knowledge-\\textsc{inch}-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Nain  on-owa  (nain){\\cb} me  amis-ar-e-m.",
         "srcwordsbare": [
             "{\\ob}Nain",
@@ -16681,7 +16824,7 @@
             "make-\\textsc{ss}.\\textsc{seq}",
             "knowledge-\\textsc{inch}-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Sawiter  inera  on-ap{\\cb}  amis-ar-e-k.",
         "srcwordsbare": [
             "{\\ob}Sawiter",
@@ -16729,7 +16872,8 @@
             "not",
             "understand-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Owora  en-ep{\\cb}  me  paayar-e-m.",
         "srcwordsbare": [
             "{\\ob}Owora",
@@ -16781,7 +16925,7 @@
             "take-\\textsc{nmz}",
             "good=\\textsc{cf}.\\textsc{qm}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Maa  wiar  ikum  aaw-owa{\\cb}  eliwa=ki?",
         "srcwordsbare": [
             "{\\ob}Maa",
@@ -16836,7 +16980,7 @@
             "thing",
             "no(ne)"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Maa  eneka  me  en-owa{\\cb}  maa  marew.",
         "srcwordsbare": [
             "{\\ob}Maa",
@@ -16901,7 +17045,8 @@
             "good",
             "no(ne)"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Ni  unuma  niam  p-ir-i-man  nain{\\cb}  eliw(a) marew.",
         "srcwordsbare": [
             "{\\ob}Ni",
@@ -16972,7 +17117,7 @@
             "what.like",
             "do-\\textsc{Np}-\\textsc{pr}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ni  {\\ob}ifa  nia  keraw-i-ya  nain{\\cb}  sira  kamenap on-i-man?",
         "srcwordsbare": [
             "Ni",
@@ -17040,7 +17185,7 @@
             "1s.\\textsc{unm}",
             "be.startled-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Maa  fain  pakak  na-e-k  nain{\\cb}  yo  soran-e-m.",
         "srcwordsbare": [
             "{\\ob}Maa",
@@ -17100,7 +17245,7 @@
             "tooth",
             "long-\\textsc{inch}-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo  napum-ar-e-m  nain{\\cb}  eneka  maay-ar-e-m.",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -17133,6 +17278,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{unm} sick-\\textsc{inch}-\\textsc{ss}.\\textsc{seq} tooth  long-\\textsc{inch}-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -17153,7 +17299,7 @@
             "tooth",
             "long-\\textsc{inch}-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Yo  napum-ar-ep  eneka  maay-ar-e-m.",
         "srcwordsbare": [
             "Yo",
@@ -17183,6 +17329,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1p.\\textsc{unm} thus  go-\\textsc{ss}.\\textsc{seq} 1p.\\textsc{gen} garden  make-\\textsc{pa}-1p  there be-\\textsc{pa}-1p",
         "imtwordsbare": [
@@ -17215,7 +17362,7 @@
             "there",
             "be-\\textsc{pa}-1p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "I  naap  ikiw-ep  {\\ob}yiena  manina  on-a-mik  nan{\\cb} ik-e-mik.",
         "srcwordsbare": [
             "I",
@@ -17276,7 +17423,7 @@
             "there.\\textsc{cf}",
             "walk-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Luuwa  niir-i-mik  neeke{\\cb}  soomar-e-mik.",
         "srcwordsbare": [
             "{\\ob}Luuwa",
@@ -17307,6 +17454,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{unm} sleep-\\textsc{Np}-\\textsc{pr}.2s side there ascend-\\textsc{ss}.\\textsc{seq} inside go-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -17336,7 +17484,7 @@
             "inside",
             "go-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}No  in-i-n  kame  nan{\\cb}  urup-ep  tepak  iw-a-mik.",
         "srcwordsbare": [
             "{\\ob}No",
@@ -17395,7 +17543,7 @@
             "not",
             "able"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Mukuna  nain  umuk-a-mik=\\textstyleEmphasizedVernacularWords{na}  me  pepek.",
         "srcwordsbare": [
             "Mukuna",
@@ -17433,6 +17581,7 @@
             "ss",
             "tp"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "boy  other=\\textsc{cf} turtle egg  put-\\textsc{cntf}-\\textsc{pa}-1s  say-\\textsc{ss}.\\textsc{seq} ascend-\\textsc{ss}.\\textsc{sim}-be-2/3s.\\textsc{ds} see-\\textsc{ss}.\\textsc{seq} crocodile=\\textsc{cf} say-\\textsc{ss}.\\textsc{seq} shout-\\textsc{ss}.\\textsc{sim} flee-\\textsc{pa}-3s boy  many come-\\textsc{ss}.\\textsc{seq} see-\\textsc{pa}-1/3p=\\textsc{tp} turtle=\\textsc{cf} \\textsc{add} many=\\textsc{com} hold-\\textsc{ss}.\\textsc{seq} turn-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -17504,7 +17653,7 @@
             "hold-\\textsc{ss}.\\textsc{seq}",
             "turn-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Takir(a)  oko=ke  pon  muneka  wu-ek-a-m  na-ep urup-em-ika-eya  uruf-ap  tuar=ke  na-ep alu-emi  baurar-e-k.  Takir(a)  unowa  ekap-ep uruf-a-mik=\\textstyleEmphasizedVernacularWords{na}  pon=ke,  ne  unow=iya  op-ap kirip-a-mik.",
         "srcwordsbare": [
             "Takir(a)",
@@ -17617,7 +17766,8 @@
             "good",
             "no(ne)"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "Aakisa  yo  nefa  uruf-i-yem=\\textstyleEmphasizedVernacularWords{na} no  mua eliw marew.",
         "srcwordsbare": [
             "Aakisa",
@@ -17649,6 +17799,7 @@
             "eliw",
             "marew."
         ],
+        "time": "present",
         "trs": "I now look at you but you are not a good man."
     },
     {
@@ -17675,7 +17826,7 @@
             "put-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{pa}-1/3p=\\textsc{tp}",
             "no"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Marasin  wu-om-a-mik=\\textstyleEmphasizedVernacularWords{na}  weetak.",
         "srcwordsbare": [
             "Marasin",
@@ -17731,7 +17882,7 @@
             "stomach",
             "wash-\\textsc{cntf}-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo  Sek  haussik  ikiw-\\textstyleEmphasizedVernacularWords{ek}-a-m=\\textstyleEmphasizedVernacularWords{na}{\\cb}  miiw-aasa=pa uroma  yaki-\\textstyleEmphasizedVernacularWords{ek}-a-m.",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -17792,7 +17943,7 @@
             "see-\\textsc{cntf}-\\textsc{pa}-1s=\\textsc{tp}",
             "be.happy-\\textsc{cntf}-\\textsc{pa}-1s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yena  aamun  aakisa  uruf-\\textstyleEmphasizedVernacularWords{ek}-a-m=\\textstyleEmphasizedVernacularWords{na}{\\cb} kemel-\\textstyleEmphasizedVernacularWords{ek}-a-m.",
         "srcwordsbare": [
             "{\\ob}Yena",
@@ -17826,6 +17977,7 @@
             "ss",
             "tp"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Morauta  stand.up-\\textsc{nmz} man be-\\textsc{cntf}-\\textsc{pa}-3s=\\textsc{tp} tomorrow go-\\textsc{ss}.\\textsc{seq} tell-\\textsc{cntf}-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -17855,7 +18007,7 @@
             "go-\\textsc{ss}.\\textsc{seq}",
             "tell-\\textsc{cntf}-\\textsc{pa}-1/3p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Morauta  iimar-ow(a)  mua  ik-\\textstyleEmphasizedVernacularWords{ek}-a-k=\\textstyleEmphasizedVernacularWords{na},{\\cb} uurika ikiw-ep  maak-\\textstyleEmphasizedVernacularWords{ek}-a-mik.",
         "srcwordsbare": [
             "{\\ob}Morauta",
@@ -17912,7 +18064,7 @@
             "be-\\textsc{cntf}-\\textsc{pa}-3s=\\textsc{tp}",
             "recover-\\textsc{cntf}-\\textsc{pa}-3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Inasin  napuma  ik-\\textstyleEmphasizedVernacularWords{ek}-a-k=\\textstyleEmphasizedVernacularWords{na}{\\cb}  sariar-\\textstyleEmphasizedVernacularWords{ek}-a-k.",
         "srcwordsbare": [
             "{\\ob}Inasin",
@@ -17974,7 +18126,7 @@
             "lazy",
             "be-\\textsc{Np}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}No  oram  mokok=iw  \\textstyleEmphasizedVernacularWords{ika-i-nan=na}{\\cb}  ikoka  mua  lebuma \\textstyleEmphasizedVernacularWords{ika}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{i}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{nan}.",
         "srcwordsbare": [
             "{\\ob}No",
@@ -18018,6 +18170,7 @@
             "ss",
             "tp"
         ],
+        "coordination": "or",
         "filename": "67/8.tex",
         "imt": "woman  buy-\\textsc{cntf}-\\textsc{pa}-1s say/think-\\textsc{ss}.\\textsc{seq}=\\textsc{tp} pig  ten  two thus  feed.him-\\textsc{Np}-\\textsc{fu}.3s",
         "imtwordsbare": [
@@ -18050,7 +18203,8 @@
             "thus",
             "feed.him-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "modality": "volitive",
         "src": "{\\ob}Emeria  \\textstyleEmphasizedVernacularWords{sesenar-ek-a-m} \\textstyleEmphasizedVernacularWords{na-ep=na}{\\cb} waaya  ten  erup naap  wienak-i-non.",
         "srcwordsbare": [
             "{\\ob}Emeria",
@@ -18092,6 +18246,7 @@
             "ss",
             "tp"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "betelnut  this  1s/p.mother  old  feed-\\textsc{imp}.2s come-\\textsc{ss}.\\textsc{seq} arrive-2/3s.\\textsc{ds}=\\textsc{tp}",
         "imtwordsbare": [
@@ -18121,7 +18276,7 @@
             "come-\\textsc{ss}.\\textsc{seq}",
             "arrive-2/3s.\\textsc{ds}=\\textsc{tp}"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Owora  fain  aite  panewowa  onak-e,  {\\ob}ekap-ep \\textstyleEmphasizedVernacularWords{kerer-eya=na}{\\cb}.",
         "srcwordsbare": [
             "Owora",
@@ -18171,7 +18326,7 @@
             "no-2/3s.\\textsc{ds}=\\textsc{tp}",
             "no"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Weetak-eya}\\textstyleEmphasizedVernacularWords{=na}{\\cb}  weetak.",
         "srcwordsbare": [
             "{\\ob}Weetak-eya=na{\\cb}",
@@ -18216,7 +18371,7 @@
             "1p.\\textsc{acc}",
             "tell-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Mauw-owa  \\textstyleEmphasizedVernacularWords{manek-aya=na}{\\cb}  yia  maak-i-non.",
         "srcwordsbare": [
             "{\\ob}Mauw-owa",
@@ -18266,7 +18421,7 @@
             "3p.\\textsc{acc}",
             "tell-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Wia  \\textstyleEmphasizedVernacularWords{uruf-ap=na}{\\cb}  wia  maak-e.",
         "srcwordsbare": [
             "{\\ob}Wia",
@@ -18321,7 +18476,7 @@
             "talk",
             "listen-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Maa  mauwa  nefa  \\textstyleEmphasizedVernacularWords{maak-iwkin=na}{\\cb}  opaimika  miim-e.",
         "srcwordsbare": [
             "{\\ob}Maa",
@@ -18396,7 +18551,7 @@
             "3p.\\textsc{unm}",
             "help-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Koora  pun  naap:  {\\ob}mua  oko  naareke  koora  \\textstyleEmphasizedVernacularWords{kua-i-ya=na}{\\cb} o  asip-e.",
         "srcwordsbare": [
             "Koora",
@@ -18463,7 +18618,7 @@
             "be-\\textsc{imp}.3s=\\textsc{tp}",
             "reply-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Ni  kirip-owa  \\textstyleEmphasizedVernacularWords{ika-inok}=\\textstyleEmphasizedVernacularWords{na}{\\cb} kirip-eka.",
         "srcwordsbare": [
             "{\\ob}Ni",
@@ -18513,7 +18668,7 @@
             "3p.\\textsc{acc}",
             "tell-\\textsc{imp}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Wia  \\textstyleEmphasizedVernacularWords{uruf-i-nan=na}{\\cb} wia  maak-e.",
         "srcwordsbare": [
             "{\\ob}Wia",
@@ -18545,6 +18700,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{unm} spirit  name  not  call-\\textsc{Np}-\\textsc{fu}.2s man  other=\\textsc{cf}  pig that1  spear-\\textsc{ss}.\\textsc{seq} 2s.\\textsc{dat} take-\\textsc{Np}-\\textsc{fu}.3s",
         "imtwordsbare": [
@@ -18589,7 +18745,7 @@
             "2s.\\textsc{dat}",
             "take-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}No  inasin(a)  unuma  me  unuf-i-nan{\\cb},  mua  oko=ke  waaya nain  mik-ap  nefar  aaw-i-non.",
         "srcwordsbare": [
             "{\\ob}No",
@@ -18641,6 +18797,7 @@
             "fu",
             "gen"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2s.\\textsc{gen} see-\\textsc{Np}-\\textsc{fu}.2s mature-\\textsc{Np}-\\textsc{fu}.3s well harvest-\\textsc{Np}-\\textsc{fu}.2s",
         "imtwordsbare": [
@@ -18664,7 +18821,7 @@
             "well",
             "harvest-\\textsc{Np}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Nena  kuuf-i-nan,  parew-i-non{\\cb},  eliw  perek-i-nan.",
         "srcwordsbare": [
             "{\\ob}Nena",
@@ -18697,6 +18854,7 @@
             "gen",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "1s.\\textsc{unm} die-\\textsc{Np}-\\textsc{fu}.1s \\textsc{add} 1s.\\textsc{gen} woman  man  other take-\\textsc{Np}-\\textsc{fu}.3s son  with  not  go-\\textsc{Np}-\\textsc{fu}.3s",
         "imtwordsbare": [
@@ -18741,7 +18899,8 @@
             "not",
             "go-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Yo  um-i-nen  ne  yena  emeria  mua  oko aaw-i-non{\\cb}, muuka  onaiya  me  ikiw-i-non.",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -18842,7 +19001,7 @@
             "fight-\\textsc{nmz}",
             "be-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Yo  auwa  miiwa=pa  mauw-i-nen{\\cb},  irak-owa  marew,  ne {\\ob}yo  aite  miiwa=pa  mauw-i-nen{\\cb},  irak-owa  ika-i-non.",
         "srcwordsbare": [
             "{\\ob}Yo",
@@ -18899,6 +19058,7 @@
             "sim",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "other=\\textsc{cf} run.loose-\\textsc{ss}.\\textsc{sim} here.\\textsc{cf}  go-\\textsc{Np}-\\textsc{fu}.3s ah man other=\\textsc{cf} spear-\\textsc{Np}-\\textsc{fu}.3s",
         "imtwordsbare": [
@@ -18931,7 +19091,7 @@
             "other=\\textsc{cf}",
             "spear-\\textsc{Np}-\\textsc{fu}.3s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Oko=ke  pusun-emi  feeke  \\textstyleEmphasizedVernacularWords{ikiw}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{i}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{non},  a  mua oko=ke  \\textstyleEmphasizedVernacularWords{mik}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{i}\\textstyleEmphasizedVernacularWords{-}\\textstyleEmphasizedVernacularWords{non}.",
         "srcwordsbare": [
             "Oko=ke",
@@ -18976,6 +19136,7 @@
             "tp",
             "unm"
         ],
+        "coordination": "or",
         "filename": "67/8.tex",
         "imt": "therefore hen=\\textsc{cf}.\\textsc{qm} or cat=\\textsc{cf} die-\\textsc{imp}.3s=\\textsc{tp} 2p.\\textsc{unm} that1 liver hatred-rise-\\textsc{ss}.\\textsc{seq} malaria  service  not 3p.\\textsc{acc} remove-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -19026,7 +19187,8 @@
             "3p.\\textsc{acc}",
             "remove-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
+        "polarity": "negative",
         "src": "{\\ob}Naapeya aara=ki e kasi=ke um-inok=na{\\cb} ni nain kema bagiw-ir-ap  malaria sevis me wia iirar-eka.",
         "srcwordsbare": [
             "{\\ob}Naapeya",
@@ -19088,6 +19250,7 @@
             "tp",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "thus  1p.\\textsc{acc} say-\\textsc{fu}.3p=\\textsc{tp} that too 2p.\\textsc{unm} be.strong-\\textsc{ss}.\\textsc{seq} custom good follow-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -19126,7 +19289,7 @@
             "good",
             "follow-\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}Naap  yia  ma-ikuan=na{\\cb}  \\textstyleEmphasizedVernacularWords{nain}  \\textstyleEmphasizedVernacularWords{pun}  ni  kekan-ep sira  eliwa  ook-eka.",
         "srcwordsbare": [
             "{\\ob}Naap",
@@ -19179,6 +19342,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "\\textsc{add} 3s.\\textsc{unm} thing  how  do-\\textsc{ss}.\\textsc{seq} 3.\\textsc{dat} see-\\textsc{Np}-\\textsc{pr}.2s that1 \\textsc{add} 3.\\textsc{dat} hear-\\textsc{Np}-\\textsc{pr}.2s that1 3p.\\textsc{acc} tell-\\textsc{ss}.\\textsc{sim}-be-\\textsc{Np}-\\textsc{fu}.2s",
         "imtwordsbare": [
@@ -19229,7 +19393,7 @@
             "3p.\\textsc{acc}",
             "tell-\\textsc{ss}.\\textsc{sim}-be-\\textsc{Np}-\\textsc{fu}.2s"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Ne {\\ob}\\textstyleEmphasizedVernacularWords{o} \\textstyleEmphasizedVernacularWords{maa} \\textstyleEmphasizedVernacularWords{kamenap} \\textstyleEmphasizedVernacularWords{on-eya} \\textstyleEmphasizedVernacularWords{wiar} \\textstyleEmphasizedVernacularWords{uruf-i-n}  \\textstyleEmphasizedVernacularWords{nain}{\\cb}\\textsubscript{\\textsc{rc}}  \\textstyleEmphasizedVernacularWords{ne} {\\ob}\\textstyleEmphasizedVernacularWords{wiar} \\textstyleEmphasizedVernacularWords{miim-i-n} \\textstyleEmphasizedVernacularWords{nain}{\\cb}\\textsubscript{\\textsc{rc}} wia  maak-em-ika-i-nan.",
         "srcwordsbare": [
             "Ne",
@@ -19292,6 +19456,7 @@
             "ss",
             "unm"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "2p.\\textsc{unm} garden ascend-\\textsc{ss}.\\textsc{seq} tobacco  pick-\\textsc{pa}-2p that 1s/p.father \\textsc{\\textsc{bp}x}-go-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -19324,7 +19489,7 @@
             "1s/p.father",
             "\\textsc{\\textsc{bp}x}-go-\\textsc{ben}-\\textsc{bnfy}2.\\textsc{imp}.2p"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "{\\ob}\\textstyleEmphasizedVernacularWords{Ni} \\textstyleEmphasizedVernacularWords{manina} \\textstyleEmphasizedVernacularWords{urup-ep} \\textstyleEmphasizedVernacularWords{episowa} \\textstyleEmphasizedVernacularWords{perek-a-man} \\textstyleEmphasizedVernacularWords{nain}{\\cb}\\textsubscript{\\textsc{rc}}  auwa  p-ikiw-om-aka.",
         "srcwordsbare": [
             "{\\ob}Ni",
@@ -19367,6 +19532,7 @@
             "seq",
             "ss"
         ],
+        "coordination": "and",
         "filename": "67/8.tex",
         "imt": "Toiyan  already  tell-\\textsc{ss}.\\textsc{seq}-\\textsc{cmpl}-\\textsc{pa}-1/3p morning 1p.\\textsc{acc} take-\\textsc{ss}.\\textsc{seq} Madang go-\\textsc{nmz} that1",
         "imtwordsbare": [
@@ -19402,7 +19568,7 @@
             "go-\\textsc{nmz}",
             "that1"
         ],
-        "language": "Rapa Nui",
+        "language": "Mauwake",
         "src": "Toiyan  iiriw  maak-ep-pu-a-mik, {\\ob}\\textbf{uuriw} \\textbf{yia} \\textstyleEmphasizedVernacularWords{aaw-ep} \\textstyleEmphasizedVernacularWords{Madang}  \\textstyleEmphasizedVernacularWords{ikiw-owa}{\\cb}\\textsubscript{\\textsc{cc}} nain",
         "srcwordsbare": [
             "Toiyan",

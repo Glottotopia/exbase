@@ -12,7 +12,7 @@
         "imtwordstex": [
             "{like.this}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{begini}",
         "srcwordsbare": [
             "{begini}"
@@ -29,6 +29,7 @@
         "categories": [
             "3pl"
         ],
+        "coordination": "and",
         "filename": "78/06.tex",
         "imt": "{be.continuous}  {\\textsc{3pl}}  two  {run}  {reach}  at  {river}",
         "imtwordsbare": [
@@ -58,7 +59,7 @@
             "at",
             "{river}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{trus,}  {dorang}  dua  {lari}  {sampe}  di  {kali}",
         "srcwordsbare": [
             "{trus,}",
@@ -94,6 +95,7 @@
             "d",
             "prox"
         ],
+        "coordination": "and",
         "filename": "78/06.tex",
         "imt": "buy  {\\textsc{d.prox}}",
         "imtwordsbare": [
@@ -108,7 +110,7 @@
             "buy",
             "{\\textsc{d.prox}}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "bli  {ni}",
         "srcwordsbare": [
             "bli",
@@ -140,7 +142,7 @@
             "{very.soon}",
             "{}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{nanti}  {\\ldots}",
         "srcwordsbare": [
             "{nanti}",
@@ -169,7 +171,7 @@
         "imtwordstex": [
             "{like.this}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{begini}",
         "srcwordsbare": [
             "{begini}"
@@ -210,7 +212,8 @@
             "{give}",
             "{remember}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "modality": "volitive",
         "src": "{mo}  {jalang,}  {baru}  {\\bluebold{mama}}  {kasi}  {ingat}",
         "srcwordsbare": [
             "{mo}",
@@ -263,7 +266,7 @@
             "{night}",
             "{few}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{karna}  {su}  {larut}  {malam}  {sedikit}",
         "srcwordsbare": [
             "{karna}",
@@ -292,6 +295,7 @@
         "categories": [
             "3sg"
         ],
+        "coordination": "and",
         "filename": "78/06.tex",
         "imt": "{\\textsc{3sg}}  {run}  {to}  {hither}  {\\textsc{3sg}}  {want}  {hit}  {Fitri}",
         "imtwordsbare": [
@@ -324,7 +328,8 @@
             "{hit}",
             "{Fitri}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
+        "modality": "volitive",
         "src": "{dia}  {lari}  {ke}  {mari,}  {dia}  {mo}  {pukul}  {Fitri}",
         "srcwordsbare": [
             "{dia}",
@@ -371,7 +376,7 @@
         "imtwordstex": [
             "{like.this}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{begini}",
         "srcwordsbare": [
             "{begini}"
@@ -389,6 +394,7 @@
             "poss",
             "rdp"
         ],
+        "coordination": "and",
         "filename": "78/06.tex",
         "imt": "{next}  oSb  {\\textsc{rdp}{\\Tilde}husband}  {aunt}  {\\textsc{poss}}  {child}",
         "imtwordsbare": [
@@ -415,7 +421,7 @@
             "{\\textsc{poss}}",
             "{child}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{trus}  kaka  {laki{\\Tilde}laki,}  {mama-tua}  {pu}  {ana}",
         "srcwordsbare": [
             "{trus}",
@@ -477,7 +483,7 @@
             "{observe}",
             "{}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "{jemur{\\Tilde}jemur}  {pakeang}  {begini}  {baru}  {\\bluebold{de}}  {perhatikang,}  {\\ldots}",
         "srcwordsbare": [
             "{jemur{\\Tilde}jemur}",
@@ -530,7 +536,7 @@
             "{\\textsc{l.prox}}",
             "{already}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "di  {sini}  {suda!}",
         "srcwordsbare": [
             "di",
@@ -588,7 +594,7 @@
             "{\\textsc{3sg}}",
             "{sit}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "\\bluebold{orang}  {\\bluebold{Senggi}} {} \\textup{\\textbar} {}  \\bluebold{dia}  {datang}  {de}  {duduk}",
         "srcwordsbare": [
             "\\bluebold{orang}",
@@ -629,6 +635,7 @@
         "categories": [
             "3pl"
         ],
+        "coordination": "and",
         "filename": "78/06.tex",
         "imt": "\\textsc{3pl}  {kill}  {pig}",
         "imtwordsbare": [
@@ -646,7 +653,7 @@
             "{kill}",
             "{pig}"
         ],
-        "language": "Rapa Nui",
+        "language": "Papuan Malay",
         "src": "dong  {bunu}  {babi}",
         "srcwordsbare": [
             "dong",
