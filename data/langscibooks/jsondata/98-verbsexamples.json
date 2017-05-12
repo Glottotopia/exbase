@@ -5,6 +5,7 @@
             "acc",
             "pass"
         ],
+        "clength": 32,
         "filename": "98/verbs.tex",
         "imt": "want:\\textsc{3pl}   hidden:\\textsc{pass-acc}",
         "imtwordsbare": [
@@ -34,7 +35,8 @@
             "B\\'{\u025b}\u0257\u00e1ta",
             "b\u00fad\\textbf{\u00f2s\u00ec}-k\u1d43."
         ],
-        "trs": "They want to be hidden."
+        "trs": "They want to be hidden.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -42,6 +44,7 @@
             "pass",
             "real"
         ],
+        "clength": 19,
         "filename": "98/verbs.tex",
         "imt": "hidden:\\textsc{pass}{}-\\textsc{3pl:real}",
         "imtwordsbare": [
@@ -64,7 +67,8 @@
         "srcwordstex": [
             "B\u00fad\\textbf{os}-\u00e1t\u1d43."
         ],
-        "trs": "They are hidden."
+        "trs": "They are hidden.",
+        "wlength": 1
     },
     {
         "categories": [
@@ -73,6 +77,7 @@
             "nom",
             "sg"
         ],
+        "clength": 34,
         "filename": "98/verbs.tex",
         "imt": "beat:\\textsc{fut:ips}  you[\\textsc{sg}]:\\textsc{nom}",
         "imtwordsbare": [
@@ -101,7 +106,8 @@
             "\u0197n\\'{\u0254}m\\'{\u025b}s\\textbf{\u00e0n}{\u00e0}",
             "b\u00ec."
         ],
-        "trs": "You will be beaten."
+        "trs": "You will be beaten.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -109,6 +115,7 @@
             "ips",
             "plur"
         ],
+        "clength": 35,
         "filename": "98/verbs.tex",
         "imt": "go:\\textsc{plur:ips} hunt:inside:\\textsc{dat}",
         "imtwordsbare": [
@@ -137,7 +144,8 @@
             "\u0198a\u00ed\\textbf{\u00e1n}{\u00e0}",
             "\u0199\u00e0\u0199\u00e0\u00e0\u0199\\`{\u0254}k\\\u1d4b."
         ],
-        "trs": "People go hunting.\u2019 (Lit. \u2018It is gone for hunting.\u2019)"
+        "trs": "People go hunting.\u2019 (Lit. \u2018It is gone for hunting.\u2019)",
+        "wlength": 2
     },
     {
         "categories": [
@@ -146,6 +154,7 @@
             "real",
             "recip"
         ],
+        "clength": 47,
         "filename": "98/verbs.tex",
         "imt": "want:\\textsc{3pl:real}   next.to:\\textsc{recip-acc}",
         "imtwordsbare": [
@@ -175,7 +184,8 @@
             "B\\'{\u025b}\u0257\u00e1ta",
             "\u0268\u0253\u00e1k\\textbf{{\\\u00cd}n\\'{\u0254}s{\\\u00cd}}-k\u1d43."
         ],
-        "trs": "They want to be next to each other."
+        "trs": "They want to be next to each other.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -183,6 +193,7 @@
             "real",
             "recip"
         ],
+        "clength": 29,
         "filename": "98/verbs.tex",
         "imt": "next.to:\\textsc{recip-3pl:real}",
         "imtwordsbare": [
@@ -205,7 +216,8 @@
         "srcwordstex": [
             "\u0197\u0253\u00e1k\\textbf{{\\\u00cd}n\\'{\u0254}s}-\u00e1t\u1d43."
         ],
-        "trs": "They are next to each other."
+        "trs": "They are next to each other.",
+        "wlength": 1
     },
     {
         "categories": [
@@ -216,6 +228,7 @@
             "past",
             "real"
         ],
+        "clength": 42,
         "filename": "98/verbs.tex",
         "imt": "it:\\textsc{cop}=\\textsc{past}    Ik:\\textsc{acc}   go:\\textsc{3pl:real-dp}",
         "imtwordsbare": [
@@ -250,7 +263,8 @@
             "Ic\u00e9\u00e1",
             "\u0199\u00e1\u00e1t\u00e0-\\textbf{d\\\u1d49}."
         ],
-        "trs": "It\u2019s where the Ik went (to)."
+        "trs": "It\u2019s where the Ik went (to).",
+        "wlength": 3
     },
     {
         "categories": [
@@ -260,6 +274,7 @@
             "nom",
             "seq"
         ],
+        "clength": 45,
         "filename": "98/verbs.tex",
         "imt": "stay:\\textsc{3sg:seq-dp}   other:\\textsc{nom}   people:\\textsc{gen}",
         "imtwordsbare": [
@@ -294,6 +309,7 @@
             "s\u00e0\u00e0",
             "r\u00f2\u0253\u00e0\u1d49."
         ],
-        "trs": "And other people stayed (there)."
+        "trs": "And other people stayed (there).",
+        "wlength": 3
     }
 ]

@@ -4,6 +4,7 @@
             "1pl",
             "neg"
         ],
+        "clength": 52,
         "filename": "78/13.tex",
         "imt": "think  {\\textsc{1pl}}  {\\textsc{neg}}  {be.good}",
         "imtwordsbare": [
@@ -45,13 +46,15 @@
             "{\\bluebold{tra}}",
             "{\\bluebold{baik}}"
         ],
-        "trs": "very soon he\u2019ll think that I\u2019m\\bluebold{ not good} {\\ldots} very soon he\u2019ll think that we are \\bluebold{not good}\u2019 \\textstyleExampleSource{[080919-004-NP.0052-0053]}"
+        "trs": "very soon he\u2019ll think that I\u2019m\\bluebold{ not good} {\\ldots} very soon he\u2019ll think that we are \\bluebold{not good}\u2019 \\textstyleExampleSource{[080919-004-NP.0052-0053]}",
+        "wlength": 4
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 46,
         "filename": "78/13.tex",
         "imt": "mother  \\textsc{d.prox}  live  {with}  {person}  {at}  {outside}",
         "imtwordsbare": [
@@ -110,10 +113,12 @@
             "{di}",
             "{luar}"
         ],
-        "trs": "(the situation was) \\bluebold{not} (that) I (\u2018mother\u2019) here lived with (my) parents in the village, (but) I (\u2018mother\u2019) here lived with strangers away from home\u2019 \\textstyleExampleSource{[081115-001b-Cv.0043]}"
+        "trs": "(the situation was) \\bluebold{not} (that) I (\u2018mother\u2019) here lived with (my) parents in the village, (but) I (\u2018mother\u2019) here lived with strangers away from home\u2019 \\textstyleExampleSource{[081115-001b-Cv.0043]}",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 40,
         "filename": "78/13.tex",
         "imt": "{}    yes  oil  ground",
         "imtwordsbare": [
@@ -154,10 +159,12 @@
             "minyak",
             "tana"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{yes}, kerosene\u2019 \\textstyleExampleSource{[080923-009-Cv.0037-0038]}"
+        "trs": "Speaker-2: \u2018\\bluebold{yes}, kerosene\u2019 \\textstyleExampleSource{[080923-009-Cv.0037-0038]}",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 28,
         "filename": "78/13.tex",
         "imt": "{}    mhm",
         "imtwordsbare": [
@@ -186,12 +193,14 @@
             "Speaker-2:",
             "\\bluebold{mm-mm}"
         ],
-        "trs": "Speaker-1: \u2018\\bluebold{mhm}\u2019 \\textstyleExampleSource{[080919-006-CvNP.0030-0031]}"
+        "trs": "Speaker-1: \u2018\\bluebold{mhm}\u2019 \\textstyleExampleSource{[080919-006-CvNP.0030-0031]}",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 44,
         "filename": "78/13.tex",
         "imt": "{}   yes  \\textsc{1sg}  request  permission",
         "imtwordsbare": [
@@ -238,13 +247,15 @@
             "minta",
             "ijing"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{yes}, I asked for a leave of absence\u2019 (Lit. \u2018request permission (to be absent from school)\u2019) \\textstyleExampleSource{[080922-001a-CvPh.0093-0094]}"
+        "trs": "Speaker-2: \u2018\\bluebold{yes}, I asked for a leave of absence\u2019 (Lit. \u2018request permission (to be absent from school)\u2019) \\textstyleExampleSource{[080922-001a-CvPh.0093-0094]}",
+        "wlength": 5
     },
     {
         "categories": [
             "3sg",
             "neg"
         ],
+        "clength": 40,
         "filename": "78/13.tex",
         "imt": "{}   \\textsc{neg}  \\textsc{3sg}  race",
         "imtwordsbare": [
@@ -285,7 +296,8 @@
             "dia",
             "balap"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{no}, he raced (his motorbike)\u2019 \\textstyleExampleSource{[081014-013-NP.0003-0004]}"
+        "trs": "Speaker-2: \u2018\\bluebold{no}, he raced (his motorbike)\u2019 \\textstyleExampleSource{[081014-013-NP.0003-0004]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -293,6 +305,7 @@
             "neg",
             "poss"
         ],
+        "clength": 48,
         "filename": "78/13.tex",
         "imt": "{}    \\textsc{neg}  \\textsc{3sg}  \\textsc{poss}  date",
         "imtwordsbare": [
@@ -339,12 +352,14 @@
             "punya",
             "pacar"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{no}, (it was) her lover\u2019 \\textstyleExampleSource{[081006-022-CvEx.0044-0045]}"
+        "trs": "Speaker-2: \u2018\\bluebold{no}, (it was) her lover\u2019 \\textstyleExampleSource{[081006-022-CvEx.0044-0045]}",
+        "wlength": 5
     },
     {
         "categories": [
             "poss"
         ],
+        "clength": 48,
         "filename": "78/13.tex",
         "imt": "{}  {}    Jayapura  \\textsc{poss}  be.bitter",
         "imtwordsbare": [
@@ -391,10 +406,12 @@
             "pu",
             "pahit"
         ],
-        "trs": "Speaker-2: \u2018(\\bluebold{no}, the ones from) Jayapura are bitter\u2019 \\textstyleExampleSource{[080923-004-Cv.0011-0012]}"
+        "trs": "Speaker-2: \u2018(\\bluebold{no}, the ones from) Jayapura are bitter\u2019 \\textstyleExampleSource{[080923-004-Cv.0011-0012]}",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 46,
         "filename": "78/13.tex",
         "imt": "{}    mhm  house  at  coast",
         "imtwordsbare": [
@@ -441,7 +458,8 @@
             "di",
             "pante"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{mhm}, the houses along the beach\u2019 \\textstyleExampleSource{[080917-009-CvEx.0012-0013]}"
+        "trs": "Speaker-2: \u2018\\bluebold{mhm}, the houses along the beach\u2019 \\textstyleExampleSource{[080917-009-CvEx.0012-0013]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -450,6 +468,7 @@
             "dist",
             "poss"
         ],
+        "clength": 47,
         "filename": "78/13.tex",
         "imt": "{}    yes  \\textsc{d.dist}  \\textsc{1sg}  \\textsc{poss}  affairs",
         "imtwordsbare": [
@@ -502,7 +521,8 @@
             "pu",
             "urusang"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{yes}, that\u2019s my responsibility\u2019 \\textstyleExampleSource{[081005-001-Cv.0031-0032]}"
+        "trs": "Speaker-2: \u2018\\bluebold{yes}, that\u2019s my responsibility\u2019 \\textstyleExampleSource{[081005-001-Cv.0031-0032]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -510,6 +530,7 @@
             "neg",
             "poss"
         ],
+        "clength": 45,
         "filename": "78/13.tex",
         "imt": "{}   yes  \\textsc{neg}  \\textsc{1sg}  \\textsc{poss}",
         "imtwordsbare": [
@@ -557,10 +578,12 @@
             "sa",
             "punya"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{yes}, (it\u2019s) not mine\u2019 \\textstyleExampleSource{[080922-001a-CvPh.0078-0079]}"
+        "trs": "Speaker-2: \u2018\\bluebold{yes}, (it\u2019s) not mine\u2019 \\textstyleExampleSource{[080922-001a-CvPh.0078-0079]}",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 41,
         "filename": "78/13.tex",
         "imt": "{}    mhm",
         "imtwordsbare": [
@@ -589,10 +612,12 @@
             "Speaker-2:",
             "\\bluebold{mm}{}-\\bluebold{mm}"
         ],
-        "trs": "Speaker-2: \u2018\\bluebold{mhm}\u2019 \\textstyleExampleSource{[080925-003-Cv.0173-0174]}"
+        "trs": "Speaker-2: \u2018\\bluebold{mhm}\u2019 \\textstyleExampleSource{[080925-003-Cv.0173-0174]}",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 51,
         "filename": "78/13.tex",
         "imt": "{be.wrong}  {or}  {be.true}  {or}",
         "imtwordsbare": [
@@ -633,10 +658,12 @@
             "{benar}",
             "{\\bluebold{ka}?}"
         ],
-        "trs": "I (\\textsc{emph}) usually ask the kids in school, ``(is this) right \\bluebold{or} wrong?''' \\textstyleExampleSource{[081014-015-Cv.0029]}"
+        "trs": "I (\\textsc{emph}) usually ask the kids in school, ``(is this) right \\bluebold{or} wrong?''' \\textstyleExampleSource{[081014-015-Cv.0029]}",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 14,
         "filename": "78/13.tex",
         "imt": "hey!  wake.up",
         "imtwordsbare": [
@@ -665,10 +692,12 @@
             "{e}",
             "{bangung!}"
         ],
-        "trs": "{\u2018hey, wake up!\u2019}"
+        "trs": "{\u2018hey, wake up!\u2019}",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 16,
         "filename": "78/13.tex",
         "imt": "go.home  already",
         "imtwordsbare": [
@@ -697,7 +726,8 @@
             "{pulang}",
             "{suda!}"
         ],
-        "trs": "{\u2018go home already!\u2019}"
+        "trs": "{\u2018go home already!\u2019}",
+        "wlength": 2
     },
     {
         "categories": [
@@ -705,6 +735,7 @@
             "l",
             "med"
         ],
+        "clength": 52,
         "filename": "78/13.tex",
         "imt": "let  \\textsc{1pl}  stay  at  \\textsc{l.med}",
         "imtwordsbare": [
@@ -751,13 +782,15 @@
             "di",
             "situ!"
         ],
-        "trs": "\\bluebold{let us} live there!\u2019 \\textstyleExampleSource{[081110-008-CvNP.0091]}"
+        "trs": "\\bluebold{let us} live there!\u2019 \\textstyleExampleSource{[081110-008-CvNP.0091]}",
+        "wlength": 5
     },
     {
         "categories": [
             "1sg",
             "3sg"
         ],
+        "clength": 52,
         "filename": "78/13.tex",
         "imt": "yes  let  \\textsc{3sg}  also  see  \\textsc{1sg}",
         "imtwordsbare": [
@@ -810,10 +843,12 @@
             "liat",
             "sa!"
         ],
-        "trs": "yes, \\bluebold{let her} also see me!\u2019 \\textstyleExampleSource{[081015-005-NP.0013]}"
+        "trs": "yes, \\bluebold{let her} also see me!\u2019 \\textstyleExampleSource{[081015-005-NP.0013]}",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 17,
         "coordination": "and",
         "filename": "78/13.tex",
         "imt": "{with}  {oSb}",
@@ -843,12 +878,14 @@
             "{dengang}",
             "{kaka}"
         ],
-        "trs": "[my husband said, \u2018(here in my village) don\u2019t extract and crush the sago, you just knead and filter it,] when you\u2019re staying in Arbais, (it is) \\bluebold{allowed} (that) you (extract and) crush (the sago) together with (your) older sibling\u2019 \\textstyleExampleSource{[081014-007-CvEx.0058]}"
+        "trs": "[my husband said, \u2018(here in my village) don\u2019t extract and crush the sago, you just knead and filter it,] when you\u2019re staying in Arbais, (it is) \\bluebold{allowed} (that) you (extract and) crush (the sago) together with (your) older sibling\u2019 \\textstyleExampleSource{[081014-007-CvEx.0058]}",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 58,
         "filename": "78/13.tex",
         "imt": "buy  {light.bulb}  {\\textsc{1sg}}  {have.to}  {fetch}  {flashlight}",
         "imtwordsbare": [
@@ -901,6 +938,7 @@
             "{ambil}",
             "{senter}"
         ],
-        "trs": "[Getting ready for hunting:] \u2018tomorrow morning I \\bluebold{have to} get batteries, I \\bluebold{have to} buy small light bulbs, I \\bluebold{have to} take a flashlight\u2019 \\textstyleExampleSource{[080919-004-NP.0003]}"
+        "trs": "[Getting ready for hunting:] \u2018tomorrow morning I \\bluebold{have to} get batteries, I \\bluebold{have to} buy small light bulbs, I \\bluebold{have to} take a flashlight\u2019 \\textstyleExampleSource{[080919-004-NP.0003]}",
+        "wlength": 6
     }
 ]

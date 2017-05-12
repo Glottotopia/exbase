@@ -7,6 +7,7 @@
             "prox",
             "sg"
         ],
+        "clength": 23,
         "filename": "98/demonstratives.tex",
         "imt": "man:\\textsc{cop}  this.one:\\textsc{nom}=\\textsc{dem.sg.prox}",
         "imtwordsbare": [
@@ -35,7 +36,8 @@
             "Eakw\u00f3\u00f3",
             "\u0257a=\\textbf{n}."
         ],
-        "trs": "This one is a man."
+        "trs": "This one is a man.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -44,6 +46,7 @@
             "sg",
             "sps"
         ],
+        "clength": 33,
         "filename": "98/demonstratives.tex",
         "imt": "cut:\\textsc{sps}   then   forest=\\textsc{dem.sg.dist}",
         "imtwordsbare": [
@@ -78,7 +81,8 @@
             "koto",
             "r\u00ed\u029d\u00e1=\\textbf{ke}."
         ],
-        "trs": "And then that forest over there was cut down."
+        "trs": "And then that forest over there was cut down.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -88,6 +92,7 @@
             "sg",
             "ven"
         ],
+        "clength": 29,
         "filename": "98/demonstratives.tex",
         "imt": "return:\\textsc{ven:imp}   one:\\textsc{obl=dem.sg.rec}",
         "imtwordsbare": [
@@ -116,7 +121,8 @@
             "R\u00e1\u029d\u00e9te",
             "\u0257\u0268=\\textbf{n\u00e1k\\\u1d43}."
         ],
-        "trs": "Give back the earlier one."
+        "trs": "Give back the earlier one.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -127,6 +133,7 @@
             "rem",
             "sg"
         ],
+        "clength": 60,
         "filename": "98/demonstratives.tex",
         "imt": "bad:\\textsc{3sg}   year:\\textsc{nom}=\\textsc{dem.sg.rem}   Lopiar.\\textsc{gen} very",
         "imtwordsbare": [
@@ -167,7 +174,8 @@
             "Lop\u00edar{\\\u00cd}\\'{\u025b}",
             "z\u00f9k\u1d58."
         ],
-        "trs": "That year (a while back) of Lopiar was very bad."
+        "trs": "That year (a while back) of Lopiar was very bad.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -176,6 +184,7 @@
             "nom",
             "sg"
         ],
+        "clength": 31,
         "filename": "98/demonstratives.tex",
         "imt": "be.important:\\textsc{3sg}   tradition:\\textsc{nom}=\\textsc{anaph.sg}",
         "imtwordsbare": [
@@ -204,7 +213,8 @@
             "It\u00ed\u00f3na",
             "\u0272atala=\\textbf{d\u00e9\u00e9}."
         ],
-        "trs": "That tradition (already discussed) is important."
+        "trs": "That tradition (already discussed) is important.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -215,6 +225,7 @@
             "pl",
             "pst"
         ],
+        "clength": 49,
         "filename": "98/demonstratives.tex",
         "imt": "come:\\textsc{3sg}=\\textsc{pst}   people:\\textsc{nom}=\\textsc{anaph.pl}  Ethiopia:\\textsc{abl}",
         "imtwordsbare": [
@@ -249,7 +260,8 @@
             "ro\u0253a=\\textbf{d\u00ed\u00ed}",
             "S\u00f3p\u00ec\u00e0\u1d52."
         ],
-        "trs": "Those people (already mentioned) came from Ethiopia."
+        "trs": "Those people (already mentioned) came from Ethiopia.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -259,6 +271,7 @@
             "pst",
             "sg"
         ],
+        "clength": 33,
         "filename": "98/demonstratives.tex",
         "imt": "reach:\\textsc{1sg}=\\textsc{pst}   there=\\textsc{dem.sg.dist}",
         "imtwordsbare": [
@@ -287,7 +300,8 @@
             "\u0197{t\u00e1{\\\u00cd}a=bee}",
             "k{\\\u00cd}x\u00e1nee=k\u1d49."
         ],
-        "trs": "I reached there yesterday."
+        "trs": "I reached there yesterday.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -297,6 +311,7 @@
             "seq",
             "sg"
         ],
+        "clength": 28,
         "filename": "98/demonstratives.tex",
         "imt": "go:\\textsc{seq}   trade:\\textsc{acc}   there=\\textsc{dem.sg.med}",
         "imtwordsbare": [
@@ -331,7 +346,8 @@
             "dz\u00edgwaa",
             "na\u00ed\u00e9=ne."
         ],
-        "trs": "And they went to do trade just right there."
+        "trs": "And they went to do trade just right there.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -339,6 +355,7 @@
             "dat",
             "nom"
         ],
+        "clength": 46,
         "filename": "98/demonstratives.tex",
         "imt": "go:\\textsc{3sg=pst}   elephant(s):\\textsc{nom}=also   there:\\textsc{dat}",
         "imtwordsbare": [
@@ -373,7 +390,8 @@
             "\u00f3\u014bora=\u029d\u0268\u0268",
             "ts\u02bc\\'{\u025b}d\\'{\u025b}\\'{\u025b}."
         ],
-        "trs": "Even the elephants went there (place already mentioned)."
+        "trs": "Even the elephants went there (place already mentioned).",
+        "wlength": 3
     },
     {
         "categories": [
@@ -381,6 +399,7 @@
             "nom",
             "seq"
         ],
+        "clength": 38,
         "filename": "98/demonstratives.tex",
         "imt": "appear:\\textsc{seq}   others:\\textsc{nom}   there:\\textsc{abl}",
         "imtwordsbare": [
@@ -415,6 +434,7 @@
             "saa",
             "t\u0289m\u025bd\\'{\u0254}\\'{\u0254}."
         ],
-        "trs": "And others appeared from there (place already known)."
+        "trs": "And others appeared from there (place already known).",
+        "wlength": 3
     }
 ]

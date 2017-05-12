@@ -5,6 +5,7 @@
             "acl",
             "pat"
         ],
+        "clength": 67,
         "filename": "78/03.tex",
         "imt": "{be.unfortunate\u2013\\textsc{pat}}  {\\textsc{acl}\u2013force}  {\\textsc{1pl}}  {two}  {walk}  {foot}",
         "imtwordsbare": [
@@ -57,13 +58,15 @@
             "{jalang}",
             "{kaki}"
         ],
-        "trs": "as the boss had already left for \\ili{Sarmi} in the morning, oh no, damn it!, the two of us \\bluebold{were} \\bluebold{forced} to walk on foot\u2019 \\textstyleExampleSource{[080921-002-Cv.0001]}\\\\"
+        "trs": "as the boss had already left for \\ili{Sarmi} in the morning, oh no, damn it!, the two of us \\bluebold{were} \\bluebold{forced} to walk on foot\u2019 \\textstyleExampleSource{[080921-002-Cv.0001]}\\\\",
+        "wlength": 6
     },
     {
         "categories": [
             "1pl",
             "3sg"
         ],
+        "clength": 58,
         "filename": "78/03.tex",
         "imt": "\\textsc{3sg}  {say}  {\\textsc{1pl}}  two  {walk}  {already}",
         "imtwordsbare": [
@@ -116,10 +119,12 @@
             "{\\bluebold{jalang}}",
             "{suda!}"
         ],
-        "trs": "and then we two went home, on the \\bluebold{way} I rested, he said, ``let the two of us \\bluebold{walk} (on)!''\u2019 \\textstyleExampleSource{[081015-005-NP.0036]}"
+        "trs": "and then we two went home, on the \\bluebold{way} I rested, he said, ``let the two of us \\bluebold{walk} (on)!''\u2019 \\textstyleExampleSource{[081015-005-NP.0036]}",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 8,
         "filename": "78/03.tex",
         "imt": "{betel.nut}",
         "imtwordsbare": [
@@ -142,12 +147,14 @@
         "srcwordstex": [
             "{pinang}"
         ],
-        "trs": "my mother went to \\bluebold{sell} betel nuts, my mother \\bluebold{sells} betel nuts\u2019 \\textstyleExampleSource{[081014-014-NP.0002]}"
+        "trs": "my mother went to \\bluebold{sell} betel nuts, my mother \\bluebold{sells} betel nuts\u2019 \\textstyleExampleSource{[081014-014-NP.0002]}",
+        "wlength": 1
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 19,
         "coordination": "and",
         "filename": "78/03.tex",
         "imt": "and.then  {\\textsc{1sg}}  {go}",
@@ -184,12 +191,14 @@
             "{sa}",
             "{pergi}"
         ],
-        "trs": "later, after we have \\bluebold{worshipped}, maybe in the evening, and then I\u2019ll go (there)\u2019 \\textstyleExampleSource{[080918-001-CvNP.0016]}\\footnotetext{The original recording says \\textitbf{kita i beribada selesay}. Most likely the speaker wanted to say \\textitbf{kita ibada selesay} \u2018after we have worshipped\u2019 but cut himself off to replace \\textitbf{ibada} \u2018worship\u2019 with \\textitbf{beribada} \u2018worship\u2019.}"
+        "trs": "later, after we have \\bluebold{worshipped}, maybe in the evening, and then I\u2019ll go (there)\u2019 \\textstyleExampleSource{[080918-001-CvNP.0016]}\\footnotetext{The original recording says \\textitbf{kita i beribada selesay}. Most likely the speaker wanted to say \\textitbf{kita ibada selesay} \u2018after we have worshipped\u2019 but cut himself off to replace \\textitbf{ibada} \u2018worship\u2019 with \\textitbf{beribada} \u2018worship\u2019.}",
+        "wlength": 3
     },
     {
         "categories": [
             "nmlz"
         ],
+        "clength": 19,
         "filename": "78/03.tex",
         "imt": "thing  {\\textsc{nmlz}\u2013be.true\u2013\\textsc{nmlz}}",
         "imtwordsbare": [
@@ -218,12 +227,14 @@
             "hal",
             "{ke\u2013benar\u2013ang}"
         ],
-        "trs": "nowadays, the people already don\u2019t \\bluebold{think} about things (related to) truth\u2019 \\textstyleExampleSource{[081006-032-Cv.0016]}"
+        "trs": "nowadays, the people already don\u2019t \\bluebold{think} about things (related to) truth\u2019 \\textstyleExampleSource{[081006-032-Cv.0016]}",
+        "wlength": 2
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 27,
         "filename": "78/03.tex",
         "imt": "\\textsc{3sg}  speak  be.continuous",
         "imtwordsbare": [
@@ -258,10 +269,12 @@
             "\\bluebold{bicara}",
             "trus"
         ],
-        "trs": "he kept \\bluebold{talking}\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0145]}"
+        "trs": "he kept \\bluebold{talking}\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0145]}",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 27,
         "filename": "78/03.tex",
         "imt": "{language}  {English}  {first}",
         "imtwordsbare": [
@@ -296,13 +309,15 @@
             "{Inggris}",
             "{dulu}"
         ],
-        "trs": "Ise will participate in an English (course), (she\u2019ll) \\bluebold{study} a course, an English language course first\u2019 \\textstyleExampleSource{[081025-003-Cv.0223]}"
+        "trs": "Ise will participate in an English (course), (she\u2019ll) \\bluebold{study} a course, an English language course first\u2019 \\textstyleExampleSource{[081025-003-Cv.0223]}",
+        "wlength": 3
     },
     {
         "categories": [
             "neg",
             "rel"
         ],
+        "clength": 88,
         "coordination": "and",
         "filename": "78/03.tex",
         "imt": "\\textsc{neg}  {}  {you.know}  {exist}  {sago}  {\\textsc{rel}}  {\\textsc{neg}}  exist  {thorn}",
@@ -374,13 +389,15 @@
             "\\bluebold{ada}",
             "{\\bluebold{duri}}"
         ],
-        "trs": "there are {\\ldots} two kinds (of sago palms), ones that \\bluebold{have thorns} and ones that don\u2019t (have thorns) {\\ldots} you know (there are) sago (palms) that don\u2019t \\bluebold{have thorns}\u2019 \\textstyleExampleSource{[081014-006-CvPr.0007/0009]}"
+        "trs": "there are {\\ldots} two kinds (of sago palms), ones that \\bluebold{have thorns} and ones that don\u2019t (have thorns) {\\ldots} you know (there are) sago (palms) that don\u2019t \\bluebold{have thorns}\u2019 \\textstyleExampleSource{[081014-006-CvPr.0007/0009]}",
+        "wlength": 9
     },
     {
         "categories": [
             "2pl",
             "vblz"
         ],
+        "clength": 122,
         "filename": "78/03.tex",
         "imt": "{\\textsc{2pl}}  {\\textsc{vblz}\\bluebold{\u2013}thank.God}  {because}  {be.able}  {}  {\\textsc{vblz}\u2013language}  Yali",
         "imtwordsbare": [
@@ -439,6 +456,7 @@
             "{\\bluebold{ber}\\bluebold{\u2013}\\bluebold{bahasa}}",
             "\\bluebold{Yali}"
         ],
-        "trs": "so we only \\bluebold{spoke Yali} {\\ldots} but I said, ``you (should) be grateful because (you) can \\bluebold{speak Yali}''' \\textstyleExampleSource{[081011-022-Cv.0101/0184]}"
+        "trs": "so we only \\bluebold{spoke Yali} {\\ldots} but I said, ``you (should) be grateful because (you) can \\bluebold{speak Yali}''' \\textstyleExampleSource{[081011-022-Cv.0101/0184]}",
+        "wlength": 7
     }
 ]

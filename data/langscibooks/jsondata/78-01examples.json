@@ -1,6 +1,7 @@
 [
     {
         "categories": [],
+        "clength": 15,
         "filename": "78/01.tex",
         "imt": "war ethnic.group again",
         "imtwordsbare": [
@@ -35,10 +36,12 @@
             "suku",
             "lagi"
         ],
-        "trs": "\\squarebrackets{About giving children to one\u2019s enemy:}\\\\"
+        "trs": "\\squarebrackets{About giving children to one\u2019s enemy:}\\\\",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 17,
         "filename": "78/01.tex",
         "imt": "want {give} {knife}",
         "imtwordsbare": [
@@ -74,6 +77,7 @@
             "{kasi}",
             "{pisow}"
         ],
-        "trs": "now they \\bluebold{give} him \\bluebold{a flashlight}, (having) \\bluebold{given} (him) \\bluebold{a flashlight}, they want to give (him) a knife\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}"
+        "trs": "now they \\bluebold{give} him \\bluebold{a flashlight}, (having) \\bluebold{given} (him) \\bluebold{a flashlight}, they want to give (him) a knife\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}",
+        "wlength": 3
     }
 ]

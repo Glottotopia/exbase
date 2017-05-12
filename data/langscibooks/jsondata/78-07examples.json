@@ -6,6 +6,7 @@
             "neg",
             "prox"
         ],
+        "clength": 44,
         "filename": "78/07.tex",
         "imt": "\\textsc{1pl} \\textsc{d.prox} \\textsc{neg} be.able",
         "imtwordsbare": [
@@ -46,7 +47,8 @@
             "{tra}",
             "{bisa}"
         ],
-        "trs": "\\bluebold{we, by contrast}, can\u2019t (work like   that)\u2019\\\\"
+        "trs": "\\bluebold{we, by contrast}, can\u2019t (work like   that)\u2019\\\\",
+        "wlength": 4
     },
     {
         "categories": [
@@ -54,6 +56,7 @@
             "d",
             "prox"
         ],
+        "clength": 42,
         "filename": "78/07.tex",
         "imt": "\\textsc{3sg} throw(.away) \\textsc{d.prox} \\textsc{d.prox}",
         "imtwordsbare": [
@@ -94,7 +97,8 @@
             "\\bluebold{ini}",
             "\\bluebold{ni}"
         ],
-        "trs": "he threw away \\bluebold{these very (ones)}\u2019\\\\"
+        "trs": "he threw away \\bluebold{these very (ones)}\u2019\\\\",
+        "wlength": 4
     },
     {
         "categories": [
@@ -102,6 +106,7 @@
             "d",
             "prox"
         ],
+        "clength": 45,
         "filename": "78/07.tex",
         "imt": "\\textsc{3sg} want to where \\textsc{d.prox}",
         "imtwordsbare": [
@@ -149,13 +154,15 @@
             "\\bluebold{mana}",
             "\\bluebold{ni}?"
         ],
-        "trs": "\\bluebold{where (}\\blueboldSmallCaps{emph}\\bluebold{)} does he want to go?\u2019\\\\"
+        "trs": "\\bluebold{where (}\\blueboldSmallCaps{emph}\\bluebold{)} does he want to go?\u2019\\\\",
+        "wlength": 5
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 19,
         "filename": "78/07.tex",
         "imt": "exist \\textsc{d.prox}",
         "imtwordsbare": [
@@ -184,7 +191,8 @@
             "{ada}",
             "\\bluebold{ni}"
         ],
-        "trs": "(the fish) are \\bluebold{here}\u2019\\\\"
+        "trs": "(the fish) are \\bluebold{here}\u2019\\\\",
+        "wlength": 2
     },
     {
         "categories": [
@@ -192,6 +200,7 @@
             "d",
             "prox"
         ],
+        "clength": 28,
         "filename": "78/07.tex",
         "imt": "\\textsc{3sg} put.fire.to \\textsc{d.prox}",
         "imtwordsbare": [
@@ -226,13 +235,15 @@
             "{menyala}",
             "\\bluebold{ni}"
         ],
-        "trs": "he puts fire to \\bluebold{this}\u2019\\\\"
+        "trs": "he puts fire to \\bluebold{this}\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 27,
         "filename": "78/07.tex",
         "imt": "\\textsc{d.prox} proposal just",
         "imtwordsbare": [
@@ -267,7 +278,8 @@
             "{usul}",
             "{saja}"
         ],
-        "trs": "\\bluebold{this} is just a proposal\u2019\\\\"
+        "trs": "\\bluebold{this} is just a proposal\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [
@@ -275,6 +287,7 @@
             "d",
             "prox"
         ],
+        "clength": 42,
         "filename": "78/07.tex",
         "imt": "\\textsc{1sg} still live \\textsc{d.prox}",
         "imtwordsbare": [
@@ -315,13 +328,15 @@
             "\\bluebold{hidup}",
             "\\bluebold{ni}"
         ],
-        "trs": "I\u2019m still \\bluebold{very} \\bluebold{much} \\bluebold{alive}\u2019\\\\"
+        "trs": "I\u2019m still \\bluebold{very} \\bluebold{much} \\bluebold{alive}\u2019\\\\",
+        "wlength": 4
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 62,
         "filename": "78/07.tex",
         "imt": "{} but now \\textsc{d.prox} exist vacation",
         "imtwordsbare": [
@@ -374,7 +389,8 @@
             "{ada}",
             "{libur}"
         ],
-        "trs": "{\\ldots} but \\bluebold{right now} (we) are on vacation\u2019 \\\\"
+        "trs": "{\\ldots} but \\bluebold{right now} (we) are on vacation\u2019 \\\\",
+        "wlength": 6
     },
     {
         "categories": [
@@ -383,6 +399,7 @@
             "dist",
             "poss"
         ],
+        "clength": 76,
         "filename": "78/07.tex",
         "imt": "\\textsc{2sg} \\textsc{poss} voice \\textsc{d.dist} be.dangerous",
         "imtwordsbare": [
@@ -429,7 +446,8 @@
             "\\bluebold{tu}",
             "\\bluebold{bahaya}"
         ],
-        "trs": "{\u2018\\bluebold{that voice of yours} is dangerous\u2019}"
+        "trs": "{\u2018\\bluebold{that voice of yours} is dangerous\u2019}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -437,6 +455,7 @@
             "d",
             "dist"
         ],
+        "clength": 44,
         "filename": "78/07.tex",
         "imt": "\\textsc{1sg} \\textsc{d.dist} be.diligent go.to.school",
         "imtwordsbare": [
@@ -477,13 +496,15 @@
             "{rajing}",
             "{skola}"
         ],
-        "trs": "\\bluebold{I,} \\bluebold{nonetheless}, go to school  diligently\u2019 \\\\"
+        "trs": "\\bluebold{I,} \\bluebold{nonetheless}, go to school  diligently\u2019 \\\\",
+        "wlength": 4
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 37,
         "filename": "78/07.tex",
         "imt": "\\textsc{d.dist} what \\textsc{d.dist}",
         "imtwordsbare": [
@@ -518,7 +539,8 @@
             "\\bluebold{apa}",
             "\\bluebold{tu}{?}"
         ],
-        "trs": "{\u2018\\bluebold{what (}\\blueboldSmallCaps{emph}\\bluebold{)} was that?}\\\\"
+        "trs": "{\u2018\\bluebold{what (}\\blueboldSmallCaps{emph}\\bluebold{)} was that?}\\\\",
+        "wlength": 3
     },
     {
         "categories": [
@@ -527,6 +549,7 @@
             "l",
             "prox"
         ],
+        "clength": 65,
         "filename": "78/07.tex",
         "imt": "at \\textsc{l.prox} \\textsc{d.dist} exist person nocturnal.evil.spirit one",
         "imtwordsbare": [
@@ -585,7 +608,8 @@
             "{swanggi}",
             "{satu}"
         ],
-        "trs": "\\bluebold{here (}\\blueboldSmallCaps{emph}\\bluebold{)} there is a certain evil  sorcerer\u2019 \\\\"
+        "trs": "\\bluebold{here (}\\blueboldSmallCaps{emph}\\bluebold{)} there is a certain evil  sorcerer\u2019 \\\\",
+        "wlength": 7
     },
     {
         "categories": [
@@ -593,6 +617,7 @@
             "d",
             "dist"
         ],
+        "clength": 52,
         "filename": "78/07.tex",
         "imt": "\\textsc{3sg} exist \\textsc{d.dist} \\textsc{3sg} exist \\textsc{d.dist}",
         "imtwordsbare": [
@@ -645,7 +670,8 @@
             "{ada}",
             "\\bluebold{tu}"
         ],
-        "trs": "she is \\bluebold{over there}, she is \\bluebold{over there}\u2019\\\\"
+        "trs": "she is \\bluebold{over there}, she is \\bluebold{over there}\u2019\\\\",
+        "wlength": 6
     },
     {
         "categories": [
@@ -654,6 +680,7 @@
             "d",
             "dist"
         ],
+        "clength": 50,
         "filename": "78/07.tex",
         "imt": "\\textsc{3pl} see \\textsc{1pl} \\textsc{d.dist} feel.surprised(.about)",
         "imtwordsbare": [
@@ -700,7 +727,8 @@
             "\\bluebold{tu}",
             "{herang}"
         ],
-        "trs": "they see us, \\bluebold{that\u2019s} surprising\u2019\\\\"
+        "trs": "they see us, \\bluebold{that\u2019s} surprising\u2019\\\\",
+        "wlength": 5
     },
     {
         "categories": [
@@ -709,6 +737,7 @@
             "dist",
             "rel"
         ],
+        "clength": 54,
         "filename": "78/07.tex",
         "imt": "\\textsc{d.dist} \\textsc{rel} \\textsc{1sg} slap.on.face/ears Aleks",
         "imtwordsbare": [
@@ -755,7 +784,8 @@
             "{tampeleng}",
             "{Aleks}"
         ],
-        "trs": "\\bluebold{that\u2019s why} I slapped Aleks in the face\u2019 \\\\"
+        "trs": "\\bluebold{that\u2019s why} I slapped Aleks in the face\u2019 \\\\",
+        "wlength": 5
     },
     {
         "categories": [
@@ -763,6 +793,7 @@
             "d",
             "dist"
         ],
+        "clength": 46,
         "filename": "78/07.tex",
         "imt": "\\textsc{1pl} play \\textsc{d.dist} be.shattered",
         "imtwordsbare": [
@@ -803,13 +834,15 @@
             "\\bluebold{tu}",
             "{hancur}"
         ],
-        "trs": "we did our \\bluebold{very playing} poorly\u2019\\\\"
+        "trs": "we did our \\bluebold{very playing} poorly\u2019\\\\",
+        "wlength": 4
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 62,
         "coordination": "and",
         "filename": "78/07.tex",
         "imt": "{and.then}  {house}  {\\textsc{d.dist}}  {make}  {be.big}",
@@ -857,7 +890,8 @@
             "{biking}",
             "{besar}"
         ],
-        "trs": "(we\u2019ll) leave this (house) behind, the children will stay (here), (and) we\u2019ll move to Sawar over there \\ldots, (we\u2019ll) leave \\bluebold{this house} behind {\\ldots} and then (we\u2019ll) make \\bluebold{that house} (in Sawar) bigger\u2019 \\textstyleExampleSource{[081110-001-Cv.0012/0022/0025/0027]}"
+        "trs": "(we\u2019ll) leave this (house) behind, the children will stay (here), (and) we\u2019ll move to Sawar over there \\ldots, (we\u2019ll) leave \\bluebold{this house} behind {\\ldots} and then (we\u2019ll) make \\bluebold{that house} (in Sawar) bigger\u2019 \\textstyleExampleSource{[081110-001-Cv.0012/0022/0025/0027]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -865,6 +899,7 @@
             "d",
             "dist"
         ],
+        "clength": 83,
         "coordination": "and",
         "filename": "78/07.tex",
         "imt": "at  {Takar}  {Pante-Timur}  {and.then}  {\\textsc{1pl}}  stay  {\\textsc{d.dist}}",
@@ -924,10 +959,12 @@
             "\\bluebold{tinggal}",
             "{\\bluebold{itu}}"
         ],
-        "trs": "when we (were back) from Jayapura, then (we) returned home to the village at Takar at Pante-Timur, and then we \\bluebold{lived there}\u2019 \\textstyleExampleSource{[081006-022-CvEx.0159]}"
+        "trs": "when we (were back) from Jayapura, then (we) returned home to the village at Takar at Pante-Timur, and then we \\bluebold{lived there}\u2019 \\textstyleExampleSource{[081006-022-CvEx.0159]}",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 25,
         "filename": "78/07.tex",
         "imt": "{exist}  {meter}  {few}",
         "imtwordsbare": [
@@ -962,10 +999,12 @@
             "{meter}",
             "{sedikit}"
         ],
-        "trs": "yes, they both went to school, \\bluebold{that day} they were a little drunk\u2019 \\textstyleExampleSource{[081115-001a-Cv.0038]}"
+        "trs": "yes, they both went to school, \\bluebold{that day} they were a little drunk\u2019 \\textstyleExampleSource{[081115-001a-Cv.0038]}",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 42,
         "filename": "78/07.tex",
         "imt": "{feel.happy(.about)}  {because}  see  {exist}  {food}",
         "imtwordsbare": [
@@ -1012,7 +1051,8 @@
             "{ada}",
             "{makangang}"
         ],
-        "trs": "I brought home (the game that I had shot) {\\ldots} (when my) wife \\bluebold{got up at that time}, already she was glad because (she) saw there was food\u2019 (Lit. \u2018\\bluebold{that waking up}\u2019) \\textstyleExampleSource{[080919-004-NP.0030/0032]}"
+        "trs": "I brought home (the game that I had shot) {\\ldots} (when my) wife \\bluebold{got up at that time}, already she was glad because (she) saw there was food\u2019 (Lit. \u2018\\bluebold{that waking up}\u2019) \\textstyleExampleSource{[080919-004-NP.0030/0032]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1021,6 +1061,7 @@
             "neg",
             "prox"
         ],
+        "clength": 59,
         "filename": "78/07.tex",
         "imt": "\\textsc{2sg}  {\\textsc{d.prox}}  {flower}  {\\textsc{neg}}  {safe}",
         "imtwordsbare": [
@@ -1067,12 +1108,14 @@
             "{tida}",
             "{slamat}"
         ],
-        "trs": "[After the speaker\u2019s daughter had ripped off blossoms:] \u2018you see Luisa\u2019s (flowers) are good, (they are) already f\\isi{lowering} a lot, \\bluebold{you (}\\blueboldSmallCaps{emph}\\bluebold{)}, the flowers (you picked) can\u2019t be saved\u2019 \\textstyleExampleSource{[081006-021-CvHt.0002]}"
+        "trs": "[After the speaker\u2019s daughter had ripped off blossoms:] \u2018you see Luisa\u2019s (flowers) are good, (they are) already f\\isi{lowering} a lot, \\bluebold{you (}\\blueboldSmallCaps{emph}\\bluebold{)}, the flowers (you picked) can\u2019t be saved\u2019 \\textstyleExampleSource{[081006-021-CvHt.0002]}",
+        "wlength": 5
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 66,
         "filename": "78/07.tex",
         "imt": "{say}  {please[E]}  {word}  {please[E]}  {just}  \\textsc{neg}  {know}  {be.stupid}",
         "imtwordsbare": [
@@ -1137,13 +1180,15 @@
             "{taw,}",
             "{goblok}"
         ],
-        "trs": "Dodo reprimanded her immediately, ``\\bluebold{you there}, people[\\textsc{tru}], people say ``please'', don\u2019t (you) know the word ``please''?!, (you\u2019re) stupid!''' \\textstyleExampleSource{[081115-001a-Cv.0140]}"
+        "trs": "Dodo reprimanded her immediately, ``\\bluebold{you there}, people[\\textsc{tru}], people say ``please'', don\u2019t (you) know the word ``please''?!, (you\u2019re) stupid!''' \\textstyleExampleSource{[081115-001a-Cv.0140]}",
+        "wlength": 8
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 35,
         "filename": "78/07.tex",
         "imt": "{feel.angry(.about)}  {\\textsc{d.prox}}",
         "imtwordsbare": [
@@ -1172,7 +1217,8 @@
             "{\\bluebold{emosi}}",
             "{\\bluebold{ni}}"
         ],
-        "trs": "[After having been provoked:] \u2018I said, ``oh no, \\bluebold{uncle (}\\blueboldSmallCaps{emph}\\bluebold{)} is provoking \\bluebold{(our) emotions (}\\blueboldSmallCaps{emph}\\bluebold{)}''' \\textstyleExampleSource{[081025-008-Cv.0124]}"
+        "trs": "[After having been provoked:] \u2018I said, ``oh no, \\bluebold{uncle (}\\blueboldSmallCaps{emph}\\bluebold{)} is provoking \\bluebold{(our) emotions (}\\blueboldSmallCaps{emph}\\bluebold{)}''' \\textstyleExampleSource{[081025-008-Cv.0124]}",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1181,6 +1227,7 @@
             "dist",
             "rdp"
         ],
+        "clength": 69,
         "filename": "78/07.tex",
         "imt": "{\\textsc{3sg}}  {\\textsc{d.dist}}  {work}  {like}  {\\textsc{rdp}{\\Tilde}husband}",
         "imtwordsbare": [
@@ -1227,13 +1274,15 @@
             "{kaya}",
             "{laki{\\Tilde}laki}"
         ],
-        "trs": "[and then my husband told (them),] he said, ``{\\ldots} she\u2019s already used (to working like this), she can work (hard), \\bluebold{she (}\\blueboldSmallCaps{emph}\\bluebold{)} works like a man''' \\textstyleExampleSource{[081014-007-CvEx.0049-0050]}"
+        "trs": "[and then my husband told (them),] he said, ``{\\ldots} she\u2019s already used (to working like this), she can work (hard), \\bluebold{she (}\\blueboldSmallCaps{emph}\\bluebold{)} works like a man''' \\textstyleExampleSource{[081014-007-CvEx.0049-0050]}",
+        "wlength": 5
     },
     {
         "categories": [
             "1sg",
             "poss"
         ],
+        "clength": 21,
         "filename": "78/07.tex",
         "imt": "\\textsc{1sg}  {\\textsc{poss}}  {body}",
         "imtwordsbare": [
@@ -1268,13 +1317,15 @@
             "{punya}",
             "{badang}"
         ],
-        "trs": "[After having been pestered by flies:] \u2018wow!, I\u2019m still \\bluebold{very much alive}, you (blue flies) had already perched upon my body\u2019 \\textstyleExampleSource{[080919-005-Cv.0015]}"
+        "trs": "[After having been pestered by flies:] \u2018wow!, I\u2019m still \\bluebold{very much alive}, you (blue flies) had already perched upon my body\u2019 \\textstyleExampleSource{[080919-005-Cv.0015]}",
+        "wlength": 3
     },
     {
         "categories": [
             "2pl",
             "rel"
         ],
+        "clength": 42,
         "coordination": "or",
         "filename": "78/07.tex",
         "imt": "{base}  {\\textsc{rel}}  {appropriately}  {\\textsc{2pl}}  {know}",
@@ -1322,10 +1373,12 @@
             "{kamu}",
             "{taw}"
         ],
-        "trs": "[Addressing a school student:] \u2018do you know the (English) word ``please'' or not?, \\bluebold{that very} (word belongs to) the basic words that you should know\u2019 \\textstyleExampleSource{[081115-001a-Cv.0145]}"
+        "trs": "[Addressing a school student:] \u2018do you know the (English) word ``please'' or not?, \\bluebold{that very} (word belongs to) the basic words that you should know\u2019 \\textstyleExampleSource{[081115-001a-Cv.0145]}",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 27,
         "filename": "78/07.tex",
         "imt": "{stay}  with  {person}",
         "imtwordsbare": [
@@ -1360,12 +1413,14 @@
             "dengang",
             "{orang}"
         ],
-        "trs": "you, the young people, nowadays are difficult {\\ldots} \\bluebold{I, by contrast}, stayed with (other) people\u2019 (Lit. \u2018\\bluebold{this I}\u2019) \\textstyleExampleSource{[081115-001b-Cv.0038/0040]}"
+        "trs": "you, the young people, nowadays are difficult {\\ldots} \\bluebold{I, by contrast}, stayed with (other) people\u2019 (Lit. \u2018\\bluebold{this I}\u2019) \\textstyleExampleSource{[081115-001b-Cv.0038/0040]}",
+        "wlength": 3
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 42,
         "filename": "78/07.tex",
         "imt": "\\textsc{neg}  {be.able}  {go.to.school}  {play}  {cell.phone}  just",
         "imtwordsbare": [
@@ -1418,7 +1473,8 @@
             "{HP}",
             "saja"
         ],
-        "trs": "Father: \u2018if (you) buy a cell-phone there then (you) won\u2019t be able to do (any) schooling, (you\u2019ll) just play (with your) cell-phone\u2019\\\\"
+        "trs": "Father: \u2018if (you) buy a cell-phone there then (you) won\u2019t be able to do (any) schooling, (you\u2019ll) just play (with your) cell-phone\u2019\\\\",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1426,6 +1482,7 @@
             "3pl",
             "neg"
         ],
+        "clength": 58,
         "coordination": "or",
         "filename": "78/07.tex",
         "imt": "{\\textsc{3pl}}  {hit}  {\\textsc{2sg}}  {\\textsc{2sg}}  {be.able}  {ward.off}  or  {\\textsc{neg}}",
@@ -1491,7 +1548,8 @@
             "ka",
             "{tida}"
         ],
-        "trs": "[his father sees him (practicing in a choir) while his other friends practice self-defense] until his father gets angry (with his son), ``\\bluebold{and what about you}, every day you attend the choir practice, (but) if someone hits you, can you defend (yourself) or not?''' (Lit. \u2018\\bluebold{this you}\u2019) \\textstyleExampleSource{[081109-006-JR.0001-0003]}"
+        "trs": "[his father sees him (practicing in a choir) while his other friends practice self-defense] until his father gets angry (with his son), ``\\bluebold{and what about you}, every day you attend the choir practice, (but) if someone hits you, can you defend (yourself) or not?''' (Lit. \u2018\\bluebold{this you}\u2019) \\textstyleExampleSource{[081109-006-JR.0001-0003]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1499,6 +1557,7 @@
             "d",
             "dist"
         ],
+        "clength": 55,
         "filename": "78/07.tex",
         "imt": "{be.long}  {\\textsc{2sg}}  {\\textsc{d.dist}}  {walk}",
         "imtwordsbare": [
@@ -1539,7 +1598,8 @@
             "{\\bluebold{itu}}",
             "{jalang}"
         ],
-        "trs": "let that younger sister have light skin, (let her have) hair that\u2019s long down to her bottom, \\bluebold{you, however}, go (your own way)\u2019 (Lit. \u2018\\bluebold{that you}\u2019) \\textstyleExampleSource{[081115-001a-Cv.0244]}"
+        "trs": "let that younger sister have light skin, (let her have) hair that\u2019s long down to her bottom, \\bluebold{you, however}, go (your own way)\u2019 (Lit. \u2018\\bluebold{that you}\u2019) \\textstyleExampleSource{[081115-001a-Cv.0244]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1547,6 +1607,7 @@
             "prox",
             "rdp"
         ],
+        "clength": 73,
         "filename": "78/07.tex",
         "imt": "{now}  {\\textsc{d.prox}}  {recently}  {exist}  {\\textsc{rdp}{\\Tilde}be.good}",
         "imtwordsbare": [
@@ -1593,10 +1654,12 @@
             "{ada}",
             "{baik{\\Tilde}baik}"
         ],
-        "trs": "Wife: \u2018this (foot) was crooked here, this foot, (\\bluebold{it\u2019s) just now} that (it got) well\u2019 \\textstyleExampleSource{[081006-020-Cv.0006-0007/0013]}"
+        "trs": "Wife: \u2018this (foot) was crooked here, this foot, (\\bluebold{it\u2019s) just now} that (it got) well\u2019 \\textstyleExampleSource{[081006-020-Cv.0006-0007/0013]}",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 30,
         "coordination": "and",
         "filename": "78/07.tex",
         "imt": "at  {bottom}  {tree}  {banana}",
@@ -1638,7 +1701,8 @@
             "{pohong}",
             "{pisang}"
         ],
-        "trs": "Ms. (Teacher) starts ordering the school kids to start drawing \\bluebold{a monkey} on a banana tree {\\ldots} and then he draws \\bluebold{this monkey} under the banana tree\u2019 \\textstyleExampleSource{[081109-002-JR.0001-0002]}"
+        "trs": "Ms. (Teacher) starts ordering the school kids to start drawing \\bluebold{a monkey} on a banana tree {\\ldots} and then he draws \\bluebold{this monkey} under the banana tree\u2019 \\textstyleExampleSource{[081109-002-JR.0001-0002]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1646,6 +1710,7 @@
             "d",
             "dist"
         ],
+        "clength": 71,
         "coordination": "and",
         "filename": "78/07.tex",
         "imt": "fruit  {be.red}  {\\textsc{d.dist}}  and  \\textsc{3sg}  {walk}",
@@ -1699,10 +1764,12 @@
             "de",
             "{jalang}"
         ],
-        "trs": "and then there {\\ldots} was \\bluebold{a red fruit} {\\ldots} he took \\bluebold{that red fruit} and he walked (further)\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0218-219]}"
+        "trs": "and then there {\\ldots} was \\bluebold{a red fruit} {\\ldots} he took \\bluebold{that red fruit} and he walked (further)\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0218-219]}",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 27,
         "coordination": "and",
         "filename": "78/07.tex",
         "imt": "what  {work}  {God}",
@@ -1738,10 +1805,12 @@
             "{pekerjaang}",
             "{Tuhang}"
         ],
-        "trs": "you \\bluebold{travel}, (just) \\bluebold{travel} well, (when) you stay (at Takar and when you) \\bluebold{walk around} (in Takar), (you) shouldn\u2019t (do) this (and) this, {\\ldots} you (do) \\bluebold{this traveling} for, what-is-it, God\u2019s work\u2019 \\textstyleExampleSource{[081025-008-Cv.0142/0144]}"
+        "trs": "you \\bluebold{travel}, (just) \\bluebold{travel} well, (when) you stay (at Takar and when you) \\bluebold{walk around} (in Takar), (you) shouldn\u2019t (do) this (and) this, {\\ldots} you (do) \\bluebold{this traveling} for, what-is-it, God\u2019s work\u2019 \\textstyleExampleSource{[081025-008-Cv.0142/0144]}",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 25,
         "filename": "78/07.tex",
         "imt": "{ }   why",
         "imtwordsbare": [
@@ -1776,13 +1845,15 @@
             "sister:}",
             "knapa?"
         ],
-        "trs": "Young sister: \u2018why?"
+        "trs": "Young sister: \u2018why?",
+        "wlength": 3
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 79,
         "filename": "78/07.tex",
         "imt": "{ }  person  walk  \\textsc{d.dist}  want  go  worship",
         "imtwordsbare": [
@@ -1848,7 +1919,8 @@
             "pergi",
             "sembayang"
         ],
-        "trs": "Older sister: \u2018people (doing) \\bluebold{that traveling} want to go worship\u2019 \\textstyleExampleSource{[081006-016-Cv.0012-0015]}"
+        "trs": "Older sister: \u2018people (doing) \\bluebold{that traveling} want to go worship\u2019 \\textstyleExampleSource{[081006-016-Cv.0012-0015]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1856,6 +1928,7 @@
             "d",
             "dist"
         ],
+        "clength": 54,
         "filename": "78/07.tex",
         "imt": "{mother}  {\\textsc{d.dist}}  {only}  \\textsc{2sg}  {fall}  {feel.startled(.by)}",
         "imtwordsbare": [
@@ -1908,7 +1981,8 @@
             "{jatu}",
             "{kaget}"
         ],
-        "trs": "I said, ``(it\u2019s my) shoulder bone that is broken, (my) ribs'', (the doctor said,) ``oh!, ah, Mother \\bluebold{that is} just \\bluebold{because} you\u2019re in shock''' \\textstyleExampleSource{[081015-005-NP.0048]}"
+        "trs": "I said, ``(it\u2019s my) shoulder bone that is broken, (my) ribs'', (the doctor said,) ``oh!, ah, Mother \\bluebold{that is} just \\bluebold{because} you\u2019re in shock''' \\textstyleExampleSource{[081015-005-NP.0048]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1917,6 +1991,7 @@
             "dist",
             "l"
         ],
+        "clength": 50,
         "filename": "78/07.tex",
         "imt": "to  {\\textsc{l.dist}}  {oh!}  {\\textsc{d.dist}}  \\textsc{3sg}  {}",
         "imtwordsbare": [
@@ -1969,13 +2044,15 @@
             "dia",
             "{\\ldots}"
         ],
-        "trs": "yes, (they) started working toward the Warmer bridge {\\ldots} when (they\u2019ll work the stretch of the road) from \\bluebold{there} to \\bluebold{over there}, oh, what\u2019s-its-name, it \\ldots\u2019 \\textstyleExampleSource{[081006-033-Cv.0013/0015/0017]}"
+        "trs": "yes, (they) started working toward the Warmer bridge {\\ldots} when (they\u2019ll work the stretch of the road) from \\bluebold{there} to \\bluebold{over there}, oh, what\u2019s-its-name, it \\ldots\u2019 \\textstyleExampleSource{[081006-033-Cv.0013/0015/0017]}",
+        "wlength": 6
     },
     {
         "categories": [
             "l",
             "prox"
         ],
+        "clength": 64,
         "filename": "78/07.tex",
         "imt": "so  person  \\textsc{l.prox}  say  yesterday  be.prior",
         "imtwordsbare": [
@@ -2028,7 +2105,8 @@
             "kemaring",
             "dulu"
         ],
-        "trs": "so \\bluebold{the people (that are) here} say ``the day before yesterday''' \\textstyleExampleSource{[081006-019-Cv.0015]}"
+        "trs": "so \\bluebold{the people (that are) here} say ``the day before yesterday''' \\textstyleExampleSource{[081006-019-Cv.0015]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2037,6 +2115,7 @@
             "l",
             "prox"
         ],
+        "clength": 69,
         "filename": "78/07.tex",
         "imt": "and.then  \\textsc{1sg}  see  \\textsc{3pl}  \\textsc{l.prox}  already  too  be.pleasant",
         "imtwordsbare": [
@@ -2101,7 +2180,8 @@
             "terlalu",
             "enak"
         ],
-        "trs": "[Comment about ill-behaved teenagers:] \u2018and then I see \\bluebold{(that) they (that are) here} already (have) too pleasant (lives)\u2019 \\textstyleExampleSource{[081115-001a-Cv.0311]}\\\\"
+        "trs": "[Comment about ill-behaved teenagers:] \u2018and then I see \\bluebold{(that) they (that are) here} already (have) too pleasant (lives)\u2019 \\textstyleExampleSource{[081115-001a-Cv.0311]}\\\\",
+        "wlength": 8
     },
     {
         "categories": [
@@ -2109,6 +2189,7 @@
             "l",
             "med"
         ],
+        "clength": 55,
         "filename": "78/07.tex",
         "imt": "to  {\\textsc{l.dist}}  {stay}  at  {\\textsc{l.med}}",
         "imtwordsbare": [
@@ -2156,7 +2237,8 @@
             "di",
             "{\\bluebold{situ}}"
         ],
-        "trs": "when Ise here has finished (her schooling) I want to bring the two of them to (Jayapura) \\bluebold{over there} to live \\bluebold{there}\u2019 \\textstyleExampleSource{[081025-003-Cv.0135]}"
+        "trs": "when Ise here has finished (her schooling) I want to bring the two of them to (Jayapura) \\bluebold{over there} to live \\bluebold{there}\u2019 \\textstyleExampleSource{[081025-003-Cv.0135]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -2164,6 +2246,7 @@
             "l",
             "med"
         ],
+        "clength": 58,
         "filename": "78/07.tex",
         "imt": "{not.yet}  {once}  {\\textsc{1sg}}  {visit}  to  {\\textsc{l.med}}",
         "imtwordsbare": [
@@ -2216,7 +2299,8 @@
             "ke",
             "{\\bluebold{situ}}"
         ],
-        "trs": "the older relatives \\bluebold{over there}, (the) relatives are very many in (the Mambramo area), {\\ldots} me too, I have never been \\bluebold{there}\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0158]}"
+        "trs": "the older relatives \\bluebold{over there}, (the) relatives are very many in (the Mambramo area), {\\ldots} me too, I have never been \\bluebold{there}\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0158]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2227,6 +2311,7 @@
             "l",
             "prox"
         ],
+        "clength": 117,
         "filename": "78/07.tex",
         "imt": "stand  {\\textsc{d.dist}}  {}  \\textsc{1sg}  {say} {}   {from}  {\\textsc{l.prox}}  {\\textsc{1sg}}  {curse}  \\textsc{3sg}",
         "imtwordsbare": [
@@ -2309,13 +2394,15 @@
             "{kutuk}",
             "dia"
         ],
-        "trs": "and then those coconut leaves, \\bluebold{those coconut leaves where I was standing} {\\ldots} I said, ``{\\ldots} from \\bluebold{here} I curse him (the evil spirit)''' \\textstyleExampleSource{[080917-008-NP.0101/0103]}"
+        "trs": "and then those coconut leaves, \\bluebold{those coconut leaves where I was standing} {\\ldots} I said, ``{\\ldots} from \\bluebold{here} I curse him (the evil spirit)''' \\textstyleExampleSource{[080917-008-NP.0101/0103]}",
+        "wlength": 11
     },
     {
         "categories": [
             "l",
             "med"
         ],
+        "clength": 46,
         "filename": "78/07.tex",
         "imt": "two  {wash}  {trouser}  {at}  {\\textsc{l.med}}",
         "imtwordsbare": [
@@ -2362,13 +2449,15 @@
             "{di}",
             "{\\bluebold{situ}}"
         ],
-        "trs": "[A mother addressing her young sons:] \u2018hey, you two go bathe in the \\bluebold{sea} already!, then you two wash (your) trousers \\bluebold{there}!\u2019 \\textstyleExampleSource{[080917-006-CvHt.0007]}"
+        "trs": "[A mother addressing her young sons:] \u2018hey, you two go bathe in the \\bluebold{sea} already!, then you two wash (your) trousers \\bluebold{there}!\u2019 \\textstyleExampleSource{[080917-006-CvHt.0007]}",
+        "wlength": 5
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 39,
         "filename": "78/07.tex",
         "imt": "{house}  {\\textsc{d.dist}}  {exist}  {evil.spirit}  {many}",
         "imtwordsbare": [
@@ -2415,6 +2504,7 @@
             "{setang}",
             "{banyak}"
         ],
-        "trs": "you can\u2019t live there, \\bluebold{there (}\\blueboldSmallCaps{emph}\\bluebold{)}, (in) that house are many evil spirits\u2019 \\textstyleExampleSource{[081006-022-CvEx.0164]}"
+        "trs": "you can\u2019t live there, \\bluebold{there (}\\blueboldSmallCaps{emph}\\bluebold{)}, (in) that house are many evil spirits\u2019 \\textstyleExampleSource{[081006-022-CvEx.0164]}",
+        "wlength": 5
     }
 ]

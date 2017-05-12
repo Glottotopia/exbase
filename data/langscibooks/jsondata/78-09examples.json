@@ -4,6 +4,7 @@
             "3sg",
             "poss"
         ],
+        "clength": 61,
         "filename": "78/09.tex",
         "imt": "\\textsc{3sg}  have/\\textsc{poss}  plate  be.special",
         "imtwordsbare": [
@@ -44,13 +45,15 @@
             "\\bluebold{piring}]",
             "[kusus]"
         ],
-        "trs": "Adnominal reading: \u2018\\bluebold{his/her plates} are special\u2019 \\textstyleExampleSource{[081006-029-CvEx.0016]}\\\\"
+        "trs": "Adnominal reading: \u2018\\bluebold{his/her plates} are special\u2019 \\textstyleExampleSource{[081006-029-CvEx.0016]}\\\\",
+        "wlength": 4
     },
     {
         "categories": [
             "poss",
             "rdp"
         ],
+        "clength": 76,
         "filename": "78/09.tex",
         "imt": "mother  \\textsc{poss}  ySb  \\textsc{rdp}{\\Tilde}husband",
         "imtwordsbare": [
@@ -91,12 +94,14 @@
             "\\textitbf{ade}",
             "\\textitbf{laki{\\Tilde}laki}"
         ],
-        "trs": "mother\u2019s younger brother\u2019\\\\"
+        "trs": "mother\u2019s younger brother\u2019\\\\",
+        "wlength": 4
     },
     {
         "categories": [
             "poss"
         ],
+        "clength": 46,
         "filename": "78/09.tex",
         "imt": "father  \\textsc{poss} eye",
         "imtwordsbare": [
@@ -131,7 +136,8 @@
             "\\textitbf{pu}",
             "\\textitbf{mata}"
         ],
-        "trs": "father\u2019s eyes\u2019\\\\"
+        "trs": "father\u2019s eyes\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [
@@ -140,6 +146,7 @@
             "poss",
             "prox"
         ],
+        "clength": 47,
         "filename": "78/09.tex",
         "imt": "\\textsc{3sg}  \\textsc{poss}  \\textsc{d.prox}",
         "imtwordsbare": [
@@ -174,10 +181,12 @@
             "\\textitbf{punya}",
             "\\textitbf{ini}"
         ],
-        "trs": "his/her (customs)\u2019\\\\"
+        "trs": "his/her (customs)\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 45,
         "filename": "78/09.tex",
         "imt": "ySb  \\textupsc{poss} \\textupsc{d.dist}",
         "imtwordsbare": [
@@ -212,10 +221,12 @@
             "\\textitbf{pu}",
             "\\textitbf{itu}"
         ],
-        "trs": "younger sister\u2019s (fish)\u2019\\\\"
+        "trs": "younger sister\u2019s (fish)\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 52,
         "filename": "78/09.tex",
         "imt": "evil.spirit  \\textupsc{poss} power",
         "imtwordsbare": [
@@ -250,10 +261,12 @@
             "\\textitbf{punya}",
             "\\textitbf{kwasa}"
         ],
-        "trs": "force of an evil spirit\u2019\\\\"
+        "trs": "force of an evil spirit\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 53,
         "filename": "78/09.tex",
         "imt": "evil.spirit  \\textupsc{poss} black.magic",
         "imtwordsbare": [
@@ -288,7 +301,8 @@
             "\\textitbf{pu}",
             "\\textitbf{pake-pake}"
         ],
-        "trs": "an evil spirit\u2019s black magic\u2019\\\\"
+        "trs": "an evil spirit\u2019s black magic\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [
@@ -296,6 +310,7 @@
             "dist",
             "poss"
         ],
+        "clength": 63,
         "filename": "78/09.tex",
         "imt": "LNG  \\textsc{poss}  container \\textsc{d.dist}",
         "imtwordsbare": [
@@ -336,7 +351,8 @@
             "\\textitbf{terpol}",
             "\\textitbf{itu}"
         ],
-        "trs": "metal jerry can\u2019\\footnote{The \\isi{proper noun} \\textitbf{LNG} has developed from the \\isi{noun} phrase \u2018Liquefied Natural Gas\u2019.}\\\\"
+        "trs": "metal jerry can\u2019\\footnote{The \\isi{proper noun} \\textitbf{LNG} has developed from the \\isi{noun} phrase \u2018Liquefied Natural Gas\u2019.}\\\\",
+        "wlength": 4
     },
     {
         "categories": [
@@ -344,6 +360,7 @@
             "poss",
             "rdp"
         ],
+        "clength": 58,
         "filename": "78/09.tex",
         "imt": "\\textsc{3sg}  \\textsc{poss}  \\textsc{rdp}{\\Tilde}body.hair",
         "imtwordsbare": [
@@ -378,12 +395,14 @@
             "\\textitbf{punya}",
             "\\textitbf{bulu{\\Tilde}bulu}"
         ],
-        "trs": "its (the dog\u2019s) body hair\u2019\\\\"
+        "trs": "its (the dog\u2019s) body hair\u2019\\\\",
+        "wlength": 3
     },
     {
         "categories": [
             "poss"
         ],
+        "clength": 104,
         "filename": "78/09.tex",
         "imt": "person  \\ili{Isirawa} \\textsc{poss}  what manner marry",
         "imtwordsbare": [
@@ -436,12 +455,14 @@
             "\\textitbf{cara}",
             "\\textitbf{kawing}"
         ],
-        "trs": "the \\ili{Isirawa}\u2019s, what-is-it, way of marrying\u2019\\\\"
+        "trs": "the \\ili{Isirawa}\u2019s, what-is-it, way of marrying\u2019\\\\",
+        "wlength": 6
     },
     {
         "categories": [
             "poss"
         ],
+        "clength": 83,
         "filename": "78/09.tex",
         "imt": "mother Klara \\textsc{poss} child  woman",
         "imtwordsbare": [
@@ -488,7 +509,8 @@
             "\\textitbf{ana}",
             "\\textitbf{prempuang}"
         ],
-        "trs": "mother Klara\u2019s daughter\u2019\\\\"
+        "trs": "mother Klara\u2019s daughter\u2019\\\\",
+        "wlength": 5
     },
     {
         "categories": [
@@ -496,6 +518,7 @@
             "poss",
             "prox"
         ],
+        "clength": 67,
         "filename": "78/09.tex",
         "imt": "garden  \\textsc{d.prox} \\textsc{poss} product",
         "imtwordsbare": [
@@ -536,7 +559,8 @@
             "\\textitbf{punya}",
             "\\textitbf{hasil}"
         ],
-        "trs": "this garden\u2019s products\u2019\\\\"
+        "trs": "this garden\u2019s products\u2019\\\\",
+        "wlength": 4
     },
     {
         "categories": [
@@ -546,6 +570,7 @@
             "med",
             "poss"
         ],
+        "clength": 79,
         "filename": "78/09.tex",
         "imt": "\\textsc{1pl} / \\textsc{3pl} \\textsc{poss} house exist at \\textsc{l.med}",
         "imtwordsbare": [
@@ -610,7 +635,8 @@
             "di",
             "situ"
         ],
-        "trs": "\\bluebold{our/their house} is over there\u2019 [Elicited BR111020-001.002-003]"
+        "trs": "\\bluebold{our/their house} is over there\u2019 [Elicited BR111020-001.002-003]",
+        "wlength": 8
     },
     {
         "categories": [
@@ -618,6 +644,7 @@
             "poss",
             "prox"
         ],
+        "clength": 52,
         "filename": "78/09.tex",
         "imt": "{\\textsc{d.prox}}  {\\textsc{poss}}  {front}",
         "imtwordsbare": [
@@ -652,10 +679,12 @@
             "{\\bluebold{pu}}",
             "{\\bluebold{muka}}"
         ],
-        "trs": "do you (\u2018father\u2019) still know Siduas\u2019, still know \\bluebold{this (one)\u2019s face}?\u2019 \\textstyleExampleSource{[080922-001a-CvPh.1123]}"
+        "trs": "do you (\u2018father\u2019) still know Siduas\u2019, still know \\bluebold{this (one)\u2019s face}?\u2019 \\textstyleExampleSource{[080922-001a-CvPh.1123]}",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/09.tex",
         "imt": "{cry}  {be.continuous}",
         "imtwordsbare": [
@@ -684,12 +713,14 @@
             "{menangis}",
             "{trus}"
         ],
-        "trs": "\\bluebold{that small grandchild of his}, every day he/she cries continuously\u2019 \\textstyleExampleSource{[081011-009-Cv.0055]}"
+        "trs": "\\bluebold{that small grandchild of his}, every day he/she cries continuously\u2019 \\textstyleExampleSource{[081011-009-Cv.0055]}",
+        "wlength": 2
     },
     {
         "categories": [
             "poss"
         ],
+        "clength": 74,
         "coordination": "and",
         "filename": "78/09.tex",
         "imt": "{oSb}  {woman}  \\textsc{poss}  {child}",
@@ -732,13 +763,15 @@
             "\\bluebold{pu}",
             "{\\bluebold{ana}}"
         ],
-        "trs": "her\\textsubscript{i} child (wants to) marry \\bluebold{the son of her}\\textsubscript{i}\\bluebold{ husband\u2019s older sister}\u2019 \\textstyleExampleSource{[Elicited BR111020.026]}\\footnote{The elicited utterance in (\\ref{Example_9.34}) is based on an original triple possessive construction which contains the \\isi{demonstrative} \\textitbf{ini} \u2018\\textsc{d.prox}\u2019: \\textitbf{{\\ldots} de pu laki, ini, punya kaka prempuang pu ana}. In this context, \\textitbf{ini} \u2018\\textsc{d.prox}\u2019 functions as a \\isi{placeholder} and therefore is not part of the \\isi{noun} phrase \\textitbf{de pu laki} \u2018her husband\u2019 (see \u00a7\\ref{Para_7.1.2.6} for a discussion of the \\isi{placeholder} uses of demonstratives).\\\\"
+        "trs": "her\\textsubscript{i} child (wants to) marry \\bluebold{the son of her}\\textsubscript{i}\\bluebold{ husband\u2019s older sister}\u2019 \\textstyleExampleSource{[Elicited BR111020.026]}\\footnote{The elicited utterance in (\\ref{Example_9.34}) is based on an original triple possessive construction which contains the \\isi{demonstrative} \\textitbf{ini} \u2018\\textsc{d.prox}\u2019: \\textitbf{{\\ldots} de pu laki, ini, punya kaka prempuang pu ana}. In this context, \\textitbf{ini} \u2018\\textsc{d.prox}\u2019 functions as a \\isi{placeholder} and therefore is not part of the \\isi{noun} phrase \\textitbf{de pu laki} \u2018her husband\u2019 (see \u00a7\\ref{Para_7.1.2.6} for a discussion of the \\isi{placeholder} uses of demonstratives).\\\\",
+        "wlength": 4
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 81,
         "filename": "78/09.tex",
         "imt": "at  {inside}  {\\textsc{d.dist}}  {you.know}  {like}  cotton  {right?}",
         "imtwordsbare": [
@@ -797,12 +830,14 @@
             "kapas",
             "{to?}"
         ],
-        "trs": "and then (he) took that palm stem, \\bluebold{that inside (part) of it} (\\textstyleChItalic{as opposed to other parts}), you know, is like cotton, right?\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0073]}"
+        "trs": "and then (he) took that palm stem, \\bluebold{that inside (part) of it} (\\textstyleChItalic{as opposed to other parts}), you know, is like cotton, right?\u2019 \\textstyleExampleSource{[080922-010a-CvNF.0073]}",
+        "wlength": 7
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 33,
         "coordination": "and",
         "filename": "78/09.tex",
         "imt": "{and.then}  {\\textsc{1sg}}  {return}  {}",
@@ -844,13 +879,15 @@
             "{kembali}",
             "{\\ldots}"
         ],
-        "trs": "[two days ago I went to Abepura,] and then I stayed there, and then \\bluebold{the} (\\textstyleChItalic{very}) \\bluebold{next day} only then did I return {\\ldots}\u2019 (Lit. \u2018\\bluebold{its tomorrow}\u2019) \\textstyleExampleSource{[Elicited BR111020.008]}"
+        "trs": "[two days ago I went to Abepura,] and then I stayed there, and then \\bluebold{the} (\\textstyleChItalic{very}) \\bluebold{next day} only then did I return {\\ldots}\u2019 (Lit. \u2018\\bluebold{its tomorrow}\u2019) \\textstyleExampleSource{[Elicited BR111020.008]}",
+        "wlength": 4
     },
     {
         "categories": [
             "3pl",
             "give"
         ],
+        "clength": 41,
         "filename": "78/09.tex",
         "imt": "{and.then}  {\\textsc{3pl}}  {\\textsc{give}}  {finish}  {all}",
         "imtwordsbare": [
@@ -897,7 +934,8 @@
             "{selesay}",
             "{smua}"
         ],
-        "trs": "they worked on the house from morning until evening, \\bluebold{the} (\\textstyleChItalic{very}) \\bluebold{next morning} only then did they finish everything\u2019 (Lit. \u2018\\bluebold{its morning}\u2019) \\textstyleExampleSource{[Elicited BR111020.009]}"
+        "trs": "they worked on the house from morning until evening, \\bluebold{the} (\\textstyleChItalic{very}) \\bluebold{next morning} only then did they finish everything\u2019 (Lit. \u2018\\bluebold{its morning}\u2019) \\textstyleExampleSource{[Elicited BR111020.009]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -905,6 +943,7 @@
             "3sg",
             "poss"
         ],
+        "clength": 80,
         "coordination": "and",
         "filename": "78/09.tex",
         "imt": "\\textsc{3sg}  {\\textsc{poss}}  {night}  {\\textsc{3pl}}  {go}  to  {Jayapura}",
@@ -964,7 +1003,8 @@
             "ke",
             "{Jayapura}"
         ],
-        "trs": "Petrus and Tinus went bathing at the beach this morning (and) \\bluebold{this} (\\textstyleChItalic{very}) \\bluebold{evening} they went to Jayapura\u2019 (Lit. \u2018\\bluebold{its night}\u2019) \\textstyleExampleSource{[Elicited BR111020.009]}"
+        "trs": "Petrus and Tinus went bathing at the beach this morning (and) \\bluebold{this} (\\textstyleChItalic{very}) \\bluebold{evening} they went to Jayapura\u2019 (Lit. \u2018\\bluebold{its night}\u2019) \\textstyleExampleSource{[Elicited BR111020.009]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -972,6 +1012,7 @@
             "dist",
             "poss"
         ],
+        "clength": 69,
         "filename": "78/09.tex",
         "imt": "five  million  {\\textsc{poss}}  {\\textsc{d.dist}}",
         "imtwordsbare": [
@@ -1012,13 +1053,15 @@
             "{\\bluebold{punya}}",
             "{\\bluebold{tu}}"
         ],
-        "trs": "(traditional cloths from Sorong) which are expensive, which (cost) more than one million[\\textsc{tru}], \\bluebold{a minimum of five million} (\\textstyleChItalic{as opposed to lower prices})\u2019 (Lit. \u2018\\bluebold{that} (price) \\bluebold{of five million}\u2019) \\textstyleExampleSource{[081006-029-CvEx.0009]}"
+        "trs": "(traditional cloths from Sorong) which are expensive, which (cost) more than one million[\\textsc{tru}], \\bluebold{a minimum of five million} (\\textstyleChItalic{as opposed to lower prices})\u2019 (Lit. \u2018\\bluebold{that} (price) \\bluebold{of five million}\u2019) \\textstyleExampleSource{[081006-029-CvEx.0009]}",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg",
             "poss"
         ],
+        "clength": 47,
         "filename": "78/09.tex",
         "imt": "{oh.no!}  {\\textsc{1sg}}  \\textsc{poss}  {be.listless}",
         "imtwordsbare": [
@@ -1059,13 +1102,15 @@
             "\\bluebold{pu}",
             "{\\bluebold{malas}}"
         ],
-        "trs": "[About playing volleyball:] \u2018none of them knows (how) to pass a ball, none of them knows (how) to pass a ball, oh no!, I\u2019m \\bluebold{so very listless} (to play with them)\u2019 (Lit. \u2018\\bluebold{the being listless of}\u2019) \\textstyleExampleSource{[081109-001-Cv.0127]}"
+        "trs": "[About playing volleyball:] \u2018none of them knows (how) to pass a ball, none of them knows (how) to pass a ball, oh no!, I\u2019m \\bluebold{so very listless} (to play with them)\u2019 (Lit. \u2018\\bluebold{the being listless of}\u2019) \\textstyleExampleSource{[081109-001-Cv.0127]}",
+        "wlength": 4
     },
     {
         "categories": [
             "3sg",
             "poss"
         ],
+        "clength": 61,
         "filename": "78/09.tex",
         "imt": "mother  \\textsc{3sg}  cook  \\textsc{poss}  be.pleasant",
         "imtwordsbare": [
@@ -1112,7 +1157,8 @@
             "\\bluebold{punya}",
             "\\bluebold{enak}"
         ],
-        "trs": "mother \\bluebold{really cooks very tastily}\u2019 (Lit. \u2018\\bluebold{the being tasty of the cooking}\u2019) \\textstyleExampleSource{[Elicited BR111020.023]}"
+        "trs": "mother \\bluebold{really cooks very tastily}\u2019 (Lit. \u2018\\bluebold{the being tasty of the cooking}\u2019) \\textstyleExampleSource{[Elicited BR111020.023]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1122,6 +1168,7 @@
             "poss",
             "rel"
         ],
+        "clength": 83,
         "filename": "78/09.tex",
         "imt": "\\textsc{1sg}  {\\textsc{poss}}  {self}  {but}  {\\textsc{d.dist}}  {\\textsc{rel}}  {happen}",
         "imtwordsbare": [
@@ -1181,6 +1228,7 @@
             "{yang}",
             "{terjadi}"
         ],
-        "trs": "it\u2019s not that I feel that I (\\textsc{emph}), (that) I praise \\bluebold{myself}, but that\u2019s what happened\u2019 (Lit. \u2018\\bluebold{the self of me}\u2019) \\textstyleExampleSource{[081110-008-CvNP.0152]}"
+        "trs": "it\u2019s not that I feel that I (\\textsc{emph}), (that) I praise \\bluebold{myself}, but that\u2019s what happened\u2019 (Lit. \u2018\\bluebold{the self of me}\u2019) \\textstyleExampleSource{[081110-008-CvNP.0152]}",
+        "wlength": 7
     }
 ]

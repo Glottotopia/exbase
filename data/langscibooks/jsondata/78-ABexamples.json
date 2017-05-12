@@ -9,6 +9,7 @@
             "poss",
             "rdp"
         ],
+        "clength": 281,
         "filename": "78/AB.tex",
         "imt": "{} {say} {\\textsc{2pl}} {from} {where} {next} {} {\\textsc{1pl}} {from}                  {Arbais} {\\textsc{2pl}} {\\textsc{poss}} {name} {\\textsc{rdp}{\\Tilde}who} {Herman} {\\textsc{3sg}} {say} \\textsc{3sg}  \\textsc{poss} {name} {man} {\\textsc{3sg}} {write} {at} {paper} {already} {\\textsc{l.med}} {\\textsc{3sg}} exist {\\textsc{3sg}} {already} {make} {list}",
         "imtwordsbare": [
@@ -223,7 +224,8 @@
             "{biking}",
             "{daftar}"
         ],
-        "trs": "Oten: [\\textsc{up}] said, \u2018where are you from?\u2019, then [\\textsc{up}], \u2018we are from Arbais\u2019, \u2018what are your names?\u2019 Herman gave his name, the man wrote (it) on a paper, that\u2019s it, there it was!, he (the man) had already made a list"
+        "trs": "Oten: [\\textsc{up}] said, \u2018where are you from?\u2019, then [\\textsc{up}], \u2018we are from Arbais\u2019, \u2018what are your names?\u2019 Herman gave his name, the man wrote (it) on a paper, that\u2019s it, there it was!, he (the man) had already made a list",
+        "wlength": 33
     },
     {
         "categories": [
@@ -234,6 +236,7 @@
             "dist",
             "prox"
         ],
+        "clength": 244,
         "filename": "78/AB.tex",
         "imt": "{already} {make} {list} {first} {at} {top} {\\textsc{1sg}} {see} {name}  \\textsc{d.dist} Lukas {\\textsc{d.prox}} {T.} {transvestite} {one} {Lukas} {T.} {\\textsc{3sg}}  next {already} {one-tens} {precisely} {\\textsc{1pl}} {next} {add} {oSb} from {Mamberamo} {one} {Agus} {Agus} {Y.}",
         "imtwordsbare": [
@@ -442,13 +445,15 @@
             "{Agus}",
             "{Y}"
         ],
-        "trs": "(he) had already made a list, the first one on top, I saw that name, Lukas, what\u2019s-his-name, T., a certain transvestite, Lukas T., then (there were) already ten (names on that list), at that moment we, then add a certain older brother from (the) Mambramo (area), Agus, Agus Y."
+        "trs": "(he) had already made a list, the first one on top, I saw that name, Lukas, what\u2019s-his-name, T., a certain transvestite, Lukas T., then (there were) already ten (names on that list), at that moment we, then add a certain older brother from (the) Mambramo (area), Agus, Agus Y.",
+        "wlength": 32
     },
     {
         "categories": [
             "1sg",
             "3sg"
         ],
+        "clength": 79,
         "filename": "78/AB.tex",
         "imt": "{earlier}  at {market}  \\textsc{1sg}  exist  hold  hand  with  \\textsc{3sg}  \\textsc{3sg} {use}  shirt {be.red}",
         "imtwordsbare": [
@@ -543,12 +548,14 @@
             "baju",
             "{mera}"
         ],
-        "trs": "earlier in the market I was holding hands with him, he was wearing a red shirt"
+        "trs": "earlier in the market I was holding hands with him, he was wearing a red shirt",
+        "wlength": 13
     },
     {
         "categories": [
             "rdp"
         ],
+        "clength": 32,
         "filename": "78/AB.tex",
         "imt": "{} body \\textsc{rdp}{\\Tilde}be.big",
         "imtwordsbare": [
@@ -583,13 +590,15 @@
             "badang",
             "besar{\\Tilde}besar"
         ],
-        "trs": "Oten: (his) body is very big"
+        "trs": "Oten: (his) body is very big",
+        "wlength": 3
     },
     {
         "categories": [
             "neg",
             "rel"
         ],
+        "clength": 82,
         "coordination": "or",
         "filename": "78/AB.tex",
         "imt": "{still}    {be.able}    {exist}    {\\textsc{rel}}    {enter}    {or}    {already}    {\\textsc{neg}}    {exist}",
@@ -662,13 +671,15 @@
             "{tra}",
             "{ada?}"
         ],
-        "trs": "he said, \u2018ah, just practice, it\u2019s being said that the regent says that we are going to go to play maybe on, what\u2019s-its-name, Serui (Island), that\u2019s why he\u2019s looking for young people to go play\u2019, alright, and then I said, \u2018can one still be included (on that list) or already not any longer?"
+        "trs": "he said, \u2018ah, just practice, it\u2019s being said that the regent says that we are going to go to play maybe on, what\u2019s-its-name, Serui (Island), that\u2019s why he\u2019s looking for young people to go play\u2019, alright, and then I said, \u2018can one still be included (on that list) or already not any longer?",
+        "wlength": 9
     },
     {
         "categories": [
             "3sg",
             "poss"
         ],
+        "clength": 77,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{Sarles}    {oSb}    {Sarles}    {also}    {\\textsc{3sg}}    {\\textsc{poss}}    {play}    {knife}",
@@ -736,10 +747,12 @@
             "{pisow}"
         ],
         "time": "present",
-        "trs": "he said, \u2018if there is someone who wants to be included, (he/she) can (be included), then, older brother [\\textsc{spm}], (the one) who will give the training, what\u2019s-his-name, the older brother (who\u2019s a) police (officer) who just now went to Jakarta over there together with Hurki, older brother Sarles, older brother Sarles also, he has a fast and smart way of playing\u2019 (Lit. \u2018the knife playing of\u2019)"
+        "trs": "he said, \u2018if there is someone who wants to be included, (he/she) can (be included), then, older brother [\\textsc{spm}], (the one) who will give the training, what\u2019s-his-name, the older brother (who\u2019s a) police (officer) who just now went to Jakarta over there together with Hurki, older brother Sarles, older brother Sarles also, he has a fast and smart way of playing\u2019 (Lit. \u2018the knife playing of\u2019)",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 19,
         "filename": "78/AB.tex",
         "imt": "{}    ball   volleyball",
         "imtwordsbare": [
@@ -774,13 +787,15 @@
             "bola",
             "fol"
         ],
-        "trs": "Klara: volleyball"
+        "trs": "Klara: volleyball",
+        "wlength": 3
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 48,
         "filename": "78/AB.tex",
         "imt": "{}     yes   ball   volleyball   \\textsc{d.prox}   aunt   Nelci",
         "imtwordsbare": [
@@ -839,10 +854,12 @@
             "tanta",
             "Nelci"
         ],
-        "trs": "Oten: yes, this volleyball, [addressing Nelci] aunt Nelci"
+        "trs": "Oten: yes, this volleyball, [addressing Nelci] aunt Nelci",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "land    {}",
         "imtwordsbare": [
@@ -871,7 +888,8 @@
             "darat",
             "\\textup{[\\textsc{up}]}"
         ],
-        "trs": "Klara: yes, the (volleyball) net for men, (it was) us who (bought it), (the one) which is off the beach [\\textsc{up}]"
+        "trs": "Klara: yes, the (volleyball) net for men, (it was) us who (bought it), (the one) which is off the beach [\\textsc{up}]",
+        "wlength": 2
     },
     {
         "categories": [
@@ -879,6 +897,7 @@
             "dist",
             "rel"
         ],
+        "clength": 62,
         "filename": "78/AB.tex",
         "imt": "{}     \\textsc{rel}   side   yes   side   at   border   river   \\textsc{d.dist}",
         "imtwordsbare": [
@@ -949,12 +968,14 @@
             "kali",
             "tu"
         ],
-        "trs": "Oten: (the one) which is off (the beach), yes, off (the beach), on the banks of that river"
+        "trs": "Oten: (the one) which is off (the beach), yes, off (the beach), on the banks of that river",
+        "wlength": 9
     },
     {
         "categories": [
             "rdp"
         ],
+        "clength": 91,
         "filename": "78/AB.tex",
         "imt": "{indeed}    {enter}    {river}    {\\textsc{rdp}{\\Tilde}ball}    {too}    {}",
         "imtwordsbare": [
@@ -1007,7 +1028,8 @@
             "{terlalu}",
             "\\textup{[\\textsc{up}]}"
         ],
-        "trs": "Klara: so, if indeed the balls are high, if (one) smashes them, indeed they go into the river, the balls are too [\\textsc{up}]"
+        "trs": "Klara: so, if indeed the balls are high, if (one) smashes them, indeed they go into the river, the balls are too [\\textsc{up}]",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1015,6 +1037,7 @@
             "d",
             "dist"
         ],
+        "clength": 51,
         "filename": "78/AB.tex",
         "imt": "{}    \\textsc{1sg}   jump   \\textsc{d.dist}   be.free   hand   pass.by",
         "imtwordsbare": [
@@ -1073,12 +1096,14 @@
             "tangang",
             "lewat"
         ],
-        "trs": "Oten: I jump high, free (of the net), (my) hands surpass (the net)"
+        "trs": "Oten: I jump high, free (of the net), (my) hands surpass (the net)",
+        "wlength": 7
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 74,
         "filename": "78/AB.tex",
         "imt": "{Nofita}   \\textsc{1sg}    {say}    {like.this}    {\\textsc{1sg}}   also    {ascend}    {be.free}",
         "imtwordsbare": [
@@ -1143,7 +1168,8 @@
             "{naik}",
             "{frey}"
         ],
-        "trs": "Klara: yesterday, I, Herman, Markus[\\textsc{tru}], Markus, (and) who-is-it, Nofita, I said like this, \u2018I also jump free (of the net)"
+        "trs": "Klara: yesterday, I, Herman, Markus[\\textsc{tru}], Markus, (and) who-is-it, Nofita, I said like this, \u2018I also jump free (of the net)",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1152,6 +1178,7 @@
             "poss",
             "rdp"
         ],
+        "clength": 53,
         "filename": "78/AB.tex",
         "imt": "{}   Nofita   Nofita   \\textsc{poss}   \\textsc{rdp}{\\Tilde}divide   \\textsc{d.dist}",
         "imtwordsbare": [
@@ -1204,13 +1231,15 @@
             "bagi{\\Tilde}bagi",
             "tu"
         ],
-        "trs": "Oten: Nofita, Nofita tosses well (Lit. \u2018Nofita\u2019s dividing\u2019)"
+        "trs": "Oten: Nofita, Nofita tosses well (Lit. \u2018Nofita\u2019s dividing\u2019)",
+        "wlength": 6
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 43,
         "filename": "78/AB.tex",
         "imt": "{}    if   Nofita   hit   \\textsc{d.dist}   steep",
         "imtwordsbare": [
@@ -1263,7 +1292,8 @@
             "itu",
             "tubir"
         ],
-        "trs": "Nelci: whenever Nofita hits (the ball, it comes down in a) steep (angle)"
+        "trs": "Nelci: whenever Nofita hits (the ball, it comes down in a) steep (angle)",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1271,6 +1301,7 @@
             "dist",
             "rdp"
         ],
+        "clength": 91,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{(sport.)net}    {land}    {\\textsc{d.dist}}    {\\textsc{rdp}{\\Tilde}be.high}    {right?}    {be.high}    {\\textsc{d.dist}}    {already}",
@@ -1336,12 +1367,14 @@
             "{itu}",
             "{suda}"
         ],
-        "trs": "Klara: oh no!, we did our very playing poorly, we played the net off (the beach), and then there is (one), ah, off the beach, but they talked like this, the net off the beach is very high, right?, its height is fixed"
+        "trs": "Klara: oh no!, we did our very playing poorly, we played the net off (the beach), and then there is (one), ah, off the beach, but they talked like this, the net off the beach is very high, right?, its height is fixed",
+        "wlength": 8
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 16,
         "filename": "78/AB.tex",
         "imt": "{}   yes   \\textsc{3sg}",
         "imtwordsbare": [
@@ -1376,7 +1409,8 @@
             "yo,",
             "de"
         ],
-        "trs": "Oten: yes, it"
+        "trs": "Oten: yes, it",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1384,6 +1418,7 @@
             "d",
             "dist"
         ],
+        "clength": 33,
         "filename": "78/AB.tex",
         "imt": "{}    \\textsc{3sg}   be.high   \\textsc{d.dist}   already",
         "imtwordsbare": [
@@ -1430,13 +1465,15 @@
             "itu",
             "suda"
         ],
-        "trs": "Klara: its height is fixed"
+        "trs": "Klara: its height is fixed",
+        "wlength": 5
     },
     {
         "categories": [
             "3sg",
             "poss"
         ],
+        "clength": 15,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{3sg}   \\textsc{poss}",
         "imtwordsbare": [
@@ -1471,10 +1508,12 @@
             "de",
             "pu"
         ],
-        "trs": "Oten: its"
+        "trs": "Oten: its",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 25,
         "filename": "78/AB.tex",
         "imt": "{}   ribbon.of.volleyball.net   at   top",
         "imtwordsbare": [
@@ -1515,7 +1554,8 @@
             "di",
             "atas"
         ],
-        "trs": "Klara: the upper ribbon of the volleyball net"
+        "trs": "Klara: the upper ribbon of the volleyball net",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1523,6 +1563,7 @@
             "dist",
             "rel"
         ],
+        "clength": 37,
         "filename": "78/AB.tex",
         "imt": "{}     \\textsc{rel}   ribbon.of.volleyball.net   at   bottom   \\textsc{d.dist}",
         "imtwordsbare": [
@@ -1575,10 +1616,12 @@
             "bawa",
             "itu"
         ],
-        "trs": "Oten: (its) lower ribbon"
+        "trs": "Oten: (its) lower ribbon",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 14,
         "filename": "78/AB.tex",
         "imt": "{}     border",
         "imtwordsbare": [
@@ -1607,10 +1650,12 @@
             "Klara:",
             "batas"
         ],
-        "trs": "Klara: (its) height"
+        "trs": "Klara: (its) height",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 42,
         "filename": "78/AB.tex",
         "imt": "but    {}    {pass.by}",
         "imtwordsbare": [
@@ -1645,12 +1690,14 @@
             "{\\upshape\\textsc{[up]}}",
             "{lewat}"
         ],
-        "trs": "Oten: (when) I\u2019m standing the lower ribbon is exactly on this height, (when I) lift (my) hand [\\textsc{up}]"
+        "trs": "Oten: (when) I\u2019m standing the lower ribbon is exactly on this height, (when I) lift (my) hand [\\textsc{up}]",
+        "wlength": 3
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 81,
         "filename": "78/AB.tex",
         "imt": "{it[SI]}    {right?}    {because}    {ball}    {descend}    {\\textsc{neg}}    {will[SI]}    {reach}",
         "imtwordsbare": [
@@ -1715,10 +1762,12 @@
             "{akang}",
             "{sampe}"
         ],
-        "trs": "Klara: so, when the ball is already coming down, don\u2019t jump, (when) the ball is really high, you jump for it, right?, because the ball (that\u2019s) coming down won\u2019t hit the ground"
+        "trs": "Klara: so, when the ball is already coming down, don\u2019t jump, (when) the ball is really high, you jump for it, right?, because the ball (that\u2019s) coming down won\u2019t hit the ground",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 32,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "chase    {hand}    {return}",
@@ -1754,10 +1803,12 @@
             "{tangang}",
             "{kembali}"
         ],
-        "trs": "Oten: earlier the way we played (was) also (good in some way), we played beautifully, chasing and passing (the ball)"
+        "trs": "Oten: earlier the way we played (was) also (good in some way), we played beautifully, chasing and passing (the ball)",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 23,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "two    {time}    {just}",
@@ -1794,13 +1845,15 @@
             "{saja}"
         ],
         "time": "past",
-        "trs": "Klara: indeed, and then the net was really tight, (it was) very good, right?, so yesterday we played at that net only twice"
+        "trs": "Klara: indeed, and then the net was really tight, (it was) very good, right?, so yesterday we played at that net only twice",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg",
             "2sg"
         ],
+        "clength": 81,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{1sg}    {again}    {\\textsc{2sg}}    {what}    {who}   who    {\\textsc{2sg}[JI]}   who    {\\textsc{1sg}[JI]}",
@@ -1872,13 +1925,15 @@
             "siapa",
             "{gua?}"
         ],
-        "trs": "Oten: right!, it was him who irritated (you), don\u2019t you accuse me again, who in the world do you think you are?, who are you?, who am I?\\footnote{The use of the second singular person serves as a rhetorical figure of speech (\u201c\\isi{apostrophe}\u201d) and refers to the absent person who irritated the players (see also \u00a7\\ref{Para_6.2.1.1.3}).}"
+        "trs": "Oten: right!, it was him who irritated (you), don\u2019t you accuse me again, who in the world do you think you are?, who are you?, who am I?\\footnote{The use of the second singular person serves as a rhetorical figure of speech (\u201c\\isi{apostrophe}\u201d) and refers to the absent person who irritated the players (see also \u00a7\\ref{Para_6.2.1.1.3}).}",
+        "wlength": 9
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 42,
         "filename": "78/AB.tex",
         "imt": "{descend}   play    {at}    {(sport.)net}    {\\textsc{d.prox}}",
         "imtwordsbare": [
@@ -1925,10 +1980,12 @@
             "{net}",
             "{ini}"
         ],
-        "trs": "Klara: the net on the other side, we, that\u2019s where we immediately went to play at this net"
+        "trs": "Klara: the net on the other side, we, that\u2019s where we immediately went to play at this net",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 10,
         "filename": "78/AB.tex",
         "imt": "{}   oh!",
         "imtwordsbare": [
@@ -1957,10 +2014,12 @@
             "Oten:",
             "o!"
         ],
-        "trs": "Oten: oh!"
+        "trs": "Oten: oh!",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}    (sport.)net   woman   right?",
         "imtwordsbare": [
@@ -2001,7 +2060,8 @@
             "prempuang",
             "to?"
         ],
-        "trs": "Klara: the women\u2019s net, right?"
+        "trs": "Klara: the women\u2019s net, right?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2013,6 +2073,7 @@
             "neg",
             "rdp"
         ],
+        "clength": 64,
         "filename": "78/AB.tex",
         "imt": "{}  Wili   \\textsc{2sg}   \\textsc{neg.imp}   \\textsc{rdp}{\\Tilde}irritate   aunt   \\textsc{3sg}   \\textsc{d.dist}",
         "imtwordsbare": [
@@ -2077,10 +2138,12 @@
             "dia",
             "itu!"
         ],
-        "trs": "Oten: you Wili don\u2019t irritate that aunt!"
+        "trs": "Oten: you Wili don\u2019t irritate that aunt!",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 13,
         "filename": "78/AB.tex",
         "imt": "{}     mhm",
         "imtwordsbare": [
@@ -2109,7 +2172,8 @@
             "Wili:",
             "mm-mm"
         ],
-        "trs": "Wili: mhm"
+        "trs": "Wili: mhm",
+        "wlength": 2
     },
     {
         "categories": [
@@ -2117,6 +2181,7 @@
             "dist",
             "neg"
         ],
+        "clength": 36,
         "coordination": "or",
         "filename": "78/AB.tex",
         "imt": "{bird}    {\\textsc{d.dist}}    {or}    {\\textsc{neg}}",
@@ -2158,10 +2223,12 @@
             "{ka}",
             "{tida?}"
         ],
-        "trs": "Klara: you Wili go inside!, earlier you heard, what\u2019s-its-name, that bird or not?"
+        "trs": "Klara: you Wili go inside!, earlier you heard, what\u2019s-its-name, that bird or not?",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 27,
         "filename": "78/AB.tex",
         "imt": "or    {what}    {tropical-almond}",
         "imtwordsbare": [
@@ -2196,13 +2263,15 @@
             "{apa,}",
             "{ketapang}"
         ],
-        "trs": "Oten: oh, that was a bat, it was eating, what\u2019s-its-name, maybe mangos, what-is-it, tropical-almonds"
+        "trs": "Oten: oh, that was a bat, it was eating, what\u2019s-its-name, maybe mangos, what-is-it, tropical-almonds",
+        "wlength": 3
     },
     {
         "categories": [
             "dist",
             "l"
         ],
+        "clength": 25,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "sleep    {\\textsc{l.dist}}    {already}",
@@ -2238,12 +2307,14 @@
             "{sana}",
             "{suda}"
         ],
-        "trs": "Klara: no, young children like him, young children, later he\u2019ll wake up too late, it\u2019s better you go inside and just sleep over there"
+        "trs": "Klara: no, young children like him, young children, later he\u2019ll wake up too late, it\u2019s better you go inside and just sleep over there",
+        "wlength": 3
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 18,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{}    and.then   \\textsc{2sg}",
@@ -2279,12 +2350,14 @@
             "baru",
             "ko?"
         ],
-        "trs": "Oten: and (what about) you?"
+        "trs": "Oten: and (what about) you?",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 41,
         "filename": "78/AB.tex",
         "imt": "{awareness}   \\textsc{1sg}    {wake.up}    {quick}",
         "imtwordsbare": [
@@ -2325,7 +2398,8 @@
             "{bangung}",
             "{tempo}"
         ],
-        "trs": "Klara: don\u2019t stay with us any longer, I have enough mindfulness, I wake up early"
+        "trs": "Klara: don\u2019t stay with us any longer, I have enough mindfulness, I wake up early",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2333,6 +2407,7 @@
             "2sg",
             "rel"
         ],
+        "clength": 61,
         "filename": "78/AB.tex",
         "imt": "{}     from   earlier   midday   \\textsc{1sg}   \\textsc{rel}   give   wake.up   \\textsc{2sg}",
         "imtwordsbare": [
@@ -2403,12 +2478,14 @@
             "bangung",
             "ko"
         ],
-        "trs": "Oten: earlier this noon, (it was) me who woke you up"
+        "trs": "Oten: earlier this noon, (it was) me who woke you up",
+        "wlength": 9
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 53,
         "filename": "78/AB.tex",
         "imt": "{}     ugh!   night   \\textsc{3sg}   wake.up   uh   yes   almost",
         "imtwordsbare": [
@@ -2473,13 +2550,15 @@
             "yo",
             "hampir"
         ],
-        "trs": "Nelci: ugh!, (last) night she got up, uh yes, (it was) almost"
+        "trs": "Nelci: ugh!, (last) night she got up, uh yes, (it was) almost",
+        "wlength": 8
     },
     {
         "categories": [
             "1sg",
             "rel"
         ],
+        "clength": 64,
         "filename": "78/AB.tex",
         "imt": "{}    right![SI]   almost   day   \\textsc{1sg}   \\textsc{rel}   wake.up   more   be.fast",
         "imtwordsbare": [
@@ -2550,10 +2629,12 @@
             "lebi",
             "cepat"
         ],
-        "trs": "Oten: right, (it was) almost daylight, (it was) me who woke up earlier"
+        "trs": "Oten: right, (it was) almost daylight, (it was) me who woke up earlier",
+        "wlength": 9
     },
     {
         "categories": [],
+        "clength": 17,
         "filename": "78/AB.tex",
         "imt": "{}     uh   uh",
         "imtwordsbare": [
@@ -2588,10 +2669,12 @@
             "em?",
             "e?"
         ],
-        "trs": "Klara: uh, uh"
+        "trs": "Klara: uh, uh",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 19,
         "filename": "78/AB.tex",
         "imt": "{}    why   or",
         "imtwordsbare": [
@@ -2626,12 +2709,14 @@
             "knapa",
             "ka?"
         ],
-        "trs": "Oten: what happened?"
+        "trs": "Oten: what happened?",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 55,
         "filename": "78/AB.tex",
         "imt": "{}   \\textsc{1sg}   wake.up   half   four   half   five",
         "imtwordsbare": [
@@ -2690,7 +2775,8 @@
             "stenga",
             "lima"
         ],
-        "trs": "Nelci: I got up at half past three, half past four"
+        "trs": "Nelci: I got up at half past three, half past four",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2699,6 +2785,7 @@
             "dist",
             "rel"
         ],
+        "clength": 90,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{almost}    {day}    {\\textsc{d.dist}}    {\\textsc{3pl}}    {two}    {\\textsc{rel}}    {go.out}    {wake.up}    {morning}",
@@ -2770,10 +2857,12 @@
             "{bangung}",
             "{pagi}"
         ],
-        "trs": "Klara: I got up, I went outside, in that moment this kid here, Nusa came outside, she woke up this kid,\\footnote{\\textitbf{Klara} refers to \\textitbf{Nelci} (see (\\ref{Example_B.50}) and (\\ref{Example_B.53})).} the two of them went outside (and) washed the plates, the two of them made the morning tea, indeed (it was) almost daylight, (it was) the two of them who came outside and woke up the morning"
+        "trs": "Klara: I got up, I went outside, in that moment this kid here, Nusa came outside, she woke up this kid,\\footnote{\\textitbf{Klara} refers to \\textitbf{Nelci} (see (\\ref{Example_B.50}) and (\\ref{Example_B.53})).} the two of them went outside (and) washed the plates, the two of them made the morning tea, indeed (it was) almost daylight, (it was) the two of them who came outside and woke up the morning",
+        "wlength": 9
     },
     {
         "categories": [],
+        "clength": 38,
         "filename": "78/AB.tex",
         "imt": "{}   hey!   mother   say   enter",
         "imtwordsbare": [
@@ -2820,12 +2909,14 @@
             "bilang",
             "masuk"
         ],
-        "trs": "Oktofina [addressing Wili]: hey, mother said (you should) go inside"
+        "trs": "Oktofina [addressing Wili]: hey, mother said (you should) go inside",
+        "wlength": 5
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 51,
         "filename": "78/AB.tex",
         "imt": "{}   Nusa   wash   plate   \\textsc{1sg}   fry   cooked.rice",
         "imtwordsbare": [
@@ -2884,7 +2975,8 @@
             "goreng",
             "nasi"
         ],
-        "trs": "Nelci: Nusa washed the plates (and) I fried the cooked rice"
+        "trs": "Nelci: Nusa washed the plates (and) I fried the cooked rice",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2892,6 +2984,7 @@
             "3sg",
             "neg"
         ],
+        "clength": 69,
         "filename": "78/AB.tex",
         "imt": "{}   \\textsc{3sg}   cheat   \\textsc{1sg}   earlier   see   \\textsc{3sg}   \\textsc{neg}   exist   at   inside",
         "imtwordsbare": [
@@ -2974,10 +3067,12 @@
             "di",
             "dalam"
         ],
-        "trs": "Wili: she\u2019s deceiving (me), earlier I saw (that) she (mother) wasn\u2019t inside"
+        "trs": "Wili: she\u2019s deceiving (me), earlier I saw (that) she (mother) wasn\u2019t inside",
+        "wlength": 11
     },
     {
         "categories": [],
+        "clength": 37,
         "filename": "78/AB.tex",
         "imt": "{}    ah!   be.true   mother   say",
         "imtwordsbare": [
@@ -3024,12 +3119,14 @@
             "ma",
             "bilang"
         ],
-        "trs": "Oktofina: ah, it\u2019s true, mother said"
+        "trs": "Oktofina: ah, it\u2019s true, mother said",
+        "wlength": 5
     },
     {
         "categories": [
             "rel"
         ],
+        "clength": 34,
         "filename": "78/AB.tex",
         "imt": "{}    who   \\textsc{rel}   split   wood",
         "imtwordsbare": [
@@ -3076,7 +3173,8 @@
             "bla",
             "kayu?"
         ],
-        "trs": "Oten: who (was it) who split (the fire)wood?"
+        "trs": "Oten: who (was it) who split (the fire)wood?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -3084,6 +3182,7 @@
             "dist",
             "l"
         ],
+        "clength": 64,
         "filename": "78/AB.tex",
         "imt": "{}    ah!   gossip[SI]   empty   \\textsc{2sg}   enter   sleep   \\textsc{l.dist}   already",
         "imtwordsbare": [
@@ -3154,7 +3253,8 @@
             "sana",
             "suda"
         ],
-        "trs": "Klara [addressing Wili]: ah, nonsense, you just go inside (and) sleep over there"
+        "trs": "Klara [addressing Wili]: ah, nonsense, you just go inside (and) sleep over there",
+        "wlength": 9
     },
     {
         "categories": [
@@ -3163,6 +3263,7 @@
             "poss",
             "prox"
         ],
+        "clength": 62,
         "filename": "78/AB.tex",
         "imt": "{}    yes   \\textsc{d.dist}   uncle   who   \\textsc{d.prox}   Hendrikus   \\textsc{poss}   wife",
         "imtwordsbare": [
@@ -3233,10 +3334,12 @@
             "pu",
             "maytua"
         ],
-        "trs": "Nelci: yes, that was uncle, who is this, Hendrikus\u2019 wife"
+        "trs": "Nelci: yes, that was uncle, who is this, Hendrikus\u2019 wife",
+        "wlength": 9
     },
     {
         "categories": [],
+        "clength": 10,
         "filename": "78/AB.tex",
         "imt": "{}     pfft",
         "imtwordsbare": [
@@ -3265,12 +3368,14 @@
             "Oten:",
             "hm"
         ],
-        "trs": "Oten: pfft!"
+        "trs": "Oten: pfft!",
+        "wlength": 2
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 27,
         "filename": "78/AB.tex",
         "imt": "{}     when   \\textsc{2sg}   split",
         "imtwordsbare": [
@@ -3311,10 +3416,12 @@
             "ko",
             "bla?"
         ],
-        "trs": "Nelci [addressing Oten]: when did you split (the firewood)?"
+        "trs": "Nelci [addressing Oten]: when did you split (the firewood)?",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 17,
         "filename": "78/AB.tex",
         "imt": "{}  cooked.dog.meat   cooked.dog.meat",
         "imtwordsbare": [
@@ -3349,13 +3456,15 @@
             "RW,",
             "RW"
         ],
-        "trs": "Klara [responding to another interlocutor]: cooked dog meat, cooked dog meat"
+        "trs": "Klara [responding to another interlocutor]: cooked dog meat, cooked dog meat",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg",
             "rel"
         ],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1sg}   \\textsc{rel}   split   afternoon",
         "imtwordsbare": [
@@ -3402,12 +3511,14 @@
             "bla",
             "sore"
         ],
-        "trs": "Oten: (it was) me who split (the firewood) in the afternoon"
+        "trs": "Oten: (it was) me who split (the firewood) in the afternoon",
+        "wlength": 5
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 29,
         "filename": "78/AB.tex",
         "imt": "{}     cooked.dog.meat   \\textsc{neg}   exist   cooked.dog.meat",
         "imtwordsbare": [
@@ -3454,7 +3565,8 @@
             "ada",
             "RW"
         ],
-        "trs": "Klara: cooked dog meat, there\u2019s no cooked dog meat"
+        "trs": "Klara: cooked dog meat, there\u2019s no cooked dog meat",
+        "wlength": 5
     },
     {
         "categories": [
@@ -3463,6 +3575,7 @@
             "prox",
             "rel"
         ],
+        "clength": 84,
         "filename": "78/AB.tex",
         "imt": "\\textsc{rel}    {\\textsc{2sg}}   split    {\\textsc{d.prox}}    {morning}    {again}   uncle    {Hendrikus}    {\\textsc{rel}}   split",
         "imtwordsbare": [
@@ -3540,10 +3653,12 @@
             "bla"
         ],
         "time": "past",
-        "trs": "Nelci: in the morning!!, (that) wasn\u2019t you, that was already yesterday afternoon that you split (firewood), this morning, (it was) again uncle Hendrikus who split (the firewood)"
+        "trs": "Nelci: in the morning!!, (that) wasn\u2019t you, that was already yesterday afternoon that you split (firewood), this morning, (it was) again uncle Hendrikus who split (the firewood)",
+        "wlength": 10
     },
     {
         "categories": [],
+        "clength": 27,
         "filename": "78/AB.tex",
         "imt": "{}   be.safe   afternoon   all",
         "imtwordsbare": [
@@ -3584,10 +3699,12 @@
             "sore",
             "smua"
         ],
-        "trs": "Ida: good afternoon you all"
+        "trs": "Ida: good afternoon you all",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 23,
         "filename": "78/AB.tex",
         "imt": "{}   afternoon   afternoon",
         "imtwordsbare": [
@@ -3622,10 +3739,12 @@
             "sore,",
             "sore"
         ],
-        "trs": "Natalia: afternoon, afternoon"
+        "trs": "Natalia: afternoon, afternoon",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 60,
         "filename": "78/AB.tex",
         "imt": "{}    hey!   how   sibling.in-law   afternoon   from   Jayapura",
         "imtwordsbare": [
@@ -3684,10 +3803,12 @@
             "dari",
             "Jayapura?"
         ],
-        "trs": "Natalia [greeting another visitor]: hey, how is it going brother-in-law?, good afternoon!, (did you just get here) from Jayapura?"
+        "trs": "Natalia [greeting another visitor]: hey, how is it going brother-in-law?, good afternoon!, (did you just get here) from Jayapura?",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 12,
         "filename": "78/AB.tex",
         "imt": "{woman}",
         "imtwordsbare": [
@@ -3710,10 +3831,12 @@
         "srcwordstex": [
             "{prempuang?}"
         ],
-        "trs": "Natalia: ah, yes! so where is our sister-in-law?"
+        "trs": "Natalia: ah, yes! so where is our sister-in-law?",
+        "wlength": 1
     },
     {
         "categories": [],
+        "clength": 44,
         "filename": "78/AB.tex",
         "imt": "{with}\\hspace{1cm}  {motorbike.taxi}    {}",
         "imtwordsbare": [
@@ -3748,10 +3871,12 @@
             "{ojek}",
             "{((laughter))}"
         ],
-        "trs": "Ida: (it\u2019s our) sister-in-law who passed by with a motorbike taxi a short while ago ((laughter))"
+        "trs": "Ida: (it\u2019s our) sister-in-law who passed by with a motorbike taxi a short while ago ((laughter))",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}     hey!   recently   pass.by",
         "imtwordsbare": [
@@ -3792,10 +3917,12 @@
             "baru",
             "lewat?"
         ],
-        "trs": "Natalia: hey, did (she) pass by a short while ago?"
+        "trs": "Natalia: hey, did (she) pass by a short while ago?",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 34,
         "filename": "78/AB.tex",
         "imt": "{}    earlier   pass.by   with   motorbike.taxi",
         "imtwordsbare": [
@@ -3842,10 +3969,12 @@
             "deng",
             "ojek"
         ],
-        "trs": "MO-1: earlier she passed by on a motorbike taxi"
+        "trs": "MO-1: earlier she passed by on a motorbike taxi",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 14,
         "filename": "78/AB.tex",
         "imt": "{}     yes",
         "imtwordsbare": [
@@ -3874,12 +4003,14 @@
             "Natalia:",
             "yo?"
         ],
-        "trs": "Natalia: yes?"
+        "trs": "Natalia: yes?",
+        "wlength": 2
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 38,
         "filename": "78/AB.tex",
         "imt": "{}    \\textsc{3sg}   earlier   pass.by   with   motorbike.taxi",
         "imtwordsbare": [
@@ -3932,7 +4063,8 @@
             "deng",
             "ojek"
         ],
-        "trs": "Ida: earlier she passed by with a motorbike taxi"
+        "trs": "Ida: earlier she passed by with a motorbike taxi",
+        "wlength": 6
     },
     {
         "categories": [
@@ -3940,6 +4072,7 @@
             "3sg",
             "neg"
         ],
+        "clength": 49,
         "filename": "78/AB.tex",
         "imt": "{}    \\textsc{neg}   know   ask   \\textsc{3sg}   \\textsc{1sg}   \\textsc{neg}   know",
         "imtwordsbare": [
@@ -4004,12 +4137,14 @@
             "tra",
             "taw"
         ],
-        "trs": "Ida: I don\u2019t know, ask him, I don\u2019t know"
+        "trs": "Ida: I don\u2019t know, ask him, I don\u2019t know",
+        "wlength": 8
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 39,
         "filename": "78/AB.tex",
         "imt": "{}    \\textsc{1sg}   exist   pass.by   with   car",
         "imtwordsbare": [
@@ -4062,12 +4197,14 @@
             "deng",
             "mobil"
         ],
-        "trs": "MO-2: I was passing by in a car"
+        "trs": "MO-2: I was passing by in a car",
+        "wlength": 6
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 72,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "but    {\\textsc{1sg}}    {go}    {bring}    {yesterday}    {until}   \\textsc{1sg}    {be.busy}",
@@ -4135,13 +4272,15 @@
             "sa",
             "{sibuk}"
         ],
-        "trs": "Natalia: great!, ((pause)) is your stuff still (here)?, right now, I want to go, they ordered (s.th.), I want to bring (and) deposit (it) in front over there, (I want to) bring (it) to the front, not to deposit (it) but I want to go and bring (it), yesterday, (when I) arrived, I was (too) busy (to do it)"
+        "trs": "Natalia: great!, ((pause)) is your stuff still (here)?, right now, I want to go, they ordered (s.th.), I want to bring (and) deposit (it) in front over there, (I want to) bring (it) to the front, not to deposit (it) but I want to go and bring (it), yesterday, (when I) arrived, I was (too) busy (to do it)",
+        "wlength": 8
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 27,
         "filename": "78/AB.tex",
         "imt": "{money}    {\\textsc{d.prox}}    {motorbike.taxi}",
         "imtwordsbare": [
@@ -4176,10 +4315,12 @@
             "{ini,}",
             "{ojek}"
         ],
-        "trs": "Ida: what\u2019s-its-name, I\u2019m looking for, yes, what\u2019s-its-name, I\u2019m looking for money, what\u2019s-its-name, (for) the motorbike taxi"
+        "trs": "Ida: what\u2019s-its-name, I\u2019m looking for, yes, what\u2019s-its-name, I\u2019m looking for money, what\u2019s-its-name, (for) the motorbike taxi",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 15,
         "filename": "78/AB.tex",
         "imt": "be.prior    {because}",
         "imtwordsbare": [
@@ -4210,7 +4351,8 @@
             "{karna}"
         ],
         "time": "past",
-        "trs": "Natalia: (for your) trip, yesterday I wanted to bring (the stuff), the day before yesterday because"
+        "trs": "Natalia: (for your) trip, yesterday I wanted to bring (the stuff), the day before yesterday because",
+        "wlength": 2
     },
     {
         "categories": [
@@ -4219,6 +4361,7 @@
             "med",
             "poss"
         ],
+        "clength": 85,
         "filename": "78/AB.tex",
         "imt": "{}   {}   soap   just   \\textsc{2pl}   \\textsc{poss}   soap   exist   at   \\textsc{l.med}",
         "imtwordsbare": [
@@ -4295,7 +4438,8 @@
             "di",
             "situ"
         ],
-        "trs": "Ida: [\\textsc{up}] just (laundry) soap, your (laundry) soap is there"
+        "trs": "Ida: [\\textsc{up}] just (laundry) soap, your (laundry) soap is there",
+        "wlength": 10
     },
     {
         "categories": [
@@ -4304,6 +4448,7 @@
             "neg",
             "prox"
         ],
+        "clength": 54,
         "filename": "78/AB.tex",
         "imt": "{}   peace   \\textsc{1pl}   \\textsc{neg}   exist   soap   \\textsc{d.prox}",
         "imtwordsbare": [
@@ -4362,10 +4507,12 @@
             "sabung",
             "ini"
         ],
-        "trs": "Natalia: my goodness!, we don\u2019t have any soap right now!"
+        "trs": "Natalia: my goodness!, we don\u2019t have any soap right now!",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 52,
         "filename": "78/AB.tex",
         "imt": "{}    yes   already   if   like.that   stay   already",
         "imtwordsbare": [
@@ -4424,12 +4571,14 @@
             "tinggal",
             "suda!"
         ],
-        "trs": "Ida: yes!, alright!, if it\u2019s like that, no problem!"
+        "trs": "Ida: yes!, alright!, if it\u2019s like that, no problem!",
+        "wlength": 7
     },
     {
         "categories": [
             "rel"
         ],
+        "clength": 6,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{rel}}",
         "imtwordsbare": [
@@ -4453,12 +4602,14 @@
         "srcwordstex": [
             "{yang}"
         ],
-        "trs": "Ida: so that, I want to wash both of their clothes which"
+        "trs": "Ida: so that, I want to wash both of their clothes which",
+        "wlength": 1
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 25,
         "filename": "78/AB.tex",
         "imt": "{}     \\textsc{neg}   exist   mother",
         "imtwordsbare": [
@@ -4499,12 +4650,14 @@
             "ada",
             "ma"
         ],
-        "trs": "Natalia: (there) isn\u2019t (any), mother"
+        "trs": "Natalia: (there) isn\u2019t (any), mother",
+        "wlength": 4
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}  already   \\textsc{neg}   exist   soap",
         "imtwordsbare": [
@@ -4551,13 +4704,15 @@
             "ada",
             "sabung"
         ],
-        "trs": "Ida: alright, there\u2019s no soap"
+        "trs": "Ida: alright, there\u2019s no soap",
+        "wlength": 5
     },
     {
         "categories": [
             "1sg",
             "rel"
         ],
+        "clength": 22,
         "filename": "78/AB.tex",
         "imt": "\\textsc{1sg}    {\\textsc{rel}}    {wash}",
         "imtwordsbare": [
@@ -4594,12 +4749,14 @@
             "{cuci}"
         ],
         "time": "future",
-        "trs": "Natalia: wait, be patient, if you want to be patient, if tomorrow (you) still want to go up (to the regent\u2019s office and), what\u2019s-its-name, bring (the clothes) there, I\u2019ll wash (them)"
+        "trs": "Natalia: wait, be patient, if you want to be patient, if tomorrow (you) still want to go up (to the regent\u2019s office and), what\u2019s-its-name, bring (the clothes) there, I\u2019ll wash (them)",
+        "wlength": 3
     },
     {
         "categories": [
             "2pl"
         ],
+        "clength": 35,
         "filename": "78/AB.tex",
         "imt": "{}   ugh!   \\textsc{2pl}   already   finish",
         "imtwordsbare": [
@@ -4646,7 +4803,8 @@
             "su",
             "selesay?"
         ],
-        "trs": "Natalia: ugh!, you already finished?"
+        "trs": "Natalia: ugh!, you already finished?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -4654,6 +4812,7 @@
             "dist",
             "neg"
         ],
+        "clength": 59,
         "filename": "78/AB.tex",
         "imt": "{} ah!   \\textsc{d.dist}   \\textsc{neg}   what   only   dedication   money",
         "imtwordsbare": [
@@ -4718,10 +4877,12 @@
             "penyeraang",
             "uang"
         ],
-        "trs": "Ida: ah, that\u2019s not, what-is-it, (it\u2019s) only the distribution (of) the funds"
+        "trs": "Ida: ah, that\u2019s not, what-is-it, (it\u2019s) only the distribution (of) the funds",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 13,
         "filename": "78/AB.tex",
         "imt": "{} oh!",
         "imtwordsbare": [
@@ -4750,10 +4911,12 @@
             "Natalia:",
             "o!"
         ],
-        "trs": "Natalia: oh!"
+        "trs": "Natalia: oh!",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "{}  oh!   yes",
         "imtwordsbare": [
@@ -4788,12 +4951,14 @@
             "o,",
             "yo"
         ],
-        "trs": "Natalia: oh, yes"
+        "trs": "Natalia: oh, yes",
+        "wlength": 3
     },
     {
         "categories": [
             "app"
         ],
+        "clength": 60,
         "filename": "78/AB.tex",
         "imt": "{}    woman   regent   {speak-\\textsc{app}}  money   to   woman   district",
         "imtwordsbare": [
@@ -4858,10 +5023,12 @@
             "ibu",
             "distrik"
         ],
-        "trs": "Ida: Ms. Regent talked to Ms. District (about the) money"
+        "trs": "Ida: Ms. Regent talked to Ms. District (about the) money",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 29,
         "filename": "78/AB.tex",
         "imt": "{}   oh!   like.that   family.welfare.program",
         "imtwordsbare": [
@@ -4902,10 +5069,12 @@
             "begitu,",
             "PKK"
         ],
-        "trs": "Natalia: oh it\u2019s like that, (about) the family welfare program"
+        "trs": "Natalia: oh it\u2019s like that, (about) the family welfare program",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 9,
         "filename": "78/AB.tex",
         "imt": "{}    yes",
         "imtwordsbare": [
@@ -4934,12 +5103,14 @@
             "Ida:",
             "yo"
         ],
-        "trs": "Ida: yes"
+        "trs": "Ida: yes",
+        "wlength": 2
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 25,
         "filename": "78/AB.tex",
         "imt": "\\textsc{3pl}    {from}    {Yawar}",
         "imtwordsbare": [
@@ -4975,13 +5146,15 @@
             "{Yawar}"
         ],
         "time": "present",
-        "trs": "Natalia: oh, if it\u2019s like that, (I assume the meeting was over) at midday, that\u2019s why, I, the betel vine I\u2019ll bring (it) over there first, (I\u2019ll bring it) to the front first, because now it\u2019s already turning afternoon, I\u2019m cooking the vegetables [\\textsc{up}], the men from Yawar"
+        "trs": "Natalia: oh, if it\u2019s like that, (I assume the meeting was over) at midday, that\u2019s why, I, the betel vine I\u2019ll bring (it) over there first, (I\u2019ll bring it) to the front first, because now it\u2019s already turning afternoon, I\u2019m cooking the vegetables [\\textsc{up}], the men from Yawar",
+        "wlength": 3
     },
     {
         "categories": [
             "1pl",
             "poss"
         ],
+        "clength": 78,
         "filename": "78/AB.tex",
         "imt": "{give}    {\\textsc{1pl}}    {two}    {\\textsc{poss}}    {money}    {motorbike.taxi}    {go.home}    {go}",
         "imtwordsbare": [
@@ -5046,10 +5219,12 @@
             "{pulang}",
             "{pergi}"
         ],
-        "trs": "Ida: today, yes, (the meeting) is already over, so Ms. District gave the two of us money (for) our return fare for the motorbike taxis"
+        "trs": "Ida: today, yes, (the meeting) is already over, so Ms. District gave the two of us money (for) our return fare for the motorbike taxis",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "{}    pity",
         "imtwordsbare": [
@@ -5078,7 +5253,8 @@
             "Natalia:",
             "kasiang"
         ],
-        "trs": "Natalia: poor thing!"
+        "trs": "Natalia: poor thing!",
+        "wlength": 2
     },
     {
         "categories": [
@@ -5087,6 +5263,7 @@
             "prox",
             "tru"
         ],
+        "clength": 39,
         "filename": "78/AB.tex",
         "imt": "{}   so   \\textsc{1sg}   \\textsc{tru-d.prox}   want   \\textsc{d.prox}   \\textsc{d.prox}",
         "imtwordsbare": [
@@ -5146,10 +5323,12 @@
             "ini,",
             "ini"
         ],
-        "trs": "Ida: so, I here[\\textsc{tru}] want this (or) this (but I can\u2019t with these limited funds)"
+        "trs": "Ida: so, I here[\\textsc{tru}] want this (or) this (but I can\u2019t with these limited funds)",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "{one:hundred}    {thousand}",
         "imtwordsbare": [
@@ -5180,10 +5359,12 @@
             "{ribu}"
         ],
         "time": "present",
-        "trs": "Natalia: the two of us haven\u2019t (gotten any money left), I already gave the first (one hundred thousand) to them, that is to say [\\textsc{spm}] what-is-it, they already wanted to buy stones, so now I (already), what\u2019s-its-name, set aside one hundred thousand (rupiah)"
+        "trs": "Natalia: the two of us haven\u2019t (gotten any money left), I already gave the first (one hundred thousand) to them, that is to say [\\textsc{spm}] what-is-it, they already wanted to buy stones, so now I (already), what\u2019s-its-name, set aside one hundred thousand (rupiah)",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 28,
         "filename": "78/AB.tex",
         "imt": "{}   yes   already   activity",
         "imtwordsbare": [
@@ -5224,7 +5405,8 @@
             "suda",
             "kegiatang"
         ],
-        "trs": "Ida: yes, well, the activity"
+        "trs": "Ida: yes, well, the activity",
+        "wlength": 4
     },
     {
         "categories": [
@@ -5233,6 +5415,7 @@
             "d",
             "prox"
         ],
+        "clength": 79,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{d.prox}    {\\textsc{1pl}}    {again}    {problem}    {again}    {\\textsc{3sg}}    {uncle}    {Martin}",
@@ -5298,10 +5481,12 @@
             "{bapa-ade}",
             "{Martin}"
         ],
-        "trs": "Natalia: my husband\\footnote{Lit. \u2018her father\u2019 (\\textitbf{de} \u2018\\textsc{3sg}\u2019 refers to the speaker\u2019s daughter).}, two hundred (thousand for) my husband, and my brother-in-law Martin\\footnote{Lit. \u2018her uncle\u2019 (\\textitbf{de} \u2018\\textsc{3sg}\u2019 refers to the speaker\u2019s daughter).} took a woman away (with him), oh no!, here, we are having problems again, my brother-in-law Martin"
+        "trs": "Natalia: my husband\\footnote{Lit. \u2018her father\u2019 (\\textitbf{de} \u2018\\textsc{3sg}\u2019 refers to the speaker\u2019s daughter).}, two hundred (thousand for) my husband, and my brother-in-law Martin\\footnote{Lit. \u2018her uncle\u2019 (\\textitbf{de} \u2018\\textsc{3sg}\u2019 refers to the speaker\u2019s daughter).} took a woman away (with him), oh no!, here, we are having problems again, my brother-in-law Martin",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 20,
         "filename": "78/AB.tex",
         "imt": "{}    ascend   motorbike",
         "imtwordsbare": [
@@ -5336,10 +5521,12 @@
             "naik",
             "motor?"
         ],
-        "trs": "Ida: (he) took (her) on a motorbike?"
+        "trs": "Ida: (he) took (her) on a motorbike?",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 42,
         "filename": "78/AB.tex",
         "imt": "{}    woman   ship   Papua-Lima",
         "imtwordsbare": [
@@ -5380,10 +5567,12 @@
             "kapal",
             "Papua-Lima"
         ],
-        "trs": "Natalia: the woman, (she came with) the Papua-Lima ship"
+        "trs": "Natalia: the woman, (she came with) the Papua-Lima ship",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "{}   yes   God",
         "imtwordsbare": [
@@ -5418,12 +5607,14 @@
             "ya",
             "Tuhang"
         ],
-        "trs": "Ida: oh God!"
+        "trs": "Ida: oh God!",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 46,
         "filename": "78/AB.tex",
         "imt": "{}    \\textsc{3sg}   bring   woman   Bagayserwar",
         "imtwordsbare": [
@@ -5470,10 +5661,12 @@
             "prempuang",
             "Bagayserwar"
         ],
-        "trs": "Natalia: he brought a woman (from) Bagayserwar"
+        "trs": "Natalia: he brought a woman (from) Bagayserwar",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "{}     yes   forgiveness",
         "imtwordsbare": [
@@ -5508,13 +5701,15 @@
             "ya",
             "ampung"
         ],
-        "trs": "Ida: for mercy\u2019s sake!"
+        "trs": "Ida: for mercy\u2019s sake!",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg",
             "3sg"
         ],
+        "clength": 78,
         "filename": "78/AB.tex",
         "imt": "{}    yesterday   \\textsc{3sg}   go   \\textsc{1sg}   think   maybe   \\textsc{3sg}   alone   go",
         "imtwordsbare": [
@@ -5592,12 +5787,14 @@
             "pigi"
         ],
         "time": "past",
-        "trs": "Natalia: yesterday he left, I thought, maybe he went by himself"
+        "trs": "Natalia: yesterday he left, I thought, maybe he went by himself",
+        "wlength": 10
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 28,
         "filename": "78/AB.tex",
         "imt": "{eat}    {\\textsc{1sg}}    {be.hungry}",
         "imtwordsbare": [
@@ -5632,12 +5829,14 @@
             "{sa}",
             "{lapar}"
         ],
-        "trs": "Ida: ugh!, hey, don\u2019t talk a lot, give me vegetables to eat, I\u2019m hungry"
+        "trs": "Ida: ugh!, hey, don\u2019t talk a lot, give me vegetables to eat, I\u2019m hungry",
+        "wlength": 3
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 53,
         "filename": "78/AB.tex",
         "imt": "{}  wow!   \\textsc{2sg}   come   immediately   \\textsc{2sg}   be.hungry",
         "imtwordsbare": [
@@ -5696,13 +5895,15 @@
             "ko",
             "lapar?"
         ],
-        "trs": "Natalia: wow!, you come (here, and) immediately you\u2019re hungry?"
+        "trs": "Natalia: wow!, you come (here, and) immediately you\u2019re hungry?",
+        "wlength": 7
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 43,
         "filename": "78/AB.tex",
         "imt": "{}   cooked.rice   exist   \\textsc{d.dist}   spoon   already",
         "imtwordsbare": [
@@ -5755,13 +5956,15 @@
             "timba",
             "suda"
         ],
-        "trs": "Natalia: the cooked rice is over there, just spoon (it)!"
+        "trs": "Natalia: the cooked rice is over there, just spoon (it)!",
+        "wlength": 6
     },
     {
         "categories": [
             "1sg",
             "neg"
         ],
+        "clength": 38,
         "filename": "78/AB.tex",
         "imt": "{} ah!   \\textsc{1sg}   \\textsc{neg}   eat   cooked.rice",
         "imtwordsbare": [
@@ -5814,10 +6017,12 @@
             "makang",
             "nasi"
         ],
-        "trs": "Ida: ah, I don\u2019t eat rice"
+        "trs": "Ida: ah, I don\u2019t eat rice",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 23,
         "filename": "78/AB.tex",
         "imt": "{}     after.all   what",
         "imtwordsbare": [
@@ -5853,12 +6058,14 @@
             "habis",
             "apa?"
         ],
-        "trs": "Natalia: so what (do you want)?"
+        "trs": "Natalia: so what (do you want)?",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 38,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1sg}   want   eat   vegetable   just",
         "imtwordsbare": [
@@ -5912,10 +6119,12 @@
             "sayur",
             "saja"
         ],
-        "trs": "Ida: I just want to eat vegetables"
+        "trs": "Ida: I just want to eat vegetables",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 48,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "exist    {sit}    {mother}    {fetch}    {plate}",
@@ -5963,10 +6172,12 @@
             "{ambil}",
             "{piring}"
         ],
-        "trs": "Natalia: alright, just get a plate from inside, I and Angela are sitting around, take a plate, mama"
+        "trs": "Natalia: alright, just get a plate from inside, I and Angela are sitting around, take a plate, mama",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 29,
         "filename": "78/AB.tex",
         "imt": "{}   yes   already   in.a.moment",
         "imtwordsbare": [
@@ -6007,12 +6218,14 @@
             "suda,",
             "sebentar"
         ],
-        "trs": "Ida: yes, alright, (I\u2019ll get one) in a moment"
+        "trs": "Ida: yes, alright, (I\u2019ll get one) in a moment",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 38,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{1sg}}    {exist}    {cook}    {water.spinach}",
         "imtwordsbare": [
@@ -6053,12 +6266,14 @@
             "{masak}",
             "{kangkung}"
         ],
-        "trs": "Natalia: alright, just fill (the plate with) vegetables, (the food that I) cooked first is finished, uh, the men from Wari, Aruswar didn\u2019t get (any of the food), that\u2019s why I\u2019m cooking water spinach"
+        "trs": "Natalia: alright, just fill (the plate with) vegetables, (the food that I) cooked first is finished, uh, the men from Wari, Aruswar didn\u2019t get (any of the food), that\u2019s why I\u2019m cooking water spinach",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 48,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{next}    {\\textsc{1sg}}    {cook}    {cooked.rice}    {first}",
@@ -6106,10 +6321,12 @@
             "{nasi}",
             "{pertama}"
         ],
-        "trs": "my sister-in-law\\footnote{Lit. \u2018her aunt\u2019 (\\textitbf{de} \u2018\\textsc{3sg}\u2019 refers to the speaker\u2019s daughter).} and the others from Tarfia, my sister-in-law, what-is-it, their uncle bought [Is], well, then I cooked the first meal"
+        "trs": "my sister-in-law\\footnote{Lit. \u2018her aunt\u2019 (\\textitbf{de} \u2018\\textsc{3sg}\u2019 refers to the speaker\u2019s daughter).} and the others from Tarfia, my sister-in-law, what-is-it, their uncle bought [Is], well, then I cooked the first meal",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 20,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{in.a.moment}    {and.then}",
@@ -6139,10 +6356,12 @@
             "{sebentar}",
             "{baru}"
         ],
-        "trs": "Natalia: the aunt, yesterday, she let me here know, aunt, I was still busy, (you) waited, I hadn\u2019t gone yet, a moment later and then"
+        "trs": "Natalia: the aunt, yesterday, she let me here know, aunt, I was still busy, (you) waited, I hadn\u2019t gone yet, a moment later and then",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "{bag}    {again}",
         "imtwordsbare": [
@@ -6171,13 +6390,15 @@
             "{karong}",
             "{lagi}"
         ],
-        "trs": "Ida: then tell older sister Nelci who also replaced my bag"
+        "trs": "Ida: then tell older sister Nelci who also replaced my bag",
+        "wlength": 2
     },
     {
         "categories": [
             "2pl",
             "poss"
         ],
+        "clength": 58,
         "filename": "78/AB.tex",
         "imt": "{aunt}    {\\textsc{poss}}    {mortar}    {\\textsc{2pl}}    {bring}    {}",
         "imtwordsbare": [
@@ -6230,10 +6451,12 @@
             "{bawa}",
             "{[Is]}"
         ],
-        "trs": "Natalia [addressing her daughter Ise]: uh, Ise oh, Ise, I forgot, you return aunt\u2019s mortar!, you return [Is]"
+        "trs": "Natalia [addressing her daughter Ise]: uh, Ise oh, Ise, I forgot, you return aunt\u2019s mortar!, you return [Is]",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 45,
         "filename": "78/AB.tex",
         "imt": "{aunt}    {help}    {because}    {tomorrow}",
         "imtwordsbare": [
@@ -6274,12 +6497,14 @@
             "{karna}",
             "{besok}"
         ],
-        "trs": "Ida: that\u2019s what I said earlier, earlier I said to aunt, \u2018please, because tomorrow"
+        "trs": "Ida: that\u2019s what I said earlier, earlier I said to aunt, \u2018please, because tomorrow",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 61,
         "filename": "78/AB.tex",
         "imt": "{}  want   go.home   {}   \\textsc{1sg}   bring",
         "imtwordsbare": [
@@ -6333,7 +6558,8 @@
             "sa",
             "bawa"
         ],
-        "trs": "Natalia: (I) want to go home, [\\textsc{up}] I bring"
+        "trs": "Natalia: (I) want to go home, [\\textsc{up}] I bring",
+        "wlength": 6
     },
     {
         "categories": [
@@ -6342,6 +6568,7 @@
             "prox",
             "rdp"
         ],
+        "clength": 70,
         "filename": "78/AB.tex",
         "imt": "{}  now   \\textsc{2pl}   give   \\textsc{rdp}{\\Tilde}container   put   at   \\textsc{l.prox}",
         "imtwordsbare": [
@@ -6407,7 +6634,8 @@
             "sini"
         ],
         "time": "present",
-        "trs": "Ida: now you give (me) the jerry cans, put (them) here"
+        "trs": "Ida: now you give (me) the jerry cans, put (them) here",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6418,6 +6646,7 @@
             "rdp",
             "rel"
         ],
+        "clength": 75,
         "filename": "78/AB.tex",
         "imt": "{}   container  {}    hey!   \\textsc{rel}   \\textsc{rdp}{\\Tilde}be.big   \\textsc{d.dist}   \\textsc{neg.imp}",
         "imtwordsbare": [
@@ -6482,13 +6711,15 @@
             "itu",
             "jangang"
         ],
-        "trs": "Natalia: the jerry cans, [Is], hey, those big ones, don\u2019t (take them)!"
+        "trs": "Natalia: the jerry cans, [Is], hey, those big ones, don\u2019t (take them)!",
+        "wlength": 8
     },
     {
         "categories": [
             "rdp",
             "rel"
         ],
+        "clength": 37,
         "filename": "78/AB.tex",
         "imt": "{}   ah!   \\textsc{rel}   \\textsc{rdp}{\\Tilde}be.small",
         "imtwordsbare": [
@@ -6529,12 +6760,14 @@
             "yang",
             "kecil{\\Tilde}kecil"
         ],
-        "trs": "Ida: ah, (I take the ones) that are small"
+        "trs": "Ida: ah, (I take the ones) that are small",
+        "wlength": 4
     },
     {
         "categories": [
             "pat"
         ],
+        "clength": 17,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "bring    {be.prior-\\textsc{pat}}",
@@ -6565,13 +6798,15 @@
             "bawa",
             "{duluang}"
         ],
-        "trs": "Natalia: hey, (they) are there, please, (if) you want to take (them) away, take (them) and go ahead"
+        "trs": "Natalia: hey, (they) are there, please, (if) you want to take (them) away, take (them) and go ahead",
+        "wlength": 2
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 22,
         "filename": "78/AB.tex",
         "imt": "{}    yes   \\textsc{d.dist}   all",
         "imtwordsbare": [
@@ -6612,13 +6847,15 @@
             "itu",
             "smua"
         ],
-        "trs": "Ida: yes, all (of them)"
+        "trs": "Ida: yes, all (of them)",
+        "wlength": 4
     },
     {
         "categories": [
             "2sg",
             "pat"
         ],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}     \\textsc{2sg}   bring   be.prior-\\textsc{pat}",
         "imtwordsbare": [
@@ -6659,12 +6896,14 @@
             "bawa",
             "duluang"
         ],
-        "trs": "Natalia: take them (and) go ahead"
+        "trs": "Natalia: take them (and) go ahead",
+        "wlength": 4
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 15,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{neg}}    {exist}",
         "imtwordsbare": [
@@ -6694,7 +6933,8 @@
             "{tida}",
             "{ada}"
         ],
-        "trs": "Ida: give all of them to (me) here, I want to take (them) [\\textsc{up}], over there aren\u2019t (any)"
+        "trs": "Ida: give all of them to (me) here, I want to take (them) [\\textsc{up}], over there aren\u2019t (any)",
+        "wlength": 2
     },
     {
         "categories": [
@@ -6702,6 +6942,7 @@
             "d",
             "prox"
         ],
+        "clength": 57,
         "filename": "78/AB.tex",
         "imt": "{}    \\textsc{1sg}   stand.by.for   \\textsc{1sg}   stand.by.for   \\textsc{d.prox}   gasoline",
         "imtwordsbare": [
@@ -6760,12 +7001,14 @@
             "ini,",
             "bensing"
         ],
-        "trs": "Natalia: I stand by, I stand by (with), what\u2019s-its-name, the gasoline"
+        "trs": "Natalia: I stand by, I stand by (with), what\u2019s-its-name, the gasoline",
+        "wlength": 7
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 51,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{2sg}   stand.by.for   gasoline   \\textsc{2sg}   buy   gasoline",
         "imtwordsbare": [
@@ -6824,10 +7067,12 @@
             "bli",
             "bensing"
         ],
-        "trs": "Ida: you stand by (with) the gasoline, you buy gasoline"
+        "trs": "Ida: you stand by (with) the gasoline, you buy gasoline",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 13,
         "filename": "78/AB.tex",
         "imt": "{} yes",
         "imtwordsbare": [
@@ -6856,7 +7101,8 @@
             "Natalia:",
             "yo"
         ],
-        "trs": "Natalia: yes"
+        "trs": "Natalia: yes",
+        "wlength": 2
     },
     {
         "categories": [
@@ -6866,6 +7112,7 @@
             "l",
             "med"
         ],
+        "clength": 58,
         "filename": "78/AB.tex",
         "imt": "{stay}    {\\textsc{d.dist}}   \\textsc{2sg}    {fill}   gasoline   at    {\\textsc{l.med}}",
         "imtwordsbare": [
@@ -6924,10 +7171,12 @@
             "di",
             "{situ}"
         ],
-        "trs": "Ida: those jerry cans, that LNG jerry can stays behind, that (metal one), you fill the gasoline in there"
+        "trs": "Ida: those jerry cans, that LNG jerry can stays behind, that (metal one), you fill the gasoline in there",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 13,
         "filename": "78/AB.tex",
         "imt": "{} yes",
         "imtwordsbare": [
@@ -6956,10 +7205,12 @@
             "Natalia:",
             "yo"
         ],
-        "trs": "Natalia: yes"
+        "trs": "Natalia: yes",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 27,
         "filename": "78/AB.tex",
         "imt": "{}  four   liter   just",
         "imtwordsbare": [
@@ -7000,12 +7251,14 @@
             "liter",
             "saja"
         ],
-        "trs": "Ida: just four liters"
+        "trs": "Ida: just four liters",
+        "wlength": 4
     },
     {
         "categories": [
             "tru"
         ],
+        "clength": 31,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{tru}{}-bottom}    {sea}    {want}    {buy}",
         "imtwordsbare": [
@@ -7047,10 +7300,12 @@
             "{mo}",
             "{bli}"
         ],
-        "trs": "Natalia: hey, four (liters), uh, poor thing, Ms. Mayor down[\\textsc{tru}] (at the) seaside wants to buy"
+        "trs": "Natalia: hey, four (liters), uh, poor thing, Ms. Mayor down[\\textsc{tru}] (at the) seaside wants to buy",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 20,
         "filename": "78/AB.tex",
         "imt": "{}    oh!   yes   already",
         "imtwordsbare": [
@@ -7091,10 +7346,12 @@
             "yo",
             "suda"
         ],
-        "trs": "Ida: yes, that\u2019s it"
+        "trs": "Ida: yes, that\u2019s it",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 9,
         "filename": "78/AB.tex",
         "imt": "{village}",
         "imtwordsbare": [
@@ -7117,10 +7374,12 @@
         "srcwordstex": [
             "{kampung}"
         ],
-        "trs": "Natalia: I can\u2019t give (the gasoline to just) any person, (but) Ms. Mayor"
+        "trs": "Natalia: I can\u2019t give (the gasoline to just) any person, (but) Ms. Mayor",
+        "wlength": 1
     },
     {
         "categories": [],
+        "clength": 22,
         "filename": "78/AB.tex",
         "imt": "{}   Nusa   mother",
         "imtwordsbare": [
@@ -7155,12 +7414,14 @@
             "Nusa",
             "mama"
         ],
-        "trs": "Natalia: Nusa\u2019s mother"
+        "trs": "Natalia: Nusa\u2019s mother",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 36,
         "filename": "78/AB.tex",
         "imt": "give    {stay}    {\\textsc{1sg}}    {one-tens}",
         "imtwordsbare": [
@@ -7202,7 +7463,8 @@
             "{sa}",
             "{spulu}"
         ],
-        "trs": "Natalia: we\u2019ll (buy) five liters, that\u2019s it, the others, uh, I already don\u2019t want (to buy gasoline for them), hide (it) from sight, so you take some, I keep some, uh, I keep (some), leave it, I\u2019ll (buy) ten (liters)"
+        "trs": "Natalia: we\u2019ll (buy) five liters, that\u2019s it, the others, uh, I already don\u2019t want (to buy gasoline for them), hide (it) from sight, so you take some, I keep some, uh, I keep (some), leave it, I\u2019ll (buy) ten (liters)",
+        "wlength": 4
     },
     {
         "categories": [
@@ -7210,6 +7472,7 @@
             "rel",
             "tru"
         ],
+        "clength": 48,
         "filename": "78/AB.tex",
         "imt": "{choose}    {where}    {\\textsc{rel}}   \\textsc{1sg}    {\\textsc{tru}{}-want}    {bring}",
         "imtwordsbare": [
@@ -7263,12 +7526,14 @@
             "{m}",
             "{bawa}"
         ],
-        "trs": "Ida: [Is], I\u2019ll have a look first, then (it\u2019ll be) me who\u2019ll choose which (jerry can) I want[\\textsc{tru}] to take"
+        "trs": "Ida: [Is], I\u2019ll have a look first, then (it\u2019ll be) me who\u2019ll choose which (jerry can) I want[\\textsc{tru}] to take",
+        "wlength": 6
     },
     {
         "categories": [
             "poss"
         ],
+        "clength": 39,
         "filename": "78/AB.tex",
         "imt": "uh    {Arbais}    {Arbais}    {\\textsc{poss}}",
         "imtwordsbare": [
@@ -7309,7 +7574,8 @@
             "{Arbais}",
             "{punya}"
         ],
-        "trs": "Natalia: that one, that one there, oh no!, what\u2019s-its-name, these children they didn\u2019t store (the jerry cans well), this one is (the jerry can) of uncle Mayor, umh (from) Arbais, Arbais"
+        "trs": "Natalia: that one, that one there, oh no!, what\u2019s-its-name, these children they didn\u2019t store (the jerry cans well), this one is (the jerry can) of uncle Mayor, umh (from) Arbais, Arbais",
+        "wlength": 4
     },
     {
         "categories": [
@@ -7317,6 +7583,7 @@
             "neg",
             "rel"
         ],
+        "clength": 60,
         "filename": "78/AB.tex",
         "imt": "{}   yes   \\textsc{1sg}   \\textsc{neg}   request   \\textsc{rel}   be.big   \\textsc{rel}   be.small",
         "imtwordsbare": [
@@ -7387,12 +7654,14 @@
             "yang",
             "kecil"
         ],
-        "trs": "Ida: yes, I don\u2019t ask for (the one) that is big, (I ask for the one) that is small"
+        "trs": "Ida: yes, I don\u2019t ask for (the one) that is big, (I ask for the one) that is small",
+        "wlength": 9
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 60,
         "filename": "78/AB.tex",
         "imt": "{}  be.small   night   \\textsc{3sg}   cry   banana   fry",
         "imtwordsbare": [
@@ -7451,10 +7720,12 @@
             "pisang",
             "goreng"
         ],
-        "trs": "Fanceria: (this) little (boy Nofi), (last) night he cried (for) fried bananas"
+        "trs": "Fanceria: (this) little (boy Nofi), (last) night he cried (for) fried bananas",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 18,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{be.dizzy}    {mother}",
@@ -7484,7 +7755,8 @@
             "{pusing}",
             "{mama}"
         ],
-        "trs": "Marta: yes!, he and Wili there worried (their) mother"
+        "trs": "Marta: yes!, he and Wili there worried (their) mother",
+        "wlength": 2
     },
     {
         "categories": [
@@ -7493,6 +7765,7 @@
             "l",
             "rel"
         ],
+        "clength": 60,
         "filename": "78/AB.tex",
         "imt": "{}  aw!   banana   at   \\textsc{l.dist}   \\textsc{d.dist}   \\textsc{rel}   want   buy",
         "imtwordsbare": [
@@ -7564,7 +7837,8 @@
             "mo",
             "bli"
         ],
-        "trs": "Fanceria: aw!, (it was) the bananas (from) over there which (Nofi) wanted to buy"
+        "trs": "Fanceria: aw!, (it was) the bananas (from) over there which (Nofi) wanted to buy",
+        "wlength": 9
     },
     {
         "categories": [
@@ -7572,6 +7846,7 @@
             "neg",
             "prox"
         ],
+        "clength": 82,
         "filename": "78/AB.tex",
         "imt": "{}   {}  \\textsc{d.prox}   \\textsc{neg}   feel   be.sick   get   hit   be.continuous",
         "imtwordsbare": [
@@ -7642,13 +7917,15 @@
             "pukul",
             "trus"
         ],
-        "trs": "Marta: [\\textsc{up}] here doesn\u2019t feel sick, (he) gets beaten continuously"
+        "trs": "Marta: [\\textsc{up}] here doesn\u2019t feel sick, (he) gets beaten continuously",
+        "wlength": 9
     },
     {
         "categories": [
             "1sg",
             "poss"
         ],
+        "clength": 23,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1sg}   \\textsc{poss}   one-thousand",
         "imtwordsbare": [
@@ -7689,12 +7966,14 @@
             "pu",
             "sribu"
         ],
-        "trs": "Nofi: (that\u2019s) my one thousand (rupiah bill)"
+        "trs": "Nofi: (that\u2019s) my one thousand (rupiah bill)",
+        "wlength": 4
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 23,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{2sg}   be.crazy   or",
         "imtwordsbare": [
@@ -7735,7 +8014,8 @@
             "gila",
             "ka?"
         ],
-        "trs": "Nofi: are you crazy?"
+        "trs": "Nofi: are you crazy?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -7743,6 +8023,7 @@
             "prox",
             "rdp"
         ],
+        "clength": 54,
         "filename": "78/AB.tex",
         "imt": "{} too   be.mischievous   \\textsc{rdp}{\\Tilde}child   at   \\textsc{l.prox}",
         "imtwordsbare": [
@@ -7795,10 +8076,12 @@
             "di",
             "sini"
         ],
-        "trs": "Nofita: (they are) too mischievous the children here"
+        "trs": "Nofita: (they are) too mischievous the children here",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 17,
         "filename": "78/AB.tex",
         "imt": "{}  mhm",
         "imtwordsbare": [
@@ -7827,12 +8110,14 @@
             "Fanceria:",
             "mm-mm"
         ],
-        "trs": "Fanceria: mhm"
+        "trs": "Fanceria: mhm",
+        "wlength": 2
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 67,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{neg}   exist   banana   fry   cry   banana   fry",
         "imtwordsbare": [
@@ -7897,12 +8182,14 @@
             "pisang",
             "goreng"
         ],
-        "trs": "Marta: (when) there aren\u2019t (any) fried bananas, (then Nofi) cries (for) fried bananas"
+        "trs": "Marta: (when) there aren\u2019t (any) fried bananas, (then Nofi) cries (for) fried bananas",
+        "wlength": 8
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 53,
         "filename": "78/AB.tex",
         "imt": "{}  exist   banana   fry   \\textsc{neg}   want   eat",
         "imtwordsbare": [
@@ -7962,10 +8249,12 @@
             "maw",
             "makang"
         ],
-        "trs": "Nofita: (when) there are fried bananas, (he) doesn\u2019t want to eat (them)"
+        "trs": "Nofita: (when) there are fried bananas, (he) doesn\u2019t want to eat (them)",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "banana    {fry}",
         "imtwordsbare": [
@@ -7995,13 +8284,15 @@
             "pisang",
             "{goreng}"
         ],
-        "trs": "Marta: (when) there are fried bananas, (he) doesn\u2019t want to eat fried bananas"
+        "trs": "Marta: (when) there are fried bananas, (he) doesn\u2019t want to eat fried bananas",
+        "wlength": 2
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 43,
         "filename": "78/AB.tex",
         "imt": "{}  turn.around   turn.around   child   be.small   \\textsc{d.dist}",
         "imtwordsbare": [
@@ -8054,12 +8345,14 @@
             "kecil",
             "itu"
         ],
-        "trs": "Klara: (Nofi) constantly changes (his) opinion, that small child"
+        "trs": "Klara: (Nofi) constantly changes (his) opinion, that small child",
+        "wlength": 6
     },
     {
         "categories": [
             "rdp"
         ],
+        "clength": 31,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{rdp}{\\Tilde}be.big}    {be.sweet}",
         "imtwordsbare": [
@@ -8088,13 +8381,15 @@
             "{besar{\\Tilde}besar}",
             "{manis}"
         ],
-        "trs": "Fanceria: fried bananas, those bananas (from) Sorong over there, oooh, (they) are all big (and) sweet"
+        "trs": "Fanceria: fried bananas, those bananas (from) Sorong over there, oooh, (they) are all big (and) sweet",
+        "wlength": 2
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 76,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{eat}    {at}    {food.stall}    {\\textsc{d.prox}}    {already}    {hour}    {two}    {night}",
@@ -8160,13 +8455,15 @@
             "{dua}",
             "{malam}"
         ],
-        "trs": "Marta: {\\ldots} he (Pawlus) said (to me), \u2018aunt get-up, go and eat at the food stall\u2019, I said, \u2018God, it\u2019s too late at night to eat at the food stall, this is already two o\u2019clock at night"
+        "trs": "Marta: {\\ldots} he (Pawlus) said (to me), \u2018aunt get-up, go and eat at the food stall\u2019, I said, \u2018God, it\u2019s too late at night to eat at the food stall, this is already two o\u2019clock at night",
+        "wlength": 8
     },
     {
         "categories": [
             "1sg",
             "2sg"
         ],
+        "clength": 68,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{2sg}    {go.out}    {go}    {pack}    {cooked.rice}    {for}    {\\textsc{1sg}}",
@@ -8226,7 +8523,8 @@
             "{untuk}",
             "{saya}"
         ],
-        "trs": "I said, \u2018what[\\textsc{tru}] [\\textsc{up}] Pawlus, if you have enemies outside, alright, let me (\u2018mother\u2019) die and you just live\u2019, he said, \u2018no, you (\u2018mother\u2019) go and eat\u2019, I said, \u2018you go out, go, and (get) wrapped-up rice for me"
+        "trs": "I said, \u2018what[\\textsc{tru}] [\\textsc{up}] Pawlus, if you have enemies outside, alright, let me (\u2018mother\u2019) die and you just live\u2019, he said, \u2018no, you (\u2018mother\u2019) go and eat\u2019, I said, \u2018you go out, go, and (get) wrapped-up rice for me",
+        "wlength": 7
     },
     {
         "categories": [
@@ -8234,6 +8532,7 @@
             "3sg",
             "poss"
         ],
+        "clength": 65,
         "filename": "78/AB.tex",
         "imt": "give    {\\textsc{3sg}}    {bandage}    {turn.around}    {\\textsc{1sg}}    {\\textsc{poss}}    {knee}",
         "imtwordsbare": [
@@ -8293,7 +8592,8 @@
             "{punya}",
             "{lutut}"
         ],
-        "trs": "and then Iskia held my knee that is not well, this knee which has already been sick, this scar (is still hurting), then he clamped (it) like this, he put, he bandaged my knee"
+        "trs": "and then Iskia held my knee that is not well, this knee which has already been sick, this scar (is still hurting), then he clamped (it) like this, he put, he bandaged my knee",
+        "wlength": 7
     },
     {
         "categories": [
@@ -8301,6 +8601,7 @@
             "2sg",
             "rdp"
         ],
+        "clength": 92,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{rdp}{\\Tilde}laugh}    {\\textsc{1sg}}    {say}    {oh.no!}    {God}   \\textsc{2sg}    {like.this}    {or}",
         "imtwordsbare": [
@@ -8365,12 +8666,14 @@
             "{begini}",
             "{ka?}"
         ],
-        "trs": "I (\u2018Ms. Marta\u2019) screamed strongly, I said, \u2018God help me!, what (is it) that has bitten my knee?\u2019 but then he laughed, he laughed intensely, I said, \u2018oh God!, why does this have to happen?\u2019 (Lit. \u2018you God are like this?\u2019)"
+        "trs": "I (\u2018Ms. Marta\u2019) screamed strongly, I said, \u2018God help me!, what (is it) that has bitten my knee?\u2019 but then he laughed, he laughed intensely, I said, \u2018oh God!, why does this have to happen?\u2019 (Lit. \u2018you God are like this?\u2019)",
+        "wlength": 8
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 27,
         "filename": "78/AB.tex",
         "imt": "{and.then}    {\\textsc{1pl}}    {sleep}",
         "imtwordsbare": [
@@ -8405,13 +8708,15 @@
             "{tong}",
             "{tidor}"
         ],
-        "trs": "and then Pawlus was drunk [\\textsc{spm}], what\u2019s-her-name, Ms. Teacher Maria here, poor thing, she was already sleeping, you know?, she has breathing difficulties, right?, we watched[\\textsc{tru}] watched her until one o\u2019clock, only then did we sleep"
+        "trs": "and then Pawlus was drunk [\\textsc{spm}], what\u2019s-her-name, Ms. Teacher Maria here, poor thing, she was already sleeping, you know?, she has breathing difficulties, right?, we watched[\\textsc{tru}] watched her until one o\u2019clock, only then did we sleep",
+        "wlength": 3
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 76,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{who}    {God}    {help}    {\\textsc{d.prox}}    {who}    {\\textsc{d.prox}}    {who}",
@@ -8471,12 +8776,14 @@
             "{ini}",
             "{siapa?}"
         ],
-        "trs": "but then Pawlus leaned on her body like this, and then he bent his neck down onto her shoulder, she said, \u2018oh God!, who is this?, God help me, who is this? who is this?\u2019 (Lit. \u2018caused his head to be broken\u2019)"
+        "trs": "but then Pawlus leaned on her body like this, and then he bent his neck down onto her shoulder, she said, \u2018oh God!, who is this?, God help me, who is this? who is this?\u2019 (Lit. \u2018caused his head to be broken\u2019)",
+        "wlength": 7
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 24,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{\\textsc{3sg}}    {report}    {to}",
@@ -8512,10 +8819,12 @@
             "{lapor}",
             "{ke}"
         ],
-        "trs": "but he had already pressed her down, she almost died, the lady got up, she got up and went outside and reported (everything) to"
+        "trs": "but he had already pressed her down, she almost died, the lady got up, she got up and went outside and reported (everything) to",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 22,
         "filename": "78/AB.tex",
         "imt": "{be.drunk}    {be.chaotic}",
         "imtwordsbare": [
@@ -8544,12 +8853,14 @@
             "{mabuk}",
             "{takaroang}"
         ],
-        "trs": "Efana: to be drunk!, doesn\u2019t, like he doesn\u2019t have a wife, (getting) drunk at random (like this)!"
+        "trs": "Efana: to be drunk!, doesn\u2019t, like he doesn\u2019t have a wife, (getting) drunk at random (like this)!",
+        "wlength": 2
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 61,
         "coordination": "or",
         "filename": "78/AB.tex",
         "imt": "{hold}    {and}    {\\textsc{3pl}}    {handcuff}    {\\textsc{3pl}}    {two}",
@@ -8603,12 +8914,14 @@
             "{dorang}",
             "{dua}"
         ],
-        "trs": "Marta: she reported (everything) to the female nurse, the female nurse went outside, she reported (everything) to the police, the security outside, it remained for the two of them to wait, the two of them (who were) inside, until the two of them came out and the police got (them) and they handcuffed the two of them\\footnote{One of the two detained persons is \\textitbf{Pawlus}. It is unclear whether the second person is \\textitbf{Iskia} or someone else.}"
+        "trs": "Marta: she reported (everything) to the female nurse, the female nurse went outside, she reported (everything) to the police, the security outside, it remained for the two of them to wait, the two of them (who were) inside, until the two of them came out and the police got (them) and they handcuffed the two of them\\footnote{One of the two detained persons is \\textitbf{Pawlus}. It is unclear whether the second person is \\textitbf{Iskia} or someone else.}",
+        "wlength": 6
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 58,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{with}    {water}    {and.then}    {\\textsc{3pl}}    {two}    {sleep}",
@@ -8662,12 +8975,14 @@
             "{dua}",
             "{tidor}"
         ],
-        "trs": "now they were in a cell, (they) went into a cell to sleep, (the police) splashed (them) with water and the two of them slept"
+        "trs": "now they were in a cell, (they) went into a cell to sleep, (the police) splashed (them) with water and the two of them slept",
+        "wlength": 6
     },
     {
         "categories": [
             "uv"
         ],
+        "clength": 29,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{uv}{}-hold(.out/back)   \\textsc{uv}{}-imprison",
         "imtwordsbare": [
@@ -8702,12 +9017,14 @@
             "ditahang,",
             "dikurung"
         ],
-        "trs": "Efana: (they were) detained, imprisoned"
+        "trs": "Efana: (they were) detained, imprisoned",
+        "wlength": 3
     },
     {
         "categories": [
             "rdp"
         ],
+        "clength": 63,
         "filename": "78/AB.tex",
         "imt": "right?   because    {\\textsc{rdp}{\\Tilde}person}    {evilness}    {be.mischievous}",
         "imtwordsbare": [
@@ -8754,13 +9071,15 @@
             "{kejahatang}",
             "{nakal}"
         ],
-        "trs": "Marta: (they were) detained, the police imprisoned (them), mhm, to hell with them, right?, because (they are) bad, mischievous people"
+        "trs": "Marta: (they were) detained, the police imprisoned (them), mhm, to hell with them, right?, because (they are) bad, mischievous people",
+        "wlength": 5
     },
     {
         "categories": [
             "1pl",
             "1sg"
         ],
+        "clength": 43,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1sg}   Martina   Tinus   \\textsc{1pl}",
         "imtwordsbare": [
@@ -8807,12 +9126,14 @@
             "Tinus,",
             "kitong"
         ],
-        "trs": "Maria: I, Martina, Tinus, we"
+        "trs": "Maria: I, Martina, Tinus, we",
+        "wlength": 5
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1pl}   three   person",
         "imtwordsbare": [
@@ -8853,12 +9174,14 @@
             "tiga",
             "orang"
         ],
-        "trs": "Hurki: we (were) three people"
+        "trs": "Hurki: we (were) three people",
+        "wlength": 4
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 47,
         "filename": "78/AB.tex",
         "imt": "{} three   person   \\textsc{neg}   exist   \\textsc{neg}   need.to",
         "imtwordsbare": [
@@ -8917,12 +9240,14 @@
             "tra",
             "usa"
         ],
-        "trs": "Maria: three people, no, no need (to mention that)"
+        "trs": "Maria: three people, no, no need (to mention that)",
+        "wlength": 7
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1pl}   three   person",
         "imtwordsbare": [
@@ -8963,10 +9288,12 @@
             "tiga",
             "orang"
         ],
-        "trs": "Marta: we (were) three people"
+        "trs": "Marta: we (were) three people",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 43,
         "filename": "78/AB.tex",
         "imt": "to    {hither}   reach    {at}    {route}",
         "imtwordsbare": [
@@ -9013,10 +9340,12 @@
             "{di}",
             "{jalangang}"
         ],
-        "trs": "Maria: (we) grandmothers, we were three people ((pause)), we drove (along the beach back to \\ili{Sarmi}) here (until we) reached the road (Lit. \u2018reached the route\u2019)"
+        "trs": "Maria: (we) grandmothers, we were three people ((pause)), we drove (along the beach back to \\ili{Sarmi}) here (until we) reached the road (Lit. \u2018reached the route\u2019)",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 36,
         "filename": "78/AB.tex",
         "imt": "{}  reach   at   middle   walk",
         "imtwordsbare": [
@@ -9063,10 +9392,12 @@
             "tenga",
             "jalang"
         ],
-        "trs": "Hurki: (until we) reached the middle of the road"
+        "trs": "Hurki: (until we) reached the middle of the road",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 48,
         "filename": "78/AB.tex",
         "imt": "{purpose}\\hspace{1cm}  {so}    {}",
         "imtwordsbare": [
@@ -9101,10 +9432,12 @@
             "{jadi}",
             "{((laughter))}"
         ],
-        "trs": "Maria: ah, shhh!, (you) shouldn\u2019t (correct me), that\u2019s already good (enough), since the meaning (is already clear) ((laughter))"
+        "trs": "Maria: ah, shhh!, (you) shouldn\u2019t (correct me), that\u2019s already good (enough), since the meaning (is already clear) ((laughter))",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 38,
         "filename": "78/AB.tex",
         "imt": "{}   oh.no!,   reach   at   journey",
         "imtwordsbare": [
@@ -9151,7 +9484,8 @@
             "di",
             "jalangang"
         ],
-        "trs": "Hurki: oh boy!, (until we) reached the road (Lit. \u2018reached the route\u2019)"
+        "trs": "Hurki: oh boy!, (until we) reached the road (Lit. \u2018reached the route\u2019)",
+        "wlength": 5
     },
     {
         "categories": [
@@ -9159,6 +9493,7 @@
             "dist",
             "l"
         ],
+        "clength": 70,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{d.dist}}    {big.hole}    {to}    {\\textsc{l.dist}}    {immediately}    {mother}    {fall}",
         "imtwordsbare": [
@@ -9217,7 +9552,8 @@
             "{mama}",
             "{jatu}"
         ],
-        "trs": "Maria: what\u2019s-its-name, until (we) reached the road, then this motorbike taxi driver, he didn\u2019t see this big hole, immediately, he hit, what\u2019s-its-name, the hole headlong, (and) immediately, I (\u2018mother\u2019) fell off"
+        "trs": "Maria: what\u2019s-its-name, until (we) reached the road, then this motorbike taxi driver, he didn\u2019t see this big hole, immediately, he hit, what\u2019s-its-name, the hole headlong, (and) immediately, I (\u2018mother\u2019) fell off",
+        "wlength": 7
     },
     {
         "categories": [
@@ -9226,6 +9562,7 @@
             "med",
             "rdp"
         ],
+        "clength": 69,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{1sg}    {be.rolled.over}    {\\textsc{1sg}}    {\\textsc{rdp}{\\Tilde}roll.over}    {at}    {\\textsc{l.med}}",
@@ -9279,7 +9616,8 @@
             "{di}",
             "{situ}"
         ],
-        "trs": "I fell off backwards, Tinus here, he continued on, I had already fallen off the back (of the motorbike-taxi), as I fell, I rolled over immediately, I rolled over and over there"
+        "trs": "I fell off backwards, Tinus here, he continued on, I had already fallen off the back (of the motorbike-taxi), as I fell, I rolled over immediately, I rolled over and over there",
+        "wlength": 6
     },
     {
         "categories": [
@@ -9288,6 +9626,7 @@
             "dist",
             "rel"
         ],
+        "clength": 97,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{friend}    {already}    {fall}    {\\textsc{rel}}    {earlier}    {\\textsc{1pl}}    {run}    {to}    {hither}    {\\textsc{d.dist}}",
@@ -9365,12 +9704,14 @@
             "{mari}",
             "{tu}"
         ],
-        "trs": "Tinus, he and Martina here, the two of them drove continuously, the two of them drove on all the way to the river, but then Martina here, she let this motorbike taxi driver know, she said, \u2018ah, motorbike taxi driver, what\u2019s-her-name, our friend already fell off, with whom we were driving here earlier"
+        "trs": "Tinus, he and Martina here, the two of them drove continuously, the two of them drove on all the way to the river, but then Martina here, she let this motorbike taxi driver know, she said, \u2018ah, motorbike taxi driver, what\u2019s-her-name, our friend already fell off, with whom we were driving here earlier",
+        "wlength": 10
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 66,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "tell    {\\textsc{2sg}}    {tell}    {already}    {}",
@@ -9418,7 +9759,8 @@
             "{suda}",
             "{\\upshape\\textsc{[up]}}"
         ],
-        "trs": "Nofita: [Is] you (have to) look over here, and then you tell the story, tell the story!, just tell the story! [\\textsc{up}]"
+        "trs": "Nofita: [Is] you (have to) look over here, and then you tell the story, tell the story!, just tell the story! [\\textsc{up}]",
+        "wlength": 5
     },
     {
         "categories": [
@@ -9426,6 +9768,7 @@
             "3sg",
             "rel"
         ],
+        "clength": 69,
         "filename": "78/AB.tex",
         "imt": "again    {reach}   at    {place}   \\textsc{rel}    {\\textsc{3sg}}    {discard}    {\\textsc{1sg}}",
         "imtwordsbare": [
@@ -9490,7 +9833,8 @@
             "{buang}",
             "{saya}"
         ],
-        "trs": "now this motorbike taxi driver, he returned again all the way to the place where he\u2019d thrown me off"
+        "trs": "now this motorbike taxi driver, he returned again all the way to the place where he\u2019d thrown me off",
+        "wlength": 8
     },
     {
         "categories": [
@@ -9498,6 +9842,7 @@
             "dist",
             "rdp"
         ],
+        "clength": 72,
         "filename": "78/AB.tex",
         "imt": "{} request   pardon   eh?   help   tell   \\textsc{d.dist}   \\textsc{rdp}{\\Tilde}be.slow",
         "imtwordsbare": [
@@ -9562,10 +9907,12 @@
             "tu",
             "plang{\\Tilde}plang"
         ],
-        "trs": "Iskia: excuse me, eh?, please talk slowly"
+        "trs": "Iskia: excuse me, eh?, please talk slowly",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 12,
         "filename": "78/AB.tex",
         "imt": "to    {bottom}",
         "imtwordsbare": [
@@ -9594,13 +9941,15 @@
             "ke",
             "{bawa}"
         ],
-        "trs": "Maria: he\u2019d thrown me off, then the two of them got off the motorbike, the two of them saw me like this, I had already fallen over to the ground"
+        "trs": "Maria: he\u2019d thrown me off, then the two of them got off the motorbike, the two of them saw me like this, I had already fallen over to the ground",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg",
             "neg"
         ],
+        "clength": 59,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "two    {lift}   \\textsc{1sg}    {next}    {\\textsc{1sg}}   \\textsc{neg}    {voice}",
@@ -9660,13 +10009,15 @@
             "tida",
             "{swara}"
         ],
-        "trs": "the two of them said, \u2018oh no!, poor thing!, did you fall?\u2019 \u2018yes\u2019, the two of them lifted me, and I couldn\u2019t speak (Lit. \u2018didn\u2019t (have) a voice\u2019)"
+        "trs": "the two of them said, \u2018oh no!, poor thing!, did you fall?\u2019 \u2018yes\u2019, the two of them lifted me, and I couldn\u2019t speak (Lit. \u2018didn\u2019t (have) a voice\u2019)",
+        "wlength": 7
     },
     {
         "categories": [
             "1sg",
             "2sg"
         ],
+        "clength": 45,
         "filename": "78/AB.tex",
         "imt": "\\textsc{1sg}    {mother}    {\\textsc{2sg}}   feel    {how}",
         "imtwordsbare": [
@@ -9713,12 +10064,14 @@
             "rasa",
             "{bagemana?}"
         ],
-        "trs": "the two of them shook me repeatedly, the two of them shook me repeatedly, then I lifted (my) face, then Martina asked me, \u2018mother, how do you feel?"
+        "trs": "the two of them shook me repeatedly, the two of them shook me repeatedly, then I lifted (my) face, then Martina asked me, \u2018mother, how do you feel?",
+        "wlength": 5
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 101,
         "filename": "78/AB.tex",
         "imt": "yes    {\\textsc{1sg}}    {fall}    {\\textsc{1sg}}    {feel}    {head}    {be.dizzy}    {bring}    {\\textsc{1sg}}    {to}   Webro",
         "imtwordsbare": [
@@ -9801,10 +10154,12 @@
             "{ke}",
             "Webro"
         ],
-        "trs": "I said like this, \u2018I\u2019m dizzy, my eyes here are dark\u2019, then Tinus here, he said to me like this, \u2018can I bring you to Webro?\u2019, then I said like this, \u2018yes, I fell, my head feels dizzy, bring me to Webro"
+        "trs": "I said like this, \u2018I\u2019m dizzy, my eyes here are dark\u2019, then Tinus here, he said to me like this, \u2018can I bring you to Webro?\u2019, then I said like this, \u2018yes, I fell, my head feels dizzy, bring me to Webro",
+        "wlength": 11
     },
     {
         "categories": [],
+        "clength": 42,
         "filename": "78/AB.tex",
         "imt": "{backside}    {Martina}    {at}    {middle}",
         "imtwordsbare": [
@@ -9845,10 +10200,12 @@
             "{di}",
             "{tenga}"
         ],
-        "trs": "then, we three, we three got onto the motorbike, I (was) in the back (and) Martina was in the middle"
+        "trs": "then, we three, we three got onto the motorbike, I (was) in the back (and) Martina was in the middle",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 22,
         "filename": "78/AB.tex",
         "imt": "{cross}    {river}",
         "imtwordsbare": [
@@ -9877,7 +10234,8 @@
             "{menyebrang}",
             "{kali}"
         ],
-        "trs": "then this motorbike taxi driver, he took, he took us (and we) crossed, crossed the river[\\textsc{tru}] river, (we) crossed[\\textsc{tru}] crossed the river"
+        "trs": "then this motorbike taxi driver, he took, he took us (and we) crossed, crossed the river[\\textsc{tru}] river, (we) crossed[\\textsc{tru}] crossed the river",
+        "wlength": 2
     },
     {
         "categories": [
@@ -9886,6 +10244,7 @@
             "3pl",
             "rdp"
         ],
+        "clength": 93,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "ask    {\\textsc{1sg}}    {\\textsc{rdp}{\\Tilde}sibling}    {\\textsc{3pl}}    {why}    {\\textsc{2sg}}    {be.sick}   or",
@@ -9951,13 +10310,15 @@
             "{sakit}",
             "ka?"
         ],
-        "trs": "having arrived in Webro, my father (and) my older siblings asked me, (my) relatives and friends (asked me), \u2018what happened? are you hurt?"
+        "trs": "having arrived in Webro, my father (and) my older siblings asked me, (my) relatives and friends (asked me), \u2018what happened? are you hurt?",
+        "wlength": 8
     },
     {
         "categories": [
             "1pl",
             "3sg"
         ],
+        "clength": 61,
         "filename": "78/AB.tex",
         "imt": "{lack}    {teach}    {\\textsc{1pl}}    {hit}    {\\textsc{3sg}}    {already}",
         "imtwordsbare": [
@@ -10010,13 +10371,15 @@
             "{dia}",
             "{suda}"
         ],
-        "trs": "I said like this, \u2018(it was) the motorbike taxi driver who threw me off\u2019, they said, \u2018which motorbike taxi?\u2019, \u2018ah, (it\u2019s) my motorbike here, (it\u2019s) my motorbike taxi driver who threw me off\u2019, \u2018damn him!, let us beat him up!"
+        "trs": "I said like this, \u2018(it was) the motorbike taxi driver who threw me off\u2019, they said, \u2018which motorbike taxi?\u2019, \u2018ah, (it\u2019s) my motorbike here, (it\u2019s) my motorbike taxi driver who threw me off\u2019, \u2018damn him!, let us beat him up!",
+        "wlength": 6
     },
     {
         "categories": [
             "1sg",
             "neg"
         ],
+        "clength": 44,
         "filename": "78/AB.tex",
         "imt": "\\textsc{1sg}    {\\textsc{neg}}    {die}    {\\textsc{1sg}}    {exist}",
         "imtwordsbare": [
@@ -10064,12 +10427,14 @@
             "{saya}",
             "{ada}"
         ],
-        "trs": "then I said like this, \u2018don\u2019t, don\u2019t beat him!, poor thing, he\u2019s a human being, don\u2019t beat him!, I\u2019m not dead, I\u2019m alive\u2019 (Lit. \u2018I exist\u2019)"
+        "trs": "then I said like this, \u2018don\u2019t, don\u2019t beat him!, poor thing, he\u2019s a human being, don\u2019t beat him!, I\u2019m not dead, I\u2019m alive\u2019 (Lit. \u2018I exist\u2019)",
+        "wlength": 5
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 79,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{Waim}    {\\textsc{1sg}}    {stay}    {because}    {\\textsc{1sg}}    {feel}    {still}    {be.dizzy}",
@@ -10135,13 +10500,15 @@
             "{masi}",
             "{pusing}"
         ],
-        "trs": "then I slept, (I) slept, the two of them went home to Waim, the motorbike taxi driver and Martina, the two of them went home alone to Waim, I stayed (in Webro) because I still felt dizzy"
+        "trs": "then I slept, (I) slept, the two of them went home to Waim, the motorbike taxi driver and Martina, the two of them went home alone to Waim, I stayed (in Webro) because I still felt dizzy",
+        "wlength": 8
     },
     {
         "categories": [
             "1sg",
             "poss"
         ],
+        "clength": 30,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1sg}:\\textsc{poss}   body   be.sick",
         "imtwordsbare": [
@@ -10182,12 +10549,14 @@
             "badang",
             "sakit"
         ],
-        "trs": "Nofita: my body was hurting"
+        "trs": "Nofita: my body was hurting",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 39,
         "filename": "78/AB.tex",
         "imt": "{} body   be.sick   \\textsc{1sg}   sleep",
         "imtwordsbare": [
@@ -10234,10 +10603,12 @@
             "saya",
             "tidor"
         ],
-        "trs": "Maria: (my) body was hurting, I slept"
+        "trs": "Maria: (my) body was hurting, I slept",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 29,
         "filename": "78/AB.tex",
         "imt": "{}    cook   water   be.hot",
         "imtwordsbare": [
@@ -10278,10 +10649,12 @@
             "air",
             "panas"
         ],
-        "trs": "Nofita: (they) boiled hot water"
+        "trs": "Nofita: (they) boiled hot water",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 28,
         "filename": "78/AB.tex",
         "imt": "{}     cook   water   be.hot",
         "imtwordsbare": [
@@ -10322,12 +10695,14 @@
             "air",
             "panas"
         ],
-        "trs": "Maria: (they) boiled hot water"
+        "trs": "Maria: (they) boiled hot water",
+        "wlength": 4
     },
     {
         "categories": [
             "rel"
         ],
+        "clength": 43,
         "filename": "78/AB.tex",
         "imt": "{}   Roni   \\textsc{rel}   cook   water   be.hot",
         "imtwordsbare": [
@@ -10380,12 +10755,14 @@
             "air",
             "panas"
         ],
-        "trs": "Nofita: (it was) Roni who boiled hot water"
+        "trs": "Nofita: (it was) Roni who boiled hot water",
+        "wlength": 6
     },
     {
         "categories": [
             "rel"
         ],
+        "clength": 40,
         "filename": "78/AB.tex",
         "imt": "{body}    {where}    {\\textsc{rel}}    {be.sick}",
         "imtwordsbare": [
@@ -10426,12 +10803,14 @@
             "{yang}",
             "{sakit?}"
         ],
-        "trs": "Maria: Roni, this young male nurse, he boiled hot water, they helped, they brought water, they brought leaves, then they massaged me with those (leaves), they said, \u2018which (part of your) body is hurting?"
+        "trs": "Maria: Roni, this young male nurse, he boiled hot water, they helped, they brought water, they brought leaves, then they massaged me with those (leaves), they said, \u2018which (part of your) body is hurting?",
+        "wlength": 4
     },
     {
         "categories": [
             "rdp"
         ],
+        "clength": 35,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{rdp}{\\Tilde}hold}    {backside}",
         "imtwordsbare": [
@@ -10460,10 +10839,12 @@
             "{pegang{\\Tilde}pegang}",
             "{blakang}"
         ],
-        "trs": "ouch!, my shoulder is hurting, my loins are hurting, my back is hurting\u2019, then this young male nurse, he massaged me, he massaged (my) shoulder, he massaged (my) back"
+        "trs": "ouch!, my shoulder is hurting, my loins are hurting, my back is hurting\u2019, then this young male nurse, he massaged me, he massaged (my) shoulder, he massaged (my) back",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 7,
         "filename": "78/AB.tex",
         "imt": "{Lukas}",
         "imtwordsbare": [
@@ -10486,13 +10867,15 @@
         "srcwordstex": [
             "{Lukas}"
         ],
-        "trs": "eventually I slept until the afternoon, (then) my husband came, Lukas"
+        "trs": "eventually I slept until the afternoon, (then) my husband came, Lukas",
+        "wlength": 1
     },
     {
         "categories": [
             "1sg",
             "poss"
         ],
+        "clength": 25,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{1sg}   \\textsc{poss}   date",
         "imtwordsbare": [
@@ -10533,13 +10916,15 @@
             "pu",
             "pacar"
         ],
-        "trs": "Nofita: my lover"
+        "trs": "Nofita: my lover",
+        "wlength": 4
     },
     {
         "categories": [
             "1pl",
             "1sg"
         ],
+        "clength": 93,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{1sg}}    {ask}   \\textsc{1pl}    {two}    {go.home}    {to}    {where}    {go.home}    {to}   Waim",
         "imtwordsbare": [
@@ -10616,12 +11001,14 @@
             "{ke}",
             "Waim"
         ],
-        "trs": "Maria: ah, this (is what) Papuans say \u2018my husband\u2019, my husband came, he said, \u2018we two go home\u2019, I asked, \u2018where do we two go home to?\u2019, \u2018(we) go home to Waim"
+        "trs": "Maria: ah, this (is what) Papuans say \u2018my husband\u2019, my husband came, he said, \u2018we two go home\u2019, I asked, \u2018where do we two go home to?\u2019, \u2018(we) go home to Waim",
+        "wlength": 10
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 92,
         "filename": "78/AB.tex",
         "imt": "{enter}    {very.soon}    {\\textsc{1pl}}    {two}    {get}    {be.dark}    {walk}    {be.fast}   already",
         "imtwordsbare": [
@@ -10692,7 +11079,8 @@
             "{cepat}",
             "suda"
         ],
-        "trs": "and then we two went home, on the way I rested, he said, \u2018let the two of us walk (on)!, the sun is already going down, in a short while, we\u2019ll be in the dark, walk fast already!"
+        "trs": "and then we two went home, on the way I rested, he said, \u2018let the two of us walk (on)!, the sun is already going down, in a short while, we\u2019ll be in the dark, walk fast already!",
+        "wlength": 9
     },
     {
         "categories": [
@@ -10701,6 +11089,7 @@
             "med",
             "rdp"
         ],
+        "clength": 102,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{reach}    {at}    {Waim}    {\\textsc{rdp}{\\Tilde}\\textsc{3pl}}   at    {\\textsc{l.med}}    {community}    {\\textsc{3pl}}   come",
@@ -10772,12 +11161,14 @@
             "{dong}",
             "datang"
         ],
-        "trs": "I and the man here, we two walked, \u2018come on!, we two walk fast already!, we two walk fast already!\u2019, the two of us walked, having arrived in Waim, all of them there, the whole community came"
+        "trs": "I and the man here, we two walked, \u2018come on!, we two walk fast already!, we two walk fast already!\u2019, the two of us walked, having arrived in Waim, all of them there, the whole community came",
+        "wlength": 9
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 97,
         "filename": "78/AB.tex",
         "imt": "{break}    {or}    {\\textsc{neg}}    {exist}    {be.empty}    {\\textsc{neg}}    {exist}    {bone}    {\\textsc{neg}}    {break}",
         "imtwordsbare": [
@@ -10854,12 +11245,14 @@
             "{tra}",
             "{pata}"
         ],
-        "trs": "they said, \u2018Ms. Mayor, did you fall?\u2019, \u2018yes, I fell\u2019, \u2018what happened?\u2019, \u2018I fell off the motorbike\u2019, \u2018are your bones already broken?\u2019, \u2018no, nothing (like that), no, the bones aren\u2019t broken"
+        "trs": "they said, \u2018Ms. Mayor, did you fall?\u2019, \u2018yes, I fell\u2019, \u2018what happened?\u2019, \u2018I fell off the motorbike\u2019, \u2018are your bones already broken?\u2019, \u2018no, nothing (like that), no, the bones aren\u2019t broken",
+        "wlength": 10
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 16,
         "filename": "78/AB.tex",
         "imt": "\\textsc{3pl}    {say}",
         "imtwordsbare": [
@@ -10888,10 +11281,12 @@
             "dong",
             "{bilang}"
         ],
-        "trs": "eventually I arrived, I slept, (I) slept, I woke up, then they said"
+        "trs": "eventually I arrived, I slept, (I) slept, I woke up, then they said",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 22,
         "filename": "78/AB.tex",
         "imt": "{} drink   medicine",
         "imtwordsbare": [
@@ -10926,13 +11321,15 @@
             "minum",
             "obat"
         ],
-        "trs": "Nofita: take (your) medicine"
+        "trs": "Nofita: take (your) medicine",
+        "wlength": 3
     },
     {
         "categories": [
             "poss",
             "rel"
         ],
+        "clength": 70,
         "filename": "78/AB.tex",
         "imt": "{medicine}    {bone}    {be.sick}    {\\textsc{poss}}    {shoulder}   \\textsc{rel}    {be.sick}",
         "imtwordsbare": [
@@ -10991,12 +11388,14 @@
             "yang",
             "{sakit}"
         ],
-        "trs": "Maria: \u2018take (your) medicine!\u2019, then I took my medicine for (my) hurting bone, (it was my) shoulder which was hurting (Lit. \u2018the hurting bone\u2019s (medicine)\u2019)"
+        "trs": "Maria: \u2018take (your) medicine!\u2019, then I took my medicine for (my) hurting bone, (it was my) shoulder which was hurting (Lit. \u2018the hurting bone\u2019s (medicine)\u2019)",
+        "wlength": 7
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 34,
         "filename": "78/AB.tex",
         "imt": "{cassava}   \\textsc{1sg}    {drink}    {again}",
         "imtwordsbare": [
@@ -11037,10 +11436,12 @@
             "{minum}",
             "{lagi}"
         ],
-        "trs": "I took (medicine), I took (medicine), when it was the middle of the night, I took (medicine) again, in the morning I woke up, I ate sago, (I) ate cassava, I took (medicine) again"
+        "trs": "I took (medicine), I took (medicine), when it was the middle of the night, I took (medicine) again, in the morning I woke up, I ate sago, (I) ate cassava, I took (medicine) again",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 16,
         "filename": "78/AB.tex",
         "imt": "{already}    {be.good}",
         "imtwordsbare": [
@@ -11069,13 +11470,15 @@
             "{suda}",
             "{baik}"
         ],
-        "trs": "then I stayed until the next day, by then my body already felt good"
+        "trs": "then I stayed until the next day, by then my body already felt good",
+        "wlength": 2
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 48,
         "filename": "78/AB.tex",
         "imt": "{child}    {male.nurse}    {at}    {Jayapura}    {\\textsc{d.prox}}",
         "imtwordsbare": [
@@ -11122,10 +11525,12 @@
             "{Jayapura}",
             "{ini}"
         ],
-        "trs": "and then, my child here, the male nurse, he came to pick me up, the two of us drove with (his) motorbike, with Roni, my young male nurse from Jayapura"
+        "trs": "and then, my child here, the male nurse, he came to pick me up, the two of us drove with (his) motorbike, with Roni, my young male nurse from Jayapura",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 11,
         "filename": "78/AB.tex",
         "imt": "{}    night",
         "imtwordsbare": [
@@ -11154,10 +11559,12 @@
             "MO:",
             "malam"
         ],
-        "trs": "[A guest arrives] MO: good evening"
+        "trs": "[A guest arrives] MO: good evening",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 21,
         "filename": "78/AB.tex",
         "imt": "{pity}    {love}",
         "imtwordsbare": [
@@ -11186,12 +11593,14 @@
             "{kasiang}",
             "{sayang}"
         ],
-        "trs": "the two of us came all the way here, Ms. Pastor here, she asked (me), \u2018did you fall?\u2019, \u2018yes, I fell off the motorbike\u2019, \u2018poor thing, (my) dear"
+        "trs": "the two of us came all the way here, Ms. Pastor here, she asked (me), \u2018did you fall?\u2019, \u2018yes, I fell off the motorbike\u2019, \u2018poor thing, (my) dear",
+        "wlength": 2
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 42,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{like.this}    {\\textsc{2sg}}    {fall}    {how}",
@@ -11233,7 +11642,8 @@
             "{jatu}",
             "{bagemana?}"
         ],
-        "trs": "I stayed here, I went to the hospital, I talked to the doctor, \u2018doctor, I fell off a motorbike\u2019, the doctor and his companions said like this, \u2018how did you fall off?"
+        "trs": "I stayed here, I went to the hospital, I talked to the doctor, \u2018doctor, I fell off a motorbike\u2019, the doctor and his companions said like this, \u2018how did you fall off?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -11241,6 +11651,7 @@
             "d",
             "dist"
         ],
+        "clength": 82,
         "filename": "78/AB.tex",
         "imt": "{rib}    {oh!}    {ah!}    {mother}    {\\textsc{d.dist}}    {only}    {\\textsc{2sg}}    {fall}    {feel.startled(.by)}",
         "imtwordsbare": [
@@ -11311,12 +11722,14 @@
             "{jatu}",
             "{kaget}"
         ],
-        "trs": "I said, \u2018I fell backwards like this, then the bone broke\u2019, I said, \u2018(it\u2019s my) shoulder bone which is broken, (my) ribs\u2019, \u2018oh!, ah, mother that is just because you\u2019re under shock"
+        "trs": "I said, \u2018I fell backwards like this, then the bone broke\u2019, I said, \u2018(it\u2019s my) shoulder bone which is broken, (my) ribs\u2019, \u2018oh!, ah, mother that is just because you\u2019re under shock",
+        "wlength": 9
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 67,
         "filename": "78/AB.tex",
         "imt": "{mother}    {drink}    {\\textsc{1sg}}    {say}    {doctor}    {thank.you}",
         "imtwordsbare": [
@@ -11369,7 +11782,8 @@
             "{dokter}",
             "{trima-kasi}"
         ],
-        "trs": "I said like this, \u2018oh no!, doctor, what\u2019s-its-name, I fell really painfully, (you) have to help me\u2019, \u2018ah mother, I give (you) medicine (and) you (\u2018mother\u2019) take (it)\u2019, I said, \u2018doctor, thank you"
+        "trs": "I said like this, \u2018oh no!, doctor, what\u2019s-its-name, I fell really painfully, (you) have to help me\u2019, \u2018ah mother, I give (you) medicine (and) you (\u2018mother\u2019) take (it)\u2019, I said, \u2018doctor, thank you",
+        "wlength": 6
     },
     {
         "categories": [
@@ -11377,6 +11791,7 @@
             "l",
             "prox"
         ],
+        "clength": 95,
         "filename": "78/AB.tex",
         "imt": "at    {\\textsc{l.prox}}    {one}    {week}    {uh}    {two}    {week}    {and.then}    {\\textsc{1sg}}    {go.home}",
         "imtwordsbare": [
@@ -11453,13 +11868,15 @@
             "{sa}",
             "{pulang}"
         ],
-        "trs": "I went home all the way to here, I told Ms. Pastor, \u2018Madam, give me water (so that) I (can) take (my) medicine\u2019, I stayed here for one week, uh, two weeks, only then did I return home"
+        "trs": "I went home all the way to here, I told Ms. Pastor, \u2018Madam, give me water (so that) I (can) take (my) medicine\u2019, I stayed here for one week, uh, two weeks, only then did I return home",
+        "wlength": 10
     },
     {
         "categories": [
             "l",
             "prox"
         ],
+        "clength": 25,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{reach}    {at}    {\\textsc{l.prox}}",
@@ -11495,12 +11912,14 @@
             "{di}",
             "{sini}"
         ],
-        "trs": "I went home to Waim again, and then we stayed (there), and then my community asked me, \u2018Madam, have you recovered?\u2019, I said, \u2018I\u2019ve recovered\u2019, thank you!, this is all (Lit. \u2018reach here\u2019)"
+        "trs": "I went home to Waim again, and then we stayed (there), and then my community asked me, \u2018Madam, have you recovered?\u2019, I said, \u2018I\u2019ve recovered\u2019, thank you!, this is all (Lit. \u2018reach here\u2019)",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 70,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{dog}    {search}    {pig}    {\\textsc{1sg}}    {feel.happy(.about)}    {eat}    {pig}",
@@ -11560,12 +11979,14 @@
             "{makang}",
             "{babi}"
         ],
-        "trs": "Iskia: so, one time I was at home, at night I had already thought, I told (my) wife, \u2018tomorrow I take the dogs and look for pigs\u2019, I like eating pig"
+        "trs": "Iskia: so, one time I was at home, at night I had already thought, I told (my) wife, \u2018tomorrow I take the dogs and look for pigs\u2019, I like eating pig",
+        "wlength": 7
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 20,
         "filename": "78/AB.tex",
         "imt": "{dog}    {\\textsc{3pl}}",
         "imtwordsbare": [
@@ -11594,13 +12015,15 @@
             "{anjing}",
             "{dorang}"
         ],
-        "trs": "we slept through the night until morning, I fed the dogs with papeda which my wife had prepared in the evening for the dogs"
+        "trs": "we slept through the night until morning, I fed the dogs with papeda which my wife had prepared in the evening for the dogs",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg",
             "spm"
         ],
+        "clength": 51,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{1sg}    {\\textsc{spm}{}-beat}    {arrow}   \\textsc{1sg}    {beat}    {arrow}",
@@ -11654,10 +12077,12 @@
             "{toki}",
             "{pana}"
         ],
-        "trs": "so, in the morning I got up, I fed the dogs, I took my short machete, my bow and arrows, I banged[\\textsc{spm}] (my) arrows, I banged my arrows"
+        "trs": "so, in the morning I got up, I fed the dogs, I took my short machete, my bow and arrows, I banged[\\textsc{spm}] (my) arrows, I banged my arrows",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 15,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{} bow.and.arrow",
@@ -11687,12 +12112,14 @@
             "Sarlota:",
             "jubi"
         ],
-        "trs": "Sarlota: (I banged my) bow and arrows"
+        "trs": "Sarlota: (I banged my) bow and arrows",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 59,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{} bow.and.arrow   dog   follow   \\textsc{1sg}   enter   at   forest",
@@ -11758,13 +12185,15 @@
             "di",
             "hutang"
         ],
-        "trs": "Iskia: (I banged my) bow and arrows, the dogs followed me entering the forest"
+        "trs": "Iskia: (I banged my) bow and arrows, the dogs followed me entering the forest",
+        "wlength": 8
     },
     {
         "categories": [
             "3pl",
             "neg"
         ],
+        "clength": 79,
         "filename": "78/AB.tex",
         "imt": "{pig}   oh!    {\\textsc{neg}}    {be.long}   again    {\\textsc{3pl}}    {already}    {give}    {stand}",
         "imtwordsbare": [
@@ -11836,13 +12265,15 @@
             "{kasi}",
             "{berdiri}"
         ],
-        "trs": "I walked all the way to the back of (my) garden, the dogs start barking (because they smelt) a pig, oh, not long after that they already had (the pig) standing (still)"
+        "trs": "I walked all the way to the back of (my) garden, the dogs start barking (because they smelt) a pig, oh, not long after that they already had (the pig) standing (still)",
+        "wlength": 9
     },
     {
         "categories": [
             "1sg",
             "3sg"
         ],
+        "clength": 73,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{with}    {bow.and.arrow}   \\textsc{1sg}    {bow.shoot}    {\\textsc{3sg}}    {immediately}   pig   die",
@@ -11908,13 +12339,15 @@
             "babi",
             "mati"
         ],
-        "trs": "I just ran closing in on the pig where the dogs were barking, then I started bow shooting (it), bow shooting (it) with (my) bow and arrows, I bow shot it, immediately the pig died"
+        "trs": "I just ran closing in on the pig where the dogs were barking, then I started bow shooting (it), bow shooting (it) with (my) bow and arrows, I bow shot it, immediately the pig died",
+        "wlength": 8
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 25,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{d.prox}}    {be.big}    {\\textsc{d.prox}}",
         "imtwordsbare": [
@@ -11950,12 +12383,14 @@
             "{besar}",
             "{ini}"
         ],
-        "trs": "wow!, the pig was very big, I alone could not transport it, I thought, \u2018oh no!, this pig, how am I going to transport (it), this (one) here is really big"
+        "trs": "wow!, the pig was very big, I alone could not transport it, I thought, \u2018oh no!, this pig, how am I going to transport (it), this (one) here is really big",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 29,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{and.then}    {\\textsc{1sg}}    {call}",
@@ -11991,12 +12426,14 @@
             "{saya}",
             "{panggil}"
         ],
-        "trs": "not long after that I heard there were voices, (there were) people, and then I called (them)"
+        "trs": "not long after that I heard there were voices, (there were) people, and then I called (them)",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 48,
         "filename": "78/AB.tex",
         "imt": "{already}    {kill}    {bow.shoot}    {\\textsc{3sg}}    {first.before.others}",
         "imtwordsbare": [
@@ -12044,12 +12481,14 @@
             "{dia}",
             "{kemuka}"
         ],
-        "trs": "they were three people, they came (and) heard, what\u2019s-its-name, the dogs barking at the pig, but in the meantime, because they were far away, (they) ran wanting to bow shoot the pig, to help me, but I had already killed (it), had bow shot (it) before the others"
+        "trs": "they were three people, they came (and) heard, what\u2019s-its-name, the dogs barking at the pig, but in the meantime, because they were far away, (they) ran wanting to bow shoot the pig, to help me, but I had already killed (it), had bow shot (it) before the others",
+        "wlength": 5
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 67,
         "filename": "78/AB.tex",
         "imt": "{stay}   \\textsc{1sg}    {say}    {just}    {pig}    {already}    {die}",
         "imtwordsbare": [
@@ -12108,12 +12547,14 @@
             "{suda}",
             "{mati}"
         ],
-        "trs": "when they arrived near me the pig was already dead, so it just remained for me to say, \u2018the pig is already dead"
+        "trs": "when they arrived near me the pig was already dead, so it just remained for me to say, \u2018the pig is already dead",
+        "wlength": 7
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 65,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{and.then}    {very.soon}    {\\textsc{1pl}}   cut   and.then    {very.soon}    {divide}",
@@ -12173,13 +12614,15 @@
             "{nanti}",
             "{bagi}"
         ],
-        "trs": "so later we\u2019ll try to carry the pig on our shoulders to the garden shelter, only then we\u2019ll cut it up, and then we\u2019ll distribute (it)"
+        "trs": "so later we\u2019ll try to carry the pig on our shoulders to the garden shelter, only then we\u2019ll cut it up, and then we\u2019ll distribute (it)",
+        "wlength": 7
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 49,
         "filename": "78/AB.tex",
         "imt": "\\textsc{d.dist}   pig    {bring}    {to}   house    {garden}",
         "imtwordsbare": [
@@ -12232,7 +12675,8 @@
             "ruma",
             "{kebung}"
         ],
-        "trs": "right after that, ah, we took it immediately, we shouldered it, the pig, (and) carried (it) to the garden shelter"
+        "trs": "right after that, ah, we took it immediately, we shouldered it, the pig, (and) carried (it) to the garden shelter",
+        "wlength": 6
     },
     {
         "categories": [
@@ -12241,6 +12685,7 @@
             "dist",
             "poss"
         ],
+        "clength": 50,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{household.head}   at    {\\textsc{1sg}}    {\\textsc{poss}}    {village}    {\\textsc{d.dist}}",
@@ -12294,12 +12739,14 @@
             "{kampung}",
             "{itu}"
         ],
-        "trs": "we cut (it) up that day, we divided (it) for us who cut (it) up that day, (and) then for the relatives and friends who live in the village, we counted (them), there are twenty one heads of households in that village of mine"
+        "trs": "we cut (it) up that day, we divided (it) for us who cut (it) up that day, (and) then for the relatives and friends who live in the village, we counted (them), there are twenty one heads of households in that village of mine",
+        "wlength": 6
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 41,
         "filename": "78/AB.tex",
         "imt": "{make.smaller}    {\\textsc{1sg}}   divide    {also}",
         "imtwordsbare": [
@@ -12340,12 +12787,14 @@
             "bagi",
             "{juga}"
         ],
-        "trs": "so, when I cut up this pig, the meat, I cut (it) into small pieces, (and) I distributed them"
+        "trs": "so, when I cut up this pig, the meat, I cut (it) into small pieces, (and) I distributed them",
+        "wlength": 4
     },
     {
         "categories": [
             "rdp"
         ],
+        "clength": 38,
         "filename": "78/AB.tex",
         "imt": "{} cut   \\textsc{rdp}{\\Tilde}be.small",
         "imtwordsbare": [
@@ -12380,12 +12829,14 @@
             "potong",
             "kecil{\\Tilde}kecil"
         ],
-        "trs": "Sarlota: (I) cut (it into) small (pieces)"
+        "trs": "Sarlota: (I) cut (it into) small (pieces)",
+        "wlength": 3
     },
     {
         "categories": [
             "tru"
         ],
+        "clength": 40,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{\\textsc{tru}{}-part}   two   tens   one    {part}",
@@ -12433,13 +12884,15 @@
             "satu",
             "{bagiang}"
         ],
-        "trs": "Iskia: small (pieces), and then I divided (them) into twenty parts[\\textsc{tru}], twenty one parts"
+        "trs": "Iskia: small (pieces), and then I divided (them) into twenty parts[\\textsc{tru}], twenty one parts",
+        "wlength": 5
     },
     {
         "categories": [
             "1pl",
             "recp"
         ],
+        "clength": 79,
         "filename": "78/AB.tex",
         "imt": "\\textsc{1pl}    {already}   bring    {each}    {\\textsc{1pl}}    {already}   \\textsc{recp}    {divide}",
         "imtwordsbare": [
@@ -12504,12 +12957,14 @@
             "baku",
             "{bagi}"
         ],
-        "trs": "when we went home, (when) we went home[\\textsc{tru}], those four people, we brought (the meat) already (having been divided up), each of us, we had already divided (the meat) with each other"
+        "trs": "when we went home, (when) we went home[\\textsc{tru}], those four people, we brought (the meat) already (having been divided up), each of us, we had already divided (the meat) with each other",
+        "wlength": 8
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 25,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{1pl}    {divide}    {night}",
@@ -12545,13 +13000,15 @@
             "{bagi}",
             "{malam}"
         ],
-        "trs": "later you give (the meat) to other friends and relatives, later I\u2019ll also distribute (it to) other friends and relatives, (we) already have (our) share, it remains that we bring (our share home), having arrived home, it was already afternoon, we distributed (the meat until) the evening"
+        "trs": "later you give (the meat) to other friends and relatives, later I\u2019ll also distribute (it to) other friends and relatives, (we) already have (our) share, it remains that we bring (our share home), having arrived home, it was already afternoon, we distributed (the meat until) the evening",
+        "wlength": 3
     },
     {
         "categories": [
             "1pl",
             "rel"
         ],
+        "clength": 55,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{1pl}   bring    {meat}    {who}    {\\textsc{rel}}    {get}",
@@ -12606,12 +13063,14 @@
             "{yang}",
             "{dapat?}"
         ],
-        "trs": "the relatives and friends wanted to cook vegetables, as (they) saw that we brought (them) meat (they asked us), \u2018who (is the one) who got (the pig)?"
+        "trs": "the relatives and friends wanted to cook vegetables, as (they) saw that we brought (them) meat (they asked us), \u2018who (is the one) who got (the pig)?",
+        "wlength": 6
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 41,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{deliver}    {for}    {sibling}    {\\textsc{3pl}}",
@@ -12653,12 +13112,14 @@
             "{sodara}",
             "{dorang}"
         ],
-        "trs": "(I) said, \u2018(it was) me who went hunting this morning, (who) took the dogs and then got this pig, coincidentally, this is the meat which I brought, (which I) delivered for (my) relatives"
+        "trs": "(I) said, \u2018(it was) me who went hunting this morning, (who) took the dogs and then got this pig, coincidentally, this is the meat which I brought, (which I) delivered for (my) relatives",
+        "wlength": 4
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 98,
         "filename": "78/AB.tex",
         "imt": "{because}    {\\textsc{1pl}}    {be.able}    {cook}    {meat}    {sibling}    {hunt}    {meat}   pig",
         "imtwordsbare": [
@@ -12729,10 +13190,12 @@
             "{daging,}",
             "babi"
         ],
-        "trs": "they said, \u2018thank you!, we were going to eat vegetables tonight, but, yes, you brother brought (us) meat, we say thank you, because (now) we can cook meat, (you) brother hunted meat, a pig"
+        "trs": "they said, \u2018thank you!, we were going to eat vegetables tonight, but, yes, you brother brought (us) meat, we say thank you, because (now) we can cook meat, (you) brother hunted meat, a pig",
+        "wlength": 9
     },
     {
         "categories": [],
+        "clength": 67,
         "filename": "78/AB.tex",
         "imt": "{if}   want    {eat}    {pig}    {have.to}    {bring}    {dog}",
         "imtwordsbare": [
@@ -12792,13 +13255,15 @@
             "{bawa}",
             "{anjing}"
         ],
-        "trs": "so, what\u2019s-its-name, the life of (us) Papuan people here is like this: if (you) want to eat pig, (you) have to take dogs (with you)"
+        "trs": "so, what\u2019s-its-name, the life of (us) Papuan people here is like this: if (you) want to eat pig, (you) have to take dogs (with you)",
+        "wlength": 7
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 24,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "yes    {similar.to}    {\\textsc{d.dist}}",
@@ -12834,7 +13299,8 @@
             "{sperti}",
             "{itu}"
         ],
-        "trs": "then, this was the story when we go hunting and use dogs, yes, it\u2019s like that"
+        "trs": "then, this was the story when we go hunting and use dogs, yes, it\u2019s like that",
+        "wlength": 3
     },
     {
         "categories": [
@@ -12843,6 +13309,7 @@
             "dist",
             "rel"
         ],
+        "clength": 47,
         "filename": "78/AB.tex",
         "imt": "{}  \\textsc{rel}   Matias   \\textsc{3sg}   exist   be.sick   \\textsc{d.dist}",
         "imtwordsbare": [
@@ -12901,12 +13368,14 @@
             "sakit",
             "itu?"
         ],
-        "trs": "Wili: where Matias was sick?"
+        "trs": "Wili: where Matias was sick?",
+        "wlength": 7
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 44,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{very.soon}    {if}    {\\textsc{2sg}}    {not.yet}    {know}",
@@ -12954,13 +13423,15 @@
             "{blum}",
             "{taw}"
         ],
-        "trs": "Natalia: yes, Matias was sick there, look toward the ocean, they made (the statue) like this, big is its statue, and then, ah, they built it well, (they) cemented it very well, later (you\u2019ll see it), if you don\u2019t know (it) yet"
+        "trs": "Natalia: yes, Matias was sick there, look toward the ocean, they made (the statue) like this, big is its statue, and then, ah, they built it well, (they) cemented it very well, later (you\u2019ll see it), if you don\u2019t know (it) yet",
+        "wlength": 5
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 43,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "go    {see}    {monument}    {\\textsc{d.dist}}    {or}",
@@ -13008,10 +13479,12 @@
             "{itu}",
             "{ka?}"
         ],
-        "trs": "later ask Matias, say (to him), \u2018will you Matias take me to go and see that statue?"
+        "trs": "later ask Matias, say (to him), \u2018will you Matias take me to go and see that statue?",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 25,
         "filename": "78/AB.tex",
         "imt": "{} ascend   to   top",
         "imtwordsbare": [
@@ -13052,13 +13525,15 @@
             "ke",
             "atas?"
         ],
-        "trs": "Wili: (to get there one has to) climb up (the hill)?"
+        "trs": "Wili: (to get there one has to) climb up (the hill)?",
+        "wlength": 4
     },
     {
         "categories": [
             "l",
             "med"
         ],
+        "clength": 22,
         "filename": "78/AB.tex",
         "imt": "{hospital}    {\\textsc{l.med}}",
         "imtwordsbare": [
@@ -13087,12 +13562,14 @@
             "{ruma-sakit}",
             "{situ}"
         ],
-        "trs": "Natalia: (you) don\u2019t (have to) climb, (the statue) is close to that government clinic, the hospital there"
+        "trs": "Natalia: (you) don\u2019t (have to) climb, (the statue) is close to that government clinic, the hospital there",
+        "wlength": 2
     },
     {
         "categories": [
             "neg"
         ],
+        "clength": 18,
         "filename": "78/AB.tex",
         "imt": "{}   \\textsc{neg}   see",
         "imtwordsbare": [
@@ -13127,12 +13604,14 @@
             "tra",
             "liat"
         ],
-        "trs": "Wili: (I) didn\u2019t see (it)"
+        "trs": "Wili: (I) didn\u2019t see (it)",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 75,
         "coordination": "or",
         "filename": "78/AB.tex",
         "imt": "{\\textsc{3sg}}    {feel.afraid(.of)}    {tree}    {be.shaken}    {so}    {\\textsc{3sg}}    {cry}",
@@ -13193,12 +13672,14 @@
             "{menangis}"
         ],
         "time": "future",
-        "trs": "Natalia: you haven\u2019t yet seen (the statue)?, ah, later on, maybe Matias or maybe tomorrow (you) walk (there) with me (\u2018aunt\u2019), and then I (\u2018aunt\u2019) will show, and then I\u2019ll show (you) the tree which Matias was afraid of, the shaking tree, uh Ise, Ise was afraid of the shaking tree, so she cried"
+        "trs": "Natalia: you haven\u2019t yet seen (the statue)?, ah, later on, maybe Matias or maybe tomorrow (you) walk (there) with me (\u2018aunt\u2019), and then I (\u2018aunt\u2019) will show, and then I\u2019ll show (you) the tree which Matias was afraid of, the shaking tree, uh Ise, Ise was afraid of the shaking tree, so she cried",
+        "wlength": 7
     },
     {
         "categories": [
             "rel"
         ],
+        "clength": 34,
         "filename": "78/AB.tex",
         "imt": "{} \\textsc{rel}   near   hospital",
         "imtwordsbare": [
@@ -13239,10 +13720,12 @@
             "dekat",
             "ruma-sakit?"
         ],
-        "trs": "Wili: (the one) which is close to the hospital?"
+        "trs": "Wili: (the one) which is close to the hospital?",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 16,
         "filename": "78/AB.tex",
         "imt": "{}  at   where",
         "imtwordsbare": [
@@ -13277,10 +13760,12 @@
             "di",
             "mana?"
         ],
-        "trs": "MC: where?"
+        "trs": "MC: where?",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 56,
         "filename": "78/AB.tex",
         "imt": "{}  at   near   hospital   side   sea   first",
         "imtwordsbare": [
@@ -13339,12 +13824,14 @@
             "laut",
             "dulu"
         ],
-        "trs": "Natalia: (it) is close to the hospital toward the ocean, in the past"
+        "trs": "Natalia: (it) is close to the hospital toward the ocean, in the past",
+        "wlength": 7
     },
     {
         "categories": [
             "rel"
         ],
+        "clength": 39,
         "filename": "78/AB.tex",
         "imt": "{} \\textsc{rel}   near   exist   house   right?",
         "imtwordsbare": [
@@ -13397,10 +13884,12 @@
             "ruma",
             "to?"
         ],
-        "trs": "Wili: close by where the houses are, right?"
+        "trs": "Wili: close by where the houses are, right?",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 22,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{}    {until}",
@@ -13430,13 +13919,15 @@
             "{((pause))}",
             "{sampe}"
         ],
-        "trs": "Natalia: mhm, the houses along the beach, so this has been magnificent\\footnote{This clause refers to the story about the statue and the tree which the narrator had told before being asked for directions.} ((pause)) until"
+        "trs": "Natalia: mhm, the houses along the beach, so this has been magnificent\\footnote{This clause refers to the story about the statue and the tree which the narrator had told before being asked for directions.} ((pause)) until",
+        "wlength": 2
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 21,
         "filename": "78/AB.tex",
         "imt": "{} now   \\textsc{d.prox}",
         "imtwordsbare": [
@@ -13471,13 +13962,15 @@
             "skarang",
             "ini"
         ],
-        "trs": "Wili: now!"
+        "trs": "Wili: now!",
+        "wlength": 3
     },
     {
         "categories": [
             "d",
             "dist"
         ],
+        "clength": 14,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "be.usual    {\\textsc{d.dist}}",
@@ -13508,12 +14001,14 @@
             "{itu}"
         ],
         "time": "present",
-        "trs": "Natalia: now (after this experience with the statue and the tree), I returned (to Jayapura), (I) went home (after having finished) college, (then) I (stayed) in Pante-Timur, (in) Takar, (then I came) here, all this, God made it wonderful"
+        "trs": "Natalia: now (after this experience with the statue and the tree), I returned (to Jayapura), (I) went home (after having finished) college, (then) I (stayed) in Pante-Timur, (in) Takar, (then I came) here, all this, God made it wonderful",
+        "wlength": 2
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 87,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{from}    {health}    {\\textsc{1pl}}    {be.able}    {see}    {from}    {health}    {ah!}",
@@ -13579,10 +14074,12 @@
             "{kesehatang,}",
             "{a}"
         ],
-        "trs": "Natalia: so there\u2019re two (issues related to sterility), if, for example, we\u2019ve already, (if) we\u2019ve already paid the bride price, right? and (if) that woman, (if) she doesn\u2019t get pregnant, well, maybe there is a problem regarding[\\textsc{tru}], due to health (issues), we can see (that the problem of sterility) is due to a health (problem), ah! (Lit. \u2018from health\u2019)"
+        "trs": "Natalia: so there\u2019re two (issues related to sterility), if, for example, we\u2019ve already, (if) we\u2019ve already paid the bride price, right? and (if) that woman, (if) she doesn\u2019t get pregnant, well, maybe there is a problem regarding[\\textsc{tru}], due to health (issues), we can see (that the problem of sterility) is due to a health (problem), ah! (Lit. \u2018from health\u2019)",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 26,
         "coordination": "or",
         "filename": "78/AB.tex",
         "imt": "{child}    {same}    {very}",
@@ -13618,10 +14115,12 @@
             "{sama}",
             "{skali}"
         ],
-        "trs": "it\u2019s also possible that there is the thought, (that) that man, (that) he\u2019s sterile or (that) that woman, (that) she\u2019s sterile, for that reason there aren\u2019t any children at all"
+        "trs": "it\u2019s also possible that there is the thought, (that) that man, (that) he\u2019s sterile or (that) that woman, (that) she\u2019s sterile, for that reason there aren\u2019t any children at all",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 50,
         "filename": "78/AB.tex",
         "imt": "ah!   very.soon   see   stay   stay   stay",
         "imtwordsbare": [
@@ -13674,12 +14173,14 @@
             "tinggal,",
             "tinggal"
         ],
-        "trs": "ah, later (we\u2019ll) see, (we\u2019ll) wait, wait, (and) wait"
+        "trs": "ah, later (we\u2019ll) see, (we\u2019ll) wait, wait, (and) wait",
+        "wlength": 6
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 43,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{3sg}}    {marry.unofficially}    {woman}    {be.different}",
         "imtwordsbare": [
@@ -13721,7 +14222,8 @@
             "{prempuang}",
             "{laing}"
         ],
-        "trs": "if that woman (or) man, (if) he/she wants offsprings, right?, (if) he/she also wants to have children, the Papuan people\u2019s habit, ah, (when) he/she here, what\u2019s-its-name, marries (then) there have to be children because he/she has to have offsprings, ah, (otherwise) later that man, he\u2019ll marry a different woman"
+        "trs": "if that woman (or) man, (if) he/she wants offsprings, right?, (if) he/she also wants to have children, the Papuan people\u2019s habit, ah, (when) he/she here, what\u2019s-its-name, marries (then) there have to be children because he/she has to have offsprings, ah, (otherwise) later that man, he\u2019ll marry a different woman",
+        "wlength": 4
     },
     {
         "categories": [
@@ -13729,6 +14231,7 @@
             "neg",
             "prox"
         ],
+        "clength": 70,
         "filename": "78/AB.tex",
         "imt": "{be.sterile}    {woman}    {\\textsc{d.prox}}    {\\textsc{neg}}    {exist}   child    {like.that}",
         "imtwordsbare": [
@@ -13787,7 +14290,8 @@
             "ana,",
             "{begitu}"
         ],
-        "trs": "ah, (when) he marries a different woman, (and when) that woman has children (we\u2019ll know), \u2018oh, in that case, (it\u2019s) this (first) woman who\u2019s sterile, this (first) woman doesn\u2019t have children\u2019, (it\u2019s) like that"
+        "trs": "ah, (when) he marries a different woman, (and when) that woman has children (we\u2019ll know), \u2018oh, in that case, (it\u2019s) this (first) woman who\u2019s sterile, this (first) woman doesn\u2019t have children\u2019, (it\u2019s) like that",
+        "wlength": 7
     },
     {
         "categories": [
@@ -13795,6 +14299,7 @@
             "dist",
             "uv"
         ],
+        "clength": 74,
         "filename": "78/AB.tex",
         "imt": "{if}    {\\textsc{d.dist}}    {indeed}    {uh}    {\\textsc{uv}{}-see}    {from}    {health}",
         "imtwordsbare": [
@@ -13853,10 +14358,12 @@
             "{dari}",
             "{kesehatang}"
         ],
-        "trs": "but if, for example, the woman leaves (her) husband (and if) the woman marries a different man (and if) that woman has children (we\u2019ll know), \u2018oh, (it\u2019s) the (first) man who\u2019s sterile\u2019, if it\u2019s like that indeed, umh, (the issue of sterility) is due to a health (problem)"
+        "trs": "but if, for example, the woman leaves (her) husband (and if) the woman marries a different man (and if) that woman has children (we\u2019ll know), \u2018oh, (it\u2019s) the (first) man who\u2019s sterile\u2019, if it\u2019s like that indeed, umh, (the issue of sterility) is due to a health (problem)",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 12,
         "filename": "78/AB.tex",
         "imt": "{} yes",
         "imtwordsbare": [
@@ -13885,12 +14392,14 @@
             "Author:",
             "yo"
         ],
-        "trs": "Author: yes"
+        "trs": "Author: yes",
+        "wlength": 2
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 31,
         "filename": "78/AB.tex",
         "imt": "if    {\\textsc{1pl}}   think    {right?}",
         "imtwordsbare": [
@@ -13931,7 +14440,8 @@
             "pikir",
             "{to?}"
         ],
-        "trs": "Natalia: (it\u2019s) like that, but if we\u2019ve already paid the bride price, if we think, right?"
+        "trs": "Natalia: (it\u2019s) like that, but if we\u2019ve already paid the bride price, if we think, right?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -13939,6 +14449,7 @@
             "d",
             "prox"
         ],
+        "clength": 60,
         "filename": "78/AB.tex",
         "imt": "{be.pregnant}    {oh!}    {\\textsc{d.prox}}    {woman}    {\\textsc{3sg}}    {be.sterile}",
         "imtwordsbare": [
@@ -13992,13 +14503,15 @@
             "{de}",
             "{mandul}"
         ],
-        "trs": "oh, maybe we haven\u2019t yet paid the bride price, (and that\u2019s the reason why) she\u2019s not pregnant\u2019, but then we pay the bride price, (and we) wait, wait, wait, (and) wait, (we) settle all problems what(ever they may be, and) the woman is (still) not pregnant, (then we\u2019ll know,) \u2018oh, this is because the woman is sterile"
+        "trs": "oh, maybe we haven\u2019t yet paid the bride price, (and that\u2019s the reason why) she\u2019s not pregnant\u2019, but then we pay the bride price, (and we) wait, wait, wait, (and) wait, (we) settle all problems what(ever they may be, and) the woman is (still) not pregnant, (then we\u2019ll know,) \u2018oh, this is because the woman is sterile",
+        "wlength": 6
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 72,
         "filename": "78/AB.tex",
         "imt": "{and.then}    {oh!}    {if}    {like.that}    {woman}    {\\textsc{d.prox}}    {be.sterile}",
         "imtwordsbare": [
@@ -14058,10 +14571,12 @@
             "{ini}",
             "{mandul}"
         ],
-        "trs": "if someone isn\u2019t a Christian yet (and) is not a servant of God, (if) he marries another woman, (if) he marries another (woman and) that woman has children, (if) he marries another (woman and) the woman has children, then (we\u2019ll know), \u2018oh, if it\u2019s like that, (then) this (first) woman is sterile\u2019 (Lit. \u2018if someone hasn\u2019t yet repented\u2019)"
+        "trs": "if someone isn\u2019t a Christian yet (and) is not a servant of God, (if) he marries another woman, (if) he marries another (woman and) that woman has children, (if) he marries another (woman and) the woman has children, then (we\u2019ll know), \u2018oh, if it\u2019s like that, (then) this (first) woman is sterile\u2019 (Lit. \u2018if someone hasn\u2019t yet repented\u2019)",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 31,
         "filename": "78/AB.tex",
         "imt": "{so}    {be.sterile}    {like.that}",
         "imtwordsbare": [
@@ -14096,12 +14611,14 @@
             "{mandul,}",
             "{begitu}"
         ],
-        "trs": "he/she doesn\u2019t, the Papuan people say \u2018[Is]\u2019, that is to say, that person doesn\u2019t have children, (he/she\u2019s) sterile, so, his/her, (he/she) doesn\u2019t have children, so (he/she\u2019s) sterile, (it\u2019s) like that"
+        "trs": "he/she doesn\u2019t, the Papuan people say \u2018[Is]\u2019, that is to say, that person doesn\u2019t have children, (he/she\u2019s) sterile, so, his/her, (he/she) doesn\u2019t have children, so (he/she\u2019s) sterile, (it\u2019s) like that",
+        "wlength": 3
     },
     {
         "categories": [
             "1pl"
         ],
+        "clength": 33,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "\\textsc{1pl}    {two}    {split}    {and.then}",
@@ -14143,13 +14660,15 @@
             "{bla,}",
             "{baru}"
         ],
-        "trs": "Wili: Nofi, in a moment you chase (me down to the water), you observe (me), you wait, we two crack (the coconut) open, and then"
+        "trs": "Wili: Nofi, in a moment you chase (me down to the water), you observe (me), you wait, we two crack (the coconut) open, and then",
+        "wlength": 4
     },
     {
         "categories": [
             "2pl",
             "neg"
         ],
+        "clength": 72,
         "coordination": "or",
         "filename": "78/AB.tex",
         "imt": "{splinter}    {\\textsc{2pl}}    {hear}   or    {\\textsc{neg}}    {too}    {be.mischievous}",
@@ -14209,7 +14728,8 @@
             "{terlalu}",
             "{nakal}"
         ],
-        "trs": "Nofita: don\u2019t (go down to the beach, it\u2019s) dirty, and later you\u2019ll run into broken glass and cans, are you listening or not?!, (you\u2019re) too naughty!"
+        "trs": "Nofita: don\u2019t (go down to the beach, it\u2019s) dirty, and later you\u2019ll run into broken glass and cans, are you listening or not?!, (you\u2019re) too naughty!",
+        "wlength": 7
     },
     {
         "categories": [
@@ -14218,6 +14738,7 @@
             "pat",
             "rdp"
         ],
+        "clength": 62,
         "filename": "78/AB.tex",
         "imt": "\\textsc{2pl}    {\\textsc{rdp}{\\Tilde}hear\\textsc{:pat}}    {\\textsc{2pl}}    {search}    {what}",
         "imtwordsbare": [
@@ -14264,7 +14785,8 @@
             "{cari}",
             "{apa?}"
         ],
-        "trs": "Nofita: (I have) a headache, I can\u2019t talk much, you listen to me!, what are you looking for?"
+        "trs": "Nofita: (I have) a headache, I can\u2019t talk much, you listen to me!, what are you looking for?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -14274,6 +14796,7 @@
             "poss",
             "rdp"
         ],
+        "clength": 71,
         "filename": "78/AB.tex",
         "imt": "{}  ah!   \\textsc{neg.imp}   Nofi   where   \\textsc{1pl}   \\textsc{poss}   \\textsc{rdp}{\\Tilde}fish",
         "imtwordsbare": [
@@ -14338,7 +14861,8 @@
             "pu",
             "ikang{\\Tilde}ikang?"
         ],
-        "trs": "Wili: ah, don\u2019t!, Nofi, where are our fish?"
+        "trs": "Wili: ah, don\u2019t!, Nofi, where are our fish?",
+        "wlength": 8
     },
     {
         "categories": [
@@ -14346,6 +14870,7 @@
             "l",
             "prox"
         ],
+        "clength": 42,
         "filename": "78/AB.tex",
         "imt": "{} \\textsc{1sg}   already   put   at   bucket   \\textsc{l.prox}",
         "imtwordsbare": [
@@ -14404,7 +14929,8 @@
             "ember",
             "sini"
         ],
-        "trs": "Nofi: I already put (the fish) in the bucket here"
+        "trs": "Nofi: I already put (the fish) in the bucket here",
+        "wlength": 7
     },
     {
         "categories": [
@@ -14412,6 +14938,7 @@
             "dist",
             "l"
         ],
+        "clength": 59,
         "filename": "78/AB.tex",
         "imt": "{} \\textsc{2pl}   two   go   rinse   body   at   sea   \\textsc{l.dist}",
         "imtwordsbare": [
@@ -14482,13 +15009,15 @@
             "laut",
             "sana"
         ],
-        "trs": "Nofita: you two go rinse (your) bodies in the ocean over there"
+        "trs": "Nofita: you two go rinse (your) bodies in the ocean over there",
+        "wlength": 9
     },
     {
         "categories": [
             "d",
             "prox"
         ],
+        "clength": 16,
         "filename": "78/AB.tex",
         "imt": "{} exist   \\textsc{d.prox}",
         "imtwordsbare": [
@@ -14523,12 +15052,14 @@
             "ada",
             "ni"
         ],
-        "trs": "Nofi: (the fish) are here"
+        "trs": "Nofi: (the fish) are here",
+        "wlength": 3
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 42,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{\\textsc{3pl}}    {}    {oh.no!}",
@@ -14564,7 +15095,8 @@
             "{\\upshape\\textsc{[up]}}",
             "{adu}"
         ],
-        "trs": "Nofita: rinse (your) bodies, then wash (your) trousers in the ocean, and then put them on (and) come here, (they) make (all their clothes) dirty, I\u2019m half dead (from) washing, I\u2019m also tired of washing clothes, these kids make (their trousers) dirty, they [\\textsc{up}] oh no!"
+        "trs": "Nofita: rinse (your) bodies, then wash (your) trousers in the ocean, and then put them on (and) come here, (they) make (all their clothes) dirty, I\u2019m half dead (from) washing, I\u2019m also tired of washing clothes, these kids make (their trousers) dirty, they [\\textsc{up}] oh no!",
+        "wlength": 3
     },
     {
         "categories": [
@@ -14572,6 +15104,7 @@
             "med",
             "rdp"
         ],
+        "clength": 76,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{\\textsc{rdp}{\\Tilde}jump}    {\\textsc{l.med}}    {exist}    {\\textsc{rdp}{\\Tilde}metal}    {many}",
@@ -14619,10 +15152,12 @@
             "{besi{\\Tilde}besi}",
             "{banyak}"
         ],
-        "trs": "hey, you two go bathe in the ocean already!, and then you two wash (your) trousers there, after that put (them) on (and) come up (to the house), don\u2019t jump up and down, there are lots of metal pieces over there"
+        "trs": "hey, you two go bathe in the ocean already!, and then you two wash (your) trousers there, after that put (them) on (and) come up (to the house), don\u2019t jump up and down, there are lots of metal pieces over there",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 42,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{} mhm   splinter   also   many",
@@ -14670,10 +15205,12 @@
             "juga",
             "banyak"
         ],
-        "trs": "Anelia: mhm, (at the beach there) are also lots of broken glass and cans (Lit. \u2018the splinters are also many\u2019)"
+        "trs": "Anelia: mhm, (at the beach there) are also lots of broken glass and cans (Lit. \u2018the splinters are also many\u2019)",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 26,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{} splinter   many",
@@ -14709,12 +15246,14 @@
             "picaang",
             "banyak"
         ],
-        "trs": "Nofita: (there) are lots of broken glass and cans"
+        "trs": "Nofita: (there) are lots of broken glass and cans",
+        "wlength": 3
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 89,
         "filename": "78/AB.tex",
         "imt": "start    {order}    {draw}    {already}    {\\textsc{3pl}}    {start}    {all}    {\\textsc{3pl}}   draw",
         "imtwordsbare": [
@@ -14785,12 +15324,14 @@
             "{dong}",
             "gambar"
         ],
-        "trs": "(in) this school, Ms. (Teacher) starts ordering the school kids to start drawing a monkey on a banana tree, well, Ms. Teacher orders (them to) draw, well, they start, they all draw (a picture)"
+        "trs": "(in) this school, Ms. (Teacher) starts ordering the school kids to start drawing a monkey on a banana tree, well, Ms. Teacher orders (them to) draw, well, they start, they all draw (a picture)",
+        "wlength": 9
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 73,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{tree}    {banana}    {like.this}    {\\textsc{3pl}}    {bring}    {to}    {front}",
@@ -14850,13 +15391,15 @@
             "{ke}",
             "{depang}"
         ],
-        "trs": "but then this particular small child, he doesn\u2019t draw, this particular school kid, he doesn\u2019t draw, well, he draws a stone (instead), and then he draws this monkey under the banana tree, it goes on like this (and) they bring (their drawings) to the front"
+        "trs": "but then this particular small child, he doesn\u2019t draw, this particular school kid, he doesn\u2019t draw, well, he draws a stone (instead), and then he draws this monkey under the banana tree, it goes on like this (and) they bring (their drawings) to the front",
+        "wlength": 7
     },
     {
         "categories": [
             "dist",
             "l"
         ],
+        "clength": 73,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{monkey}   at    {bottom}    {tree}    {banana}    {bring}   to    {\\textsc{l.dist}}",
@@ -14922,12 +15465,14 @@
             "ke",
             "{sana}"
         ],
-        "trs": "Ms. (Teacher) says, \u2018when I (\u2018Ms.\u2019) knock (on) the table, (you) bring (your pictures) together to the front immediately\u2019, then the guy thinks on and on (but) nothing happens, as it goes on like this immediately Ms.[\\textsc{tru}], Ms. (Teacher) hits the table, \u2018bang!\u2019, immediately the guy draws [\\textsc{up}], what\u2019s-its-name, a monkey under a banana tree (and) brings it to the front"
+        "trs": "Ms. (Teacher) says, \u2018when I (\u2018Ms.\u2019) knock (on) the table, (you) bring (your pictures) together to the front immediately\u2019, then the guy thinks on and on (but) nothing happens, as it goes on like this immediately Ms.[\\textsc{tru}], Ms. (Teacher) hits the table, \u2018bang!\u2019, immediately the guy draws [\\textsc{up}], what\u2019s-its-name, a monkey under a banana tree (and) brings it to the front",
+        "wlength": 8
     },
     {
         "categories": [
             "2sg"
         ],
+        "clength": 82,
         "filename": "78/AB.tex",
         "imt": "{why}    {\\textsc{2sg}}    {draw}    {monkey}    {at}    {bottom}    {tree}    {banana}",
         "imtwordsbare": [
@@ -14992,7 +15537,8 @@
             "{pohong}",
             "{pisang?}"
         ],
-        "trs": "Ms. (Teacher) says, uh, after Ms. (Teacher) has finished checking (the pictures), Ms. (Teacher) asks (them), \u2018this (picture here), whose is (it)?\u2019, he says, \u2018Madam, (it\u2019s) mine\u2019, she asks (him), the guy comes to the front, Ms. (Teacher) asks him, \u2018why did you draw the monkey under the banana tree?"
+        "trs": "Ms. (Teacher) says, uh, after Ms. (Teacher) has finished checking (the pictures), Ms. (Teacher) asks (them), \u2018this (picture here), whose is (it)?\u2019, he says, \u2018Madam, (it\u2019s) mine\u2019, she asks (him), the guy comes to the front, Ms. (Teacher) asks him, \u2018why did you draw the monkey under the banana tree?",
+        "wlength": 8
     },
     {
         "categories": [
@@ -15001,6 +15547,7 @@
             "dist",
             "rel"
         ],
+        "clength": 62,
         "filename": "78/AB.tex",
         "imt": "{\\textsc{d.dist}}    {\\textsc{rel}}    {monkey}   \\textsc{3sg}    {fall}    {from}    {top}",
         "imtwordsbare": [
@@ -15059,12 +15606,14 @@
             "{dari}",
             "{atas}"
         ],
-        "trs": "he says, \u2018oh no!, Madam!, a little bit earlier you (\u2018Madam\u2019) knocked on the table, that\u2019s why the monkey fell off from the top (of the banana plant)"
+        "trs": "he says, \u2018oh no!, Madam!, a little bit earlier you (\u2018Madam\u2019) knocked on the table, that\u2019s why the monkey fell off from the top (of the banana plant)",
+        "wlength": 7
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 80,
         "filename": "78/AB.tex",
         "imt": "{three}    {tail}    {\\textsc{3pl}}    {two}    {start}    {land}    {to}    {land}",
         "imtwordsbare": [
@@ -15129,12 +15678,14 @@
             "{ke}",
             "{darat}"
         ],
-        "trs": "the two \\ili{Biak} guys are fishing, they are fishing, fishing, fishing, fishing, eventually the two of them get these fish, three (of them), having gotten three fish, the two of them start landing on the shore"
+        "trs": "the two \\ili{Biak} guys are fishing, they are fishing, fishing, fishing, fishing, eventually the two of them get these fish, three (of them), having gotten three fish, the two of them start landing on the shore",
+        "wlength": 8
     },
     {
         "categories": [
             "1sg"
         ],
+        "clength": 42,
         "filename": "78/AB.tex",
         "imt": "{bring}    {one}   \\textsc{1sg}    {bring}    {one}",
         "imtwordsbare": [
@@ -15181,10 +15732,12 @@
             "{bawa}",
             "{satu}"
         ],
-        "trs": "having arrived on the shore, the two of them start dividing the fish, he starts to, his friend, uh, starts to say, \u2018you friend take one (and) I take one"
+        "trs": "having arrived on the shore, the two of them start dividing the fish, he starts to, his friend, uh, starts to say, \u2018you friend take one (and) I take one",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 49,
         "filename": "78/AB.tex",
         "imt": "{again}    {friend}    {one}    {divide}    {again}",
         "imtwordsbare": [
@@ -15231,12 +15784,14 @@
             "{bagi}",
             "{lagi}"
         ],
-        "trs": "then he says, \u2018ugh!, but what about this one?\u2019, he, his friend says, \u2018ah, you\u2019ve divided (the fish) incorrectly\u2019, (they) put (the fish back) together again, (that) one friend divides them again"
+        "trs": "then he says, \u2018ugh!, but what about this one?\u2019, he, his friend says, \u2018ah, you\u2019ve divided (the fish) incorrectly\u2019, (they) put (the fish back) together again, (that) one friend divides them again",
+        "wlength": 5
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 76,
         "filename": "78/AB.tex",
         "imt": "{receive}    {good}    {again}    {\\textsc{3sg}}    {join}    {again}    {}",
         "imtwordsbare": [
@@ -15295,13 +15850,15 @@
             "{lagi}",
             "{((laughter))}"
         ],
-        "trs": "(you) get one, I (get) one\u2019, \u2018(and) this one?\u2019 again his friend doesn\u2019t accept (the result of this dividing,) well, he puts (them back) together again ((laughter))"
+        "trs": "(you) get one, I (get) one\u2019, \u2018(and) this one?\u2019 again his friend doesn\u2019t accept (the result of this dividing,) well, he puts (them back) together again ((laughter))",
+        "wlength": 7
     },
     {
         "categories": [
             "2pl",
             "recp"
         ],
+        "clength": 52,
         "filename": "78/AB.tex",
         "imt": "hey!    {\\textsc{2pl}}   two    {\\textsc{recp}}    {fight}    {what}",
         "imtwordsbare": [
@@ -15354,7 +15911,8 @@
             "{melawang}",
             "{apa?}"
         ],
-        "trs": "the two of them continue dividing (the fish) just like that, eventually an Ayamaru guy comes by, having come by, he says, \u2018hey, about what are you two fighting with each other?"
+        "trs": "the two of them continue dividing (the fish) just like that, eventually an Ayamaru guy comes by, having come by, he says, \u2018hey, about what are you two fighting with each other?",
+        "wlength": 6
     },
     {
         "categories": [
@@ -15362,6 +15920,7 @@
             "prox",
             "rel"
         ],
+        "clength": 55,
         "filename": "78/AB.tex",
         "imt": "{and.then}    {\\textsc{rel}}    {\\textsc{d.prox}}    {very.soon}    {to}    {where}",
         "imtwordsbare": [
@@ -15414,13 +15973,15 @@
             "{ke}",
             "{mana?}"
         ],
-        "trs": "he says, \u2018uncle, what\u2019s-its-name, the two of us are fighting each other because of the fish, we two divide (it), he (has) one (fish), I (have) one (fish), but where does this one go?"
+        "trs": "he says, \u2018uncle, what\u2019s-its-name, the two of us are fighting each other because of the fish, we two divide (it), he (has) one (fish), I (have) one (fish), but where does this one go?",
+        "wlength": 6
     },
     {
         "categories": [
             "3pl",
             "3sg"
         ],
+        "clength": 62,
         "coordination": "and",
         "filename": "78/AB.tex",
         "imt": "{and}   \\textsc{3pl}    {walk}    {\\textsc{3sg}}    {say}   be.exact    {right?}",
@@ -15480,10 +16041,12 @@
             "pas",
             "{to?}"
         ],
-        "trs": "he says, \u2018that (is one) which is still waiting for me\u2019 he takes (it) and they walk (away), and he says, \u2018that fits, right?"
+        "trs": "he says, \u2018that (is one) which is still waiting for me\u2019 he takes (it) and they walk (away), and he says, \u2018that fits, right?",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 42,
         "filename": "78/AB.tex",
         "imt": "{for.that.reason}    {go.to.school}    {and.then}    {be.clever}",
         "imtwordsbare": [
@@ -15524,6 +16087,7 @@
             "{baru}",
             "{pintar}"
         ],
-        "trs": "he says, \u2018friend, that\u2019s (what) I already told (you), that\u2019s why you should go to school, then you\u2019ll be clever"
+        "trs": "he says, \u2018friend, that\u2019s (what) I already told (you), that\u2019s why you should go to school, then you\u2019ll be clever",
+        "wlength": 4
     }
 ]

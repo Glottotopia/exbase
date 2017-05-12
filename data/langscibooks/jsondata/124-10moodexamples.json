@@ -7,6 +7,7 @@
             "imp",
             "ins"
         ],
+        "clength": 94,
         "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} go\\_out to outside \\textsc{imp} take hither \\textsc{ins} water \\textsc{ben.1sg.a} for drink",
@@ -96,13 +97,15 @@
             "mo",
             "unu."
         ],
-        "trs": "Go outside and bring water for me to drink.\u2019 \\textstyleExampleref{[R229.231]}"
+        "trs": "Go outside and bring water for me to drink.\u2019 \\textstyleExampleref{[R229.231]}",
+        "wlength": 12
     },
     {
         "categories": [
             "2pl",
             "imp"
         ],
+        "clength": 43,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} enter hither \\textsc{2pl} to inside",
         "imtwordsbare": [
@@ -155,7 +158,8 @@
             "ki",
             "roto."
         ],
-        "trs": "Come in (said to two people).\u2019 \\textstyleExampleref{[R229.261]}"
+        "trs": "Come in (said to two people).\u2019 \\textstyleExampleref{[R229.261]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -163,6 +167,7 @@
             "imp",
             "voc"
         ],
+        "clength": 46,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} wake\\_up hither \\textsc{2sg} \\textsc{voc} Mum \\textsc{voc}",
         "imtwordsbare": [
@@ -221,7 +226,8 @@
             "nua",
             "\u0113."
         ],
-        "trs": "Wake up, Mum.\u2019 \\textstyleExampleref{[R229.315]}"
+        "trs": "Wake up, Mum.\u2019 \\textstyleExampleref{[R229.315]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -230,6 +236,7 @@
             "exh",
             "irr"
         ],
+        "clength": 75,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{irr} go\\_ashore \\textsc{2pl} to inland \\textsc{exh} look away \\textsc{2pl} to \\textsc{art} islet",
         "imtwordsbare": [
@@ -318,7 +325,8 @@
             "te",
             "motu."
         ],
-        "trs": "When you go ashore, watch towards the islet.\u2019 \\textstyleExampleref{[Ley-2-02.005]}"
+        "trs": "When you go ashore, watch towards the islet.\u2019 \\textstyleExampleref{[Ley-2-02.005]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -327,6 +335,7 @@
             "exh",
             "prop"
         ],
+        "clength": 48,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{exh} care\\_for \\textsc{2pl} \\textsc{acc} \\textsc{prop} Puakiva",
         "imtwordsbare": [
@@ -379,7 +388,8 @@
             "a",
             "Puakiva."
         ],
-        "trs": "Take care of Puakiva.\u2019 \\textstyleExampleref{[R229.420\u2013421]}"
+        "trs": "Take care of Puakiva.\u2019 \\textstyleExampleref{[R229.420\u2013421]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -389,6 +399,7 @@
             "imp",
             "poss"
         ],
+        "clength": 54,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} wake\\_up hither \\textsc{2sg} \\textsc{imp} eat \\textsc{poss.2sg.a} of \\textsc{art} food",
         "imtwordsbare": [
@@ -465,7 +476,8 @@
             "te",
             "kai."
         ],
-        "trs": "Wake up, eat some food (lit. your [part] of the food).\u2019 \\textstyleExampleref{[R310.104]}"
+        "trs": "Wake up, eat some food (lit. your [part] of the food).\u2019 \\textstyleExampleref{[R310.104]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -477,6 +489,7 @@
             "prop",
             "prox"
         ],
+        "clength": 59,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} \\textsc{caus} stay just away \\textsc{2sg} \\textsc{acc} \\textsc{prop} \\textsc{1sg} at \\textsc{prox}",
         "imtwordsbare": [
@@ -559,7 +572,8 @@
             "{\\\ua78c}i",
             "nei."
         ],
-        "trs": "Let me just stay here.\u2019 \\textstyleExampleref{[R229.013]}"
+        "trs": "Let me just stay here.\u2019 \\textstyleExampleref{[R229.013]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -571,6 +585,7 @@
             "imp",
             "voc"
         ],
+        "clength": 74,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{voc} \\textsc{art} king \\textsc{voc} \\textsc{voc} Tu\u2019u Koihu \\textsc{voc} \\textsc{imp} give hither \\textsc{2sg}  \\textsc{acc} \\textsc{art}:of \\textsc{1pl.excl} statue",
         "imtwordsbare": [
@@ -683,7 +698,8 @@
             "m\u0101tou",
             "m\u014dai."
         ],
-        "trs": "O king Tu\u2019u Koihu, give us a statue (lit. our statue).\u2019 \\textstyleExampleref{[Mtx-4-01.048]}"
+        "trs": "O king Tu\u2019u Koihu, give us a statue (lit. our statue).\u2019 \\textstyleExampleref{[Mtx-4-01.048]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -695,6 +711,7 @@
             "incl",
             "voc"
         ],
+        "clength": 71,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{caus} ready \\textsc{2sg} \\textsc{voc} Mum \\textsc{voc} for kindle \\textsc{acc} \\textsc{art}:of \\textsc{1pl.incl} earth\\_oven tomorrow",
         "imtwordsbare": [
@@ -789,7 +806,8 @@
             "{\\\ua78c}umu",
             "\u0101p\u014d."
         ],
-        "trs": "Get ready, Mum, to light our earth oven tomorrow.\u2019 \\textstyleExampleref{[R352.041]}"
+        "trs": "Get ready, Mum, to light our earth oven tomorrow.\u2019 \\textstyleExampleref{[R352.041]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -798,6 +816,7 @@
             "imp",
             "red"
         ],
+        "clength": 108,
         "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} person all \\textsc{imp} go all \\textsc{imp} dress:\\textsc{red} \\textsc{acc} \\textsc{art} clothes black:\\textsc{red}",
@@ -887,7 +906,8 @@
             "kahu",
             "{\\\ua78c}uri{\\\ua78c}uri."
         ],
-        "trs": "All the people must go and put on black clothes.\u2019 \\textstyleExampleref{[R210.164]}"
+        "trs": "All the people must go and put on black clothes.\u2019 \\textstyleExampleref{[R210.164]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -897,6 +917,7 @@
             "pred",
             "prox"
         ],
+        "clength": 101,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} thing \\textsc{prox} \\textsc{pred} dive \\textsc{ipfv} exist \\textsc{art} \\textsc{pl} thing \\textsc{prox} \\textsc{pred} harpoon \\textsc{pred} glass \\textsc{pred} swim\\_fin",
         "imtwordsbare": [
@@ -1015,7 +1036,8 @@
             "he",
             "raperape..."
         ],
-        "trs": "For underwater fishing, you need (lit. there should be) the following things: a harpoon, glasses, fins...\u2019 \\textstyleExampleref{[R360.001]}"
+        "trs": "For underwater fishing, you need (lit. there should be) the following things: a harpoon, glasses, fins...\u2019 \\textstyleExampleref{[R360.001]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -1025,6 +1047,7 @@
             "hort",
             "incl"
         ],
+        "clength": 54,
         "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{hort} sit \\textsc{1pl.incl} \\textsc{hort} think like \\textsc{cq} \\textsc{art} manner of \\textsc{art} sea",
@@ -1114,7 +1137,8 @@
             "te",
             "vaikava."
         ],
-        "trs": "Let\u2019s sit down and think about what the sea is like.\u2019 \\textstyleExampleref{[R334.173]}"
+        "trs": "Let\u2019s sit down and think about what the sea is like.\u2019 \\textstyleExampleref{[R334.173]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -1122,6 +1146,7 @@
             "hort",
             "voc"
         ],
+        "clength": 36,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{hort} go\\_up \\textsc{voc} Mum \\textsc{voc} to above to \\textsc{art} boat",
         "imtwordsbare": [
@@ -1198,7 +1223,8 @@
             "te",
             "vaka."
         ],
-        "trs": "Let\u2019s go out (to sea), Mum, by boat.\u2019 \\textstyleExampleref{[R368.024]}"
+        "trs": "Let\u2019s go out (to sea), Mum, by boat.\u2019 \\textstyleExampleref{[R368.024]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -1207,6 +1233,7 @@
             "excl",
             "hort"
         ],
+        "clength": 49,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{hort} make \\textsc{art} face live for \\textsc{art}:of \\textsc{1pl.excl} old\\_man",
         "imtwordsbare": [
@@ -1277,13 +1304,15 @@
             "m\u0101tou",
             "korohu{\\\ua78c}a?"
         ],
-        "trs": "Shall we make a memento (lit. living face) for our father?\u2019 \\textstyleExampleref{[Ley-4-06.004]}"
+        "trs": "Shall we make a memento (lit. living face) for our father?\u2019 \\textstyleExampleref{[Ley-4-06.004]}",
+        "wlength": 9
     },
     {
         "categories": [
             "hort",
             "voc"
         ],
+        "clength": 34,
         "filename": "124/10mood.tex",
         "imt": "come\\_on \\textsc{voc} Dad \\textsc{voc} \\textsc{hort} go\\_out to outside",
         "imtwordsbare": [
@@ -1348,7 +1377,8 @@
             "ki",
             "haho."
         ],
-        "trs": "Come on, Dad, let\u2019s go outside.\u2019 \\textstyleExampleref{[R229.107]}"
+        "trs": "Come on, Dad, let\u2019s go outside.\u2019 \\textstyleExampleref{[R229.107]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1357,6 +1387,7 @@
             "hort",
             "incl"
         ],
+        "clength": 27,
         "filename": "124/10mood.tex",
         "imt": "hither \\textsc{hort} go\\_down \\textsc{emph} \\textsc{1du.incl} to sea",
         "imtwordsbare": [
@@ -1415,7 +1446,8 @@
             "ki",
             "tai."
         ],
-        "trs": "Come, let\u2019s go to the seaside.\u2019 \\textstyleExampleref{[R245.112]}\\textstyleExampleref{}"
+        "trs": "Come, let\u2019s go to the seaside.\u2019 \\textstyleExampleref{[R245.112]}\\textstyleExampleref{}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -1425,6 +1457,7 @@
             "cont",
             "prf"
         ],
+        "clength": 30,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prf} know \\textsc{cont} \\textsc{2sg} \\textsc{acc} \\textsc{art} to\\_fish",
         "imtwordsbare": [
@@ -1483,7 +1516,8 @@
             "te",
             "h\u012b?"
         ],
-        "trs": "Do you know how to fish?\u2019 \\textstyleExampleref{[R245.101]}"
+        "trs": "Do you know how to fish?\u2019 \\textstyleExampleref{[R245.101]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -1492,6 +1526,7 @@
             "neg",
             "ntr"
         ],
+        "clength": 37,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{neg} really \\textsc{2sg} \\textsc{ntr} go to \\textsc{art} learn",
         "imtwordsbare": [
@@ -1556,7 +1591,8 @@
             "te",
             "h\u0101p\u012b?"
         ],
-        "trs": "Don\u2019t you go to school?\u2019 \\textstyleExampleref{[R245.086]}"
+        "trs": "Don\u2019t you go to school?\u2019 \\textstyleExampleref{[R245.086]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1567,6 +1603,7 @@
             "emph",
             "ipfv"
         ],
+        "clength": 53,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{ipfv} correct \\textsc{emph} \\textsc{dub} \\textsc{art} thing think \\textsc{dist} \\textsc{ag} Tuki for do",
         "imtwordsbare": [
@@ -1655,7 +1692,8 @@
             "mo",
             "a\u014ba?"
         ],
-        "trs": "Is it correct what Tuki plans to do?\u2019 \\textstyleExampleref{[R535.211]}"
+        "trs": "Is it correct what Tuki plans to do?\u2019 \\textstyleExampleref{[R535.211]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -1666,6 +1704,7 @@
             "prop",
             "red"
         ],
+        "clength": 51,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{ins} food rotten:\\textsc{red} really \\textsc{irr} give hither to \\textsc{prop} \\textsc{1du.excl}",
         "imtwordsbare": [
@@ -1742,7 +1781,8 @@
             "a",
             "m\u0101ua?"
         ],
-        "trs": "Are you giving us rotten food?\u2019 \\textstyleExampleref{[R310.260]}"
+        "trs": "Are you giving us rotten food?\u2019 \\textstyleExampleref{[R310.260]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -1752,6 +1792,7 @@
             "ipfv",
             "pq"
         ],
+        "clength": 31,
         "filename": "124/10mood.tex",
         "imt": "~~\\textsc{pq} \\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{art} family",
         "imtwordsbare": [
@@ -1810,7 +1851,8 @@
             "te",
             "famiria?"
         ],
-        "trs": "You have a family (don\u2019t you)?\u2019 \\textstyleExampleref{[R103.093]}"
+        "trs": "You have a family (don\u2019t you)?\u2019 \\textstyleExampleref{[R103.093]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -1824,6 +1866,7 @@
             "prf",
             "prox"
         ],
+        "clength": 55,
         "filename": "124/10mood.tex",
         "imt": "~~\\textsc{pq} \\textsc{prf} perceive \\textsc{cont} \\textsc{ag} \\textsc{2sg} \\textsc{art} spirit \\textsc{prox} of\\textsc{.a} Hina",
         "imtwordsbare": [
@@ -1906,7 +1949,8 @@
             "{\\\ua78c}a",
             "Hina?"
         ],
-        "trs": "Did you hear Hina\u2019s dream?\u2019 \\textstyleExampleref{[R313.087]}"
+        "trs": "Did you hear Hina\u2019s dream?\u2019 \\textstyleExampleref{[R313.087]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -1917,6 +1961,7 @@
             "pq",
             "prf"
         ],
+        "clength": 49,
         "filename": "124/10mood.tex",
         "imt": "~~\\textsc{pq} \\textsc{prf} see \\textsc{cont} \\textsc{ag} \\textsc{2sg} \\textsc{art} devil first",
         "imtwordsbare": [
@@ -1987,7 +2032,8 @@
             "t\u0101tane",
             "ra{\\\ua78c}e?"
         ],
-        "trs": "Have you ever seen a devil?\u2019 \\textstyleExampleref{[R215.029]}"
+        "trs": "Have you ever seen a devil?\u2019 \\textstyleExampleref{[R215.029]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -1998,6 +2044,7 @@
             "ipfv",
             "pq"
         ],
+        "clength": 50,
         "filename": "124/10mood.tex",
         "imt": "~~\\textsc{pq} \\textsc{ipfv} raise \\textsc{emph} \\textsc{2sg} \\textsc{acc} \\textsc{art} house of \\textsc{art} man to below",
         "imtwordsbare": [
@@ -2092,7 +2139,8 @@
             "ki",
             "raro?"
         ],
-        "trs": "(one wind to another:) Could you destroy someone\u2019s house (lit. raise down a house of a man)?!\u2019 \\textstyleExampleref{[R314.121]}\\textstyleExampleref{}"
+        "trs": "(one wind to another:) Could you destroy someone\u2019s house (lit. raise down a house of a man)?!\u2019 \\textstyleExampleref{[R314.121]}\\textstyleExampleref{}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -2100,6 +2148,7 @@
             "conneg",
             "prom"
         ],
+        "clength": 36,
         "filename": "124/10mood.tex",
         "imt": "~~~~~\\textsc{conneg} \\textsc{prom} Vivika ~~~yes \\textsc{prom} \\textsc{3sg}",
         "imtwordsbare": [
@@ -2152,7 +2201,8 @@
             "Ko",
             "ia."
         ],
-        "trs": "\u2014Isn\u2019t that Vivika? \u2014Yes, it\u2019s her.\u2019 \\textstyleExampleref{[R415.947]}"
+        "trs": "\u2014Isn\u2019t that Vivika? \u2014Yes, it\u2019s her.\u2019 \\textstyleExampleref{[R415.947]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2165,6 +2215,7 @@
             "poss",
             "prom"
         ],
+        "clength": 84,
         "filename": "124/10mood.tex",
         "imt": "~~~~~\\textsc{neg.pfv} want really \\textsc{2sg} \\textsc{prom} \\textsc{1sg} \\textsc{ident} \\textsc{poss.2sg.o} parent   ~~~\\textsc{neg}~ \\textsc{poss.1sg.o} really \\textsc{ident}",
         "imtwordsbare": [
@@ -2260,7 +2311,8 @@
             "mau",
             "{\\\ua78c}\u0101."
         ],
-        "trs": "\u2014Don\u2019t you want me to be your father? \u2014No, I want my own (father).\u2019 \\textstyleExampleref{[Mtx-7-26.036\u2013037]}"
+        "trs": "\u2014Don\u2019t you want me to be your father? \u2014No, I want my own (father).\u2019 \\textstyleExampleref{[Mtx-7-26.036\u2013037]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -2270,6 +2322,7 @@
             "pred",
             "red"
         ],
+        "clength": 59,
         "filename": "124/10mood.tex",
         "imt": "~~~~~\\textsc{neg~} \\textsc{pred} chair ~~~~yes \\textsc{ipfv} sit:\\textsc{red} just \\textsc{cont} at below",
         "imtwordsbare": [
@@ -2346,13 +2399,15 @@
             "{\\\ua78c}i",
             "raro."
         ],
-        "trs": "\u2014There were no chairs? \u2014Indeed. They sat on the floor.\u2019 \\textstyleExampleref{[R413.635]}"
+        "trs": "\u2014There were no chairs? \u2014Indeed. They sat on the floor.\u2019 \\textstyleExampleref{[R413.635]}",
+        "wlength": 10
     },
     {
         "categories": [
             "2sg",
             "prom"
         ],
+        "clength": 11,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} who \\textsc{2sg}",
         "imtwordsbare": [
@@ -2387,7 +2442,8 @@
             "ai",
             "koe?"
         ],
-        "trs": "Who are you?\u2019 \\textstyleExampleref{[R304.097]}"
+        "trs": "Who are you?\u2019 \\textstyleExampleref{[R304.097]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -2395,6 +2451,7 @@
             "dist",
             "prom"
         ],
+        "clength": 40,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} who \\textsc{art} old\\_woman \\textsc{dist} of back there",
         "imtwordsbare": [
@@ -2459,7 +2516,8 @@
             "tu{\\\ua78c}a",
             "{\\\ua78c}ai?"
         ],
-        "trs": "Who is the old woman there in the back?\u2019 \\textstyleExampleref{[R416.1092]}"
+        "trs": "Who is the old woman there in the back?\u2019 \\textstyleExampleref{[R416.1092]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -2469,6 +2527,7 @@
             "pfv",
             "prox"
         ],
+        "clength": 34,
         "filename": "124/10mood.tex",
         "imt": "~of\\textsc{.a} who \\textsc{pfv} make \\textsc{art} necklace \\textsc{prox}",
         "imtwordsbare": [
@@ -2527,7 +2586,8 @@
             "korone",
             "nei?"
         ],
-        "trs": "Who made this necklace?\u2019 \\textstyleExampleref{[R208.263]}"
+        "trs": "Who made this necklace?\u2019 \\textstyleExampleref{[R208.263]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2536,6 +2596,7 @@
             "a",
             "ipfv"
         ],
+        "clength": 27,
         "filename": "124/10mood.tex",
         "imt": "~for\\textsc{.a} who \\textsc{2sg} \\textsc{ipfv} care\\_for",
         "imtwordsbare": [
@@ -2582,7 +2643,8 @@
             "e",
             "h\u0101pa{\\\ua78c}o?"
         ],
-        "trs": "Who will take care of you?\u2019 \\textstyleExampleref{[R438.011]}"
+        "trs": "Who will take care of you?\u2019 \\textstyleExampleref{[R438.011]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -2592,6 +2654,7 @@
             "art",
             "ins"
         ],
+        "clength": 47,
         "filename": "124/10mood.tex",
         "imt": "~of\\textsc{.a} who \\textsc{2pl} \\textsc{art} help away \\textsc{ins} money",
         "imtwordsbare": [
@@ -2656,7 +2719,8 @@
             "hai",
             "moni...?"
         ],
-        "trs": "Who helped you with money...?\u2019 \\textstyleExampleref{[R621.024]}"
+        "trs": "Who helped you with money...?\u2019 \\textstyleExampleref{[R621.024]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -2665,6 +2729,7 @@
             "dist",
             "prom"
         ],
+        "clength": 43,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} who \\textsc{art} thing bite \\textsc{dist} \\textsc{acc} \\textsc{art} meat there",
         "imtwordsbare": [
@@ -2741,7 +2806,8 @@
             "kiko",
             "{\\\ua78c}ai?"
         ],
-        "trs": "Who is the one biting the meat there?\u2019 \\textstyleExampleref{[R416.1310]}"
+        "trs": "Who is the one biting the meat there?\u2019 \\textstyleExampleref{[R416.1310]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -2750,6 +2816,7 @@
             "pfv",
             "prom"
         ],
+        "clength": 46,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} who \\textsc{art} people first \\textsc{pfv} arrive to \\textsc{ana}",
         "imtwordsbare": [
@@ -2820,7 +2887,8 @@
             "ki",
             "ira...?"
         ],
-        "trs": "Who were the first people who arrived there...?\u2019 \\textstyleExampleref{[R616.390]}"
+        "trs": "Who were the first people who arrived there...?\u2019 \\textstyleExampleref{[R616.390]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -2832,6 +2900,7 @@
             "med",
             "prom"
         ],
+        "clength": 47,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} who \\textsc{art} thing \\textsc{med} \\textsc{ag} \\textsc{2pl} \\textsc{cntg} \\textsc{caus} run \\textsc{med}",
         "imtwordsbare": [
@@ -2915,13 +2984,15 @@
             "tere",
             "ena?"
         ],
-        "trs": "(If everybody wants to govern the island,) whom will you govern?\u2019 \\textstyleExampleref{[R647.370]}"
+        "trs": "(If everybody wants to govern the island,) whom will you govern?\u2019 \\textstyleExampleref{[R647.370]}",
+        "wlength": 11
     },
     {
         "categories": [
             "pfv",
             "prom"
         ],
+        "clength": 14,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} who \\textsc{pfv} die",
         "imtwordsbare": [
@@ -2962,13 +3033,15 @@
             "i",
             "mate?"
         ],
-        "trs": "Who died?\u2019 \\textstyleExampleref{[MsE-046.009]}"
+        "trs": "Who died?\u2019 \\textstyleExampleref{[MsE-046.009]}",
+        "wlength": 4
     },
     {
         "categories": [
             "art",
             "prox"
         ],
+        "clength": 22,
         "filename": "124/10mood.tex",
         "imt": "~of who \\textsc{art} house \\textsc{prox}",
         "imtwordsbare": [
@@ -3015,7 +3088,8 @@
             "hare",
             "nei?"
         ],
-        "trs": "Whose house is this (lit. whose is this house)?\u2019 \\textstyleExampleref{[R208.194]}"
+        "trs": "Whose house is this (lit. whose is this house)?\u2019 \\textstyleExampleref{[R208.194]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -3026,6 +3100,7 @@
             "ipfv",
             "prom"
         ],
+        "clength": 49,
         "filename": "124/10mood.tex",
         "imt": "~of\\textsc{.a} who \\textsc{art} woman \\textsc{dist} \\textsc{ipfv} say \\textsc{dist} \\textsc{prom} Campana",
         "imtwordsbare": [
@@ -3102,7 +3177,8 @@
             "ko",
             "Campana?"
         ],
-        "trs": "Whose (wife) is the woman called Campana?\u2019 \\textstyleExampleref{[R416.1164]}"
+        "trs": "Whose (wife) is the woman called Campana?\u2019 \\textstyleExampleref{[R416.1164]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3110,6 +3186,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 73,
         "filename": "124/10mood.tex",
         "imt": "~to \\textsc{prop} who \\textsc{prop} Omoanga \\textsc{pfv} accustomed \\textsc{pvp} at Orongo",
         "imtwordsbare": [
@@ -3186,7 +3263,8 @@
             "{\\\ua78c}i",
             "{\\\ua78c}\u014cro\u014bo?"
         ],
-        "trs": "Who did Omoanga get to know in Orongo?\u2019 \\textstyleExampleref{[R616.017]}"
+        "trs": "Who did Omoanga get to know in Orongo?\u2019 \\textstyleExampleref{[R616.017]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3194,6 +3272,7 @@
             "dist",
             "prop"
         ],
+        "clength": 95,
         "filename": "124/10mood.tex",
         "imt": "~at near at \\textsc{prop} who \\textsc{prop} Eva \\textsc{cntg} stay \\textsc{dist} at \\textsc{prop} Chile",
         "imtwordsbare": [
@@ -3288,7 +3367,8 @@
             "a",
             "Tire?"
         ],
-        "trs": "With whom would Eva stay in Chile?\u2019 \\textstyleExampleref{[R615.660]}"
+        "trs": "With whom would Eva stay in Chile?\u2019 \\textstyleExampleref{[R615.660]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -3296,6 +3376,7 @@
             "dist",
             "prom"
         ],
+        "clength": 29,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} who \\textsc{art} name of \\textsc{dist} place",
         "imtwordsbare": [
@@ -3354,7 +3435,8 @@
             "r\u0101",
             "kona?"
         ],
-        "trs": "What is the name of that place?\u2019 \\textstyleExampleref{[R124.014]}\\textstyleExampleref{}"
+        "trs": "What is the name of that place?\u2019 \\textstyleExampleref{[R124.014]}\\textstyleExampleref{}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -3363,6 +3445,7 @@
             "ident",
             "pred"
         ],
+        "clength": 41,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{pred} what \\textsc{art} thing \\textsc{dist} like \\textsc{pred} flower \\textsc{ident}",
         "imtwordsbare": [
@@ -3433,13 +3516,15 @@
             "tiare",
             "{\\\ua78c}\u0101?"
         ],
-        "trs": "What are those things (that look) like flowers?\u2019 \\textstyleExampleref{[R210.195]}"
+        "trs": "What are those things (that look) like flowers?\u2019 \\textstyleExampleref{[R210.195]}",
+        "wlength": 9
     },
     {
         "categories": [
             "2pl",
             "pred"
         ],
+        "clength": 14,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{pred} what \\textsc{2pl}",
         "imtwordsbare": [
@@ -3474,7 +3559,8 @@
             "aha",
             "k\u014drua?"
         ],
-        "trs": "What (kind of people) are you?\u2019 \\textstyleExampleref{[Egt-02.137]}"
+        "trs": "What (kind of people) are you?\u2019 \\textstyleExampleref{[Egt-02.137]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -3483,6 +3569,7 @@
             "pred",
             "prop"
         ],
+        "clength": 36,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{pred} who \\textsc{art} thing \\textsc{pfv} happen to \\textsc{prop} Dad",
         "imtwordsbare": [
@@ -3553,7 +3640,8 @@
             "a",
             "koro?"
         ],
-        "trs": "What happened to Dad?\u2019 \\textstyleExampleref{[R615.594]}"
+        "trs": "What happened to Dad?\u2019 \\textstyleExampleref{[R615.594]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -3562,6 +3650,7 @@
             "pfv",
             "pred"
         ],
+        "clength": 35,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{pred} what \\textsc{art} thing \\textsc{pfv} say away \\textsc{ag} Kihi",
         "imtwordsbare": [
@@ -3632,7 +3721,8 @@
             "e",
             "Kihi?"
         ],
-        "trs": "What did Kihi say?\u2019 \\textstyleExampleref{[R615.738]}"
+        "trs": "What did Kihi say?\u2019 \\textstyleExampleref{[R615.738]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -3641,6 +3731,7 @@
             "pfv",
             "pred"
         ],
+        "clength": 43,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{pred} what \\textsc{art} \\textsc{2pl} thing \\textsc{pfv} do at Apina",
         "imtwordsbare": [
@@ -3711,7 +3802,8 @@
             "i",
             "{\\\ua78c}Apina?"
         ],
-        "trs": "What did you do in Apina?\u2019 \\textstyleExampleref{[R301.197]}"
+        "trs": "What did you do in Apina?\u2019 \\textstyleExampleref{[R301.197]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -3720,6 +3812,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 51,
         "filename": "124/10mood.tex",
         "imt": "~because\\_of \\textsc{art} what \\textsc{prop} Mako\u2019i \\textsc{pfv} go hither \\textsc{pvp} to \\textsc{prop} Paepae",
         "imtwordsbare": [
@@ -3808,7 +3901,8 @@
             "a",
             "Paepae?"
         ],
-        "trs": "Why did Mako\u2019i go to Paepae?\u2019 \\textstyleExampleref{[R615.699]}"
+        "trs": "Why did Mako\u2019i go to Paepae?\u2019 \\textstyleExampleref{[R615.699]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -3817,6 +3911,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 34,
         "filename": "124/10mood.tex",
         "imt": "~by above at \\textsc{art} what \\textsc{2sg} \\textsc{pfv} go hither \\textsc{pvp}",
         "imtwordsbare": [
@@ -3893,7 +3988,8 @@
             "mai",
             "ai?"
         ],
-        "trs": "By/on what (means of transport) did you come?\u2019 \\textstyleExampleref{[R245.178]}"
+        "trs": "By/on what (means of transport) did you come?\u2019 \\textstyleExampleref{[R245.178]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3903,6 +3999,7 @@
             "prop",
             "prox"
         ],
+        "clength": 40,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{ins} what \\textsc{prop} \\textsc{1sg} \\textsc{cntg} gift \\textsc{prox} to \\textsc{prop} Ravira",
         "imtwordsbare": [
@@ -3979,7 +4076,8 @@
             "a",
             "Ravira?"
         ],
-        "trs": "What (lit. with what) will I give as a present to Ravira?\u2019 \\textstyleExampleref{[R175.002]}"
+        "trs": "What (lit. with what) will I give as a present to Ravira?\u2019 \\textstyleExampleref{[R175.002]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3988,6 +4086,7 @@
             "med",
             "voc"
         ],
+        "clength": 39,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{voc} dear\\_child \\textsc{voc} ~for what \\textsc{2sg} \\textsc{ipfv} ask hither \\textsc{med}",
         "imtwordsbare": [
@@ -4064,7 +4163,8 @@
             "mai",
             "ena?"
         ],
-        "trs": "Dear child, for what (purpose) are you asking (this)?\u2019 \\textstyleExampleref{[R250.114]}"
+        "trs": "Dear child, for what (purpose) are you asking (this)?\u2019 \\textstyleExampleref{[R250.114]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -4073,6 +4173,7 @@
             "med",
             "pred"
         ],
+        "clength": 23,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{pred} what \\textsc{2sg} \\textsc{ipfv} cry \\textsc{med}",
         "imtwordsbare": [
@@ -4125,13 +4226,15 @@
             "ta\u014bi",
             "ena?"
         ],
-        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[Ley-9-55.064]}"
+        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[Ley-9-55.064]}",
+        "wlength": 6
     },
     {
         "categories": [
             "art",
             "cntg"
         ],
+        "clength": 37,
         "filename": "124/10mood.tex",
         "imt": "~~time what \\textsc{art} airplane \\textsc{cntg} arrive hither",
         "imtwordsbare": [
@@ -4190,7 +4293,8 @@
             "tu{\\\ua78c}u",
             "mai?"
         ],
-        "trs": "What time does the plane arrive?\u2019 \\textstyleExampleref{[R208.214]}"
+        "trs": "What time does the plane arrive?\u2019 \\textstyleExampleref{[R208.214]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -4198,6 +4302,7 @@
             "cntg",
             "prop"
         ],
+        "clength": 37,
         "filename": "124/10mood.tex",
         "imt": "~day what \\textsc{prop} \\textsc{2sg} \\textsc{cntg} go to Santiago",
         "imtwordsbare": [
@@ -4262,7 +4367,8 @@
             "ki",
             "Santiago?"
         ],
-        "trs": "What day are you going to Santiago?\u2019 \\textstyleExampleref{[R208.226]}"
+        "trs": "What day are you going to Santiago?\u2019 \\textstyleExampleref{[R208.226]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -4274,6 +4380,7 @@
             "pl",
             "prox"
         ],
+        "clength": 50,
         "filename": "124/10mood.tex",
         "imt": "~at \\textsc{cq} \\textsc{2sg} at \\textsc{art} \\textsc{pl} time \\textsc{prox} \\textsc{imm} \\textsc{deic}",
         "imtwordsbare": [
@@ -4350,7 +4457,8 @@
             "{\\\ua78c}\u012b",
             "a{\\\ua78c}a?"
         ],
-        "trs": "Where were you in these times?\u2019 \\textstyleExampleref{[R415.349]}"
+        "trs": "Where were you in these times?\u2019 \\textstyleExampleref{[R415.349]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -4358,6 +4466,7 @@
             "cq",
             "dist"
         ],
+        "clength": 20,
         "filename": "124/10mood.tex",
         "imt": "~of \\textsc{cq} \\textsc{art} man \\textsc{dist}",
         "imtwordsbare": [
@@ -4404,7 +4513,8 @@
             "ta\u014bata",
             "era?"
         ],
-        "trs": "Where is that man from?\u2019 \\textstyleExampleref{[Ley-3-06.003]}"
+        "trs": "Where is that man from?\u2019 \\textstyleExampleref{[Ley-3-06.003]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -4414,6 +4524,7 @@
             "med",
             "prop"
         ],
+        "clength": 27,
         "filename": "124/10mood.tex",
         "imt": "~at \\textsc{cq} \\textsc{prop} \\textsc{2sg} \\textsc{ipfv} stay \\textsc{med}",
         "imtwordsbare": [
@@ -4472,7 +4583,8 @@
             "noho",
             "ena?"
         ],
-        "trs": "Where do you live?\u2019 \\textstyleExampleref{[R399.052]}"
+        "trs": "Where do you live?\u2019 \\textstyleExampleref{[R399.052]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -4482,6 +4594,7 @@
             "prox",
             "pvp"
         ],
+        "clength": 23,
         "filename": "124/10mood.tex",
         "imt": "~by \\textsc{cq} \\textsc{prox} \\textsc{intens} \\textsc{pfv} disappear \\textsc{pvp}",
         "imtwordsbare": [
@@ -4540,7 +4653,8 @@
             "\u014baro",
             "ai?"
         ],
-        "trs": "In what direction did (the fish) disappear?\u2019 \\textstyleExampleref{[R301.179]}"
+        "trs": "In what direction did (the fish) disappear?\u2019 \\textstyleExampleref{[R301.179]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -4551,6 +4665,7 @@
             "pfv",
             "prom"
         ],
+        "clength": 38,
         "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "~to \\textsc{cq} \\textsc{2pl} \\textsc{prom} \\textsc{art} child \\textsc{pfv} ascend hither \\textsc{med}",
@@ -4628,7 +4743,8 @@
             "mai",
             "ena?"
         ],
-        "trs": "Where did you and the child go up to?\u2019 \\textstyleExampleref{[R229.205]}"
+        "trs": "Where did you and the child go up to?\u2019 \\textstyleExampleref{[R229.205]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -4636,6 +4752,7 @@
             "cq",
             "voc"
         ],
+        "clength": 18,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{cq} \\textsc{2sg} \\textsc{voc} dear\\_girl \\textsc{voc}",
         "imtwordsbare": [
@@ -4682,13 +4799,15 @@
             "vovo",
             "\u0113?"
         ],
-        "trs": "Where are you, my girl?\u2019 \\textstyleExampleref{[R372.030]}"
+        "trs": "Where are you, my girl?\u2019 \\textstyleExampleref{[R372.030]}",
+        "wlength": 5
     },
     {
         "categories": [
             "art",
             "cq"
         ],
+        "clength": 22,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{cq} \\textsc{art} place pain away",
         "imtwordsbare": [
@@ -4735,7 +4854,8 @@
             "mamae",
             "atu?"
         ],
-        "trs": "Where is the place (=body part) that hurts?\u2019 \\textstyleExampleref{[R481.100]}"
+        "trs": "Where is the place (=body part) that hurts?\u2019 \\textstyleExampleref{[R481.100]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -4743,6 +4863,7 @@
             "cq",
             "voc"
         ],
+        "clength": 20,
         "filename": "124/10mood.tex",
         "imt": "~like \\textsc{cq} \\textsc{2sg} \\textsc{voc} friend \\textsc{voc}",
         "imtwordsbare": [
@@ -4795,7 +4916,8 @@
             "hoa",
             "\u0113?"
         ],
-        "trs": "How are you, my friend?\u2019 \\textstyleExampleref{[R237.116]}"
+        "trs": "How are you, my friend?\u2019 \\textstyleExampleref{[R237.116]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -4806,6 +4928,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 43,
         "filename": "124/10mood.tex",
         "imt": "~like \\textsc{cq} \\textsc{2sg} \\textsc{pfv} know \\textsc{pvp} for carve \\textsc{acc} \\textsc{art} statue",
         "imtwordsbare": [
@@ -4888,7 +5011,8 @@
             "te",
             "m\u014dai?"
         ],
-        "trs": "How did you know how to carve statues?\u2019 \\textstyleExampleref{[R647.063]}"
+        "trs": "How did you know how to carve statues?\u2019 \\textstyleExampleref{[R647.063]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -4898,6 +5022,7 @@
             "fut",
             "incl"
         ],
+        "clength": 62,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{fut} \\textsc{cq} \\textsc{1pl.incl} \\textsc{cntg} ascend again hither for soccer",
         "imtwordsbare": [
@@ -4968,7 +5093,8 @@
             "mo",
             "piroto?"
         ],
-        "trs": "When will we go up again to play soccer?\u2019 \\textstyleExampleref{[R155.007]}"
+        "trs": "When will we go up again to play soccer?\u2019 \\textstyleExampleref{[R155.007]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -4980,6 +5106,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 56,
         "filename": "124/10mood.tex",
         "imt": "~from when.\\textsc{past} \\textsc{ident} \\textsc{prop} Rapa Nui \\textsc{pfv} happen \\textsc{emph} \\textsc{pvp} to \\textsc{art} Chile",
         "imtwordsbare": [
@@ -5074,7 +5201,8 @@
             "te",
             "tire?"
         ],
-        "trs": "From when did Rapa Nui go over to the Chileans?\u2019 \\textstyleExampleref{[R616.673]}"
+        "trs": "From when did Rapa Nui go over to the Chileans?\u2019 \\textstyleExampleref{[R616.673]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -5083,6 +5211,7 @@
             "deic",
             "dist"
         ],
+        "clength": 48,
         "filename": "124/10mood.tex",
         "imt": "~~of family \\textsc{cq} \\textsc{art} old\\_woman \\textsc{dist} \\textsc{deic}",
         "imtwordsbare": [
@@ -5141,7 +5270,8 @@
             "era",
             "{\\\ua78c}ai?"
         ],
-        "trs": "From which family is that woman over there?\u2019 \\textstyleExampleref{[R413.305]}"
+        "trs": "From which family is that woman over there?\u2019 \\textstyleExampleref{[R413.305]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5153,6 +5283,7 @@
             "poss",
             "prom"
         ],
+        "clength": 69,
         "filename": "124/10mood.tex",
         "imt": "~~~~\\textsc{prom} child \\textsc{cq} \\textsc{dist} child snatch \\textsc{dist} \\textsc{acc} \\textsc{poss.2sg.a} thing ~~~child male",
         "imtwordsbare": [
@@ -5241,13 +5372,15 @@
             "\u2014Poki",
             "tane."
         ],
-        "trs": "\u2014Which child [was the child who] snatched your things? \u2014A boy.\u2019 \\textstyleExampleref{[R172.012\u2013014]}"
+        "trs": "\u2014Which child [was the child who] snatched your things? \u2014A boy.\u2019 \\textstyleExampleref{[R172.012\u2013014]}",
+        "wlength": 12
     },
     {
         "categories": [
             "art",
             "num"
         ],
+        "clength": 33,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{num} how\\_many egg of inside \\textsc{art} nest",
         "imtwordsbare": [
@@ -5306,7 +5439,8 @@
             "te",
             "hakapupa?"
         ],
-        "trs": "How many eggs are there inside the nest?\u2019 \\textstyleExampleref{[R173.019]}"
+        "trs": "How many eggs are there inside the nest?\u2019 \\textstyleExampleref{[R173.019]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5316,6 +5450,7 @@
             "poss",
             "voc"
         ],
+        "clength": 38,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{cntg} how\\_many year \\textsc{poss.2sg.o} \\textsc{voc} uncle \\textsc{voc}",
         "imtwordsbare": [
@@ -5374,7 +5509,8 @@
             "p\u0101p\u0101tio",
             "\u0113?"
         ],
-        "trs": "How old are you (lit. how many years are yours), uncle?\u2019 \\textstyleExampleref{[R416.843]}"
+        "trs": "How old are you (lit. how many years are yours), uncle?\u2019 \\textstyleExampleref{[R416.843]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5385,6 +5521,7 @@
             "o",
             "poss"
         ],
+        "clength": 33,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{num} how\\_much \\textsc{poss.1sg.o} debt \\textsc{ben.2sg.o}",
         "imtwordsbare": [
@@ -5431,7 +5568,8 @@
             "t\u0101rahu",
             "m\u014d{\\\ua78c}ou?"
         ],
-        "trs": "How much do I owe you (lit. how much [is] my debt for you)?\u2019 \\textstyleExampleref{[R208.200]}"
+        "trs": "How much do I owe you (lit. how much [is] my debt for you)?\u2019 \\textstyleExampleref{[R208.200]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -5440,6 +5578,7 @@
             "pers",
             "pvp"
         ],
+        "clength": 25,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{num.pers} how\\_many \\textsc{2pl} \\textsc{pvp} go \\textsc{pvp}",
         "imtwordsbare": [
@@ -5492,7 +5631,8 @@
             "oho",
             "ai?"
         ],
-        "trs": "(With) how many did you go?\u2019 \\textstyleExampleref{[R124.008]}\\textstyleExampleref{}"
+        "trs": "(With) how many did you go?\u2019 \\textstyleExampleref{[R124.008]}\\textstyleExampleref{}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -5509,6 +5649,7 @@
             "pq",
             "subs"
         ],
+        "clength": 111,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} say to \\textsc{art} guard of \\textsc{dem} place \\textsc{dist} {\\db}\\textsc{pq} \\textsc{ipfv} can \\textsc{emph}  for carry \\textsc{emph} \\textsc{subs} \\textsc{acc} \\textsc{poss.3sg.o} thing",
         "imtwordsbare": [
@@ -5645,7 +5786,8 @@
             "t\u014d{\\\ua78c}ona",
             "me{\\\ua78c}e\\,{\\cb}."
         ],
-        "trs": "She asked the guard of the place if he could carry her stuff.\u2019 \\textstyleExampleref{[R210.205]}"
+        "trs": "She asked the guard of the place if he could carry her stuff.\u2019 \\textstyleExampleref{[R210.205]}",
+        "wlength": 20
     },
     {
         "categories": [
@@ -5656,6 +5798,7 @@
             "neg",
             "pfv"
         ],
+        "clength": 79,
         "coordination": "or",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg.pfv} know hither \\textsc{1sg} {\\db}\\textsc{ipfv} see again \\textsc{emph} hither \\textsc{2sg} or \\textsc{neg}",
@@ -5745,7 +5888,8 @@
             "{\\\ua78c}o",
             "{\\\ua78c}ina\\,{\\cb}."
         ],
-        "trs": "I don\u2019t know if you will see me again or not.\u2019 \\textstyleExampleref{[R210.072]}"
+        "trs": "I don\u2019t know if you will see me again or not.\u2019 \\textstyleExampleref{[R210.072]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -5758,6 +5902,7 @@
             "prop",
             "prox"
         ],
+        "clength": 88,
         "filename": "124/10mood.tex",
         "imt": "because\\_of \\textsc{ana} \\textsc{prop} \\textsc{1sg} \\textsc{pfv} ask away \\textsc{med} {\\db}\\textsc{irr} want \\textsc{2sg} for go\\_down hither  to \\textsc{prox}",
         "imtwordsbare": [
@@ -5871,7 +6016,8 @@
             "ki",
             "nei...\\,{\\cb}"
         ],
-        "trs": "Therefore I asked you if you wanted to come here...\u2019 \\textstyleExampleref{[R315.269]}"
+        "trs": "Therefore I asked you if you wanted to come here...\u2019 \\textstyleExampleref{[R315.269]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -5882,6 +6028,7 @@
             "prom",
             "prop"
         ],
+        "clength": 58,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg.pfv} know \\textsc{prop} \\textsc{1sg} {\\db}\\textsc{prom} who \\textsc{prop} \\textsc{3sg}",
         "imtwordsbare": [
@@ -5946,7 +6093,8 @@
             "a",
             "ia\\,{\\cb}."
         ],
-        "trs": "I don\u2019t know who she is.\u2019 \\textstyleExampleref{[R413.356]}"
+        "trs": "I don\u2019t know who she is.\u2019 \\textstyleExampleref{[R413.356]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -5956,6 +6104,7 @@
             "pred",
             "prox"
         ],
+        "clength": 75,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} look by Hanga Roa {\\db}\\textsc{pred} what \\textsc{ipfv} \\textsc{conneg} arrive hither \\textsc{prox}",
         "imtwordsbare": [
@@ -6045,7 +6194,8 @@
             "mai",
             "nei\\,{\\cb}."
         ],
-        "trs": "Look towards Hanga Roa why he is not coming.\u2019 \\textstyleExampleref{[R229.137]}"
+        "trs": "Look towards Hanga Roa why he is not coming.\u2019 \\textstyleExampleref{[R229.137]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -6057,6 +6207,7 @@
             "dist",
             "prop"
         ],
+        "clength": 84,
         "filename": "124/10mood.tex",
         "imt": "~~~at \\textsc{art} \\textsc{conneg} know {\\db}at \\textsc{cq} \\textsc{prop} \\textsc{3sg} \\textsc{cntg} stay \\textsc{dist}",
         "imtwordsbare": [
@@ -6139,12 +6290,14 @@
             "noho",
             "era\\,{\\cb}."
         ],
-        "trs": "(He was afraid) because he didn\u2019t know where he would stay.\u2019 \\textstyleExampleref{[R314.016]}"
+        "trs": "(He was afraid) because he didn\u2019t know where he would stay.\u2019 \\textstyleExampleref{[R314.016]}",
+        "wlength": 11
     },
     {
         "categories": [
             "cntg"
         ],
+        "clength": 33,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{cntg} good really",
         "imtwordsbare": [
@@ -6179,7 +6332,8 @@
             "\\textbf{riva}",
             "{\\\ua78c}\u014d!"
         ],
-        "trs": "Very good!\u2019 \\textstyleExampleref{[R334.319]}"
+        "trs": "Very good!\u2019 \\textstyleExampleref{[R334.319]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -6187,6 +6341,7 @@
             "cntg",
             "prox"
         ],
+        "clength": 57,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{cntg} pretty \\textsc{art} day \\textsc{prox} at \\textsc{art} sun",
         "imtwordsbare": [
@@ -6251,7 +6406,8 @@
             "te",
             "ra{\\\ua78c}\u0101!"
         ],
-        "trs": "What a nice sunny day!\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "What a nice sunny day!\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6260,6 +6416,7 @@
             "prom",
             "red"
         ],
+        "clength": 88,
         "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "there \\textsc{art} big:\\textsc{red} of \\textsc{art} head \\textsc{prom} enormous \\textsc{cntg} handsome \\textsc{art} head",
@@ -6349,13 +6506,15 @@
             "te",
             "p\u016b{\\\ua78c}oko!"
         ],
-        "trs": "The skull was this big, it was enormous, and how beautiful it was!\u2019 \\textstyleExampleref{[Ley-2-10.010]}"
+        "trs": "The skull was this big, it was enormous, and how beautiful it was!\u2019 \\textstyleExampleref{[Ley-2-10.010]}",
+        "wlength": 12
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 31,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} \\textsc{art} animal last of \\textsc{art} pretty",
         "imtwordsbare": [
@@ -6414,13 +6573,15 @@
             "te",
             "tau!"
         ],
-        "trs": "What an extremely pretty animal!\u2019 \\textstyleExampleref{[R345.072]}"
+        "trs": "What an extremely pretty animal!\u2019 \\textstyleExampleref{[R345.072]}",
+        "wlength": 7
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 11,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} \\textsc{art} pretty",
         "imtwordsbare": [
@@ -6455,7 +6616,8 @@
             "te",
             "tau!"
         ],
-        "trs": "How beautiful!\u2019 \\textstyleExampleref{[R412.384]}"
+        "trs": "How beautiful!\u2019 \\textstyleExampleref{[R412.384]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -6464,6 +6626,7 @@
             "incl",
             "prom"
         ],
+        "clength": 101,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} \\textsc{art} sweet at \\textsc{art} meat at \\textsc{art} \\textsc{1pl.incl} food",
         "imtwordsbare": [
@@ -6540,7 +6703,8 @@
             "\\textbf{t\u0101tou}",
             "\\textbf{kai}!"
         ],
-        "trs": "How tasty is the meat, our food!\u2019 \\textstyleExampleref{[R333.543]}"
+        "trs": "How tasty is the meat, our food!\u2019 \\textstyleExampleref{[R333.543]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -6548,6 +6712,7 @@
             "dist",
             "prom"
         ],
+        "clength": 71,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} \\textsc{art} pity at \\textsc{art} old\\_woman \\textsc{dist}",
         "imtwordsbare": [
@@ -6606,7 +6771,8 @@
             "\\textbf{r\u016b{\\\ua78c}au}",
             "\\textbf{era}!"
         ],
-        "trs": "Poor old woman!\u2019 \\textstyleExampleref{[R413.103]}"
+        "trs": "Poor old woman!\u2019 \\textstyleExampleref{[R413.103]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -6614,6 +6780,7 @@
             "prom",
             "~prom"
         ],
+        "clength": 43,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} \\textsc{art} what \\textsc{art} dark \\textsc{~prom} \\textsc{art} what \\textsc{art} rain",
         "imtwordsbare": [
@@ -6690,7 +6857,8 @@
             "te",
             "{\\\ua78c}ua!"
         ],
-        "trs": "What a darkness! What a rain!\u2019 \\textstyleExampleref{[R241.035\u2013036]}"
+        "trs": "What a darkness! What a rain!\u2019 \\textstyleExampleref{[R241.035\u2013036]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -6698,6 +6866,7 @@
             "caus",
             "prom"
         ],
+        "clength": 29,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prom} \\textsc{art} what \\textsc{art} \\textsc{caus} face",
         "imtwordsbare": [
@@ -6750,7 +6919,8 @@
             "haka",
             "{\\\ua78c}\u0101ri\u014ba!"
         ],
-        "trs": "What an insolence!\u2019 \\textstyleExampleref{[R208.083]}"
+        "trs": "What an insolence!\u2019 \\textstyleExampleref{[R208.083]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -6761,6 +6931,7 @@
             "num",
             "red"
         ],
+        "clength": 79,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{num} two house store there \\textsc{art} big:\\textsc{red} enormous",
         "imtwordsbare": [
@@ -6849,12 +7020,14 @@
             "\\textbf{nuinui}",
             "tetu."
         ],
-        "trs": "There were two stores, they were enormous.\u2019 \\textstyleExampleref{[R239.072]}"
+        "trs": "There were two stores, they were enormous.\u2019 \\textstyleExampleref{[R239.072]}",
+        "wlength": 12
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 73,
         "filename": "124/10mood.tex",
         "imt": "at inside \\textsc{art} house wasp ~there \\textsc{art} big",
         "imtwordsbare": [
@@ -6919,7 +7092,8 @@
             "\\textbf{te}",
             "\\textbf{kumi}!"
         ],
-        "trs": "Inside was a wasps\u2019 nest. It was so big!\u2019 \\textstyleExampleref{[R133.004]}\\textstyleExampleref{}"
+        "trs": "Inside was a wasps\u2019 nest. It was so big!\u2019 \\textstyleExampleref{[R133.004]}\\textstyleExampleref{}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6929,6 +7103,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 50,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} Heru \\textsc{ntr} watch \\textsc{emph} hither \\textsc{ins} eye",
         "imtwordsbare": [
@@ -7000,7 +7175,8 @@
             "hai",
             "mata."
         ],
-        "trs": "Heru did not watch (her) with his eyes.\u2019 \\textstyleExampleref{[R313.165]}"
+        "trs": "Heru did not watch (her) with his eyes.\u2019 \\textstyleExampleref{[R313.165]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -7011,6 +7187,7 @@
             "prop",
             "prox"
         ],
+        "clength": 64,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} \\textsc{1sg} \\textsc{ntr} ashamed again at \\textsc{art} time \\textsc{prox}",
         "imtwordsbare": [
@@ -7088,7 +7265,8 @@
             "hora",
             "nei."
         ],
-        "trs": "Now I am not ashamed any more.\u2019 \\textstyleExampleref{[R334.069]}"
+        "trs": "Now I am not ashamed any more.\u2019 \\textstyleExampleref{[R334.069]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -7099,6 +7277,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 51,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} really \\textsc{ident} \\textsc{2sg} \\textsc{ntr} love hither to \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -7175,7 +7354,8 @@
             "a",
             "au."
         ],
-        "trs": "You really don\u2019t love me.\u2019 \\textstyleExampleref{[R229.468]}"
+        "trs": "You really don\u2019t love me.\u2019 \\textstyleExampleref{[R229.468]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -7186,6 +7366,7 @@
             "ntr",
             "prf"
         ],
+        "clength": 83,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} indeed \\textsc{ntr} sell really \\textsc{med} \\textsc{art} thing just \\textsc{prf} exist \\textsc{cont} for eat",
         "imtwordsbare": [
@@ -7287,7 +7468,8 @@
             "mo",
             "kai."
         ],
-        "trs": "They did not sell (the fish); but it was there to eat.\u2019 \\textstyleExampleref{[R539-1.365]}"
+        "trs": "They did not sell (the fish); but it was there to eat.\u2019 \\textstyleExampleref{[R539-1.365]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -7299,6 +7481,7 @@
             "o",
             "poss"
         ],
+        "clength": 99,
         "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} begin \\textsc{ntr} angry and \\textsc{neg} \\textsc{ntr} listen to \\textsc{dem} word \\textsc{dist}  of \\textsc{dem} friend \\textsc{dist} \\textsc{poss.3sg.o}",
@@ -7419,7 +7602,8 @@
             "era",
             "\u014d{\\\ua78c}ona."
         ],
-        "trs": "He began to get angry, and did not listen to the words of his friend.\u2019 \\textstyleExampleref{[R237.152]}"
+        "trs": "He began to get angry, and did not listen to the words of his friend.\u2019 \\textstyleExampleref{[R237.152]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -7428,6 +7612,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 33,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} watch \\textsc{emph} hither \\textsc{prop} Heru \\textsc{ins} eye",
         "imtwordsbare": [
@@ -7492,7 +7677,8 @@
             "hai",
             "mata."
         ],
-        "trs": "Heru watched (her) with his eyes.\u2019 \\textstyleExampleref{[R313.165]}"
+        "trs": "Heru watched (her) with his eyes.\u2019 \\textstyleExampleref{[R313.165]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -7507,6 +7693,7 @@
             "pl",
             "red"
         ],
+        "clength": 115,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{ntr} certain:\\textsc{red} \\textsc{ag} \\textsc{dem} \\textsc{pl} spirit \\textsc{dist} \\textsc{ipfv} what \\textsc{cont} \\textsc{art} king",
         "imtwordsbare": [
@@ -7602,7 +7789,8 @@
             "te",
             "{\\\ua78c}ariki."
         ],
-        "trs": "Those spirits did not know what the king was doing.\u2019 \\textstyleExampleref{[R532-06.018]}"
+        "trs": "Those spirits did not know what the king was doing.\u2019 \\textstyleExampleref{[R532-06.018]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -7611,6 +7799,7 @@
             "pred",
             "prox"
         ],
+        "clength": 75,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{pred} old\\_woman \\textsc{prox} \\textsc{ntr} go\\_down hither to Hanga Roa",
         "imtwordsbare": [
@@ -7688,7 +7877,8 @@
             "Ha\u014ba",
             "Roa."
         ],
-        "trs": "This old women did not go down to Hanga Roa.\u2019 \\textstyleExampleref{[R380.006]}"
+        "trs": "This old women did not go down to Hanga Roa.\u2019 \\textstyleExampleref{[R380.006]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -7698,6 +7888,7 @@
             "pred",
             "prox"
         ],
+        "clength": 71,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} problem indeed \\textsc{neg} \\textsc{pred} mother of \\textsc{med} child of \\textsc{prox}",
         "imtwordsbare": [
@@ -7781,7 +7972,8 @@
             "o",
             "nei."
         ],
-        "trs": "The problem is, the mother of the child is not here.\u2019 \\textstyleExampleref{[R403.051]}"
+        "trs": "The problem is, the mother of the child is not here.\u2019 \\textstyleExampleref{[R403.051]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -7790,6 +7982,7 @@
             "pred",
             "red"
         ],
+        "clength": 83,
         "filename": "124/10mood.tex",
         "imt": "~~\\textsc{neg} really \\textsc{pred} tribe of Hotu Iti \\textsc{pred} cry:\\textsc{red} to \\textsc{art} Tupahotu",
         "imtwordsbare": [
@@ -7878,7 +8071,8 @@
             "te",
             "T\u016bp\u0101hotu?"
         ],
-        "trs": "The tribe of Hotu Iti doesn\u2019t mourn for the Tupahotu, does it?\u2019 \\textstyleExampleref{[R304.070]}"
+        "trs": "The tribe of Hotu Iti doesn\u2019t mourn for the Tupahotu, does it?\u2019 \\textstyleExampleref{[R304.070]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -7887,6 +8081,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 79,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} problem just \\textsc{neg} \\textsc{art} \\textsc{pl} child \\textsc{ntr} want for know",
         "imtwordsbare": [
@@ -7970,7 +8165,8 @@
             "mo",
             "{\\\ua78c}ite."
         ],
-        "trs": "The problem is that the children don\u2019t want to know.\u2019 \\textstyleExampleref{[R647.094]}"
+        "trs": "The problem is that the children don\u2019t want to know.\u2019 \\textstyleExampleref{[R647.094]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -7979,6 +8175,7 @@
             "pfv",
             "pred"
         ],
+        "clength": 47,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{pred} other place of \\textsc{art} body ~\\textsc{pfv} problem",
         "imtwordsbare": [
@@ -8049,7 +8246,8 @@
             "[i",
             "{\\\ua78c}ati]."
         ],
-        "trs": "(There is) no other part of the body (which) is in trouble.\u2019 \\textstyleExampleref{[R481.091]}"
+        "trs": "(There is) no other part of the body (which) is in trouble.\u2019 \\textstyleExampleref{[R481.091]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -8059,6 +8257,7 @@
             "pl",
             "pred"
         ],
+        "clength": 68,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{pred} family many ~speak to \\textsc{art} \\textsc{pl} child \\textsc{acc} \\textsc{art} voice land",
         "imtwordsbare": [
@@ -8154,7 +8353,8 @@
             "re{\\\ua78c}o",
             "henua]."
         ],
-        "trs": "(There are) not many families (who) speak the language of the island to the children.\u2019 \\textstyleExampleref{[R533.006]}"
+        "trs": "(There are) not many families (who) speak the language of the island to the children.\u2019 \\textstyleExampleref{[R533.006]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -8164,6 +8364,7 @@
             "pfv",
             "pred"
         ],
+        "clength": 38,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{pred} thing \\textsc{pfv} obtain of \\textsc{art} night \\textsc{dist}",
         "imtwordsbare": [
@@ -8235,7 +8436,8 @@
             "p\u014d",
             "era."
         ],
-        "trs": "They did not catch anything (lit. there was no thing obtained) that night.\u2019 \\textstyleExampleref{[R359.005]}"
+        "trs": "They did not catch anything (lit. there was no thing obtained) that night.\u2019 \\textstyleExampleref{[R359.005]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -8246,6 +8448,7 @@
             "poss",
             "pred"
         ],
+        "clength": 70,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{neg} really \\textsc{pred} story \\textsc{poss.2sg.a} \\textsc{pfv} carry hither from Hanga Roa",
         "imtwordsbare": [
@@ -8328,7 +8531,8 @@
             "Ha\u014ba",
             "Roa?"
         ],
-        "trs": "Haven\u2019t you brought any news (lit. are there no stories you brought) from Hanga Roa?\u2019 \\textstyleExampleref{[R380.039]}"
+        "trs": "Haven\u2019t you brought any news (lit. are there no stories you brought) from Hanga Roa?\u2019 \\textstyleExampleref{[R380.039]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8339,6 +8543,7 @@
             "pfv",
             "prom"
         ],
+        "clength": 80,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{pfv} finish \\textsc{dist} \\textsc{art} contest \\textsc{neg} \\textsc{num} one person \\textsc{pfv} know  \\textsc{prom} who \\textsc{art} thing \\textsc{pfv} won",
         "imtwordsbare": [
@@ -8458,7 +8663,8 @@
             "i",
             "r\u0113."
         ],
-        "trs": "When the contest was finished, no one (lit. not one person) knew who had won.\u2019 \\textstyleExampleref{[R448.018]}"
+        "trs": "When the contest was finished, no one (lit. not one person) knew who had won.\u2019 \\textstyleExampleref{[R448.018]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -8467,6 +8673,7 @@
             "num",
             "pers"
         ],
+        "clength": 50,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{num} one person run of \\textsc{ana} \\textsc{num.pers} two really just",
         "imtwordsbare": [
@@ -8549,7 +8756,8 @@
             "mau",
             "n\u014d."
         ],
-        "trs": "Nobody was sailing there; just the two (of us).\u2019 \\textstyleExampleref{[R230.410]}"
+        "trs": "Nobody was sailing there; just the two (of us).\u2019 \\textstyleExampleref{[R230.410]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8558,6 +8766,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 25,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} \\textsc{1sg} \\textsc{neg.pfv} hungry",
         "imtwordsbare": [
@@ -8605,7 +8814,8 @@
             "kai",
             "maruaki."
         ],
-        "trs": "I am not hungry.\u2019 \\textstyleExampleref{[R208.250]}"
+        "trs": "I am not hungry.\u2019 \\textstyleExampleref{[R208.250]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -8616,6 +8826,7 @@
             "neg",
             "prop"
         ],
+        "clength": 32,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{neg} \\textsc{1pl.excl} \\textsc{ipfv} \\textsc{neg.ipfv} abandon at \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -8681,7 +8892,8 @@
             "a",
             "koe!"
         ],
-        "trs": "We will not leave you alone!\u2019 \\textstyleExampleref{[MsE-028.012]}"
+        "trs": "We will not leave you alone!\u2019 \\textstyleExampleref{[MsE-028.012]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -8693,6 +8905,7 @@
             "o",
             "poss"
         ],
+        "clength": 44,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{ipfv} \\textsc{neg.ipfv} eat \\textsc{acc} \\textsc{art} tuna of \\textsc{poss.3sg.o} boat",
         "imtwordsbare": [
@@ -8770,7 +8983,8 @@
             "t\u014d{\\\ua78c}ona",
             "vaka."
         ],
-        "trs": "(The fisherman) would not eat the tuna (caught with) his boat.\u2019 \\textstyleExampleref{[Ley-5-27.013]}"
+        "trs": "(The fisherman) would not eat the tuna (caught with) his boat.\u2019 \\textstyleExampleref{[Ley-5-27.013]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -8781,6 +8995,7 @@
             "pred",
             "prox"
         ],
+        "clength": 64,
         "filename": "124/10mood.tex",
         "imt": "year \\textsc{prox} \\textsc{neg} \\textsc{pred} person for teach \\textsc{acc} \\textsc{art} \\textsc{pl} work \\textsc{prox}",
         "imtwordsbare": [
@@ -8869,7 +9084,8 @@
             "a\u014ba",
             "nei."
         ],
-        "trs": "This year there is no one (lit. there is no man) to teach these matters.\u2019 \\textstyleExampleref{[R640.016]}"
+        "trs": "This year there is no one (lit. there is no man) to teach these matters.\u2019 \\textstyleExampleref{[R640.016]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -8881,6 +9097,7 @@
             "pred",
             "red"
         ],
+        "clength": 82,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} see \\textsc{1pl.excl} \\textsc{num} one homeland small:\\textsc{red} \\textsc{neg} \\textsc{pred} person of above",
         "imtwordsbare": [
@@ -8969,7 +9186,8 @@
             "o",
             "ru\u014ba."
         ],
-        "trs": "We saw a small island, there was nobody there.\u2019 \\textstyleExampleref{[Egt-02.409]}"
+        "trs": "We saw a small island, there was nobody there.\u2019 \\textstyleExampleref{[Egt-02.409]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -8977,6 +9195,7 @@
             "excl",
             "neg"
         ],
+        "clength": 45,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} in\\_fact of \\textsc{1du.excl} place for stay",
         "imtwordsbare": [
@@ -9036,7 +9255,8 @@
             "mo",
             "noho."
         ],
-        "trs": "For we do not have a place to live.\u2019 \\textstyleExampleref{[R229.210]}"
+        "trs": "For we do not have a place to live.\u2019 \\textstyleExampleref{[R229.210]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -9045,6 +9265,7 @@
             "pred",
             "prox"
         ],
+        "clength": 32,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{pred} mother of \\textsc{med} child of \\textsc{prox}",
         "imtwordsbare": [
@@ -9110,7 +9331,8 @@
             "o",
             "nei."
         ],
-        "trs": "The mother of that boy is not here.\u2019 \\textstyleExampleref{[R403.051]}"
+        "trs": "The mother of that boy is not here.\u2019 \\textstyleExampleref{[R403.051]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -9122,6 +9344,7 @@
             "prf",
             "voc"
         ],
+        "clength": 68,
         "filename": "124/10mood.tex",
         "imt": "~~~\\textsc{voc} Renga \\textsc{imp} go\\_out hither to \\textsc{caus} wash away ~~~\\textsc{neg}~ \\textsc{prf} wash \\textsc{cont} \\textsc{1sg}",
         "imtwordsbare": [
@@ -9222,7 +9445,8 @@
             "{\\\ua78c}\u0101",
             "au."
         ],
-        "trs": "\u2014Renga, come out so I can wash you. \u2014No, I have washed (already).\u2019 \\textstyleExampleref{[Mtx-7-15.046]}"
+        "trs": "\u2014Renga, come out so I can wash you. \u2014No, I have washed (already).\u2019 \\textstyleExampleref{[Mtx-7-15.046]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -9233,6 +9457,7 @@
             "neg",
             "pfv"
         ],
+        "clength": 49,
         "filename": "124/10mood.tex",
         "imt": "~~~\\textsc{pfv} go\\_up \\textsc{emph} \\textsc{2sg} at above at \\textsc{art} ship \\textsc{dist} ~~~\\textsc{neg}~~",
         "imtwordsbare": [
@@ -9315,7 +9540,8 @@
             "era?",
             "\u2014{\\\ua78c}Ina."
         ],
-        "trs": "\u2014Did you go on board that ship? \u2014No.\u2019 \\textstyleExampleref{[R413.811]}\\textstyleExampleref{}"
+        "trs": "\u2014Did you go on board that ship? \u2014No.\u2019 \\textstyleExampleref{[R413.811]}\\textstyleExampleref{}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -9325,6 +9551,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 48,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{emph} away \\textsc{ntr} stay at \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -9389,7 +9616,8 @@
             "a",
             "au."
         ],
-        "trs": "I couldn\u2019t keep (my fishing line) steady (lit. It didn\u2019t stay at all to me).\u2019 \\textstyleExampleref{[R230.162]}"
+        "trs": "I couldn\u2019t keep (my fishing line) steady (lit. It didn\u2019t stay at all to me).\u2019 \\textstyleExampleref{[R230.162]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -9400,6 +9628,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 62,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} in\\_fact \\textsc{prop} \\textsc{1pl.excl} \\textsc{neg.pfv} sick at \\textsc{art} smallpox",
         "imtwordsbare": [
@@ -9471,7 +9700,8 @@
             "te",
             "r\u014dviro."
         ],
-        "trs": "In fact, we were not sick with smallpox.\u2019 \\textstyleExampleref{[R539-1.680]}"
+        "trs": "In fact, we were not sick with smallpox.\u2019 \\textstyleExampleref{[R539-1.680]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -9480,6 +9710,7 @@
             "ntr",
             "pfv"
         ],
+        "clength": 58,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} return hither to inland \\textsc{neg.pfv} ascend to \\textsc{art} fishing\\_zone",
         "imtwordsbare": [
@@ -9557,7 +9788,8 @@
             "te",
             "hakanono\u014ba."
         ],
-        "trs": "They returned inland, they did not go out to the \\textit{hakanononga} fishing zones.\u2019 \\textstyleExampleref{[Ley-6-43.031]}"
+        "trs": "They returned inland, they did not go out to the \\textit{hakanononga} fishing zones.\u2019 \\textstyleExampleref{[Ley-6-43.031]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -9570,6 +9802,7 @@
             "neg",
             "pfv"
         ],
+        "clength": 56,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg.pfv} answer \\textsc{ag} Hotu \\textsc{acc} \\textsc{dem} word \\textsc{dist} of\\textsc{.a} Tahonga",
         "imtwordsbare": [
@@ -9647,7 +9880,8 @@
             "{\\\ua78c}a",
             "Taho\u014ba."
         ],
-        "trs": "Hotu did not reply to those words of Tahonga.\u2019 \\textstyleExampleref{[R301.273]}"
+        "trs": "Hotu did not reply to those words of Tahonga.\u2019 \\textstyleExampleref{[R301.273]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -9657,6 +9891,7 @@
             "pfv",
             "pred"
         ],
+        "clength": 54,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{pred} what \\textsc{intens} then \\textsc{neg} indeed \\textsc{2sg} \\textsc{neg.pfv} say hither",
         "imtwordsbare": [
@@ -9733,7 +9968,8 @@
             "k\u012b",
             "mai?"
         ],
-        "trs": "Why then didn\u2019t you tell me?\u2019 \\textstyleExampleref{[R372.050]}"
+        "trs": "Why then didn\u2019t you tell me?\u2019 \\textstyleExampleref{[R372.050]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -9744,6 +9980,7 @@
             "neg",
             "pfv"
         ],
+        "clength": 61,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{neg} \\textsc{2sg} \\textsc{neg.pfv} compete \\textsc{acc} \\textsc{art} contest \\textsc{dist}",
         "imtwordsbare": [
@@ -9808,7 +10045,8 @@
             "{\\\ua78c}\u0101{\\\ua78c}ati",
             "era?"
         ],
-        "trs": "(talking about an event in the past:) Didn\u2019t you compete in that contest?\u2019 \\textstyleExampleref{[R415.738]}"
+        "trs": "(talking about an event in the past:) Didn\u2019t you compete in that contest?\u2019 \\textstyleExampleref{[R415.738]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -9821,6 +10059,7 @@
             "pfv",
             "voc"
         ],
+        "clength": 70,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{voc} Mum \\textsc{neg.pfv} say hither indeed \\textsc{2sg} like \\textsc{cq} \\textsc{art} cook \\textsc{nmlz} of \\textsc{art} food \\textsc{dist}",
         "imtwordsbare": [
@@ -9933,7 +10172,8 @@
             "kai",
             "era"
         ],
-        "trs": "Mum, you didn\u2019t tell me how to cook that food.\u2019 \\textstyleExampleref{[R236.091]}"
+        "trs": "Mum, you didn\u2019t tell me how to cook that food.\u2019 \\textstyleExampleref{[R236.091]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -9942,6 +10182,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 34,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} \\textsc{1sg} \\textsc{neg.pfv} hungry",
         "imtwordsbare": [
@@ -9989,7 +10230,8 @@
             "\\textbf{kai}",
             "maruaki."
         ],
-        "trs": "I am not hungry.\u2019 \\textstyleExampleref{[R208.250]}"
+        "trs": "I am not hungry.\u2019 \\textstyleExampleref{[R208.250]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -10000,6 +10242,7 @@
             "prf",
             "prop"
         ],
+        "clength": 64,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prf} want \\textsc{cont} \\textsc{prop} \\textsc{1sg} for descend away ~\\textsc{neg.pfv} want \\textsc{prop} \\textsc{1sg} for go",
         "imtwordsbare": [
@@ -10101,7 +10344,8 @@
             "mo",
             "oho!"
         ],
-        "trs": "I want to get off (the ship)! I don\u2019t want to go!\u2019 \\textstyleExampleref{[R210.106\u2013107]}"
+        "trs": "I want to get off (the ship)! I don\u2019t want to go!\u2019 \\textstyleExampleref{[R210.106\u2013107]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -10110,6 +10354,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 42,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} \\textsc{1sg} \\textsc{neg.pfv} want for ascend hither",
         "imtwordsbare": [
@@ -10175,7 +10420,8 @@
             "iri",
             "atu."
         ],
-        "trs": "I don\u2019t want to go up (to the hospital).\u2019 \\textstyleExampleref{[R162.023]}"
+        "trs": "I don\u2019t want to go up (to the hospital).\u2019 \\textstyleExampleref{[R162.023]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -10189,6 +10435,7 @@
             "prop",
             "red"
         ],
+        "clength": 103,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} small:\\textsc{red} just \\textsc{cont} \\textsc{prop} \\textsc{2sg} \\textsc{neg.pfv} know \\textsc{cont} \\textsc{num} one thing  of \\textsc{art} life person",
         "imtwordsbare": [
@@ -10301,7 +10548,8 @@
             "via",
             "ta\u014bata."
         ],
-        "trs": "You are (still) little; you don\u2019t know anything about human life (yet).\u2019 \\textstyleExampleref{[R210.052]}"
+        "trs": "You are (still) little; you don\u2019t know anything about human life (yet).\u2019 \\textstyleExampleref{[R210.052]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -10315,6 +10563,7 @@
             "prop",
             "prox"
         ],
+        "clength": 90,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{neg.pfv} wake\\_up \\textsc{cont} really \\textsc{prop} Mum \\textsc{dist} \\textsc{prom} Kava \\textsc{ipfv} \\textsc{conneg} arrive hither \\textsc{prox}",
         "imtwordsbare": [
@@ -10416,7 +10665,8 @@
             "mai",
             "nei?"
         ],
-        "trs": "Hasn\u2019t mother Kava not woken up (yet), that she doesn\u2019t come?\u2019 \\textstyleExampleref{[R229.359]}\\textstyleExampleref{}"
+        "trs": "Hasn\u2019t mother Kava not woken up (yet), that she doesn\u2019t come?\u2019 \\textstyleExampleref{[R229.359]}\\textstyleExampleref{}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -10428,6 +10678,7 @@
             "prop",
             "voc"
         ],
+        "clength": 63,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{prop} \\textsc{2sg} \\textsc{voc} Vai Ora \\textsc{voc} \\textsc{ipfv} \\textsc{neg.ipfv} exist \\textsc{poss.2sg.a} two child",
         "imtwordsbare": [
@@ -10516,7 +10767,8 @@
             "rua",
             "poki."
         ],
-        "trs": "You, Vai Ora, won\u2019t have another child.\u2019 \\textstyleExampleref{[R301.077]}"
+        "trs": "You, Vai Ora, won\u2019t have another child.\u2019 \\textstyleExampleref{[R301.077]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -10529,6 +10781,7 @@
             "num",
             "poss"
         ],
+        "clength": 68,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} \\textsc{neg.ipfv} give \\textsc{ag} \\textsc{1sg} \\textsc{num} one person \\textsc{acc} \\textsc{poss.1sg.a} child",
         "imtwordsbare": [
@@ -10611,7 +10864,8 @@
             "t\u0101{\\\ua78c}aku",
             "poki."
         ],
-        "trs": "I won\u2019t give my child to anybody.\u2019 \\textstyleExampleref{[R229.069]}"
+        "trs": "I won\u2019t give my child to anybody.\u2019 \\textstyleExampleref{[R229.069]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -10622,6 +10876,7 @@
             "neg",
             "prop"
         ],
+        "clength": 70,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} \\textsc{1sg} \\textsc{ipfv} \\textsc{neg.ipfv} give away to \\textsc{prop} \\textsc{2sg} \\textsc{acc} \\textsc{prop} Puakiva",
         "imtwordsbare": [
@@ -10716,7 +10971,8 @@
             "a",
             "Puakiva."
         ],
-        "trs": "I won\u2019t give Puakiva to you.\u2019 \\textstyleExampleref{[R229.010]}"
+        "trs": "I won\u2019t give Puakiva to you.\u2019 \\textstyleExampleref{[R229.010]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -10729,6 +10985,7 @@
             "prop",
             "red"
         ],
+        "clength": 80,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} Orohe \\textsc{ipfv} \\textsc{neg.ipfv} abandon \\textsc{acc} \\textsc{poss.3sg.o} sibling small:\\textsc{red}",
         "imtwordsbare": [
@@ -10806,7 +11063,8 @@
             "taina",
             "{\\\ua78c}iti{\\\ua78c}iti."
         ],
-        "trs": "(When they walk to school,) Orohe does not leave his little sister alone.\u2019 \\textstyleExampleref{[R166.005]}"
+        "trs": "(When they walk to school,) Orohe does not leave his little sister alone.\u2019 \\textstyleExampleref{[R166.005]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -10815,6 +11073,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 79,
         "filename": "124/10mood.tex",
         "imt": "if \\textsc{conneg} go\\_out of \\textsc{art} people to\\_fish fish \\textsc{ipfv} \\textsc{neg.ipfv} exist \\textsc{art} fish for eat",
         "imtwordsbare": [
@@ -10921,7 +11180,8 @@
             "mo",
             "kai."
         ],
-        "trs": "If the fishermen don\u2019t go out, there is no fish to eat.\u2019 \\textstyleExampleref{[R334.261]}"
+        "trs": "If the fishermen don\u2019t go out, there is no fish to eat.\u2019 \\textstyleExampleref{[R334.261]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -10931,6 +11191,7 @@
             "nmlz",
             "red"
         ],
+        "clength": 68,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} \\textsc{neg.ipfv} good:\\textsc{red} \\textsc{art} homeland \\textsc{ipfv} \\textsc{neg.ipfv} comfortable \\textsc{art} stay \\textsc{nmlz}",
         "imtwordsbare": [
@@ -11014,7 +11275,8 @@
             "noho",
             "o\u014ba."
         ],
-        "trs": "The land wasn\u2019t good, life was not comfortable (up until now).\u2019 \\textstyleExampleref{[R368.103]}"
+        "trs": "The land wasn\u2019t good, life was not comfortable (up until now).\u2019 \\textstyleExampleref{[R368.103]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11024,6 +11286,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 48,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{ipfv} \\textsc{neg.ipfv} want really \\textsc{2sg} for dance of \\textsc{1du.incl}",
         "imtwordsbare": [
@@ -11095,7 +11358,8 @@
             "o",
             "t\u0101ua?"
         ],
-        "trs": "Don\u2019t you want to dance with me (lit. us to dance)?\u2019 \\textstyleExampleref{[R315.115]}"
+        "trs": "Don\u2019t you want to dance with me (lit. us to dance)?\u2019 \\textstyleExampleref{[R315.115]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -11106,6 +11370,7 @@
             "neg",
             "prox"
         ],
+        "clength": 64,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} \\textsc{neg.ipfv} can indeed \\textsc{1du.incl} for to\\_fish at \\textsc{art} place \\textsc{prox}",
         "imtwordsbare": [
@@ -11188,7 +11453,8 @@
             "kona",
             "nei."
         ],
-        "trs": "We cannot fish in this place.\u2019 \\textstyleExampleref{[R237.149]}"
+        "trs": "We cannot fish in this place.\u2019 \\textstyleExampleref{[R237.149]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11197,6 +11463,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 57,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{imp} quiet \\textsc{neg} \\textsc{2sg} \\textsc{neg.ipfv} cry again",
         "imtwordsbare": [
@@ -11255,7 +11522,8 @@
             "ta\u014bi",
             "haka{\\\ua78c}ou."
         ],
-        "trs": "Be quiet, don\u2019t cry anymore.\u2019 \\textstyleExampleref{[R229.343]}"
+        "trs": "Be quiet, don\u2019t cry anymore.\u2019 \\textstyleExampleref{[R229.343]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -11267,6 +11535,7 @@
             "neg",
             "prop"
         ],
+        "clength": 94,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{exh} care\\_for \\textsc{2pl} \\textsc{acc} \\textsc{prop} Puakiva \\textsc{neg} \\textsc{2pl} \\textsc{ipfv} \\textsc{neg.ipfv} strike \\textsc{acc} \\textsc{prop} \\textsc{3sg}",
         "imtwordsbare": [
@@ -11367,13 +11636,15 @@
             "a",
             "ia."
         ],
-        "trs": "You two take care of Puakiva. Don\u2019t beat him.\u2019 \\textstyleExampleref{[R229.420]}"
+        "trs": "You two take care of Puakiva. Don\u2019t beat him.\u2019 \\textstyleExampleref{[R229.420]}",
+        "wlength": 14
     },
     {
         "categories": [
             "ipfv",
             "neg"
         ],
+        "clength": 70,
         "coordination": "or",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{neg.ipfv} noise \\textsc{neg.ipfv} move much also",
@@ -11433,7 +11704,8 @@
             "rahi",
             "tako{\\\ua78c}a."
         ],
-        "trs": "Don\u2019t make noise or move a lot.\u2019 \\textstyleExampleref{[R210.171]}"
+        "trs": "Don\u2019t make noise or move a lot.\u2019 \\textstyleExampleref{[R210.171]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -11442,6 +11714,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 46,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} \\textsc{neg.ipfv} go \\textsc{2sg} to \\textsc{art} other house",
         "imtwordsbare": [
@@ -11506,7 +11779,8 @@
             "rua",
             "hare."
         ],
-        "trs": "Don\u2019t go to another house.\u2019 \\textstyleExampleref{[R310.016]}"
+        "trs": "Don\u2019t go to another house.\u2019 \\textstyleExampleref{[R310.016]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -11518,6 +11792,7 @@
             "neg",
             "prop"
         ],
+        "clength": 66,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{prop} \\textsc{1pl.incl} \\textsc{neg.ipfv} go\\_up at above at \\textsc{art} tree \\textsc{dist}",
         "imtwordsbare": [
@@ -11601,7 +11876,8 @@
             "tumu",
             "era."
         ],
-        "trs": "Let\u2019s not climb that tree.\u2019 \\textstyleExampleref{[R481.044]}"
+        "trs": "Let\u2019s not climb that tree.\u2019 \\textstyleExampleref{[R481.044]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11611,6 +11887,7 @@
             "neg",
             "num"
         ],
+        "clength": 80,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg} \\textsc{neg.ipfv} arrive again at \\textsc{art} time \\textsc{dist} \\textsc{num} one person",
         "imtwordsbare": [
@@ -11693,7 +11970,8 @@
             "tahi",
             "ta\u014bata."
         ],
-        "trs": "(When he was in mourning), at that time nobody could go to his house anymore.\u2019 \\textstyleExampleref{[R310.160]}\\textstyleExampleref{}"
+        "trs": "(When he was in mourning), at that time nobody could go to his house anymore.\u2019 \\textstyleExampleref{[R310.160]}\\textstyleExampleref{}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11705,6 +11983,7 @@
             "pred",
             "prox"
         ],
+        "clength": 68,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{conneg} \\textsc{pred} bastard \\textsc{art} child \\textsc{prox} \\textsc{poss.2sg.a} really \\textsc{art} child \\textsc{prox}",
         "imtwordsbare": [
@@ -11788,7 +12067,8 @@
             "poki",
             "nei."
         ],
-        "trs": "This child is not a bastard, the child is your own.\u2019 \\textstyleExampleref{[Ley-2-07.027]}"
+        "trs": "This child is not a bastard, the child is your own.\u2019 \\textstyleExampleref{[Ley-2-07.027]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11799,6 +12079,7 @@
             "poss",
             "prom"
         ],
+        "clength": 51,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{conneg} \\textsc{prom} Renga Roiti \\textsc{poss.2sg.a} thing \\textsc{med}",
         "imtwordsbare": [
@@ -11858,7 +12139,8 @@
             "me{\\\ua78c}e",
             "ena."
         ],
-        "trs": "That one (lit. \u2018your thing\u2019) is not Renga Roiti.\u2019 \\textstyleExampleref{[Ley-9-56.092]}"
+        "trs": "That one (lit. \u2018your thing\u2019) is not Renga Roiti.\u2019 \\textstyleExampleref{[Ley-9-56.092]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -11868,6 +12150,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 56,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{conneg} indeed to \\textsc{prop} 2S \\textsc{prop} \\textsc{1sg} \\textsc{pfv} talk away \\textsc{pvp}",
         "imtwordsbare": [
@@ -11950,7 +12233,8 @@
             "atu",
             "ai!"
         ],
-        "trs": "It wasn\u2019t to you I was talking!\u2019 \\textstyleExampleref{[R315.135]}"
+        "trs": "It wasn\u2019t to you I was talking!\u2019 \\textstyleExampleref{[R315.135]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11959,6 +12243,7 @@
             "conneg",
             "dist"
         ],
+        "clength": 62,
         "filename": "124/10mood.tex",
         "imt": "~~~day give \\textsc{dist} \\textsc{acc} \\textsc{art} grass \\textsc{conneg} \\textsc{acc} \\textsc{art} land",
         "imtwordsbare": [
@@ -12036,7 +12321,8 @@
             "te",
             "henua"
         ],
-        "trs": "the day when (king Atamu Tekena) gave the vegetation (to the Chileans), (but) not the land\u2019 \\textstyleExampleref{[R649.172]}"
+        "trs": "the day when (king Atamu Tekena) gave the vegetation (to the Chileans), (but) not the land\u2019 \\textstyleExampleref{[R649.172]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -12047,6 +12333,7 @@
             "poss",
             "prom"
         ],
+        "clength": 58,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{poss.1sg.o} house \\textsc{conneg} by \\textsc{art} road \\textsc{prom} Tu\u2019u Koihu",
         "imtwordsbare": [
@@ -12118,7 +12405,8 @@
             "Tu{\\\ua78c}u",
             "K\u014dihu."
         ],
-        "trs": "My house is not by the road Tu\u2019u Koihu.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "My house is not by the road Tu\u2019u Koihu.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -12129,6 +12417,7 @@
             "poss",
             "prox"
         ],
+        "clength": 39,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} house \\textsc{prox} \\textsc{conneg} \\textsc{poss.1sg.o}",
         "imtwordsbare": [
@@ -12176,7 +12465,8 @@
             "\\textbf{ta{\\\ua78c}e}",
             "\u014d{\\\ua78c}oku."
         ],
-        "trs": "This house is not mine.\u2019 \\textstyleExampleref{[R229.268]}"
+        "trs": "This house is not mine.\u2019 \\textstyleExampleref{[R229.268]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -12187,6 +12477,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 72,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg.pfv} can also \\textsc{prop} \\textsc{3sg} for learn because\\_of \\textsc{art} \\textsc{conneg} sufficient of \\textsc{art} money",
         "imtwordsbare": [
@@ -12288,7 +12579,8 @@
             "te",
             "moni."
         ],
-        "trs": "He could not study as well (like his brother), because there was not enough money (lit. because of the not sufficient of the money).\u2019 \\textstyleExampleref{[R231.006]}"
+        "trs": "He could not study as well (like his brother), because there was not enough money (lit. because of the not sufficient of the money).\u2019 \\textstyleExampleref{[R231.006]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -12301,6 +12593,7 @@
             "poss",
             "prf"
         ],
+        "clength": 64,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{prf} see \\textsc{cont} \\textsc{ag} \\textsc{2sg} \\textsc{poss.2sg.o} \\textsc{conneg} listen \\textsc{med}",
         "imtwordsbare": [
@@ -12372,13 +12665,15 @@
             "hakaro\u014bo",
             "ena?"
         ],
-        "trs": "Do you see how disobedient you were (lit. your not listening)?\u2019 \\textstyleExampleref{[R481.117]}"
+        "trs": "Do you see how disobedient you were (lit. your not listening)?\u2019 \\textstyleExampleref{[R481.117]}",
+        "wlength": 9
     },
     {
         "categories": [
             "conneg",
             "prop"
         ],
+        "clength": 63,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{prop} Hiero child \\textsc{conneg} fat nor \\textsc{conneg} thin",
         "imtwordsbare": [
@@ -12443,13 +12738,15 @@
             "\\textbf{ta{\\\ua78c}e}",
             "p\u0101paku."
         ],
-        "trs": "Hiero was neither a fat nor a skinny child.\u2019 \\textstyleExampleref{[R315.020]}"
+        "trs": "Hiero was neither a fat nor a skinny child.\u2019 \\textstyleExampleref{[R315.020]}",
+        "wlength": 8
     },
     {
         "categories": [
             "conneg",
             "prox"
         ],
+        "clength": 63,
         "filename": "124/10mood.tex",
         "imt": "time \\textsc{prox} \\textsc{conneg} all person know of above",
         "imtwordsbare": [
@@ -12515,7 +12812,8 @@
             "o",
             "ru\u014ba."
         ],
-        "trs": "Nowadays, not all people know about it.\u2019 \\textstyleExampleref{[R647.206]}"
+        "trs": "Nowadays, not all people know about it.\u2019 \\textstyleExampleref{[R647.206]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -12523,6 +12821,7 @@
             "neg",
             "ntr"
         ],
+        "clength": 61,
         "filename": "124/10mood.tex",
         "imt": "and \\textsc{neg} \\textsc{ntr} can for \\textsc{conneg} look away",
         "imtwordsbare": [
@@ -12588,7 +12887,8 @@
             "u{\\\ua78c}i",
             "atu."
         ],
-        "trs": "And I\u2019m not able not to look at you.\u2019 \\textstyleExampleref{[R308.023]}"
+        "trs": "And I\u2019m not able not to look at you.\u2019 \\textstyleExampleref{[R308.023]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -12601,6 +12901,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 76,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{irr} \\textsc{conneg} inform hither \\textsc{2sg} \\textsc{ntr} kill \\textsc{1pl.excl} \\textsc{acc} \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -12683,7 +12984,8 @@
             "a",
             "koe."
         ],
-        "trs": "If you don\u2019t tell us, we will kill you.\u2019 \\textstyleExampleref{[Mtx-7-21.030]}"
+        "trs": "If you don\u2019t tell us, we will kill you.\u2019 \\textstyleExampleref{[Mtx-7-21.030]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -12696,6 +12998,7 @@
             "ipfv",
             "pred"
         ],
+        "clength": 88,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} word Rapa Nui \\textsc{conneg} \\textsc{pred} thing {\\db}\\textsc{ipfv} \\textsc{conneg} like \\textsc{emph} \\textsc{cont} \\textsc{ag} \\textsc{1sg}",
         "imtwordsbare": [
@@ -12797,7 +13100,8 @@
             "e",
             "au\\,{\\cb}."
         ],
-        "trs": "The Rapa Nui language is not something I don\u2019t like.\u2019 \\textstyleExampleref{[R648.251]}"
+        "trs": "The Rapa Nui language is not something I don\u2019t like.\u2019 \\textstyleExampleref{[R648.251]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -12807,6 +13111,7 @@
             "conneg",
             "prop"
         ],
+        "clength": 77,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{prop} Julio person {\\db}\\textsc{conneg} know \\textsc{acc} \\textsc{art} \\textsc{caus} run \\textsc{acc} \\textsc{art} boat",
         "imtwordsbare": [
@@ -12896,7 +13201,8 @@
             "te",
             "vaka\\,{\\cb}."
         ],
-        "trs": "Julio is a man who does not know how to navigate a boat.\u2019 \\textstyleExampleref{[R303.151]}"
+        "trs": "Julio is a man who does not know how to navigate a boat.\u2019 \\textstyleExampleref{[R303.151]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -12911,6 +13217,7 @@
             "pfv",
             "poss"
         ],
+        "clength": 97,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{pfv} \\textsc{conneg} lack \\textsc{dist} \\textsc{poss.2sg.o} wind \\textsc{dist} \\textsc{ntr} think for \\textsc{caus} straight  \\textsc{acc} \\textsc{art} boat to Tahiti",
         "imtwordsbare": [
@@ -13030,7 +13337,8 @@
             "ki",
             "Tahiti."
         ],
-        "trs": "When the wind did not die down, they decided to steer the boat to Tahiti.\u2019 \\textstyleExampleref{[R303.064]}"
+        "trs": "When the wind did not die down, they decided to steer the boat to Tahiti.\u2019 \\textstyleExampleref{[R303.064]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -13046,6 +13354,7 @@
             "prop",
             "prox"
         ],
+        "clength": 105,
         "filename": "124/10mood.tex",
         "imt": "if\\_only really \\textsc{poss.1sg.o} Mum \\textsc{dist} \\textsc{pfv} \\textsc{conneg} die \\textsc{imm} \\textsc{1sg}  at near in \\textsc{prop} \\textsc{3sg} in \\textsc{art} time \\textsc{prox}",
         "imtwordsbare": [
@@ -13177,7 +13486,8 @@
             "hora",
             "nei."
         ],
-        "trs": "If my mother had not died, I would be near her at this time.\u2019 \\textstyleExampleref{[R245.007]}"
+        "trs": "If my mother had not died, I would be near her at this time.\u2019 \\textstyleExampleref{[R245.007]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -13190,6 +13500,7 @@
             "nmlz",
             "prox"
         ],
+        "clength": 96,
         "filename": "124/10mood.tex",
         "imt": "{\\db}\\textsc{ins} tongue in\\_fact \\textsc{ipfv} \\textsc{conneg} lost \\textsc{med} \\textsc{art} \\textsc{caus} run \\textsc{nmlz}  of \\textsc{art} island \\textsc{prox}",
         "imtwordsbare": [
@@ -13297,7 +13608,8 @@
             "motu",
             "nei."
         ],
-        "trs": "By means of the language, the culture of this island will not be lost.\u2019 \\textstyleExampleref{[R647.155]}"
+        "trs": "By means of the language, the culture of this island will not be lost.\u2019 \\textstyleExampleref{[R647.155]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -13307,6 +13619,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 79,
         "filename": "124/10mood.tex",
         "imt": "{\\db}because\\_of \\textsc{ana} in\\_fact \\textsc{pfv} \\textsc{conneg} carry \\textsc{pvp} \\textsc{ins} thing for eat",
         "imtwordsbare": [
@@ -13389,7 +13702,8 @@
             "mo",
             "kai."
         ],
-        "trs": "Therefore they didn\u2019t take anything to eat.\u2019 \\textstyleExampleref{[R303.053]}"
+        "trs": "Therefore they didn\u2019t take anything to eat.\u2019 \\textstyleExampleref{[R303.053]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -13398,6 +13712,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 63,
         "filename": "124/10mood.tex",
         "imt": "{\\db}from \\textsc{dist} day \\textsc{pfv} \\textsc{conneg} work again \\textsc{pvp}",
         "imtwordsbare": [
@@ -13463,7 +13778,8 @@
             "haka{\\\ua78c}ou",
             "ai."
         ],
-        "trs": "From that day on, she did not work any more.\u2019 \\textstyleExampleref{[R441.005]}"
+        "trs": "From that day on, she did not work any more.\u2019 \\textstyleExampleref{[R441.005]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -13475,6 +13791,7 @@
             "med",
             "pred"
         ],
+        "clength": 70,
         "filename": "124/10mood.tex",
         "imt": "~~\\textsc{pred} what \\textsc{ipfv} \\textsc{conneg} do good \\textsc{med} \\textsc{acc} \\textsc{art} \\textsc{3pl} work",
         "imtwordsbare": [
@@ -13557,7 +13874,8 @@
             "r\u0101ua",
             "a\u014ba?"
         ],
-        "trs": "Why don\u2019t they do their work well?\u2019 \\textstyleExampleref{[R648.249]}"
+        "trs": "Why don\u2019t they do their work well?\u2019 \\textstyleExampleref{[R648.249]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -13566,6 +13884,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 66,
         "filename": "124/10mood.tex",
         "imt": "because\\_of \\textsc{ana} \\textsc{neg} \\textsc{ipfv} \\textsc{neg.ipfv} lost \\textsc{art} string\\_figure",
         "imtwordsbare": [
@@ -13631,7 +13950,8 @@
             "te",
             "kaikai."
         ],
-        "trs": "Therefore, the (art of making) string figures will not be lost.\u2019 \\textstyleExampleref{[R648.133]}"
+        "trs": "Therefore, the (art of making) string figures will not be lost.\u2019 \\textstyleExampleref{[R648.133]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -13645,6 +13965,7 @@
             "prop",
             "red"
         ],
+        "clength": 79,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg.pfv} \\textsc{conneg} \\textsc{caus} know \\textsc{prom} who \\textsc{prop} \\textsc{3sg} \\textsc{ins} thing good:\\textsc{red} do",
         "imtwordsbare": [
@@ -13734,7 +14055,8 @@
             "rivariva",
             "a\u014ba."
         ],
-        "trs": "(God) did not fail to make known who he is, by the good things he did.\u2019 (\\textstyleExampleref{Acts 14:17]}\\textstyleExampleref{}"
+        "trs": "(God) did not fail to make known who he is, by the good things he did.\u2019 (\\textstyleExampleref{Acts 14:17]}\\textstyleExampleref{}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -13743,6 +14065,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 77,
         "filename": "124/10mood.tex",
         "imt": "~~~\\textsc{neg} \\textsc{ipfv} \\textsc{neg.ipfv} \\textsc{conneg} obtain \\textsc{art} fish",
         "imtwordsbare": [
@@ -13802,7 +14125,8 @@
             "te",
             "ika."
         ],
-        "trs": "(If the mother does not eat the fish caught by her firstborn son,) he will not fail to catch fish.\u2019 \\textstyleExampleref{[Ley-5-27.008]}"
+        "trs": "(If the mother does not eat the fish caught by her firstborn son,) he will not fail to catch fish.\u2019 \\textstyleExampleref{[Ley-5-27.008]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -13812,6 +14136,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 42,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} \\textsc{neg.ipfv} lack \\textsc{art} lobster \\textsc{dist} for today.\\textsc{fut}",
         "imtwordsbare": [
@@ -13876,7 +14201,8 @@
             "m\u0101",
             "n\u012br\u0101."
         ],
-        "trs": "The lobster won\u2019t be lacking (=we will have plenty of lobster) for today.\u2019 \\textstyleExampleref{[R230.033]}"
+        "trs": "The lobster won\u2019t be lacking (=we will have plenty of lobster) for today.\u2019 \\textstyleExampleref{[R230.033]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -13885,6 +14211,7 @@
             "ntr",
             "prf"
         ],
+        "clength": 42,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} look \\textsc{prf} lack \\textsc{cont} \\textsc{art} cry",
         "imtwordsbare": [
@@ -13943,7 +14270,8 @@
             "te",
             "ta\u014bi."
         ],
-        "trs": "He looked (at his wife); the crying was over.\u2019 \\textstyleExampleref{[Ley-9-55.076]}"
+        "trs": "He looked (at his wife); the crying was over.\u2019 \\textstyleExampleref{[Ley-9-55.076]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -13952,6 +14280,7 @@
             "dist",
             "pl"
         ],
+        "clength": 75,
         "coordination": "and",
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} \\textsc{pl} child parent lack \\textsc{dist} of \\textsc{coll} Eugenio \\textsc{art} care\\_for",
@@ -14035,7 +14364,8 @@
             "te",
             "h\u0101pa{\\\ua78c}o."
         ],
-        "trs": "Children without parents, Eugenio and the others took care of them.\u2019 \\textstyleExampleref{[R231.308]}"
+        "trs": "Children without parents, Eugenio and the others took care of them.\u2019 \\textstyleExampleref{[R231.308]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -14043,6 +14373,7 @@
             "dist",
             "pred"
         ],
+        "clength": 63,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{art} problem \\textsc{pred} file lack for grate of \\textsc{dist} time",
         "imtwordsbare": [
@@ -14119,7 +14450,8 @@
             "r\u0101",
             "hora."
         ],
-        "trs": "The problem was the lack of files to sharpen (the fishhooks) at the time.\u2019 \\textstyleExampleref{[R539-1.335]}"
+        "trs": "The problem was the lack of files to sharpen (the fishhooks) at the time.\u2019 \\textstyleExampleref{[R539-1.335]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -14127,6 +14459,7 @@
             "cont",
             "prf"
         ],
+        "clength": 64,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{prf} thin \\textsc{cont} \\textsc{art} person at \\textsc{art} food lack",
         "imtwordsbare": [
@@ -14197,7 +14530,8 @@
             "\\textbf{kai}",
             "\\textbf{kore}."
         ],
-        "trs": "The people were skinny from lack of food.\u2019 \\textstyleExampleref{[R372.025]}"
+        "trs": "The people were skinny from lack of food.\u2019 \\textstyleExampleref{[R372.025]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -14210,6 +14544,7 @@
             "poss",
             "pvp"
         ],
+        "clength": 73,
         "filename": "124/10mood.tex",
         "imt": "~\\textsc{neg.pfv} descend yet away really \\textsc{poss.1sg.a} word \\textsc{2sg} \\textsc{pfv} answer \\textsc{emph} hither \\textsc{pvp}",
         "imtwordsbare": [
@@ -14304,7 +14639,8 @@
             "mai",
             "ai!"
         ],
-        "trs": "I hadn\u2019t finished speaking yet when you answered!\u2019 \\textstyleExampleref{[R314.139]}"
+        "trs": "I hadn\u2019t finished speaking yet when you answered!\u2019 \\textstyleExampleref{[R314.139]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -14322,6 +14658,7 @@
             "prom",
             "prop"
         ],
+        "clength": 122,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ipfv} \\textsc{neg.ipfv} crow yet \\textsc{art} chicken \\textsc{cntg} say \\textsc{med} \\textsc{ag} \\textsc{2sg} \\textsc{num} three say \\textsc{nmlz}  \\textsc{neg.pfv} know \\textsc{2sg} \\textsc{prom} who \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -14470,7 +14807,8 @@
             "a",
             "au."
         ],
-        "trs": "Before the rooster crows, you will say three times that you don\u2019t know who I am.\u2019 \\textstyleExampleref{[Jhn. 13:38]}"
+        "trs": "Before the rooster crows, you will say three times that you don\u2019t know who I am.\u2019 \\textstyleExampleref{[Jhn. 13:38]}",
+        "wlength": 22
     },
     {
         "categories": [
@@ -14479,6 +14817,7 @@
             "pred",
             "prox"
         ],
+        "clength": 91,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{ntr} tell while \\textsc{conneg} know yet like \\textsc{prox} thus \\textsc{pred} witch",
         "imtwordsbare": [
@@ -14561,7 +14900,8 @@
             "he",
             "tahutahu."
         ],
-        "trs": "She told it, without knowing yet that (the other person) was a witch.\u2019 \\textstyleExampleref{[R532-07.044]}"
+        "trs": "She told it, without knowing yet that (the other person) was a witch.\u2019 \\textstyleExampleref{[R532-07.044]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -14576,6 +14916,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 120,
         "filename": "124/10mood.tex",
         "imt": "\\textsc{neg.pfv} go\\_ashore yet hither \\textsc{cont}\\textsc{} at \\textsc{art} afternoon \\textsc{pfv} know all \\textsc{emph} \\textsc{pvp} \\textsc{art} inland \\textsc{acc} \\textsc{dem} word new \\textsc{dist}",
         "imtwordsbare": [
@@ -14713,6 +15054,7 @@
             "{\\\ua78c}\u0101p\u012b",
             "era."
         ],
-        "trs": "They had not arrived yet in the afternoon when all people ashore knew the news.\u2019 \\textstyleExampleref{[R345.015]}\\textstyleExampleref{}"
+        "trs": "They had not arrived yet in the afternoon when all people ashore knew the news.\u2019 \\textstyleExampleref{[R345.015]}\\textstyleExampleref{}",
+        "wlength": 20
     }
 ]

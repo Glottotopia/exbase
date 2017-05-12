@@ -47,6 +47,8 @@ class gll():
     self.imtwordshtml = [self.tex2html(w) for w in self.imtwordstex]
     self.srcwordsbare = [self.striptex(w) for w in self.srcwordstex]
     self.imtwordsbare = [self.striptex(w,sc2upper=True) for w in self.imtwordstex]
+    self.clength = len(self.src)
+    self.wlength = len(self.srcwordsbare)
     self.analyze()
     
   def tex2html(self,s):

@@ -4,6 +4,7 @@
             "art",
             "cont"
         ],
+        "clength": 54,
         "filename": "124/07verbphrase.tex",
         "imt": "go\\_all all \\textsc{cont} \\textsc{art} person for observe",
         "imtwordsbare": [
@@ -62,7 +63,8 @@
             "mo",
             "m\u0101ta{\\\ua78c}ita{\\\ua78c}i."
         ],
-        "trs": "All the people went to watch.\u2019 \\textstyleExampleref{[R415.785]}"
+        "trs": "All the people went to watch.\u2019 \\textstyleExampleref{[R415.785]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -72,6 +74,7 @@
             "red",
             "subs"
         ],
+        "clength": 83,
         "filename": "124/07verbphrase.tex",
         "imt": "stay \\textsc{emph} \\textsc{subs} \\textsc{art} battle \\textsc{ntr} bad:\\textsc{red} \\textsc{emph} \\textsc{subs} the\\_two side",
         "imtwordsbare": [
@@ -154,7 +157,8 @@
             "ararua",
             "{\\\ua78c}aro."
         ],
-        "trs": "The battle went on, it got bad on both sides.\u2019 \\textstyleExampleref{[R104.074]}"
+        "trs": "The battle went on, it got bad on both sides.\u2019 \\textstyleExampleref{[R104.074]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -164,6 +168,7 @@
             "prop",
             "red"
         ],
+        "clength": 155,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} go\\_out hither \\textsc{prop} Mum \\textsc{ntr} \\textsc{caus} good:\\textsc{red} \\textsc{ntr} finish \\textsc{ntr} go\\_out  \\textsc{ntr} go\\_down the\\_two \\textsc{prom} Eva \\textsc{ntr} arrive to Hanga Piko",
         "imtwordsbare": [
@@ -312,7 +317,8 @@
             "Ha\u014ba",
             "Piko."
         ],
-        "trs": "Mum went out, she made preparations, she finished, she went out, she went down with Eva, they arrived in Hanga Piko.\u2019 \\textstyleExampleref{[R210.038]}"
+        "trs": "Mum went out, she made preparations, she finished, she went out, she went down with Eva, they arrived in Hanga Piko.\u2019 \\textstyleExampleref{[R210.038]}",
+        "wlength": 22
     },
     {
         "categories": [
@@ -324,6 +330,7 @@
             "poss",
             "prop"
         ],
+        "clength": 96,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} born \\textsc{dist} \\textsc{prop} Puakiva \\textsc{ntr} sick \\textsc{prop} Kuha \\textsc{poss.3sg.o} parent female",
         "imtwordsbare": [
@@ -412,7 +419,8 @@
             "matu{\\\ua78c}a",
             "vahine."
         ],
-        "trs": "When Puakiva was born, his mother Kuha got sick.\u2019 \\textstyleExampleref{[R229.001]}"
+        "trs": "When Puakiva was born, his mother Kuha got sick.\u2019 \\textstyleExampleref{[R229.001]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -420,6 +428,7 @@
             "art",
             "ntr"
         ],
+        "clength": 47,
         "filename": "124/07verbphrase.tex",
         "imt": "every \\textsc{art} day \\textsc{ntr} go\\_down \\textsc{1sg} to \\textsc{art} learn",
         "imtwordsbare": [
@@ -490,13 +499,15 @@
             "te",
             "h\u0101p\u012b."
         ],
-        "trs": "Every day I go to school.\u2019 \\textstyleExampleref{[R151.059]}"
+        "trs": "Every day I go to school.\u2019 \\textstyleExampleref{[R151.059]}",
+        "wlength": 9
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 97,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} sing \\textsc{art} cricket \\textsc{ntr} chirp \\textsc{art} bird \\textsc{ntr} moo \\textsc{art} cow",
         "imtwordsbare": [
@@ -585,7 +596,8 @@
             "te",
             "pua{\\\ua78c}a."
         ],
-        "trs": "Crickets sing. Birds chirp. Cows bellow.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "Crickets sing. Birds chirp. Cows bellow.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -595,6 +607,7 @@
             "poss",
             "voc"
         ],
+        "clength": 55,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} sweet just \\textsc{poss.2sg.a} fish raw \\textsc{voc} Mum \\textsc{voc}",
         "imtwordsbare": [
@@ -665,7 +678,8 @@
             "nua",
             "\u0113."
         ],
-        "trs": "Your raw fish is really nice, Mum.\u2019 \\textstyleExampleref{[R535.095]}"
+        "trs": "Your raw fish is really nice, Mum.\u2019 \\textstyleExampleref{[R535.095]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -675,6 +689,7 @@
             "prop",
             "red"
         ],
+        "clength": 76,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} descend \\textsc{art} child female \\textsc{ntr} feed \\textsc{acc} \\textsc{prop} Uho \\textsc{ntr} big:\\textsc{red}",
@@ -764,7 +779,8 @@
             "\\textbf{he}",
             "\\textbf{nuinui}."
         ],
-        "trs": "A girl was born... They raised Uho and she grew up.\u2019 \\textstyleExampleref{[Ley-9-55.026\u2013027]}"
+        "trs": "A girl was born... They raised Uho and she grew up.\u2019 \\textstyleExampleref{[Ley-9-55.026\u2013027]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -774,6 +790,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 55,
         "filename": "124/07verbphrase.tex",
         "imt": "year \\textsc{med} \\textsc{ntr} return \\textsc{prop} \\textsc{1sg} to \\textsc{art} learn",
         "imtwordsbare": [
@@ -844,7 +861,8 @@
             "te",
             "h\u0101p\u012b."
         ],
-        "trs": "Next year I will return to school.\u2019 \\textstyleExampleref{[R210.003]}"
+        "trs": "Next year I will return to school.\u2019 \\textstyleExampleref{[R210.003]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -854,6 +872,7 @@
             "ntr",
             "voc"
         ],
+        "clength": 65,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} lie \\textsc{dist} \\textsc{2sg} \\textsc{voc} Hina \\textsc{voc} at \\textsc{art} laugh",
         "imtwordsbare": [
@@ -930,7 +949,8 @@
             "te",
             "kata."
         ],
-        "trs": "Hina laughed her head off (lit. you, Hina, lied down laughing).\u2019 \\textstyleExampleref{[R313.025]}"
+        "trs": "Hina laughed her head off (lit. you, Hina, lied down laughing).\u2019 \\textstyleExampleref{[R313.025]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -941,6 +961,7 @@
             "prox",
             "subs"
         ],
+        "clength": 108,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} chase \\textsc{ntr} go \\textsc{ag} \\textsc{art} woman \\textsc{prox} and \\textsc{ntr} disapeaar \\textsc{emph} away \\textsc{subs}",
         "imtwordsbare": [
@@ -1041,7 +1062,8 @@
             "\\textbf{atu}",
             "\\textbf{{\\\ua78c}ai}."
         ],
-        "trs": "The woman chased the fish.... but it disappeared.\u2019 \\textstyleExampleref{[R338.009]}"
+        "trs": "The woman chased the fish.... but it disappeared.\u2019 \\textstyleExampleref{[R338.009]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -1051,6 +1073,7 @@
             "prox",
             "subs"
         ],
+        "clength": 101,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} parent female of \\textsc{art} child \\textsc{prox} \\textsc{ntr} cry \\textsc{emph} away \\textsc{subs}",
         "imtwordsbare": [
@@ -1139,7 +1162,8 @@
             "\\textbf{atu}",
             "\\textbf{{\\\ua78c}ai}."
         ],
-        "trs": "The mother of the child cried.\u2019 \\textstyleExampleref{[R338.008]}"
+        "trs": "The mother of the child cried.\u2019 \\textstyleExampleref{[R338.008]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -1151,6 +1175,7 @@
             "prop",
             "prox"
         ],
+        "clength": 91,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} \\textsc{1sg} \\textsc{pfv} go hither \\textsc{prox} to \\textsc{prop} \\textsc{2sg} for stay \\textsc{poss.1sg.o} at \\textsc{prox}",
         "imtwordsbare": [
@@ -1251,7 +1276,8 @@
             "{\\\ua78c}i",
             "nei."
         ],
-        "trs": "I have come to you to live here.\u2019 \\textstyleExampleref{[R245.072]}"
+        "trs": "I have come to you to live here.\u2019 \\textstyleExampleref{[R245.072]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -1259,6 +1285,7 @@
             "pfv",
             "prom"
         ],
+        "clength": 30,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prom} \\textsc{2sg} \\textsc{pfv} win",
         "imtwordsbare": [
@@ -1299,7 +1326,8 @@
             "\\textbf{i}",
             "\\textbf{r\u0113}."
         ],
-        "trs": "You have won.\u2019 \\textstyleExampleref{[R210.071]}"
+        "trs": "You have won.\u2019 \\textstyleExampleref{[R210.071]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1313,6 +1341,7 @@
             "prox",
             "voc"
         ],
+        "clength": 93,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{voc} Nuahine Pikea Uri \\textsc{voc} \\textsc{poss.2sg.a} \\textsc{emph} \\textsc{poss.2sg.a} mat \\textsc{prox} of \\textsc{1du.excl} \\textsc{pfv} steal",
         "imtwordsbare": [
@@ -1413,7 +1442,8 @@
             "\\textbf{i}",
             "\\textbf{toke}!"
         ],
-        "trs": "Nuahine Pikea Uri, it was you who stole that mat of ours!\u2019 \\textstyleExampleref{[R310.428]}"
+        "trs": "Nuahine Pikea Uri, it was you who stole that mat of ours!\u2019 \\textstyleExampleref{[R310.428]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -1421,6 +1451,7 @@
             "conneg",
             "pfv"
         ],
+        "clength": 88,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} thing of \\textsc{art} past thing \\textsc{conneg} talk \\textsc{pfv} quiet just",
         "imtwordsbare": [
@@ -1504,7 +1535,8 @@
             "\\textbf{mou}",
             "\\textbf{n\u014d}."
         ],
-        "trs": "The people of old used not to speak, they kept silent.\u2019 \\textstyleExampleref{[R310.216]}"
+        "trs": "The people of old used not to speak, they kept silent.\u2019 \\textstyleExampleref{[R310.216]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -1515,6 +1547,7 @@
             "pfv",
             "poss"
         ],
+        "clength": 82,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} enter \\textsc{dist} \\textsc{2sg} to inside at \\textsc{poss.2sg.o} house \\textsc{dist} \\textsc{ipfv} stay \\textsc{2sg}",
         "imtwordsbare": [
@@ -1609,7 +1642,8 @@
             "noho",
             "koe."
         ],
-        "trs": "When you have entered into your house, stay there.\u2019 \\textstyleExampleref{[R310.297]}"
+        "trs": "When you have entered into your house, stay there.\u2019 \\textstyleExampleref{[R310.297]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -1625,6 +1659,7 @@
             "pvp",
             "red"
         ],
+        "clength": 110,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} Te Manu \\textsc{pfv} stay \\textsc{pvp} at near at \\textsc{dem} grandmother \\textsc{dist} \\textsc{poss.3sg.o}  until to \\textsc{art} big:\\textsc{red} \\textsc{nmlz}",
         "imtwordsbare": [
@@ -1749,7 +1784,8 @@
             "nuinui",
             "i\u014ba."
         ],
-        "trs": "Te Manu stayed with his aunt until he had grown up.\u2019 \\textstyleExampleref{[R245.246]}"
+        "trs": "Te Manu stayed with his aunt until he had grown up.\u2019 \\textstyleExampleref{[R245.246]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -1758,6 +1794,7 @@
             "prox",
             "pvp"
         ],
+        "clength": 154,
         "filename": "124/07verbphrase.tex",
         "imt": "sick \\textsc{prox} \\textsc{pfv} arrive hither \\textsc{pvp} to Rapa Nui of \\textsc{art} people employee  of \\textsc{art} company \\textsc{pfv} carry hither",
         "imtwordsbare": [
@@ -1888,7 +1925,8 @@
             "\\textbf{ma{\\\ua78c}u}",
             "\\textbf{mai}."
         ],
-        "trs": "This disease had arrived on Rapa Nui, introduced by the employees of the Company.\u2019 \\textstyleExampleref{[R250.084]}"
+        "trs": "This disease had arrived on Rapa Nui, introduced by the employees of the Company.\u2019 \\textstyleExampleref{[R250.084]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -1903,6 +1941,7 @@
             "pvp",
             "red"
         ],
+        "clength": 147,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{neg.pfv} blow good:\\textsc{red} then \\textsc{art} breath at \\textsc{art} short of \\textsc{art} breath  \\textsc{pfv} shout \\textsc{emph} away \\textsc{pvp} for \\textsc{caus} know \\textsc{acc} \\textsc{dem} problem \\textsc{dist}",
         "imtwordsbare": [
@@ -2063,7 +2102,8 @@
             "{\\\ua78c}ati",
             "era."
         ],
-        "trs": "Short of breath, she shouted to make the trouble known.\u2019 \\textstyleExampleref{[R347.128]}"
+        "trs": "Short of breath, she shouted to make the trouble known.\u2019 \\textstyleExampleref{[R347.128]}",
+        "wlength": 24
     },
     {
         "categories": [
@@ -2073,6 +2113,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 85,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} sit just \\textsc{cont} \\textsc{prop} Te Manu \\textsc{pfv} pass away \\textsc{pvp} \\textsc{prop} Nune",
         "imtwordsbare": [
@@ -2167,7 +2208,8 @@
             "a",
             "Nune..."
         ],
-        "trs": "When Te Manu was sitting, Nune came by...\u2019 \\textstyleExampleref{[R245.174]}"
+        "trs": "When Te Manu was sitting, Nune came by...\u2019 \\textstyleExampleref{[R245.174]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -2181,6 +2223,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 110,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} ascend just away \\textsc{cont} \\textsc{pfv} see \\textsc{emph} \\textsc{pvp} \\textsc{ag} \\textsc{art} woman of \\textsc{dem} father \\textsc{dist} of Te Manu",
         "imtwordsbare": [
@@ -2311,7 +2354,8 @@
             "Te",
             "Manu."
         ],
-        "trs": "When he was going up, the wife of Te Manu\u2019s father saw him.\u2019 \\textstyleExampleref{[R245.214]}"
+        "trs": "When he was going up, the wife of Te Manu\u2019s father saw him.\u2019 \\textstyleExampleref{[R245.214]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -2320,6 +2364,7 @@
             "prox",
             "pvp"
         ],
+        "clength": 113,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} way \\textsc{prox} of \\textsc{art} people \\textsc{prox} \\textsc{pfv} go\\_out \\textsc{pvp} from Hanga Roa o Tai  at above of \\textsc{art} boat \\textsc{prox}",
         "imtwordsbare": [
@@ -2462,7 +2507,8 @@
             "vaka",
             "nei."
         ],
-        "trs": "As to these people\u2019s trip, they had left Hanga Roa o Tai by boat.\u2019 \\textstyleExampleref{[R361.004]}"
+        "trs": "As to these people\u2019s trip, they had left Hanga Roa o Tai by boat.\u2019 \\textstyleExampleref{[R361.004]}",
+        "wlength": 21
     },
     {
         "categories": [
@@ -2473,6 +2519,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 130,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{ntr} ascend \\textsc{ntr} go to \\textsc{art} place house \\textsc{dist} \\textsc{pfv} run \\textsc{prop} Tiare  \\textsc{pfv} ascend \\textsc{pvp} to \\textsc{art} place house \\textsc{dist}",
         "imtwordsbare": [
@@ -2615,7 +2662,8 @@
             "hare",
             "era."
         ],
-        "trs": "...she went up to her home. Running, Tiare went up to her home.\u2019 \\textstyleExampleref{[R151.053]}"
+        "trs": "...she went up to her home. Running, Tiare went up to her home.\u2019 \\textstyleExampleref{[R151.053]}",
+        "wlength": 21
     },
     {
         "categories": [
@@ -2624,6 +2672,7 @@
             "exh",
             "prop"
         ],
+        "clength": 48,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{exh} care\\_for \\textsc{2pl} \\textsc{acc} \\textsc{prop} Puakiva",
         "imtwordsbare": [
@@ -2676,7 +2725,8 @@
             "a",
             "Puakiva."
         ],
-        "trs": "Take care of Puakiva.\u2019 \\textstyleExampleref{[R229.420\u2013421]}"
+        "trs": "Take care of Puakiva.\u2019 \\textstyleExampleref{[R229.420\u2013421]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2687,6 +2737,7 @@
             "ident",
             "ipfv"
         ],
+        "clength": 54,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ben.1sg.a} \\textsc{ident} \\textsc{ipfv} go\\_out to \\textsc{art} bird",
         "imtwordsbare": [
@@ -2745,7 +2796,8 @@
             "te",
             "manu."
         ],
-        "trs": "I myself will go up to the birds.\u2019 \\textstyleExampleref{[Egt-01.014]}"
+        "trs": "I myself will go up to the birds.\u2019 \\textstyleExampleref{[Egt-01.014]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2760,6 +2812,7 @@
             "poss",
             "prom"
         ],
+        "clength": 87,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{imp} stay \\textsc{2sg} \\textsc{prom} Dad \\textsc{ipfv} return \\textsc{emph} hither \\textsc{1pl.excl} \\textsc{cntg} bury \\textsc{poss.2sg.a} corpse",
@@ -2861,7 +2914,8 @@
             "t\u0101{\\\ua78c}au",
             "p\u0101paku."
         ],
-        "trs": "You and Dad should stay, we will return and bury the body.\u2019 \\textstyleExampleref{[Ley-4-08.017]}"
+        "trs": "You and Dad should stay, we will return and bury the body.\u2019 \\textstyleExampleref{[Ley-4-08.017]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -2874,6 +2928,7 @@
             "ipfv",
             "poss"
         ],
+        "clength": 55,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} care\\_for \\textsc{emph} \\textsc{ag} \\textsc{1sg} \\textsc{acc} \\textsc{poss.3sg.a} child",
         "imtwordsbare": [
@@ -2938,7 +2993,8 @@
             "t\u0101{\\\ua78c}ana",
             "poki."
         ],
-        "trs": "I will look after her child.\u2019 \\textstyleExampleref{[R229.081]}"
+        "trs": "I will look after her child.\u2019 \\textstyleExampleref{[R229.081]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -2946,6 +3002,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 46,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} hide \\textsc{dist} \\textsc{prop} Kainga",
         "imtwordsbare": [
@@ -2992,7 +3049,8 @@
             "a",
             "Kai\u014ba."
         ],
-        "trs": "Kainga was hiding.\u2019 \\textstyleExampleref{[R304.093]}"
+        "trs": "Kainga was hiding.\u2019 \\textstyleExampleref{[R304.093]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -3001,6 +3059,7 @@
             "dist",
             "ipfv"
         ],
+        "clength": 85,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} dance \\textsc{art} song Rapa Nui \\textsc{art} entertaining \\textsc{ipfv} look \\textsc{dist} \\textsc{ag} Eva",
@@ -3096,7 +3155,8 @@
             "e",
             "Eva."
         ],
-        "trs": "Eva looked at the dancing, Rapa Nui singing and the entertainment.\u2019 \\textstyleExampleref{[R210.133]}"
+        "trs": "Eva looked at the dancing, Rapa Nui singing and the entertainment.\u2019 \\textstyleExampleref{[R210.133]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -3105,6 +3165,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 110,
         "filename": "124/07verbphrase.tex",
         "imt": "every \\textsc{art} day \\textsc{prop} Huri a Vai \\textsc{ipfv} ascend \\textsc{dist} from Hanga Tu\u2019u Hata to Kauhanga o Varu",
         "imtwordsbare": [
@@ -3229,7 +3290,8 @@
             "o",
             "Varu."
         ],
-        "trs": "Every day, Huri a Vai went up from Hanga Tu\u2019u Hata to Kauhanga o Varu.\u2019 \\textstyleExampleref{[R304.001]}"
+        "trs": "Every day, Huri a Vai went up from Hanga Tu\u2019u Hata to Kauhanga o Varu.\u2019 \\textstyleExampleref{[R304.001]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -3239,6 +3301,7 @@
             "prop",
             "red"
         ],
+        "clength": 96,
         "filename": "124/07verbphrase.tex",
         "imt": "all thing bad:\\textsc{red} \\textsc{ipfv} \\textsc{caus} do \\textsc{dist} to \\textsc{prop} Puakiva",
         "imtwordsbare": [
@@ -3315,7 +3378,8 @@
             "a",
             "Puakiva."
         ],
-        "trs": "He made Puakiva do all bad/dirty jobs.\u2019 \\textstyleExampleref{[R229.397]}"
+        "trs": "He made Puakiva do all bad/dirty jobs.\u2019 \\textstyleExampleref{[R229.397]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3325,6 +3389,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 96,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} plant \\textsc{cont} \\textsc{prop} Tama te Rano Kao \\textsc{acc} \\textsc{art} banana at below at \\textsc{art} crater",
         "imtwordsbare": [
@@ -3437,7 +3502,8 @@
             "te",
             "rano."
         ],
-        "trs": "Tama te Rano Kao was planting bananas below in the crater.\u2019 \\textstyleExampleref{[Mtx-3-11.053]}"
+        "trs": "Tama te Rano Kao was planting bananas below in the crater.\u2019 \\textstyleExampleref{[Mtx-3-11.053]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -3446,6 +3512,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 64,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} Dad \\textsc{ipfv} work \\textsc{cont} at \\textsc{art} wharf",
         "imtwordsbare": [
@@ -3510,7 +3577,8 @@
             "te",
             "{\\\ua78c}uahu."
         ],
-        "trs": "Dad was working on the wharf.\u2019 \\textstyleExampleref{[R210.041]}"
+        "trs": "Dad was working on the wharf.\u2019 \\textstyleExampleref{[R210.041]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -3520,6 +3588,7 @@
             "dist",
             "ipfv"
         ],
+        "clength": 111,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} glass indeed \\textsc{ipfv} make just \\textsc{cont} at \\textsc{dist} time \\textsc{ag} \\textsc{art} people adult \\textsc{dist}",
         "imtwordsbare": [
@@ -3626,7 +3695,8 @@
             "pa{\\\ua78c}ari",
             "era."
         ],
-        "trs": "The (diving) glasses were made at that time by the older people.\u2019 \\textstyleExampleref{[R360.027]}"
+        "trs": "The (diving) glasses were made at that time by the older people.\u2019 \\textstyleExampleref{[R360.027]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -3636,6 +3706,7 @@
             "ipfv",
             "pfv"
         ],
+        "clength": 89,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} unripe just \\textsc{cont} indeed \\textsc{art} wood \\textsc{dist} \\textsc{pfv} cut hither \\textsc{dist}",
         "imtwordsbare": [
@@ -3724,7 +3795,8 @@
             "mai",
             "era."
         ],
-        "trs": "The wood that has been cut is still green.\u2019 \\textstyleExampleref{[R200.063]}"
+        "trs": "The wood that has been cut is still green.\u2019 \\textstyleExampleref{[R200.063]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -3734,6 +3806,7 @@
             "prop",
             "red"
         ],
+        "clength": 68,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} small:\\textsc{red} just \\textsc{cont} \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -3786,7 +3859,8 @@
             "a",
             "koe."
         ],
-        "trs": "You are still small.\u2019 \\textstyleExampleref{[R210.052]}"
+        "trs": "You are still small.\u2019 \\textstyleExampleref{[R210.052]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -3801,6 +3875,7 @@
             "pred",
             "prop"
         ],
+        "clength": 79,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{pred} what \\textsc{ipfv} difficult \\textsc{med} for \\textsc{caus} forgotten \\textsc{poss.1sg.o} \\textsc{acc} \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -3889,7 +3964,8 @@
             "a",
             "koe?"
         ],
-        "trs": "Why is it difficult to forget you?\u2019 \\textstyleExampleref{[R452.025\u2013026]}"
+        "trs": "Why is it difficult to forget you?\u2019 \\textstyleExampleref{[R452.025\u2013026]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -3901,6 +3977,7 @@
             "prf",
             "prox"
         ],
+        "clength": 81,
         "filename": "124/07verbphrase.tex",
         "imt": "like \\textsc{prox} \\textsc{ipfv} say \\textsc{prox} \\textsc{ag} \\textsc{art} people \\textsc{prox} \\textsc{prf} die \\textsc{cont} \\textsc{2sg}",
         "imtwordsbare": [
@@ -3995,7 +4072,8 @@
             "{\\\ua78c}ana",
             "koe."
         ],
-        "trs": "This is what these people are saying: you have died.\u2019 \\textstyleExampleref{[R229.316]}"
+        "trs": "This is what these people are saying: you have died.\u2019 \\textstyleExampleref{[R229.316]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -4010,6 +4088,7 @@
             "prom",
             "prop"
         ],
+        "clength": 98,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{imm} really \\textsc{ident} \\textsc{prop} \\textsc{1sg} \\textsc{ipfv} cry away \\textsc{med} to \\textsc{prop} \\textsc{2sg} \\textsc{prom} \\textsc{art} \\textsc{pl} child",
         "imtwordsbare": [
@@ -4122,7 +4201,8 @@
             "\u014b\u0101",
             "poki!"
         ],
-        "trs": "I was just missing you, children!\u2019 \\textstyleExampleref{[R313.097]}"
+        "trs": "I was just missing you, children!\u2019 \\textstyleExampleref{[R313.097]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -4130,6 +4210,7 @@
             "cntg",
             "ntr"
         ],
+        "clength": 44,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} look away \\textsc{cntg} approach \\textsc{art} bird \\textit{taiko}",
         "imtwordsbare": [
@@ -4194,7 +4275,8 @@
             "manu",
             "taiko."
         ],
-        "trs": "She saw a \\textit{taiko} bird come by.\u2019 \\textstyleExampleref{[Ley-9-55.078]}"
+        "trs": "She saw a \\textit{taiko} bird come by.\u2019 \\textstyleExampleref{[Ley-9-55.078]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -4205,6 +4287,7 @@
             "pred",
             "prop"
         ],
+        "clength": 76,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} name of \\textsc{art} food \\textsc{dist} ~\\textsc{cntg} carry hither \\textsc{dist} to \\textsc{prop} \\textsc{2sg} \\textsc{pred} \\textit{ioiora\u014bi}",
         "imtwordsbare": [
@@ -4311,7 +4394,8 @@
             "he",
             "ioiora\u014bi."
         ],
-        "trs": "The name of the food they will bring you is \\textit{ioiora\u014bi}.\u2019 \\textstyleExampleref{[R310.060]}"
+        "trs": "The name of the food they will bring you is \\textit{ioiora\u014bi}.\u2019 \\textstyleExampleref{[R310.060]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -4320,6 +4404,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 54,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{cntg} mock \\textsc{dist} \\textsc{ntr} angry \\textsc{prop} Taparahi",
         "imtwordsbare": [
@@ -4378,7 +4463,8 @@
             "a",
             "Taparahi."
         ],
-        "trs": "When they mocked, Taparahi would get angry.\u2019 \\textstyleExampleref{[R250.151]}"
+        "trs": "When they mocked, Taparahi would get angry.\u2019 \\textstyleExampleref{[R250.151]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -4388,6 +4474,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 48,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{cntg} feed away \\textsc{med} to \\textsc{prop} \\textsc{2sg} \\textsc{ntr} die \\textsc{2sg}",
         "imtwordsbare": [
@@ -4464,7 +4551,8 @@
             "mate",
             "koe."
         ],
-        "trs": "If (the two spirits) feed you, you will die.\u2019 \\textstyleExampleref{[R310.061]}"
+        "trs": "If (the two spirits) feed you, you will die.\u2019 \\textstyleExampleref{[R310.061]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -4478,6 +4566,7 @@
             "prop",
             "red"
         ],
+        "clength": 81,
         "filename": "124/07verbphrase.tex",
         "imt": "hither \\textsc{hort} care\\_for just \\textsc{1pl.incl} \\textsc{acc} \\textsc{prop} \\textsc{3sg} until \\textsc{cntg} big:\\textsc{red} \\textsc{emph}",
         "imtwordsbare": [
@@ -4566,7 +4655,8 @@
             "nuinui",
             "\\textbf{r\u014d}."
         ],
-        "trs": "Let us take care of him until he is big.\u2019 \\textstyleExampleref{[R211.063]}"
+        "trs": "Let us take care of him until he is big.\u2019 \\textstyleExampleref{[R211.063]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -4575,6 +4665,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 48,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} eat \\textsc{prop} Te Manu \\textsc{cntg} satiated \\textsc{emph}",
         "imtwordsbare": [
@@ -4639,7 +4730,8 @@
             "m\u0101kona",
             "\\textbf{r\u014d}."
         ],
-        "trs": "Te Manu ate until he was satiated.\u2019 \\textstyleExampleref{[R245.067]}"
+        "trs": "Te Manu ate until he was satiated.\u2019 \\textstyleExampleref{[R245.067]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -4651,6 +4743,7 @@
             "ipfv",
             "poss"
         ],
+        "clength": 72,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{cntg} many away \\textsc{poss.1sg.a} child \\textsc{ipfv} care\\_for just \\textsc{ag} \\textsc{1sg} \\textsc{ident}",
         "imtwordsbare": [
@@ -4733,7 +4826,8 @@
             "au",
             "{\\\ua78c}\u0101."
         ],
-        "trs": "Even if I have many children, I will care for them myself.\u2019 \\textstyleExampleref{[R229.023]}"
+        "trs": "Even if I have many children, I will care for them myself.\u2019 \\textstyleExampleref{[R229.023]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -4744,6 +4838,7 @@
             "nmlz",
             "prox"
         ],
+        "clength": 97,
         "filename": "124/07verbphrase.tex",
         "imt": "at Ohovehi \\textsc{1pl.excl} \\textsc{cntg} stay \\textsc{prox} until to \\textsc{art} disappear \\textsc{nmlz} of \\textsc{art} ship",
         "imtwordsbare": [
@@ -4844,7 +4939,8 @@
             "te",
             "pah\u012b."
         ],
-        "trs": "We will stay in Ohovehi until the ship disappears (behind the horizon).\u2019 \\textstyleExampleref{[R210.083]}"
+        "trs": "We will stay in Ohovehi until the ship disappears (behind the horizon).\u2019 \\textstyleExampleref{[R210.083]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -4856,6 +4952,7 @@
             "incl",
             "prox"
         ],
+        "clength": 71,
         "filename": "124/07verbphrase.tex",
         "imt": "~at \\textsc{cq} \\textsc{1du.incl} \\textsc{cntg} search \\textsc{prox} \\textsc{acc} \\textsc{art} \\textsc{1du.incl} egg",
         "imtwordsbare": [
@@ -4932,7 +5029,8 @@
             "t\u0101ua",
             "m\u0101mari?"
         ],
-        "trs": "Where will we search for eggs?\u2019 \\textstyleExampleref{[R245.199]}"
+        "trs": "Where will we search for eggs?\u2019 \\textstyleExampleref{[R245.199]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -4942,6 +5040,7 @@
             "dist",
             "ntr"
         ],
+        "clength": 116,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{ntr} go the\\_two to Santiago to \\textsc{art} house \\textsc{dist} of Ma\u2019atea at \\textsc{ana} indeed  \\textsc{cntg} stay \\textsc{dist}",
         "imtwordsbare": [
@@ -5060,7 +5159,8 @@
             "\\textbf{noho}",
             "\\textbf{era}."
         ],
-        "trs": "The two went to Santiago to the house of Ma\u2019atea. There she would stay.\u2019 \\textstyleExampleref{[R210.221]}"
+        "trs": "The two went to Santiago to the house of Ma\u2019atea. There she would stay.\u2019 \\textstyleExampleref{[R210.221]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -5072,6 +5172,7 @@
             "dist",
             "prop"
         ],
+        "clength": 140,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{cntg} \\textsc{caus} finish \\textsc{dem} speak \\textsc{dist} \\textsc{prop} Moe \\textsc{cntg} cry hither \\textsc{art} bell  for enter together to \\textsc{art} \\textsc{3pl} learn",
         "imtwordsbare": [
@@ -5208,7 +5309,8 @@
             "r\u0101ua",
             "h\u0101p\u012b."
         ],
-        "trs": "When Moe had finished speaking, the bell sounded for all to enter their class.\u2019 \\textstyleExampleref{[R315.075]}"
+        "trs": "When Moe had finished speaking, the bell sounded for all to enter their class.\u2019 \\textstyleExampleref{[R315.075]}",
+        "wlength": 20
     },
     {
         "categories": [
@@ -5220,6 +5322,7 @@
             "ident",
             "prox"
         ],
+        "clength": 141,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{cntg} arrive hither \\textsc{prox} \\textsc{ag} \\textsc{3pl} really \\textsc{ident} \\textsc{cntg} tell \\textsc{prox}  \\textsc{acc} \\textsc{art} \\textsc{3pl} problem",
         "imtwordsbare": [
@@ -5326,7 +5429,8 @@
             "r\u0101ua",
             "{\\\ua78c}ati."
         ],
-        "trs": "When they arrived, they themselves told about their trouble.\u2019 \\textstyleExampleref{[R361.035]}"
+        "trs": "When they arrived, they themselves told about their trouble.\u2019 \\textstyleExampleref{[R361.035]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -5337,6 +5441,7 @@
             "prom",
             "red"
         ],
+        "clength": 96,
         "coordination": "or",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{cntg} black:\\textsc{red} \\textsc{cntg} white:\\textsc{red} \\textsc{art} hair \\textsc{prom} \\textsc{dem} heart \\textsc{ident}",
@@ -5414,7 +5519,8 @@
             "m\u0101hatu",
             "{\\\ua78c}\u0101."
         ],
-        "trs": "Whether your hair is black or white, it\u2019s the same heart.\u2019 \\textstyleExampleref{[R211.078]}"
+        "trs": "Whether your hair is black or white, it\u2019s the same heart.\u2019 \\textstyleExampleref{[R211.078]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -5426,6 +5532,7 @@
             "prox",
             "red"
         ],
+        "clength": 127,
         "coordination": "or",
         "filename": "124/07verbphrase.tex",
         "imt": "of \\textsc{art} all day \\textsc{art} work \\textsc{prox} \\textsc{ipfv} do \\textsc{dist} \\textsc{cntg} tired:\\textsc{red}  \\textsc{cntg} \\textsc{conneg} tired:\\textsc{red}",
@@ -5533,7 +5640,8 @@
             "\\textbf{ta{\\\ua78c}e}",
             "\\textbf{rohirohi}."
         ],
-        "trs": "The work was done every day, whether (you were) tired or not.\u2019 \\textstyleExampleref{[R539-2.026]}"
+        "trs": "The work was done every day, whether (you were) tired or not.\u2019 \\textstyleExampleref{[R539-2.026]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -5544,6 +5652,7 @@
             "poss",
             "prf"
         ],
+        "clength": 41,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} snatch \\textsc{cont} \\textsc{poss.1sg.a} bread \\textsc{ag} Te Manu",
         "imtwordsbare": [
@@ -5608,7 +5717,8 @@
             "Te",
             "Manu."
         ],
-        "trs": "My bread has been snatched by Te Manu.\u2019 \\textstyleExampleref{[R245.039]}"
+        "trs": "My bread has been snatched by Te Manu.\u2019 \\textstyleExampleref{[R245.039]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -5616,6 +5726,7 @@
             "cont",
             "prf"
         ],
+        "clength": 18,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{prf} eat \\textsc{cont} \\textsc{2sg}",
         "imtwordsbare": [
@@ -5656,7 +5767,8 @@
             "{\\\ua78c}\u0101",
             "koe?"
         ],
-        "trs": "Have you eaten?\u2019 \\textstyleExampleref{[R245.058]}"
+        "trs": "Have you eaten?\u2019 \\textstyleExampleref{[R245.058]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -5665,6 +5777,7 @@
             "cont",
             "prf"
         ],
+        "clength": 43,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} \\textsc{caus} lie \\textsc{cont} at inside\\_\\textsc{art} hospital",
         "imtwordsbare": [
@@ -5723,7 +5836,8 @@
             "rote",
             "{\\\ua78c}\u014dp\u012btara."
         ],
-        "trs": "They have put him into hospital.\u2019 \\textstyleExampleref{[R210.122]}"
+        "trs": "They have put him into hospital.\u2019 \\textstyleExampleref{[R210.122]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5735,6 +5849,7 @@
             "ntr",
             "prf"
         ],
+        "clength": 181,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} go\\_out \\textsc{dem} child \\textsc{dist} \\textsc{ntr} grab hither \\textsc{prf} go\\_out \\textsc{cont} Kainga  \\textsc{prf} kindle \\textsc{cont} \\textsc{acc} \\textsc{art} earth\\_oven \\textsc{ntr} pluck \\textsc{acc} \\textsc{dem} chicken \\textsc{dist}",
@@ -5896,7 +6011,8 @@
             "moa",
             "era..."
         ],
-        "trs": "The child went out and grabbed (the chickens). Kainga had already gone out and lighted the fire for the earth oven; he plucked those chickens...\u2019 \\textstyleExampleref{[Ley-8-53.004]}"
+        "trs": "The child went out and grabbed (the chickens). Kainga had already gone out and lighted the fire for the earth oven; he plucked those chickens...\u2019 \\textstyleExampleref{[Ley-8-53.004]}",
+        "wlength": 24
     },
     {
         "categories": [
@@ -5908,6 +6024,7 @@
             "pl",
             "prf"
         ],
+        "clength": 77,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} go\\_out \\textsc{cont} \\textsc{art} \\textsc{pl} spirit \\textsc{dist} \\textsc{irr} arrive \\textsc{2pl}",
         "imtwordsbare": [
@@ -5984,7 +6101,8 @@
             "tu{\\\ua78c}u",
             "k\u014drua."
         ],
-        "trs": "The spirits will have left when you arrive.\u2019 \\textstyleExampleref{[R310.273]}"
+        "trs": "The spirits will have left when you arrive.\u2019 \\textstyleExampleref{[R310.273]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -5992,6 +6110,7 @@
             "cont",
             "prf"
         ],
+        "clength": 82,
         "filename": "124/07verbphrase.tex",
         "imt": "hour seven \\textsc{prf} enter \\textsc{cont} at inside\\_\\textsc{art} house pray to \\textsc{art} prayer",
         "imtwordsbare": [
@@ -6080,7 +6199,8 @@
             "te",
             "pure."
         ],
-        "trs": "Seven o\u2019clock they entered into the chapel for prayer.\u2019 \\textstyleExampleref{[R210.140]}"
+        "trs": "Seven o\u2019clock they entered into the chapel for prayer.\u2019 \\textstyleExampleref{[R210.140]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -6089,6 +6209,7 @@
             "prf",
             "red"
         ],
+        "clength": 50,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} hot:\\textsc{red} \\textsc{cont} at \\textsc{art} much of \\textsc{art} sick",
         "imtwordsbare": [
@@ -6159,7 +6280,8 @@
             "te",
             "m\u0101uiui."
         ],
-        "trs": "She was hot because of her grave illness.\u2019 \\textstyleExampleref{[R229.229]}"
+        "trs": "She was hot because of her grave illness.\u2019 \\textstyleExampleref{[R229.229]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -6170,6 +6292,7 @@
             "prf",
             "red"
         ],
+        "clength": 47,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} dry:\\textsc{red} \\textsc{cont} \\textsc{art} land \\textsc{prf} shortage \\textsc{cont} \\textsc{1pl.incl}",
         "imtwordsbare": [
@@ -6240,7 +6363,8 @@
             "{\\\ua78c}\u0101",
             "t\u0101tou."
         ],
-        "trs": "The land is dry. We are in need.\u2019 \\textstyleExampleref{[R352.116]}"
+        "trs": "The land is dry. We are in need.\u2019 \\textstyleExampleref{[R352.116]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -6249,6 +6373,7 @@
             "prf",
             "prox"
         ],
+        "clength": 41,
         "filename": "124/07verbphrase.tex",
         "imt": "time \\textsc{prox} in\\_fact \\textsc{prf} poor \\textsc{cont} \\textsc{art} person",
         "imtwordsbare": [
@@ -6313,7 +6438,8 @@
             "te",
             "ta\u014bata."
         ],
-        "trs": "Now the people are poor.\u2019 \\textstyleExampleref{[R250.128]}"
+        "trs": "Now the people are poor.\u2019 \\textstyleExampleref{[R250.128]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6323,6 +6449,7 @@
             "poss",
             "prf"
         ],
+        "clength": 39,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} pain \\textsc{cont} \\textsc{poss.1sg.o} tooth",
         "imtwordsbare": [
@@ -6369,7 +6496,8 @@
             "t\u014d{\\\ua78c}oku",
             "niho."
         ],
-        "trs": "My tooth hurts.\u2019 \\textstyleExampleref{[R208.275]}"
+        "trs": "My tooth hurts.\u2019 \\textstyleExampleref{[R208.275]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -6381,6 +6509,7 @@
             "pl",
             "prf"
         ],
+        "clength": 62,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{neg.pfv} go\\_out \\textsc{dem} people \\textsc{dist} to outside \\textsc{prf} \\textsc{pl}:cry \\textsc{cont}",
         "imtwordsbare": [
@@ -6458,7 +6587,8 @@
             "\\textbf{tata\u014bi}",
             "{\\\ua78c}ana."
         ],
-        "trs": "Those people did not go outside; they cried.\u2019 \\textstyleExampleref{[R229.329]}"
+        "trs": "Those people did not go outside; they cried.\u2019 \\textstyleExampleref{[R229.329]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -6467,6 +6597,7 @@
             "ntr",
             "prf"
         ],
+        "clength": 53,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} think \\textsc{ag} Puakiva \\textsc{prf} sleep \\textsc{cont}",
         "imtwordsbare": [
@@ -6525,7 +6656,8 @@
             "\\textbf{ha{\\\ua78c}uru}",
             "{\\\ua78c}ana."
         ],
-        "trs": "Puakiva thought that (Kava) was asleep.\u2019 \\textstyleExampleref{[R229.292]}"
+        "trs": "Puakiva thought that (Kava) was asleep.\u2019 \\textstyleExampleref{[R229.292]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -6535,6 +6667,7 @@
             "prop",
             "red"
         ],
+        "clength": 52,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} \\textsc{1sg} \\textsc{prf} desire good:\\textsc{red} \\textsc{cont} for sleep",
         "imtwordsbare": [
@@ -6600,7 +6733,8 @@
             "mo",
             "ha{\\\ua78c}uru."
         ],
-        "trs": "I really want to sleep.\u2019 \\textstyleExampleref{[R229.246]}"
+        "trs": "I really want to sleep.\u2019 \\textstyleExampleref{[R229.246]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6609,6 +6743,7 @@
             "prf",
             "prop"
         ],
+        "clength": 43,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} want \\textsc{cont} \\textsc{prop} \\textsc{3sg} for go for learn",
         "imtwordsbare": [
@@ -6680,7 +6815,8 @@
             "mo",
             "h\u0101p\u012b."
         ],
-        "trs": "She wants to go to study.\u2019 \\textstyleExampleref{[R210.066]}"
+        "trs": "She wants to go to study.\u2019 \\textstyleExampleref{[R210.066]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -6691,6 +6827,7 @@
             "prf",
             "prox"
         ],
+        "clength": 79,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} perceive hither \\textsc{cont} really \\textsc{ag} \\textsc{1sg} \\textsc{art} smell manner different  of \\textsc{art} food \\textsc{prox}",
         "imtwordsbare": [
@@ -6797,7 +6934,8 @@
             "kai",
             "nei."
         ],
-        "trs": "I smell a strange smell of this food.\u2019 \\textstyleExampleref{[R236.026]}"
+        "trs": "I smell a strange smell of this food.\u2019 \\textstyleExampleref{[R236.026]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -6810,6 +6948,7 @@
             "prox",
             "voc"
         ],
+        "clength": 76,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{voc} Mum at \\textsc{art} time \\textsc{prox} \\textsc{prf} know \\textsc{cont} \\textsc{prop} \\textsc{1sg} \\textsc{acc} \\textsc{art} truth",
         "imtwordsbare": [
@@ -6911,7 +7050,8 @@
             "parauti{\\\ua78c}a."
         ],
         "time": "present",
-        "trs": "Mum, now I know the truth.\u2019 \\textstyleExampleref{[R229.495]}"
+        "trs": "Mum, now I know the truth.\u2019 \\textstyleExampleref{[R229.495]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -6921,6 +7061,7 @@
             "ntr",
             "prf"
         ],
+        "clength": 97,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{ntr} pull hither \\textsc{art} tuna \\textsc{ntr} go\\_out to above \\textsc{prf} die \\textsc{dist} \\textsc{cont}",
         "imtwordsbare": [
@@ -7015,7 +7156,8 @@
             "\\textbf{era}",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "...he pulled up the tuna, it came up, it had already died.\u2019 \\textstyleExampleref{[Ley-6-44.041]}"
+        "trs": "...he pulled up the tuna, it came up, it had already died.\u2019 \\textstyleExampleref{[Ley-6-44.041]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -7028,6 +7170,7 @@
             "num",
             "prf"
         ],
+        "clength": 159,
         "filename": "124/07verbphrase.tex",
         "imt": "at Colombia \\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{num} one island \\textsc{prf} go\\_out \\textsc{dist} \\textsc{cont}  at \\textsc{art} year 1991 \\textsc{art} \\textsc{3pl} law of above at \\textsc{art} immigration",
         "imtwordsbare": [
@@ -7194,7 +7337,8 @@
             "te",
             "inmigraci\u00f3n."
         ],
-        "trs": "In Colombia there is an island where a law on immigration came out in 1991 already.\u2019 \\textstyleExampleref{[R649.231]}"
+        "trs": "In Colombia there is an island where a law on immigration came out in 1991 already.\u2019 \\textstyleExampleref{[R649.231]}",
+        "wlength": 25
     },
     {
         "categories": [
@@ -7206,6 +7350,7 @@
             "prop",
             "prox"
         ],
+        "clength": 91,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} \\textsc{1sg} \\textsc{pfv} go hither \\textsc{prox} to \\textsc{prop} \\textsc{2sg} for stay \\textsc{poss.1sg.o} at \\textsc{prox}",
         "imtwordsbare": [
@@ -7306,7 +7451,8 @@
             "{\\\ua78c}i",
             "nei."
         ],
-        "trs": "I have come to you to live here.\u2019 \\textstyleExampleref{[R245.072]}"
+        "trs": "I have come to you to live here.\u2019 \\textstyleExampleref{[R245.072]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -7314,6 +7460,7 @@
             "pfv",
             "prom"
         ],
+        "clength": 30,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prom} \\textsc{2sg} \\textsc{pfv} win",
         "imtwordsbare": [
@@ -7354,12 +7501,14 @@
             "\\textbf{i}",
             "\\textbf{r\u0113}."
         ],
-        "trs": "You have won.\u2019 \\textstyleExampleref{[R210.071]}"
+        "trs": "You have won.\u2019 \\textstyleExampleref{[R210.071]}",
+        "wlength": 4
     },
     {
         "categories": [
             "pfv"
         ],
+        "clength": 47,
         "filename": "124/07verbphrase.tex",
         "imt": "{\\db}from Hanga Roa \\textsc{pfv} ascend \\textsc{pfv} to Orongo",
         "imtwordsbare": [
@@ -7424,13 +7573,15 @@
             "ki",
             "{\\\ua78c}\u014cro\u014bo."
         ],
-        "trs": "From Hanga Roa he went up to Orongo.\u2019 \\textstyleExampleref{[Ley-2-02.054]}"
+        "trs": "From Hanga Roa he went up to Orongo.\u2019 \\textstyleExampleref{[Ley-2-02.054]}",
+        "wlength": 8
     },
     {
         "categories": [
             "num",
             "pfv"
         ],
+        "clength": 58,
         "filename": "124/07verbphrase.tex",
         "imt": "{\\db}\\textsc{num} two just race corpulent man \\textsc{pfv} fly hither",
         "imtwordsbare": [
@@ -7501,7 +7652,8 @@
             "rere",
             "mai."
         ],
-        "trs": "Only two men from the \u2018corpulent race\u2019 jumped.\u2019 \\textstyleExampleref{[Mtx-3-02.038]}"
+        "trs": "Only two men from the \u2018corpulent race\u2019 jumped.\u2019 \\textstyleExampleref{[Mtx-3-02.038]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -7514,6 +7666,7 @@
             "poss",
             "pvp"
         ],
+        "clength": 91,
         "filename": "124/07verbphrase.tex",
         "imt": "{\\db}\\textsc{num} one day all \\textsc{pfv} work \\textsc{pvp} for pay of \\textsc{dem} punishment  \\textsc{dist} \\textsc{poss.3sg.o}",
         "imtwordsbare": [
@@ -7614,7 +7767,8 @@
             "era",
             "\u014d{\\\ua78c}ona."
         ],
-        "trs": "One whole day he worked to pay his punishment.\u2019 \\textstyleExampleref{[R250.026]}"
+        "trs": "One whole day he worked to pay his punishment.\u2019 \\textstyleExampleref{[R250.026]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -7623,6 +7777,7 @@
             "prom",
             "pvp"
         ],
+        "clength": 62,
         "filename": "124/07verbphrase.tex",
         "imt": "{\\db}because\\_of \\textsc{ana} \\textsc{pfv} say \\textsc{pvp} \\textsc{prom} \u014a\u0101 Ihu More {\\\ua78c}a Pua Katike",
         "imtwordsbare": [
@@ -7711,7 +7866,8 @@
             "Pua",
             "Katike."
         ],
-        "trs": "Therefore they were called \u014a\u0101 Ihu More {\\\ua78c}a Pua Katike\u2019 \\textstyleExampleref{[R310.253]}"
+        "trs": "Therefore they were called \u014a\u0101 Ihu More {\\\ua78c}a Pua Katike\u2019 \\textstyleExampleref{[R310.253]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -7721,6 +7877,7 @@
             "intens",
             "pfv"
         ],
+        "clength": 59,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~of\\textsc{.a} who \\textsc{intens} then \\textsc{pfv} look again \\textsc{emph} away",
         "imtwordsbare": [
@@ -7791,7 +7948,8 @@
             "r\u014d",
             "atu?"
         ],
-        "trs": "Who would have seen them again?\u2019 \\textstyleExampleref{[R361.019]}"
+        "trs": "Who would have seen them again?\u2019 \\textstyleExampleref{[R361.019]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -7800,6 +7958,7 @@
             "med",
             "pred"
         ],
+        "clength": 35,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{pred} what \\textsc{2sg} \\textsc{ipfv} cry \\textsc{med}",
         "imtwordsbare": [
@@ -7852,7 +8011,8 @@
             "ta\u014bi",
             "ena?"
         ],
-        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[Mtx-7-12.024]}"
+        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[Mtx-7-12.024]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -7864,6 +8024,7 @@
             "poss",
             "prox"
         ],
+        "clength": 65,
         "filename": "124/07verbphrase.tex",
         "imt": "{\\db}of \\textsc{poss.3sg.o} parent \\textsc{pfv} make \\textsc{acc} \\textsc{art} house \\textsc{prox} for Puakiva",
         "imtwordsbare": [
@@ -7946,7 +8107,8 @@
             "mo",
             "Puakiva."
         ],
-        "trs": "It was her father who made this house for Puakiva.\u2019 \\textstyleExampleref{[R229.269]}"
+        "trs": "It was her father who made this house for Puakiva.\u2019 \\textstyleExampleref{[R229.269]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -7958,6 +8120,7 @@
             "poss",
             "prop"
         ],
+        "clength": 63,
         "filename": "124/07verbphrase.tex",
         "imt": "{\\db}\\textsc{ben.1sg.a} \\textsc{ipfv} thank to \\textsc{prop} Pea with name \\textsc{poss.1sg.o}",
         "imtwordsbare": [
@@ -8028,7 +8191,8 @@
             "{\\\ua78c}\u012b\u014boa",
             "\u014d{\\\ua78c}oku."
         ],
-        "trs": "You will thank Pea in my name.\u2019 \\textstyleExampleref{[R229.086]}"
+        "trs": "You will thank Pea in my name.\u2019 \\textstyleExampleref{[R229.086]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -8040,6 +8204,7 @@
             "prop",
             "prox"
         ],
+        "clength": 67,
         "filename": "124/07verbphrase.tex",
         "imt": "{\\db}\\textsc{prop} \\textsc{1sg} \\textsc{pfv} go hither \\textsc{prox} to \\textsc{prop} \\textsc{2sg} for stay \\textsc{poss.1sg.o} at \\textsc{prox}",
         "imtwordsbare": [
@@ -8140,7 +8305,8 @@
             "{\\\ua78c}i",
             "nei."
         ],
-        "trs": "I have come to you to live here.\u2019 \\textstyleExampleref{[R245.072]}"
+        "trs": "I have come to you to live here.\u2019 \\textstyleExampleref{[R245.072]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -8151,6 +8317,7 @@
             "num",
             "pers"
         ],
+        "clength": 76,
         "filename": "124/07verbphrase.tex",
         "imt": "~~\\textsc{neg} really \\textsc{art} \\textsc{num.pers} three \\textsc{dist} \\textsc{ipfv} given\\_to go\\_out \\textsc{dist} together",
         "imtwordsbare": [
@@ -8233,7 +8400,8 @@
             "era",
             "ananake?"
         ],
-        "trs": "Don\u2019t those three always go out together?\u2019 \\textstyleExampleref{[R366.044]}"
+        "trs": "Don\u2019t those three always go out together?\u2019 \\textstyleExampleref{[R366.044]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8241,6 +8409,7 @@
             "art",
             "ntr"
         ],
+        "clength": 85,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} arrive hither \\textsc{art} ship given\\_to carry hither \\textsc{acc} \\textsc{art} thing for inside  at \\textsc{art} hourse store",
         "imtwordsbare": [
@@ -8359,7 +8528,8 @@
             "hare",
             "toa."
         ],
-        "trs": "The ship arrived which used to bring things for the store.\u2019 \\textstyleExampleref{[R250.094]}"
+        "trs": "The ship arrived which used to bring things for the store.\u2019 \\textstyleExampleref{[R250.094]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -8369,6 +8539,7 @@
             "incl",
             "pred"
         ],
+        "clength": 72,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} thing given\\_to do of \\textsc{1pl.incl} at \\textsc{dist} day \\textsc{pred} parade",
         "imtwordsbare": [
@@ -8451,13 +8622,15 @@
             "he",
             "porot\u0113."
         ],
-        "trs": "What we always do on that day (=18 September, the national holiday) is parading.\u2019 \\textstyleExampleref{[R334.309]}"
+        "trs": "What we always do on that day (=18 September, the national holiday) is parading.\u2019 \\textstyleExampleref{[R334.309]}",
+        "wlength": 11
     },
     {
         "categories": [
             "2pl",
             "imp"
         ],
+        "clength": 56,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{imp} wake\\_up given\\_to sleep different \\textsc{2pl}",
         "imtwordsbare": [
@@ -8510,7 +8683,8 @@
             "k\u0113,",
             "k\u014drua!"
         ],
-        "trs": "Wake up, you sleepyheads!\u2019 \\textstyleExampleref{[Ley-4-05.008]}"
+        "trs": "Wake up, you sleepyheads!\u2019 \\textstyleExampleref{[Ley-4-05.008]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -8519,6 +8693,7 @@
             "prf",
             "prop"
         ],
+        "clength": 52,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} part live little \\textsc{cont} \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -8577,7 +8752,8 @@
             "a",
             "au."
         ],
-        "trs": "I am somewhat recovered.\u2019 \\textstyleExampleref{[R231.325]}"
+        "trs": "I am somewhat recovered.\u2019 \\textstyleExampleref{[R231.325]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -8590,6 +8766,7 @@
             "pred",
             "prox"
         ],
+        "clength": 127,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} letter \\textsc{prox} \\textsc{pred} r \\textsc{ipfv} part manner different \\textsc{emph} \\textsc{cont} \\textsc{art} say \\textsc{nmlz}  at \\textsc{art} \\textsc{pl} tongue \\textsc{prox} the\\_two",
         "imtwordsbare": [
@@ -8726,7 +8903,8 @@
             "nei",
             "ararua."
         ],
-        "trs": "This letter \u2018r\u2019, its pronunciation is a little different in these two languages.\u2019 \\textstyleExampleref{[R616.145]}"
+        "trs": "This letter \u2018r\u2019, its pronunciation is a little different in these two languages.\u2019 \\textstyleExampleref{[R616.145]}",
+        "wlength": 20
     },
     {
         "categories": [
@@ -8735,6 +8913,7 @@
             "prf",
             "red"
         ],
+        "clength": 67,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} part obtain hither \\textsc{cont} \\textsc{art} thing piece:\\textsc{red} obsidian",
         "imtwordsbare": [
@@ -8805,13 +8984,15 @@
             "p\u0101reherehe",
             "mat\u0101."
         ],
-        "trs": "We obtained a few pieces of obsidian.\u2019 \\textstyleExampleref{[R629.030]}"
+        "trs": "We obtained a few pieces of obsidian.\u2019 \\textstyleExampleref{[R629.030]}",
+        "wlength": 9
     },
     {
         "categories": [
             "ntr",
             "prop"
         ],
+        "clength": 44,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} more cry \\textsc{prop} Puakiva",
         "imtwordsbare": [
@@ -8858,7 +9039,8 @@
             "a",
             "Puakiva."
         ],
-        "trs": "Puakiva cried even more (than before).\u2019 \\textstyleExampleref{[R229.183]}"
+        "trs": "Puakiva cried even more (than before).\u2019 \\textstyleExampleref{[R229.183]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -8866,6 +9048,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 53,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{imp} more learn \\textsc{neg} \\textsc{neg.ipfv} leave",
         "imtwordsbare": [
@@ -8918,7 +9101,8 @@
             "ko",
             "hakar\u0113."
         ],
-        "trs": "Learn more, don\u2019t neglect it.\u2019 \\textstyleExampleref{[R242.093]}"
+        "trs": "Learn more, don\u2019t neglect it.\u2019 \\textstyleExampleref{[R242.093]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -8928,6 +9112,7 @@
             "pl",
             "voc"
         ],
+        "clength": 100,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{voc} Mary more bless \\textsc{2sg} \\textsc{ag} \\textsc{art} God to \\textsc{art} all \\textsc{pl} woman",
         "imtwordsbare": [
@@ -9022,7 +9207,8 @@
             "\u014b\u0101",
             "vi{\\\ua78c}e."
         ],
-        "trs": "Mary, you are more blessed by God than all women.\u2019 \\textstyleExampleref{[Luke 1:42]}"
+        "trs": "Mary, you are more blessed by God than all women.\u2019 \\textstyleExampleref{[Luke 1:42]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -9031,6 +9217,7 @@
             "exh",
             "irr"
         ],
+        "clength": 58,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{exh} more carry \\textsc{art} basket \\textsc{irr} go \\textsc{2sg}",
         "imtwordsbare": [
@@ -9095,7 +9282,8 @@
             "oho",
             "koe."
         ],
-        "trs": "Take more baskets when you go.\u2019 \\textstyleExampleref{[MsE-064.013]}"
+        "trs": "Take more baskets when you go.\u2019 \\textstyleExampleref{[MsE-064.013]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -9103,6 +9291,7 @@
             "imp",
             "prop"
         ],
+        "clength": 53,
         "filename": "124/07verbphrase.tex",
         "imt": "~yes \\textsc{imp} more serve\\_food hither to \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -9167,7 +9356,8 @@
             "a",
             "au!"
         ],
-        "trs": "Yes please, serve me some more.\u2019 \\textstyleExampleref{[R535.098]}"
+        "trs": "Yes please, serve me some more.\u2019 \\textstyleExampleref{[R535.098]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -9176,6 +9366,7 @@
             "incl",
             "pred"
         ],
+        "clength": 69,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} article more write of \\textsc{1pl.incl} \\textsc{pred} \\textit{~he} and \\textsc{pred} \\textit{~te}",
@@ -9259,7 +9450,8 @@
             "he",
             "\u2018te\u2019."
         ],
-        "trs": "The articles we write most, are \\textit{he} and \\textit{te}.\u2019 \\textstyleExampleref{[R616.719]}"
+        "trs": "The articles we write most, are \\textit{he} and \\textit{te}.\u2019 \\textstyleExampleref{[R616.719]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -9270,6 +9462,7 @@
             "ipfv",
             "prf"
         ],
+        "clength": 104,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} more \\textsc{caus} strong \\textsc{cont} \\textsc{art} voice of Rongotakahiu \\textsc{ipfv} recite \\textsc{dist}",
         "imtwordsbare": [
@@ -9358,7 +9551,8 @@
             "p\u0101ta{\\\ua78c}uta{\\\ua78c}u",
             "era."
         ],
-        "trs": "Rongotakahiu sang louder (lit. strengthened his voice more when singing).\u2019 \\textstyleExampleref{[R476.014]}"
+        "trs": "Rongotakahiu sang louder (lit. strengthened his voice more when singing).\u2019 \\textstyleExampleref{[R476.014]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -9371,6 +9565,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 90,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{art} Chilean \\textsc{ipfv} want \\textsc{emph} \\textsc{cont} for \\textsc{caus} more intelligent \\textsc{acc} \\textsc{prop} \\textsc{3pl}",
         "imtwordsbare": [
@@ -9466,7 +9661,8 @@
             "a",
             "r\u0101ua."
         ],
-        "trs": "...Chileans who want to pass themself off as smarter (lit. to cause them to be smarter).\u2019 \\textstyleExampleref{[R428.006]}"
+        "trs": "...Chileans who want to pass themself off as smarter (lit. to cause them to be smarter).\u2019 \\textstyleExampleref{[R428.006]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -9477,6 +9673,7 @@
             "conneg",
             "prop"
         ],
+        "clength": 86,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} servant \\textsc{conneg} more exceed to \\textsc{art} man \\textsc{caus} work \\textsc{acc} \\textsc{prop} \\textsc{3sg}",
         "imtwordsbare": [
@@ -9572,7 +9769,8 @@
             "a",
             "ia."
         ],
-        "trs": "A servant is not higher than his master (lit. the man who makes him work).\u2019 \\textstyleExampleref{[Mat. 10:24]}"
+        "trs": "A servant is not higher than his master (lit. the man who makes him work).\u2019 \\textstyleExampleref{[Mat. 10:24]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -9580,6 +9778,7 @@
             "conneg",
             "prox"
         ],
+        "clength": 87,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} sheep \\textsc{prox} sheep usually play and part \\textsc{conneg} listen",
@@ -9657,7 +9856,8 @@
             "\\textbf{ta{\\\ua78c}e}",
             "\\textbf{hakaro\u014bo}."
         ],
-        "trs": "This lamb used to play and was somewhat disobedient.\u2019 \\textstyleExampleref{[R536.009]}"
+        "trs": "This lamb used to play and was somewhat disobedient.\u2019 \\textstyleExampleref{[R536.009]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -9667,6 +9867,7 @@
             "prf",
             "prop"
         ],
+        "clength": 81,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{neg} \\textsc{prop} Tiare \\textsc{neg.pfv} die \\textsc{prf} faint just \\textsc{cont}",
         "imtwordsbare": [
@@ -9738,7 +9939,8 @@
             "\\textbf{n\u014d}",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "Tiare was not dead; she had just fainted.\u2019 \\textstyleExampleref{[R481.086]}"
+        "trs": "Tiare was not dead; she had just fainted.\u2019 \\textstyleExampleref{[R481.086]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -9750,6 +9952,7 @@
             "imp",
             "ipfv"
         ],
+        "clength": 71,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ben.1sg.a} \\textsc{ident} \\textsc{ipfv} do all \\textsc{imp} go just \\textsc{2pl}",
         "imtwordsbare": [
@@ -9820,7 +10023,8 @@
             "\\textbf{n\u014d}",
             "k\u014drua."
         ],
-        "trs": "I myself will do everything; you guys just go.\u2019 \\textstyleExampleref{[R236.010]}"
+        "trs": "I myself will do everything; you guys just go.\u2019 \\textstyleExampleref{[R236.010]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -9832,6 +10036,7 @@
             "pfv",
             "poss"
         ],
+        "clength": 103,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{neg.pfv} ashamed \\textsc{2sg} \\textsc{pfv} take just \\textsc{2sg} \\textsc{acc} \\textsc{art} grass for cook  \\textsc{acc} \\textsc{poss.2sg.a} earth\\_oven",
         "imtwordsbare": [
@@ -9938,7 +10143,8 @@
             "ta{\\\ua78c}a",
             "{\\\ua78c}umu?"
         ],
-        "trs": "Weren\u2019t you ashamed, that you just took the grass to (as fuel) to cook your earth oven (without asking, even though the grass was mine)?\u2019 \\textstyleExampleref{[R231.186]}"
+        "trs": "Weren\u2019t you ashamed, that you just took the grass to (as fuel) to cook your earth oven (without asking, even though the grass was mine)?\u2019 \\textstyleExampleref{[R231.186]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -9946,6 +10152,7 @@
             "cont",
             "prf"
         ],
+        "clength": 77,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} thing just \\textsc{prf} go just \\textsc{cont} to sea to\\_fish",
@@ -10023,7 +10230,8 @@
             "tai",
             "h\u012b."
         ],
-        "trs": "(Nowadays people don\u2019t consider the moon and the wind.) On the contrary, they just go out to sea to fish.\u2019 \\textstyleExampleref{[R354.026]}"
+        "trs": "(Nowadays people don\u2019t consider the moon and the wind.) On the contrary, they just go out to sea to fish.\u2019 \\textstyleExampleref{[R354.026]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -10032,6 +10240,7 @@
             "ipfv",
             "pl"
         ],
+        "clength": 70,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{ipfv} sick just \\textsc{cont} \\textsc{art} \\textsc{pl} child",
         "imtwordsbare": [
@@ -10090,7 +10299,8 @@
             "\u014b\u0101",
             "poki."
         ],
-        "trs": "(Nowadays there are all kinds of things to take care of children,) but even so, children get sick.\u2019 \\textstyleExampleref{[R380.138]}"
+        "trs": "(Nowadays there are all kinds of things to take care of children,) but even so, children get sick.\u2019 \\textstyleExampleref{[R380.138]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -10102,6 +10312,7 @@
             "ipfv",
             "poss"
         ],
+        "clength": 81,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{cntg} many away \\textsc{poss.1sg.a} child \\textsc{ipfv} care\\_for just \\textsc{ag} \\textsc{1sg} \\textsc{ident}",
         "imtwordsbare": [
@@ -10184,7 +10395,8 @@
             "au",
             "{\\\ua78c}\u0101."
         ],
-        "trs": "Even if I have many children, I will still take care of them myself.\u2019 \\textstyleExampleref{[R229.023]}"
+        "trs": "Even if I have many children, I will still take care of them myself.\u2019 \\textstyleExampleref{[R229.023]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -10195,6 +10407,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 137,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} look \\textsc{acc} \\textsc{prop} Vaha \\textsc{ipfv} go just hither \\textsc{dist} \\textsc{ipfv} carry just hither \\textsc{dist} \\textsc{acc} \\textsc{art} child kill \\textsc{dist}",
@@ -10332,7 +10545,8 @@
             "ti\u014ba{\\\ua78c}i",
             "era."
         ],
-        "trs": "He saw Vaha, who was still going and carrying the killed child.\u2019 \\textstyleExampleref{[Mtx-3-01.144]}"
+        "trs": "He saw Vaha, who was still going and carrying the killed child.\u2019 \\textstyleExampleref{[Mtx-3-01.144]}",
+        "wlength": 20
     },
     {
         "categories": [
@@ -10345,6 +10559,7 @@
             "poss",
             "prop"
         ],
+        "clength": 98,
         "filename": "124/07verbphrase.tex",
         "imt": "at \\textsc{art} morning \\textsc{ipfv} go \\textsc{dist} to \\textsc{poss.3sg.a} work \\textsc{ipfv} sleep just \\textsc{cont} \\textsc{prop} Eva",
         "imtwordsbare": [
@@ -10451,7 +10666,8 @@
             "a",
             "Eva."
         ],
-        "trs": "In the morning he went to his work, when Eva was still sleeping.\u2019 \\textstyleExampleref{[R210.025]}"
+        "trs": "In the morning he went to his work, when Eva was still sleeping.\u2019 \\textstyleExampleref{[R210.025]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -10461,6 +10677,7 @@
             "ntr",
             "num"
         ],
+        "clength": 98,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} ascend just \\textsc{cont} \\textsc{ntr} see \\textsc{ag} Te Manu \\textsc{num} one nest eggs",
@@ -10556,7 +10773,8 @@
             "h\u014d\u014ba{\\\ua78c}a",
             "m\u0101mari."
         ],
-        "trs": "(The two went up and looked for eggs...) While they were still going up, Manu saw a nest with eggs.\u2019 \\textstyleExampleref{[R245.202\u2013203]}"
+        "trs": "(The two went up and looked for eggs...) While they were still going up, Manu saw a nest with eggs.\u2019 \\textstyleExampleref{[R245.202\u2013203]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -10566,6 +10784,7 @@
             "nmlz",
             "prf"
         ],
+        "clength": 79,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} bored \\textsc{cont} at \\textsc{art} eat \\textsc{nmlz} just \\textsc{acc} \\textsc{art} chicken",
         "imtwordsbare": [
@@ -10648,13 +10867,15 @@
             "te",
             "moa."
         ],
-        "trs": "I\u2019m tired of eating only chicken.\u2019 \\textstyleExampleref{[R229.123]}"
+        "trs": "I\u2019m tired of eating only chicken.\u2019 \\textstyleExampleref{[R229.123]}",
+        "wlength": 11
     },
     {
         "categories": [
             "neg",
             "ntr"
         ],
+        "clength": 47,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{neg} \\textsc{ntr} sour \\textsc{ntr} sweet just",
         "imtwordsbare": [
@@ -10708,7 +10929,8 @@
             "\\textbf{nene}",
             "\\textbf{n\u014d}."
         ],
-        "trs": "(The orange) was not sour, just sweet.\u2019 \\textstyleExampleref{[Egt-02.135]}"
+        "trs": "(The orange) was not sour, just sweet.\u2019 \\textstyleExampleref{[Egt-02.135]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -10716,6 +10938,7 @@
             "ntr",
             "prox"
         ],
+        "clength": 46,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} ship \\textsc{prox} \\textsc{ntr} beautiful just",
         "imtwordsbare": [
@@ -10768,7 +10991,8 @@
             "\\textbf{nehenehe}",
             "\\textbf{n\u014d}."
         ],
-        "trs": "This ship was just beautiful.\u2019 \\textstyleExampleref{[R239.022]}"
+        "trs": "This ship was just beautiful.\u2019 \\textstyleExampleref{[R239.022]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -10781,6 +11005,7 @@
             "pvp",
             "red"
         ],
+        "clength": 98,
         "filename": "124/07verbphrase.tex",
         "imt": "at \\textsc{dist} night \\textsc{ident} \\textsc{prop} Kainga \\textsc{pfv} make \\textsc{emph} \\textsc{pvp} \\textsc{num} one obsidian good:\\textsc{red}",
         "imtwordsbare": [
@@ -10881,7 +11106,8 @@
             "mat\u0101",
             "rivariva."
         ],
-        "trs": "In that night Kainga made a good obsidian spearpoint.\u2019 \\textstyleExampleref{[R304.015]}"
+        "trs": "In that night Kainga made a good obsidian spearpoint.\u2019 \\textstyleExampleref{[R304.015]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -10894,6 +11120,7 @@
             "prop",
             "red"
         ],
+        "clength": 108,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} Pea \\textsc{ipfv} \\textsc{neg.ipfv} good:\\textsc{red} for care\\_for \\textsc{acc} \\textsc{prop} Puakiva  \\textsc{ipfv} go \\textsc{emph} \\textsc{cont} to \\textsc{art} work",
         "imtwordsbare": [
@@ -11013,7 +11240,8 @@
             "te",
             "a\u014ba."
         ],
-        "trs": "Pea was not able to take care of Puakiva; (rather,) he used to go to work.\u2019 \\textstyleExampleref{[R229.005]}"
+        "trs": "Pea was not able to take care of Puakiva; (rather,) he used to go to work.\u2019 \\textstyleExampleref{[R229.005]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -11026,6 +11254,7 @@
             "prom",
             "prop"
         ],
+        "clength": 93,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} truth \\textsc{ipfv} love \\textsc{emph} \\textsc{cont} \\textsc{prop} \\textsc{1sg} to \\textsc{prop} \\textsc{2pl} \\textsc{prom} Dad",
@@ -11121,7 +11350,8 @@
             "ko",
             "koro."
         ],
-        "trs": "The truth is, I do love you and Dad.\u2019 \\textstyleExampleref{[R229.498]}"
+        "trs": "The truth is, I do love you and Dad.\u2019 \\textstyleExampleref{[R229.498]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -11135,6 +11365,7 @@
             "poss",
             "prop"
         ],
+        "clength": 88,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} Mum \\textsc{ipfv} happy \\textsc{emph} \\textsc{cont} at \\textsc{dem} child \\textsc{dist} \\textsc{poss.3sg.a}",
         "imtwordsbare": [
@@ -11217,7 +11448,8 @@
             "era",
             "{\\\ua78c}\u0101{\\\ua78c}ana."
         ],
-        "trs": "Mum was really happy with her child.\u2019 \\textstyleExampleref{[R250.055]}"
+        "trs": "Mum was really happy with her child.\u2019 \\textstyleExampleref{[R250.055]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11225,6 +11457,7 @@
             "emph",
             "ipfv"
         ],
+        "clength": 65,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{ipfv} want \\textsc{emph} \\textsc{2sg} for go to continent for learn",
         "imtwordsbare": [
@@ -11302,7 +11535,8 @@
             "mo",
             "h\u0101p\u012b?"
         ],
-        "trs": "Do you (really) want to go to the continent to study?\u2019 \\textstyleExampleref{[R210.010]}"
+        "trs": "Do you (really) want to go to the continent to study?\u2019 \\textstyleExampleref{[R210.010]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -11314,6 +11548,7 @@
             "pfv",
             "red"
         ],
+        "clength": 130,
         "filename": "124/07verbphrase.tex",
         "imt": "~~\\textsc{neg} really perhaps \\textsc{neg.pfv} perceive \\textsc{ag} \\textsc{art} people Jew \\textsc{acc} \\textsc{art} message good:\\textsc{red} of \\textsc{art} God \\textsc{pfv} perceive \\textsc{emph}",
         "imtwordsbare": [
@@ -11445,7 +11680,8 @@
             "\\textbf{\u014baro{\\\ua78c}a}",
             "\\textbf{r\u014d}."
         ],
-        "trs": "Have the Jews perhaps not heard the good news about God? They have heard it.\u2019 \\textstyleExampleref{[Rom. 10:18]}"
+        "trs": "Have the Jews perhaps not heard the good news about God? They have heard it.\u2019 \\textstyleExampleref{[Rom. 10:18]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -11457,6 +11693,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 94,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} wake\\_up hither \\textsc{pvp} at inside\\_\\textsc{art} room \\textsc{num} one \\textsc{ipfv} lie \\textsc{emph} \\textsc{cont}",
         "imtwordsbare": [
@@ -11551,7 +11788,8 @@
             "\\textbf{r\u014d}",
             "\\textbf{{\\\ua78c}\u0101}..."
         ],
-        "trs": "When she woke up, she was lying in a room...\u2019 \\textstyleExampleref{[R210.090]}"
+        "trs": "When she woke up, she was lying in a room...\u2019 \\textstyleExampleref{[R210.090]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -11563,6 +11801,7 @@
             "pl",
             "prop"
         ],
+        "clength": 125,
         "filename": "124/07verbphrase.tex",
         "imt": "if look away of \\textsc{art} \\textsc{pl} child to \\textsc{prop} Taparahi \\textsc{ipfv} walk \\textsc{emph} \\textsc{cont} by \\textsc{art} road \\textsc{ntr} afraid",
         "imtwordsbare": [
@@ -11693,7 +11932,8 @@
             "he",
             "ri{\\\ua78c}ari{\\\ua78c}a."
         ],
-        "trs": "When the children saw Taparahi walking by the road, they were afraid.\u2019 \\textstyleExampleref{[R250.190]}"
+        "trs": "When the children saw Taparahi walking by the road, they were afraid.\u2019 \\textstyleExampleref{[R250.190]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -11702,6 +11942,7 @@
             "med",
             "prom"
         ],
+        "clength": 34,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{prom} who \\textsc{2sg} \\textsc{ipfv} go\\_up hither \\textsc{med}",
         "imtwordsbare": [
@@ -11760,7 +12001,8 @@
             "\\textbf{mai}",
             "ena?"
         ],
-        "trs": "Who are you (who are) coming up?\u2019 \\textstyleExampleref{[R304.084]}"
+        "trs": "Who are you (who are) coming up?\u2019 \\textstyleExampleref{[R304.084]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -11768,6 +12010,7 @@
             "imm",
             "ntr"
         ],
+        "clength": 29,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{imm} \\textsc{1sg} \\textsc{ntr} go away",
         "imtwordsbare": [
@@ -11814,7 +12057,8 @@
             "oho",
             "\\textbf{atu}."
         ],
-        "trs": "I am coming (towards you) right now.\u2019 \\textstyleExampleref{[R152.010]}"
+        "trs": "I am coming (towards you) right now.\u2019 \\textstyleExampleref{[R152.010]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -11823,6 +12067,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 46,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} go\\_out away \\textsc{prop} \\textsc{1sg} at \\textsc{art} time now",
         "imtwordsbare": [
@@ -11893,13 +12138,15 @@
             "hora",
             "nei."
         ],
-        "trs": "I am going away now.\u2019 \\textstyleExampleref{[R245.017]}"
+        "trs": "I am going away now.\u2019 \\textstyleExampleref{[R245.017]}",
+        "wlength": 9
     },
     {
         "categories": [
             "imp",
             "prox"
         ],
+        "clength": 27,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{imp} throw hither by \\textsc{prox}",
         "imtwordsbare": [
@@ -11946,12 +12193,14 @@
             "a",
             "nei!"
         ],
-        "trs": "Throw (the body) here!\u2019 \\textstyleExampleref{[R304.060]}"
+        "trs": "Throw (the body) here!\u2019 \\textstyleExampleref{[R304.060]}",
+        "wlength": 5
     },
     {
         "categories": [
             "imp"
         ],
+        "clength": 22,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{imp} pull away",
         "imtwordsbare": [
@@ -11986,7 +12235,8 @@
             "haro",
             "\\textbf{atu}!"
         ],
-        "trs": "Pull (the net, from here) towards you!\u2019 \\textstyleExampleref{[R304.135]}"
+        "trs": "Pull (the net, from here) towards you!\u2019 \\textstyleExampleref{[R304.135]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -11999,6 +12249,7 @@
             "prox",
             "red"
         ],
+        "clength": 65,
         "filename": "124/07verbphrase.tex",
         "imt": "because\\_of \\textsc{ana} \\textsc{ipfv} \\textsc{caus} know away \\textsc{med} \\textsc{acc} \\textsc{art} message good:\\textsc{red} \\textsc{prox}",
         "imtwordsbare": [
@@ -12087,7 +12338,8 @@
             "rivariva",
             "nei."
         ],
-        "trs": "Therefore (I) make this good news known (to you).\u2019 \\textstyleExampleref{[Acts 13:32]}"
+        "trs": "Therefore (I) make this good news known (to you).\u2019 \\textstyleExampleref{[Acts 13:32]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -12098,6 +12350,7 @@
             "prop",
             "prox"
         ],
+        "clength": 62,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{pred} what \\textsc{intens} \\textsc{prox} of \\textsc{art} thing \\textsc{prox} \\textsc{prop} Dad \\textsc{cntg} say hither \\textsc{prox}",
         "imtwordsbare": [
@@ -12198,7 +12451,8 @@
             "\\textbf{mai}",
             "nei?"
         ],
-        "trs": "What is this thing that Dad is saying (to us)?\u2019 \\textstyleExampleref{[R313.007]}"
+        "trs": "What is this thing that Dad is saying (to us)?\u2019 \\textstyleExampleref{[R313.007]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -12210,6 +12464,7 @@
             "ntr",
             "subs"
         ],
+        "clength": 97,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{art} tuna \\textsc{dist} at below \\textsc{ident} \\textsc{ipfv} ascend hither \\textsc{dist}  \\textsc{ntr} cut \\textsc{emph} away \\textsc{subs} \\textsc{art} tuna",
         "imtwordsbare": [
@@ -12328,7 +12583,8 @@
             "te",
             "kahi."
         ],
-        "trs": "...the tuna deep below, which when it comes up, the tuna cuts (the line).\u2019 \\textstyleExampleref{[R368.024]}"
+        "trs": "...the tuna deep below, which when it comes up, the tuna cuts (the line).\u2019 \\textstyleExampleref{[R368.024]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -12337,6 +12593,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 101,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "~~~~\\textsc{prop} Te Manu indeed  \\textsc{pfv} say hither for go\\_down of \\textsc{1du.excl}  ~~~~yes~~ \\textsc{prop} Te Manu indeed \\textsc{pfv} say away",
@@ -12468,7 +12725,8 @@
             "k\u012b",
             "\\textbf{atu}!"
         ],
-        "trs": "\u2014Te Manu said (to me) that we (=he and I) should go down! \u2014OK, so Te Manu told (you)!\u2019 \\textstyleExampleref{[R245.221]}"
+        "trs": "\u2014Te Manu said (to me) that we (=he and I) should go down! \u2014OK, so Te Manu told (you)!\u2019 \\textstyleExampleref{[R245.221]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -12479,6 +12737,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 117,
         "filename": "124/07verbphrase.tex",
         "imt": "moreover at \\textsc{prop} Meherio \\textsc{ipfv} say away \\textsc{dist} for help hither  \\textsc{neg} \\textsc{ntr} help \\textsc{emph} hither",
         "imtwordsbare": [
@@ -12591,7 +12850,8 @@
             "r\u014d",
             "\\textbf{mai}."
         ],
-        "trs": "Moreover, when (we) told Meherio to help (us), (she) didn\u2019t help (us).\u2019 \\textstyleExampleref{[R315.031]}"
+        "trs": "Moreover, when (we) told Meherio to help (us), (she) didn\u2019t help (us).\u2019 \\textstyleExampleref{[R315.031]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -12602,6 +12862,7 @@
             "o",
             "poss"
         ],
+        "clength": 77,
         "filename": "124/07verbphrase.tex",
         "imt": "if want \\textsc{poss.2sg.o} for love away of other bird \\textsc{dist} \\textsc{exh} love first \\textsc{ag} \\textsc{2sg}",
         "imtwordsbare": [
@@ -12709,7 +12970,8 @@
             "e",
             "koe."
         ],
-        "trs": "If you want other birds to love (you), you should love (them) first.\u2019 \\textstyleExampleref{[R213.050]}"
+        "trs": "If you want other birds to love (you), you should love (them) first.\u2019 \\textstyleExampleref{[R213.050]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -12718,6 +12980,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 114,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} arrive again away \\textsc{cont} \\textsc{prop} Hoto Vari  \\textsc{ipfv} stick\\_out again away \\textsc{cont} \\textsc{ins} tongue",
@@ -12825,7 +13088,8 @@
             "hai",
             "{\\\ua78c}arero..."
         ],
-        "trs": "When Hoto Vari comes again (to you), and sticks out his tongue (to you)...\u2019 \\textstyleExampleref{[R304.020]}"
+        "trs": "When Hoto Vari comes again (to you), and sticks out his tongue (to you)...\u2019 \\textstyleExampleref{[R304.020]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -12834,6 +13098,7 @@
             "dist",
             "pred"
         ],
+        "clength": 47,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pred} first carry hither \\textsc{dist} \\textsc{acc} \\textsc{art} food",
         "imtwordsbare": [
@@ -12898,7 +13163,8 @@
             "te",
             "kai..."
         ],
-        "trs": "They first brought food (to her)...\u2019 \\textstyleExampleref{[R368.006]}"
+        "trs": "They first brought food (to her)...\u2019 \\textstyleExampleref{[R368.006]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -12908,6 +13174,7 @@
             "ident",
             "ntr"
         ],
+        "clength": 108,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "at \\textsc{art} dawn \\textsc{dist} \\textsc{ident} of \\textsc{dem} day \\textsc{dist} \\textsc{ntr} go hither \\textsc{ntr} arrive hither  to \\textsc{dem} old\\_woman \\textsc{dist}",
@@ -13039,7 +13306,8 @@
             "r\u016b{\\\ua78c}au",
             "era."
         ],
-        "trs": "In the morning of that day, they came and arrived at that old lady.\u2019 \\textstyleExampleref{[R368.063]}"
+        "trs": "In the morning of that day, they came and arrived at that old lady.\u2019 \\textstyleExampleref{[R368.063]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -13048,6 +13316,7 @@
             "dist",
             "pfv"
         ],
+        "clength": 88,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} go\\_out again hither \\textsc{dist} \\textsc{dem} men \\textsc{dist} from \\textsc{art} house \\textsc{dist}  of \\textsc{dem} old\\_woman \\textsc{dist}",
         "imtwordsbare": [
@@ -13160,7 +13429,8 @@
             "r\u016b{\\\ua78c}au",
             "era..."
         ],
-        "trs": "When those men came out again of the house of that old woman...\u2019 \\textstyleExampleref{[R368.056]}"
+        "trs": "When those men came out again of the house of that old woman...\u2019 \\textstyleExampleref{[R368.056]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -13169,6 +13439,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 46,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} see \\textsc{acc} \\textsc{prop} Hoto Vari \\textsc{cntg} approach hither",
         "imtwordsbare": [
@@ -13239,7 +13510,8 @@
             "p\u016b",
             "\\textbf{mai}."
         ],
-        "trs": "(Huri a Vai) saw Hoto Vari coming towards him.\u2019 \\textstyleExampleref{[R304.004]}"
+        "trs": "(Huri a Vai) saw Hoto Vari coming towards him.\u2019 \\textstyleExampleref{[R304.004]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -13249,6 +13521,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 71,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} afternoon \\textsc{dist} \\textsc{ntr} return hither \\textsc{prop} Huri a Vai to \\textsc{art} place house \\textsc{dist}",
         "imtwordsbare": [
@@ -13355,7 +13628,8 @@
             "hare",
             "era."
         ],
-        "trs": "In the afternoon, Huri a Vai returned home.\u2019 \\textstyleExampleref{[R304.009]}"
+        "trs": "In the afternoon, Huri a Vai returned home.\u2019 \\textstyleExampleref{[R304.009]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -13370,6 +13644,7 @@
             "prom",
             "prop"
         ],
+        "clength": 170,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{imm} \\textsc{cntg} look away \\textsc{med} \\textsc{prom} \\textsc{art} shadow of \\textsc{art} man \\textsc{cntg} shade hither  at front at \\textsc{prop} \\textsc{3sg} \\textsc{pfv} near hither \\textsc{dist} to near at \\textsc{prop} \\textsc{3sg} \\textsc{ntr} ask away",
         "imtwordsbare": [
@@ -13572,7 +13847,8 @@
             "{\\\ua78c}ui",
             "\\textbf{atu}..."
         ],
-        "trs": "Then (Kainga) saw the shadow of a man falling in front of him. When (that man) was close to him, (Kainga) asked...\u2019 \\textstyleExampleref{[R304.095\u2013096]}"
+        "trs": "Then (Kainga) saw the shadow of a man falling in front of him. When (that man) was close to him, (Kainga) asked...\u2019 \\textstyleExampleref{[R304.095\u2013096]}",
+        "wlength": 31
     },
     {
         "categories": [
@@ -13583,6 +13859,7 @@
             "ntr",
             "pfv"
         ],
+        "clength": 127,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} call away then \\textsc{ag} Oho Takatore then then \\textsc{cntg} answer hither \\textsc{ag} Poio \\textsc{pfv} call hither \\textsc{dist} \\textsc{ag} Poio like \\textsc{ana}",
         "imtwordsbare": [
@@ -13731,7 +14008,8 @@
             "p\u0113",
             "ira..."
         ],
-        "trs": "Oho Takatore shouted... Then Poio answered... When Poio had called out like that...\u2019 \\textstyleExampleref{[R304.058-063]}"
+        "trs": "Oho Takatore shouted... Then Poio answered... When Poio had called out like that...\u2019 \\textstyleExampleref{[R304.058-063]}",
+        "wlength": 22
     },
     {
         "categories": [
@@ -13739,6 +14017,7 @@
             "cntg",
             "ntr"
         ],
+        "clength": 101,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} ask away then \\textsc{cntg} answer hither \\textsc{ag} Vaha \\textsc{ntr} answer hither then \\textsc{ag} Kainga",
         "imtwordsbare": [
@@ -13845,7 +14124,8 @@
             "e",
             "K\u0101i\u014ba..."
         ],
-        "trs": "(Kainga) asked... Vaha replied... Kainga then replied...\u2019 \\textstyleExampleref{[R304.096]}"
+        "trs": "(Kainga) asked... Vaha replied... Kainga then replied...\u2019 \\textstyleExampleref{[R304.096]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -13855,6 +14135,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 182,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} say of Dad and \\textsc{ntr} say also away \\textsc{art} voice of Mum \\textsc{ntr} answer  away then \\textsc{art} voice of \\textsc{dem} \\textsc{pl} young\\_man \\textsc{dist} \\textsc{ntr} say again away then \\textsc{art} voice of Dad",
         "imtwordsbare": [
@@ -14069,7 +14350,8 @@
             "o",
             "koro..."
         ],
-        "trs": "Dad said... And Mum\u2019s voice also said... The voice of those youngsters replied... Dad\u2019s voice said again...\u2019 \\textstyleExampleref{[R313.009\u2013015]}"
+        "trs": "Dad said... And Mum\u2019s voice also said... The voice of those youngsters replied... Dad\u2019s voice said again...\u2019 \\textstyleExampleref{[R313.009\u2013015]}",
+        "wlength": 33
     },
     {
         "categories": [
@@ -14077,6 +14359,7 @@
             "dist",
             "ipfv"
         ],
+        "clength": 74,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{dem} hole \\textsc{dist} of Huri a Vai \\textsc{ipfv} hide hither \\textsc{dist} at inside",
         "imtwordsbare": [
@@ -14171,7 +14454,8 @@
             "{\\\ua78c}i",
             "roto."
         ],
-        "trs": "...the hole where Huri a Vai was hiding.\u2019 \\textstyleExampleref{[R304.044]}"
+        "trs": "...the hole where Huri a Vai was hiding.\u2019 \\textstyleExampleref{[R304.044]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -14182,6 +14466,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 85,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} go\\_out \\textsc{ntr} go hither by \\textsc{dem} way \\textsc{dist} at \\textsc{ana} \\textsc{prop} Kainga \\textsc{ipfv} hide away \\textsc{dist}",
         "imtwordsbare": [
@@ -14300,7 +14585,8 @@
             "\\textbf{atu}",
             "era."
         ],
-        "trs": "(Vaha) came out by that road where Kainga was hiding.\u2019 \\textstyleExampleref{[R304.094]}"
+        "trs": "(Vaha) came out by that road where Kainga was hiding.\u2019 \\textstyleExampleref{[R304.094]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -14312,6 +14598,7 @@
             "ipfv",
             "med"
         ],
+        "clength": 73,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} stay just hither \\textsc{cont} \\textsc{dem} man \\textsc{dist} \\textsc{imm} \\textsc{cntg} listen away \\textsc{med}",
         "imtwordsbare": [
@@ -14406,7 +14693,8 @@
             "atu",
             "ena...."
         ],
-        "trs": "When that man was just staying (inside), suddenly he heard (a noise)...\u2019 \\textstyleExampleref{[R372.103]}"
+        "trs": "When that man was just staying (inside), suddenly he heard (a noise)...\u2019 \\textstyleExampleref{[R372.103]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -14418,6 +14706,7 @@
             "poss",
             "prop"
         ],
+        "clength": 80,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} spirit if sit away \\textsc{poss.2sg.o} if look by above at \\textsc{prop} \\textsc{3pl} \\textsc{ntr} look different",
@@ -14531,7 +14820,8 @@
             "u{\\\ua78c}i",
             "k\u0113."
         ],
-        "trs": "The spirits, when you sit down and look at them, will look away.\u2019 \\textstyleExampleref{[R310.082]}"
+        "trs": "The spirits, when you sit down and look at them, will look away.\u2019 \\textstyleExampleref{[R310.082]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -14539,6 +14829,7 @@
             "imp",
             "voc"
         ],
+        "clength": 41,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{voc} grandmother \\textsc{imp} stay hither \\textsc{2sg}",
         "imtwordsbare": [
@@ -14591,13 +14882,15 @@
             "\\textbf{mai}",
             "koe."
         ],
-        "trs": "Grandmother, stay here.\u2019 \\textstyleExampleref{[R313.177]}"
+        "trs": "Grandmother, stay here.\u2019 \\textstyleExampleref{[R313.177]}",
+        "wlength": 6
     },
     {
         "categories": [
             "ntr",
             "pl"
         ],
+        "clength": 67,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} go away \\textsc{ntr} join to other \\textsc{pl} child \\textsc{ntr} stay away together",
@@ -14693,13 +14986,15 @@
             "\\textbf{atu}",
             "ananake."
         ],
-        "trs": "He went off (instead of going to school) and met other boys, and they stayed (away) together.\u2019 \\textstyleExampleref{[R250.034]}"
+        "trs": "He went off (instead of going to school) and met other boys, and they stayed (away) together.\u2019 \\textstyleExampleref{[R250.034]}",
+        "wlength": 13
     },
     {
         "categories": [
             "art",
             "dist"
         ],
+        "clength": 41,
         "filename": "124/07verbphrase.tex",
         "imt": "thing fat away \\textsc{art} pig \\textsc{dist}",
         "imtwordsbare": [
@@ -14752,7 +15047,8 @@
             "oru",
             "era."
         ],
-        "trs": "That pig is very fat.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "That pig is very fat.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -14763,6 +15059,7 @@
             "pl",
             "prf"
         ],
+        "clength": 86,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} turn \\textsc{emph} \\textsc{cont} \\textsc{art} face of Heru by above and \\textsc{prf} \\textsc{pl}:white away \\textsc{cont}  \\textsc{art} eye",
@@ -14882,7 +15179,8 @@
             "te",
             "mata."
         ],
-        "trs": "Heru\u2019s face was turned upwards and his eyes were very white.\u2019 \\textstyleExampleref{[R313.043]}"
+        "trs": "Heru\u2019s face was turned upwards and his eyes were very white.\u2019 \\textstyleExampleref{[R313.043]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -14893,6 +15191,7 @@
             "ntr",
             "subs"
         ],
+        "clength": 88,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} die \\textsc{emph} away \\textsc{subs} \\textsc{dem} old\\_woman \\textsc{dist} at \\textsc{art} cry",
         "imtwordsbare": [
@@ -14975,7 +15274,8 @@
             "te",
             "ta\u014bi."
         ],
-        "trs": "The old lady burst out in tears (lit. died with crying).\u2019 \\textstyleExampleref{[R313.104]}"
+        "trs": "The old lady burst out in tears (lit. died with crying).\u2019 \\textstyleExampleref{[R313.104]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -14990,6 +15290,7 @@
             "ntr",
             "prox"
         ],
+        "clength": 147,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} look by above at \\textsc{art} land \\textsc{ipfv} look hither \\textsc{dist} by \\textsc{dem} place say \\textsc{dist}  \\textsc{ag} Mum like \\textsc{prox} thus ~at Ohovehi \\textsc{1pl.excl} \\textsc{cntg} stay \\textsc{prox}",
         "imtwordsbare": [
@@ -15168,7 +15469,8 @@
             "noho",
             "nei\u2019."
         ],
-        "trs": "She looked towards the land... She kept looking towards the place about which Mum had said: \u2018We will stay in Ohovehi\u2019.\u2019 \\textstyleExampleref{[R210.082\u2013083]}"
+        "trs": "She looked towards the land... She kept looking towards the place about which Mum had said: \u2018We will stay in Ohovehi\u2019.\u2019 \\textstyleExampleref{[R210.082\u2013083]}",
+        "wlength": 27
     },
     {
         "categories": [
@@ -15180,6 +15482,7 @@
             "imp",
             "red"
         ],
+        "clength": 81,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{imp} go\\_out \\textsc{2sg} \\textsc{imp} \\textsc{caus} good:\\textsc{red} \\textsc{acc} \\textsc{art} child \\textsc{imp} go away \\textsc{2pl} to Hanga Piko",
@@ -15293,7 +15596,8 @@
             "Ha\u014ba",
             "Piko."
         ],
-        "trs": "Go outside and prepare the child, and go to Hanga Piko.\u2019 \\textstyleExampleref{[R210.036]}"
+        "trs": "Go outside and prepare the child, and go to Hanga Piko.\u2019 \\textstyleExampleref{[R210.036]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -15304,6 +15608,7 @@
             "prop",
             "prox"
         ],
+        "clength": 74,
         "filename": "124/07verbphrase.tex",
         "imt": "because\\_of \\textsc{ana} \\textsc{prop} \\textsc{1sg} \\textsc{pfv} ascend hither \\textsc{prox} to \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -15386,7 +15691,8 @@
             "a",
             "koe."
         ],
-        "trs": "Therefore I have come up to you.\u2019 \\textstyleExampleref{[R229.208]}"
+        "trs": "Therefore I have come up to you.\u2019 \\textstyleExampleref{[R229.208]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -15398,6 +15704,7 @@
             "prf",
             "prox"
         ],
+        "clength": 81,
         "filename": "124/07verbphrase.tex",
         "imt": "like \\textsc{prox} \\textsc{ipfv} say \\textsc{prox} \\textsc{ag} \\textsc{art} people \\textsc{prox} \\textsc{prf} die \\textsc{cont} \\textsc{2sg}",
         "imtwordsbare": [
@@ -15492,7 +15799,8 @@
             "{\\\ua78c}ana",
             "koe."
         ],
-        "trs": "This is what these people say: you have died.\u2019 \\textstyleExampleref{[R229.316]}"
+        "trs": "This is what these people say: you have died.\u2019 \\textstyleExampleref{[R229.316]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -15503,6 +15811,7 @@
             "prop",
             "prox"
         ],
+        "clength": 82,
         "filename": "124/07verbphrase.tex",
         "imt": "~at \\textsc{cq} \\textsc{intens} \\textsc{prop} Vaha \\textsc{ipfv} \\textsc{conneg} arrive hither \\textsc{prox}",
         "imtwordsbare": [
@@ -15579,7 +15888,8 @@
             "\\textbf{mai}",
             "\\textbf{nei}?"
         ],
-        "trs": "Where is Vaha, that he doesn\u2019t arrive?\u2019 \\textstyleExampleref{[R229.131]}"
+        "trs": "Where is Vaha, that he doesn\u2019t arrive?\u2019 \\textstyleExampleref{[R229.131]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -15588,6 +15898,7 @@
             "ipfv",
             "prox"
         ],
+        "clength": 114,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} boat of \\textsc{art} time \\textsc{prox} \\textsc{ipfv} insert \\textsc{prox} \\textsc{art} lining at above  of \\textsc{art} rib really \\textsc{ident}",
         "imtwordsbare": [
@@ -15712,7 +16023,8 @@
             "mau",
             "{\\\ua78c}ana."
         ],
-        "trs": "The boats of nowadays, they put the lining on top of the ribs.\u2019 \\textstyleExampleref{[R200.068]}"
+        "trs": "The boats of nowadays, they put the lining on top of the ribs.\u2019 \\textstyleExampleref{[R200.068]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -15724,6 +16036,7 @@
             "poss",
             "prox"
         ],
+        "clength": 104,
         "filename": "124/07verbphrase.tex",
         "imt": "day \\textsc{prox} \\textsc{pfv} ascend \\textsc{pfv} to \\textsc{art} sheep for steal \\textsc{ntr} catch  of \\textsc{poss.3sg.o} uncle",
         "imtwordsbare": [
@@ -15830,7 +16143,8 @@
             "t\u014d{\\\ua78c}ona",
             "p\u0101p\u0101tio."
         ],
-        "trs": "This day when he went to the sheep to steal, his uncle caught him.\u2019 \\textstyleExampleref{[R250.222]}"
+        "trs": "This day when he went to the sheep to steal, his uncle caught him.\u2019 \\textstyleExampleref{[R250.222]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -15841,6 +16155,7 @@
             "pfv",
             "prox"
         ],
+        "clength": 90,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} go\\_out \\textsc{prox} \\textsc{art} man \\textsc{prox} at \\textsc{dem} day \\textsc{dist} \\textsc{ntr} go hither on\\_and\\_on",
         "imtwordsbare": [
@@ -15941,7 +16256,8 @@
             "mai",
             "\u0113..."
         ],
-        "trs": "When this man had gone out that day, he kept going...\u2019 \\textstyleExampleref{[R310.136]}"
+        "trs": "When this man had gone out that day, he kept going...\u2019 \\textstyleExampleref{[R310.136]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -15950,6 +16266,7 @@
             "med",
             "pred"
         ],
+        "clength": 50,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{pred} what \\textsc{2sg} \\textsc{ipfv} cry \\textsc{med}",
         "imtwordsbare": [
@@ -16002,7 +16319,8 @@
             "\\textbf{ta\u014bi}",
             "\\textbf{ena}?"
         ],
-        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[R229.185]}"
+        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[R229.185]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -16013,6 +16331,7 @@
             "poss",
             "prop"
         ],
+        "clength": 63,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{poss.3sg.a} word say away \\textsc{med} to \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -16077,7 +16396,8 @@
             "a",
             "koe"
         ],
-        "trs": "the words he spoke to you\u2019 \\textstyleExampleref{[R229.079]}"
+        "trs": "the words he spoke to you\u2019 \\textstyleExampleref{[R229.079]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -16090,6 +16410,7 @@
             "poss",
             "prop"
         ],
+        "clength": 124,
         "filename": "124/07verbphrase.tex",
         "imt": "for \\textsc{2pl} indeed \\textsc{ipfv} look \\textsc{irr} arrive hither \\textsc{prop} Hare from \\textsc{poss.3sg.o} place \\textsc{med} \\textsc{ipfv} disappear hither \\textsc{med}",
         "imtwordsbare": [
@@ -16214,7 +16535,8 @@
             "\\textbf{mai}",
             "\\textbf{ena}."
         ],
-        "trs": "You will see whether Hare comes from the place where he has disappeared.\u2019 \\textstyleExampleref{[R229.276]}"
+        "trs": "You will see whether Hare comes from the place where he has disappeared.\u2019 \\textstyleExampleref{[R229.276]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -16225,6 +16547,7 @@
             "pl",
             "prox"
         ],
+        "clength": 79,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} \\textsc{pl} thing \\textsc{prox} \\textsc{1sg} \\textsc{pfv} tell \\textsc{pfv} go away \\textsc{med}",
         "imtwordsbare": [
@@ -16307,7 +16630,8 @@
             "\\textbf{atu}",
             "\\textbf{ena}"
         ],
-        "trs": "the things I have (just) been telling about\u2019 \\textstyleExampleref{[R360.037]}"
+        "trs": "the things I have (just) been telling about\u2019 \\textstyleExampleref{[R360.037]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -16320,6 +16644,7 @@
             "pred",
             "prox"
         ],
+        "clength": 90,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pred} thought just \\textsc{art} thing \\textsc{prox} \\textsc{poss.1sg.o} \\textsc{cntg} say away \\textsc{med}",
         "imtwordsbare": [
@@ -16402,7 +16727,8 @@
             "\\textbf{atu}",
             "\\textbf{ena}."
         ],
-        "trs": "What I am about to say, is just a thought.\u2019 \\textstyleExampleref{[R361.015]}"
+        "trs": "What I am about to say, is just a thought.\u2019 \\textstyleExampleref{[R361.015]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -16412,6 +16738,7 @@
             "med",
             "prom"
         ],
+        "clength": 106,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{imm} \\textsc{cntg} look away \\textsc{med} \\textsc{prom} \\textsc{art} shadow of \\textsc{art} man",
         "imtwordsbare": [
@@ -16494,7 +16821,8 @@
             "te",
             "ta\u014bata..."
         ],
-        "trs": "Then he saw the shadow of a man...\u2019\\textstyleExampleref{ [R304.095]}\\textstyleExampleref{}"
+        "trs": "Then he saw the shadow of a man...\u2019\\textstyleExampleref{ [R304.095]}\\textstyleExampleref{}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -16504,6 +16832,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 84,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~there \\textsc{1sg} \\textsc{ipfv} look hither \\textsc{dist} from above to \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -16586,7 +16915,8 @@
             "a",
             "koe."
         ],
-        "trs": "(If I were that bird,) I would look at you from above.\u2019 \\textstyleExampleref{[R245.155]}"
+        "trs": "(If I were that bird,) I would look at you from above.\u2019 \\textstyleExampleref{[R245.155]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -16596,6 +16926,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 75,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prop} \\textsc{1sg} indeed \\textsc{pfv} call away \\textsc{dist} to \\textsc{prop} \\textsc{2sg}",
         "imtwordsbare": [
@@ -16672,7 +17003,8 @@
             "a",
             "koe..."
         ],
-        "trs": "Indeed, I called out to you...\u2019 \\textstyleExampleref{[R229.499]}"
+        "trs": "Indeed, I called out to you...\u2019 \\textstyleExampleref{[R229.499]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -16684,6 +17016,7 @@
             "prop",
             "prox"
         ],
+        "clength": 101,
         "filename": "124/07verbphrase.tex",
         "imt": "like \\textsc{prox} \\textsc{2sg} \\textsc{pfv} say hither \\textsc{dist} to \\textsc{prop} \\textsc{1sg} \\textsc{ntr} arrive hither \\textsc{prop} Vaha later\\_today",
         "imtwordsbare": [
@@ -16796,7 +17129,8 @@
             "Vaha",
             "{\\\ua78c}ar\u012bn\u0101."
         ],
-        "trs": "You said to me that Vaha would arrive today.\u2019 \\textstyleExampleref{[R229.147]}"
+        "trs": "You said to me that Vaha would arrive today.\u2019 \\textstyleExampleref{[R229.147]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -16805,6 +17139,7 @@
             "dist",
             "ipfv"
         ],
+        "clength": 53,
         "filename": "124/07verbphrase.tex",
         "imt": "~like \\textsc{cq} \\textsc{2pl} \\textsc{ipfv} talk \\textsc{dist}",
         "imtwordsbare": [
@@ -16857,7 +17192,8 @@
             "\\textbf{v\u0101na\u014ba}",
             "\\textbf{era}?"
         ],
-        "trs": "What were you(pl) talking about?\u2019 \\textstyleExampleref{[Ley-2-02.062]}"
+        "trs": "What were you(pl) talking about?\u2019 \\textstyleExampleref{[Ley-2-02.062]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -16866,6 +17202,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 53,
         "filename": "124/07verbphrase.tex",
         "imt": "~\\textsc{pfv} pain \\textsc{emph} \\textsc{2sg} \\textsc{pfv} fall \\textsc{pvp}",
         "imtwordsbare": [
@@ -16924,7 +17261,8 @@
             "\\textbf{hi\u014ba}",
             "\\textbf{ai}?"
         ],
-        "trs": "Did you get hurt when you fell down?\u2019 \\textstyleExampleref{[R481.131]}"
+        "trs": "Did you get hurt when you fell down?\u2019 \\textstyleExampleref{[R481.131]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -16934,6 +17272,7 @@
             "poss",
             "prf"
         ],
+        "clength": 87,
         "filename": "124/07verbphrase.tex",
         "imt": "yes \\textsc{prf} carry \\textsc{prf} return \\textsc{cont} to \\textsc{poss.3sg.o} place",
         "imtwordsbare": [
@@ -17004,7 +17343,8 @@
             "t\u014d{\\\ua78c}ona",
             "kona."
         ],
-        "trs": "Yes, they carried it back to its place.\u2019 \\textstyleExampleref{[R413.844]}"
+        "trs": "Yes, they carried it back to its place.\u2019 \\textstyleExampleref{[R413.844]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -17012,6 +17352,7 @@
             "ident",
             "pfv"
         ],
+        "clength": 78,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} return \\textsc{pfv} go\\_down hither \\textsc{dist} the\\_two by \\textsc{dist} \\textsc{ident}",
         "imtwordsbare": [
@@ -17088,7 +17429,8 @@
             "r\u0101",
             "{\\\ua78c}\u0101..."
         ],
-        "trs": "When they returned together (with downwards movement) by that place...\u2019 \\textstyleExampleref{[R245.210]}"
+        "trs": "When they returned together (with downwards movement) by that place...\u2019 \\textstyleExampleref{[R245.210]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -17098,6 +17440,7 @@
             "dist",
             "ntr"
         ],
+        "clength": 109,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} carry \\textsc{ntr} ascend \\textsc{ntr} go \\textsc{acc} \\textsc{dem} animal \\textsc{dist} to \\textsc{art} house pray",
         "imtwordsbare": [
@@ -17198,7 +17541,8 @@
             "hare",
             "pure."
         ],
-        "trs": "They carried the animal up to the church.\u2019 \\textstyleExampleref{[R178.053]}"
+        "trs": "They carried the animal up to the church.\u2019 \\textstyleExampleref{[R178.053]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -17206,6 +17550,7 @@
             "ipfv",
             "med"
         ],
+        "clength": 115,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~lest infect lest go \\textsc{art} sick to other people healthy \\textsc{med} \\textsc{ipfv} stay hither \\textsc{med}",
         "imtwordsbare": [
@@ -17312,7 +17657,8 @@
             "mai",
             "ena."
         ],
-        "trs": "...lest the disease keeps infecting other people who are still healthy.\u2019 \\textstyleExampleref{[R398.017]}"
+        "trs": "...lest the disease keeps infecting other people who are still healthy.\u2019 \\textstyleExampleref{[R398.017]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -17320,6 +17666,7 @@
             "caus",
             "pred"
         ],
+        "clength": 108,
         "filename": "124/07verbphrase.tex",
         "imt": "of \\textsc{art} mosquito stripe \\textsc{art} \\textsc{caus} infect \\textsc{caus} go \\textsc{art} sick \\textsc{pred} dengue",
         "imtwordsbare": [
@@ -17414,13 +17761,15 @@
             "he",
             "renke."
         ],
-        "trs": "It is the striped mosquito which keeps spreading dengue disease.\u2019 \\textstyleExampleref{[R535.051]}"
+        "trs": "It is the striped mosquito which keeps spreading dengue disease.\u2019 \\textstyleExampleref{[R535.051]}",
+        "wlength": 13
     },
     {
         "categories": [
             "3pl",
             "art"
         ],
+        "clength": 103,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{art} strong in\\_fact of \\textsc{3pl} toward \\textsc{art} disappear toward \\textsc{art} go just",
         "imtwordsbare": [
@@ -17509,7 +17858,8 @@
             "\\textbf{oho}",
             "n\u014d."
         ],
-        "trs": "Their power will gradually disappear.\u2019 \\textstyleExampleref{[1 Cor. 2:6]}"
+        "trs": "Their power will gradually disappear.\u2019 \\textstyleExampleref{[1 Cor. 2:6]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -17519,6 +17869,7 @@
             "poss",
             "prox"
         ],
+        "clength": 74,
         "filename": "124/07verbphrase.tex",
         "imt": "at \\textsc{art} time go\\_down go \\textsc{prox} \\textsc{poss.1sg.o} to Hanga Roa o Tai",
         "imtwordsbare": [
@@ -17607,13 +17958,15 @@
             "o",
             "Tai..."
         ],
-        "trs": "When I went down to Hanga Roa o Tai...\u2019 \\textstyleExampleref{[R230.059]}"
+        "trs": "When I went down to Hanga Roa o Tai...\u2019 \\textstyleExampleref{[R230.059]}",
+        "wlength": 12
     },
     {
         "categories": [
             "dist",
             "ipfv"
         ],
+        "clength": 61,
         "filename": "124/07verbphrase.tex",
         "imt": "like \\textsc{dist} just \\textsc{ipfv} eat \\textsc{ipfv} go \\textsc{dist}",
         "imtwordsbare": [
@@ -17678,12 +18031,14 @@
             "\\textbf{oho}",
             "era."
         ],
-        "trs": "In that way he kept eating.\u2019 \\textstyleExampleref{[R310.225]}"
+        "trs": "In that way he kept eating.\u2019 \\textstyleExampleref{[R310.225]}",
+        "wlength": 8
     },
     {
         "categories": [
             "pfv"
         ],
+        "clength": 110,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} cook \\textsc{pfv} go just \\textsc{pfv} cook \\textsc{pfv} go just",
@@ -17761,7 +18116,8 @@
             "\\textbf{oho}",
             "n\u014d."
         ],
-        "trs": "He just kept cooking and cooking.\u2019 \\textstyleExampleref{[R352.077]}"
+        "trs": "He just kept cooking and cooking.\u2019 \\textstyleExampleref{[R352.077]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -17771,6 +18127,7 @@
             "ntr",
             "red"
         ],
+        "clength": 90,
         "coordination": "and",
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} many \\textsc{art} year and \\textsc{ntr} big:\\textsc{red} \\textsc{ntr} go \\textsc{dem} bird \\textsc{dist}",
@@ -17860,7 +18217,8 @@
             "manu",
             "era."
         ],
-        "trs": "Many years passed and the bird grew up (got bigger and bigger).\u2019 \\textstyleExampleref{[R447.012]}"
+        "trs": "Many years passed and the bird grew up (got bigger and bigger).\u2019 \\textstyleExampleref{[R447.012]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -17871,6 +18229,7 @@
             "pfv",
             "prf"
         ],
+        "clength": 81,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} distribute \\textsc{pfv} finish \\textsc{dist} \\textsc{ag} Kainga \\textsc{acc} \\textsc{dem} food \\textsc{dist}",
         "imtwordsbare": [
@@ -17953,7 +18312,8 @@
             "kai",
             "era..."
         ],
-        "trs": "When Kainga had finished distributing (=completely distributed) the food...\u2019 \\textstyleExampleref{[R304.116]}"
+        "trs": "When Kainga had finished distributing (=completely distributed) the food...\u2019 \\textstyleExampleref{[R304.116]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -17961,6 +18321,7 @@
             "cont",
             "prf"
         ],
+        "clength": 80,
         "filename": "124/07verbphrase.tex",
         "imt": "at \\textsc{art} three day \\textsc{prf} ripe \\textsc{prf} finish \\textsc{cont}",
         "imtwordsbare": [
@@ -18031,7 +18392,8 @@
             "\\textbf{oti}",
             "{\\\ua78c}ana."
         ],
-        "trs": "On the third day (the bananas) are completely ripe.\u2019 \\textstyleExampleref{[R539-2.071]}"
+        "trs": "On the third day (the bananas) are completely ripe.\u2019 \\textstyleExampleref{[R539-2.071]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -18039,6 +18401,7 @@
             "ntr",
             "pfv"
         ],
+        "clength": 72,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} pull \\textsc{pfv} ascend \\textsc{dist} \\textsc{ntr} arrive to above",
         "imtwordsbare": [
@@ -18109,7 +18472,8 @@
             "ki",
             "ru\u014ba."
         ],
-        "trs": "When they had pulled (the net) up, it arrived on top.\u2019 \\textstyleExampleref{[R304.136]}"
+        "trs": "When they had pulled (the net) up, it arrived on top.\u2019 \\textstyleExampleref{[R304.136]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -18119,6 +18483,7 @@
             "ntr",
             "poss"
         ],
+        "clength": 69,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ntr} eat \\textsc{ntr} go\\_down \\textsc{acc} \\textsc{poss.3sg.a} goyava",
         "imtwordsbare": [
@@ -18177,7 +18542,8 @@
             "t\u0101{\\\ua78c}ana",
             "t\u016bava."
         ],
-        "trs": "He went down, eating his goyavas.\u2019 \\textstyleExampleref{[R245.024]}"
+        "trs": "He went down, eating his goyavas.\u2019 \\textstyleExampleref{[R245.024]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -18186,6 +18552,7 @@
             "ag",
             "ntr"
         ],
+        "clength": 93,
         "filename": "124/07verbphrase.tex",
         "imt": "if want of \\textsc{2pl} \\textsc{ntr} carry \\textsc{ntr} return \\textsc{2pl} \\textsc{ag} \\textsc{1sg} to Tahiti",
         "imtwordsbare": [
@@ -18281,7 +18648,8 @@
             "ki",
             "Tahiti."
         ],
-        "trs": "If you (pl) want, I\u2019ll take you back to Tahiti.\u2019 \\textstyleExampleref{[R231.102]}"
+        "trs": "If you (pl) want, I\u2019ll take you back to Tahiti.\u2019 \\textstyleExampleref{[R231.102]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -18289,6 +18657,7 @@
             "prf",
             "prox"
         ],
+        "clength": 98,
         "filename": "124/07verbphrase.tex",
         "imt": "time \\textsc{prox} indeed \\textsc{prf} swim \\textsc{prf} go hither \\textsc{cont} together to inland",
         "imtwordsbare": [
@@ -18377,7 +18746,8 @@
             "ki",
             "{\\\ua78c}uta."
         ],
-        "trs": "Now they had swum to the shore together.\u2019 \\textstyleExampleref{[R361.032]}"
+        "trs": "Now they had swum to the shore together.\u2019 \\textstyleExampleref{[R361.032]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -18388,6 +18758,7 @@
             "pfv",
             "red"
         ],
+        "clength": 97,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{pfv} crawl:\\textsc{red} \\textsc{pfv} go hither \\textsc{dist} by back \\textsc{ntr} peck \\textsc{ag} \\textsc{dem} chicken \\textsc{dist}",
         "imtwordsbare": [
@@ -18488,7 +18859,8 @@
             "{\\\ua78c}uha",
             "era."
         ],
-        "trs": "When he crawled backwards, the chicken pecked him.\u2019 \\textstyleExampleref{[R250.160]}"
+        "trs": "When he crawled backwards, the chicken pecked him.\u2019 \\textstyleExampleref{[R250.160]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -18498,6 +18870,7 @@
             "pvp",
             "red"
         ],
+        "clength": 111,
         "filename": "124/07verbphrase.tex",
         "imt": "~~~\\textsc{pfv} hurry:\\textsc{red} \\textsc{pfv} descend hither \\textsc{pvp} from above at \\textsc{dem} tree \\textsc{dist}",
         "imtwordsbare": [
@@ -18586,7 +18959,8 @@
             "tumu",
             "era."
         ],
-        "trs": "...she hurried down from the tree.\u2019 \\textstyleExampleref{[R496.045]}"
+        "trs": "...she hurried down from the tree.\u2019 \\textstyleExampleref{[R496.045]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -18599,6 +18973,7 @@
             "pvp",
             "red"
         ],
+        "clength": 115,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{ipfv} soft:\\textsc{red} \\textsc{ipfv} ascend \\textsc{ipfv} go just \\textsc{cont} \\textsc{art} fish \\textsc{pfv} \\textsc{caus} weary \\textsc{emph} \\textsc{pvp}",
         "imtwordsbare": [
@@ -18705,7 +19080,8 @@
             "r\u014d",
             "ai."
         ],
-        "trs": "The fish kept coming up easily, until it got tired of it.\u2019 \\textstyleExampleref{[R361.053]}"
+        "trs": "The fish kept coming up easily, until it got tired of it.\u2019 \\textstyleExampleref{[R361.053]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -18717,6 +19093,7 @@
             "prop",
             "prox"
         ],
+        "clength": 96,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prf} startled \\textsc{prf} wake\\_up \\textsc{cont} \\textsc{prop} \\textsc{1sg} at \\textsc{art} place \\textsc{prox} \\textsc{ident}",
         "imtwordsbare": [
@@ -18805,7 +19182,8 @@
             "nei",
             "{\\\ua78c}ana."
         ],
-        "trs": "I woke up with a start in this same place.\u2019 \\textstyleExampleref{[R539-1.764]}"
+        "trs": "I woke up with a start in this same place.\u2019 \\textstyleExampleref{[R539-1.764]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -18818,6 +19196,7 @@
             "ntr",
             "prox"
         ],
+        "clength": 90,
         "filename": "124/07verbphrase.tex",
         "imt": "time \\textsc{prox} \\textsc{ntr} answer away \\textsc{1sg} \\textsc{acc} \\textsc{art} thing write ask hither \\textsc{dist} \\textsc{ag} \\textsc{2pl}",
         "imtwordsbare": [
@@ -18924,7 +19303,8 @@
             "e",
             "k\u014drua."
         ],
-        "trs": "Now I will answer the things you wrote (and) asked me.\u2019 \\textstyleExampleref{[1 Cor. 7:1]}"
+        "trs": "Now I will answer the things you wrote (and) asked me.\u2019 \\textstyleExampleref{[1 Cor. 7:1]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -18932,6 +19312,7 @@
             "prom",
             "prop"
         ],
+        "clength": 81,
         "filename": "124/07verbphrase.tex",
         "imt": "\\textsc{prom} \\textsc{art} search \\textsc{prom} \\textsc{art} shout \\textsc{prop} Mum",
         "imtwordsbare": [
@@ -18996,6 +19377,7 @@
             "a",
             "nua."
         ],
-        "trs": "Mum searched (the child), shouting.\u2019 \\textstyleExampleref{[R236.082]}"
+        "trs": "Mum searched (the child), shouting.\u2019 \\textstyleExampleref{[R236.082]}",
+        "wlength": 8
     }
 ]

@@ -4,6 +4,7 @@
             "3sg",
             "nom"
         ],
+        "clength": 55,
         "filename": "98/adverbs.tex",
         "imt": "bad:\\textsc{3sg}   issues:\\textsc{nom}=those   very   completely",
         "imtwordsbare": [
@@ -44,7 +45,8 @@
             "\\textbf{zuku}",
             "\\textbf{\u029d{\\\u00cd}k\\\u1da4}."
         ],
-        "trs": "Those issues are really very bad!"
+        "trs": "Those issues are really very bad!",
+        "wlength": 4
     },
     {
         "categories": [
@@ -54,6 +56,7 @@
             "nom",
             "seq"
         ],
+        "clength": 44,
         "filename": "98/adverbs.tex",
         "imt": "fat:\\textsc{dist:comp:3sg:seq}   people:\\textsc{nom}   completely",
         "imtwordsbare": [
@@ -88,7 +91,8 @@
             "r\u00f2\u0253\u00e0",
             "\\textbf{m\\`{\u0289}k\u00e0}."
         ],
-        "trs": "And the people fattened up completely!"
+        "trs": "And the people fattened up completely!",
+        "wlength": 3
     },
     {
         "categories": [
@@ -96,6 +100,7 @@
             "nom",
             "pst2"
         ],
+        "clength": 51,
         "filename": "98/adverbs.tex",
         "imt": "go:\\textsc{3sg}=\\textsc{pst2}   my.father:\\textsc{nom}   yesterday",
         "imtwordsbare": [
@@ -130,7 +135,8 @@
             "ab\u00e1\u014ba",
             "s\u00e1\u00e1s\\`{\u0254}s{\\\u00cc}n."
         ],
-        "trs": "My father went yesterday."
+        "trs": "My father went yesterday.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -139,6 +145,7 @@
             "nom",
             "pst4"
         ],
+        "clength": 36,
         "filename": "98/adverbs.tex",
         "imt": "good:\\textsc{3sg}=\\textsc{pst4}   life:\\textsc{nom}   Ik:\\textsc{gen}",
         "imtwordsbare": [
@@ -173,7 +180,8 @@
             "\u0266yekesa",
             "Ic\u00e9."
         ],
-        "trs": "The life of the Ik was good (back then)."
+        "trs": "The life of the Ik was good (back then).",
+        "wlength": 3
     },
     {
         "categories": [
@@ -183,6 +191,7 @@
             "prf",
             "pst"
         ],
+        "clength": 40,
         "filename": "98/adverbs.tex",
         "imt": "when  come:\\textsc{1sg:dp}   go:\\textsc{3sg}=\\textsc{pst.prf}",
         "imtwordsbare": [
@@ -217,7 +226,8 @@
             "ats\u00ed\u00e2d\u1d49,",
             "\u0199aa=\\textbf{nan\u00e1k\\\u1d43}."
         ],
-        "trs": "When I came earlier, she had (already) gone."
+        "trs": "When I came earlier, she had (already) gone.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -228,6 +238,7 @@
             "prf",
             "pst"
         ],
+        "clength": 55,
         "filename": "98/adverbs.tex",
         "imt": "then:\\textsc{ins}=\\textsc{dem}   die.\\textsc{3pl:comp}=\\textsc{pst.prf}",
         "imtwordsbare": [
@@ -256,12 +267,14 @@
             "Ts\u02bc\\'{\u025b}d\\'{\u0254}\\'{\u0254}=n\u025b,",
             "ts\u02bc\u00e9\u00ed\u0199ot\u00e1t\u00e0=\\textbf{n\u00e0n\u00f2k\\\u1d52}."
         ],
-        "trs": "By that (time), they had died out a while ago."
+        "trs": "By that (time), they had died out a while ago.",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg=pst"
         ],
+        "clength": 37,
         "filename": "98/adverbs.tex",
         "imt": "come:\\textsc{1sg=pst}   just",
         "imtwordsbare": [
@@ -290,13 +303,15 @@
             "Ats\u00ed\u00e1=n\u00e0\u00e0",
             "\\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}."
         ],
-        "trs": "I just came."
+        "trs": "I just came.",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg",
             "int"
         ],
+        "clength": 37,
         "filename": "98/adverbs.tex",
         "imt": "come:\\textsc{int:1sg}   soon",
         "imtwordsbare": [
@@ -325,7 +340,8 @@
             "{Ats\u00e9s\u00ed\u00e0}",
             "\\textbf{ts\u02bc\\`{\u0254}\\`{\u0254}}."
         ],
-        "trs": "I will come soon."
+        "trs": "I will come soon.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -333,6 +349,7 @@
             "exc",
             "ins"
         ],
+        "clength": 36,
         "filename": "98/adverbs.tex",
         "imt": "come:\\textsc{1pl.exc}   next   morning:\\textsc{ins}",
         "imtwordsbare": [
@@ -368,13 +385,15 @@
             "barats\u1d52."
         ],
         "time": "future",
-        "trs": "We will come tomorrow (i.e., next morning)."
+        "trs": "We will come tomorrow (i.e., next morning).",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg=infr",
             "comp"
         ],
+        "clength": 27,
         "filename": "98/adverbs.tex",
         "imt": "die:\\textsc{comp:3sg=infr}",
         "imtwordsbare": [
@@ -397,7 +416,8 @@
         "srcwordstex": [
             "Badu\u0199ota=\\textbf{n\u00e1b\u00e0ts\\\u1d49}."
         ],
-        "trs": "It died, apparently."
+        "trs": "It died, apparently.",
+        "wlength": 1
     },
     {
         "categories": [
@@ -405,6 +425,7 @@
             "comp",
             "infr"
         ],
+        "clength": 27,
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{infr}       die:\\textsc{comp:3sg}",
         "imtwordsbare": [
@@ -433,13 +454,15 @@
             "\\textbf{N\u00e1bee}",
             "badu\u0199ot\u1d43."
         ],
-        "trs": "Apparently, it died."
+        "trs": "Apparently, it died.",
+        "wlength": 2
     },
     {
         "categories": [
             "3pl",
             "infr"
         ],
+        "clength": 26,
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{infr}     separate:\\textsc{3pl}",
         "imtwordsbare": [
@@ -468,13 +491,15 @@
             "\\textbf{N\u00e1noo}",
             "terem\u00e1t\u1d43."
         ],
-        "trs": "It looks like they separated."
+        "trs": "It looks like they separated.",
+        "wlength": 2
     },
     {
         "categories": [
             "2sg=pst2",
             "comp"
         ],
+        "clength": 13,
         "filename": "98/adverbs.tex",
         "imt": "eat:\\textsc{comp:2sg=pst2}",
         "imtwordsbare": [
@@ -497,7 +522,8 @@
         "srcwordstex": [
             "\u014a\u0199\u00e1\u0199\u00f3\u00edd\u00e0=b\u00e8\u00e8?"
         ],
-        "trs": "Did you eat (it) up?"
+        "trs": "Did you eat (it) up?",
+        "wlength": 1
     },
     {
         "categories": [
@@ -506,6 +532,7 @@
             "comp",
             "conf"
         ],
+        "clength": 25,
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{conf}   eat\\textsc{:comp:1sg}",
         "imtwordsbare": [
@@ -534,12 +561,14 @@
             "\\textbf{S\u0268na}",
             "\u014b\u0199\u00e1\u0199\u00f3t\u00ed\u00e0."
         ],
-        "trs": "Yes, of course I did."
+        "trs": "Yes, of course I did.",
+        "wlength": 2
     },
     {
         "categories": [
             "3sg=pst4"
         ],
+        "clength": 9,
         "filename": "98/adverbs.tex",
         "imt": "bring:\\textsc{3sg=pst4}",
         "imtwordsbare": [
@@ -562,13 +591,15 @@
         "srcwordstex": [
             "D\u00e8t\u00e0=n\u00f2\u00f2?"
         ],
-        "trs": "Did she bring (it)?"
+        "trs": "Did she bring (it)?",
+        "wlength": 1
     },
     {
         "categories": [
             "3sg",
             "conf"
         ],
+        "clength": 20,
         "filename": "98/adverbs.tex",
         "imt": "\\textsc{conf}   bring:\\textsc{3sg}",
         "imtwordsbare": [
@@ -597,13 +628,15 @@
             "\\textbf{N\u00f2\u00f2}",
             "d\u00e8t\u00e0."
         ],
-        "trs": "Yes, of course she did."
+        "trs": "Yes, of course she did.",
+        "wlength": 2
     },
     {
         "categories": [
             "2sg=hypo",
             "dat"
         ],
+        "clength": 32,
         "filename": "98/adverbs.tex",
         "imt": "tell:\\textsc{2sg=hypo}     I:\\textsc{dat}",
         "imtwordsbare": [
@@ -632,13 +665,15 @@
             "T\u00f3\u00edda=\\textbf{\u0199\u00e1naa}",
             "\\'{\u0272}c\u00ec\u00e8?"
         ],
-        "trs": "You would tell me?"
+        "trs": "You would tell me?",
+        "wlength": 2
     },
     {
         "categories": [
             "1pl",
             "inc=cond"
         ],
+        "clength": 32,
         "filename": "98/adverbs.tex",
         "imt": "fight:\\textsc{1pl.inc=cond}",
         "imtwordsbare": [
@@ -661,6 +696,7 @@
         "srcwordstex": [
             "C\u025bm{\\\u00cd}s{\\\u00cd}na=\\textbf{\u0199\u00e1n\u00f2k\\\u1d52}."
         ],
-        "trs": "We all would have fought."
+        "trs": "We all would have fought.",
+        "wlength": 1
     }
 ]

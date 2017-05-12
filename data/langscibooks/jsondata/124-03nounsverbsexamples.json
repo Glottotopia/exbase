@@ -6,6 +6,7 @@
             "pl",
             "red"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} born:\\textsc{red} \\textsc{art} \\textsc{pl} child at Tahai",
         "imtwordsbare": [
@@ -64,7 +65,8 @@
             "{\\\ua78c}i",
             "T\u0101hai."
         ],
-        "trs": "Children were born in Tahai.\u2019 \\textstyleExampleref{[Ley-4-08.10]}"
+        "trs": "Children were born in Tahai.\u2019 \\textstyleExampleref{[Ley-4-08.10]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -76,6 +78,7 @@
             "o",
             "poss"
         ],
+        "clength": 63,
         "filename": "124/03nounsverbs.tex",
         "imt": "from \\textsc{art} time \\textsc{dist} \\textsc{poss.3sg.o} \\textsc{ipfv} child just \\textsc{cont}",
         "imtwordsbare": [
@@ -146,7 +149,8 @@
             "n\u014d",
             "{\\\ua78c}ana..."
         ],
-        "trs": "From the time when I was a child...\u2019 \\textstyleExampleref{[R539-1.614]}"
+        "trs": "From the time when I was a child...\u2019 \\textstyleExampleref{[R539-1.614]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -154,6 +158,7 @@
             "pred",
             "prox"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "~\\textsc{pred} truth \\textsc{art} story \\textsc{prox}",
         "imtwordsbare": [
@@ -200,7 +205,8 @@
             "\\textbf{{\\\ua78c}a{\\\ua78c}amu}",
             "\\textit{nei?}"
         ],
-        "trs": "Is this story true?\u2019 \\textstyleExampleref{ [R616.608]}"
+        "trs": "Is this story true?\u2019 \\textstyleExampleref{ [R616.608]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -213,6 +219,7 @@
             "ntr",
             "prox"
         ],
+        "clength": 96,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} tell then \\textsc{ag} \\textsc{1pl.excl} \\textsc{acc} \\textsc{art} problem all \\textsc{prox} of \\textsc{1pl.incl} of Rapa Nui",
         "imtwordsbare": [
@@ -319,7 +326,8 @@
             "Rapa",
             "Nui."
         ],
-        "trs": "We told about all the problems we have on Rapa Nui.\u2019 \\textstyleExampleref{[R649.238]}"
+        "trs": "We told about all the problems we have on Rapa Nui.\u2019 \\textstyleExampleref{[R649.238]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -332,6 +340,7 @@
             "prf",
             "pvp"
         ],
+        "clength": 51,
         "filename": "124/03nounsverbs.tex",
         "imt": "~\\textsc{prf} know \\textsc{cont} \\textsc{2pl} \\textsc{pred} what \\textsc{pfv} \\textsc{1pl.excl} \\textsc{pvp}",
         "imtwordsbare": [
@@ -402,7 +411,8 @@
             "\\textbf{m\u0101tou}",
             "ai?"
         ],
-        "trs": "Do you know what we did?\u2019 \\textstyleExampleref{[Notes N. Weber]}"
+        "trs": "Do you know what we did?\u2019 \\textstyleExampleref{[Notes N. Weber]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -413,6 +423,7 @@
             "poss",
             "prf"
         ],
+        "clength": 74,
         "filename": "124/03nounsverbs.tex",
         "imt": "~~~~~\\textsc{prf} finish \\textsc{cont}  ~~~~\\textsc{prf} \\textsc{dist} \\textsc{cont} \\textsc{poss.2sg.a} thing",
         "imtwordsbare": [
@@ -477,7 +488,8 @@
             "ta{\\\ua78c}a",
             "me{\\\ua78c}e."
         ],
-        "trs": "\u2014Is it finished? \u2014I\u2019m done (lit. something like \u2018there is your thing\u2019).\u2019 \\textstyleExampleref{[R230.105]}"
+        "trs": "\u2014Is it finished? \u2014I\u2019m done (lit. something like \u2018there is your thing\u2019).\u2019 \\textstyleExampleref{[R230.105]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -486,6 +498,7 @@
             "dist",
             "pfv"
         ],
+        "clength": 53,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pfv} finish \\textsc{dist} \\textsc{art} speak \\textsc{ag} \\textsc{art} woman",
         "imtwordsbare": [
@@ -550,7 +563,8 @@
             "te",
             "vi{\\\ua78c}e..."
         ],
-        "trs": "When the woman had finished speaking...\u2019 \\textstyleExampleref{[Egt-01.095]}"
+        "trs": "When the woman had finished speaking...\u2019 \\textstyleExampleref{[Egt-01.095]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -562,6 +576,7 @@
             "prom",
             "red"
         ],
+        "clength": 89,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_down hither then to \\textsc{art} house learn \\textsc{com} \\textsc{prom} \\textsc{art} gather:\\textsc{red} hither \\textsc{acc} \\textsc{art} \\textsc{3pl} guava",
         "imtwordsbare": [
@@ -680,7 +695,8 @@
             "r\u0101ua",
             "t\u016bava."
         ],
-        "trs": "They went down to school, while picking (lit. with the picking) guavas.\u2019 \\textstyleExampleref{[R211.012]}"
+        "trs": "They went down to school, while picking (lit. with the picking) guavas.\u2019 \\textstyleExampleref{[R211.012]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -691,6 +707,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 91,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ipfv} speak \\textsc{emph} hither \\textsc{cont} every \\textsc{art} day to \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -773,7 +790,8 @@
             "a",
             "au."
         ],
-        "trs": "Every day he speaks to me.\u2019 \\textstyleExampleref{[R655.018]}"
+        "trs": "Every day he speaks to me.\u2019 \\textstyleExampleref{[R655.018]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -782,6 +800,7 @@
             "pl",
             "prox"
         ],
+        "clength": 88,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{imp} read strong \\textsc{art} \\textsc{pl} word \\textsc{prox} \\textit{ra\u014bi} \\textit{rano} \\textit{rapu}",
         "imtwordsbare": [
@@ -858,7 +877,8 @@
             "rano,",
             "rapu."
         ],
-        "trs": "Read the following words aloud: \\textit{ra\u014bi, rano, rapu}.\u2019 \\textstyleExampleref{[R616.147]}"
+        "trs": "Read the following words aloud: \\textit{ra\u014bi, rano, rapu}.\u2019 \\textstyleExampleref{[R616.147]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -869,6 +889,7 @@
             "caus",
             "poss"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{poss.3sg.a} \\textsc{art} \\textsc{caus} run \\textsc{acc} \\textsc{art} land",
         "imtwordsbare": [
@@ -927,7 +948,8 @@
             "te",
             "henua."
         ],
-        "trs": "He (was the one who) governed the country.\u2019 \\textstyleExampleref{[R370.005]}"
+        "trs": "He (was the one who) governed the country.\u2019 \\textstyleExampleref{[R370.005]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -935,6 +957,7 @@
             "cont",
             "prf"
         ],
+        "clength": 46,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} flood \\textsc{cont} \\textsc{art} house at \\textsc{art} water",
         "imtwordsbare": [
@@ -999,13 +1022,15 @@
             "te",
             "vai."
         ],
-        "trs": "The house was flooded with water.\u2019 \\textstyleExampleref{[Egt]}"
+        "trs": "The house was flooded with water.\u2019 \\textstyleExampleref{[Egt]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 27,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} fly \\textsc{art} flood",
         "imtwordsbare": [
@@ -1046,7 +1071,8 @@
             "te",
             "\\textbf{a{\\\ua78c}a}."
         ],
-        "trs": "The flood came up.\u2019 \\textstyleExampleref{[Mtx-7-17.012]}"
+        "trs": "The flood came up.\u2019 \\textstyleExampleref{[Mtx-7-17.012]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1060,6 +1086,7 @@
             "poss",
             "prop"
         ],
+        "clength": 105,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prop} \\textsc{1sg} \\textsc{ipfv} \\textsc{caus} know away \\textsc{med} \\textsc{acc} \\textsc{poss.1sg.o} think \\textsc{acc} \\textsc{poss.1sg.o}  perceive \\textsc{nmlz}",
         "imtwordsbare": [
@@ -1160,7 +1187,8 @@
             "\\textbf{\u014baro{\\\ua78c}a}",
             "\\textbf{i\u014ba}."
         ],
-        "trs": "I will make known what I think, what I feel.\u2019 \\textstyleExampleref{[R443.013\u2013015]}"
+        "trs": "I will make known what I think, what I feel.\u2019 \\textstyleExampleref{[R443.013\u2013015]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -1170,6 +1198,7 @@
             "dist",
             "prf"
         ],
+        "clength": 49,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} drawing away \\textsc{cont} \\textsc{acc} \\textsc{dem} airplane \\textsc{dist}",
         "imtwordsbare": [
@@ -1234,7 +1263,8 @@
             "{\\\ua78c}avione",
             "era."
         ],
-        "trs": "They drew that airplane.\u2019 \\textstyleExampleref{[R379.057]}"
+        "trs": "They drew that airplane.\u2019 \\textstyleExampleref{[R379.057]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1245,6 +1275,7 @@
             "poss",
             "pred"
         ],
+        "clength": 70,
         "filename": "124/03nounsverbs.tex",
         "imt": "thing manner different \\textsc{poss.3sg.o} thank to \\textsc{art} race \\textsc{dist} \\textsc{pred} Rapa Nui",
         "imtwordsbare": [
@@ -1333,7 +1364,8 @@
             "rapa",
             "nui."
         ],
-        "trs": "Her gratitude for this race, the Rapa Nui, is exceptional.\u2019 \\textstyleExampleref{\\citep[204]{Makihara2001Adaptation}}"
+        "trs": "Her gratitude for this race, the Rapa Nui, is exceptional.\u2019 \\textstyleExampleref{\\citep[204]{Makihara2001Adaptation}}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -1342,6 +1374,7 @@
             "ntr",
             "subs"
         ],
+        "clength": 76,
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{art} not listen \\textsc{ntr} lost \\textsc{emph} away \\textsc{subs}",
         "imtwordsbare": [
@@ -1413,7 +1446,8 @@
             "atu",
             "{\\\ua78c}ai."
         ],
-        "trs": "Because (the sheep) did not listen, it got lost.\u2019 \\textstyleExampleref{[R490.005]}"
+        "trs": "Because (the sheep) did not listen, it got lost.\u2019 \\textstyleExampleref{[R490.005]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -1424,6 +1458,7 @@
             "ntr",
             "num"
         ],
+        "clength": 111,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} see hither \\textsc{cntg} revolve \\textsc{num} two \\textsc{caus} revolve \\textsc{nmlz} at near of \\textsc{art} islet",
         "imtwordsbare": [
@@ -1530,7 +1565,8 @@
             "te",
             "motu."
         ],
-        "trs": "I saw (the bird) making two rounds near the islet.\u2019 \\textstyleExampleref{[R338.014]}"
+        "trs": "I saw (the bird) making two rounds near the islet.\u2019 \\textstyleExampleref{[R338.014]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -1539,6 +1575,7 @@
             "o",
             "poss"
         ],
+        "clength": 55,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{poss.3sg.o} stay \\textsc{nmlz} at Ahu te Peu",
         "imtwordsbare": [
@@ -1597,7 +1634,8 @@
             "te",
             "Peu."
         ],
-        "trs": "He lived (lit. his living) in Ahu te Peu.\u2019 \\textstyleExampleref{[R233.002]}"
+        "trs": "He lived (lit. his living) in Ahu te Peu.\u2019 \\textstyleExampleref{[R233.002]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -1613,6 +1651,7 @@
             "prox",
             "red"
         ],
+        "clength": 88,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{neg.pfv} forgotten at \\textsc{prop} \\textsc{1sg} from \\textsc{poss.1sg.o} small:\\textsc{red} \\textsc{nmlz} \\textsc{ident} to \\textsc{art} time \\textsc{prox}",
         "imtwordsbare": [
@@ -1714,7 +1753,8 @@
             "hora",
             "nei."
         ],
-        "trs": "I have not forgotten it from my childhood (lit. smallness) until now.\u2019 \\textstyleExampleref{[R416.936]}"
+        "trs": "I have not forgotten it from my childhood (lit. smallness) until now.\u2019 \\textstyleExampleref{[R416.936]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -1722,6 +1762,7 @@
             "nmlz",
             "prox"
         ],
+        "clength": 55,
         "filename": "124/03nounsverbs.tex",
         "imt": "like \\textsc{prox} \\textsc{art} make \\textsc{nmlz} of \\textsc{art} medicine \\textsc{prox}",
         "imtwordsbare": [
@@ -1792,7 +1833,8 @@
             "r\u0101{\\\ua78c}au",
             "nei."
         ],
-        "trs": "This is how you make (lit. the making of) this medicine.\u2019 \\textstyleExampleref{[R313.159]}"
+        "trs": "This is how you make (lit. the making of) this medicine.\u2019 \\textstyleExampleref{[R313.159]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -1803,6 +1845,7 @@
             "poss",
             "red"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{poss.3sg.a} \\textsc{art} eat \\textsc{acc} \\textsc{art} thing good:\\textsc{red} all",
         "imtwordsbare": [
@@ -1867,7 +1910,8 @@
             "ririva",
             "ta{\\\ua78c}ato{\\\ua78c}a."
         ],
-        "trs": "He (was the one who) ate all the best things.\u2019 \\textstyleExampleref{[R532-01.011]}"
+        "trs": "He (was the one who) ate all the best things.\u2019 \\textstyleExampleref{[R532-01.011]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1879,6 +1923,7 @@
             "poss",
             "pred"
         ],
+        "clength": 127,
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{dist} stay \\textsc{nmlz} \\textsc{pred} arrive just hither \\textsc{art} do of \\textsc{art} people adult to \\textsc{poss.1sg.o} Dad look",
         "imtwordsbare": [
@@ -2003,7 +2048,8 @@
             "koro",
             "u{\\\ua78c}i."
         ],
-        "trs": "At that time the old people always came to see my father (lit. just arriving was the doing of the old people).\u2019 \\textstyleExampleref{[R649.101]}"
+        "trs": "At that time the old people always came to see my father (lit. just arriving was the doing of the old people).\u2019 \\textstyleExampleref{[R649.101]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -2015,6 +2061,7 @@
             "nmlz",
             "prom"
         ],
+        "clength": 104,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prom} \\textsc{art} exist \\textsc{nmlz} \\textsc{cont} \\textsc{art} place from \\textsc{ana} \\textsc{ipfv} hatch \\textsc{med} \\textsc{art} mosquito",
         "imtwordsbare": [
@@ -2115,7 +2162,8 @@
             "te",
             "naonao."
         ],
-        "trs": "There are still places from where the mosquito breeds.\u2019 \\textstyleExampleref{[R535.054]}"
+        "trs": "There are still places from where the mosquito breeds.\u2019 \\textstyleExampleref{[R535.054]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -2123,6 +2171,7 @@
             "prom",
             "prop"
         ],
+        "clength": 81,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prom} \\textsc{art} search \\textsc{prom} \\textsc{art} shout \\textsc{prop} Mum",
@@ -2188,7 +2237,8 @@
             "a",
             "nua."
         ],
-        "trs": "Mum kept searching and shouting.\u2019 \\textstyleExampleref{[R236.082]}"
+        "trs": "Mum kept searching and shouting.\u2019 \\textstyleExampleref{[R236.082]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -2196,6 +2246,7 @@
             "dist",
             "prom"
         ],
+        "clength": 48,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} want \\textsc{dist} of Malo for exist \\textsc{prom} Hepu for win",
         "imtwordsbare": [
@@ -2279,7 +2330,8 @@
             "mo",
             "r\u0113."
         ],
-        "trs": "Malo wants (lit. \u2018Malo\u2019s wish\u2019) Hepu to win.\u2019 \\textstyleExampleref{[R408.064]}"
+        "trs": "Malo wants (lit. \u2018Malo\u2019s wish\u2019) Hepu to win.\u2019 \\textstyleExampleref{[R408.064]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -2290,6 +2342,7 @@
             "incl",
             "poss"
         ],
+        "clength": 49,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{poss.3sg.a} say \\textsc{conneg} \\textsc{1pl.incl} alone just",
         "imtwordsbare": [
@@ -2343,7 +2396,8 @@
             "hokotahi",
             "n\u014d."
         ],
-        "trs": "What she said, was: we are not alone.\u2019 \\textstyleExampleref{[R649.191]}"
+        "trs": "What she said, was: we are not alone.\u2019 \\textstyleExampleref{[R649.191]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2354,6 +2408,7 @@
             "prf",
             "red"
         ],
+        "clength": 93,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} happy good:\\textsc{red} \\textsc{cont} \\textsc{art} \\textsc{pl} child because\\_of \\textsc{art} go\\_down again  of \\textsc{3pl} to \\textsc{art} learn",
         "imtwordsbare": [
@@ -2466,7 +2521,8 @@
             "te",
             "h\u0101p{\\=\\i.}"
         ],
-        "trs": "The children are really happy because they go back to school.\u2019 \\textstyleExampleref{[R334.128]}"
+        "trs": "The children are really happy because they go back to school.\u2019 \\textstyleExampleref{[R334.128]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -2481,6 +2537,7 @@
             "prf",
             "prop"
         ],
+        "clength": 86,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} die away \\textsc{cont} \\textsc{prop} \\textsc{1sg} at \\textsc{art} laugh at \\textsc{dem} \\textsc{caus} conspicuous \\textsc{dist}  \\textsc{acc} \\textsc{prop} \\textsc{3sg}",
         "imtwordsbare": [
@@ -2599,7 +2656,8 @@
             "a",
             "ia."
         ],
-        "trs": "I laughed my head off (lit. died with laughing) because of his boasting.\u2019 \\textstyleExampleref{[R230.172]}"
+        "trs": "I laughed my head off (lit. died with laughing) because of his boasting.\u2019 \\textstyleExampleref{[R230.172]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -2609,6 +2667,7 @@
             "nmlz",
             "prf"
         ],
+        "clength": 70,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} fed\\_up \\textsc{cont} at \\textsc{art} eat \\textsc{nmlz} just \\textsc{acc} \\textsc{art} chicken",
         "imtwordsbare": [
@@ -2691,7 +2750,8 @@
             "te",
             "moa."
         ],
-        "trs": "He was fed up with eating only chicken.\u2019 \\textstyleExampleref{[R617.202]}"
+        "trs": "He was fed up with eating only chicken.\u2019 \\textstyleExampleref{[R617.202]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -2699,6 +2759,7 @@
             "dist",
             "nmlz"
         ],
+        "clength": 69,
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{art} arrive \\textsc{nmlz} again hither \\textsc{dist} from mainland",
         "imtwordsbare": [
@@ -2769,7 +2830,8 @@
             "mai",
             "Hiva..."
         ],
-        "trs": "When he returned (lit. in the returning) again from the mainland....\u2019 \\textstyleExampleref{[R487.021]}"
+        "trs": "When he returned (lit. in the returning) again from the mainland....\u2019 \\textstyleExampleref{[R487.021]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -2780,6 +2842,7 @@
             "o",
             "poss"
         ],
+        "clength": 58,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ipfv} wait \\textsc{emph} away to \\textsc{poss.2sg.o} descend \\textsc{nmlz} away",
         "imtwordsbare": [
@@ -2850,12 +2913,14 @@
             "\\textbf{ha\u014ba}",
             "atu."
         ],
-        "trs": "I will wait until you come down.\u2019 \\textstyleExampleref{[R230.047]}"
+        "trs": "I will wait until you come down.\u2019 \\textstyleExampleref{[R230.047]}",
+        "wlength": 9
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 31,
         "filename": "124/03nounsverbs.tex",
         "imt": "before to \\textsc{art} enter to inside",
         "imtwordsbare": [
@@ -2908,7 +2973,8 @@
             "ki",
             "roto"
         ],
-        "trs": "before she went inside\u2019 \\textstyleExampleref{[R181.005]}"
+        "trs": "before she went inside\u2019 \\textstyleExampleref{[R181.005]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2918,6 +2984,7 @@
             "nmlz",
             "pred"
         ],
+        "clength": 62,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{neg} \\textsc{pred} light for see \\textsc{nmlz} \\textsc{acc} \\textsc{art} food",
         "imtwordsbare": [
@@ -2988,7 +3055,8 @@
             "te",
             "kai."
         ],
-        "trs": "There was no light to see the food.\u2019 \\textstyleExampleref{[R352.070]}"
+        "trs": "There was no light to see the food.\u2019 \\textstyleExampleref{[R352.070]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -2998,6 +3066,7 @@
             "nmlz",
             "pred"
         ],
+        "clength": 82,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pred} good just \\textsc{art} to\\_fish \\textsc{nmlz} for \\textsc{art} people of before \\textsc{ident} \\textsc{acc} \\textsc{art} sawfish",
         "imtwordsbare": [
@@ -3104,7 +3173,8 @@
             "te",
             "siera."
         ],
-        "trs": "For the people of the past, fishing for sawfish was something nice.\u2019 \\textstyleExampleref{[R364.019]}"
+        "trs": "For the people of the past, fishing for sawfish was something nice.\u2019 \\textstyleExampleref{[R364.019]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -3114,6 +3184,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 95,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pfv} begin \\textsc{pvp} \\textsc{art} stay \\textsc{nmlz} at \\textsc{ana} from \\textsc{art} year three ten plus five",
         "imtwordsbare": [
@@ -3220,7 +3291,8 @@
             "m\u0101",
             "pae."
         ],
-        "trs": "His living there started in the year \u201835.\u2019 \\textstyleExampleref{[R539-1.492]}"
+        "trs": "His living there started in the year \u201835.\u2019 \\textstyleExampleref{[R539-1.492]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -3230,6 +3302,7 @@
             "ipfv",
             "red"
         ],
+        "clength": 56,
         "filename": "124/03nounsverbs.tex",
         "imt": "because\\_of \\textsc{ana} \\textsc{art} go sea \\textsc{ipfv} go \\textsc{ins} day good:\\textsc{red}",
         "imtwordsbare": [
@@ -3306,7 +3379,8 @@
             "mahana",
             "rivariva."
         ],
-        "trs": "Therefore, going to sea is done on beautiful days.\u2019 \\textstyleExampleref{[R354.016]}"
+        "trs": "Therefore, going to sea is done on beautiful days.\u2019 \\textstyleExampleref{[R354.016]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3316,6 +3390,7 @@
             "dist",
             "pfv"
         ],
+        "clength": 43,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pfv} finish \\textsc{dist} \\textsc{acc} \\textsc{art} listen \\textsc{ag} Kainga",
         "imtwordsbare": [
@@ -3380,7 +3455,8 @@
             "e",
             "K\u0101i\u014ba..."
         ],
-        "trs": "When Kainga had finished listening...\u2019 \\textstyleExampleref{[R304.011]}"
+        "trs": "When Kainga had finished listening...\u2019 \\textstyleExampleref{[R304.011]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -3389,6 +3465,7 @@
             "ntr",
             "subs"
         ],
+        "clength": 67,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} begin \\textsc{emph} \\textsc{subs} \\textsc{art} thing all \\textsc{art} do",
         "imtwordsbare": [
@@ -3459,7 +3536,8 @@
             "te",
             "\\textbf{a\u014ba}."
         ],
-        "trs": "All the things began to be done.\u2019 \\textstyleExampleref{[R378.022]}"
+        "trs": "All the things began to be done.\u2019 \\textstyleExampleref{[R378.022]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -3469,6 +3547,7 @@
             "neg",
             "pfv"
         ],
+        "clength": 50,
         "filename": "124/03nounsverbs.tex",
         "imt": "~\\textsc{neg.pfv} know really \\textsc{2sg} \\textsc{acc} \\textsc{art} squeeze \\textsc{acc} \\textsc{art} milk",
         "imtwordsbare": [
@@ -3545,7 +3624,8 @@
             "te",
             "\u016b?"
         ],
-        "trs": "Don\u2019t you know how to milk cows?\u2019 \\textstyleExampleref{[R245.184]}"
+        "trs": "Don\u2019t you know how to milk cows?\u2019 \\textstyleExampleref{[R245.184]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3553,6 +3633,7 @@
             "art",
             "ntr"
         ],
+        "clength": 59,
         "filename": "124/03nounsverbs.tex",
         "imt": "when finish \\textsc{ntr} learn hither \\textsc{acc} \\textsc{art} write at \\textsc{art} machine",
         "imtwordsbare": [
@@ -3635,7 +3716,8 @@
             "te",
             "m\u0101kini."
         ],
-        "trs": "After that, we learned typing.\u2019 \\textstyleExampleref{[R206.008]}"
+        "trs": "After that, we learned typing.\u2019 \\textstyleExampleref{[R206.008]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -3649,6 +3731,7 @@
             "prox",
             "red"
         ],
+        "clength": 85,
         "filename": "124/03nounsverbs.tex",
         "imt": "for learn good:\\textsc{red} \\textsc{poss.2sg.o} \\textsc{acc} \\textsc{art} write \\textsc{nmlz} of \\textsc{art} \\textsc{pl} thing \\textsc{prox}",
         "imtwordsbare": [
@@ -3743,7 +3826,8 @@
             "me{\\\ua78c}e",
             "nei..."
         ],
-        "trs": "In order for you to learn well the (way of) writing these things...\u2019 \\textstyleExampleref{[R617.003]}"
+        "trs": "In order for you to learn well the (way of) writing these things...\u2019 \\textstyleExampleref{[R617.003]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -3757,6 +3841,7 @@
             "o",
             "poss"
         ],
+        "clength": 73,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ipfv} perceive just \\textsc{cont} \\textsc{ag} \\textsc{1sg} \\textsc{art} strike \\textsc{nmlz} of \\textsc{poss.2sg.o} heart",
         "imtwordsbare": [
@@ -3845,7 +3930,8 @@
             "tu{\\\ua78c}u",
             "m\u0101hatu."
         ],
-        "trs": "I hear the beating of your heart.\u2019 \\textstyleExampleref{[R505.015]}"
+        "trs": "I hear the beating of your heart.\u2019 \\textstyleExampleref{[R505.015]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -3856,6 +3942,7 @@
             "nmlz",
             "ntr"
         ],
+        "clength": 65,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} speak all \\textsc{acc} \\textsc{art} die \\textsc{nmlz} \\textsc{dist} of \\textsc{dem} child \\textsc{dist}",
         "imtwordsbare": [
@@ -3944,7 +4031,8 @@
             "poki",
             "era."
         ],
-        "trs": "He told all about the death of that child.\u2019 \\textstyleExampleref{[R102.105]}"
+        "trs": "He told all about the death of that child.\u2019 \\textstyleExampleref{[R102.105]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -3955,6 +4043,7 @@
             "nmlz",
             "num"
         ],
+        "clength": 73,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{num} two manner of \\textsc{art} look \\textsc{nmlz} of \\textsc{art} man",
         "imtwordsbare": [
@@ -4055,13 +4144,15 @@
             "te",
             "ta\u014bata."
         ],
-        "trs": "There are two ways in which people see it (lit. two ways of seeing).\u2019 \\textstyleExampleref{[R648.218]}"
+        "trs": "There are two ways in which people see it (lit. two ways of seeing).\u2019 \\textstyleExampleref{[R648.218]}",
+        "wlength": 14
     },
     {
         "categories": [
             "art",
             "cntg"
         ],
+        "clength": 49,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{cntg} two year of \\textsc{art} born of Puakiva",
         "imtwordsbare": [
@@ -4126,7 +4217,8 @@
             "o",
             "Puakiva..."
         ],
-        "trs": "Two years after Puakiva\u2019s birth...\u2019 \\textstyleExampleref{[R229.007]}"
+        "trs": "Two years after Puakiva\u2019s birth...\u2019 \\textstyleExampleref{[R229.007]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -4138,6 +4230,7 @@
             "prom",
             "prox"
         ],
+        "clength": 67,
         "filename": "124/03nounsverbs.tex",
         "imt": "from sea \\textsc{prox} from \\textsc{art} bathe \\textsc{nmlz} \\textsc{1pl.excl} \\textsc{prom} \\textsc{coll} Tonere",
         "imtwordsbare": [
@@ -4220,7 +4313,8 @@
             "ku\u0101",
             "Tonere."
         ],
-        "trs": "We are coming from the shore, from swimming with Tonere.\u2019 \\textstyleExampleref{[R245.084]}"
+        "trs": "We are coming from the shore, from swimming with Tonere.\u2019 \\textstyleExampleref{[R245.084]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -4234,6 +4328,7 @@
             "poss",
             "pred"
         ],
+        "clength": 82,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} break \\textsc{art} foot like \\textsc{pred} break \\textsc{nmlz} \\textsc{dist} \\textsc{ident} of \\textsc{poss.1sg.o} foot",
         "imtwordsbare": [
@@ -4328,13 +4423,15 @@
             "t\u014d{\\\ua78c}oku",
             "va{\\\ua78c}e."
         ],
-        "trs": "He broke his leg, like I broke my leg (lit. like the breaking of my leg).\u2019 \\textstyleExampleref{[R492.021]}"
+        "trs": "He broke his leg, like I broke my leg (lit. like the breaking of my leg).\u2019 \\textstyleExampleref{[R492.021]}",
+        "wlength": 13
     },
     {
         "categories": [
             "nmlz",
             "pred"
         ],
+        "clength": 53,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pred} arrive \\textsc{nmlz} hither of Hotu Matu\u2019a",
         "imtwordsbare": [
@@ -4393,7 +4490,8 @@
             "Hotu",
             "Matu{\\\ua78c}a"
         ],
-        "trs": "The arrival of Hotu Matu\u2019a\u2019 (title of a story) \\textstyleExampleref{[R369.000]}"
+        "trs": "The arrival of Hotu Matu\u2019a\u2019 (title of a story) \\textstyleExampleref{[R369.000]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -4402,6 +4500,7 @@
             "pred",
             "prox"
         ],
+        "clength": 78,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} thing beautiful of \\textsc{art} work \\textsc{prox} \\textsc{pred} make \\textsc{nmlz} of \\textsc{art} glass",
         "imtwordsbare": [
@@ -4496,7 +4595,8 @@
             "te",
             "hi{\\\ua78c}o."
         ],
-        "trs": "The beautiful thing of this work was the making of the glass.\u2019 \\textstyleExampleref{[R360.038]}"
+        "trs": "The beautiful thing of this work was the making of the glass.\u2019 \\textstyleExampleref{[R360.038]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -4505,6 +4605,7 @@
             "ntr",
             "red"
         ],
+        "clength": 51,
         "filename": "124/03nounsverbs.tex",
         "imt": "when long:\\textsc{red} \\textsc{art} spin:\\textsc{nmlz} \\textsc{ntr} roll \\textsc{art} land",
         "imtwordsbare": [
@@ -4569,7 +4670,8 @@
             "te",
             "henua."
         ],
-        "trs": "When he has turned around for a while (lit. \u2018when the spinning is long\u2019), he will get dizzy (lit. the land rolls).\u2019 \\textstyleExampleref{[Ley-8-52.013]}"
+        "trs": "When he has turned around for a while (lit. \u2018when the spinning is long\u2019), he will get dizzy (lit. the land rolls).\u2019 \\textstyleExampleref{[Ley-8-52.013]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -4578,6 +4680,7 @@
             "nmlz",
             "prom"
         ],
+        "clength": 67,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prom} \\textsc{art} go\\_down slowly \\textsc{nmlz} \\textsc{ident} \\textsc{art} water",
         "imtwordsbare": [
@@ -4642,7 +4745,8 @@
             "te",
             "vai."
         ],
-        "trs": "The water went slowly down.\u2019 \\textstyleExampleref{[Gen. 8:5]}"
+        "trs": "The water went slowly down.\u2019 \\textstyleExampleref{[Gen. 8:5]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -4654,6 +4758,7 @@
             "prf",
             "red"
         ],
+        "clength": 52,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} good:\\textsc{red} \\textsc{cont} \\textsc{poss.3sg.o} jump \\textsc{nmlz} hither",
         "imtwordsbare": [
@@ -4712,7 +4817,8 @@
             "i\u014ba",
             "\\textbf{mai}."
         ],
-        "trs": "His jump(ing) was good.\u2019 \\textstyleExampleref{[R408.022]}"
+        "trs": "His jump(ing) was good.\u2019 \\textstyleExampleref{[R408.022]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -4722,6 +4828,7 @@
             "ntr",
             "subs"
         ],
+        "clength": 58,
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{art} \\textsc{conneg} listen \\textsc{ntr} lost \\textsc{emph} away \\textsc{subs}",
         "imtwordsbare": [
@@ -4793,7 +4900,8 @@
             "atu",
             "{\\\ua78c}ai."
         ],
-        "trs": "Because (the sheep) did not listen, it got lost.\u2019 \\textstyleExampleref{[R490.005]}"
+        "trs": "Because (the sheep) did not listen, it got lost.\u2019 \\textstyleExampleref{[R490.005]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -4807,6 +4915,7 @@
             "poss",
             "pred"
         ],
+        "clength": 73,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} break \\textsc{art} foot like \\textsc{pred} break \\textsc{nmlz} \\textsc{dist} \\textsc{ident} of \\textsc{poss.1sg.o} foot",
         "imtwordsbare": [
@@ -4901,7 +5010,8 @@
             "t\u014d{\\\ua78c}oku",
             "va{\\\ua78c}e."
         ],
-        "trs": "He broke his leg, like I broke my leg (lit. like the breaking of my leg).\u2019 \\textstyleExampleref{[R492.021]}"
+        "trs": "He broke his leg, like I broke my leg (lit. like the breaking of my leg).\u2019 \\textstyleExampleref{[R492.021]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -4912,6 +5022,7 @@
             "ipfv",
             "pl"
         ],
+        "clength": 95,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "there \\textsc{art} \\textsc{pl}:big of \\textsc{art} sweat \\textsc{ipfv} blood \\textsc{emph} \\textsc{cont} \\textsc{ipfv} roll \\textsc{dist}",
@@ -5007,7 +5118,8 @@
             "viri",
             "era."
         ],
-        "trs": "Big drops of sweat became blood and fell down.\u2019 \\textstyleExampleref{[Luke 22:44]}"
+        "trs": "Big drops of sweat became blood and fell down.\u2019 \\textstyleExampleref{[Luke 22:44]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -5017,6 +5129,7 @@
             "pfv",
             "prox"
         ],
+        "clength": 72,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{neg.pfv} priest yet \\textsc{pfv} go \\textsc{emph} hither \\textsc{dist} to \\textsc{prox}",
         "imtwordsbare": [
@@ -5094,7 +5207,8 @@
             "ki",
             "nei."
         ],
-        "trs": "When he had not yet become a priest, he came here.\u2019 \\textstyleExampleref{[R423.004]}"
+        "trs": "When he had not yet become a priest, he came here.\u2019 \\textstyleExampleref{[R423.004]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -5105,6 +5219,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 93,
         "filename": "124/03nounsverbs.tex",
         "imt": "~~~\\textsc{pfv} go\\_out hither \\textsc{pvp} \\textsc{num} one old\\_woman \\textsc{ipfv} cane \\textsc{emph} \\textsc{cont}",
         "imtwordsbare": [
@@ -5187,7 +5302,8 @@
             "\\textbf{r\u014d}",
             "\\textbf{{\\\ua78c}ana}."
         ],
-        "trs": "...an old woman appeared leaning on a cane.\u2019 \\textstyleExampleref{[R437.079]}"
+        "trs": "...an old woman appeared leaning on a cane.\u2019 \\textstyleExampleref{[R437.079]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -5196,6 +5312,7 @@
             "prf",
             "pvp"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} week \\textsc{cont} \\textsc{pfv} arrive just\\_then away \\textsc{pvp}",
         "imtwordsbare": [
@@ -5260,7 +5377,8 @@
             "atu",
             "ai."
         ],
-        "trs": "When a week had passed, he arrived.\u2019 \\textstyleExampleref{[R416.515]}\\textstyleExampleref{}"
+        "trs": "When a week had passed, he arrived.\u2019 \\textstyleExampleref{[R416.515]}\\textstyleExampleref{}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -5268,6 +5386,7 @@
             "art",
             "ntr"
         ],
+        "clength": 82,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} ascend the\\_two to \\textsc{art} \\textsc{3pl} horse grab hither",
         "imtwordsbare": [
@@ -5338,7 +5457,8 @@
             "{\\\ua78c}a{\\\ua78c}aru",
             "mai."
         ],
-        "trs": "Both of them went to grab their horse.\u2019 \\textstyleExampleref{[R170.002]}"
+        "trs": "Both of them went to grab their horse.\u2019 \\textstyleExampleref{[R170.002]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -5347,6 +5467,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 73,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} see \\textsc{acc} \\textsc{prop} Hoto Vari \\textsc{cntg} approach hither",
         "imtwordsbare": [
@@ -5417,7 +5538,8 @@
             "p\u016b",
             "mai."
         ],
-        "trs": "He saw Hoto Vari approaching.\u2019 \\textstyleExampleref{[R304.004]}"
+        "trs": "He saw Hoto Vari approaching.\u2019 \\textstyleExampleref{[R304.004]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -5428,6 +5550,7 @@
             "poss",
             "pred"
         ],
+        "clength": 112,
         "coordination": "or",
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{poss.3sg.o} day \\textsc{ntr} exist hither \\textsc{art} work \\textsc{pred} enclosure build  or \\textsc{pred} leaf pick",
@@ -5535,7 +5658,8 @@
             "\\textbf{rau}",
             "\\textbf{kato}."
         ],
-        "trs": "On certain days there were jobs like making fences or picking leaves.\u2019 \\textstyleExampleref{[R380.084]}"
+        "trs": "On certain days there were jobs like making fences or picking leaves.\u2019 \\textstyleExampleref{[R380.084]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -5548,6 +5672,7 @@
             "prop",
             "prox"
         ],
+        "clength": 59,
         "filename": "124/03nounsverbs.tex",
         "imt": "if want \\textsc{poss.2sg.o} for know by \\textsc{cq} \\textsc{prop} \\textsc{1sg} \\textsc{ipfv} disappear \\textsc{prox}",
         "imtwordsbare": [
@@ -5637,7 +5762,8 @@
             "\u014baro",
             "nei..."
         ],
-        "trs": "If you want to know where I disappear (then come with me).\u2019 \\textstyleExampleref{[R212.010]}"
+        "trs": "If you want to know where I disappear (then come with me).\u2019 \\textstyleExampleref{[R212.010]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -5646,6 +5772,7 @@
             "ntr",
             "~pfv"
         ],
+        "clength": 67,
         "filename": "124/03nounsverbs.tex",
         "imt": "~\\textsc{ntr} what \\textsc{art} \\textsc{2pl} thing \\textsc{~pfv} do at Apina",
         "imtwordsbare": [
@@ -5716,7 +5843,8 @@
             "{\\\ua78c}i",
             "{\\\ua78c}Apina]?"
         ],
-        "trs": "What did you do (lit. what [is] your thing did) in Apina?\u2019 \\textstyleExampleref{[R301.197]}"
+        "trs": "What did you do (lit. what [is] your thing did) in Apina?\u2019 \\textstyleExampleref{[R301.197]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -5724,6 +5852,7 @@
             "dist",
             "ntr"
         ],
+        "clength": 62,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} say of \\textsc{dem} old\\_woman \\textsc{dist}",
         "imtwordsbare": [
@@ -5776,7 +5905,8 @@
             "\\textbf{r\u016b{\\\ua78c}au}",
             "\\textbf{era}..."
         ],
-        "trs": "The old woman said...\u2019 \\textstyleExampleref{[R313.171]}"
+        "trs": "The old woman said...\u2019 \\textstyleExampleref{[R313.171]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -5784,6 +5914,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 43,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go \\textsc{prop} Hotu to \\textsc{art} house",
         "imtwordsbare": [
@@ -5842,7 +5973,8 @@
             "te",
             "hare."
         ],
-        "trs": "Hotu went home.\u2019 \\textstyleExampleref{[R273.003]}"
+        "trs": "Hotu went home.\u2019 \\textstyleExampleref{[R273.003]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5850,6 +5982,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 37,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} look \\textsc{acc} \\textsc{prop} Vaha",
         "imtwordsbare": [
@@ -5896,13 +6029,15 @@
             "\\textbf{a}",
             "\\textbf{Vaha}."
         ],
-        "trs": "He saw Vaha.\u2019 \\textstyleExampleref{[Mtx-3-01.144]}"
+        "trs": "He saw Vaha.\u2019 \\textstyleExampleref{[Mtx-3-01.144]}",
+        "wlength": 5
     },
     {
         "categories": [
             "3pl",
             "ntr"
         ],
+        "clength": 52,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} return \\textsc{3pl} to Rapa Nui",
         "imtwordsbare": [
@@ -5955,12 +6090,14 @@
             "\\textbf{Rapa}",
             "\\textbf{Nui}."
         ],
-        "trs": "They returned to Rapa Nui.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "They returned to Rapa Nui.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 6
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 82,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} place stay at back at Poike at inside at \\textsc{art} cave",
         "imtwordsbare": [
@@ -6049,7 +6186,8 @@
             "te",
             "{\\\ua78c}ana."
         ],
-        "trs": "They lived back in Poike in a cave.\u2019 \\textstyleExampleref{[Ley-5-26b.003]}"
+        "trs": "They lived back in Poike in a cave.\u2019 \\textstyleExampleref{[Ley-5-26b.003]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -6057,6 +6195,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 105,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "the\\_two just side \\textsc{ipfv} arrive hither \\textsc{dist} from Tahiti and from at \\textsc{prop} Chile",
@@ -6158,7 +6297,8 @@
             "\\textbf{a}",
             "\\textbf{Tire}."
         ],
-        "trs": "Both sides arrived, from Tahiti and from Chile.\u2019 \\textstyleExampleref{[R539-2.221]}"
+        "trs": "Both sides arrived, from Tahiti and from Chile.\u2019 \\textstyleExampleref{[R539-2.221]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -6167,6 +6307,7 @@
             "prop",
             "red"
         ],
+        "clength": 71,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prop} Rapa Nui \\textsc{pred} land small:\\textsc{red} \\textsc{num} one",
         "imtwordsbare": [
@@ -6231,7 +6372,8 @@
             "e",
             "tahi..."
         ],
-        "trs": "Rapa Nui is a small island...\u2019 \\textstyleExampleref{[R351.001]}"
+        "trs": "Rapa Nui is a small island...\u2019 \\textstyleExampleref{[R351.001]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6241,6 +6383,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} make \\textsc{prop} Rapa Nui \\textsc{acc} \\textsc{art}:of \\textsc{3pl} song ancient",
         "imtwordsbare": [
@@ -6317,7 +6460,8 @@
             "riu",
             "tuai."
         ],
-        "trs": "(The people of) Rapa Nui made their old songs.\u2019 \\textstyleExampleref{[R620.013]}"
+        "trs": "(The people of) Rapa Nui made their old songs.\u2019 \\textstyleExampleref{[R620.013]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -6325,6 +6469,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 38,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_down \\textsc{prop} \\textsc{3sg} to sea",
         "imtwordsbare": [
@@ -6377,7 +6522,8 @@
             "ki",
             "tai."
         ],
-        "trs": "He went down to the sea.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "He went down to the sea.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -6388,6 +6534,7 @@
             "med",
             "prop"
         ],
+        "clength": 51,
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{dist} house \\textsc{prop} \\textsc{1pl.excl} \\textsc{ipfv} stay \\textsc{med}",
         "imtwordsbare": [
@@ -6452,13 +6599,15 @@
             "noho",
             "ena."
         ],
-        "trs": "In that house we lived.\u2019 \\textstyleExampleref{[R416.961]}"
+        "trs": "In that house we lived.\u2019 \\textstyleExampleref{[R416.961]}",
+        "wlength": 8
     },
     {
         "categories": [
             "ntr",
             "prop"
         ],
+        "clength": 60,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} say \\textsc{prop} Dad to \\textsc{prop} Mum",
         "imtwordsbare": [
@@ -6517,7 +6666,8 @@
             "\\textbf{a}",
             "\\textbf{nua}..."
         ],
-        "trs": "Dad said to Mum...\u2019 \\textstyleExampleref{[R333.303]}"
+        "trs": "Dad said to Mum...\u2019 \\textstyleExampleref{[R333.303]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -6528,6 +6678,7 @@
             "poss",
             "prop"
         ],
+        "clength": 62,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} say then \\textsc{prop} Tiare to \\textsc{poss.3sg.o} parent female \\textsc{dist}",
         "imtwordsbare": [
@@ -6604,7 +6755,8 @@
             "vahine",
             "era..."
         ],
-        "trs": "Then Tiare said to her mother...\u2019 \\textstyleExampleref{[R481.137]}"
+        "trs": "Then Tiare said to her mother...\u2019 \\textstyleExampleref{[R481.137]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -6613,6 +6765,7 @@
             "imp",
             "prop"
         ],
+        "clength": 54,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{imp} go\\_down \\textsc{2pl} \\textsc{imp} look \\textsc{acc} \\textsc{prop} companion",
         "imtwordsbare": [
@@ -6677,7 +6830,8 @@
             "\\textbf{a}",
             "\\textbf{m\u0101haki}."
         ],
-        "trs": "Go down to have a look at (our) friend.\u2019 \\textstyleExampleref{[Ley-2-05.011]}"
+        "trs": "Go down to have a look at (our) friend.\u2019 \\textstyleExampleref{[Ley-2-05.011]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6692,6 +6846,7 @@
             "prop",
             "red"
         ],
+        "clength": 102,
         "filename": "124/03nounsverbs.tex",
         "imt": "because\\_of \\textsc{ana} \\textsc{prop} \\textsc{coll} \\textsc{pl} old\\_man \\textsc{ipfv} carry strong:\\textsc{red} \\textsc{dist}  \\textsc{acc} \\textsc{art} tie \\textsc{nmlz} of \\textsc{art} harpoon",
         "imtwordsbare": [
@@ -6810,13 +6965,15 @@
             "te",
             "p\u0101tia."
         ],
-        "trs": "Therefore the old people tied the cable of their harpoons well.\u2019 \\textstyleExampleref{[R360.020]}"
+        "trs": "Therefore the old people tied the cable of their harpoons well.\u2019 \\textstyleExampleref{[R360.020]}",
+        "wlength": 17
     },
     {
         "categories": [
             "exh",
             "prop"
         ],
+        "clength": 48,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{exh} wait until to \\textsc{prop} September",
         "imtwordsbare": [
@@ -6869,7 +7026,8 @@
             "\\textbf{a}",
             "\\textbf{Hora~Nui}."
         ],
-        "trs": "You must wait until September.\u2019 \\textstyleExampleref{[R647.238]}"
+        "trs": "You must wait until September.\u2019 \\textstyleExampleref{[R647.238]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -6879,6 +7037,7 @@
             "prox",
             "pvp"
         ],
+        "clength": 87,
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{prop} November of \\textsc{prox} year \\textsc{ident} \\textsc{pfv} return again \\textsc{pvp} to \\textsc{prox} land",
         "imtwordsbare": [
@@ -6979,7 +7138,8 @@
             "nei",
             "henua."
         ],
-        "trs": "In November of this same year he returned again to this island.\u2019 \\textstyleExampleref{[R343.016]}"
+        "trs": "In November of this same year he returned again to this island.\u2019 \\textstyleExampleref{[R343.016]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -6990,6 +7150,7 @@
             "prop",
             "prox"
         ],
+        "clength": 67,
         "filename": "124/03nounsverbs.tex",
         "imt": "when finish \\textsc{art} Tapati \\textsc{prox} \\textsc{ntr} join \\textsc{1pl.incl} at \\textsc{prop} March",
         "imtwordsbare": [
@@ -7072,7 +7233,8 @@
             "\\textbf{a}",
             "\\textbf{marzo}."
         ],
-        "trs": "When the Tapati (= festival week) is finished we are close to March.\u2019 \\textstyleExampleref{[R625.131]}"
+        "trs": "When the Tapati (= festival week) is finished we are close to March.\u2019 \\textstyleExampleref{[R625.131]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -7082,6 +7244,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 56,
         "filename": "124/03nounsverbs.tex",
         "imt": "~~like \\textsc{cq} \\textsc{prop} \\textsc{2pl} \\textsc{pfv} stay \\textsc{pvp} at \\textsc{prop} summer",
         "imtwordsbare": [
@@ -7158,7 +7321,8 @@
             "\\textbf{a}",
             "\\textbf{hora}?"
         ],
-        "trs": "How were you during summer?\u2019 \\textstyleExampleref{[R334.051]}"
+        "trs": "How were you during summer?\u2019 \\textstyleExampleref{[R334.051]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -7167,6 +7331,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 60,
         "filename": "124/03nounsverbs.tex",
         "imt": "{\\db}\\textsc{pfv} dawn \\textsc{dist} \\textsc{ntr} go\\_down \\textsc{ntr} go \\textsc{prop} Kava",
         "imtwordsbare": [
@@ -7237,13 +7402,15 @@
             "a",
             "Kava..."
         ],
-        "trs": "When it dawned, Kava went down...\u2019 \\textstyleExampleref{[R229.198]}"
+        "trs": "When it dawned, Kava went down...\u2019 \\textstyleExampleref{[R229.198]}",
+        "wlength": 9
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 46,
         "filename": "124/03nounsverbs.tex",
         "imt": "{\\db}\\textsc{ntr} afternoon \\textsc{ntr} open \\textsc{art} earth\\_oven",
         "imtwordsbare": [
@@ -7296,7 +7463,8 @@
             "te",
             "{\\\ua78c}umu."
         ],
-        "trs": "(When) it was late afternoon, they opened the earth oven.\u2019 \\textstyleExampleref{[Mtx-7-15.030]}"
+        "trs": "(When) it was late afternoon, they opened the earth oven.\u2019 \\textstyleExampleref{[Mtx-7-15.030]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -7307,6 +7475,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 39,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{neg.pfv} want \\textsc{prop} Puakiva for eat \\textsc{acc} \\textsc{dem} food \\textsc{dist}",
         "imtwordsbare": [
@@ -7385,7 +7554,8 @@
             "kai",
             "era."
         ],
-        "trs": "Puakiva did not want to eat that food.\u2019 \\textstyleExampleref{[R229.145]}"
+        "trs": "Puakiva did not want to eat that food.\u2019 \\textstyleExampleref{[R229.145]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -7394,6 +7564,7 @@
             "o",
             "poss"
         ],
+        "clength": 27,
         "filename": "124/03nounsverbs.tex",
         "imt": "if eat \\textsc{poss.2sg.o} \\textsc{ntr} die \\textsc{2sg}",
         "imtwordsbare": [
@@ -7446,7 +7617,8 @@
             "mate",
             "koe."
         ],
-        "trs": "If you eat (the poison), you will die.\u2019 \\textstyleExampleref{[R310.063]}"
+        "trs": "If you eat (the poison), you will die.\u2019 \\textstyleExampleref{[R310.063]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -7454,6 +7626,7 @@
             "cont",
             "prf"
         ],
+        "clength": 18,
         "filename": "124/03nounsverbs.tex",
         "imt": "~\\textsc{prf} eat \\textsc{cont} \\textsc{2sg}",
         "imtwordsbare": [
@@ -7494,7 +7667,8 @@
             "{\\\ua78c}\u0101",
             "koe?"
         ],
-        "trs": "Have you eaten?\u2019 \\textstyleExampleref{[R245.058]}"
+        "trs": "Have you eaten?\u2019 \\textstyleExampleref{[R245.058]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -7503,6 +7677,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 37,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} give \\textsc{prop} Mum \\textsc{acc} \\textsc{art} food to \\textsc{prop} Dad",
         "imtwordsbare": [
@@ -7579,7 +7754,8 @@
             "a",
             "koro."
         ],
-        "trs": "Mum gave the food to Dad.\u2019 \\textstyleExampleref{[R236.078]}"
+        "trs": "Mum gave the food to Dad.\u2019 \\textstyleExampleref{[R236.078]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -7587,6 +7763,7 @@
             "art",
             "ntr"
         ],
+        "clength": 30,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} teach \\textsc{acc} \\textsc{art} person \\textsc{acc} \\textsc{art} pray",
         "imtwordsbare": [
@@ -7651,7 +7828,8 @@
             "te",
             "pure."
         ],
-        "trs": "He taught people to pray.\u2019 \\textstyleExampleref{[R231.304]}"
+        "trs": "He taught people to pray.\u2019 \\textstyleExampleref{[R231.304]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -7663,6 +7841,7 @@
             "prop",
             "red"
         ],
+        "clength": 71,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} \\textsc{caus} see \\textsc{ag} Te Pitu to \\textsc{prop} Uka Oho Heru \\textsc{acc} \\textsc{art} soil red:\\textsc{red}",
         "imtwordsbare": [
@@ -7769,7 +7948,8 @@
             "{\\\ua78c}\u014d{\\\ua78c}one",
             "meamea."
         ],
-        "trs": "Te Pitu showed (=made see) Uka Oho Heru the red soil.\u2019 \\textstyleExampleref{[Fel-1978.070]}"
+        "trs": "Te Pitu showed (=made see) Uka Oho Heru the red soil.\u2019 \\textstyleExampleref{[Fel-1978.070]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -7777,6 +7957,7 @@
             "imp",
             "prop"
         ],
+        "clength": 62,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{imp} happy while new and while beautiful \\textsc{prop} \\textsc{2sg}",
@@ -7848,7 +8029,8 @@
             "a",
             "koe."
         ],
-        "trs": "Be happy as long as you are young and beautiful.\u2019 \\textstyleExampleref{[R453.018]}"
+        "trs": "Be happy as long as you are young and beautiful.\u2019 \\textstyleExampleref{[R453.018]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -7857,6 +8039,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 46,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} die \\textsc{2sg} at \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -7909,7 +8092,8 @@
             "\\textbf{a}",
             "\\textbf{au}."
         ],
-        "trs": "You will die by me = I will kill you.\u2019 \\textstyleExampleref{[Mtx-3-01.147]}"
+        "trs": "You will die by me = I will kill you.\u2019 \\textstyleExampleref{[Mtx-3-01.147]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -7918,6 +8102,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 104,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{neg} also of Oceania \\textsc{art} all land \\textsc{dist} \\textsc{ipfv} near \\textsc{dist} to Asia",
         "imtwordsbare": [
@@ -8012,7 +8197,8 @@
             "ki",
             "Asia."
         ],
-        "trs": "Not all the islands that are close to Asia belong to Oceania either.\u2019 \\textstyleExampleref{[R342.008]}"
+        "trs": "Not all the islands that are close to Asia belong to Oceania either.\u2019 \\textstyleExampleref{[R342.008]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -8025,6 +8211,7 @@
             "prox",
             "red"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} small:\\textsc{pl}:\\textsc{red} away \\textsc{cont} \\textsc{art} fish \\textsc{prox} like \\textsc{pred} kind\\_of\\_eel \\textsc{ident}",
         "imtwordsbare": [
@@ -8107,7 +8294,8 @@
             "tapatea",
             "{\\\ua78c}ana."
         ],
-        "trs": "These fish are quite small, just like \\textit{tapatea}.\u2019 \\textstyleExampleref{[R364.015]}"
+        "trs": "These fish are quite small, just like \\textit{tapatea}.\u2019 \\textstyleExampleref{[R364.015]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8117,6 +8305,7 @@
             "prox",
             "red"
         ],
+        "clength": 74,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} child \\textsc{prox} \\textsc{ipfv} small:\\textsc{red} just \\textsc{cont}",
         "imtwordsbare": [
@@ -8175,7 +8364,8 @@
             "\\textbf{n\u014d}",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "This child is still small.\u2019 \\textstyleExampleref{[R532-14.007]}"
+        "trs": "This child is still small.\u2019 \\textstyleExampleref{[R532-14.007]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -8186,6 +8376,7 @@
             "prop",
             "prox"
         ],
+        "clength": 63,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} happy \\textsc{cont} \\textsc{prop} \\textsc{1sg} at \\textsc{art} time \\textsc{prox}",
         "imtwordsbare": [
@@ -8256,7 +8447,8 @@
             "hora",
             "nei."
         ],
-        "trs": "I am happy now.\u2019 \\textstyleExampleref{[R214.053]}"
+        "trs": "I am happy now.\u2019 \\textstyleExampleref{[R214.053]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -8268,6 +8460,7 @@
             "prox",
             "red"
         ],
+        "clength": 93,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} good:\\textsc{red} \\textsc{cont} at \\textsc{art} time \\textsc{prox} \\textsc{neg} \\textsc{ntr} sick again",
         "imtwordsbare": [
@@ -8351,7 +8544,8 @@
             "m\u0101uiui",
             "haka{\\\ua78c}ou."
         ],
-        "trs": "He is well now, he is not sick any more.\u2019 \\textstyleExampleref{[R103.234]}"
+        "trs": "He is well now, he is not sick any more.\u2019 \\textstyleExampleref{[R103.234]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8363,6 +8557,7 @@
             "poss",
             "red"
         ],
+        "clength": 59,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} good:\\textsc{red} \\textsc{poss.3sg.a} work \\textsc{dist} \\textsc{cntg} do \\textsc{dist}",
         "imtwordsbare": [
@@ -8427,7 +8622,8 @@
             "a\u014ba",
             "era."
         ],
-        "trs": "The work he was doing, was good.\u2019 \\textstyleExampleref{[R313.116]}"
+        "trs": "The work he was doing, was good.\u2019 \\textstyleExampleref{[R313.116]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -8436,6 +8632,7 @@
             "ntr",
             "pfv"
         ],
+        "clength": 62,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pfv} go \\textsc{dist} \\textsc{ntr} sick again \\textsc{dem} eye \\textsc{dist}",
         "imtwordsbare": [
@@ -8506,7 +8703,8 @@
             "mata",
             "era."
         ],
-        "trs": "Later, his eyes got sick again.\u2019 \\textstyleExampleref{[R237.084]}"
+        "trs": "Later, his eyes got sick again.\u2019 \\textstyleExampleref{[R237.084]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -8517,6 +8715,7 @@
             "pfv",
             "subs"
         ],
+        "clength": 77,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pfv} delay \\textsc{dist} \\textsc{ntr} heavy \\textsc{emph} away \\textsc{subs} at \\textsc{art} sleep",
         "imtwordsbare": [
@@ -8599,7 +8798,8 @@
             "te",
             "ha{\\\ua78c}uru."
         ],
-        "trs": "Later they got heavy with sleep.\u2019 \\textstyleExampleref{[R536.027]}"
+        "trs": "Later they got heavy with sleep.\u2019 \\textstyleExampleref{[R536.027]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8608,6 +8808,7 @@
             "ntr",
             "red"
         ],
+        "clength": 80,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "when big:\\textsc{red} \\textsc{ntr} carry \\textsc{ntr} \\textsc{caus} marry to \\textsc{art} man value",
@@ -8691,7 +8892,8 @@
             "ta\u014bata",
             "hauha{\\\ua78c}a."
         ],
-        "trs": "When (the child) was big, they would take it and marry it off to a rich man.\u2019 \\textstyleExampleref{[R399.004]}"
+        "trs": "When (the child) was big, they would take it and marry it off to a rich man.\u2019 \\textstyleExampleref{[R399.004]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8699,6 +8901,7 @@
             "ntr",
             "pfv"
         ],
+        "clength": 74,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} stay Makemake solitary just \\textsc{neg} \\textsc{neg.pfv} good",
         "imtwordsbare": [
@@ -8764,7 +8967,8 @@
             "\\textbf{kai}",
             "\\textbf{riva}."
         ],
-        "trs": "Makemake lived on his own, it was not good.\u2019 \\textstyleExampleref{[Ley-1-01.001]}"
+        "trs": "Makemake lived on his own, it was not good.\u2019 \\textstyleExampleref{[Ley-1-01.001]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -8774,6 +8978,7 @@
             "pred",
             "red"
         ],
+        "clength": 76,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pred} thing for \\textsc{art} good:\\textsc{red} of Rapa Nui toward front \\textsc{cntg} go \\textsc{med}",
         "imtwordsbare": [
@@ -8868,7 +9073,8 @@
             "oho",
             "ena"
         ],
-        "trs": "something for the good of Rapa Nui in the future\u2019 \\textstyleExampleref{[R470.011]}"
+        "trs": "something for the good of Rapa Nui in the future\u2019 \\textstyleExampleref{[R470.011]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -8878,6 +9084,7 @@
             "pred",
             "red"
         ],
+        "clength": 63,
         "filename": "124/03nounsverbs.tex",
         "imt": "eye \\textsc{pl}:big like \\textsc{pred} obsidian \\textsc{ident} \\textsc{art} black:\\textsc{red}",
         "imtwordsbare": [
@@ -8942,7 +9149,8 @@
             "\\textbf{te}",
             "\\textbf{{\\\ua78c}uri{\\\ua78c}uri}"
         ],
-        "trs": "big eyes, black as obsidian (lit. like obsidian itself the black)\u2019 \\textstyleExampleref{[R310.021]}"
+        "trs": "big eyes, black as obsidian (lit. like obsidian itself the black)\u2019 \\textstyleExampleref{[R310.021]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -8951,6 +9159,7 @@
             "pl",
             "red"
         ],
+        "clength": 81,
         "filename": "124/03nounsverbs.tex",
         "imt": "from \\textsc{art} small:\\textsc{pl}:\\textsc{red} \\textsc{nmlz} until to \\textsc{art} \\textsc{pl}:big \\textsc{nmlz}",
         "imtwordsbare": [
@@ -9021,7 +9230,8 @@
             "\\textbf{nunui}",
             "\\textbf{ha\u014ba}"
         ],
-        "trs": "from the time they were small until the time they grew up\u2019 \\textstyleExampleref{[R236.097]}"
+        "trs": "from the time they were small until the time they grew up\u2019 \\textstyleExampleref{[R236.097]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -9030,6 +9240,7 @@
             "pred",
             "red"
         ],
+        "clength": 46,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pred} bad:\\textsc{red} \\textsc{nmlz} of \\textsc{art} sea",
         "imtwordsbare": [
@@ -9082,7 +9293,8 @@
             "te",
             "vaikava"
         ],
-        "trs": "The sea gets rough (lit. the bad of the sea) (title of a story)\u2019 \\textstyleExampleref{[Acts 27:12]}"
+        "trs": "The sea gets rough (lit. the bad of the sea) (title of a story)\u2019 \\textstyleExampleref{[Acts 27:12]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -9093,6 +9305,7 @@
             "prom",
             "red"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prom} \\textsc{art} strong:\\textsc{red} \\textsc{nmlz} \\textsc{ident} \\textsc{art} rope anchor \\textsc{dist}",
         "imtwordsbare": [
@@ -9163,13 +9376,15 @@
             "{\\\ua78c}aka",
             "era."
         ],
-        "trs": "The anchor rope kept being taut.\u2019 \\textstyleExampleref{[R361.061]}"
+        "trs": "The anchor rope kept being taut.\u2019 \\textstyleExampleref{[R361.061]}",
+        "wlength": 9
     },
     {
         "categories": [
             "art",
             "prox"
         ],
+        "clength": 42,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} child \\textsc{prox} child expert to other child",
         "imtwordsbare": [
@@ -9234,13 +9449,15 @@
             "t\u0113tahi",
             "poki."
         ],
-        "trs": "This child is more intelligent than the other.\u2019 \\textstyleExampleref{[\\citealt[30]{Englert1978}]}"
+        "trs": "This child is more intelligent than the other.\u2019 \\textstyleExampleref{[\\citealt[30]{Englert1978}]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 56,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} place last of \\textsc{art} beautiful \\textsc{prom} Anakena",
         "imtwordsbare": [
@@ -9305,7 +9522,8 @@
             "ko",
             "{\\\ua78c}Anakena."
         ],
-        "trs": "The most beautiful place (lit. the place last of the beauty) is Anakena.\u2019 \\textstyleExampleref{[R350.013]}"
+        "trs": "The most beautiful place (lit. the place last of the beauty) is Anakena.\u2019 \\textstyleExampleref{[R350.013]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -9313,6 +9531,7 @@
             "pred",
             "red"
         ],
+        "clength": 63,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pred} authority last of \\textsc{art} big:\\textsc{red} of the Fifth Region",
         "imtwordsbare": [
@@ -9389,13 +9608,15 @@
             "Quinta",
             "Regi\u00f3n."
         ],
-        "trs": "He is the highest authority of the Fifth Region.\u2019 \\textstyleExampleref{[R203.018]}"
+        "trs": "He is the highest authority of the Fifth Region.\u2019 \\textstyleExampleref{[R203.018]}",
+        "wlength": 10
     },
     {
         "categories": [
             "art",
             "pred"
         ],
+        "clength": 71,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} sea last for \\textsc{art} gather\\_shellfish \\textsc{pred} sea thin",
         "imtwordsbare": [
@@ -9466,13 +9687,15 @@
             "tai",
             "p\u0101paku."
         ],
-        "trs": "The best tide for gathering shellfish is low tide.\u2019 \\textstyleExampleref{[R353.018]}"
+        "trs": "The best tide for gathering shellfish is low tide.\u2019 \\textstyleExampleref{[R353.018]}",
+        "wlength": 9
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 67,
         "filename": "124/03nounsverbs.tex",
         "imt": "~\\textsc{prom} \\textsc{art} animal last of \\textsc{art} pretty",
         "imtwordsbare": [
@@ -9531,7 +9754,8 @@
             "\\textbf{te}",
             "\\textbf{tau}!"
         ],
-        "trs": "What a very pretty animal!\u2019 \\textstyleExampleref{[R345.072]}"
+        "trs": "What a very pretty animal!\u2019 \\textstyleExampleref{[R345.072]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -9539,6 +9763,7 @@
             "num",
             "red"
         ],
+        "clength": 87,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{num} one hospital big:\\textsc{red} last of \\textsc{art} good:\\textsc{red}",
         "imtwordsbare": [
@@ -9603,12 +9828,14 @@
             "\\textbf{te}",
             "\\textbf{rivariva}."
         ],
-        "trs": "There was a big hospital, very good.\u2019 \\textstyleExampleref{[R239.055]}"
+        "trs": "There was a big hospital, very good.\u2019 \\textstyleExampleref{[R239.055]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 62,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} mountain Terevaka \\textsc{art} mountain big of \\textsc{art} homeland",
         "imtwordsbare": [
@@ -9679,7 +9906,8 @@
             "te",
             "k\u0101i\u014ba."
         ],
-        "trs": "Mount Terevaka is the biggest hill of the island.\u2019 \\textstyleExampleref{[\\citealt[30]{Englert1978}]}"
+        "trs": "Mount Terevaka is the biggest hill of the island.\u2019 \\textstyleExampleref{[\\citealt[30]{Englert1978}]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -9692,6 +9920,7 @@
             "prop",
             "red"
         ],
+        "clength": 108,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} leave \\textsc{acc} \\textsc{prop} Tiare at near at \\textsc{art} other \\textsc{pl} child small:\\textsc{pl}:\\textsc{red} like \\textsc{3sg} \\textsc{ident}",
         "imtwordsbare": [
@@ -9804,7 +10033,8 @@
             "\\textbf{ia}",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "He left Tiare with the other children that were as small as her.\u2019 \\textstyleExampleref{[R481.034]}"
+        "trs": "He left Tiare with the other children that were as small as her.\u2019 \\textstyleExampleref{[R481.034]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -9816,6 +10046,7 @@
             "pl",
             "pred"
         ],
+        "clength": 152,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} mountain \\textsc{ipfv} see hither \\textsc{dist} from \\textsc{dem} far \\textsc{dist} of Ao Tea Roa  like \\textsc{pred} pebble \\textsc{ident} \\textsc{art} small:\\textsc{pl}",
         "imtwordsbare": [
@@ -9952,7 +10183,8 @@
             "\\textbf{te}",
             "\\textbf{rikiriki}."
         ],
-        "trs": "The mountains of Ao Tea Roa in the distance were small like pebbles.\u2019 \\textstyleExampleref{[R347.078]}"
+        "trs": "The mountains of Ao Tea Roa in the distance were small like pebbles.\u2019 \\textstyleExampleref{[R347.078]}",
+        "wlength": 20
     },
     {
         "categories": [
@@ -9965,6 +10197,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 98,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{imm} \\textsc{prop} \\textsc{1sg} \\textsc{ipfv} search \\textsc{cont} \\textsc{acc} \\textsc{art} flower seem like \\textsc{2sg} \\textsc{art} beautiful",
         "imtwordsbare": [
@@ -10065,13 +10298,15 @@
             "\\textbf{te}",
             "\\textbf{nehenehe}."
         ],
-        "trs": "I\u2019m looking for a flower that looks as beautiful as you.\u2019 \\textstyleExampleref{[R433.003\u2013004]}\\textstyleExampleref{}"
+        "trs": "I\u2019m looking for a flower that looks as beautiful as you.\u2019 \\textstyleExampleref{[R433.003\u2013004]}\\textstyleExampleref{}",
+        "wlength": 14
     },
     {
         "categories": [
             "art",
             "prop"
         ],
+        "clength": 36,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prop} Mum at inside at \\textsc{art} house",
         "imtwordsbare": [
@@ -10130,13 +10365,15 @@
             "te",
             "hare."
         ],
-        "trs": "Mother is in the house.\u2019 \\textstyleExampleref{[R333.284]}"
+        "trs": "Mother is in the house.\u2019 \\textstyleExampleref{[R333.284]}",
+        "wlength": 7
     },
     {
         "categories": [
             "ntr",
             "prop"
         ],
+        "clength": 31,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_down \\textsc{prop} Dad to sea",
         "imtwordsbare": [
@@ -10189,7 +10426,8 @@
             "ki",
             "\\textbf{tai}."
         ],
-        "trs": "Dad went down to the seashore.\u2019 \\textstyleExampleref{[R333.388]}"
+        "trs": "Dad went down to the seashore.\u2019 \\textstyleExampleref{[R333.388]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -10198,6 +10436,7 @@
             "prox",
             "pvp"
         ],
+        "clength": 46,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ipfv} eight day \\textsc{pfv} stay \\textsc{pvp} at \\textsc{prox}",
         "imtwordsbare": [
@@ -10262,13 +10501,15 @@
             "{\\\ua78c}i",
             "\\textbf{nei}."
         ],
-        "trs": "He stayed here (=on Rapa Nui) for eight days.\u2019 \\textstyleExampleref{[R374.005]}"
+        "trs": "He stayed here (=on Rapa Nui) for eight days.\u2019 \\textstyleExampleref{[R374.005]}",
+        "wlength": 8
     },
     {
         "categories": [
             "2sg",
             "ntr"
         ],
+        "clength": 48,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} enter \\textsc{2sg} \\textsc{ntr} stay at inside",
@@ -10328,13 +10569,15 @@
             "\\textbf{{\\\ua78c}i}",
             "\\textbf{roto}."
         ],
-        "trs": "You go in and stay inside.\u2019 \\textstyleExampleref{[R310.295]}"
+        "trs": "You go in and stay inside.\u2019 \\textstyleExampleref{[R310.295]}",
+        "wlength": 7
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 44,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} scatter \\textsc{art} house to below",
         "imtwordsbare": [
@@ -10387,13 +10630,15 @@
             "\\textbf{ki}",
             "\\textbf{raro}."
         ],
-        "trs": "The house fell down.\u2019 \\textstyleExampleref{[Ley-2-12.006]}"
+        "trs": "The house fell down.\u2019 \\textstyleExampleref{[Ley-2-12.006]}",
+        "wlength": 6
     },
     {
         "categories": [
             "ntr",
             "prop"
         ],
+        "clength": 47,
         "filename": "124/03nounsverbs.tex",
         "imt": "from above \\textsc{ntr} call away \\textsc{prop} Eva",
         "imtwordsbare": [
@@ -10452,12 +10697,14 @@
             "a",
             "Eva..."
         ],
-        "trs": "From above, Eva cried...\u2019 \\textstyleExampleref{[R210.111]}"
+        "trs": "From above, Eva cried...\u2019 \\textstyleExampleref{[R210.111]}",
+        "wlength": 7
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 46,
         "filename": "124/03nounsverbs.tex",
         "imt": "thing many \\textsc{art} bird of above",
         "imtwordsbare": [
@@ -10510,12 +10757,14 @@
             "\\textbf{o}",
             "\\textbf{ru\u014ba}."
         ],
-        "trs": "There were many birds on (the island).\u2019 \\textstyleExampleref{[Egt-02.083]}"
+        "trs": "There were many birds on (the island).\u2019 \\textstyleExampleref{[Egt-02.083]}",
+        "wlength": 6
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 33,
         "filename": "124/03nounsverbs.tex",
         "imt": "textsc{ntr} enter \\textsc{art} cat to inside at \\textsc{art} house",
         "imtwordsbare": [
@@ -10586,7 +10835,8 @@
             "te",
             "hare."
         ],
-        "trs": "The cat entered into (lit. to inside) the house.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "The cat entered into (lit. to inside) the house.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -10594,6 +10844,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 89,
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{art} two day \\textsc{pfv} arrive hither \\textsc{pvp} to front of Hanga Kaokao",
         "imtwordsbare": [
@@ -10688,13 +10939,15 @@
             "Ha\u014ba",
             "Kaokao."
         ],
-        "trs": "On the second day, they arrived in front of Hanga Kaokao.\u2019 \\textstyleExampleref{[R539-1.570]}"
+        "trs": "On the second day, they arrived in front of Hanga Kaokao.\u2019 \\textstyleExampleref{[R539-1.570]}",
+        "wlength": 13
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 58,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_out from inside from \\textsc{art} feast\\_house",
         "imtwordsbare": [
@@ -10753,7 +11006,8 @@
             "te",
             "koro."
         ],
-        "trs": "They went out of the feast house.\u2019 \\textstyleExampleref{[Mtx-6-03.090]}"
+        "trs": "They went out of the feast house.\u2019 \\textstyleExampleref{[Mtx-6-03.090]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -10762,6 +11016,7 @@
             "excl",
             "ntr"
         ],
+        "clength": 57,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_up \\textsc{1du.excl} to above to \\textsc{art} horse",
         "imtwordsbare": [
@@ -10826,13 +11081,15 @@
             "te",
             "hoi."
         ],
-        "trs": "We mounted (on top of) the horses.\u2019 \\textstyleExampleref{[R126.045]}"
+        "trs": "We mounted (on top of) the horses.\u2019 \\textstyleExampleref{[R126.045]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 86,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} plant \\textsc{art} kind\\_of\\_plant at below at \\textsc{art} crater\\_lake at Rano Aroi",
         "imtwordsbare": [
@@ -10921,13 +11178,15 @@
             "Rano",
             "{\\\ua78c}Aroi."
         ],
-        "trs": "He planted \\textit{pua} down in the crater of Rano Aroi.\u2019 \\textstyleExampleref{[Mtx-6-05.006]}"
+        "trs": "He planted \\textit{pua} down in the crater of Rano Aroi.\u2019 \\textstyleExampleref{[Mtx-6-05.006]}",
+        "wlength": 12
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 68,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prom} Meta \\textsc{art} thing of back of Juan Hotu",
         "imtwordsbare": [
@@ -10998,7 +11257,8 @@
             "Juan",
             "Hotu."
         ],
-        "trs": "Meta is the one behind Juan Hotu.\u2019 \\textstyleExampleref{[R412.214]}"
+        "trs": "Meta is the one behind Juan Hotu.\u2019 \\textstyleExampleref{[R412.214]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -11007,6 +11267,7 @@
             "ntr",
             "pfv"
         ],
+        "clength": 100,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pfv} finish \\textsc{dist} \\textsc{ntr} go\\_down to below to \\textsc{art} cinema observe",
         "imtwordsbare": [
@@ -11089,7 +11350,8 @@
             "\\textbf{teata}",
             "m\u0101ta{\\\ua78c}ita{\\\ua78c}i."
         ],
-        "trs": "After that they went down to the theatre to watch.\u2019 \\textstyleExampleref{[R210.145]}"
+        "trs": "After that they went down to the theatre to watch.\u2019 \\textstyleExampleref{[R210.145]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11100,6 +11362,7 @@
             "prop",
             "prox"
         ],
+        "clength": 83,
         "filename": "124/03nounsverbs.tex",
         "imt": "child first \\textsc{poss.1sg.a} \\textsc{cntg} go\\_out \\textsc{prox} from near at \\textsc{prop} \\textsc{1sg}",
         "imtwordsbare": [
@@ -11182,7 +11445,8 @@
             "\\textbf{a}",
             "\\textbf{au}."
         ],
-        "trs": "You are my first child to leave my side (lit. to go out from near me).\u2019 \\textstyleExampleref{[R210.049]}"
+        "trs": "You are my first child to leave my side (lit. to go out from near me).\u2019 \\textstyleExampleref{[R210.049]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11192,6 +11456,7 @@
             "ipfv",
             "voc"
         ],
+        "clength": 61,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{voc} Dad ~\\textsc{ipfv} what \\textsc{cont} \\textsc{2sg} at inside\\_\\textsc{art} rain",
         "imtwordsbare": [
@@ -11262,7 +11527,8 @@
             "\\textbf{rote}",
             "{\\\ua78c}ua?"
         ],
-        "trs": "Dad, what are you doing in the rain?\u2019 \\textstyleExampleref{[R210.097]}"
+        "trs": "Dad, what are you doing in the rain?\u2019 \\textstyleExampleref{[R210.097]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -11272,6 +11538,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 53,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go \\textsc{art} men at after at \\textsc{dem} \\textsc{pl} young\\_man \\textsc{dist}",
         "imtwordsbare": [
@@ -11354,7 +11621,8 @@
             "io",
             "era."
         ],
-        "trs": "The men went after those youngsters.\u2019 \\textstyleExampleref{[Mtx-7-37.018]}"
+        "trs": "The men went after those youngsters.\u2019 \\textstyleExampleref{[Mtx-7-37.018]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11365,6 +11633,7 @@
             "irr",
             "med"
         ],
+        "clength": 69,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{imp} kill \\textsc{2pl} \\textsc{art} woman \\textsc{med} for after \\textsc{1sg} \\textsc{irr} kill",
         "imtwordsbare": [
@@ -11447,7 +11716,8 @@
             "ana",
             "ti\u014ba{\\\ua78c}i."
         ],
-        "trs": "Kill that woman, after that kill me.\u2019 \\textstyleExampleref{[Mtx-7-21.037]}"
+        "trs": "Kill that woman, after that kill me.\u2019 \\textstyleExampleref{[Mtx-7-21.037]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11455,6 +11725,7 @@
             "ntr",
             "red"
         ],
+        "clength": 58,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} arrive to near to \\textsc{art} ship \\textsc{ntr} go\\_up:\\textsc{red} to above",
@@ -11538,13 +11809,15 @@
             "ki",
             "ru\u014ba."
         ],
-        "trs": "They came alongside the ship and went on board.\u2019 \\textstyleExampleref{[R210.081]}"
+        "trs": "They came alongside the ship and went on board.\u2019 \\textstyleExampleref{[R210.081]}",
+        "wlength": 11
     },
     {
         "categories": [
             "art",
             "imp"
         ],
+        "clength": 77,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{imp} leave \\textsc{art} gas\\_bottle at back of \\textsc{art} van",
         "imtwordsbare": [
@@ -11615,12 +11888,14 @@
             "Te",
             "kamioneta."
         ],
-        "trs": "Put the gas bottle behind the van\u2019, or: \u2018...in the back of the van."
+        "trs": "Put the gas bottle behind the van\u2019, or: \u2018...in the back of the van.",
+        "wlength": 9
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 59,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} book at above at \\textsc{art} table",
         "imtwordsbare": [
@@ -11679,7 +11954,8 @@
             "te",
             "{\\\ua78c}amurama{\\\ua78c}a."
         ],
-        "trs": "The book is on the table.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "The book is on the table.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -11689,6 +11965,7 @@
             "ipfv",
             "red"
         ],
+        "clength": 75,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ipfv} stand\\_out:\\textsc{red} \\textsc{emph} \\textsc{cont} \\textsc{art} oil by above at \\textsc{art} table",
         "imtwordsbare": [
@@ -11771,7 +12048,8 @@
             "te",
             "{\\\ua78c}amurama{\\\ua78c}a."
         ],
-        "trs": "The lamp is hanging above the table.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "The lamp is hanging above the table.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11779,6 +12057,7 @@
             "ntr",
             "red"
         ],
+        "clength": 60,
         "filename": "124/03nounsverbs.tex",
         "imt": "at middle of \\textsc{art} ocean \\textsc{ntr} happen \\textsc{art} problem big:\\textsc{red}",
         "imtwordsbare": [
@@ -11855,7 +12134,8 @@
             "{\\\ua78c}ati",
             "nuinui."
         ],
-        "trs": "In the middle of the ocean a big accident happened.\u2019 \\textstyleExampleref{[Fel-40-026]}"
+        "trs": "In the middle of the ocean a big accident happened.\u2019 \\textstyleExampleref{[Fel-40-026]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -11863,6 +12143,7 @@
             "dist",
             "prox"
         ],
+        "clength": 76,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "at middle of \\textsc{art} house \\textsc{prox} and of \\textsc{art} house \\textsc{dist} \\textsc{art} shed",
@@ -11958,7 +12239,8 @@
             "te",
             "karapone."
         ],
-        "trs": "The shed is between this house and that house.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "The shed is between this house and that house.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -11968,6 +12250,7 @@
             "prom",
             "pvp"
         ],
+        "clength": 70,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prom} Dad by below \\textsc{ident} \\textsc{pfv} ascend \\textsc{pvp} \\textsc{prom} Mum by above \\textsc{art} horse",
         "imtwordsbare": [
@@ -12068,7 +12351,8 @@
             "te",
             "hoi."
         ],
-        "trs": "Dad goes up (to the field) on foot. Mum goes on horse.\u2019 \\textstyleExampleref{[R184.052\u2013053]}"
+        "trs": "Dad goes up (to the field) on foot. Mum goes on horse.\u2019 \\textstyleExampleref{[R184.052\u2013053]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -12076,6 +12360,7 @@
             "irr",
             "ntr"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{irr} want \\textsc{ntr} divide by middle throw \\textsc{ins} salt",
         "imtwordsbare": [
@@ -12147,7 +12432,8 @@
             "hai",
             "miti..."
         ],
-        "trs": "If you want, you cut (the fish) in half, put salt on...\u2019 \\textstyleExampleref{[R185.007]}"
+        "trs": "If you want, you cut (the fish) in half, put salt on...\u2019 \\textstyleExampleref{[R185.007]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -12155,6 +12441,7 @@
             "pred",
             "red"
         ],
+        "clength": 83,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pred} ask:\\textsc{red} just \\textsc{art} do of above at \\textsc{art} story ancient",
         "imtwordsbare": [
@@ -12237,7 +12524,8 @@
             "{\\\ua78c}a{\\\ua78c}amu",
             "tuai."
         ],
-        "trs": "He was always asking about the old stories.\u2019 \\textstyleExampleref{[R302.018]}"
+        "trs": "He was always asking about the old stories.\u2019 \\textstyleExampleref{[R302.018]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -12249,6 +12537,7 @@
             "neg",
             "prox"
         ],
+        "clength": 81,
         "filename": "124/03nounsverbs.tex",
         "imt": "from \\textsc{art} time \\textsc{prox} toward front \\textsc{ipfv} \\textsc{neg.ipfv} see again \\textsc{1sg} \\textsc{ag} \\textsc{2sg}",
         "imtwordsbare": [
@@ -12344,7 +12633,8 @@
             "koe."
         ],
         "time": "present",
-        "trs": "From now on, you won\u2019t see me anymore.\u2019 \\textstyleExampleref{[R309.070]}"
+        "trs": "From now on, you won\u2019t see me anymore.\u2019 \\textstyleExampleref{[R309.070]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -12357,6 +12647,7 @@
             "med",
             "ntr"
         ],
+        "clength": 69,
         "filename": "124/03nounsverbs.tex",
         "imt": "toward front \\textsc{cntg} go \\textsc{med} \\textsc{ntr} \\textsc{caus} make \\textsc{emph} \\textsc{1sg} \\textsc{acc} \\textsc{art} house",
         "imtwordsbare": [
@@ -12451,7 +12742,8 @@
             "te",
             "hare."
         ],
-        "trs": "Later, I will have a house built.\u2019 \\textstyleExampleref{[R229.029]}"
+        "trs": "Later, I will have a house built.\u2019 \\textstyleExampleref{[R229.029]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -12462,6 +12754,7 @@
             "pfv",
             "pvp"
         ],
+        "clength": 87,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{art} drawing ~ thing many year by back \\textsc{pfv} make \\textsc{pvp}",
         "imtwordsbare": [
@@ -12568,7 +12861,8 @@
             "a\u014ba",
             "ai."
         ],
-        "trs": "There is a drawing... made many years ago.\u2019 \\textstyleExampleref{[R296.010\u2013013]}"
+        "trs": "There is a drawing... made many years ago.\u2019 \\textstyleExampleref{[R296.010\u2013013]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -12578,6 +12872,7 @@
             "prom",
             "prop"
         ],
+        "clength": 111,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{cntg} five year by back ~ \\textsc{ntr} think again \\textsc{prop} \\textsc{3sg} to \\textsc{prop} Roke\u2019aua the\\_two \\textsc{prom} Makita",
@@ -12697,13 +12992,15 @@
             "ko",
             "Makita."
         ],
-        "trs": "Five years later he thought again of Roke\u2019aua and Makita.\u2019 \\textstyleExampleref{[R243.205]}"
+        "trs": "Five years later he thought again of Roke\u2019aua and Makita.\u2019 \\textstyleExampleref{[R243.205]}",
+        "wlength": 17
     },
     {
         "categories": [
             "art",
             "ident"
         ],
+        "clength": 68,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} power at front \\textsc{ident} thing strong",
         "imtwordsbare": [
@@ -12762,12 +13059,14 @@
             "me{\\\ua78c}e",
             "p\u016bai."
         ],
-        "trs": "\\textit{Mana} (supernatural power) was something strong in the past.\u2019 \\textstyleExampleref{[R634.001]}"
+        "trs": "\\textit{Mana} (supernatural power) was something strong in the past.\u2019 \\textstyleExampleref{[R634.001]}",
+        "wlength": 7
     },
     {
         "categories": [
             "ntr"
         ],
+        "clength": 104,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_out to above \\textsc{ntr} run \\textsc{ntr} go hither to Ma\u2019unga Teatea to Mahatua ~  \\textsc{ntr} go \\textsc{ntr} arrive to Vaipu",
@@ -12911,7 +13210,8 @@
             "ki",
             "Vaip\u016b..."
         ],
-        "trs": "They got up and travelled to Ma\u2019unga Teatea, to Mahatua ... They went and arrived at Vaipu...\u2019 \\textstyleExampleref{[Mtx-3-01.214\u2013216]}"
+        "trs": "They got up and travelled to Ma\u2019unga Teatea, to Mahatua ... They went and arrived at Vaipu...\u2019 \\textstyleExampleref{[Mtx-3-01.214\u2013216]}",
+        "wlength": 21
     },
     {
         "categories": [
@@ -12921,6 +13221,7 @@
             "prf",
             "red"
         ],
+        "clength": 62,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{prf} gather:\\textsc{red} all \\textsc{cont} \\textsc{art} \\textsc{pl} child at sea",
         "imtwordsbare": [
@@ -12991,7 +13292,8 @@
             "\\textbf{{\\\ua78c}i}",
             "\\textbf{tai}."
         ],
-        "trs": "All the children gathered near the shore.\u2019 \\textstyleExampleref{[R161.013]}"
+        "trs": "All the children gathered near the shore.\u2019 \\textstyleExampleref{[R161.013]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -13000,6 +13302,7 @@
             "ntr",
             "prom"
         ],
+        "clength": 56,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_down to sea gather\\_shellfish \\textsc{2pl} \\textsc{prom} \\textsc{art} child",
         "imtwordsbare": [
@@ -13070,7 +13373,8 @@
             "te",
             "poki."
         ],
-        "trs": "She went down to the seashore to gather shellfish with her child.\u2019 \\textstyleExampleref{[Mtx-7-14.034]}"
+        "trs": "She went down to the seashore to gather shellfish with her child.\u2019 \\textstyleExampleref{[Mtx-7-14.034]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -13078,6 +13382,7 @@
             "ident",
             "ntr"
         ],
+        "clength": 66,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go away \\textsc{art} race slender by sea \\textsc{ident}",
         "imtwordsbare": [
@@ -13148,13 +13453,15 @@
             "\\textbf{tai}",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "The \u2018slender race\u2019{\\rmfnm} went along the seashore.\u2019 \\textstyleExampleref{[Ley-3-06.029]}"
+        "trs": "The \u2018slender race\u2019{\\rmfnm} went along the seashore.\u2019 \\textstyleExampleref{[Ley-3-06.029]}",
+        "wlength": 9
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 47,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_ashore \\textsc{art} man to inland",
         "imtwordsbare": [
@@ -13207,7 +13514,8 @@
             "\\textbf{ki}",
             "\\textbf{{\\\ua78c}uta}."
         ],
-        "trs": "The people went ashore.\u2019 \\textstyleExampleref{[Ley-2-03.036]}"
+        "trs": "The people went ashore.\u2019 \\textstyleExampleref{[Ley-2-03.036]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -13216,6 +13524,7 @@
             "dist",
             "ntr"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} ascend \\textsc{dem} person \\textsc{dist} to inland to \\textsc{art} battle",
         "imtwordsbare": [
@@ -13292,7 +13601,8 @@
             "te",
             "tau{\\\ua78c}a."
         ],
-        "trs": "That man went (further) inland to the battle.\u2019 \\textstyleExampleref{[Mtx-7-35.012]}"
+        "trs": "That man went (further) inland to the battle.\u2019 \\textstyleExampleref{[Mtx-7-35.012]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -13304,6 +13614,7 @@
             "poss",
             "prom"
         ],
+        "clength": 78,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} thing \\textsc{med} of \\textsc{art} side inland \\textsc{prom} \\textsc{poss.1sg.o} mother \\textsc{dist}",
         "imtwordsbare": [
@@ -13386,13 +13697,15 @@
             "m\u0101m\u0101",
             "era."
         ],
-        "trs": "(looking at people in a photo:) The one on the inland side is my mother.\u2019 \\textstyleExampleref{[R411.057]}"
+        "trs": "(looking at people in a photo:) The one on the inland side is my mother.\u2019 \\textstyleExampleref{[R411.057]}",
+        "wlength": 11
     },
     {
         "categories": [
             "art",
             "imp"
         ],
+        "clength": 69,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{imp} give hither \\textsc{art} salad of \\textsc{art} side inland",
         "imtwordsbare": [
@@ -13463,7 +13776,8 @@
             "\\textbf{p\u0101{\\\ua78c}i\u014ba}",
             "\\textbf{{\\\ua78c}uta}."
         ],
-        "trs": "Pass me the salad on the inland side.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "Pass me the salad on the inland side.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -13472,6 +13786,7 @@
             "pl",
             "pred"
         ],
+        "clength": 58,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{pred} \\textsc{pl} child \\textsc{ipfv} \\textsc{pl}:play \\textsc{cont} at seashore",
         "imtwordsbare": [
@@ -13536,7 +13851,8 @@
             "\\textbf{{\\\ua78c}i}",
             "\\textbf{tahatai}."
         ],
-        "trs": "There are children playing on the seashore.\u2019 \\textstyleExampleref{[R415.950]}"
+        "trs": "There are children playing on the seashore.\u2019 \\textstyleExampleref{[R415.950]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -13544,6 +13860,7 @@
             "art",
             "ntr"
         ],
+        "clength": 64,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_down \\textsc{art} man to seashore \\textsc{ntr} dive \\textsc{acc} \\textsc{art} fish",
@@ -13627,7 +13944,8 @@
             "te",
             "ika."
         ],
-        "trs": "The men went down to the seashore and fished underwater.\u2019 \\textstyleExampleref{[R372.016]}"
+        "trs": "The men went down to the seashore and fished underwater.\u2019 \\textstyleExampleref{[R372.016]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -13635,6 +13953,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 53,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} walk \\textsc{prop} \\textsc{1sg} \\textsc{ntr} go by seashore",
         "imtwordsbare": [
@@ -13699,13 +14018,15 @@
             "\\textbf{a}",
             "\\textbf{tahatai}."
         ],
-        "trs": "I walked along the seashore.\u2019 \\textstyleExampleref{[R475.010]}"
+        "trs": "I walked along the seashore.\u2019 \\textstyleExampleref{[R475.010]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 65,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} go\\_up the\\_two to above at \\textsc{art} horse \\textsc{ntr} go to countryside",
@@ -13795,7 +14116,8 @@
             "\\textbf{ki}",
             "\\textbf{kamp\u014d}."
         ],
-        "trs": "The two mounted their horse and went to the countryside.\u2019 \\textstyleExampleref{[R178.013]}"
+        "trs": "The two mounted their horse and went to the countryside.\u2019 \\textstyleExampleref{[R178.013]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -13804,6 +14126,7 @@
             "ntr",
             "pfv"
         ],
+        "clength": 147,
         "coordination": "or",
         "filename": "124/03nounsverbs.tex",
         "imt": "at \\textsc{art} day \\textsc{dist} at Ovahe or at other place of countryside \\textsc{pfv} go\\_ashore \\textsc{dist}  \\textsc{art} fish \\textsc{ntr} fill to above at \\textsc{art} car",
@@ -13965,7 +14288,8 @@
             "te",
             "pere{\\\ua78c}oa."
         ],
-        "trs": "On days when in Ovahe or another place in the country the fish would come ashore, they would load it on a wagon...\u2019 \\textstyleExampleref{[R539-1.482]}"
+        "trs": "On days when in Ovahe or another place in the country the fish would come ashore, they would load it on a wagon...\u2019 \\textstyleExampleref{[R539-1.482]}",
+        "wlength": 24
     },
     {
         "categories": [
@@ -13973,6 +14297,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 54,
         "coordination": "and",
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} run \\textsc{ntr} hide \\textsc{prop} bird to far \\textsc{dist}",
@@ -14044,7 +14369,8 @@
             "\\textbf{k\u014dnui}",
             "era."
         ],
-        "trs": "Manu fled and hid far away.\u2019 \\textstyleExampleref{[R459.007]}"
+        "trs": "Manu fled and hid far away.\u2019 \\textstyleExampleref{[R459.007]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -14053,6 +14379,7 @@
             "neg",
             "pfv"
         ],
+        "clength": 54,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{neg.pfv} sleep \\textsc{1pl.excl} at last\\_night",
         "imtwordsbare": [
@@ -14100,7 +14427,8 @@
             "\\textbf{{\\\ua78c}i}",
             "\\textbf{{\\\ua78c}a\u014bap\u014d}."
         ],
-        "trs": "We did not sleep last night.\u2019 \\textstyleExampleref{[R250.126]}"
+        "trs": "We did not sleep last night.\u2019 \\textstyleExampleref{[R250.126]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -14109,6 +14437,7 @@
             "past",
             "prom"
         ],
+        "clength": 88,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{art} people dive of today.\\textsc{past} \\textsc{prom} exist \\textsc{cont} \\textsc{art} swimming\\_fin \\textsc{art} glass",
         "imtwordsbare": [
@@ -14197,7 +14526,8 @@
             "te",
             "hi{\\\ua78c}o..."
         ],
-        "trs": "Today\u2019s divers have swimming fins, goggles...\u2019 \\textstyleExampleref{[R539-1.348]}"
+        "trs": "Today\u2019s divers have swimming fins, goggles...\u2019 \\textstyleExampleref{[R539-1.348]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -14207,6 +14537,7 @@
             "ntr",
             "voc"
         ],
+        "clength": 51,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{voc} dear\\_girl today.\\textsc{fut} \\textsc{ntr} return \\textsc{1du.excl} to inland",
         "imtwordsbare": [
@@ -14271,7 +14602,8 @@
             "ki",
             "{\\\ua78c}uta."
         ],
-        "trs": "My girl, today we will return to the field.\u2019 \\textstyleExampleref{[R235.038]}"
+        "trs": "My girl, today we will return to the field.\u2019 \\textstyleExampleref{[R235.038]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -14280,6 +14612,7 @@
             "incl",
             "ntr"
         ],
+        "clength": 48,
         "filename": "124/03nounsverbs.tex",
         "imt": "tomorrow \\textsc{ntr} go\\_out \\textsc{1pl.incl} to above to \\textsc{art} boat",
         "imtwordsbare": [
@@ -14350,7 +14683,8 @@
             "te",
             "vaka."
         ],
-        "trs": "Tomorrow we will go out by boat.\u2019 \\textstyleExampleref{[R368.045]}"
+        "trs": "Tomorrow we will go out by boat.\u2019 \\textstyleExampleref{[R368.045]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -14360,6 +14694,7 @@
             "fut",
             "incl"
         ],
+        "clength": 62,
         "filename": "124/03nounsverbs.tex",
         "imt": "~\\textsc{fut} \\textsc{cq} \\textsc{1pl.incl} \\textsc{cntg} ascend again hither for soccer",
         "imtwordsbare": [
@@ -14430,13 +14765,15 @@
             "mo",
             "piroto?"
         ],
-        "trs": "When are we going to play soccer again?\u2019 \\textstyleExampleref{[R155.007]}"
+        "trs": "When are we going to play soccer again?\u2019 \\textstyleExampleref{[R155.007]}",
+        "wlength": 9
     },
     {
         "categories": [
             "ntr",
             "num"
         ],
+        "clength": 64,
         "filename": "124/03nounsverbs.tex",
         "imt": "\\textsc{ntr} eat then at first \\textsc{num} one part bread",
         "imtwordsbare": [
@@ -14507,7 +14844,8 @@
             "{\\\ua78c}apa",
             "haraoa."
         ],
-        "trs": "First I will eat a piece of bread.\u2019 \\textstyleExampleref{[R476.031]}"
+        "trs": "First I will eat a piece of bread.\u2019 \\textstyleExampleref{[R476.031]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -14516,6 +14854,7 @@
             "ipfv",
             "prop"
         ],
+        "clength": 78,
         "filename": "124/03nounsverbs.tex",
         "imt": "to inside really \\textsc{ident} \\textsc{prop} Kekoa \\textsc{ipfv} want \\textsc{dist} for fly hither",
         "imtwordsbare": [
@@ -14605,13 +14944,15 @@
             "rere",
             "mai."
         ],
-        "trs": "Into (that pool) Kekoa wanted to jump.\u2019 \\textstyleExampleref{[R408.012]}"
+        "trs": "Into (that pool) Kekoa wanted to jump.\u2019 \\textstyleExampleref{[R408.012]}",
+        "wlength": 12
     },
     {
         "categories": [
             "dist",
             "ipfv"
         ],
+        "clength": 52,
         "filename": "124/03nounsverbs.tex",
         "imt": "like \\textsc{dist} just \\textsc{ipfv} eat \\textsc{ipfv} go \\textsc{dist}",
         "imtwordsbare": [
@@ -14676,7 +15017,8 @@
             "oho",
             "era."
         ],
-        "trs": "Just like that he kept eating.\u2019 \\textstyleExampleref{[R310.225]}"
+        "trs": "Just like that he kept eating.\u2019 \\textstyleExampleref{[R310.225]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -14684,6 +15026,7 @@
             "art",
             "dist"
         ],
+        "clength": 59,
         "filename": "124/03nounsverbs.tex",
         "imt": "from inland \\textsc{dist} \\textsc{1sg} from inside hither \\textsc{art} feast\\_house",
         "imtwordsbare": [
@@ -14754,6 +15097,7 @@
             "te",
             "koro."
         ],
-        "trs": "I\u2019m coming from inland, from the feast house.\u2019 \\textstyleExampleref{[Mtx-7-20.034]}"
+        "trs": "I\u2019m coming from inland, from the feast house.\u2019 \\textstyleExampleref{[Mtx-7-20.034]}",
+        "wlength": 9
     }
 ]

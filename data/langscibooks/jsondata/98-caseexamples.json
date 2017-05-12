@@ -4,6 +4,7 @@
             "nom",
             "prf"
         ],
+        "clength": 30,
         "filename": "98/case.tex",
         "imt": "come:\\textsc{prf}   enemies-\\textsc{nom}",
         "imtwordsbare": [
@@ -32,7 +33,8 @@
             "Ats\u00e1\u00e1",
             "l\u0254\u014b\\'{\u0254}t-\\textbf{\\\u1d43}!"
         ],
-        "trs": "The enemies have come!"
+        "trs": "The enemies have come!",
+        "wlength": 2
     },
     {
         "categories": [
@@ -40,6 +42,7 @@
             "nom",
             "seq"
         ],
+        "clength": 37,
         "filename": "98/case.tex",
         "imt": "spear:\\textsc{seq}   hunter-\\textsc{nom}   bushbuck:\\textsc{acc}",
         "imtwordsbare": [
@@ -74,13 +77,15 @@
             "\u0199a\u0199aam-\\textbf{a}",
             "k\u0289l\u00e1\u0253\u00e1k\u1d43."
         ],
-        "trs": "And the hunter speared the bushbuck."
+        "trs": "And the hunter speared the bushbuck.",
+        "wlength": 3
     },
     {
         "categories": [
             "2sg",
             "nom"
         ],
+        "clength": 31,
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{2sg}   mush-\\textsc{nom}=this",
         "imtwordsbare": [
@@ -109,13 +114,15 @@
             "\u014a\u0199{\\\u00cd}da",
             "t\u0254b\u0254\u014b-\\textbf{a}=na."
         ],
-        "trs": "You eat this meal mush."
+        "trs": "You eat this meal mush.",
+        "wlength": 2
     },
     {
         "categories": [
             "3sg",
             "acc"
         ],
+        "clength": 22,
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{3sg}   mush-\\textsc{acc}=this",
         "imtwordsbare": [
@@ -144,7 +151,8 @@
             "\u014a\u0199a",
             "t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na."
         ],
-        "trs": "She eats this meal mush."
+        "trs": "She eats this meal mush.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -152,6 +160,7 @@
             "exc",
             "nom"
         ],
+        "clength": 32,
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{1pl.exc}   mush-\\textsc{nom}=this",
         "imtwordsbare": [
@@ -180,7 +189,8 @@
             "\u014a\u0199{\\\u00cd}m\u00e1",
             "t\u0254b\u0254\u014b-\\textbf{a}=na"
         ],
-        "trs": "We eat this meal mush."
+        "trs": "We eat this meal mush.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -188,6 +198,7 @@
             "inc",
             "nom"
         ],
+        "clength": 38,
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{1pl.inc}   mush-\\textsc{nom}=this",
         "imtwordsbare": [
@@ -216,13 +227,15 @@
             "\u014a\u0199{\\\u00cd}s{\\\u00cd}na",
             "t\u0254b\u0254\u014b-\\textbf{a}=na."
         ],
-        "trs": "We all eat this meal mush."
+        "trs": "We all eat this meal mush.",
+        "wlength": 2
     },
     {
         "categories": [
             "2pl",
             "nom"
         ],
+        "clength": 31,
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{2pl}   mush-\\textsc{nom}=this",
         "imtwordsbare": [
@@ -251,13 +264,15 @@
             "\u014a\u0199{\\\u00cd}t\u00e1",
             "t\u0254b\u0254\u014b-\\textbf{a}=na."
         ],
-        "trs": "You all eat this meal mush."
+        "trs": "You all eat this meal mush.",
+        "wlength": 2
     },
     {
         "categories": [
             "3pl",
             "acc"
         ],
+        "clength": 24,
         "filename": "98/case.tex",
         "imt": "eat:\\textsc{3pl}   mush-\\textsc{acc}=this",
         "imtwordsbare": [
@@ -286,7 +301,8 @@
             "\u014a\u0199\u00e1ta",
             "t\u0254b\u0254\u014b\\'{\u0254}-\u00e1=na."
         ],
-        "trs": "They eat this meal mush."
+        "trs": "They eat this meal mush.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -294,6 +310,7 @@
             "acc",
             "fut"
         ],
+        "clength": 41,
         "filename": "98/case.tex",
         "imt": "drink:\\textsc{fut:3pl}   beer-\\textsc{acc}   all",
         "imtwordsbare": [
@@ -328,7 +345,8 @@
             "m\\`{\u025b}s\\`{\u025b}-\\textbf{\u00e0}",
             "m\u00f9\u0272."
         ],
-        "trs": "They will drink all the beer."
+        "trs": "They will drink all the beer.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -337,6 +355,7 @@
             "fut",
             "nom"
         ],
+        "clength": 31,
         "filename": "98/case.tex",
         "imt": "drink:\\textsc{fut:1pl.exc}   beer-\\textsc{nom}   all",
         "imtwordsbare": [
@@ -371,7 +390,8 @@
             "m\\`{\u025b}s-\u00e0",
             "m\u00f9\u0272."
         ],
-        "trs": "We will drink all the beer."
+        "trs": "We will drink all the beer.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -379,6 +399,7 @@
             "dat",
             "fut"
         ],
+        "clength": 26,
         "filename": "98/case.tex",
         "imt": "go:\\textsc{fut:1sg}   home-\\textsc{dat}",
         "imtwordsbare": [
@@ -407,13 +428,15 @@
             "\u0198ees\u00ed\u00e1",
             "aw\u00e1-\\textbf{k\\\u1d49}."
         ],
-        "trs": "I\u2019m going home."
+        "trs": "I\u2019m going home.",
+        "wlength": 2
     },
     {
         "categories": [
             "3sg",
             "dat"
         ],
+        "clength": 25,
         "filename": "98/case.tex",
         "imt": "be:\\textsc{3sg}   garden-\\textsc{dat}",
         "imtwordsbare": [
@@ -442,7 +465,8 @@
             "Ia",
             "s\u00e9d\u00e0-\\textbf{k\\\u1d49}."
         ],
-        "trs": "She\u2019s in the garden."
+        "trs": "She\u2019s in the garden.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -450,6 +474,7 @@
             "acc",
             "dat"
         ],
+        "clength": 39,
         "filename": "98/case.tex",
         "imt": "divide:\\textsc{3pl}   flour:\\textsc{acc}   people-\\textsc{dat}",
         "imtwordsbare": [
@@ -484,13 +509,15 @@
             "kabas\u00e1\u00e1",
             "r\u00f2\u0253\u00e0-\\textbf{k\\\u1d49}."
         ],
-        "trs": "They are dividing out flour to people."
+        "trs": "They are dividing out flour to people.",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg",
             "dat"
         ],
+        "clength": 32,
         "filename": "98/case.tex",
         "imt": "appall:\\textsc{3sg}   I-\\textsc{dat}   very",
         "imtwordsbare": [
@@ -525,7 +552,8 @@
             "\u0272c\u00ec-\\textbf{\u00e8}",
             "z\u00f9k\u1d58."
         ],
-        "trs": "It really appalls me.\u2019 (Lit: \u2018It is very appalling to me.\u2019)"
+        "trs": "It really appalls me.\u2019 (Lit: \u2018It is very appalling to me.\u2019)",
+        "wlength": 3
     },
     {
         "categories": [
@@ -533,6 +561,7 @@
             "dat",
             "nom"
         ],
+        "clength": 34,
         "filename": "98/case.tex",
         "imt": "be:\\textsc{3sg}   cattle:\\textsc{nom}    he-\\textsc{dat}",
         "imtwordsbare": [
@@ -567,7 +596,8 @@
             "\u0266y\u0254a",
             "nts\u00ed-\\textbf{k\\\u1d49}."
         ],
-        "trs": "He has cattle.\u2019 (Lit: \u2018There are cattle to him.\u2019)"
+        "trs": "He has cattle.\u2019 (Lit: \u2018There are cattle to him.\u2019)",
+        "wlength": 3
     },
     {
         "categories": [
@@ -575,6 +605,7 @@
             "dat",
             "nom"
         ],
+        "clength": 42,
         "filename": "98/case.tex",
         "imt": "go:\\textsc{3sg}   girls:\\textsc{nom}   wood:inside-\\textsc{dat}",
         "imtwordsbare": [
@@ -609,7 +640,8 @@
             "\u0272era",
             "dak\u00fa\u00e1\u0199\\`{\u0254}-\\textbf{k\\\u1d4b}."
         ],
-        "trs": "The girls go for firewood."
+        "trs": "The girls go for firewood.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -618,6 +650,7 @@
             "gen",
             "seq"
         ],
+        "clength": 48,
         "filename": "98/case.tex",
         "imt": "drive:\\textsc{seq}   cattle:\\textsc{acc}   they-\\textsc{gen}   corral:\\textsc{dat}",
         "imtwordsbare": [
@@ -658,7 +691,8 @@
             "\u0144t\u00ed-\\textbf{e}",
             "\u0253\u00f3r\u00e9k\u1d49."
         ],
-        "trs": "And they drove their cattle to the corral."
+        "trs": "And they drove their cattle to the corral.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -666,6 +700,7 @@
             "dat",
             "gen"
         ],
+        "clength": 36,
         "filename": "98/case.tex",
         "imt": "stand:\\textsc{3sg}   foot:\\textsc{dat}   mountain-\\textsc{gen}",
         "imtwordsbare": [
@@ -700,7 +735,8 @@
             "d\u025b\u025bd\u025b\u025b",
             "kwar\u00e1-\\textbf{\\\u1d49}."
         ],
-        "trs": "He\u2019s standing at the foot of the mountain."
+        "trs": "He\u2019s standing at the foot of the mountain.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -708,6 +744,7 @@
             "acc",
             "gen"
         ],
+        "clength": 47,
         "filename": "98/case.tex",
         "imt": "love:\\textsc{3sg}   wife:\\textsc{acc}   he-\\textsc{gen}   very",
         "imtwordsbare": [
@@ -748,7 +785,8 @@
             "nts\u00ed-\\textbf{\u00e9}",
             "z\u00f9k\u1d58."
         ],
-        "trs": "He loves his wife very much."
+        "trs": "He loves his wife very much.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -756,6 +794,7 @@
             "gen",
             "nom"
         ],
+        "clength": 40,
         "filename": "98/case.tex",
         "imt": "good:\\textsc{3sg}   way:\\textsc{nom}   you-\\textsc{gen}",
         "imtwordsbare": [
@@ -790,13 +829,15 @@
             "muce\u00e1",
             "b\u00ec-\\textsuperscript{\u00d8}."
         ],
-        "trs": "Your luck is good.\u2019 (lit: Your way is good.)"
+        "trs": "Your luck is good.\u2019 (lit: Your way is good.)",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg",
             "abl"
         ],
+        "clength": 26,
         "filename": "98/case.tex",
         "imt": "come:\\textsc{1sg}   home-\\textsc{abl}",
         "imtwordsbare": [
@@ -825,7 +866,8 @@
             "Ats\u00eda",
             "aw\u00e1-\\textbf{\\\u1d52}."
         ],
-        "trs": "I come from home."
+        "trs": "I come from home.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -833,6 +875,7 @@
             "abl",
             "pst"
         ],
+        "clength": 42,
         "filename": "98/case.tex",
         "imt": "die:\\textsc{3sg}=\\textsc{pst}     hunger-\\textsc{abl}",
         "imtwordsbare": [
@@ -861,13 +904,15 @@
             "Badu\u0199ota=noo",
             "\u0272\\'{\u025b}\u0199\\`{\u025b}{-}\\textbf{\\\u1d53}."
         ],
-        "trs": "He died from hunger."
+        "trs": "He died from hunger.",
+        "wlength": 2
     },
     {
         "categories": [
             "3sg",
             "abl"
         ],
+        "clength": 26,
         "filename": "98/case.tex",
         "imt": "fear:\\textsc{3sg}   girls-\\textsc{abl}",
         "imtwordsbare": [
@@ -896,13 +941,15 @@
             "X\u025b\u0253a",
             "\u0272\u00e9r\u00e0-\\textbf{\\\u1d52}."
         ],
-        "trs": "He\u2019s shy of girls."
+        "trs": "He\u2019s shy of girls.",
+        "wlength": 2
     },
     {
         "categories": [
             "3sg",
             "abl"
         ],
+        "clength": 36,
         "filename": "98/case.tex",
         "imt": "nice:\\textsc{3sg}   I-\\textsc{abl}",
         "imtwordsbare": [
@@ -931,13 +978,15 @@
             "Daa",
             "\\'{\u0272}c\u00f9-\\textsuperscript{\u00d8}."
         ],
-        "trs": "It\u2019s nice to me."
+        "trs": "It\u2019s nice to me.",
+        "wlength": 2
     },
     {
         "categories": [
             "3pl",
             "abl"
         ],
+        "clength": 28,
         "filename": "98/case.tex",
         "imt": "fight:\\textsc{3pl}   gardens-\\textsc{abl}",
         "imtwordsbare": [
@@ -966,7 +1015,8 @@
             "C\u025bm\u00e1ta",
             "s\u00e9d\u00eck\u00e0-\\textbf{\\\u1d52}."
         ],
-        "trs": "They are fighting in the gardens."
+        "trs": "They are fighting in the gardens.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -975,6 +1025,7 @@
             "nom",
             "pst"
         ],
+        "clength": 42,
         "filename": "98/case.tex",
         "imt": "spear:\\textsc{1sg}=\\textsc{pst}   warthog:\\textsc{nom}   spear-\\textsc{ins}",
         "imtwordsbare": [
@@ -1009,7 +1060,8 @@
             "gasoa",
             "\u0253\u0268s-\\textbf{\\\u1d53}."
         ],
-        "trs": "I speared a warthog with a spear."
+        "trs": "I speared a warthog with a spear.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1017,6 +1069,7 @@
             "dat",
             "ins"
         ],
+        "clength": 39,
         "filename": "98/case.tex",
         "imt": "go:\\textsc{3pl}   ravine-\\textsc{ins}   downside:\\textsc{dat}",
         "imtwordsbare": [
@@ -1051,7 +1104,8 @@
             "fots-\\textbf{o}",
             "g\u00edg\u00ecr\u00f2k\u1d49."
         ],
-        "trs": "And they went down by way of the ravine."
+        "trs": "And they went down by way of the ravine.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1060,6 +1114,7 @@
             "ins",
             "pst"
         ],
+        "clength": 41,
         "filename": "98/case.tex",
         "imt": "come:\\textsc{1pl}=\\textsc{pst}   things-\\textsc{ins}   we:\\textsc{gen}",
         "imtwordsbare": [
@@ -1094,7 +1149,8 @@
             "k\u00far\u00fa\u0253\u00e1d-\\textbf{o}",
             "\u014bg\u00f3\u1d49."
         ],
-        "trs": "We came with our things."
+        "trs": "We came with our things.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1102,6 +1158,7 @@
             "dat",
             "ins"
         ],
+        "clength": 36,
         "filename": "98/case.tex",
         "imt": "answer:\\textsc{3sg}   I:\\textsc{dat}   badness-\\textsc{ins}",
         "imtwordsbare": [
@@ -1136,7 +1193,8 @@
             "\u0272cie",
             "g\u00e1\u00e1n\u00e0s-\\textbf{\\\u1d53}."
         ],
-        "trs": "And he answered me with hostility."
+        "trs": "And he answered me with hostility.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1144,6 +1202,7 @@
             "ins",
             "nom"
         ],
+        "clength": 41,
         "filename": "98/case.tex",
         "imt": "lack:\\textsc{3sg}   hunger:\\textsc{nom}   days-\\textsc{ins}=these",
         "imtwordsbare": [
@@ -1178,7 +1237,8 @@
             "\u0272\u025b\u0199a",
             "\u00f3doicik-\\textbf{\u00f3}=ni."
         ],
-        "trs": "There is no hunger these days."
+        "trs": "There is no hunger these days.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1186,6 +1246,7 @@
             "gen",
             "ins"
         ],
+        "clength": 37,
         "filename": "98/case.tex",
         "imt": "fight:\\textsc{3sg}   washing-\\textsc{ins}   clothes:\\textsc{gen}",
         "imtwordsbare": [
@@ -1220,7 +1281,8 @@
             "f\u00edt\u00e9s-\\textbf{o}",
             "\u0199w\u00e1z\u00eck\u00e0\u1d49."
         ],
-        "trs": "She\u2019s washing clothes.\u2019 (lit: \u2018She is fighting with the washing of clothes.\u2019)"
+        "trs": "She\u2019s washing clothes.\u2019 (lit: \u2018She is fighting with the washing of clothes.\u2019)",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1229,6 +1291,7 @@
             "exc",
             "pst"
         ],
+        "clength": 29,
         "filename": "98/case.tex",
         "imt": "we-\\textsc{cop}=\\textsc{pst}   drink:\\textsc{1pl.exc}",
         "imtwordsbare": [
@@ -1257,13 +1320,15 @@
             "\u014a{g\u00f3-}\\textbf{\u00f3}=naa",
             "wet\u00edm."
         ],
-        "trs": "It was we (who) drank (it)."
+        "trs": "It was we (who) drank (it).",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg",
             "cop"
         ],
+        "clength": 31,
         "filename": "98/case.tex",
         "imt": "meat-\\textsc{cop}   want:\\textsc{1sg}",
         "imtwordsbare": [
@@ -1293,7 +1358,8 @@
             "Em\u00f3-\\textbf{\u00f3}",
             "b\\'{\u025b}\u0257{\\\u00cd}."
         ],
-        "trs": "It is meat (that) I want."
+        "trs": "It is meat (that) I want.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1302,6 +1368,7 @@
             "dat",
             "plur"
         ],
+        "clength": 47,
         "filename": "98/case.tex",
         "imt": "hunger-\\textsc{cop}   go:\\textsc{plur:3pl}   hunt:inside:\\textsc{dat}",
         "imtwordsbare": [
@@ -1336,12 +1403,14 @@
             "\u0199ai\u00e1t\u00e8\u00e8",
             "\u0199\u00e0\u0199\u00e0\u00e0\u0199\\`{\u0254}k\\\u1d4b."
         ],
-        "trs": "It is (due to) hunger (that) they keep going hunting."
+        "trs": "It is (due to) hunger (that) they keep going hunting.",
+        "wlength": 3
     },
     {
         "categories": [
             "cop"
         ],
+        "clength": 17,
         "filename": "98/case.tex",
         "imt": "person-\\textsc{cop}",
         "imtwordsbare": [
@@ -1364,7 +1433,8 @@
         "srcwordstex": [
             "\u00c1m\u00e1-\\textbf{k\\\u1d52}."
         ],
-        "trs": "It\u2019s a person."
+        "trs": "It\u2019s a person.",
+        "wlength": 1
     },
     {
         "categories": [
@@ -1372,6 +1442,7 @@
             "cop",
             "pst"
         ],
+        "clength": 34,
         "filename": "98/case.tex",
         "imt": "not.be:\\textsc{3sg}=\\textsc{pst}   I-\\textsc{cop}",
         "imtwordsbare": [
@@ -1401,13 +1472,15 @@
             "B\u025bna=n\u00e1\u00e1",
             "\\'{\u0272}c\u00f9-\\textbf{k\\\u1d52}."
         ],
-        "trs": "It was not me!"
+        "trs": "It was not me!",
+        "wlength": 2
     },
     {
         "categories": [
             "imp",
             "obl"
         ],
+        "clength": 24,
         "filename": "98/case.tex",
         "imt": "bring:\\textsc{imp}   you:\\textsc{obl}   water:\\textsc{obl}=those",
         "imtwordsbare": [
@@ -1442,7 +1515,8 @@
             "bi",
             "cue=d\u00ed\u00ed\u01c3"
         ],
-        "trs": "You bring that water!"
+        "trs": "You bring that water!",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1451,6 +1525,7 @@
             "obl",
             "opt"
         ],
+        "clength": 38,
         "filename": "98/case.tex",
         "imt": "I:\\textsc{obl}   listen:\\textsc{1sg:opt}   story:\\textsc{obl}   he:\\textsc{gen}",
         "imtwordsbare": [
@@ -1491,7 +1566,8 @@
             "emuti",
             "nts\u00ed."
         ],
-        "trs": "Let me listen to her story."
+        "trs": "Let me listen to her story.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1500,6 +1576,7 @@
             "nom",
             "obl"
         ],
+        "clength": 40,
         "filename": "98/case.tex",
         "imt": "follow:\\textsc{3sg}   child:\\textsc{nom}   I:\\textsc{acc}   until   home:\\textsc{obl}",
         "imtwordsbare": [
@@ -1546,7 +1623,8 @@
             "p\u00e1ka",
             "aw\u1d43."
         ],
-        "trs": "The child follows me up to home."
+        "trs": "The child follows me up to home.",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1554,6 +1632,7 @@
             "gen",
             "obl"
         ],
+        "clength": 33,
         "filename": "98/case.tex",
         "imt": "sweat:\\textsc{1sg}   for     life:\\textsc{obl}   you:\\textsc{gen}",
         "imtwordsbare": [
@@ -1594,13 +1673,15 @@
             "\u0266yekes\u00ed",
             "b\u00ec."
         ],
-        "trs": "I sweat for your survival."
+        "trs": "I sweat for your survival.",
+        "wlength": 4
     },
     {
         "categories": [
             "imp",
             "obl"
         ],
+        "clength": 20,
         "filename": "98/case.tex",
         "imt": "hey   children:\\textsc{obl}  come:\\textsc{imp}",
         "imtwordsbare": [
@@ -1635,6 +1716,7 @@
             "wice,",
             "ats\u00fa\u01c3"
         ],
-        "trs": "Hey children, come!"
+        "trs": "Hey children, come!",
+        "wlength": 3
     }
 ]

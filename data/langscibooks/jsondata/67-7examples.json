@@ -5,6 +5,7 @@
             "sim",
             "ss"
         ],
+        "clength": 112,
         "filename": "67/7.tex",
         "imt": "(man)  who.\\textsc{cf}  house  build-\\textsc{ss}.\\textsc{sim}-be-Np-3s",
         "imtwordsbare": [
@@ -45,12 +46,14 @@
             "koora",
             "ku-am-ika-i-ya?"
         ],
-        "trs": "Who is building a house?"
+        "trs": "Who is building a house?",
+        "wlength": 4
     },
     {
         "categories": [
             "fu"
         ],
+        "clength": 110,
         "filename": "67/7.tex",
         "imt": "son  that1  thing  what  eat-Np-\\textsc{fu}.3s",
         "imtwordsbare": [
@@ -97,7 +100,8 @@
             "\\textstyleEmphasizedVernacularWords{mauwa}",
             "enim-i-non?"
         ],
-        "trs": "What will the son eat?"
+        "trs": "What will the son eat?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -105,6 +109,7 @@
             "pa",
             "unm"
         ],
+        "clength": 77,
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{unm}  son  daughter  how.many  (2s.\\textsc{dat}  be-\\textsc{pa}.3s)",
         "imtwordsbare": [
@@ -157,13 +162,15 @@
             "(nefar",
             "ik-ua)?"
         ],
-        "trs": "How many children (lit. son daughter) do you have?"
+        "trs": "How many children (lit. son daughter) do you have?",
+        "wlength": 6
     },
     {
         "categories": [
             "bpx",
             "fu"
         ],
+        "clength": 77,
         "filename": "67/7.tex",
         "imt": "man  sick/body  why  village  \\textsc{bpx}-go-Np-\\textsc{fu}.1p",
         "imtwordsbare": [
@@ -210,13 +217,15 @@
             "owowa",
             "p-ikiw-i-yan?"
         ],
-        "trs": "Why should we take the body to the village?"
+        "trs": "Why should we take the body to the village?",
+        "wlength": 5
     },
     {
         "categories": [
             "fu",
             "pa"
         ],
+        "clength": 79,
         "filename": "67/7.tex",
         "imt": "fire  burn-\\textsc{pa}-3s  that1  how  extinguish-Np-\\textsc{fu}.1p",
         "imtwordsbare": [
@@ -263,13 +272,15 @@
             "\\textstyleEmphasizedVernacularWords{kamenap}",
             "umuk-i-yen?"
         ],
-        "trs": "How could we extinguish the fire that was burning?"
+        "trs": "How could we extinguish the fire that was burning?",
+        "wlength": 5
     },
     {
         "categories": [
             "fu",
             "loc"
         ],
+        "clength": 75,
         "filename": "67/7.tex",
         "imt": "thing  that1  place  which=\\textsc{loc}  appear-Np-\\textsc{fu}.3s",
         "imtwordsbare": [
@@ -316,7 +327,8 @@
             "\\textstyleEmphasizedVernacularWords{kain=pa}",
             "imenar-i-non?"
         ],
-        "trs": "Where (lit: in which place) will that thing appear?"
+        "trs": "Where (lit: in which place) will that thing appear?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -324,6 +336,7 @@
             "pa",
             "unm"
         ],
+        "clength": 66,
         "filename": "67/7.tex",
         "imt": "3p.\\textsc{unm}  which.village  man=\\textsc{cf}  dance-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -364,13 +377,15 @@
             "mua=ke",
             "uf-e-mik?"
         ],
-        "trs": "The men of which village danced?"
+        "trs": "The men of which village danced?",
+        "wlength": 4
     },
     {
         "categories": [
             "acc",
             "pa"
         ],
+        "clength": 119,
         "filename": "67/7.tex",
         "imt": "man  that1  who(\\textsc{acc})  hit-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -411,13 +426,15 @@
             "{\\ob}\\textstyleEmphasizedVernacularWords{naarew}{\\cb}\\textsubscript{O}",
             "aruf-a-k?"
         ],
-        "trs": "Who did that man hit?"
+        "trs": "Who did that man hit?",
+        "wlength": 4
     },
     {
         "categories": [
             "cf",
             "pa"
         ],
+        "clength": 120,
         "filename": "67/7.tex",
         "imt": "man  that1  who.\\textsc{cf}  hit-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -458,13 +475,15 @@
             "{\\ob}\\textstyleEmphasizedVernacularWords{naareke}{\\cb}\\textsubscript{S}",
             "aruf-a-k?"
         ],
-        "trs": "Who hit that man?"
+        "trs": "Who hit that man?",
+        "wlength": 4
     },
     {
         "categories": [
             "cf",
             "pa"
         ],
+        "clength": 164,
         "filename": "67/7.tex",
         "imt": "(man)  who.\\textsc{cf}  man  that1  hit-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -511,7 +530,8 @@
             "nain{\\cb}\\textsubscript{O}",
             "aruf-a-k?"
         ],
-        "trs": "Who hit that man?"
+        "trs": "Who hit that man?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -520,6 +540,7 @@
             "ds",
             "pa"
         ],
+        "clength": 190,
         "filename": "67/7.tex",
         "imt": "man  who.\\textsc{cf}  3p.\\textsc{acc}  hit-2/3s.\\textsc{ds}  run.away-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -566,13 +587,15 @@
             "\\textstyleEmphasizedVernacularWords{aruf-eya}",
             "baurar-e-mik?"
         ],
-        "trs": "Who hit them (so that) they ran away?"
+        "trs": "Who hit them (so that) they ran away?",
+        "wlength": 5
     },
     {
         "categories": [
             "nmz",
             "pa"
         ],
+        "clength": 142,
         "filename": "67/7.tex",
         "imt": "sun/time  how.much  go-\\textsc{nmz}  say-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -613,7 +636,8 @@
             "\\textstyleEmphasizedVernacularWords{ikiw-owa}",
             "ma-e-mik?"
         ],
-        "trs": "At what time did they say to go?"
+        "trs": "At what time did they say to go?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -621,6 +645,7 @@
             "pa",
             "unm"
         ],
+        "clength": 194,
         "filename": "67/7.tex",
         "imt": "3p.\\textsc{unm}  when  come-\\textsc{pa}-1/3p  that1  3p.\\textsc{acc}  see-\\textsc{pa}-2s",
         "imtwordsbare": [
@@ -673,7 +698,8 @@
             "wia",
             "uruf-a-n?"
         ],
-        "trs": "\\z"
+        "trs": "\\z",
+        "wlength": 6
     },
     {
         "categories": [
@@ -681,6 +707,7 @@
             "loc",
             "pa"
         ],
+        "clength": 115,
         "filename": "67/7.tex",
         "imt": "woman  who.\\textsc{cf}  sun/time  how.much=\\textsc{loc}  come-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -727,13 +754,15 @@
             "\\textstyleEmphasizedVernacularWords{kamin=pa}",
             "ekap-o-k?"
         ],
-        "trs": "Who (woman) came at what time?"
+        "trs": "Who (woman) came at what time?",
+        "wlength": 5
     },
     {
         "categories": [
             "cf",
             "pa"
         ],
+        "clength": 110,
         "filename": "67/7.tex",
         "imt": "man  which=\\textsc{cf}  woman  which  take-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -780,7 +809,8 @@
             "\\textstyleEmphasizedVernacularWords{kain}",
             "aaw-o-k?"
         ],
-        "trs": "Which man took/married which woman?"
+        "trs": "Which man took/married which woman?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -790,6 +820,7 @@
             "qm",
             "unm"
         ],
+        "clength": 126,
         "filename": "67/7.tex",
         "imt": "father  1s.\\textsc{acc}  scold-\\textsc{pa}-3s  that  1s.\\textsc{unm}  how   become-Np-\\textsc{fu}.1s=\\textsc{qm}",
         "imtwordsbare": [
@@ -848,7 +879,8 @@
             "\\textstyleEmphasizedVernacularWords{kamenap}",
             "ar-i-nen=\\textstyleEmphasizedVernacularWords{i}?"
         ],
-        "trs": "(I wonder) what will happen to me because father scolded me?"
+        "trs": "(I wonder) what will happen to me because father scolded me?",
+        "wlength": 7
     },
     {
         "categories": [
@@ -857,6 +889,7 @@
             "qm",
             "unm"
         ],
+        "clength": 67,
         "filename": "67/7.tex",
         "imt": "2p.\\textsc{unm}  that1  not=\\textsc{nf}  see-\\textsc{pa}-2p=\\textsc{qm}",
         "imtwordsbare": [
@@ -897,13 +930,15 @@
             "me=ko",
             "uruf-a-man\\textstyleEmphasizedVernacularWords{=i}?"
         ],
-        "trs": "Didn't you see that?"
+        "trs": "Didn't you see that?",
+        "wlength": 4
     },
     {
         "categories": [
             "fc",
             "qm"
         ],
+        "clength": 43,
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{fc}=\\textsc{qm}",
         "imtwordsbare": [
@@ -926,13 +961,15 @@
         "srcwordstex": [
             "Nos=\\textstyleEmphasizedVernacularWords{i}?"
         ],
-        "trs": "You?"
+        "trs": "You?",
+        "wlength": 1
     },
     {
         "categories": [
             "cf",
             "qm"
         ],
+        "clength": 57,
         "filename": "67/7.tex",
         "imt": "thing  that1  good=\\textsc{cf}.\\textsc{qm}",
         "imtwordsbare": [
@@ -967,7 +1004,8 @@
             "nain",
             "eliwa=\\textstyleEmphasizedVernacularWords{ki}?"
         ],
-        "trs": "Is that thing good?"
+        "trs": "Is that thing good?",
+        "wlength": 3
     },
     {
         "categories": [
@@ -977,6 +1015,7 @@
             "qm",
             "unm"
         ],
+        "clength": 119,
         "coordination": "or",
         "filename": "67/7.tex",
         "imt": "1s.\\textsc{unm}  woman=\\textsc{nf}  1s.\\textsc{dat}  see-\\textsc{pa}-2p=\\textsc{qm}  or  no",
@@ -1030,7 +1069,8 @@
             "\\textstyleEmphasizedVernacularWords{e}",
             "weetak?"
         ],
-        "trs": "Did you see my wife or not?"
+        "trs": "Did you see my wife or not?",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1039,6 +1079,7 @@
             "pr",
             "qm"
         ],
+        "clength": 123,
         "coordination": "or",
         "filename": "67/7.tex",
         "imt": "that1  liver  push-Np-\\textsc{pr}.2p=\\textsc{qm}  or  liver  stuck-\\textsc{inch}-\\textsc{pa}-2p",
@@ -1092,7 +1133,8 @@
             "kema",
             "irin-ar-e-man?"
         ],
-        "trs": "Do you remember (lit: push the liver) that, or have you forgotten (lit: liver is stuck) it?"
+        "trs": "Do you remember (lit: push the liver) that, or have you forgotten (lit: liver is stuck) it?",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1100,6 +1142,7 @@
             "qm",
             "unm"
         ],
+        "clength": 157,
         "coordination": "or",
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{unm}  Matukar  go-Np-\\textsc{fu}.2s=\\textsc{qm}  Dylup=\\textsc{qm}  or  Sarang",
@@ -1153,13 +1196,15 @@
             "\\textstyleEmphasizedVernacularWords{e}",
             "Sarang?"
         ],
-        "trs": "Will you go to Matukar, Dylup, or Sarang?"
+        "trs": "Will you go to Matukar, Dylup, or Sarang?",
+        "wlength": 6
     },
     {
         "categories": [
             "fu",
             "qm"
         ],
+        "clength": 157,
         "coordination": "or",
         "filename": "67/7.tex",
         "imt": "Matukar  go-Np-\\textsc{fu}.2s=\\textsc{qm}  or  Dylup  go-Np-\\textsc{fu}.2s=\\textsc{qm}",
@@ -1207,7 +1252,8 @@
             "Dylup",
             "ikiw-i-nan=\\textstyleEmphasizedVernacularWords{i}?"
         ],
-        "trs": "Will you go to Matukar or Dylup (or perhaps neither)?"
+        "trs": "Will you go to Matukar or Dylup (or perhaps neither)?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1216,6 +1262,7 @@
             "pa",
             "qm"
         ],
+        "clength": 163,
         "coordination": "or",
         "filename": "67/7.tex",
         "imt": "fire=\\textsc{nf}  put-\\textsc{pa}-2p=\\textsc{qm}  or  man=\\textsc{nf}  3.\\textsc{acc}  see-\\textsc{pa}-2p=\\textsc{qm}",
@@ -1269,7 +1316,8 @@
             "wia",
             "uruf-a-man=\\textstyleEmphasizedVernacularWords{i}?"
         ],
-        "trs": "Did you light a fire or did you feel (that there was) a man?"
+        "trs": "Did you light a fire or did you feel (that there was) a man?",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1279,6 +1327,7 @@
             "pa",
             "qm"
         ],
+        "clength": 115,
         "coordination": "or",
         "filename": "67/7.tex",
         "imt": "food  eat-\\textsc{nmz}=\\textsc{nf}  \\textsc{bpx}-come-\\textsc{pa}-1/3p=\\textsc{qm}  or.what",
@@ -1320,7 +1369,8 @@
             "p-ekap-e-mik=\\textstyleEmphasizedVernacularWords{i}",
             "\\textstyleEmphasizedVernacularWords{kamenion}?"
         ],
-        "trs": "Did they bring food, or what?"
+        "trs": "Did they bring food, or what?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1331,6 +1381,7 @@
             "sim",
             "ss"
         ],
+        "clength": 125,
         "coordination": "or",
         "filename": "67/7.tex",
         "imt": "rotten-\\textsc{inch}-Np-\\textsc{fu}.3s=\\textsc{qm}  or.what  thus  see-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}.3s",
@@ -1372,12 +1423,14 @@
             "naap",
             "uruf-am-ik-ua."
         ],
-        "trs": "He was watching whether it would rot or what would happen."
+        "trs": "He was watching whether it would rot or what would happen.",
+        "wlength": 4
     },
     {
         "categories": [
             "pa"
         ],
+        "clength": 54,
         "filename": "67/7.tex",
         "imt": "not  go-\\textsc{pa}-3s-perhaps",
         "imtwordsbare": [
@@ -1406,13 +1459,15 @@
             "Me",
             "ikiw-o-k=\\textstyleEmphasizedVernacularWords{yon}?"
         ],
-        "trs": "He didn't go, did he?"
+        "trs": "He didn't go, did he?",
+        "wlength": 2
     },
     {
         "categories": [
             "fu",
             "qm"
         ],
+        "clength": 60,
         "filename": "67/7.tex",
         "imt": "A:elder.sibling  Goroka  go-Np-\\textsc{fu}.3p  -  B:  Goroka  go-Np-\\textsc{fu}.3p=\\textsc{qm}",
         "imtwordsbare": [
@@ -1471,13 +1526,15 @@
             "Gor\\'oka",
             "ikiw-i-non=i?"
         ],
-        "trs": "A: Big brother is going to Goroka. B: Is he going to \\textstyleEmphasizedWords{{Goroka}}?"
+        "trs": "A: Big brother is going to Goroka. B: Is he going to \\textstyleEmphasizedWords{{Goroka}}?",
+        "wlength": 7
     },
     {
         "categories": [
             "acc",
             "pa"
         ],
+        "clength": 31,
         "filename": "67/7.tex",
         "imt": "A:  man  who  3.\\textsc{acc}  tell-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -1524,7 +1581,8 @@
             "wia",
             "maak-e-k?"
         ],
-        "trs": "Who did he tell?"
+        "trs": "Who did he tell?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1532,6 +1590,7 @@
             "pa",
             "qm"
         ],
+        "clength": 70,
         "filename": "67/7.tex",
         "imt": "B:  man  who  3.\\textsc{acc}  tell-\\textsc{pa}-3s=\\textsc{qm}",
         "imtwordsbare": [
@@ -1578,7 +1637,8 @@
             "wia",
             "maak-e-k=\\textstyleEmphasizedVernacularWords{i}?"
         ],
-        "trs": "Who did he tell???"
+        "trs": "Who did he tell???",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1587,6 +1647,7 @@
             "pr",
             "qm"
         ],
+        "clength": 78,
         "filename": "67/7.tex",
         "imt": "B:  man  who  3.\\textsc{acc}  tell-\\textsc{pa}-3s  say-Np-\\textsc{pr}.2s=\\textsc{qm}",
         "imtwordsbare": [
@@ -1639,7 +1700,8 @@
             "maak-e-k",
             "\\textstyleEmphasizedVernacularWords{na-i-n=i}?"
         ],
-        "trs": "Are you asking who he told?"
+        "trs": "Are you asking who he told?",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1647,6 +1709,7 @@
             "pa",
             "qm"
         ],
+        "clength": 87,
         "filename": "67/7.tex",
         "imt": "A:  that1  good=\\textsc{cf}.\\textsc{qm}  B:  that1  good=\\textsc{cf}.\\textsc{qm}  say-\\textsc{pa}-2s=\\textsc{qm}",
         "imtwordsbare": [
@@ -1705,7 +1768,8 @@
             "eliwa-ki",
             "\\textstyleEmphasizedVernacularWords{ma-e-n=i}?"
         ],
-        "trs": "A: Is that good?  B: Did you ask if that is good?"
+        "trs": "A: Is that good?  B: Did you ask if that is good?",
+        "wlength": 7
     },
     {
         "categories": [
@@ -1715,6 +1779,7 @@
             "qm",
             "unm"
         ],
+        "clength": 114,
         "filename": "67/7.tex",
         "imt": "2p.\\textsc{unm}  liver  big  thus  1s.\\textsc{acc}  put-Np-\\textsc{pr}.2p=\\textsc{qm}  1s.\\textsc{unm}  well  2p.\\textsc{acc}  heal-Np-\\textsc{fu}.1s  thus=\\textsc{qm}",
         "imtwordsbare": [
@@ -1797,7 +1862,8 @@
             "saliw-i-nen,",
             "\\textstyleEmphasizedVernacularWords{naap=i}?"
         ],
-        "trs": "Do you believe about me that I can heal you, is that so?"
+        "trs": "Do you believe about me that I can heal you, is that so?",
+        "wlength": 11
     },
     {
         "categories": [
@@ -1805,6 +1871,7 @@
             "pa",
             "unm"
         ],
+        "clength": 48,
         "filename": "67/7.tex",
         "imt": "1s.\\textsc{unm}  thing  what  see-\\textsc{pa}-1s  1s.\\textsc{acc}  say-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -1857,7 +1924,8 @@
             "efa",
             "na-e-k."
         ],
-        "trs": "He asked me what I saw."
+        "trs": "He asked me what I saw.",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1866,6 +1934,7 @@
             "pa",
             "unm"
         ],
+        "clength": 59,
         "filename": "67/7.tex",
         "imt": "how.much  put-\\textsc{pa}-1/3p-perhaps  1s.\\textsc{unm}  not  3.\\textsc{dat} knowledge-\\textsc{inch}-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -1918,7 +1987,8 @@
             "wiar",
             "amis-ar-e-m."
         ],
-        "trs": "I don't know how much they put."
+        "trs": "I don't know how much they put.",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1926,6 +1996,7 @@
             "ds",
             "fu"
         ],
+        "clength": 36,
         "filename": "67/7.tex",
         "imt": "money  where.\\textsc{cf}  be-2/3s.\\textsc{ds}  give.you-Np-\\textsc{fu}.1p",
         "imtwordsbare": [
@@ -1967,7 +2038,8 @@
             "ika-eya",
             "ni-i-yan?"
         ],
-        "trs": "Where would we have that kind of money to give you? (=We do not have money to give you.)"
+        "trs": "Where would we have that kind of money to give you? (=We do not have money to give you.)",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1977,6 +2049,7 @@
             "refl",
             "unm"
         ],
+        "clength": 33,
         "filename": "67/7.tex",
         "imt": "1s.\\textsc{unm}  always  2p.\\textsc{refl}=\\textsc{com}  be-Np-\\textsc{fu}.1s=\\textsc{qm}",
         "imtwordsbare": [
@@ -2017,7 +2090,8 @@
             "niam=iya",
             "ika-i-nen=i?"
         ],
-        "trs": "Will I be with you forever? (= I will not.)"
+        "trs": "Will I be with you forever? (= I will not.)",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2026,6 +2100,7 @@
             "ss",
             "unm"
         ],
+        "clength": 31,
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{unm}  why  thus  cry-\\textsc{ss}.\\textsc{sim}-be-Np-\\textsc{pr}.2s",
         "imtwordsbare": [
@@ -2067,7 +2142,8 @@
             "naap",
             "om-em-ika-i-n?"
         ],
-        "trs": "Why are you crying like that? (=You should not cry like that.)"
+        "trs": "Why are you crying like that? (=You should not cry like that.)",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2076,6 +2152,7 @@
             "ds",
             "pa"
         ],
+        "clength": 40,
         "filename": "67/7.tex",
         "imt": "man  who.\\textsc{cf}  2p.\\textsc{acc}  say-2/3p.\\textsc{ds}  come-\\textsc{pa}-2p",
         "imtwordsbare": [
@@ -2122,7 +2199,8 @@
             "maak-eya",
             "ekap-e-man?"
         ],
-        "trs": "Who told you to come? (=You shouldn't have come)"
+        "trs": "Who told you to come? (=You shouldn't have come)",
+        "wlength": 5
     },
     {
         "categories": [
@@ -2130,6 +2208,7 @@
             "pa",
             "unm"
         ],
+        "clength": 41,
         "filename": "67/7.tex",
         "imt": "oh  son  2s.\\textsc{unm}  why  thus  1s.\\textsc{acc}  do-\\textsc{pa}-2s",
         "imtwordsbare": [
@@ -2188,7 +2267,8 @@
             "yia",
             "on-a-n?"
         ],
-        "trs": "Oh son, why did you do this to us?"
+        "trs": "Oh son, why did you do this to us?",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2196,6 +2276,7 @@
             "qm",
             "unm"
         ],
+        "clength": 55,
         "filename": "67/7.tex",
         "imt": "1s.\\textsc{unm}  rat  small  valley  descend-\\textsc{pa}-3s  that1  see-\\textsc{pa}-2p=\\textsc{qm}",
         "imtwordsbare": [
@@ -2254,7 +2335,8 @@
             "nain",
             "uruf-a-man=i?"
         ],
-        "trs": "Have you seen my ``little rat'' (pig) that went down to the valley? (implying: I have no doubt that you have stolen my pig.)"
+        "trs": "Have you seen my ``little rat'' (pig) that went down to the valley? (implying: I have no doubt that you have stolen my pig.)",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2263,6 +2345,7 @@
             "nmz",
             "pa"
         ],
+        "clength": 67,
         "filename": "67/7.tex",
         "imt": "sun  three=\\textsc{loc}  work-\\textsc{nmz}  finish-2/3s.\\textsc{ds}  thing  what  do-\\textsc{pa}-2p",
         "imtwordsbare": [
@@ -2321,7 +2404,8 @@
             "mauwa",
             "on-a-man?"
         ],
-        "trs": "After your work finished at three, what did you do?"
+        "trs": "After your work finished at three, what did you do?",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2333,6 +2417,7 @@
             "qm",
             "unm"
         ],
+        "clength": 67,
         "filename": "67/7.tex",
         "imt": "1s.\\textsc{unm}  just  2s.\\textsc{acc}  ask-Np-\\textsc{pr}.1s  spoon=\\textsc{nf}  1s.\\textsc{dat}  see-\\textsc{pa}-2s=\\textsc{qm}",
         "imtwordsbare": [
@@ -2391,12 +2476,14 @@
             "efar",
             "uruf-a-n=i?"
         ],
-        "trs": "I'm just asking: have you seen my spoon?"
+        "trs": "I'm just asking: have you seen my spoon?",
+        "wlength": 7
     },
     {
         "categories": [
             "pr"
         ],
+        "clength": 47,
         "filename": "67/7.tex",
         "imt": "always  big  quickly  not  ascend-Np-\\textsc{pr}.2s  that1  why",
         "imtwordsbare": [
@@ -2455,7 +2542,8 @@
             "nain",
             "moram?"
         ],
-        "trs": "What is the reason why you never come up quickly?"
+        "trs": "What is the reason why you never come up quickly?",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2463,6 +2551,7 @@
             "qm",
             "unm"
         ],
+        "clength": 39,
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{unm}  tomorrow  village  big  go-Np-\\textsc{fu}.2s=\\textsc{qm}",
         "imtwordsbare": [
@@ -2509,10 +2598,12 @@
             "maneka",
             "ikiw-i-nan=i?"
         ],
-        "trs": "Are you going to town tomorrow?"
+        "trs": "Are you going to town tomorrow?",
+        "wlength": 5
     },
     {
         "categories": [],
+        "clength": 6,
         "filename": "67/7.tex",
         "imt": "yes",
         "imtwordsbare": [
@@ -2535,12 +2626,14 @@
         "srcwordstex": [
             "Ae/Oo."
         ],
-        "trs": "Yes."
+        "trs": "Yes.",
+        "wlength": 1
     },
     {
         "categories": [
             "fu"
         ],
+        "clength": 18,
         "filename": "67/7.tex",
         "imt": "yes  go-Np-\\textsc{fu}.1s",
         "imtwordsbare": [
@@ -2569,12 +2662,14 @@
             "(Ae,)",
             "ikiw-i-nen."
         ],
-        "trs": "(Yes,) I am going."
+        "trs": "(Yes,) I am going.",
+        "wlength": 2
     },
     {
         "categories": [
             "fu"
         ],
+        "clength": 26,
         "filename": "67/7.tex",
         "imt": "no  not  go-Np-\\textsc{fu}.1s",
         "imtwordsbare": [
@@ -2610,13 +2705,15 @@
             "me",
             "ikiw-i-nen."
         ],
-        "trs": "(No,) I am not going."
+        "trs": "(No,) I am not going.",
+        "wlength": 3
     },
     {
         "categories": [
             "fu",
             "unm"
         ],
+        "clength": 44,
         "filename": "67/7.tex",
         "imt": "yes  1s.\\textsc{unm}  tomorrow  village  big  go-Np-\\textsc{fu}.1s",
         "imtwordsbare": [
@@ -2669,7 +2766,8 @@
             "maneka",
             "ikiw-i-nen."
         ],
-        "trs": "(Yes,) I'll go to town tomorrow."
+        "trs": "(Yes,) I'll go to town tomorrow.",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2677,6 +2775,7 @@
             "sim",
             "ss"
         ],
+        "clength": 41,
         "filename": "67/7.tex",
         "imt": "thing/food  kind  how  that1  eat-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-2p",
         "imtwordsbare": [
@@ -2723,7 +2822,8 @@
             "nain",
             "en-em-ik-e-man?"
         ],
-        "trs": "What kind of food did you eat?"
+        "trs": "What kind of food did you eat?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -2733,6 +2833,7 @@
             "ss",
             "unm"
         ],
+        "clength": 45,
         "filename": "67/7.tex",
         "imt": "3p.\\textsc{unm}  body  white  eat-\\textsc{nmz}  that1  (eat-\\textsc{ss}.\\textsc{sim}-be-\\textsc{pa}-1/3p)",
         "imtwordsbare": [
@@ -2785,13 +2886,15 @@
             "nain",
             "(en-em-ik-e-mik)."
         ],
-        "trs": "(We ate) the white people's food."
+        "trs": "(We ate) the white people's food.",
+        "wlength": 6
     },
     {
         "categories": [
             "acc",
             "pa"
         ],
+        "clength": 32,
         "filename": "67/7.tex",
         "imt": "2s/p.nephew  how  2s.\\textsc{acc}  do-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -2832,7 +2935,8 @@
             "nefa",
             "on-a-k?"
         ],
-        "trs": "What did your nephew do to you?"
+        "trs": "What did your nephew do to you?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2841,6 +2945,7 @@
             "pa",
             "unm"
         ],
+        "clength": 85,
         "filename": "67/7.tex",
         "imt": "no  1s.\\textsc{unm}  work-\\textsc{pa}-1s  \\textsc{add}  3s.\\textsc{unm}  not  1s.\\textsc{acc}  see-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -2906,7 +3011,8 @@
             "efa",
             "uruf-a-k."
         ],
-        "trs": "I worked but he did not even look at me.' (Implying: Your presupposition is wrong; he did not do anything indecent to me.)"
+        "trs": "I worked but he did not even look at me.' (Implying: Your presupposition is wrong; he did not do anything indecent to me.)",
+        "wlength": 8
     },
     {
         "categories": [
@@ -2915,6 +3021,7 @@
             "pa",
             "unm"
         ],
+        "clength": 93,
         "filename": "67/7.tex",
         "imt": "3s.\\textsc{unm}  talk-\\textsc{nmz}  no(ne)-perhaps  -no  talk-\\textsc{nmz}  3.\\textsc{dat} be-\\textsc{pa}.3s",
         "imtwordsbare": [
@@ -2973,13 +3080,15 @@
             "wiar",
             "ik-ua."
         ],
-        "trs": "Perhaps he doesn't have anything to say. --No, he \\textstyleEmphasizedWords{{does}} have something to say."
+        "trs": "Perhaps he doesn't have anything to say. --No, he \\textstyleEmphasizedWords{{does}} have something to say.",
+        "wlength": 7
     },
     {
         "categories": [
             "pa",
             "qm"
         ],
+        "clength": 80,
         "filename": "67/7.tex",
         "imt": "1s/p.father  not  come-\\textsc{pa}-3s=\\textsc{qm}  -no  (come-\\textsc{pa}-3s)",
         "imtwordsbare": [
@@ -3026,13 +3135,15 @@
             "-\\textstyleEmphasizedVernacularWords{Weetak}",
             "(ekap-o-k)."
         ],
-        "trs": "Didn't father come? --Yes (he \\textstyleEmphasizedWords{{did}})."
+        "trs": "Didn't father come? --Yes (he \\textstyleEmphasizedWords{{did}}).",
+        "wlength": 5
     },
     {
         "categories": [
             "pa",
             "qm"
         ],
+        "clength": 84,
         "filename": "67/7.tex",
         "imt": "1s/p.father  not  come-\\textsc{pa}-3s=\\textsc{qm}  -no  (not  come-\\textsc{pa}-3s)",
         "imtwordsbare": [
@@ -3085,13 +3196,15 @@
             "(me",
             "ekap-o-k)."
         ],
-        "trs": "Didn't father come? --No (he didn't)."
+        "trs": "Didn't father come? --No (he didn't).",
+        "wlength": 6
     },
     {
         "categories": [
             "imp",
             "unm"
         ],
+        "clength": 109,
         "filename": "67/7.tex",
         "imt": "2p.\\textsc{unm}  Medebur  run-\\textsc{imp}.2p  flee-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -3132,13 +3245,15 @@
             "\\textstyleEmphasizedVernacularWords{karu-eka},",
             "\\textstyleEmphasizedVernacularWords{baurar-eka}."
         ],
-        "trs": "Run(pl.) to Medebur, flee."
+        "trs": "Run(pl.) to Medebur, flee.",
+        "wlength": 4
     },
     {
         "categories": [
             "imp",
             "unm"
         ],
+        "clength": 101,
         "filename": "67/7.tex",
         "imt": "fool  2s.\\textsc{unm}  thus  not  say-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -3185,12 +3300,14 @@
             "\\textstyleEmphasizedVernacularWords{me}",
             "\\textstyleEmphasizedVernacularWords{ma-e}."
         ],
-        "trs": "Fool, don't say like that."
+        "trs": "Fool, don't say like that.",
+        "wlength": 5
     },
     {
         "categories": [
             "imp"
         ],
+        "clength": 89,
         "filename": "67/7.tex",
         "imt": "stop.crying-\\textsc{imp}.2s  please",
         "imtwordsbare": [
@@ -3219,7 +3336,8 @@
             "\\textstyleEmphasizedVernacularWords{Pootin-e},",
             "\\textstyleEmphasizedVernacularWords{nom}!"
         ],
-        "trs": "Stop crying, \\textstyleEmphasizedWords{{please}}!"
+        "trs": "Stop crying, \\textstyleEmphasizedWords{{please}}!",
+        "wlength": 2
     },
     {
         "categories": [
@@ -3228,6 +3346,7 @@
             "pa",
             "unm"
         ],
+        "clength": 92,
         "coordination": "and",
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{unm}  talk  turtle  get-\\textsc{pa}-3s  that1  tell-2/3s.\\textsc{ds} 1p.\\textsc{unm}  hear-Np-\\textsc{fu}.1p",
@@ -3293,13 +3412,15 @@
             "i",
             "miim-i-yen."
         ],
-        "trs": "Tell us about your catching a turtle, and we'll listen.' (Or: `You will tell us about your catching a turtle and we'll listen.')"
+        "trs": "Tell us about your catching a turtle, and we'll listen.' (Or: `You will tell us about your catching a turtle and we'll listen.')",
+        "wlength": 8
     },
     {
         "categories": [
             "bpx",
             "ds"
         ],
+        "clength": 48,
         "filename": "67/7.tex",
         "imt": "\\textsc{bpx}-come-2/3s.\\textsc{ds}",
         "imtwordsbare": [
@@ -3322,7 +3443,8 @@
         "srcwordstex": [
             "P-ekap-\\textstyleEmphasizedVernacularWords{eya}!"
         ],
-        "trs": "Bring it!"
+        "trs": "Bring it!",
+        "wlength": 1
     },
     {
         "categories": [
@@ -3331,6 +3453,7 @@
             "seq",
             "ss"
         ],
+        "clength": 159,
         "coordination": "and",
         "filename": "67/7.tex",
         "imt": "woman  garden  go-\\textsc{ss}.\\textsc{seq}  eat-\\textsc{nmz}  search-\\textsc{ss}.\\textsc{seq}  descend-\\textsc{imp}.2p",
@@ -3384,7 +3507,8 @@
             "\\textstyleEmphasizedVernacularWords{nop-ap}",
             "\\textstyleEmphasizedVernacularWords{or-eka}."
         ],
-        "trs": "Women, go to the garden, look for food and come down."
+        "trs": "Women, go to the garden, look for food and come down.",
+        "wlength": 6
     },
     {
         "categories": [
@@ -3392,6 +3516,7 @@
             "ds",
             "imp"
         ],
+        "clength": 119,
         "coordination": "and",
         "filename": "67/7.tex",
         "imt": "man  woman  3p.\\textsc{acc}  tell-2/3s.\\textsc{ds}  not  2s.\\textsc{acc}  eat-\\textsc{imp}.3p",
@@ -3452,7 +3577,8 @@
             "efa",
             "\\textstyleEmphasizedVernacularWords{enim-uk}."
         ],
-        "trs": "Tell the people and let them not eat me."
+        "trs": "Tell the people and let them not eat me.",
+        "wlength": 7
     },
     {
         "categories": [
@@ -3461,6 +3587,7 @@
             "imp",
             "ss"
         ],
+        "clength": 120,
         "filename": "67/7.tex",
         "imt": "here.\\textsc{cf}  3.\\textsc{dat}  be-\\textsc{ss}  again  man  3.\\textsc{dat}  ascend-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -3519,7 +3646,8 @@
             "wiar",
             "\\textstyleEmphasizedVernacularWords{urup-e}."
         ],
-        "trs": "Having been here with him (=your brother), go up to your husband again."
+        "trs": "Having been here with him (=your brother), go up to your husband again.",
+        "wlength": 7
     },
     {
         "categories": [
@@ -3527,6 +3655,7 @@
             "nf",
             "unm"
         ],
+        "clength": 62,
         "filename": "67/7.tex",
         "imt": "alright  1p.\\textsc{unm}  village=\\textsc{nf}  descend-\\textsc{imp}.1d",
         "imtwordsbare": [
@@ -3567,7 +3696,8 @@
             "owowa=ko",
             "\\textstyleEmphasizedVernacularWords{or-u}."
         ],
-        "trs": "Alright, let's go down to the village."
+        "trs": "Alright, let's go down to the village.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -3577,6 +3707,7 @@
             "seq",
             "ss"
         ],
+        "clength": 64,
         "coordination": "and",
         "filename": "67/7.tex",
         "imt": "go-\\textsc{ss}.\\textsc{seq}=\\textsc{nf}  3p.\\textsc{acc}  see-\\textsc{imp}.1p",
@@ -3612,13 +3743,15 @@
             "wia",
             "\\textstyleEmphasizedVernacularWords{uruf-ikua}."
         ],
-        "trs": "Let's go and see them."
+        "trs": "Let's go and see them.",
+        "wlength": 3
     },
     {
         "categories": [
             "acc",
             "imp"
         ],
+        "clength": 66,
         "filename": "67/7.tex",
         "imt": "3s/p.brother  not  3p.\\textsc{acc}  tell-\\textsc{imp}.3s",
         "imtwordsbare": [
@@ -3660,7 +3793,8 @@
             "wia",
             "\\textstyleEmphasizedVernacularWords{maak-inok}."
         ],
-        "trs": "Let her not talk to her brothers."
+        "trs": "Let her not talk to her brothers.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -3670,6 +3804,7 @@
             "sim",
             "ss"
         ],
+        "clength": 91,
         "coordination": "and",
         "filename": "67/7.tex",
         "imt": "3s.\\textsc{gen}  man  with  go-\\textsc{ss}.\\textsc{seq}  see-\\textsc{ss}.\\textsc{sim}-be-\\textsc{ss}  come-\\textsc{ss}.\\textsc{sim}-be-\\textsc{imp}.3p",
@@ -3723,7 +3858,8 @@
             "uruf-am-ik-ok",
             "\\textstyleEmphasizedVernacularWords{ep-am-ika-uk.}"
         ],
-        "trs": "Let her keep going with her husband, seeing him (= her father) and coming back."
+        "trs": "Let her keep going with her husband, seeing him (= her father) and coming back.",
+        "wlength": 6
     },
     {
         "categories": [
@@ -3731,6 +3867,7 @@
             "sim",
             "ss"
         ],
+        "clength": 60,
         "filename": "67/7.tex",
         "imt": "custom thus do-\\textsc{ss}.\\textsc{sim}-be-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -3765,7 +3902,8 @@
             "naap",
             "\\textstyleEmphasizedVernacularWords{on-am-ik-eka}."
         ],
-        "trs": "Keep doing like that."
+        "trs": "Keep doing like that.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -3774,6 +3912,7 @@
             "seq",
             "ss"
         ],
+        "clength": 62,
         "filename": "67/7.tex",
         "imt": "now  thus  do-\\textsc{ss}.\\textsc{seq}-\\textsc{cmpl}-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -3808,7 +3947,8 @@
             "naap",
             "\\textstyleEmphasizedVernacularWords{on-ap-pu-e}."
         ],
-        "trs": "Now do that."
+        "trs": "Now do that.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -3817,6 +3957,7 @@
             "ss",
             "unm"
         ],
+        "clength": 66,
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{unm}  not  eye  close-\\textsc{ss}.\\textsc{seq}-be-\\textsc{imp}.2s",
         "imtwordsbare": [
@@ -3857,13 +3998,15 @@
             "mokoka",
             "\\textstyleEmphasizedVernacularWords{opar-ep-ik-e}."
         ],
-        "trs": "Don't have/keep your eyes closed."
+        "trs": "Don't have/keep your eyes closed.",
+        "wlength": 4
     },
     {
         "categories": [
             "fu",
             "unm"
         ],
+        "clength": 93,
         "filename": "67/7.tex",
         "imt": "2s.\\textsc{unm}  not  lie-Np-\\textsc{fu}.2s",
         "imtwordsbare": [
@@ -3898,7 +4041,8 @@
             "\\textstyleEmphasizedVernacularWords{me}",
             "\\textstyleEmphasizedVernacularWords{sail-i-nan}!"
         ],
-        "trs": "Don't lie!"
+        "trs": "Don't lie!",
+        "wlength": 3
     },
     {
         "categories": [
@@ -3907,6 +4051,7 @@
             "sim",
             "ss"
         ],
+        "clength": 71,
         "coordination": "and",
         "filename": "67/7.tex",
         "imt": "thus  say-\\textsc{ss}.\\textsc{sim}  cry-\\textsc{ss}.\\textsc{sim}-be-Np-\\textsc{fu}.2s  \\textsc{intj}",
@@ -3948,6 +4093,7 @@
             "\\textstyleEmphasizedVernacularWords{om-em-ika-i-nan}",
             "na."
         ],
-        "trs": "Say like that and wail."
+        "trs": "Say like that and wail.",
+        "wlength": 4
     }
 ]

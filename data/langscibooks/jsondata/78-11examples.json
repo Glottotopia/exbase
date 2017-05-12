@@ -3,6 +3,7 @@
         "categories": [
             "rdp"
         ],
+        "clength": 32,
         "filename": "78/11.tex",
         "imt": "{\\textsc{rdp}{\\Tilde}legend}  {first}",
         "imtwordsbare": [
@@ -31,13 +32,15 @@
             "{dongeng{\\Tilde}dongeng}",
             "{dulu}"
         ],
-        "trs": "later at bed-time he\u2019ll say, ``ah, I (\u2018father\u2019) \\bluebold{tell} you some stories first''' \\textstyleExampleSource{[081110-008-CvNP.0140]}"
+        "trs": "later at bed-time he\u2019ll say, ``ah, I (\u2018father\u2019) \\bluebold{tell} you some stories first''' \\textstyleExampleSource{[081110-008-CvNP.0140]}",
+        "wlength": 2
     },
     {
         "categories": [
             "3pl",
             "3sg"
         ],
+        "clength": 43,
         "filename": "78/11.tex",
         "imt": "now  \\textsc{3pl}  give  \\textsc{3sg}  flashlight",
         "imtwordsbare": [
@@ -84,7 +87,8 @@
             "dia",
             "senter"
         ],
-        "trs": "now they \\bluebold{give} him a flashlight\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}"
+        "trs": "now they \\bluebold{give} him a flashlight\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -92,6 +96,7 @@
             "3pl",
             "rdp"
         ],
+        "clength": 76,
         "filename": "78/11.tex",
         "imt": "\\textsc{1sg}  \\textsc{rdp}{\\Tilde}recently  say {}   oSb  send  \\textsc{3pl}  money",
         "imtwordsbare": [
@@ -157,7 +162,8 @@
             "uang!"
         ],
         "time": "present",
-        "trs": "just now I said, ``older sibling \\bluebold{send} them money!''' \\textstyleExampleSource{[080922-001a-CvPh.0860]}"
+        "trs": "just now I said, ``older sibling \\bluebold{send} them money!''' \\textstyleExampleSource{[080922-001a-CvPh.0860]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -167,6 +173,7 @@
             "poss",
             "prox"
         ],
+        "clength": 59,
         "filename": "78/11.tex",
         "imt": "\\textsc{2sg}  give  be.healed  \\textsc{1sg}  \\textsc{poss}  child  \\textsc{d.prox}",
         "imtwordsbare": [
@@ -225,10 +232,12 @@
             "ana",
             "ini!"
         ],
-        "trs": "[Addressing an evil spirit:] \u2018you \\bluebold{heal} this child of mine!\u2019 \\textstyleExampleSource{[081006-023-CvEx.0031]}"
+        "trs": "[Addressing an evil spirit:] \u2018you \\bluebold{heal} this child of mine!\u2019 \\textstyleExampleSource{[081006-023-CvEx.0031]}",
+        "wlength": 7
     },
     {
         "categories": [],
+        "clength": 23,
         "filename": "78/11.tex",
         "imt": "{fall(.prematurely)}  {}",
         "imtwordsbare": [
@@ -258,13 +267,15 @@
             "{\\bluebold{gugur}}",
             "{\u00d8}"
         ],
-        "trs": "once she had the thought that she wanted to \\bluebold{abort} (the child)\u2019 \\textstyleExampleSource{[080917-010-CvEx.0097]}"
+        "trs": "once she had the thought that she wanted to \\bluebold{abort} (the child)\u2019 \\textstyleExampleSource{[080917-010-CvEx.0097]}",
+        "wlength": 2
     },
     {
         "categories": [
             "rdp",
             "recp"
         ],
+        "clength": 83,
         "filename": "78/11.tex",
         "imt": "school {}   {\\textsc{recp}}  {kiss}  at  {\\textsc{rdp}{\\Tilde}edge}",
         "imtwordsbare": [
@@ -317,13 +328,15 @@
             "di",
             "{pinggir{\\Tilde}pinggir}"
         ],
-        "trs": "the girls (and) boys are \\bluebold{courting each other} at the edge of the school (grounds), {\\ldots} (they) are \\bluebold{kissing each other} at the edges (of the school grounds)\u2019 \\textstyleExampleSource{[081115-001a-Cv.0017]}"
+        "trs": "the girls (and) boys are \\bluebold{courting each other} at the edge of the school (grounds), {\\ldots} (they) are \\bluebold{kissing each other} at the edges (of the school grounds)\u2019 \\textstyleExampleSource{[081115-001a-Cv.0017]}",
+        "wlength": 6
     },
     {
         "categories": [
             "1pl",
             "recp"
         ],
+        "clength": 110,
         "coordination": "or",
         "filename": "78/11.tex",
         "imt": "with  {Siduas}  {or}   {} {\\textsc{1pl}}  {\\textsc{recp}}  {hold}  {right?}",
@@ -389,13 +402,15 @@
             "{\\bluebold{gendong}}",
             "{to?}"
         ],
-        "trs": "[During a phone conversation between a father and his children:] \u2018you (\u2018Nofela\u2019) will \\bluebold{hold me (\u2018father\u2019)} or I (\u2018father\u2019) will \\bluebold{hold you (\u2018Nofela\u2019) and Siduas} {\\ldots} we\u2019ll \\bluebold{hold each other}, right?\u2019 \\textstyleExampleSource{[080922-001a-CvPh.0687/0695]}"
+        "trs": "[During a phone conversation between a father and his children:] \u2018you (\u2018Nofela\u2019) will \\bluebold{hold me (\u2018father\u2019)} or I (\u2018father\u2019) will \\bluebold{hold you (\u2018Nofela\u2019) and Siduas} {\\ldots} we\u2019ll \\bluebold{hold each other}, right?\u2019 \\textstyleExampleSource{[080922-001a-CvPh.0687/0695]}",
+        "wlength": 8
     },
     {
         "categories": [
             "1pl",
             "recp"
         ],
+        "clength": 82,
         "filename": "78/11.tex",
         "imt": "\\textsc{1pl}  want  \\textsc{recp}  divide  voice  how",
         "imtwordsbare": [
@@ -449,7 +464,8 @@
             "\\bluebold{swara}",
             "bagemana\\textup{?}"
         ],
-        "trs": "[About upcoming local elections:] \u2018how do we want to \\bluebold{share the votes together}?\u2019 \\textstyleExampleSource{[080919-001-Cv.0165]}"
+        "trs": "[About upcoming local elections:] \u2018how do we want to \\bluebold{share the votes together}?\u2019 \\textstyleExampleSource{[080919-001-Cv.0165]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -457,6 +473,7 @@
             "neg",
             "recp"
         ],
+        "clength": 80,
         "filename": "78/11.tex",
         "imt": "\\textsc{1sg}  \\textsc{neg}  ever  \\textsc{recp}  feel.angry(.about)  with  person  be.different",
         "imtwordsbare": [
@@ -521,10 +538,12 @@
             "orang",
             "laing"
         ],
-        "trs": "I never \\bluebold{get angry with} other people\u2019 (Lit. \u2018\\bluebold{feel angry about each other with} another person\u2019) \\textstyleExampleSource{[081110-008-CvNP.0067]}"
+        "trs": "I never \\bluebold{get angry with} other people\u2019 (Lit. \u2018\\bluebold{feel angry about each other with} another person\u2019) \\textstyleExampleSource{[081110-008-CvNP.0067]}",
+        "wlength": 8
     },
     {
         "categories": [],
+        "clength": 105,
         "filename": "78/11.tex",
         "imt": "{spiny.bandicoot}  {exist}  {crab}  uh  {crab}  exist  {fish}",
         "imtwordsbare": [
@@ -583,13 +602,15 @@
             "ada",
             "{\\bluebold{ikang}}"
         ],
-        "trs": "[After a successful hunt:] \u2018(my) wife saw, ``wow!, that bag is full'', there was \\bluebold{cuscus}, there were \\bluebold{bandicoots}, there were \\bluebold{crabs}, uh, \\bluebold{crabs}, there were \\bluebold{fish}\u2019 \\textstyleExampleSource{[080919-004-NP.0031]}"
+        "trs": "[After a successful hunt:] \u2018(my) wife saw, ``wow!, that bag is full'', there was \\bluebold{cuscus}, there were \\bluebold{bandicoots}, there were \\bluebold{crabs}, uh, \\bluebold{crabs}, there were \\bluebold{fish}\u2019 \\textstyleExampleSource{[080919-004-NP.0031]}",
+        "wlength": 7
     },
     {
         "categories": [
             "l",
             "med"
         ],
+        "clength": 53,
         "filename": "78/11.tex",
         "imt": "{} pig {\\hspace{6pt}} exist  at  \\textsc{l.med}",
         "imtwordsbare": [
@@ -642,7 +663,8 @@
             "{di}",
             "{situ}"
         ],
-        "trs": "\\bluebold{the pig} is there\u2019 \\textstyleExampleSource{[Elicited MY131105.004]}"
+        "trs": "\\bluebold{the pig} is there\u2019 \\textstyleExampleSource{[Elicited MY131105.004]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -650,6 +672,7 @@
             "l",
             "med"
         ],
+        "clength": 110,
         "filename": "78/11.tex",
         "imt": "{}  {man}  \\textsc{3sg}  write  {at}   paper  already  \\textsc{l.med}  \\textsc{3sg}  exist \\textsc{3sg}  {already}  {make}  {list}",
         "imtwordsbare": [
@@ -750,13 +773,15 @@
             "{biking}",
             "{daftar}"
         ],
-        "trs": "[Enrolling for a sports team:] \u2018[Herman gave his name,] the man wrote (it) on a paper, that\u2019s it, there it \\bluebold{was}!, he (the man) had already made a list\u2019 \\textstyleExampleSource{[081023-001-Cv.0001]}"
+        "trs": "[Enrolling for a sports team:] \u2018[Herman gave his name,] the man wrote (it) on a paper, that\u2019s it, there it \\bluebold{was}!, he (the man) had already made a list\u2019 \\textstyleExampleSource{[081023-001-Cv.0001]}",
+        "wlength": 14
     },
     {
         "categories": [
             "3pl",
             "poss"
         ],
+        "clength": 22,
         "filename": "78/11.tex",
         "imt": "\\textsc{3pl}  {\\textsc{poss}}  {tutelary.spirit}",
         "imtwordsbare": [
@@ -791,10 +816,12 @@
             "{pu}",
             "{penunggu}"
         ],
-        "trs": "those people were \\bluebold{as ferocious as} their tutelary spirits\u2019 \\textstyleExampleSource{[081025-006-Cv.0286]}"
+        "trs": "those people were \\bluebold{as ferocious as} their tutelary spirits\u2019 \\textstyleExampleSource{[081025-006-Cv.0286]}",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 51,
         "filename": "78/11.tex",
         "imt": "{} be.same  just  {}",
         "imtwordsbare": [
@@ -835,6 +862,7 @@
             "saja",
             "{\\bluebold{\u00d8}}"
         ],
-        "trs": "the missionaries\u2019 children are just \\bluebold{the same} (as the Yali children in terms of \\bluebold{being adventurous})\u2019 \\textstyleExampleSource{[081011-022-Cv.0280]}"
+        "trs": "the missionaries\u2019 children are just \\bluebold{the same} (as the Yali children in terms of \\bluebold{being adventurous})\u2019 \\textstyleExampleSource{[081011-022-Cv.0280]}",
+        "wlength": 4
     }
 ]

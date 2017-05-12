@@ -1,6 +1,7 @@
 [
     {
         "categories": [],
+        "clength": 13,
         "filename": "98/syntax.tex",
         "imt": "wik\u1d43",
         "imtwordsbare": [
@@ -23,10 +24,12 @@
         "srcwordstex": [
             "\\textsc{head}"
         ],
-        "trs": "children"
+        "trs": "children",
+        "wlength": 1
     },
     {
         "categories": [],
+        "clength": 28,
         "filename": "98/syntax.tex",
         "imt": "wika d\u00ed\u00ed",
         "imtwordsbare": [
@@ -55,10 +58,12 @@
             "\\textsc{head}",
             "\\textsc{anaph}"
         ],
-        "trs": "those (specific) children"
+        "trs": "those (specific) children",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 27,
         "filename": "98/syntax.tex",
         "imt": "wika \\'{\u0272}c\u00ec",
         "imtwordsbare": [
@@ -87,10 +92,12 @@
             "\\textsc{head}",
             "\\textsc{poss}"
         ],
-        "trs": "my children"
+        "trs": "my children",
+        "wlength": 2
     },
     {
         "categories": [],
+        "clength": 42,
         "filename": "98/syntax.tex",
         "imt": "wika d\u00ed\u00ed \\'{\u0272}c\u00ec",
         "imtwordsbare": [
@@ -125,10 +132,12 @@
             "\\textsc{anaph}",
             "\\textsc{poss}"
         ],
-        "trs": "those (specific) children of mine"
+        "trs": "those (specific) children of mine",
+        "wlength": 3
     },
     {
         "categories": [],
+        "clength": 55,
         "filename": "98/syntax.tex",
         "imt": "wika d\u00ed\u00ed \\'{\u0272}c\u00ec\u00e8 l\u00e8\u0253\u00e8ts\u00e8",
         "imtwordsbare": [
@@ -169,10 +178,12 @@
             "\\textsc{poss}",
             "\\textsc{num}"
         ],
-        "trs": "those two (specific) children of mine"
+        "trs": "those two (specific) children of mine",
+        "wlength": 4
     },
     {
         "categories": [],
+        "clength": 82,
         "filename": "98/syntax.tex",
         "imt": "wika d\u00ed\u00ed \\'{\u0272}cie le\u0253etse n\u00edi ni",
         "imtwordsbare": [
@@ -225,13 +236,15 @@
             "\\textsc{temp}",
             "\\textsc{dem}"
         ],
-        "trs": "those two (specific) children of mine from earlier, these"
+        "trs": "those two (specific) children of mine from earlier, these",
+        "wlength": 6
     },
     {
         "categories": [
             "3sg",
             "nom"
         ],
+        "clength": 73,
         "filename": "98/syntax.tex",
         "imt": "sleep:\\textsc{3sg}   dog:\\textsc{nom}",
         "imtwordsbare": [
@@ -260,7 +273,8 @@
             "Epa\\textsc{\\textsubscript{v}}\\textsc{}",
             "\u014b\u00f3k\u1d43\\textsc{\\textsubscript{s}}."
         ],
-        "trs": "The dog sleeps."
+        "trs": "The dog sleeps.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -268,6 +282,7 @@
             "abl",
             "nom"
         ],
+        "clength": 132,
         "filename": "98/syntax.tex",
         "imt": "sleep:\\textsc{3sg}=yester-   dog:\\textsc{nom}   shade:\\textsc{abl}",
         "imtwordsbare": [
@@ -302,7 +317,8 @@
             "\u014b\u00f3k\u00e1\\textsc{\\textsubscript{s}}",
             "kur\u00fa\\textsc{\\textsubscript{e}}."
         ],
-        "trs": "The dog slept in the shade yesterday."
+        "trs": "The dog slept in the shade yesterday.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -310,6 +326,7 @@
             "acc",
             "nom"
         ],
+        "clength": 110,
         "filename": "98/syntax.tex",
         "imt": "gnaw:\\textsc{3sg}  dog:\\textsc{nom}  bone:\\textsc{acc}",
         "imtwordsbare": [
@@ -344,7 +361,8 @@
             "\u014b\u00f3k\u00e1\\textsc{\\textsubscript{a}}",
             "\u0254k\u00e1k\u1d43\\textsc{\\textsubscript{o}}\\textsc{.}"
         ],
-        "trs": "The dog gnaws the bone."
+        "trs": "The dog gnaws the bone.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -353,6 +371,7 @@
             "ins",
             "nom"
         ],
+        "clength": 173,
         "filename": "98/syntax.tex",
         "imt": "gnaw:\\textsc{3sg}=yester-  dog:\\textsc{nom}  bone:\\textsc{acc}  day:\\textsc{ins}",
         "imtwordsbare": [
@@ -393,7 +412,8 @@
             "\u0254k\u00e1\u00e1\\textsc{\\textsubscript{o}}",
             "\u00f3d\u00e0t\u00f9\\textsc{\\textsubscript{e}}"
         ],
-        "trs": "The dog gnawed the bone all day yesterday."
+        "trs": "The dog gnawed the bone all day yesterday.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -402,6 +422,7 @@
             "dat",
             "nom"
         ],
+        "clength": 138,
         "filename": "98/syntax.tex",
         "imt": "give:\\textsc{3sg}   hunter:\\textsc{nom}   bone:\\textsc{acc}   dog:\\textsc{dat}",
         "imtwordsbare": [
@@ -442,13 +463,15 @@
             "\u0254k\u00e1\u00e1\\textsc{\\textsubscript{o}}",
             "\u014b\u00f3k\u00edk\u1d49\\textsc{\\textsubscript{e}}."
         ],
-        "trs": "The hunter gives a bone to the dog."
+        "trs": "The hunter gives a bone to the dog.",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg",
             "nom"
         ],
+        "clength": 70,
         "filename": "98/syntax.tex",
         "imt": "laugh:\\textsc{1sg}   I:\\textsc{nom}",
         "imtwordsbare": [
@@ -477,7 +500,8 @@
             "Fek\u00ed\u00e0\\textsc{\\textsubscript{v}}",
             "\\`{\u014b}k\u1d43\\textsc{\\textsubscript{v}}."
         ],
-        "trs": "I laugh\u2019."
+        "trs": "I laugh\u2019.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -485,6 +509,7 @@
             "caus",
             "nom"
         ],
+        "clength": 75,
         "filename": "98/syntax.tex",
         "imt": "laugh:\\textsc{caus:2sg} I:\\textsc{nom}",
         "imtwordsbare": [
@@ -513,7 +538,8 @@
             "Fekit\u00e9\u00edd\u00e0\\textsc{\\textsubscript{va}}",
             "{\\`{\u014b}k\u1d43}\\textsc{\\textsubscript{o}}."
         ],
-        "trs": "You make me laugh."
+        "trs": "You make me laugh.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -522,6 +548,7 @@
             "dat",
             "nom"
         ],
+        "clength": 105,
         "filename": "98/syntax.tex",
         "imt": "drink:\\textsc{caus:2sg} I:\\textsc{nom}    water:\\textsc{dat}",
         "imtwordsbare": [
@@ -556,7 +583,8 @@
             "\u014bka\\textsc{\\textsubscript{o}}",
             "cu\u00e9k\u1d49\\textsc{\\textsubscript{E}}."
         ],
-        "trs": "You make me drink water."
+        "trs": "You make me drink water.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -565,6 +593,7 @@
             "exc",
             "recent"
         ],
+        "clength": 109,
         "filename": "98/syntax.tex",
         "imt": "\\textsc{recent:1pl.exc}   come     garden:\\textsc{abl}",
         "imtwordsbare": [
@@ -599,7 +628,8 @@
             "atsa\\textsc{\\textsubscript{v}}",
             "s\u00e9d\u00e0\u1d52\\textsc{\\textsubscript{e}}."
         ],
-        "trs": "We just came from the garden."
+        "trs": "We just came from the garden.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -609,6 +639,7 @@
             "ins=dem",
             "pst1"
         ],
+        "clength": 155,
         "filename": "98/syntax.tex",
         "imt": "\\textsc{anticip:3sg=pst1}   kill   goat:\\textsc{acc} morn:\\textsc{ins=dem.pst1}",
         "imtwordsbare": [
@@ -649,7 +680,8 @@
             "ri\u00e1\u00e1\\textsc{\\textsubscript{o}}",
             "baratso\\textsc{\\textsubscript{e}}=n\u00e1k\u1d43."
         ],
-        "trs": "He already killed the goat earlier this morning."
+        "trs": "He already killed the goat earlier this morning.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -657,6 +689,7 @@
             "dur",
             "nom"
         ],
+        "clength": 103,
         "filename": "98/syntax.tex",
         "imt": "\\textsc{dur}:\\textsc{3sg}   garden:\\textsc{nom}   unripe",
         "imtwordsbare": [
@@ -691,7 +724,8 @@
             "s\u00e9da\\textsc{\\textsubscript{s}}",
             "ts\u02bc\u00e1gw\u00e0\\textsc{\\textsubscript{v}}."
         ],
-        "trs": "The garden is still unripe."
+        "trs": "The garden is still unripe.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -700,6 +734,7 @@
             "nom",
             "prf"
         ],
+        "clength": 91,
         "filename": "98/syntax.tex",
         "imt": "finish:\\textsc{1sg:prf}   to.read:\\textsc{nom}   book:\\textsc{gen}",
         "imtwordsbare": [
@@ -734,7 +769,8 @@
             "[is\u00f3m\u00e9\u00e9s\u00e1",
             "\u0272\u00e1\u0253\u00fakwi]\\textsc{\\textsubscript{o}}."
         ],
-        "trs": "I have finished reading the book."
+        "trs": "I have finished reading the book.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -742,6 +778,7 @@
             "acc",
             "prf"
         ],
+        "clength": 75,
         "filename": "98/syntax.tex",
         "imt": "begin:\\textsc{3pl:prf}   praying:\\textsc{acc}",
         "imtwordsbare": [
@@ -770,13 +807,15 @@
             "Itsyaket\u00e1taa\\textsc{\\textsubscript{va}}",
             "w\u00e1\u00e1n\u00e0k\u1d43\\textsc{\\textsubscript{o}}."
         ],
-        "trs": "They have begun praying."
+        "trs": "They have begun praying.",
+        "wlength": 2
     },
     {
         "categories": [
             "ins",
             "nom"
         ],
+        "clength": 103,
         "filename": "98/syntax.tex",
         "imt": "fight:3   children:\\textsc{nom}   playing:\\textsc{ins}",
         "imtwordsbare": [
@@ -811,13 +850,15 @@
             "wika\\textsc{\\textsubscript{s}}",
             "w\u00e1\u00e1k\u1d52\\textsc{\\textsubscript{e}}."
         ],
-        "trs": "The children are busy playing."
+        "trs": "The children are busy playing.",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg",
             "nom"
         ],
+        "clength": 70,
         "filename": "98/syntax.tex",
         "imt": "be:\\textsc{3sg}   rain.top:\\textsc{nom}",
         "imtwordsbare": [
@@ -846,13 +887,15 @@
             "Ia\\textsc{\\textsubscript{v}}",
             "didigwar\u00ed\\textsc{\\textsubscript{cs}}."
         ],
-        "trs": "Heaven [i.e. God] is (there)."
+        "trs": "Heaven [i.e. God] is (there).",
+        "wlength": 2
     },
     {
         "categories": [
             "dat",
             "nom"
         ],
+        "clength": 108,
         "filename": "98/syntax.tex",
         "imt": "be:3   enemies:\\textsc{nom}   way:\\textsc{dat}",
         "imtwordsbare": [
@@ -887,12 +930,14 @@
             "l\u0254\u014b\\'{\u0254}t\u00e1\\textsc{\\textsubscript{cs}}",
             "muce\u00e9k\u1d49\\textsc{\\textsubscript{cc}}."
         ],
-        "trs": "Enemies are on the way."
+        "trs": "Enemies are on the way.",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg"
         ],
+        "clength": 69,
         "filename": "98/syntax.tex",
         "imt": "be:\\textsc{3sg}   like.this",
         "imtwordsbare": [
@@ -921,7 +966,8 @@
             "Ira\\textsc{\\textsubscript{vcs}}",
             "t\u00edy\u00e9\\textsc{\\textsubscript{adv}}."
         ],
-        "trs": "It is like this."
+        "trs": "It is like this.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -929,6 +975,7 @@
             "nom",
             "obl"
         ],
+        "clength": 103,
         "filename": "98/syntax.tex",
         "imt": "be:\\textsc{1sg}   I:\\textsc{nom}    father.your:\\textsc{obl}",
         "imtwordsbare": [
@@ -963,7 +1010,8 @@
             "\u014bka\\textsc{\\textsubscript{cs}}",
             "b\u00e1b\u00f2\\textsc{\\textsubscript{cc}}."
         ],
-        "trs": "I am your father."
+        "trs": "I am your father.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -971,6 +1019,7 @@
             "gen",
             "nom"
         ],
+        "clength": 105,
         "filename": "98/syntax.tex",
         "imt": "be:\\textsc{3sg}   home:\\textsc{nom}=this   we:\\textsc{gen}",
         "imtwordsbare": [
@@ -1005,7 +1054,8 @@
             "[awa=na]\\textsc{\\textsubscript{cs}}",
             "\u014bg\u00f3\u1d49\\textsc{\\textsubscript{cc}}."
         ],
-        "trs": "This house is ours."
+        "trs": "This house is ours.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1013,6 +1063,7 @@
             "exc",
             "nom"
         ],
+        "clength": 117,
         "filename": "98/syntax.tex",
         "imt": "want:\\textsc{1pl.exc}   we:\\textsc{nom}  beer:\\textsc{nom}",
         "imtwordsbare": [
@@ -1048,7 +1099,8 @@
             "{\\`{\u014b}gw\u00e0}\\textsc{\\textsubscript{a}}",
             "m\\`{\u025b}s\\textsc{\\textsubscript{o}}."
         ],
-        "trs": "We want beer."
+        "trs": "We want beer.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1057,6 +1109,7 @@
             "nom",
             "prf"
         ],
+        "clength": 26,
         "filename": "98/syntax.tex",
         "imt": "not:\\textsc{prf}   see:\\textsc{1sg}   money:\\textsc{nom}=\\textsc{anaph}",
         "imtwordsbare": [
@@ -1091,7 +1144,8 @@
             "en\u00ed\u00ed",
             "ka\u00fadza=d\u00ed\u00ed."
         ],
-        "trs": "I haven\u2019t seen that money."
+        "trs": "I haven\u2019t seen that money.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1100,6 +1154,7 @@
             "nom",
             "prf"
         ],
+        "clength": 28,
         "filename": "98/syntax.tex",
         "imt": "money:\\textsc{nom}=\\textsc{anaph}   not:\\textsc{prf}   see:\\textsc{1sg}",
         "imtwordsbare": [
@@ -1134,7 +1189,8 @@
             "m\u00e9e",
             "en\u00ed."
         ],
-        "trs": "That money, I haven\u2019t seen (it)."
+        "trs": "That money, I haven\u2019t seen (it).",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1145,6 +1201,7 @@
             "prf",
             "rel"
         ],
+        "clength": 143,
         "filename": "98/syntax.tex",
         "imt": "hear:\\textsc{1pl.exc:prf}  story:\\textsc{nom}=\\textsc{rel}   sweet:\\textsc{3sg}",
         "imtwordsbare": [
@@ -1179,7 +1236,8 @@
             "emuta\\textsc{\\textsubscript{ca}}=[n\u025b\\textsc{\\textsubscript{s}}",
             "\\'{\u025b}f\\textsc{\\textsubscript{v}}{]}\\textsc{\\textsubscript{rel}}."
         ],
-        "trs": "We\u2019ve heard a story that is funny."
+        "trs": "We\u2019ve heard a story that is funny.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1189,6 +1247,7 @@
             "prf",
             "rel"
         ],
+        "clength": 171,
         "filename": "98/syntax.tex",
         "imt": "come:\\textsc{3sg}:\\textsc{prf}   child=\\textsc{rel}   I:\\textsc{acc}   mention:\\textsc{1sg}",
         "imtwordsbare": [
@@ -1229,7 +1288,8 @@
             "\u0272cia\\textsc{\\textsubscript{a}}",
             "t\u00e1k\u00ed\\textsc{\\textsubscript{v}}{]}\\textsc{\\textsubscript{rel}}."
         ],
-        "trs": "The child I mentioned earlier has come."
+        "trs": "The child I mentioned earlier has come.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1238,6 +1298,7 @@
             "dp",
             "seq"
         ],
+        "clength": 73,
         "filename": "98/syntax.tex",
         "imt": "when   he:\\textsc{3sg}   die:\\textsc{3sg:dp}     cry:\\textsc{1sg:seq}",
         "imtwordsbare": [
@@ -1278,7 +1339,8 @@
             "badu\u0199ot\u00e2d\u1d49]\\textsc{\\textsubscript{temp}},",
             "\u0199\\'{\u0254}\u0257\u0268ak\u1d52."
         ],
-        "trs": "When he died, I cried."
+        "trs": "When he died, I cried.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1288,6 +1350,7 @@
             "seq",
             "sim"
         ],
+        "clength": 80,
         "filename": "98/syntax.tex",
         "imt": "as   he:\\textsc{3sg}   die:\\textsc{3sg:sim}    cry:\\textsc{ipfv}:\\textsc{1sg:seq}",
         "imtwordsbare": [
@@ -1328,7 +1391,8 @@
             "bad\u00fa\u0199\u00f3t\u00eck\u1d49]\\textsc{\\textsubscript{simul}},",
             "\u0199\\'{\u0254}\u0257\\'{\u025b}s\u0268ak\u1d52."
         ],
-        "trs": "As he was dying, I was crying."
+        "trs": "As he was dying, I was crying.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1337,6 +1401,7 @@
             "nom",
             "seq"
         ],
+        "clength": 71,
         "filename": "98/syntax.tex",
         "imt": "if   he:\\textsc{nom}   die:\\textsc{3sg:seq}     cry:\\textsc{1sg:seq}",
         "imtwordsbare": [
@@ -1377,13 +1442,15 @@
             "bad\u00fa\u0199\u00f3t\u00f9k\u1d52]\\textsc{\\textsubscript{cond}},",
             "\u0199\\'{\u0254}\u0257\u0268ak\u1d52."
         ],
-        "trs": "If he dies, I\u2019ll cry."
+        "trs": "If he dies, I\u2019ll cry.",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg",
             "seq"
         ],
+        "clength": 20,
         "filename": "98/syntax.tex",
         "imt": "cry:\\textsc{1sg:seq}  would\u2019ve",
         "imtwordsbare": [
@@ -1412,7 +1479,8 @@
             "\u0199\\'{\u0254}\u0257\u0268aa",
             "\u0199\u00e1n\u00f2k\u1d52."
         ],
-        "trs": "I would\u2019ve cried."
+        "trs": "I would\u2019ve cried.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1422,6 +1490,7 @@
             "sg",
             "sim"
         ],
+        "clength": 64,
         "filename": "98/syntax.tex",
         "imt": "die:\\textsc{3sg:seq}   (he:\\textsc{acc})  peaceful:3\\textsc{sg:sim}",
         "imtwordsbare": [
@@ -1456,7 +1525,8 @@
             "[(nts\u00ed\u00e1)",
             "tis\u00edl\u00edk\u1d49]\\textsc{\\textsubscript{manner}}."
         ],
-        "trs": "And he died peacefully (lit. \u2018he being peaceful\u2019)."
+        "trs": "And he died peacefully (lit. \u2018he being peaceful\u2019).",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1465,6 +1535,7 @@
             "ips",
             "prf"
         ],
+        "clength": 62,
         "filename": "98/syntax.tex",
         "imt": "die:\\textsc{3sg:prf}   because   shoot:\\textsc{ips:3sg:dp}",
         "imtwordsbare": [
@@ -1499,7 +1570,8 @@
             "[\u0257\u00fa\u00f3",
             "\u00eddzan\u00e2d\u1d49]\\textsc{\\textsubscript{reason}}."
         ],
-        "trs": "He has died because he was shot."
+        "trs": "He has died because he was shot.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1508,6 +1580,7 @@
             "acc",
             "sim"
         ],
+        "clength": 82,
         "filename": "98/syntax.tex",
         "imt": "even   he:\\textsc{acc}   die:\\textsc{3sg:sim}    not   cry:\\textsc{1sg}",
         "imtwordsbare": [
@@ -1555,7 +1628,8 @@
             "\u0144t\u00e1",
             "\u0199\\'{\u0254}\u0257{\\\u00cd}."
         ],
-        "trs": "Even if he dies, I will not cry."
+        "trs": "Even if he dies, I will not cry.",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1564,6 +1638,7 @@
             "nf",
             "prf"
         ],
+        "clength": 10,
         "filename": "98/syntax.tex",
         "imt": "finish:\\textsc{comp:3sg:prf}[\\textsc{nf}]",
         "imtwordsbare": [
@@ -1586,7 +1661,8 @@
         "srcwordstex": [
             "N\u00e1b\u0289\u0199\u0254t\u00e1\u00e0?"
         ],
-        "trs": "Is it finished?"
+        "trs": "Is it finished?",
+        "wlength": 1
     },
     {
         "categories": [
@@ -1594,6 +1670,7 @@
             "comp",
             "prf[ff]"
         ],
+        "clength": 15,
         "filename": "98/syntax.tex",
         "imt": "yes finish:\\textsc{comp:3sg:prf[ff]}",
         "imtwordsbare": [
@@ -1622,12 +1699,14 @@
             "Ee,",
             "n\u00e1b\u0289\u0199\u0254t\u00e1k\u1d43."
         ],
-        "trs": "Yes, it is finished."
+        "trs": "Yes, it is finished.",
+        "wlength": 2
     },
     {
         "categories": [
             "cop[nf]"
         ],
+        "clength": 8,
         "filename": "98/syntax.tex",
         "imt": "woman:\\textsc{cop[nf]}",
         "imtwordsbare": [
@@ -1650,13 +1729,15 @@
         "srcwordstex": [
             "Cek\u00fa{\u00f4}?"
         ],
-        "trs": "Is it a woman?"
+        "trs": "Is it a woman?",
+        "wlength": 1
     },
     {
         "categories": [
             "cop",
             "nom"
         ],
+        "clength": 20,
         "filename": "98/syntax.tex",
         "imt": "yes woman:\\textsc{cop}   she:\\textsc{nom}",
         "imtwordsbare": [
@@ -1691,7 +1772,8 @@
             "cek\u00fa\u00f3",
             "ntsa\u1d43."
         ],
-        "trs": "Yes, it\u2019s a woman."
+        "trs": "Yes, it\u2019s a woman.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1700,6 +1782,7 @@
             "int",
             "real"
         ],
+        "clength": 19,
         "filename": "98/syntax.tex",
         "imt": "go:\\textsc{int:2sg:real}   where:\\textsc{dat}",
         "imtwordsbare": [
@@ -1728,7 +1811,8 @@
             "\u0198ees\u00edda",
             "nda\u00edk\u1d49?"
         ],
-        "trs": "You are going where?"
+        "trs": "You are going where?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1736,6 +1820,7 @@
             "nom",
             "real"
         ],
+        "clength": 21,
         "filename": "98/syntax.tex",
         "imt": "want:\\textsc{3sg:real}   what:\\textsc{nom}",
         "imtwordsbare": [
@@ -1765,7 +1850,8 @@
             "B\\'{\u025b}\u0257\u00e1",
             "\u00ecs\u00eck\u1d43?"
         ],
-        "trs": "He wants what?"
+        "trs": "He wants what?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1774,6 +1860,7 @@
             "dp",
             "real"
         ],
+        "clength": 18,
         "filename": "98/syntax.tex",
         "imt": "where:\\textsc{cop}   go:\\textsc{2sg:real:dp}",
         "imtwordsbare": [
@@ -1802,7 +1889,8 @@
             "Nda\u00ed\u00f3",
             "\u0199ees\u00edd\u00e0d\u1d49?"
         ],
-        "trs": "Where are you going?"
+        "trs": "Where are you going?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1810,6 +1898,7 @@
             "cop",
             "real"
         ],
+        "clength": 18,
         "filename": "98/syntax.tex",
         "imt": "what:\\textsc{cop}   want:\\textsc{3sg:real}",
         "imtwordsbare": [
@@ -1839,7 +1928,8 @@
             "Isio",
             "b\\'{\u025b}\u0257\u1d43?"
         ],
-        "trs": "What does he want?"
+        "trs": "What does he want?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1848,6 +1938,7 @@
             "cop",
             "real"
         ],
+        "clength": 28,
         "filename": "98/syntax.tex",
         "imt": "who:\\textsc{cop}   call:\\textsc{3sg:real}   I:\\textsc{acc}",
         "imtwordsbare": [
@@ -1882,7 +1973,8 @@
             "\u00f3\u00e1",
             "\\'{\u0272}c\u00eck\u1d43?"
         ],
-        "trs": "Who calls me?"
+        "trs": "Who calls me?",
+        "wlength": 3
     },
     {
         "categories": [
@@ -1890,6 +1982,7 @@
             "cop",
             "real"
         ],
+        "clength": 39,
         "filename": "98/syntax.tex",
         "imt": "which:\\textsc{cop}   mean:\\textsc{2sg:real}",
         "imtwordsbare": [
@@ -1918,7 +2011,8 @@
             "{\\'{N}t\\'{\u025b}\\'{\u025b}n\\'{\u0254}\\'{\u0254}",
             "t\u00e1k\u00eed\u1d43?}"
         ],
-        "trs": "Which (one) do you mean?"
+        "trs": "Which (one) do you mean?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -1927,6 +2021,7 @@
             "dat",
             "plur"
         ],
+        "clength": 76,
         "filename": "98/syntax.tex",
         "imt": "say:\\textsc{1sg}   you:\\textsc{dat} Turkana:\\textsc{cop=pst4} buy:\\textsc{plur}",
         "imtwordsbare": [
@@ -1967,7 +2062,8 @@
             "[Pak\u00f3\u00edc\u00e9o=noo",
             "dz\u00edgw\u00ec]\\textsc{\\textsubscript{quotation}}"
         ],
-        "trs": "I\u2019m telling you it was the Turkana who used to buy."
+        "trs": "I\u2019m telling you it was the Turkana who used to buy.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -1976,6 +2072,7 @@
             "imp",
             "ips"
         ],
+        "clength": 78,
         "filename": "98/syntax.tex",
         "imt": "say:\\textsc{ips} we.\\textsc{exc}:\\textsc{dat}  that   come:\\textsc{imp}   quickly",
         "imtwordsbare": [
@@ -2022,7 +2119,8 @@
             "[ats\u00fa\u00f3",
             "\u0257\\`{\u025b}m\\`{\u0289}s]\\textsc{\\textsubscript{quotation}}"
         ],
-        "trs": "They are saying to us, \u2018Come quickly!\u2019.\u201d"
+        "trs": "They are saying to us, \u2018Come quickly!\u2019.\u201d",
+        "wlength": 5
     },
     {
         "categories": [
@@ -2033,6 +2131,7 @@
             "exc",
             "prf"
         ],
+        "clength": 101,
         "filename": "98/syntax.tex",
         "imt": "see:\\textsc{3pl}   that:\\textsc{acc}    rich:\\textsc{comp:1pl.exc:prf}   very",
         "imtwordsbare": [
@@ -2073,7 +2172,8 @@
             "bar\u0289\u0199\u0254t{\\\u00cd}m\u00e1\u00e0",
             "z\u00f9k\u1d58]\\textsc{\\textsubscript{compl}}"
         ],
-        "trs": "They see that we have become very rich."
+        "trs": "They see that we have become very rich.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2081,6 +2181,7 @@
             "abl",
             "nom"
         ],
+        "clength": 70,
         "filename": "98/syntax.tex",
         "imt": "fear:\\textsc{1sg}   that:\\textsc{abl}   ill:\\textsc{1sg}   AIDS:\\textsc{nom}",
         "imtwordsbare": [
@@ -2121,7 +2222,8 @@
             "ma\u00ed\u00e1",
             "s\u00edl\u00edm]\\textsc{\\textsubscript{compl}}"
         ],
-        "trs": "I am afraid that I\u2019m ill with AIDS."
+        "trs": "I am afraid that I\u2019m ill with AIDS.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2129,6 +2231,7 @@
             "acc",
             "obl"
         ],
+        "clength": 77,
         "filename": "98/syntax.tex",
         "imt": "be:\\textsc{3sg} just   that[\\textsc{obl}]   not   hear:\\textsc{3sg} words:\\textsc{acc}",
         "imtwordsbare": [
@@ -2181,7 +2284,8 @@
             "nes\u00edbi",
             "m\u025bn\u00e1k\u1d43]\\textsc{\\textsubscript{compl}}"
         ],
-        "trs": "It is just that she doesn\u2019t understand instructions."
+        "trs": "It is just that she doesn\u2019t understand instructions.",
+        "wlength": 6
     },
     {
         "categories": [
@@ -2189,6 +2293,7 @@
             "abl",
             "nom"
         ],
+        "clength": 24,
         "filename": "98/syntax.tex",
         "imt": "big:\\textsc{1sg}   I:\\textsc{nom}   you:\\textsc{abl}",
         "imtwordsbare": [
@@ -2223,7 +2328,8 @@
             "\\'{\u014b}k\u00e0",
             "b\u00f9."
         ],
-        "trs": "I am bigger than you."
+        "trs": "I am bigger than you.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -2231,6 +2337,7 @@
             "abl",
             "nom"
         ],
+        "clength": 33,
         "filename": "98/syntax.tex",
         "imt": "nice:\\textsc{3sg}   this.one:\\textsc{nom}=this   that.one:\\textsc{abl}",
         "imtwordsbare": [
@@ -2265,7 +2372,8 @@
             "\u0257a=na",
             "k\u0268\u0257\\'{\u0254}\\'{\u0254}"
         ],
-        "trs": "This one is nicer than that one."
+        "trs": "This one is nicer than that one.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -2274,6 +2382,7 @@
             "plur",
             "sim"
         ],
+        "clength": 76,
         "filename": "98/syntax.tex",
         "imt": "cultivate:\\textsc{plur:3sg} grain:\\textsc{acc} surpass:\\textsc{3sg:sim} we:\\textsc{acc}",
         "imtwordsbare": [
@@ -2314,7 +2423,8 @@
             "[\u026al\\'{\u0254}{\\\u00cd}\u025b",
             "\u014bg\u00f3k\u1d43]\\textsc{\\textsubscript{sim}}"
         ],
-        "trs": "He cultivates grain more than us."
+        "trs": "He cultivates grain more than us.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2323,6 +2433,7 @@
             "recip",
             "seq"
         ],
+        "clength": 77,
         "filename": "98/syntax.tex",
         "imt": "kill:\\textsc{recip:3pl} exceed:\\textsc{3pl:seq} even government[\\textsc{obl}]",
         "imtwordsbare": [
@@ -2363,7 +2474,8 @@
             "toni",
             "\u0272erya\u014b]\\textsc{\\textsubscript{seq}}"
         ],
-        "trs": "They\u2019re killing each other even more than the government."
+        "trs": "They\u2019re killing each other even more than the government.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -2372,6 +2484,7 @@
             "acc",
             "nom"
         ],
+        "clength": 62,
         "filename": "98/syntax.tex",
         "imt": "love:\\textsc{1sg}   tea:\\textsc{nom}   love:\\textsc{3sg} she:\\textsc{nom}   beer:\\textsc{acc}",
         "imtwordsbare": [
@@ -2418,7 +2531,8 @@
             "ntsa",
             "m\\'{\u025b}s\\`{\u025b}k\u1d43."
         ],
-        "trs": "I love tea. She loves beer."
+        "trs": "I love tea. She loves beer.",
+        "wlength": 5
     },
     {
         "categories": [
@@ -2427,6 +2541,7 @@
             "plur",
             "real=pst"
         ],
+        "clength": 24,
         "filename": "98/syntax.tex",
         "imt": "hunt:\\textsc{plur:ipfv:ips:real=pst}   how",
         "imtwordsbare": [
@@ -2455,7 +2570,8 @@
             "\u0198a\u0199i\u00e9s\u00e1na=noo",
             "\u0144t\u00ed,"
         ],
-        "trs": "How did people used to go hunting,"
+        "trs": "How did people used to go hunting,",
+        "wlength": 2
     },
     {
         "categories": [
@@ -2465,6 +2581,7 @@
             "plur",
             "real=pst"
         ],
+        "clength": 48,
         "filename": "98/syntax.tex",
         "imt": "and   go:\\textsc{plur:ips:real=pst} pick:\\textsc{nom} greens:\\textsc{gen} how",
         "imtwordsbare": [
@@ -2511,7 +2628,8 @@
             "waic\u00edk\u00e9e",
             "\u0144t\u00ed?"
         ],
-        "trs": "and how did they used to go picking greens?"
+        "trs": "and how did they used to go picking greens?",
+        "wlength": 5
     },
     {
         "categories": [
@@ -2519,6 +2637,7 @@
             "dat",
             "seq"
         ],
+        "clength": 15,
         "filename": "98/syntax.tex",
         "imt": "return:\\textsc{1sg:seq} home:\\textsc{dat}",
         "imtwordsbare": [
@@ -2547,13 +2666,15 @@
             "It\u00e9timaa",
             "aw\u00e1k\u1d49,"
         ],
-        "trs": "We returned home,"
+        "trs": "We returned home,",
+        "wlength": 2
     },
     {
         "categories": [
             "gen",
             "obl"
         ],
+        "clength": 42,
         "filename": "98/syntax.tex",
         "imt": "and   we:\\textsc{obl}   to.eat:\\textsc{obl}   mush:\\textsc{gen}",
         "imtwordsbare": [
@@ -2594,13 +2715,15 @@
             "\u014b\u0199\\'{\u025b}s{\\\u00cd}",
             "t\u0254b\u0254\u014b\\'{\u0254}\u1d49."
         ],
-        "trs": "and we ate mealmush."
+        "trs": "and we ate mealmush.",
+        "wlength": 4
     },
     {
         "categories": [
             "3sg",
             "cop"
         ],
+        "clength": 29,
         "filename": "98/syntax.tex",
         "imt": "not:\\textsc{3sg}   I:\\textsc{cop}     you:\\textsc{cop}",
         "imtwordsbare": [
@@ -2636,7 +2759,8 @@
             "\\'{\u0272}c\u00f9k\u1d52.",
             "B\u00f9k\u1d52."
         ],
-        "trs": "It\u2019s not me. It\u2019s you."
+        "trs": "It\u2019s not me. It\u2019s you.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -2644,6 +2768,7 @@
             "comp",
             "nom"
         ],
+        "clength": 38,
         "coordination": "and",
         "filename": "98/syntax.tex",
         "imt": "search:\\textsc{comp:1sg=pst1}   hoe:\\textsc{nom}",
@@ -2673,13 +2798,15 @@
             "B\u025b\u0257\u0289\u0199\u0254t{\\\u00cd}a=naa",
             "\u0272\\'{\u025b}m\u025bl\u025bk\\'{\u0289},"
         ],
-        "trs": "I went and looked for the hoe,"
+        "trs": "I went and looked for the hoe,",
+        "wlength": 2
     },
     {
         "categories": [
             "1sg",
             "pst1"
         ],
+        "clength": 24,
         "filename": "98/syntax.tex",
         "imt": "but   not=\\textsc{pst1}   find:\\textsc{1sg}",
         "imtwordsbare": [
@@ -2715,7 +2842,8 @@
             "m\u00e1a=naa",
             "\u014bunet\u00ed."
         ],
-        "trs": "but I did not find (it)."
+        "trs": "but I did not find (it).",
+        "wlength": 3
     },
     {
         "categories": [
@@ -2723,6 +2851,7 @@
             "ipfv",
             "nom"
         ],
+        "clength": 28,
         "filename": "98/syntax.tex",
         "imt": "farm:\\textsc{ipfv:2sg}   grain:\\textsc{nom}",
         "imtwordsbare": [
@@ -2751,13 +2880,15 @@
             "T\u0254k\\'{\u0254}b\u025bs{\\\u00cd}da",
             "e\u0257a,"
         ],
-        "trs": "Are you farming grain,"
+        "trs": "Are you farming grain,",
+        "wlength": 2
     },
     {
         "categories": [
             "2sg",
             "ipfv"
         ],
+        "clength": 32,
         "filename": "98/syntax.tex",
         "imt": "or   not   farm:\\textsc{ipfv:2sg}",
         "imtwordsbare": [
@@ -2793,7 +2924,8 @@
             "\u0144t\u00e1",
             "t\u0254k\\'{\u0254}b\u025bs{\\\u00ce}d\\\u1da4?"
         ],
-        "trs": "or are you not farming (it)?"
+        "trs": "or are you not farming (it)?",
+        "wlength": 3
     },
     {
         "categories": [
@@ -2803,6 +2935,7 @@
             "nom",
             "sim"
         ],
+        "clength": 34,
         "filename": "98/syntax.tex",
         "imt": "see:\\textsc{2sg}   things:\\textsc{nom}   bad:\\textsc{distr:3pl:sim}",
         "imtwordsbare": [
@@ -2837,7 +2970,8 @@
             "m\u025bna",
             "gaanaak\u00e1t\u00eck\u1d49,"
         ],
-        "trs": "Do you see things being bad all around,"
+        "trs": "Do you see things being bad all around,",
+        "wlength": 3
     },
     {
         "categories": [
@@ -2845,6 +2979,7 @@
             "distr",
             "sim"
         ],
+        "clength": 21,
         "filename": "98/syntax.tex",
         "imt": "or   good:\\textsc{distr:3pl:sim}",
         "imtwordsbare": [
@@ -2873,7 +3008,8 @@
             "kori",
             "mar\u00e1\u014baak\u00e1t\u00eck\u1d49?"
         ],
-        "trs": "or as being good all around?"
+        "trs": "or as being good all around?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -2883,6 +3019,7 @@
             "nom",
             "seq"
         ],
+        "clength": 85,
         "filename": "98/syntax.tex",
         "imt": "put:\\textsc{3sg:seq}   shoes\\textsc{:nom}     gun:\\textsc{acc}",
         "imtwordsbare": [
@@ -2917,13 +3054,15 @@
             "ta\u0199\u00e1{\\\u00cd}ka",
             "\\'{\u025b}bak\u1d43]\\textsc{\\textsubscript{seq2}}"
         ],
-        "trs": "and the shoes made (the shape of) a gun,"
+        "trs": "and the shoes made (the shape of) a gun,",
+        "wlength": 3
     },
     {
         "categories": [
             "3sg",
             "seq"
         ],
+        "clength": 62,
         "filename": "98/syntax.tex",
         "imt": "cast:\\textsc{3sg:seq}   again",
         "imtwordsbare": [
@@ -2952,7 +3091,8 @@
             "[ipu\\textbf{{o}}",
             "na\u0253\u00f3]\\textsc{\\textsubscript{seq3}}"
         ],
-        "trs": "and he cast (them) again,"
+        "trs": "and he cast (them) again,",
+        "wlength": 2
     },
     {
         "categories": [
@@ -2960,6 +3100,7 @@
             "acc",
             "seq"
         ],
+        "clength": 62,
         "filename": "98/syntax.tex",
         "imt": "put:\\textsc{3pl}:\\textsc{seq}     gun:\\textsc{acc}",
         "imtwordsbare": [
@@ -2988,7 +3129,8 @@
             "[e\u0261\\textbf{{ini}}",
             "\\'{\u025b}bak\u1d43]\\textsc{\\textsubscript{seq4}}"
         ],
-        "trs": "and they made a gun."
+        "trs": "and they made a gun.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -2996,6 +3138,7 @@
             "ips",
             "sim"
         ],
+        "clength": 65,
         "filename": "98/syntax.tex",
         "imt": "when   get:\\textsc{ips:sim}   stone:\\textsc{dat}",
         "imtwordsbare": [
@@ -3030,7 +3173,8 @@
             "iry\u00e1m\u00e9tan{\\\u00cd}\\'{\u025b}",
             "gwas\u00e1k\u1d49]\\textsc{\\textsubscript{adv1}}"
         ],
-        "trs": "When a stone is acquired,"
+        "trs": "When a stone is acquired,",
+        "wlength": 3
     },
     {
         "categories": [
@@ -3038,6 +3182,7 @@
             "nom",
             "sps"
         ],
+        "clength": 65,
         "filename": "98/syntax.tex",
         "imt": "grind:\\textsc{inch:sps}   soda.ash:\\textsc{nom}",
         "imtwordsbare": [
@@ -3066,7 +3211,8 @@
             "[\u014b\u0254\\'{\u025b}\\textbf{\u025bs\u025b}",
             "\u0272a\u0253\u00e1l\u00e1\u014b\u0268t\u1d43]\\textsc{\\textsubscript{seq1}}"
         ],
-        "trs": "soda ash is ground up."
+        "trs": "soda ash is ground up.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -3074,6 +3220,7 @@
             "mid",
             "sim"
         ],
+        "clength": 67,
         "filename": "98/syntax.tex",
         "imt": "when   soda.ash:\\textsc{acc}   pulverize:\\textsc{mid:sim}",
         "imtwordsbare": [
@@ -3108,13 +3255,15 @@
             "\u0272a\u0253\u00e1l\u00e1\u014b\u0268t{\\\u00cd}\u00e1",
             "iw\u00ed\u0257\u00edm\u00e8t\u00eck\u1d49]\\textsc{\\textsubscript{adv2}}"
         ],
-        "trs": "When the soda ash is ground to powder,"
+        "trs": "When the soda ash is ground to powder,",
+        "wlength": 3
     },
     {
         "categories": [
             "comp",
             "seq"
         ],
+        "clength": 62,
         "filename": "98/syntax.tex",
         "imt": "until powdery:\\textsc{comp:seq}",
         "imtwordsbare": [
@@ -3143,7 +3292,8 @@
             "[p\u00e1ka",
             "\u0272ap\u00fa\u0257\u00fam\u00f9\u0199\u00f2t\u00f9\\textbf{k\\\u1d52}{]}\\textsc{\\textsubscript{seq4}}"
         ],
-        "trs": "until it becomes fine powder."
+        "trs": "until it becomes fine powder.",
+        "wlength": 2
     },
     {
         "categories": [
@@ -3152,6 +3302,7 @@
             "nom",
             "seq"
         ],
+        "clength": 76,
         "filename": "98/syntax.tex",
         "imt": "if   want:\\textsc{2sg:seq}   to.build:\\textsc{nom}  house:\\textsc{gen}",
         "imtwordsbare": [
@@ -3193,13 +3344,15 @@
             "b\u025br\\'{\u025b}s\u00e1",
             "hoe]\\textsc{\\textsubscript{adv}}"
         ],
-        "trs": "If you want to build a house,"
+        "trs": "If you want to build a house,",
+        "wlength": 4
     },
     {
         "categories": [
             "imp",
             "pl"
         ],
+        "clength": 75,
         "coordination": "and",
         "filename": "98/syntax.tex",
         "imt": "cut:\\textsc{imp}   pole:\\textsc{pl}   reed:\\textsc{pl}    and   fiber",
@@ -3247,7 +3400,8 @@
             "\u0144da",
             "sim]\\textsc{\\textsubscript{imp2}}"
         ],
-        "trs": "Cut poles, reeds, and fiber,"
+        "trs": "Cut poles, reeds, and fiber,",
+        "wlength": 5
     },
     {
         "categories": [
@@ -3256,6 +3410,7 @@
             "nom",
             "seq"
         ],
+        "clength": 65,
         "filename": "98/syntax.tex",
         "imt": "clear:\\textsc{comp:2sg:seq}   area:\\textsc{nom}",
         "imtwordsbare": [
@@ -3284,7 +3439,8 @@
             "[ir\u00e9\u0272u\u0199oidu\\textbf{o}",
             "b\u00e1c{\\\u00cd}k\u1d43]\\textsc{\\textsubscript{seq1}}"
         ],
-        "trs": "clear away the area,"
+        "trs": "clear away the area,",
+        "wlength": 2
     },
     {
         "categories": [
@@ -3293,6 +3449,7 @@
             "pl",
             "seq"
         ],
+        "clength": 56,
         "filename": "98/syntax.tex",
         "imt": "dig:\\textsc{2sg:seq}   hole:\\textsc{pl:nom}",
         "imtwordsbare": [
@@ -3321,7 +3478,8 @@
             "[\u00fagidu\\textbf{o}",
             "ripit\u00edn]\\textsc{\\textsubscript{seq2}}"
         ],
-        "trs": "dig holes,"
+        "trs": "dig holes,",
+        "wlength": 2
     },
     {
         "categories": [
@@ -3331,6 +3489,7 @@
             "pl",
             "seq"
         ],
+        "clength": 61,
         "filename": "98/syntax.tex",
         "imt": "pour:\\textsc{2sg:seq:dp}   pole:\\textsc{pl:nom}",
         "imtwordsbare": [
@@ -3359,6 +3518,7 @@
             "[ot\u00eddu\\textbf{k\u00f3}\u00e9",
             "tit\u00edr\u00edk\u1d43]\\textsc{\\textsubscript{seq3}}"
         ],
-        "trs": "and put the poles into them."
+        "trs": "and put the poles into them.",
+        "wlength": 2
     }
 ]

@@ -5,6 +5,7 @@
             "gen",
             "pa"
         ],
+        "clength": 89,
         "filename": "67/1.tex",
         "imt": "3s.\\textsc{gen} woman  that1=\\textsc{cf}  thing  throw-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -51,13 +52,15 @@
             "{\\ob}maa{\\cb}\\textsubscript{O}",
             "wafur-a-k."
         ],
-        "trs": "His wife threw things."
+        "trs": "His wife threw things.",
+        "wlength": 5
     },
     {
         "categories": [
             "cf",
             "pa"
         ],
+        "clength": 80,
         "filename": "67/1.tex",
         "imt": "daughter  that1  water=\\textsc{cf} swallow-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -98,12 +101,14 @@
             "{\\ob}eka=ke{\\cb}\\textsubscript{S}",
             "mu-o-k."
         ],
-        "trs": "The daughter was swallowed by the water."
+        "trs": "The daughter was swallowed by the water.",
+        "wlength": 4
     },
     {
         "categories": [
             "pa"
         ],
+        "clength": 9,
         "filename": "67/1.tex",
         "imt": "see-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -126,7 +131,8 @@
         "srcwordstex": [
             "Uruf-a-m."
         ],
-        "trs": "I saw it."
+        "trs": "I saw it.",
+        "wlength": 1
     },
     {
         "categories": [
@@ -136,6 +142,7 @@
             "pr",
             "unm"
         ],
+        "clength": 30,
         "filename": "67/1.tex",
         "imt": "1s.\\textsc{unm}  work-\\textsc{nmz}  2p.\\textsc{acc}  help-\\textsc{Np}-\\textsc{pr}.1s",
         "imtwordsbare": [
@@ -176,7 +183,8 @@
             "nia",
             "asip-i-yem."
         ],
-        "trs": "I help you with work."
+        "trs": "I help you with work.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -184,6 +192,7 @@
             "pa",
             "unm"
         ],
+        "clength": 20,
         "filename": "67/1.tex",
         "imt": "1s.\\textsc{unm}  jungle=\\textsc{loc}  be-\\textsc{pa}-1s",
         "imtwordsbare": [
@@ -218,7 +227,8 @@
             "koka=pa",
             "ik-e-m."
         ],
-        "trs": "I was in the jungle."
+        "trs": "I was in the jungle.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -226,6 +236,7 @@
             "pr",
             "unm"
         ],
+        "clength": 21,
         "filename": "67/1.tex",
         "imt": "1s.\\textsc{unm}  hunger-\\textsc{Np}-\\textsc{pr}.1s  oh",
         "imtwordsbare": [
@@ -260,7 +271,8 @@
             "wuailal-i-yem",
             "a."
         ],
-        "trs": "Oh, I'm hungry."
+        "trs": "Oh, I'm hungry.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -271,6 +283,7 @@
             "caus",
             "distr/pl"
         ],
+        "clength": 71,
         "filename": "67/1.tex",
         "imt": "son  3p.\\textsc{acc}  grow-\\textsc{caus}-\\textsc{distr/pl}-\\textsc{ben}-\\textsc{bnfy1.\\textsc{cntf}-pa}-3s",
         "imtwordsbare": [
@@ -305,7 +318,8 @@
             "wia",
             "\\textstyleEmphasizedVernacularWords{arim-ow-omak-om-ek-a-k}."
         ],
-        "trs": "(S)he would have brought up (many) sons for me."
+        "trs": "(S)he would have brought up (many) sons for me.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -313,6 +327,7 @@
             "seq",
             "ss"
         ],
+        "clength": 114,
         "coordination": "and",
         "filename": "67/1.tex",
         "imt": "village  go-\\textsc{ss.seq} be.hungry-\\textsc{ss.seq} banana  roast-\\textsc{pa}-3s",
@@ -360,7 +375,8 @@
             "akia",
             "ik-e-k."
         ],
-        "trs": "He went to the village, was hungry and roasted bananas."
+        "trs": "He went to the village, was hungry and roasted bananas.",
+        "wlength": 5
     },
     {
         "categories": [
@@ -370,6 +386,7 @@
             "sim",
             "ss"
         ],
+        "clength": 147,
         "filename": "67/1.tex",
         "imt": "spear-1s/p.\\textsc{ds}  not  die-\\textsc{pa}-3s  spear  with  go-\\textsc{ss.sim}-be-2/3s.\\textsc{ds} Olas=\\textsc{cf}  kill-\\textsc{pa}-3s",
         "imtwordsbare": [
@@ -434,12 +451,14 @@
             "Olas=ke",
             "war-e-k."
         ],
-        "trs": "When I speared it, it didn't die, (but) as it was going with the spear Olas killed it."
+        "trs": "When I speared it, it didn't die, (but) as it was going with the spear Olas killed it.",
+        "wlength": 8
     },
     {
         "categories": [
             "unm"
         ],
+        "clength": 97,
         "filename": "67/1.tex",
         "imt": "3p.\\textsc{unm}  woman  group  that1",
         "imtwordsbare": [
@@ -480,12 +499,14 @@
             "teeria",
             "nain"
         ],
-        "trs": "that group of women"
+        "trs": "that group of women",
+        "wlength": 4
     },
     {
         "categories": [
             "gen"
         ],
+        "clength": 103,
         "coordination": "or",
         "filename": "67/1.tex",
         "imt": "1s.\\textsc{gen}  1s/p.younger.sibling  small  one",
@@ -527,7 +548,8 @@
             "\\textstyleEmphasizedVernacularWords{gelemuta}",
             "kuisow"
         ],
-        "trs": "my one younger brother' or `one of my younger brothers"
+        "trs": "my one younger brother' or `one of my younger brothers",
+        "wlength": 4
     },
     {
         "categories": [
@@ -536,6 +558,7 @@
             "qm",
             "unm"
         ],
+        "clength": 68,
         "filename": "67/1.tex",
         "imt": "1s.\\textsc{unm} woman  1s.\\textsc{dat}  see-\\textsc{pa}-2p=\\textsc{qm}",
         "imtwordsbare": [
@@ -576,13 +599,15 @@
             "efar",
             "uruf-a-man=\\textstyleEmphasizedVernacularWords{i}?"
         ],
-        "trs": "Did you see my wife?"
+        "trs": "Did you see my wife?",
+        "wlength": 4
     },
     {
         "categories": [
             "pa",
             "unm"
         ],
+        "clength": 64,
         "filename": "67/1.tex",
         "imt": "2p.\\textsc{unm}  custom  what.like  do-\\textsc{pa}-2p",
         "imtwordsbare": [
@@ -623,7 +648,8 @@
             "\\textstyleEmphasizedVernacularWords{kamenap}",
             "on-a-man?"
         ],
-        "trs": "What did you do?"
+        "trs": "What did you do?",
+        "wlength": 4
     },
     {
         "categories": [
@@ -635,6 +661,7 @@
             "ss",
             "tp"
         ],
+        "clength": 77,
         "filename": "67/1.tex",
         "imt": "man  find-\\textsc{ss}.\\textsc{seq}=\\textsc{tp}  here.\\textsc{cf}  3p.\\textsc{acc}  \\textsc{bpx}-come-\\textsc{imp}.2p",
         "imtwordsbare": [
@@ -681,13 +708,15 @@
             "wia",
             "p-ekap-eka."
         ],
-        "trs": "If you find the men, bring them here."
+        "trs": "If you find the men, bring them here.",
+        "wlength": 5
     },
     {
         "categories": [
             "pa",
             "unm"
         ],
+        "clength": 155,
         "filename": "67/1.tex",
         "imt": "fire  start-\\textsc{pa}-3s  that1  1p.\\textsc{unm}  not  understand-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -740,12 +769,14 @@
             "me",
             "paayar-e-mik."
         ],
-        "trs": "We didn't realise that a fire had started."
+        "trs": "We didn't realise that a fire had started.",
+        "wlength": 6
     },
     {
         "categories": [
             "pa"
         ],
+        "clength": 110,
         "filename": "67/1.tex",
         "imt": "kunai.grass  that1  custom  like.this  do-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -792,7 +823,8 @@
             "\\textstyleEmphasizedVernacularWords{feenap}",
             "on-a-mik."
         ],
-        "trs": "This is what they did to the \\textstyleForeignWords{kunai} grass."
+        "trs": "This is what they did to the \\textstyleForeignWords{kunai} grass.",
+        "wlength": 5
     },
     {
         "categories": [
@@ -802,6 +834,7 @@
             "sim",
             "ss"
         ],
+        "clength": 60,
         "filename": "67/1.tex",
         "imt": "sand=\\textsc{inst} come-\\textsc{ss}.\\textsc{sim}-be-\\textsc{Np}-\\textsc{pr}.1/3p",
         "imtwordsbare": [
@@ -830,12 +863,14 @@
             "Saa=iw",
             "\\textstyleEmphasizedVernacularWords{ir-am-ika-i-mik}."
         ],
-        "trs": "They are coming along the sand/beach."
+        "trs": "They are coming along the sand/beach.",
+        "wlength": 2
     },
     {
         "categories": [
             "gen"
         ],
+        "clength": 11,
         "filename": "67/1.tex",
         "imt": "1p.\\textsc{gen} land",
         "imtwordsbare": [
@@ -864,12 +899,14 @@
             "yiena",
             "miiwa"
         ],
-        "trs": "our land"
+        "trs": "our land",
+        "wlength": 2
     },
     {
         "categories": [
             "loc"
         ],
+        "clength": 18,
         "filename": "67/1.tex",
         "imt": "house underside=\\textsc{loc}",
         "imtwordsbare": [
@@ -898,7 +935,8 @@
             "koor(a)",
             "kuenuma=pa"
         ],
-        "trs": "underneath the house"
+        "trs": "underneath the house",
+        "wlength": 2
     },
     {
         "categories": [
@@ -906,6 +944,7 @@
             "pa",
             "pl"
         ],
+        "clength": 57,
         "filename": "67/1.tex",
         "imt": "banana  roast-\\textsc{distr}/\\textsc{pl}-\\textsc{pa}-1/3p",
         "imtwordsbare": [
@@ -934,6 +973,7 @@
             "Akia",
             "ik-\\textstyleEmphasizedVernacularWords{omak-e-mik}."
         ],
-        "trs": "We roasted many bananas."
+        "trs": "We roasted many bananas.",
+        "wlength": 2
     }
 ]

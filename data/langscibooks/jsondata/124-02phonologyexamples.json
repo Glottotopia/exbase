@@ -7,6 +7,7 @@
             "ntr",
             "poss"
         ],
+        "clength": 191,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ \\textsc{ntr} ~ certain ~ \\textsc{cont} ~ \\textsc{poss.2sg.a}",
         "imtwordsbare": [
@@ -95,7 +96,8 @@
             "~~~~~~~",
             "t\u0101\\nobreakdash-\\nobreakdash-\\nobreakdash---\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash-{\\\ua78c}au."
         ],
-        "trs": "You are right.\u2019 \\textstyleExampleref{[R630-05.036]}"
+        "trs": "You are right.\u2019 \\textstyleExampleref{[R630-05.036]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -104,6 +106,7 @@
             "dist",
             "ntr"
         ],
+        "clength": 113,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ \\textsc{ntr} ~ surprised ~ \\textsc{art} ~ people ~ at ~ \\textsc{dem} thing ~ \\textsc{dist}",
         "imtwordsbare": [
@@ -234,7 +237,8 @@
             "~",
             "\\textbf{e}ra."
         ],
-        "trs": "The people were amazed about that.\u2019 \\textstyleExampleref{[R630-07.038]}"
+        "trs": "The people were amazed about that.\u2019 \\textstyleExampleref{[R630-07.038]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -242,6 +246,7 @@
             "dist",
             "ntr"
         ],
+        "clength": 102,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ \\textsc{ntr} ~ live ~ then ~ \\textsc{dem} ~ child ~ \\textsc{dist}",
         "imtwordsbare": [
@@ -354,7 +359,8 @@
             "~~~~~",
             "\\textbf{e}ra."
         ],
-        "trs": "Then the child was alive.\u2019 \\textstyleExampleref{[R630-06.016]}"
+        "trs": "Then the child was alive.\u2019 \\textstyleExampleref{[R630-06.016]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -364,6 +370,7 @@
             "poss",
             "prf"
         ],
+        "clength": 149,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ \\textsc{prf} ~ correct ~ \\textsc{cont} ~ \\textsc{poss.2sg.a}  answer",
         "imtwordsbare": [
@@ -458,7 +465,8 @@
             "ta{\\\ua78c}a",
             "p\u0101\\nobreakdash-\\nobreakdash-\\nobreakdash-\\nobreakdash---\\nobreakdash-\\nobreakdash-hono."
         ],
-        "trs": "Your answer is correct.\u2019 \\textstyleExampleref{[R630-07.015]}"
+        "trs": "Your answer is correct.\u2019 \\textstyleExampleref{[R630-07.015]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -468,6 +476,7 @@
             "ident",
             "prom"
         ],
+        "clength": 100,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ \\textsc{prom} \\textsc{2sg} ~ really ~ \\textsc{ident} ~ \\textsc{art}  thing ~ \\textsc{dist} ~ for ~ arrive ~ hither",
         "imtwordsbare": [
@@ -616,13 +625,15 @@
             "~",
             "mai?"
         ],
-        "trs": "Are you really the one who was to come?\u2019 \\textstyleExampleref{[R630-05.019]}"
+        "trs": "Are you really the one who was to come?\u2019 \\textstyleExampleref{[R630-05.019]}",
+        "wlength": 22
     },
     {
         "categories": [
             "2pl",
             "neg"
         ],
+        "clength": 116,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ ~~\\textsc{neg} ~ really ~ \\textsc{2pl} ~ thing ~ for ~ eat",
         "imtwordsbare": [
@@ -735,7 +746,8 @@
             "~~~~~~~~~~~~",
             "\\textbf{kai}?"
         ],
-        "trs": "Don\u2019t you have something to eat?\u2019 \\textstyleExampleref{[R630-15.041]}"
+        "trs": "Don\u2019t you have something to eat?\u2019 \\textstyleExampleref{[R630-15.041]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -743,6 +755,7 @@
             "prom",
             "prox"
         ],
+        "clength": 58,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ \\textsc{prom} ~ who ~ really ~ \\textsc{art} person \\textsc{prox}",
         "imtwordsbare": [
@@ -843,13 +856,15 @@
             "kope",
             "nei?"
         ],
-        "trs": "Who is this person?\u2019 \\textstyleExampleref{[R630-05.063]}"
+        "trs": "Who is this person?\u2019 \\textstyleExampleref{[R630-05.063]}",
+        "wlength": 14
     },
     {
         "categories": [
             "art",
             "pred"
         ],
+        "clength": 80,
         "filename": "124/02phonology.tex",
         "imt": "~ ~ ~ ~ ~ ~\\textsc{pred} ~ what ~ then ~ \\textsc{art} ~ thing ~ for ~ do",
         "imtwordsbare": [
@@ -974,12 +989,14 @@
             "~~",
             "a\u014ba?"
         ],
-        "trs": "What should (we) do then?\u2019 \\textstyleExampleref{[R630-03.007]}\\is{Intonation|)}\\textstyleExampleref{}"
+        "trs": "What should (we) do then?\u2019 \\textstyleExampleref{[R630-03.007]}\\is{Intonation|)}\\textstyleExampleref{}",
+        "wlength": 18
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 51,
         "filename": "124/02phonology.tex",
         "imt": "cincuenta year of \\textsc{art} marry in\\_fact",
         "imtwordsbare": [
@@ -1032,7 +1049,8 @@
             "h\u0101ipoipo,",
             "pa{\\\ua78c}i."
         ],
-        "trs": "The wedding was fifty years ago, in fact.\u2019 \\textstyleExampleref{[R415.498]}"
+        "trs": "The wedding was fifty years ago, in fact.\u2019 \\textstyleExampleref{[R415.498]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1041,6 +1059,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 35,
         "filename": "124/02phonology.tex",
         "imt": "\\textsc{ntr} \\textsc{pl}:descend of \\textsc{1pl.excl} to below",
         "imtwordsbare": [
@@ -1093,7 +1112,8 @@
             "ki",
             "raro."
         ],
-        "trs": "We went down.\u2019 \\textstyleExampleref{[R157.040]}"
+        "trs": "We went down.\u2019 \\textstyleExampleref{[R157.040]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1103,6 +1123,7 @@
             "pl",
             "pred"
         ],
+        "clength": 69,
         "coordination": "and",
         "filename": "124/02phonology.tex",
         "imt": "\\textsc{art} do of \\textsc{coll} Eugenio \\textsc{pred} \\textsc{pl}:hide just at inside at \\textsc{art} \\textsc{3pl} house",
@@ -1204,7 +1225,8 @@
             "r\u0101ua",
             "hare."
         ],
-        "trs": "Eugenio and his friend used to hide inside their house.\u2019 \\textstyleExampleref{[R231.279]}"
+        "trs": "Eugenio and his friend used to hide inside their house.\u2019 \\textstyleExampleref{[R231.279]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -1214,6 +1236,7 @@
             "imp",
             "pl"
         ],
+        "clength": 69,
         "coordination": "and",
         "filename": "124/02phonology.tex",
         "imt": "\\textsc{imp} \\textsc{pl}:sit \\textsc{2pl} \\textsc{imp} \\textsc{pl}:drink at first \\textsc{acc} \\textsc{art} \\textsc{2pl} milk",
@@ -1297,7 +1320,8 @@
             "k\u014drua",
             "\u016b."
         ],
-        "trs": "Sit down (pl.) and first drink your milk.\u2019 \\textstyleExampleref{[R334.117]}"
+        "trs": "Sit down (pl.) and first drink your milk.\u2019 \\textstyleExampleref{[R334.117]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -1306,6 +1330,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 39,
         "filename": "124/02phonology.tex",
         "imt": "\\textsc{ntr} arrive hither \\textsc{dem} \\textsc{pl} girl \\textsc{dist}",
         "imtwordsbare": [
@@ -1364,13 +1389,15 @@
             "uka",
             "era."
         ],
-        "trs": "Those girls arrived.\u2019 \\textstyleExampleref{[Blx-3.053]}"
+        "trs": "Those girls arrived.\u2019 \\textstyleExampleref{[Blx-3.053]}",
+        "wlength": 7
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 60,
         "filename": "124/02phonology.tex",
         "imt": "\\textsc{ntr} cut bad Rau Nui at \\textsc{art} stone",
         "imtwordsbare": [
@@ -1435,7 +1462,8 @@
             "te",
             "m\u0101{\\\ua78c}ea."
         ],
-        "trs": "Rau Nui was badly wounded by the stone.\u2019 \\textstyleExampleref{[Fel-64.081]}"
+        "trs": "Rau Nui was badly wounded by the stone.\u2019 \\textstyleExampleref{[Fel-64.081]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -1444,6 +1472,7 @@
             "ntr",
             "red"
         ],
+        "clength": 45,
         "coordination": "and",
         "filename": "124/02phonology.tex",
         "imt": "when finish \\textsc{ntr} go \\textsc{ntr} \\textsc{red}:cut \\textsc{acc} \\textsc{art} corn",
@@ -1515,7 +1544,8 @@
             "te",
             "tarake."
         ],
-        "trs": "After that, he goes and picks corn.\u2019 \\textstyleExampleref{[R156.013]}"
+        "trs": "After that, he goes and picks corn.\u2019 \\textstyleExampleref{[R156.013]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -1525,6 +1555,7 @@
             "pvp",
             "red"
         ],
+        "clength": 86,
         "filename": "124/02phonology.tex",
         "imt": "from \\textsc{art} man \\textsc{prox} \\textsc{pfv} begin \\textsc{pvp} \\textsc{pfv} arrive:\\textsc{red} hither \\textsc{pvp} \\textsc{art} ship foreign",
         "imtwordsbare": [
@@ -1625,7 +1656,8 @@
             "pah\u012b",
             "papa{\\\ua78c}\u0101."
         ],
-        "trs": "Starting with this man (=the explorer Jacob Roggeveen), foreign ships started to arrive (on Rapa Nui).\u2019 \\textstyleExampleref{[R111.014]}"
+        "trs": "Starting with this man (=the explorer Jacob Roggeveen), foreign ships started to arrive (on Rapa Nui).\u2019 \\textstyleExampleref{[R111.014]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -1638,6 +1670,7 @@
             "prom",
             "red"
         ],
+        "clength": 110,
         "filename": "124/02phonology.tex",
         "imt": "like \\textsc{dist} \\textsc{ident} \\textsc{ipfv} look:\\textsc{red} \\textsc{dist} by back perhaps \\textsc{ipfv} chase \\textsc{emph} hither  \\textsc{ag} \\textsc{dem} evil\\_person \\textsc{dist} \\textsc{prom} Mako\u2019i",
         "imtwordsbare": [
@@ -1768,7 +1801,8 @@
             "ko",
             "Mako{\\\ua78c}i."
         ],
-        "trs": "Like that he kept looking behind him, to see if he was followed by that wicked Mako\u2019i.\u2019 \\textstyleExampleref{[R214.038]}"
+        "trs": "Like that he kept looking behind him, to see if he was followed by that wicked Mako\u2019i.\u2019 \\textstyleExampleref{[R214.038]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -1777,6 +1811,7 @@
             "prop",
             "red"
         ],
+        "clength": 50,
         "filename": "124/02phonology.tex",
         "imt": "\\textsc{ntr} look:\\textsc{red} then \\textsc{art} face \\textsc{prop} \\textsc{red}:three",
         "imtwordsbare": [
@@ -1835,6 +1870,7 @@
             "a",
             "totoru."
         ],
-        "trs": "The three looked at each other.\u2019 \\textstyleExampleref{[R313.005]}"
+        "trs": "The three looked at each other.\u2019 \\textstyleExampleref{[R313.005]}",
+        "wlength": 7
     }
 ]

@@ -4,6 +4,7 @@
             "1pl",
             "poss"
         ],
+        "clength": 55,
         "filename": "78/12.tex",
         "imt": "{} {}  still  {\\textsc{1pl}}  {\\textsc{poss}}  {blood}",
         "imtwordsbare": [
@@ -56,10 +57,12 @@
             "{punya}",
             "{dara}"
         ],
-        "trs": "\\bluebold{she} requests something, we give (it to her), because (\\bluebold{she}\u2019s) our child, {\\ldots} (\\bluebold{she}\u2019s) still our blood\u2019 \\textstyleExampleSource{[081006-025-CvEx.0020/0022]}"
+        "trs": "\\bluebold{she} requests something, we give (it to her), because (\\bluebold{she}\u2019s) our child, {\\ldots} (\\bluebold{she}\u2019s) still our blood\u2019 \\textstyleExampleSource{[081006-025-CvEx.0020/0022]}",
+        "wlength": 6
     },
     {
         "categories": [],
+        "clength": 27,
         "filename": "78/12.tex",
         "imt": "{}    snake  two",
         "imtwordsbare": [
@@ -94,13 +97,15 @@
             "ular",
             "\\bluebold{dua}"
         ],
-        "trs": "Wife: \u2018\\bluebold{two} snakes\u2019 (Lit. \u2018the snakes (were) \\bluebold{two}\u2019) \\textstyleExampleSource{[081006-022-CvEx.0002-0003]}"
+        "trs": "Wife: \u2018\\bluebold{two} snakes\u2019 (Lit. \u2018the snakes (were) \\bluebold{two}\u2019) \\textstyleExampleSource{[081006-022-CvEx.0002-0003]}",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg",
             "poss"
         ],
+        "clength": 70,
         "filename": "78/12.tex",
         "imt": "\\textsc{1sg} go.out from house \\textsc{1sg} \\textsc{poss} parent",
         "imtwordsbare": [
@@ -159,12 +164,14 @@
             "punya",
             "orang-tua"
         ],
-        "trs": "I \\bluebold{left home}, my parents\u2019 (Lit. \u2018\\bluebold{went out from} the house\u2019) [081115-001b-Cv.0045]"
+        "trs": "I \\bluebold{left home}, my parents\u2019 (Lit. \u2018\\bluebold{went out from} the house\u2019) [081115-001b-Cv.0045]",
+        "wlength": 7
     },
     {
         "categories": [
             "rel"
         ],
+        "clength": 24,
         "filename": "78/12.tex",
         "imt": "{\\textsc{rel}}  eat  {many}",
         "imtwordsbare": [
@@ -199,6 +206,7 @@
             "makang",
             "{banyak}"
         ],
-        "trs": "most of that money, that\u2019s \\bluebold{for the community} but (it\u2019s) the officials who take lots (of it)\u2019 \\textstyleExampleSource{[081029-004-Cv.0002]}"
+        "trs": "most of that money, that\u2019s \\bluebold{for the community} but (it\u2019s) the officials who take lots (of it)\u2019 \\textstyleExampleSource{[081029-004-Cv.0002]}",
+        "wlength": 3
     }
 ]

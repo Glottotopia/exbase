@@ -4,6 +4,7 @@
             "cop",
             "sg"
         ],
+        "clength": 32,
         "filename": "98/pronouns.tex",
         "imt": "what:\\textsc{cop}   want:2\\textsc{sg}",
         "imtwordsbare": [
@@ -33,7 +34,8 @@
             "\\textbf{Isio}",
             "b\\'{\u025b}\u0257{\\\u00ce}d\u1d43?"
         ],
-        "trs": "What do you want?"
+        "trs": "What do you want?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -41,6 +43,7 @@
             "cop",
             "dp"
         ],
+        "clength": 22,
         "filename": "98/pronouns.tex",
         "imt": "where:\\textsc{cop}   be:\\textsc{3sg:dp}",
         "imtwordsbare": [
@@ -69,7 +72,8 @@
             "\\textbf{Nda\u00ed\u00f3}",
             "i\u00e2d\u1d49?"
         ],
-        "trs": "Where is it?"
+        "trs": "Where is it?",
+        "wlength": 2
     },
     {
         "categories": [
@@ -79,6 +83,7 @@
             "rel",
             "sg"
         ],
+        "clength": 72,
         "filename": "98/pronouns.tex",
         "imt": "come:\\textsc{3sg:prf}   woman:\\textsc{nom}=\\textsc{rel:sg} give.birth:\\textsc{3sg}",
         "imtwordsbare": [
@@ -113,7 +118,8 @@
             "ceka=[\\textbf{n\u00e1a}",
             "\u0199waatet\u1d43]\\textsc{\\textsubscript{rc}}."
         ],
-        "trs": "The woman [who gave birth today] has come."
+        "trs": "The woman [who gave birth today] has come.",
+        "wlength": 3
     },
     {
         "categories": [
@@ -123,6 +129,7 @@
             "pl",
             "rel"
         ],
+        "clength": 73,
         "filename": "98/pronouns.tex",
         "imt": "slaughter:\\textsc{hort}   goats:\\textsc{obl}=\\textsc{rel:pl}   bring:\\textsc{1sg}",
         "imtwordsbare": [
@@ -157,7 +164,8 @@
             "rie=[\\textbf{sini}",
             "det\u00ed]\\textsc{\\textsubscript{rc}}."
         ],
-        "trs": "Let\u2019s slaughter the goats [that I brought yesterday]."
+        "trs": "Let\u2019s slaughter the goats [that I brought yesterday].",
+        "wlength": 3
     },
     {
         "categories": [
@@ -166,6 +174,7 @@
             "imp",
             "obl"
         ],
+        "clength": 28,
         "filename": "98/pronouns.tex",
         "imt": "small:\\textsc{caus:comp:imp}   self:\\textsc{obl}",
         "imtwordsbare": [
@@ -194,7 +203,8 @@
             "Kwats\u00edt\u00fa\u0199oe",
             "\\textbf{as}."
         ],
-        "trs": "Humble yourself (lit: make yourself small)."
+        "trs": "Humble yourself (lit: make yourself small).",
+        "wlength": 2
     },
     {
         "categories": [
@@ -204,6 +214,7 @@
             "seq",
             "sim"
         ],
+        "clength": 60,
         "filename": "98/pronouns.tex",
         "imt": "go:\\textsc{seq}   thieves:\\textsc{nom}   sneak:\\textsc{3pl:sim} selves:\\textsc{acc}",
         "imtwordsbare": [
@@ -244,6 +255,7 @@
             "\u0268t{\\\u00cd}\u0257{\\\u00cd}\u0257\u00e1tie",
             "\\textbf{\u00e1s{\\\u00cd}k\u00e0k\\\u1d43}."
         ],
-        "trs": "And the thieves went slinking away (lit: sneaking themselves)."
+        "trs": "And the thieves went slinking away (lit: sneaking themselves).",
+        "wlength": 4
     }
 ]

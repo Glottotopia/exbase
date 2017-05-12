@@ -8,6 +8,7 @@
             "o",
             "poss"
         ],
+        "clength": 110,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ag} \\textsc{coll} \\textsc{poss.1sg.o} father \\textsc{dist}",
@@ -55,7 +56,8 @@
             "p\u0101p\u0101\\textsubscript{7}",
             "era\\textsubscript{13}"
         ],
-        "trs": "My father and others (said)\u2019 \\textstyleExampleref{[R412.383]}"
+        "trs": "My father and others (said)\u2019 \\textstyleExampleref{[R412.383]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -63,6 +65,7 @@
             "ident",
             "prox"
         ],
+        "clength": 191,
         "filename": "124/05nounphrase.tex",
         "imt": "for \\textsc{art} people adult all really \\textsc{prox} \\textsc{ident}",
         "imtwordsbare": [
@@ -127,13 +130,15 @@
             "nei\\textsubscript{13}",
             "{\\\ua78c}\u0101\\textsubscript{14}"
         ],
-        "trs": "for all the older people here\u2019 \\textstyleExampleref{[R207.017]}"
+        "trs": "for all the older people here\u2019 \\textstyleExampleref{[R207.017]}",
+        "wlength": 8
     },
     {
         "categories": [
             "dem",
             "dist"
         ],
+        "clength": 114,
         "filename": "124/05nounphrase.tex",
         "imt": "to \\textsc{dem} man again \\textsc{dist}",
         "imtwordsbare": [
@@ -180,7 +185,8 @@
             "haka{\\\ua78c}ou\\textsubscript{10}",
             "era\\textsubscript{13}"
         ],
-        "trs": "(he said) to that other man\u2019 \\textstyleExampleref{[R102.020]}"
+        "trs": "(he said) to that other man\u2019 \\textstyleExampleref{[R102.020]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -190,6 +196,7 @@
             "num",
             "poss"
         ],
+        "clength": 166,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{acc} \\textsc{poss.3sg.a} {\\db}child female really just {\\db}\\textsc{num} one",
         "imtwordsbare": [
@@ -254,7 +261,8 @@
             "{\\ob}e",
             "tahi\\,{\\cb}\\textsubscript{15}"
         ],
-        "trs": "(to look at) his really only daughter\u2019 \\textstyleExampleref{[Luke 8:41-42]}"
+        "trs": "(to look at) his really only daughter\u2019 \\textstyleExampleref{[Luke 8:41-42]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -262,6 +270,7 @@
             "art",
             "dist"
         ],
+        "clength": 142,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{acc} \\textsc{art} father \\textsc{dist} {\\db}of Peter there",
         "imtwordsbare": [
@@ -320,12 +329,14 @@
             "P\u0113tero\\,{\\cb}\\textsubscript{16}",
             "ai\\textsubscript{17}"
         ],
-        "trs": "(look at) Petero\u2019s father there\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "(look at) Petero\u2019s father there\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 7
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 98,
         "filename": "124/05nounphrase.tex",
         "imt": "diverse \\textsc{art} thing past",
         "imtwordsbare": [
@@ -366,13 +377,15 @@
             "me{\\\ua78c}e\\textsubscript{7}",
             "m\u0101t\u0101mu{\\\ua78c}a\\textsubscript{8}"
         ],
-        "trs": "(he saw) many things from the past\u2019 \\textstyleExampleref{[R423.021]}"
+        "trs": "(he saw) many things from the past\u2019 \\textstyleExampleref{[R423.021]}",
+        "wlength": 4
     },
     {
         "categories": [
             "3pl",
             "pl"
         ],
+        "clength": 112,
         "filename": "124/05nounphrase.tex",
         "imt": "{\\ob}thing many just away \\textsc{3pl} \\textsc{pl} child",
         "imtwordsbare": [
@@ -431,7 +444,8 @@
             "\u014b\u0101\\textsubscript{6}",
             "poki\\textsubscript{7}"
         ],
-        "trs": "many children of theirs (were born)\u2019 \\textstyleExampleref{[R438.049]}"
+        "trs": "many children of theirs (were born)\u2019 \\textstyleExampleref{[R438.049]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -442,6 +456,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 71,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "like \\textsc{ana} \\textsc{prop} \\textsc{coll} Tiare \\textsc{pfv} ascend \\textsc{pvp} to inland \\textsc{num} one day",
@@ -537,7 +552,8 @@
             "tahi",
             "mahana."
         ],
-        "trs": "Thus Tiare and the others went to the countryside one day.\u2019 \\textstyleExampleref{[R151.048]}"
+        "trs": "Thus Tiare and the others went to the countryside one day.\u2019 \\textstyleExampleref{[R151.048]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -546,6 +562,7 @@
             "pl",
             "prop"
         ],
+        "clength": 57,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} \\textsc{pl}:sit \\textsc{prop} \\textsc{coll} Dad \\textsc{ntr} \\textsc{pl}:eat",
@@ -605,7 +622,8 @@
             "he",
             "kakai."
         ],
-        "trs": "Dad and the others sat down and ate.\u2019 \\textstyleExampleref{[R333.538]}"
+        "trs": "Dad and the others sat down and ate.\u2019 \\textstyleExampleref{[R333.538]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -617,6 +635,7 @@
             "red",
             "voc"
         ],
+        "clength": 67,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{voc} flower \\textsc{exh} care\\_for good:\\textsc{red} \\textsc{2sg} \\textsc{acc} \\textsc{prop} \\textsc{coll} companion",
         "imtwordsbare": [
@@ -693,7 +712,8 @@
             "\\textbf{ku\u0101}",
             "\\textbf{m\u0101haki}."
         ],
-        "trs": "Tiare, take good care of the little ones.\u2019 \\textstyleExampleref{[R496.015]}"
+        "trs": "Tiare, take good care of the little ones.\u2019 \\textstyleExampleref{[R496.015]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -701,6 +721,7 @@
             "coll",
             "pfv"
         ],
+        "clength": 37,
         "filename": "124/05nounphrase.tex",
         "imt": "~of \\textsc{coll} \\textsc{2pl} \\textsc{pfv} make",
         "imtwordsbare": [
@@ -747,7 +768,8 @@
             "i",
             "a\u014ba?"
         ],
-        "trs": "Did you (pl.) make it together?\u2019 \\textstyleExampleref{[R415.808]}"
+        "trs": "Did you (pl.) make it together?\u2019 \\textstyleExampleref{[R415.808]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -755,6 +777,7 @@
             "imp",
             "voc"
         ],
+        "clength": 43,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{imp} go hither \\textsc{voc} \\textsc{coll} young\\_man \\textsc{voc}",
         "imtwordsbare": [
@@ -813,7 +836,8 @@
             "\\textbf{repa}",
             "\u0113."
         ],
-        "trs": "Come, my friends.\u2019 \\textstyleExampleref{[R313.004]}"
+        "trs": "Come, my friends.\u2019 \\textstyleExampleref{[R313.004]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -826,6 +850,7 @@
             "prom",
             "red"
         ],
+        "clength": 93,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} \\textsc{coll} \\textsc{poss.1sg.o} \\textsc{pl} child sibling small:\\textsc{pl}:\\textsc{red} \\textsc{dist} \\textsc{prom} \\textsc{poss.1sg.o}  grandfather \\textsc{dist}",
@@ -915,13 +940,15 @@
             "p\u0101p\u0101r\u016b{\\\ua78c}au",
             "era."
         ],
-        "trs": "We were with my little brothers and my grandfather.\u2019 \\textstyleExampleref{[R123.014]}"
+        "trs": "We were with my little brothers and my grandfather.\u2019 \\textstyleExampleref{[R123.014]}",
+        "wlength": 12
     },
     {
         "categories": [
             "ntr",
             "~~pred"
         ],
+        "clength": 29,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go \\textsc{~~pred} man",
         "imtwordsbare": [
@@ -962,13 +989,15 @@
             "*(\\textbf{te})",
             "ta\u014bata."
         ],
-        "trs": "(The) people came.\u2019 \\textstyleExampleref{[R648.165]}"
+        "trs": "(The) people came.\u2019 \\textstyleExampleref{[R648.165]}",
+        "wlength": 4
     },
     {
         "categories": [
             "ntr",
             "num"
         ],
+        "clength": 40,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} born \\textsc{num} three child",
         "imtwordsbare": [
@@ -1015,7 +1044,8 @@
             "\\textbf{toru}",
             "poki."
         ],
-        "trs": "Three children were born.\u2019 \\textstyleExampleref{[R352.010]}"
+        "trs": "Three children were born.\u2019 \\textstyleExampleref{[R352.010]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1023,6 +1053,7 @@
             "ntr",
             "num"
         ],
+        "clength": 62,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} make \\textsc{acc} \\textsc{num} one shack",
         "imtwordsbare": [
@@ -1075,13 +1106,15 @@
             "\\textbf{tahi}",
             "\\textbf{paepae}."
         ],
-        "trs": "He built a shelter.\u2019 \\textstyleExampleref{[Blx-2-1.015]}"
+        "trs": "He built a shelter.\u2019 \\textstyleExampleref{[Blx-2-1.015]}",
+        "wlength": 6
     },
     {
         "categories": [
             "pfv",
             "pl"
         ],
+        "clength": 57,
         "filename": "124/05nounphrase.tex",
         "imt": "thing many/much people \\textsc{pfv} \\textsc{pl}:die",
         "imtwordsbare": [
@@ -1128,7 +1161,8 @@
             "i",
             "m\u0101mate."
         ],
-        "trs": "Many people died.\u2019 \\textstyleExampleref{[R532-05.002]}"
+        "trs": "Many people died.\u2019 \\textstyleExampleref{[R532-05.002]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -1136,6 +1170,7 @@
             "cq",
             "prox"
         ],
+        "clength": 46,
         "filename": "124/05nounphrase.tex",
         "imt": "~at place \\textsc{cq} \\textsc{art} sheep \\textsc{prox}",
         "imtwordsbare": [
@@ -1188,7 +1223,8 @@
             "m\u0101moe",
             "nei?"
         ],
-        "trs": "Where is this sheep?\u2019 \\textstyleExampleref{[R536.037]}"
+        "trs": "Where is this sheep?\u2019 \\textstyleExampleref{[R536.037]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -1196,6 +1232,7 @@
             "ntr",
             "red"
         ],
+        "clength": 54,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} beat:\\textsc{red} \\textsc{ins} war\\_club \\textsc{ntr} die",
@@ -1249,13 +1286,15 @@
             "he",
             "mate."
         ],
-        "trs": "They beat her with a club and she died.\u2019 \\textstyleExampleref{[Egt-01.082]}"
+        "trs": "They beat her with a club and she died.\u2019 \\textstyleExampleref{[Egt-01.082]}",
+        "wlength": 6
     },
     {
         "categories": [
             "dist",
             "ntr"
         ],
+        "clength": 109,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go\\_out \\textsc{dist} parent Hippolyte to house \\textsc{dist} to house \\textsc{dist}",
@@ -1339,13 +1378,15 @@
             "\\textbf{hare}",
             "\\textbf{era}."
         ],
-        "trs": "Father Hippolyte went here and there (lit. to that house to that house).\u2019 \\textstyleExampleref{[R231.282]}"
+        "trs": "Father Hippolyte went here and there (lit. to that house to that house).\u2019 \\textstyleExampleref{[R231.282]}",
+        "wlength": 11
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 78,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go house small house big to \\textsc{art} man",
         "imtwordsbare": [
@@ -1416,7 +1457,8 @@
             "te",
             "ta\u014bata."
         ],
-        "trs": "He went to all the houses (lit. small house big house) to the people.\u2019 \\textstyleExampleref{[R368.056]}"
+        "trs": "He went to all the houses (lit. small house big house) to the people.\u2019 \\textstyleExampleref{[R368.056]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -1425,6 +1467,7 @@
             "dist",
             "prop"
         ],
+        "clength": 103,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "thank fo \\textsc{prop} \\textsc{3pl} and to \\textsc{art} people \\textsc{dist} family parent people old",
@@ -1520,7 +1563,8 @@
             "\\textbf{nu{\\\ua78c}u}",
             "pa{\\\ua78c}ari..."
         ],
-        "trs": "Thanks to them, and to the family members, parents, old people...\u2019 \\textstyleExampleref{[R202.004]}"
+        "trs": "Thanks to them, and to the family members, parents, old people...\u2019 \\textstyleExampleref{[R202.004]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -1528,6 +1572,7 @@
             "prf",
             "prox"
         ],
+        "clength": 71,
         "filename": "124/05nounphrase.tex",
         "imt": "people \\textsc{prox} \\textsc{prf} return hither \\textsc{cont} from Tahiti to Rapa Nui",
         "imtwordsbare": [
@@ -1610,7 +1655,8 @@
             "Rapa",
             "Nui."
         ],
-        "trs": "These people had returned from Tahiti to Rapa Nui.\u2019 \\textstyleExampleref{[R231.086]}"
+        "trs": "These people had returned from Tahiti to Rapa Nui.\u2019 \\textstyleExampleref{[R231.086]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -1619,6 +1665,7 @@
             "prop",
             "red"
         ],
+        "clength": 50,
         "filename": "124/05nounphrase.tex",
         "imt": "food \\textsc{med} at \\textsc{prop} \\textsc{2pl} food good:\\textsc{red}",
         "imtwordsbare": [
@@ -1677,7 +1724,8 @@
             "kai",
             "rivariva."
         ],
-        "trs": "That food you have is good food.\u2019 \\textstyleExampleref{[R310.262]}"
+        "trs": "That food you have is good food.\u2019 \\textstyleExampleref{[R310.262]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -1687,6 +1735,7 @@
             "prom",
             "prox"
         ],
+        "clength": 80,
         "filename": "124/05nounphrase.tex",
         "imt": "man \\textsc{prox} \\textsc{prom} Papu\u2019e at Ma\u2019ea Makohe \\textsc{poss.3sg.o} house",
         "imtwordsbare": [
@@ -1757,7 +1806,8 @@
             "t\u014d{\\\ua78c}ona",
             "hare."
         ],
-        "trs": "This man Papu\u2019e, his house was in Ma\u2019ea Makohe.\u2019 \\textstyleExampleref{[R372.035]}"
+        "trs": "This man Papu\u2019e, his house was in Ma\u2019ea Makohe.\u2019 \\textstyleExampleref{[R372.035]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -1765,6 +1815,7 @@
             "pred",
             "~~ntr"
         ],
+        "clength": 38,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{~~ntr} go \\textsc{pred} man to \\textsc{art} house",
         "imtwordsbare": [
@@ -1823,7 +1874,8 @@
             "te",
             "hare."
         ],
-        "trs": "A man went home."
+        "trs": "A man went home.",
+        "wlength": 7
     },
     {
         "categories": [
@@ -1834,6 +1886,7 @@
             "prop",
             "~~prf"
         ],
+        "clength": 46,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{~~prf} see \\textsc{cont} \\textsc{prop} \\textsc{1sg} \\textsc{acc} \\textsc{pred} turtle",
         "imtwordsbare": [
@@ -1898,13 +1951,15 @@
             "\\textbf{he}",
             "honu."
         ],
-        "trs": "I have seen a turtle."
+        "trs": "I have seen a turtle.",
+        "wlength": 8
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 96,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} arrive hither \\textsc{art} man \\textsc{art} woman \\textsc{ntr} pack hither to inside to \\textsc{art} house",
@@ -2012,7 +2067,8 @@
             "\\textbf{te}",
             "hare."
         ],
-        "trs": "Men and women arrived and crowded into the house.\u2019 \\textstyleExampleref{[Ley-5-34.009]}"
+        "trs": "Men and women arrived and crowded into the house.\u2019 \\textstyleExampleref{[Ley-5-34.009]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -2020,6 +2076,7 @@
             "cont",
             "prf"
         ],
+        "clength": 55,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prf} die away \\textsc{cont} to \\textsc{art} water for drink",
         "imtwordsbare": [
@@ -2090,7 +2147,8 @@
             "mo",
             "unu."
         ],
-        "trs": "I\u2019m dying for water to drink.\u2019 \\textstyleExampleref{[R303.032]}"
+        "trs": "I\u2019m dying for water to drink.\u2019 \\textstyleExampleref{[R303.032]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -2098,6 +2156,7 @@
             "dist",
             "pred"
         ],
+        "clength": 58,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} love much like \\textsc{pred} bird \\textsc{dist} \\textsc{pred} dove",
         "imtwordsbare": [
@@ -2168,7 +2227,8 @@
             "he",
             "paloma..."
         ],
-        "trs": "Great love is like a dove...\u2019 \\textstyleExampleref{[R222.036\u2013037]}"
+        "trs": "Great love is like a dove...\u2019 \\textstyleExampleref{[R222.036\u2013037]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -2179,6 +2239,7 @@
             "prf",
             "prop"
         ],
+        "clength": 68,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prf} arrive \\textsc{cont} \\textsc{prop} \\textsc{1sg} to above at \\textsc{art} land \\textsc{num} seven",
         "imtwordsbare": [
@@ -2267,7 +2328,8 @@
             "e",
             "hitu."
         ],
-        "trs": "(In my dream) I arrived on seven islands.\u2019 \\textstyleExampleref{[R420.014]}"
+        "trs": "(In my dream) I arrived on seven islands.\u2019 \\textstyleExampleref{[R420.014]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -2278,6 +2340,7 @@
             "num",
             "prom"
         ],
+        "clength": 118,
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{art} stay \\textsc{nmlz} ancient \\textsc{dist} \\textsc{ident} \\textsc{art} man \\textsc{num} one \\textsc{art} name  \\textsc{prom} Tu\u2019uhakararo",
         "imtwordsbare": [
@@ -2384,7 +2447,8 @@
             "ko",
             "Tu{\\\ua78c}uhakararo."
         ],
-        "trs": "In the old times (there was) a man called Tu\u2019uhakararo.\u2019 \\textstyleExampleref{[R477.002]}"
+        "trs": "In the old times (there was) a man called Tu\u2019uhakararo.\u2019 \\textstyleExampleref{[R477.002]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -2394,6 +2458,7 @@
             "ipfv",
             "num"
         ],
+        "clength": 149,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ipfv} correct just for carry \\textsc{acc} \\textsc{art} statue \\textsc{num} one ten tons ~   \\textsc{ag} \\textsc{art} man \\textsc{num} one hundred eight ten",
@@ -2537,13 +2602,15 @@
             "va{\\\ua78c}u",
             "{\\\ua78c}ahuru."
         ],
-        "trs": "It is possible to transport a statue of ten tons... by one hundred and eighty men.\u2019 \\textstyleExampleref{[R376.062]}"
+        "trs": "It is possible to transport a statue of ten tons... by one hundred and eighty men.\u2019 \\textstyleExampleref{[R376.062]}",
+        "wlength": 21
     },
     {
         "categories": [
             "acc",
             "art"
         ],
+        "clength": 64,
         "filename": "124/05nounphrase.tex",
         "imt": "~~~for exist of \\textsc{art} money for trade hither \\textsc{acc} \\textsc{art} bread",
         "imtwordsbare": [
@@ -2626,7 +2693,8 @@
             "\\textbf{te}",
             "\\textbf{haraoa}."
         ],
-        "trs": "(He sells food) in order to have money to buy bread.\u2019 \\textstyleExampleref{[R156.023]}"
+        "trs": "(He sells food) in order to have money to buy bread.\u2019 \\textstyleExampleref{[R156.023]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -2641,6 +2709,7 @@
             "pl",
             "poss"
         ],
+        "clength": 97,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} say \\textsc{poss.1sg.o} to \\textsc{poss.1sg.o} \\textsc{pl} child sibling \\textsc{dist} for go of \\textsc{1pl.excl} for search \\textsc{acc} \\textsc{art} shell",
@@ -2766,7 +2835,8 @@
             "\\textbf{te}",
             "\\textbf{pipi}."
         ],
-        "trs": "I told my brothers and sisters that we would go to look for shells.\u2019 \\textstyleExampleref{[R125.002]}"
+        "trs": "I told my brothers and sisters that we would go to look for shells.\u2019 \\textstyleExampleref{[R125.002]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -2775,6 +2845,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 47,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg} \\textsc{neg.ipfv} eat \\textsc{acc} \\textsc{art} food raw",
         "imtwordsbare": [
@@ -2833,7 +2904,8 @@
             "\\textbf{kai}",
             "mata."
         ],
-        "trs": "Don\u2019t eat raw food.\u2019 \\textstyleExampleref{(\\citealt[61]{WeberR2003})}"
+        "trs": "Don\u2019t eat raw food.\u2019 \\textstyleExampleref{(\\citealt[61]{WeberR2003})}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -2844,6 +2916,7 @@
             "neg~",
             "num"
         ],
+        "clength": 65,
         "filename": "124/05nounphrase.tex",
         "imt": "~~~~\\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{art} fish of inside ~~~\\textsc{neg~} \\textsc{num} one",
         "imtwordsbare": [
@@ -2926,13 +2999,15 @@
             "e",
             "tahi."
         ],
-        "trs": "\u2014Are there any fish inside? \u2014Not one.\u2019 \\textstyleExampleref{[R241.058]}"
+        "trs": "\u2014Are there any fish inside? \u2014Not one.\u2019 \\textstyleExampleref{[R241.058]}",
+        "wlength": 11
     },
     {
         "categories": [
             "dist",
             "ntr"
         ],
+        "clength": 109,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go\\_out \\textsc{dist} parent Hippolytus to house \\textsc{dist} to house \\textsc{dist}",
@@ -3016,7 +3091,8 @@
             "\\textbf{hare}",
             "\\textbf{era}."
         ],
-        "trs": "Father Hippolytus went here and there (lit. to that house to that house).\u2019 \\textstyleExampleref{[R231.282]}"
+        "trs": "Father Hippolytus went here and there (lit. to that house to that house).\u2019 \\textstyleExampleref{[R231.282]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -3025,6 +3101,7 @@
             "ipfv",
             "neg"
         ],
+        "clength": 47,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg} \\textsc{neg.ipfv} eat \\textsc{acc} \\textsc{art} food raw",
         "imtwordsbare": [
@@ -3083,7 +3160,8 @@
             "\\textbf{kai}",
             "mata."
         ],
-        "trs": "Don\u2019t eat raw food.\u2019 \\textstyleExampleref{(\\citealt[610]{WeberR2003})}"
+        "trs": "Don\u2019t eat raw food.\u2019 \\textstyleExampleref{(\\citealt[610]{WeberR2003})}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -3094,6 +3172,7 @@
             "neg~~",
             "num"
         ],
+        "clength": 65,
         "filename": "124/05nounphrase.tex",
         "imt": "~~~~~\\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{art} fish of inside ~~~~\\textsc{neg~~} \\textsc{num} one",
         "imtwordsbare": [
@@ -3176,7 +3255,8 @@
             "e",
             "tahi."
         ],
-        "trs": "\u2014Are there any fish inside? \u2014Not one.\u2019 \\textstyleExampleref{[R241.058]}"
+        "trs": "\u2014Are there any fish inside? \u2014Not one.\u2019 \\textstyleExampleref{[R241.058]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -3185,6 +3265,7 @@
             "pred",
             "prox"
         ],
+        "clength": 66,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg} \\textsc{pred} old\\_woman \\textsc{prox} \\textsc{ntr} go\\_down hither to Hanga Roa",
         "imtwordsbare": [
@@ -3262,7 +3343,8 @@
             "Ha\u014ba",
             "Roa."
         ],
-        "trs": "This old woman did not go down to Hanga Roa.\u2019 \\textstyleExampleref{[R380.006]}"
+        "trs": "This old woman did not go down to Hanga Roa.\u2019 \\textstyleExampleref{[R380.006]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3270,6 +3352,7 @@
             "dist",
             "pred"
         ],
+        "clength": 41,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} man \\textsc{dem} bird \\textsc{dist}",
         "imtwordsbare": [
@@ -3316,13 +3399,15 @@
             "manu",
             "era."
         ],
-        "trs": "That bird was a human being.\u2019 \\textstyleExampleref{[Mtx-7-12.069]}"
+        "trs": "That bird was a human being.\u2019 \\textstyleExampleref{[Mtx-7-12.069]}",
+        "wlength": 5
     },
     {
         "categories": [
             "pred",
             "prom"
         ],
+        "clength": 17,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} man \\textsc{prom} Engo",
         "imtwordsbare": [
@@ -3363,7 +3448,8 @@
             "ko",
             "E\u014bo."
         ],
-        "trs": "There was a man (called) Engo.\u2019 \\textstyleExampleref{[Mtx-7-28.001]}"
+        "trs": "There was a man (called) Engo.\u2019 \\textstyleExampleref{[Mtx-7-28.001]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -3373,6 +3459,7 @@
             "ntr",
             "pred"
         ],
+        "clength": 103,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} say \\textsc{ag} \\textsc{art} parent male \\textsc{dist} of Te Rau \\textsc{pred} man head  of \\textsc{art} people of Kapiti",
         "imtwordsbare": [
@@ -3497,7 +3584,8 @@
             "o",
             "Kapiti..."
         ],
-        "trs": "The father of Te Rau, the leader of the people of Kapiti, said...\u2019 \\textstyleExampleref{[R347.089]}"
+        "trs": "The father of Te Rau, the leader of the people of Kapiti, said...\u2019 \\textstyleExampleref{[R347.089]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -3505,6 +3593,7 @@
             "nmlz",
             "pred"
         ],
+        "clength": 94,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} make boat and \\textsc{pred} go\\_out \\textsc{nmlz} to outside at \\textsc{art} sea",
@@ -3594,7 +3683,8 @@
             "te",
             "tai"
         ],
-        "trs": "Building boats, and going out to sea\u2019 \\textstyleExampleref{[R200 title]}"
+        "trs": "Building boats, and going out to sea\u2019 \\textstyleExampleref{[R200 title]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -3602,6 +3692,7 @@
             "pred",
             "prom"
         ],
+        "clength": 89,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} flower \\textsc{prom} \\textsc{1sg} \\textsc{pred} sky \\textsc{pred} star",
@@ -3667,7 +3758,8 @@
             "\\textbf{he}",
             "\\textbf{hetu{\\\ua78c}u}"
         ],
-        "trs": "The flowers, me, the sky and the stars\u2019 \\textstyleExampleref{[R222 title]}"
+        "trs": "The flowers, me, the sky and the stars\u2019 \\textstyleExampleref{[R222 title]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -3677,6 +3769,7 @@
             "art",
             "pred"
         ],
+        "clength": 116,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} work just of\\textsc{.a} Renga \\textsc{pred} cook \\textsc{acc} \\textsc{art} food \\textsc{pred} chicken \\textsc{pred} corn  \\textsc{pred} sweet\\_potato fish and other away",
@@ -3814,7 +3907,8 @@
             "t\u0113tahi",
             "atu."
         ],
-        "trs": "What Renga used to do was cooking food: chicken, corn, sweet potato, fish and other things.\u2019 \\textstyleExampleref{[R363.119]}"
+        "trs": "What Renga used to do was cooking food: chicken, corn, sweet potato, fish and other things.\u2019 \\textstyleExampleref{[R363.119]}",
+        "wlength": 20
     },
     {
         "categories": [
@@ -3823,6 +3917,7 @@
             "pred",
             "prox"
         ],
+        "clength": 84,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg} \\textsc{pred} old\\_woman \\textsc{prox} \\textsc{ntr} go\\_down hither to Hanga Roa",
         "imtwordsbare": [
@@ -3900,7 +3995,8 @@
             "Ha\u014ba",
             "Roa."
         ],
-        "trs": "This old woman did not go down to Hanga Roa.\u2019 \\textstyleExampleref{[R380.006]}"
+        "trs": "This old woman did not go down to Hanga Roa.\u2019 \\textstyleExampleref{[R380.006]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -3909,6 +4005,7 @@
             "ntr",
             "pred"
         ],
+        "clength": 67,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} man \\textsc{ntr} go \\textsc{ntr} dive \\textsc{acc} \\textsc{art} fish for \\textsc{art} time eat",
         "imtwordsbare": [
@@ -4003,7 +4100,8 @@
             "hora",
             "kai."
         ],
-        "trs": "The men went diving for fish for lunch.\u2019 \\textstyleExampleref{[R183.019]}"
+        "trs": "The men went diving for fish for lunch.\u2019 \\textstyleExampleref{[R183.019]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -4014,6 +4112,7 @@
             "pred",
             "prox"
         ],
+        "clength": 59,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} thing \\textsc{prox} \\textsc{pred} blood \\textsc{poss.1sg.o}",
         "imtwordsbare": [
@@ -4066,7 +4165,8 @@
             "\\textbf{toto}",
             "\\textbf{\u014d{\\\ua78c}oku}."
         ],
-        "trs": "This is my blood.\u2019 \\textstyleExampleref{[Luke 22:20]}"
+        "trs": "This is my blood.\u2019 \\textstyleExampleref{[Luke 22:20]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -4075,6 +4175,7 @@
             "neg",
             "num"
         ],
+        "clength": 38,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg} \\textsc{num} one thing of \\textsc{1pl.excl} for eat",
         "imtwordsbare": [
@@ -4140,7 +4241,8 @@
             "mo",
             "kai."
         ],
-        "trs": "We didn\u2019t have anything to eat (lit. there was not one thing of ours to eat).\u2019 \\textstyleExampleref{[R130.002]}"
+        "trs": "We didn\u2019t have anything to eat (lit. there was not one thing of ours to eat).\u2019 \\textstyleExampleref{[R130.002]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -4150,6 +4252,7 @@
             "pred",
             "red"
         ],
+        "clength": 116,
         "filename": "124/05nounphrase.tex",
         "imt": "small:\\textsc{red} like \\textsc{pred} rat care\\_for \\textsc{acc} \\textsc{art} house like \\textsc{pred} dog \\textsc{caus} face",
         "imtwordsbare": [
@@ -4244,7 +4347,8 @@
             "haka",
             "{\\\ua78c}\u0101ri\u014ba."
         ],
-        "trs": "Small like a mouse, guarding the house like an insolent dog.\u2019 \\textstyleExampleref{[R144.007]}"
+        "trs": "Small like a mouse, guarding the house like an insolent dog.\u2019 \\textstyleExampleref{[R144.007]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -4253,6 +4357,7 @@
             "ipfv",
             "pred"
         ],
+        "clength": 71,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} thing just \\textsc{ipfv} stay \\textsc{dist} \\textsc{pred} diverse just away of \\textsc{art} taro",
         "imtwordsbare": [
@@ -4347,7 +4452,8 @@
             "te",
             "taro."
         ],
-        "trs": "The only thing that was still there, was many kinds of taro.\u2019 \\textstyleExampleref{[R363.004]}"
+        "trs": "The only thing that was still there, was many kinds of taro.\u2019 \\textstyleExampleref{[R363.004]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -4356,6 +4462,7 @@
             "ident",
             "pred"
         ],
+        "clength": 66,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} boat of Paka\u2019a like \\textsc{pred} other boat \\textsc{dist} \\textsc{ident}",
         "imtwordsbare": [
@@ -4432,13 +4539,15 @@
             "era",
             "{\\\ua78c}\u0101."
         ],
-        "trs": "Paka\u2019a\u2019s boat was just like other boats.\u2019 \\textstyleExampleref{[R344.040]}"
+        "trs": "Paka\u2019a\u2019s boat was just like other boats.\u2019 \\textstyleExampleref{[R344.040]}",
+        "wlength": 10
     },
     {
         "categories": [
             "ntr",
             "num"
         ],
+        "clength": 40,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} born \\textsc{num} three child",
         "imtwordsbare": [
@@ -4485,13 +4594,15 @@
             "\\textbf{toru}",
             "poki."
         ],
-        "trs": "Three children were born.\u2019 \\textstyleExampleref{[R352.010]}"
+        "trs": "Three children were born.\u2019 \\textstyleExampleref{[R352.010]}",
+        "wlength": 5
     },
     {
         "categories": [
             "ntr",
             "num"
         ],
+        "clength": 39,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} make \\textsc{num} one shack",
         "imtwordsbare": [
@@ -4538,7 +4649,8 @@
             "\\textbf{tahi}",
             "paepae."
         ],
-        "trs": "He built a shelter.\u2019 \\textstyleExampleref{[Blx-2-1.015]}"
+        "trs": "He built a shelter.\u2019 \\textstyleExampleref{[Blx-2-1.015]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -4548,6 +4660,7 @@
             "pfv",
             "prom"
         ],
+        "clength": 70,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg} \\textsc{num} one person \\textsc{pfv} know \\textsc{prom} who \\textsc{art} thing \\textsc{pfv} won",
         "imtwordsbare": [
@@ -4637,7 +4750,8 @@
             "i",
             "r\u0113."
         ],
-        "trs": "No one (lit. not one person) knew who had won.\u2019 \\textstyleExampleref{[R448.018]}"
+        "trs": "No one (lit. not one person) knew who had won.\u2019 \\textstyleExampleref{[R448.018]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -4646,6 +4760,7 @@
             "num",
             "prom"
         ],
+        "clength": 79,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{num} one child \\textsc{art} name \\textsc{prom} Eva \\textsc{cntg} one ten year",
         "imtwordsbare": [
@@ -4728,13 +4843,15 @@
             "{\\\ua78c}ahuru",
             "matahiti."
         ],
-        "trs": "There was a child called Eva, ten years old.\u2019 \\textstyleExampleref{[R210.001]}"
+        "trs": "There was a child called Eva, ten years old.\u2019 \\textstyleExampleref{[R210.001]}",
+        "wlength": 11
     },
     {
         "categories": [
             "num",
             "pred"
         ],
+        "clength": 105,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{num} six person of above \\textsc{num} four man \\textsc{num} one woman and \\textsc{pred} child \\textsc{num} one",
@@ -4848,7 +4965,8 @@
             "e",
             "tahi."
         ],
-        "trs": "There were six people on board: four men, one woman, and one child.\u2019 \\textstyleExampleref{[R231.085]}"
+        "trs": "There were six people on board: four men, one woman, and one child.\u2019 \\textstyleExampleref{[R231.085]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -4861,6 +4979,7 @@
             "num",
             "poss"
         ],
+        "clength": 68,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ipfv} \\textsc{neg.ipfv} give \\textsc{ag} \\textsc{1sg} \\textsc{num} one person \\textsc{acc} \\textsc{poss.1sg.a} child",
         "imtwordsbare": [
@@ -4943,13 +5062,15 @@
             "t\u0101{\\\ua78c}aku",
             "poki."
         ],
-        "trs": "I won\u2019t give my child to anybody\\textit{.}\u2019 \\textstyleExampleref{[R229.069]}"
+        "trs": "I won\u2019t give my child to anybody\\textit{.}\u2019 \\textstyleExampleref{[R229.069]}",
+        "wlength": 11
     },
     {
         "categories": [
             "ntr",
             "num"
         ],
+        "clength": 55,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} stay \\textsc{num} three month at Aro Huri",
         "imtwordsbare": [
@@ -5014,13 +5135,15 @@
             "Aro",
             "Huri."
         ],
-        "trs": "He stayed three months in Aro Huri\\textit{.}\u2019 \\textstyleExampleref{[MsE-109.013]}"
+        "trs": "He stayed three months in Aro Huri\\textit{.}\u2019 \\textstyleExampleref{[MsE-109.013]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art",
             "num"
         ],
+        "clength": 62,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} house of \\textsc{art} man \\textsc{num} one",
         "imtwordsbare": [
@@ -5079,7 +5202,8 @@
             "\\textbf{e}",
             "\\textbf{tahi}"
         ],
-        "trs": "the house of one man\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "the house of one man\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5087,6 +5211,7 @@
             "ntr",
             "num"
         ],
+        "clength": 72,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go\\_up to above at \\textsc{art} stone \\textsc{num} one",
         "imtwordsbare": [
@@ -5157,7 +5282,8 @@
             "\\textbf{e}",
             "\\textbf{tahi}."
         ],
-        "trs": "He climbed on a stone.\u2019 \\textstyleExampleref{[R229.347]}"
+        "trs": "He climbed on a stone.\u2019 \\textstyleExampleref{[R229.347]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -5167,6 +5293,7 @@
             "ipfv",
             "num"
         ],
+        "clength": 80,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ipfv} pay \\textsc{dist} at \\textsc{art} month \\textsc{ins} sheep \\textsc{num} four",
         "imtwordsbare": [
@@ -5243,7 +5370,8 @@
             "\\textbf{e}",
             "\\textbf{h\u0101}."
         ],
-        "trs": "He was paid four sheep (lit. with four sheep) per month.\u2019 \\textstyleExampleref{[R250.053]}"
+        "trs": "He was paid four sheep (lit. with four sheep) per month.\u2019 \\textstyleExampleref{[R250.053]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -5256,6 +5384,7 @@
             "num",
             "pred"
         ],
+        "clength": 132,
         "filename": "124/05nounphrase.tex",
         "imt": "all tribe \\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{art} \\textsc{3pl} man head like \\textsc{pred} governor  \\textsc{num} one \\textsc{art} \\textsc{caus} meaning",
         "imtwordsbare": [
@@ -5380,7 +5509,8 @@
             "haka",
             "aura{\\\ua78c}a."
         ],
-        "trs": "All tribes had a leader... someone like a governor (lit. like one governor the meaning).\u2019 \\textstyleExampleref{[R371.006]}"
+        "trs": "All tribes had a leader... someone like a governor (lit. like one governor the meaning).\u2019 \\textstyleExampleref{[R371.006]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -5391,6 +5521,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 104,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prop} Makemake \\textsc{pfv} listen hither \\textsc{dist} to \\textsc{art} request away of \\textsc{dem} men \\textsc{dist}  \\textsc{num} two",
         "imtwordsbare": [
@@ -5503,7 +5634,8 @@
             "\\textbf{e}",
             "\\textbf{rua}."
         ],
-        "trs": "Makemake listened to the request of those two men.\u2019 \\textstyleExampleref{[Fel-40.044]}"
+        "trs": "Makemake listened to the request of those two men.\u2019 \\textstyleExampleref{[Fel-40.044]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -5512,6 +5644,7 @@
             "num",
             "prom"
         ],
+        "clength": 70,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go hither \\textsc{art} Miru \\textsc{num} two \\textsc{prom} Tema \\textsc{prom} Pau a Vaka",
@@ -5607,7 +5740,8 @@
             "{\\\ua78c}a",
             "Vaka."
         ],
-        "trs": "Two Miru men came, Tema and Pau a Vaka.\u2019 \\textstyleExampleref{[Mtx-3-06.024]}"
+        "trs": "Two Miru men came, Tema and Pau a Vaka.\u2019 \\textstyleExampleref{[Mtx-3-06.024]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -5616,6 +5750,7 @@
             "ntr",
             "num"
         ],
+        "clength": 46,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} chase hither \\textsc{acc} \\textsc{art} chicken \\textsc{num} one",
         "imtwordsbare": [
@@ -5680,7 +5815,8 @@
             "\\textbf{e}",
             "\\textbf{tahi}."
         ],
-        "trs": "He chased a (lit. one) chicken.\u2019 \\textstyleExampleref{[Mtx-7-03.033]}"
+        "trs": "He chased a (lit. one) chicken.\u2019 \\textstyleExampleref{[Mtx-7-03.033]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -5689,6 +5825,7 @@
             "num",
             "pfv"
         ],
+        "clength": 93,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} gather\\_shellfish hither but \\textsc{neg} \\textsc{neg.pfv} obtain \\textsc{num} one thing",
         "imtwordsbare": [
@@ -5765,13 +5902,15 @@
             "\\textbf{tahi}",
             "me{\\\ua78c}e."
         ],
-        "trs": "She went to gather shellfish, but she didn\u2019t get anything.\u2019 \\textstyleExampleref{[R178.026]}"
+        "trs": "She went to gather shellfish, but she didn\u2019t get anything.\u2019 \\textstyleExampleref{[R178.026]}",
+        "wlength": 10
     },
     {
         "categories": [
             "neg",
             "num"
         ],
+        "clength": 58,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg} \\textsc{num} one place remain for sleep",
         "imtwordsbare": [
@@ -5830,7 +5969,8 @@
             "mo",
             "moe."
         ],
-        "trs": "There was no place left to sleep.\u2019 \\textstyleExampleref{[R339.027]}"
+        "trs": "There was no place left to sleep.\u2019 \\textstyleExampleref{[R339.027]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5838,6 +5978,7 @@
             "ntr",
             "num"
         ],
+        "clength": 44,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} lie\\_down to \\textsc{art} girl \\textsc{num} one",
         "imtwordsbare": [
@@ -5896,7 +6037,8 @@
             "\\textbf{e}",
             "\\textbf{tahi}..."
         ],
-        "trs": "He married a (certain) girl...\u2019 \\textstyleExampleref{[Blx-3.002]}"
+        "trs": "He married a (certain) girl...\u2019 \\textstyleExampleref{[Blx-3.002]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -5906,6 +6048,7 @@
             "num",
             "prom"
         ],
+        "clength": 82,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{num} one man respected \\textsc{art} name of \\textsc{dem} man \\textsc{dist} \\textsc{prom} Ohovehi",
         "imtwordsbare": [
@@ -5994,7 +6137,8 @@
             "ko",
             "{\\\ua78c}Ohovehi."
         ],
-        "trs": "There was a respected man, the name of that man was Ohovehi.\u2019 \\textstyleExampleref{[R310.001]}"
+        "trs": "There was a respected man, the name of that man was Ohovehi.\u2019 \\textstyleExampleref{[R310.001]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -6003,6 +6147,7 @@
             "pred",
             "prom"
         ],
+        "clength": 58,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} man \\textsc{num} one \\textsc{prom} Marapua \\textsc{art} name",
         "imtwordsbare": [
@@ -6067,7 +6212,8 @@
             "te",
             "{\\\ua78c}\u012b\u014boa."
         ],
-        "trs": "There was a man called Marupua.\u2019 \\textstyleExampleref{[R481.001]}\\textstyleExampleref{}"
+        "trs": "There was a man called Marupua.\u2019 \\textstyleExampleref{[R481.001]}\\textstyleExampleref{}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -6076,6 +6222,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 48,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} arrive hither \\textsc{dem} \\textsc{pl} girl \\textsc{dist}",
         "imtwordsbare": [
@@ -6134,7 +6281,8 @@
             "\\textbf{uka}",
             "era."
         ],
-        "trs": "Those girls arrived\u2019. \\textstyleExampleref{[Blx-3.053]}"
+        "trs": "Those girls arrived\u2019. \\textstyleExampleref{[Blx-3.053]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -6143,6 +6291,7 @@
             "pl",
             "pred"
         ],
+        "clength": 38,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{conneg} \\textsc{pred} work \\textsc{pl} woman \\textsc{dist}",
         "imtwordsbare": [
@@ -6196,7 +6345,8 @@
             "vi{\\\ua78c}e",
             "r\u0101."
         ],
-        "trs": "That\u2019s not women\u2019s work.\u2019 \\textstyleExampleref{[R347.103]}"
+        "trs": "That\u2019s not women\u2019s work.\u2019 \\textstyleExampleref{[R347.103]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -6206,6 +6356,7 @@
             "num",
             "prox"
         ],
+        "clength": 71,
         "filename": "124/05nounphrase.tex",
         "imt": "woman \\textsc{prox} \\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{num} two child female",
         "imtwordsbare": [
@@ -6282,7 +6433,8 @@
             "\\textbf{poki}",
             "vahine."
         ],
-        "trs": "This woman had two daughters\u2019 \\textstyleExampleref{[R491.008]}"
+        "trs": "This woman had two daughters\u2019 \\textstyleExampleref{[R491.008]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -6292,6 +6444,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 78,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} disappear \\textsc{dem} car \\textsc{dist} \\textsc{ntr} \\textsc{pl}:disappear \\textsc{art} soldier",
@@ -6363,7 +6516,8 @@
             "\\textbf{te}",
             "\\textbf{va{\\\ua78c}ehau}."
         ],
-        "trs": "The carriage disappeared and the soldiers disappeared.\u2019 \\textstyleExampleref{[R491.039]}"
+        "trs": "The carriage disappeared and the soldiers disappeared.\u2019 \\textstyleExampleref{[R491.039]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -6372,6 +6526,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 98,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} return \\textsc{art} man \\textsc{art} woman \\textsc{art} \\textsc{pl} child to \\textsc{art}:of \\textsc{3pl} house",
@@ -6467,7 +6622,8 @@
             "r\u0101tou",
             "hare."
         ],
-        "trs": "(When the party is finished,) men, women and children go home.\u2019 \\textstyleExampleref{[Mtx-7-30.037]}"
+        "trs": "(When the party is finished,) men, women and children go home.\u2019 \\textstyleExampleref{[Mtx-7-30.037]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -6476,6 +6632,7 @@
             "ntr",
             "num"
         ],
+        "clength": 87,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go\\_out hither \\textsc{dem} men \\textsc{num} six from inside from \\textsc{art} house to outside",
         "imtwordsbare": [
@@ -6576,7 +6733,8 @@
             "ki",
             "haho."
         ],
-        "trs": "Those six men came out of the house.\u2019 \\textstyleExampleref{[Ley-4-01.023]}"
+        "trs": "Those six men came out of the house.\u2019 \\textstyleExampleref{[Ley-4-01.023]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -6586,6 +6744,7 @@
             "pl",
             "prf"
         ],
+        "clength": 49,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prf} \\textsc{pl}:wake\\_up \\textsc{cont} \\textsc{dem} \\textsc{pl} spirit \\textsc{dist}",
         "imtwordsbare": [
@@ -6644,7 +6803,8 @@
             "v\u0101rua",
             "era."
         ],
-        "trs": "Those spirits woke up.\u2019 \\textstyleExampleref{[R233.026]}"
+        "trs": "Those spirits woke up.\u2019 \\textstyleExampleref{[R233.026]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -6655,6 +6815,7 @@
             "pl",
             "red"
         ],
+        "clength": 105,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} \\textsc{pl} boat first arrive hither \\textsc{dist} \\textsc{ipfv} sway:\\textsc{red} just \\textsc{cont} at inside\\_\\textsc{art} water  at \\textsc{art} weak",
         "imtwordsbare": [
@@ -6773,7 +6934,8 @@
             "te",
             "reherehe."
         ],
-        "trs": "The first boats that arrived rocked in the water because they were so flimsy.\u2019 \\textstyleExampleref{[R539-1.550]}"
+        "trs": "The first boats that arrived rocked in the water because they were so flimsy.\u2019 \\textstyleExampleref{[R539-1.550]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -6783,6 +6945,7 @@
             "med",
             "pl"
         ],
+        "clength": 87,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{exh} read at first and there \\textsc{cntg} answer just\\_then \\textsc{art} \\textsc{pl} ask \\textsc{med}",
         "imtwordsbare": [
@@ -6877,7 +7040,8 @@
             "\\textbf{{\\\ua78c}ui}",
             "ena."
         ],
-        "trs": "First read, then answer these questions.\u2019 \\textstyleExampleref{[R534.013]}"
+        "trs": "First read, then answer these questions.\u2019 \\textstyleExampleref{[R534.013]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -6887,6 +7051,7 @@
             "pl",
             "poss"
         ],
+        "clength": 41,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{poss.3sg.a} \\textsc{pl} child \\textsc{num} two",
         "imtwordsbare": [
@@ -6933,7 +7098,8 @@
             "\\textbf{e}",
             "\\textbf{rua}"
         ],
-        "trs": "his two children\u2019 \\textstyleExampleref{[R376.033]}"
+        "trs": "his two children\u2019 \\textstyleExampleref{[R376.033]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -6942,6 +7108,7 @@
             "pl",
             "red"
         ],
+        "clength": 83,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} born:\\textsc{red} thing many just away \\textsc{3pl} \\textsc{pl} child",
         "imtwordsbare": [
@@ -7012,7 +7179,8 @@
             "\u014b\u0101",
             "poki."
         ],
-        "trs": "They had many children (lit. many their children were born).\u2019 \\textstyleExampleref{[R438.049]}"
+        "trs": "They had many children (lit. many their children were born).\u2019 \\textstyleExampleref{[R438.049]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -7023,6 +7191,7 @@
             "pfv",
             "pl"
         ],
+        "clength": 85,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pfv} cry \\textsc{dist} \\textsc{art} bell \\textsc{ntr} \\textsc{pl}:run all \\textsc{art} \\textsc{pl} child \\textsc{ntr} \\textsc{caus} line\\_up",
@@ -7124,7 +7293,8 @@
             "haka",
             "k\u0101u\u014ba."
         ],
-        "trs": "When the bell sounded, all the children ran and stood in line.\u2019 \\textstyleExampleref{[R334.012]}"
+        "trs": "When the bell sounded, all the children ran and stood in line.\u2019 \\textstyleExampleref{[R334.012]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -7132,6 +7302,7 @@
             "pl",
             "red"
         ],
+        "clength": 80,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} cloth\\_cape bad:\\textsc{red} for \\textsc{art} \\textsc{pl} thing walk aimlessly just by \\textsc{art} road",
         "imtwordsbare": [
@@ -7226,7 +7397,8 @@
             "te",
             "ara."
         ],
-        "trs": "The ordinary capes were for the ones (=people) who just walked along the road.\u2019 \\textstyleExampleref{[Ley-5-04.012]}"
+        "trs": "The ordinary capes were for the ones (=people) who just walked along the road.\u2019 \\textstyleExampleref{[Ley-5-04.012]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -7235,6 +7407,7 @@
             "pl",
             "prom"
         ],
+        "clength": 42,
         "filename": "124/05nounphrase.tex",
         "imt": "~to \\textsc{cq} \\textsc{2pl} \\textsc{prom} \\textsc{pl} person",
         "imtwordsbare": [
@@ -7287,13 +7460,15 @@
             "\\textbf{\u014b\u0101}",
             "\\textbf{kope}?"
         ],
-        "trs": "Where are you going, guys?\u2019 \\textstyleExampleref{[Ley-4-05.066]}"
+        "trs": "Where are you going, guys?\u2019 \\textstyleExampleref{[Ley-4-05.066]}",
+        "wlength": 6
     },
     {
         "categories": [
             "imp",
             "pl"
         ],
+        "clength": 45,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{imp} call \\textsc{pl} person \\textsc{imp} go hither",
         "imtwordsbare": [
@@ -7352,7 +7527,8 @@
             "oho",
             "mai."
         ],
-        "trs": "Call the guys to come.\u2019 \\textstyleExampleref{[R232.058]}"
+        "trs": "Call the guys to come.\u2019 \\textstyleExampleref{[R232.058]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -7361,6 +7537,7 @@
             "num",
             "pl"
         ],
+        "clength": 117,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{num} one decade of \\textsc{art} year of \\textsc{pl} child of Miru \\textsc{ntr} live again  \\textsc{pl} child of Tupahotu",
         "imtwordsbare": [
@@ -7485,7 +7662,8 @@
             "o",
             "T\u016bp\u0101hotu."
         ],
-        "trs": "After ten years of (the reign of) the children of Miru, the children of Tupahotu revived.\u2019 \\textstyleExampleref{[Mtx-3-07.016]}"
+        "trs": "After ten years of (the reign of) the children of Miru, the children of Tupahotu revived.\u2019 \\textstyleExampleref{[Mtx-3-07.016]}",
+        "wlength": 18
     },
     {
         "categories": [
@@ -7495,6 +7673,7 @@
             "pl",
             "red"
         ],
+        "clength": 73,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go \\textsc{1sg} to \\textsc{pl} house \\textsc{ntr} request:\\textsc{red} \\textsc{ins} place mulberry",
         "imtwordsbare": [
@@ -7577,13 +7756,15 @@
             "kona",
             "mahute."
         ],
-        "trs": "I\u2019m going to the houses to ask for mulberry fibres.\u2019 \\textstyleExampleref{[R352.025]}"
+        "trs": "I\u2019m going to the houses to ask for mulberry fibres.\u2019 \\textstyleExampleref{[R352.025]}",
+        "wlength": 11
     },
     {
         "categories": [
             "ntr",
             "num"
         ],
+        "clength": 93,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{num} six Nga Ruti Matakeva \\textsc{ntr} go \\textsc{num} one Nga Ruti",
         "imtwordsbare": [
@@ -7666,7 +7847,8 @@
             "\\textbf{\u014a\u0101}",
             "\\textbf{Ruti,}"
         ],
-        "trs": "There were six (men called) Nga Ruti Matakeva... One Nga Ruti went...\u2019 \\textstyleExampleref{[Mtx-3-11.001,005]}"
+        "trs": "There were six (men called) Nga Ruti Matakeva... One Nga Ruti went...\u2019 \\textstyleExampleref{[Mtx-3-11.001,005]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -7675,6 +7857,7 @@
             "pfv",
             "pl"
         ],
+        "clength": 59,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} \\textsc{pl} year \\textsc{pfv} stay \\textsc{dist} at Rapa Nui",
         "imtwordsbare": [
@@ -7745,13 +7928,15 @@
             "Rapa",
             "Nui"
         ],
-        "trs": "the years when he lived on Rapa Nui\u2019 \\textstyleExampleref{[R231.306]}"
+        "trs": "the years when he lived on Rapa Nui\u2019 \\textstyleExampleref{[R231.306]}",
+        "wlength": 9
     },
     {
         "categories": [
             "art",
             "pl"
         ],
+        "clength": 48,
         "filename": "124/05nounphrase.tex",
         "imt": "for \\textsc{art} \\textsc{pl} indigenous of Rapa Nui",
         "imtwordsbare": [
@@ -7810,7 +7995,8 @@
             "Rapa",
             "Nui"
         ],
-        "trs": "for the indigenous people of Rapa Nui\u2019 \\textstyleExampleref{[billboard in the street]}"
+        "trs": "for the indigenous people of Rapa Nui\u2019 \\textstyleExampleref{[billboard in the street]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -7824,6 +8010,7 @@
             "poss",
             "pvp"
         ],
+        "clength": 82,
         "filename": "124/05nounphrase.tex",
         "imt": "from \\textsc{ana} then \\textsc{1du.excl} \\textsc{pfv} go \\textsc{pvp} to \\textsc{art} house of \\textsc{poss.1sg.o} people parent\\nobreakdash-in\\nobreakdash-law",
         "imtwordsbare": [
@@ -7924,7 +8111,8 @@
             "\\textbf{nu{\\\ua78c}u}",
             "\\textbf{hu\u014bavai}."
         ],
-        "trs": "From there we went to the house of my parents-in-law.\u2019 \\textstyleExampleref{[R107.018]}"
+        "trs": "From there we went to the house of my parents-in-law.\u2019 \\textstyleExampleref{[R107.018]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -7935,6 +8123,7 @@
             "pred",
             "prom"
         ],
+        "clength": 89,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{poss.3sg.a} thing want \\textsc{pred} entertaining together \\textsc{prom} \\textsc{poss.3sg.o} people friend",
         "imtwordsbare": [
@@ -8011,7 +8200,8 @@
             "\\textbf{nu{\\\ua78c}u}",
             "\\textbf{repahoa}."
         ],
-        "trs": "What he likes is... having a good time with his friends.\u2019 \\textstyleExampleref{[R489.003]}"
+        "trs": "What he likes is... having a good time with his friends.\u2019 \\textstyleExampleref{[R489.003]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -8022,6 +8212,7 @@
             "poss",
             "prop"
         ],
+        "clength": 119,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{num} one \\textsc{pfv} give to \\textsc{prop} \\textsc{poss.3sg.o} aunt other away \\textsc{pfv} give  to other people",
         "imtwordsbare": [
@@ -8128,7 +8319,8 @@
             "t\u0113tahi",
             "nu{\\\ua78c}u."
         ],
-        "trs": "One she gave to her aunt. The others she gave to other people.\u2019 \\textstyleExampleref{[R168.006\u2013007]}"
+        "trs": "One she gave to her aunt. The others she gave to other people.\u2019 \\textstyleExampleref{[R168.006\u2013007]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -8137,6 +8329,7 @@
             "dist",
             "ipfv"
         ],
+        "clength": 62,
         "filename": "124/05nounphrase.tex",
         "imt": "all \\textsc{ipfv} run \\textsc{dist} \\textsc{ipfv} carry hither \\textsc{dist} \\textsc{acc} \\textsc{art} food",
         "imtwordsbare": [
@@ -8219,7 +8412,8 @@
             "te",
             "kai."
         ],
-        "trs": "All ran, carrying the food.\u2019 \\textstyleExampleref{[R210.155]}"
+        "trs": "All ran, carrying the food.\u2019 \\textstyleExampleref{[R210.155]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -8230,6 +8424,7 @@
             "pfv",
             "poss"
         ],
+        "clength": 93,
         "coordination": "or",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{neg.pfv} remain \\textsc{poss.3sg.a} of \\textsc{art} fish of \\textsc{art} lobster of \\textsc{art} conger\\_eel",
@@ -8319,7 +8514,8 @@
             "te",
             "k\u014d{\\\ua78c}iro."
         ],
-        "trs": "There was no fish, lobster or conger eel left for her.\u2019 \\textstyleExampleref{[Mtx-4-04.003]}"
+        "trs": "There was no fish, lobster or conger eel left for her.\u2019 \\textstyleExampleref{[Mtx-4-04.003]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -8332,6 +8528,7 @@
             "poss",
             "prop"
         ],
+        "clength": 79,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{cntg} obtain \\textsc{ag} Hete \\textsc{acc} \\textsc{art} egg \\textsc{cntg} touch also \\textsc{prop} Kikio to \\textsc{poss.3sg.a}",
         "imtwordsbare": [
@@ -8432,7 +8629,8 @@
             "ki",
             "\\textbf{t\u0101{\\\ua78c}ana}."
         ],
-        "trs": "When Hete got an egg, Kikio also touched his (one).\u2019 \\textstyleExampleref{[R438.042]}"
+        "trs": "When Hete got an egg, Kikio also touched his (one).\u2019 \\textstyleExampleref{[R438.042]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -8441,6 +8639,7 @@
             "ntr",
             "poss"
         ],
+        "clength": 65,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} give \\textsc{poss.3sg.a} \\textsc{poss.3sg.a} \\textsc{ntr} distribute",
         "imtwordsbare": [
@@ -8493,7 +8692,8 @@
             "he",
             "tuha{\\\ua78c}a."
         ],
-        "trs": "He gave everyone his share, distributing it.\u2019 \\textstyleExampleref{[R372.123]}"
+        "trs": "He gave everyone his share, distributing it.\u2019 \\textstyleExampleref{[R372.123]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -8505,6 +8705,7 @@
             "poss",
             "prom"
         ],
+        "clength": 109,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} Koka \\textsc{art} name of \\textsc{poss.3sg.o} horse \\textsc{prom} Parasa \\textsc{art}:of \\textsc{art} old\\_woman \\textsc{dist}  \\textsc{poss.3sg.a}",
         "imtwordsbare": [
@@ -8605,13 +8806,15 @@
             "era",
             "{\\\ua78c}\u0101{\\\ua78c}ana."
         ],
-        "trs": "Koka was the name of his horse, Parasa the (name) of his old wife.\u2019 \\textstyleExampleref{[R539-1.420]}"
+        "trs": "Koka was the name of his horse, Parasa the (name) of his old wife.\u2019 \\textstyleExampleref{[R539-1.420]}",
+        "wlength": 14
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 74,
         "filename": "124/05nounphrase.tex",
         "imt": "~\\textsc{prom} who \\textsc{art} name of \\textsc{art} name \\textsc{art}:of \\textsc{art} woman",
         "imtwordsbare": [
@@ -8688,7 +8891,8 @@
             "\\textbf{te}",
             "\\textbf{vi{\\\ua78c}e}?"
         ],
-        "trs": "What is the man\u2019s name? And the woman\u2019s?\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "What is the man\u2019s name? And the woman\u2019s?\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -8696,6 +8900,7 @@
             "ntr",
             "red"
         ],
+        "clength": 81,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} say \\textsc{art} child ~person thing big:\\textsc{red} to \\textsc{art} child ~person thing small:\\textsc{red}",
         "imtwordsbare": [
@@ -8790,7 +8995,8 @@
             "me{\\\ua78c}e)",
             "{\\\ua78c}iti{\\\ua78c}iti..."
         ],
-        "trs": "(There were two children.) The big one said to the small one...\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "(There were two children.) The big one said to the small one...\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -8800,6 +9006,7 @@
             "prox",
             "red"
         ],
+        "clength": 88,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} chair \\textsc{prox} for \\textsc{art} respected \\textsc{art} chair \\textsc{dist} for \\textsc{art} small:\\textsc{pl}:\\textsc{red}",
         "imtwordsbare": [
@@ -8888,7 +9095,8 @@
             "\\textbf{te}",
             "\\textbf{rikiriki}."
         ],
-        "trs": "These chairs are for the authorities. Those chairs are for the small people.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "These chairs are for the authorities. Those chairs are for the small people.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -8900,6 +9108,7 @@
             "prox",
             "red"
         ],
+        "clength": 85,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} big:\\textsc{red} of Tahiti \\textsc{ipfv} add away \\textsc{1du.incl} \\textsc{num} six big \\textsc{prox} of Rapa Nui",
         "imtwordsbare": [
@@ -9006,7 +9215,8 @@
             "Rapa",
             "Nui."
         ],
-        "trs": "The size of Tahiti altogether is six times the size of Rapa Nui.\u2019 \\textstyleExampleref{[R348.003]}"
+        "trs": "The size of Tahiti altogether is six times the size of Rapa Nui.\u2019 \\textstyleExampleref{[R348.003]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -9015,6 +9225,7 @@
             "conneg",
             "dist"
         ],
+        "clength": 123,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} {\\db}head \\textsc{caus} run {\\db}\\textsc{conneg} correct \\textsc{dist} of \\textsc{art} house judgment",
         "imtwordsbare": [
@@ -9097,7 +9308,8 @@
             "hare",
             "ture"
         ],
-        "trs": "the unrighteous head of the courthouse\u2019 \\textstyleExampleref{[Luke 18:6]}"
+        "trs": "the unrighteous head of the courthouse\u2019 \\textstyleExampleref{[Luke 18:6]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -9105,6 +9317,7 @@
             "dist",
             "med"
         ],
+        "clength": 103,
         "filename": "124/05nounphrase.tex",
         "imt": "child new \\textsc{art} thing \\textsc{dist} child Rapa Nui \\textsc{art} thing \\textsc{med}",
         "imtwordsbare": [
@@ -9187,7 +9400,8 @@
             "me{\\\ua78c}e",
             "ena."
         ],
-        "trs": "That one is a young child, that one is a Rapa Nui child.\u2019 \\textstyleExampleref{[R416.238]}"
+        "trs": "That one is a young child, that one is a Rapa Nui child.\u2019 \\textstyleExampleref{[R416.238]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -9197,6 +9411,7 @@
             "poss",
             "red"
         ],
+        "clength": 73,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{imp} carry hither \\textsc{poss.2sg.a} container white:\\textsc{red} dot yellow",
         "imtwordsbare": [
@@ -9261,13 +9476,15 @@
             "\\textbf{tuki}",
             "\\textbf{t\u014duam\u0101mari}."
         ],
-        "trs": "Bring your white, yellow-dotted bowl.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "Bring your white, yellow-dotted bowl.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art",
             "ntr"
         ],
+        "clength": 69,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} slimy \\textsc{art} neck to \\textsc{art} food gather\\_shellfish at sea",
         "imtwordsbare": [
@@ -9344,7 +9561,8 @@
             "{\\\ua78c}i",
             "tai."
         ],
-        "trs": "They were craving to get shellfish on the seashore.\u2019 \\textstyleExampleref{[Mtx-7-30.043]}"
+        "trs": "They were craving to get shellfish on the seashore.\u2019 \\textstyleExampleref{[Mtx-7-30.043]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -9354,6 +9572,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 79,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} die \\textsc{art} stomach of \\textsc{dem} \\textsc{pl} girl \\textsc{dist} to \\textsc{dem} \\textsc{pl} lad \\textsc{dist}",
         "imtwordsbare": [
@@ -9454,7 +9673,8 @@
             "io",
             "era."
         ],
-        "trs": "The girls fell in love with those boys.\u2019 \\textstyleExampleref{[Mtx-6-03.079]}"
+        "trs": "The girls fell in love with those boys.\u2019 \\textstyleExampleref{[Mtx-6-03.079]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -9463,6 +9683,7 @@
             "pl",
             "pred"
         ],
+        "clength": 38,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{conneg} \\textsc{pred} work \\textsc{pl} woman \\textsc{dist}",
         "imtwordsbare": [
@@ -9516,7 +9737,8 @@
             "vi{\\\ua78c}e",
             "r\u0101."
         ],
-        "trs": "It\u2019s not women\u2019s work.\u2019 \\textstyleExampleref{[R347.103]}"
+        "trs": "It\u2019s not women\u2019s work.\u2019 \\textstyleExampleref{[R347.103]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -9527,6 +9749,7 @@
             "poss",
             "prox"
         ],
+        "clength": 127,
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{art} day \\textsc{conneg} stay at \\textsc{art} place enclosure {\\db}to\\_plant food \\textsc{prox} \\textsc{poss.3sg.a}",
         "imtwordsbare": [
@@ -9622,7 +9845,8 @@
             "nei",
             "{\\\ua78c}\u0101{\\\ua78c}ana"
         ],
-        "trs": "on a day when he did not stay in his garden plot\u2019 \\textstyleExampleref{[R381.004]}"
+        "trs": "on a day when he did not stay in his garden plot\u2019 \\textstyleExampleref{[R381.004]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -9634,6 +9858,7 @@
             "pl",
             "red"
         ],
+        "clength": 156,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ins} thing piece:\\textsc{red} wire:\\textsc{red} spine:\\textsc{red} {\\db}pull enclosure \\textsc{med} \\textsc{ipfv} make \\textsc{dist}  \\textsc{art} thing chain small:\\textsc{pl}:\\textsc{red}",
         "imtwordsbare": [
@@ -9740,7 +9965,8 @@
             "vivi",
             "rikiriki."
         ],
-        "trs": "With pieces of barbed fence wire they made little chains.\u2019 \\textstyleExampleref{[R364.005]}"
+        "trs": "With pieces of barbed fence wire they made little chains.\u2019 \\textstyleExampleref{[R364.005]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -9751,6 +9977,7 @@
             "poss",
             "pred"
         ],
+        "clength": 112,
         "coordination": "or",
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{poss.3sg.o} day \\textsc{ntr} exist hither \\textsc{art} work \\textsc{pred} enclosure build  or \\textsc{pred} leaf pick",
@@ -9858,13 +10085,15 @@
             "\\textbf{rau}",
             "\\textbf{kato}."
         ],
-        "trs": "On certain days there were jobs like making fences or picking leaves.\u2019 \\textstyleExampleref{[R380.084]}"
+        "trs": "On certain days there were jobs like making fences or picking leaves.\u2019 \\textstyleExampleref{[R380.084]}",
+        "wlength": 15
     },
     {
         "categories": [
             "art",
             "pred"
         ],
+        "clength": 56,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} food steal just hither of \\textsc{art} man \\textsc{art} do",
         "imtwordsbare": [
@@ -9941,7 +10170,8 @@
             "te",
             "a\u014ba."
         ],
-        "trs": "Stealing the people\u2019s food was what she did all the time.\u2019{\\rmfnm} \\textstyleExampleref{[R368.017]}"
+        "trs": "Stealing the people\u2019s food was what she did all the time.\u2019{\\rmfnm} \\textstyleExampleref{[R368.017]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -9953,6 +10183,7 @@
             "o",
             "poss"
         ],
+        "clength": 91,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} make \\textsc{acc} \\textsc{art} shack \\textsc{num} one at back of \\textsc{poss.3sg.o} house new do just\\_then",
         "imtwordsbare": [
@@ -10059,7 +10290,8 @@
             "\\textbf{a\u014ba}",
             "\\textbf{iho}."
         ],
-        "trs": "He built a shelter behind his new house he had just built.\u2019 \\textstyleExampleref{[R250.131]}"
+        "trs": "He built a shelter behind his new house he had just built.\u2019 \\textstyleExampleref{[R250.131]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -10072,6 +10304,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 99,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} carry all hither then \\textsc{acc} \\textsc{dem} \\textsc{pl} food \\textsc{caus} ready \\textsc{dist} \\textsc{ag} \\textsc{3sg}",
         "imtwordsbare": [
@@ -10172,13 +10405,15 @@
             "\\textbf{e}",
             "\\textbf{ia}."
         ],
-        "trs": "He carried all that food he had prepared.\u2019 \\textstyleExampleref{[R304.078]}"
+        "trs": "He carried all that food he had prepared.\u2019 \\textstyleExampleref{[R304.078]}",
+        "wlength": 14
     },
     {
         "categories": [
             "dist",
             "ntr"
         ],
+        "clength": 71,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} take hither \\textsc{dist} \\textsc{ntr} cook pan \\textsc{ntr} cook.fire",
@@ -10250,7 +10485,8 @@
             "he",
             "\\textbf{tunuahi}."
         ],
-        "trs": "They took the food and cooked it in the pan, roasted it on a fire.\u2019 \\textstyleExampleref{[R107.049]}"
+        "trs": "They took the food and cooked it in the pan, roasted it on a fire.\u2019 \\textstyleExampleref{[R107.049]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -10260,6 +10496,7 @@
             "ins",
             "ntr"
         ],
+        "clength": 83,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} cook stone hot \\textsc{caus} bathe \\textsc{acc} \\textsc{art} child \\textsc{ins} water hot",
@@ -10349,7 +10586,8 @@
             "vai",
             "vera."
         ],
-        "trs": "He cooked (the water) with hot rocks, and bathed the child with hot water.\u2019 \\textstyleExampleref{[Mtx-1-07.016]}"
+        "trs": "He cooked (the water) with hot rocks, and bathed the child with hot water.\u2019 \\textstyleExampleref{[Mtx-1-07.016]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -10358,6 +10596,7 @@
             "ipfv",
             "prox"
         ],
+        "clength": 100,
         "filename": "124/05nounphrase.tex",
         "imt": "and people \\textsc{conneg} many at \\textsc{art} day \\textsc{prox} \\textsc{ipfv} greet Rapa Nui \\textsc{prox}",
         "imtwordsbare": [
@@ -10452,7 +10691,8 @@
             "\\textbf{nui}",
             "nei."
         ],
-        "trs": "Few people today greet each other in Rapa Nui (with this Rapa Nui greeting).\u2019 \\textstyleExampleref{[R530.038]}"
+        "trs": "Few people today greet each other in Rapa Nui (with this Rapa Nui greeting).\u2019 \\textstyleExampleref{[R530.038]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -10461,6 +10701,7 @@
             "ntr",
             "red"
         ],
+        "clength": 49,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} make \\textsc{acc} \\textsc{art} house white:\\textsc{red} big:\\textsc{red}",
         "imtwordsbare": [
@@ -10519,7 +10760,8 @@
             "\\textbf{teatea}",
             "\\textbf{nuinui}."
         ],
-        "trs": "He built a big white house.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "He built a big white house.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -10528,6 +10770,7 @@
             "ntr",
             "red"
         ],
+        "clength": 49,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} make \\textsc{acc} \\textsc{art} house big:\\textsc{red} white:\\textsc{red}",
         "imtwordsbare": [
@@ -10586,7 +10829,8 @@
             "\\textbf{nuinui}",
             "\\textbf{teatea}."
         ],
-        "trs": "He built a big house, which was white.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "He built a big house, which was white.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -10595,6 +10839,7 @@
             "ntr",
             "red"
         ],
+        "clength": 61,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} look hither \\textsc{acc} \\textsc{art} bamboo straight good:\\textsc{red}",
         "imtwordsbare": [
@@ -10659,13 +10904,15 @@
             "\\textbf{t\u012btika}",
             "\\textbf{rivariva}."
         ],
-        "trs": "You look (= one looks) for a straight, good bamboo stick.\u2019 \\textstyleExampleref{[R360.015]}"
+        "trs": "You look (= one looks) for a straight, good bamboo stick.\u2019 \\textstyleExampleref{[R360.015]}",
+        "wlength": 8
     },
     {
         "categories": [
             "pred",
             "red"
         ],
+        "clength": 40,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} beard part red:\\textsc{red}",
         "imtwordsbare": [
@@ -10706,7 +10953,8 @@
             "\\textbf{{\\\ua78c}apa}",
             "\\textbf{meamea}"
         ],
-        "trs": "a reddish beard\u2019 \\textstyleExampleref{(\\citealt[77]{WeberR2003})}"
+        "trs": "a reddish beard\u2019 \\textstyleExampleref{(\\citealt[77]{WeberR2003})}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -10716,6 +10964,7 @@
             "ntr",
             "pl"
         ],
+        "clength": 108,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} finish \\textsc{cont} \\textsc{art} land indigenous part near to \\textsc{art} \\textsc{pl} land \\textsc{med}  of \\textsc{art} South\\_America",
         "imtwordsbare": [
@@ -10828,7 +11077,8 @@
             "te",
             "America\\_del\\_Sur."
         ],
-        "trs": "This is the only Polynesian island sort of close to the countries of South America.\u2019 \\textstyleExampleref{[R350.003]}"
+        "trs": "This is the only Polynesian island sort of close to the countries of South America.\u2019 \\textstyleExampleref{[R350.003]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -10836,6 +11086,7 @@
             "prox",
             "red"
         ],
+        "clength": 95,
         "filename": "124/05nounphrase.tex",
         "imt": "thing good:\\textsc{red} much \\textsc{art} thing \\textsc{prox} for \\textsc{art} life of \\textsc{art} people of Rapa Nui",
         "imtwordsbare": [
@@ -10942,13 +11193,15 @@
             "Rapa",
             "Nui."
         ],
-        "trs": "This was something very good for the life of the people of Rapa Nui.\u2019 \\textstyleExampleref{[R231.314]}"
+        "trs": "This was something very good for the life of the people of Rapa Nui.\u2019 \\textstyleExampleref{[R231.314]}",
+        "wlength": 15
     },
     {
         "categories": [
             "art",
             "pred"
         ],
+        "clength": 86,
         "filename": "124/05nounphrase.tex",
         "imt": "like \\textsc{pred} king \\textsc{art} example thing respect very",
         "imtwordsbare": [
@@ -11013,7 +11266,8 @@
             "\\textbf{mo{\\\ua78c}a}",
             "\\textbf{ri{\\\ua78c}ari{\\\ua78c}a}."
         ],
-        "trs": "The king, for example, was very sacred.\u2019 \\textstyleExampleref{[R371.009]}"
+        "trs": "The king, for example, was very sacred.\u2019 \\textstyleExampleref{[R371.009]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -11023,6 +11277,7 @@
             "prox",
             "pvp"
         ],
+        "clength": 83,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{prox} \\textsc{pfv} \\textsc{pl}:stay \\textsc{pfv} look \\textsc{pvp} homeland good really \\textsc{ident}",
@@ -11106,7 +11361,8 @@
             "\\textbf{mau}",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "Here they stayed and saw that it was a really good country.\u2019 \\textstyleExampleref{[R420.054]}"
+        "trs": "Here they stayed and saw that it was a really good country.\u2019 \\textstyleExampleref{[R420.054]}",
+        "wlength": 11
     },
     {
         "categories": [
@@ -11115,6 +11371,7 @@
             "nmlz",
             "pl"
         ],
+        "clength": 159,
         "filename": "124/05nounphrase.tex",
         "imt": "at Hanga Roa \\textsc{art} \\textsc{pl}:stay \\textsc{nmlz} at \\textsc{art} place {\\db}near {\\db}to \\textsc{art} hospital ancient \\textsc{dist}",
         "imtwordsbare": [
@@ -11221,13 +11478,15 @@
             "\\textbf{tuai}",
             "\\textbf{era}\\,{\\cb}\\,{\\cb}."
         ],
-        "trs": "They lived in Hanga Roa, in a place close to the old hospital.\u2019 \\textstyleExampleref{[R380.003]}"
+        "trs": "They lived in Hanga Roa, in a place close to the old hospital.\u2019 \\textstyleExampleref{[R380.003]}",
+        "wlength": 15
     },
     {
         "categories": [
             "ntr",
             "pred"
         ],
+        "clength": 82,
         "filename": "124/05nounphrase.tex",
         "imt": "the thing just of above \\textsc{pred} piece pumpkin \\textsc{ntr} finish really just",
         "imtwordsbare": [
@@ -11316,7 +11575,8 @@
             "mau",
             "n\u014d."
         ],
-        "trs": "The only thing (they had with them) on board was a piece of pumpkin, that was all.\u2019 \\textstyleExampleref{[R303.054]}"
+        "trs": "The only thing (they had with them) on board was a piece of pumpkin, that was all.\u2019 \\textstyleExampleref{[R303.054]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -11330,6 +11590,7 @@
             "poss",
             "prom"
         ],
+        "clength": 106,
         "filename": "124/05nounphrase.tex",
         "imt": "and \\textsc{poss.3sg.o} name just in\\_fact \\textsc{pfv} know \\textsc{dist} \\textsc{ag} \\textsc{1pl.incl} \\textsc{prom} Sebasti\u00e1n Englert",
         "imtwordsbare": [
@@ -11424,7 +11685,8 @@
             "Sebasti\u00e1n",
             "Englert."
         ],
-        "trs": "And the only name we knew him by, was Sebasti\u00e1n Englert.\u2019 \\textstyleExampleref{[R375.005]}"
+        "trs": "And the only name we knew him by, was Sebasti\u00e1n Englert.\u2019 \\textstyleExampleref{[R375.005]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -11436,6 +11698,7 @@
             "prom",
             "prox"
         ],
+        "clength": 84,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} man of \\textsc{prox} \\textsc{ipfv} to\\_fish \\textsc{dist} \\textsc{ins} lobster just \\textsc{3pl} \\textsc{prom} \\textsc{art} crab",
@@ -11537,7 +11800,8 @@
             "te",
             "p\u012bkea."
         ],
-        "trs": "The people here used to fish only with lobster and crab.\u2019 \\textstyleExampleref{[R354.029]}"
+        "trs": "The people here used to fish only with lobster and crab.\u2019 \\textstyleExampleref{[R354.029]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -11545,6 +11809,7 @@
             "irr",
             "prox"
         ],
+        "clength": 69,
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{art} night just \\textsc{art} fish \\textsc{prox} \\textsc{irr} to\\_fish",
         "imtwordsbare": [
@@ -11615,7 +11880,8 @@
             "ana",
             "h\u012b."
         ],
-        "trs": "Only at night this fish can be fished.\u2019 \\textstyleExampleref{[R364.007]}"
+        "trs": "Only at night this fish can be fished.\u2019 \\textstyleExampleref{[R364.007]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -11623,6 +11889,7 @@
             "art",
             "prom"
         ],
+        "clength": 59,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} \\textsc{3sg} just \\textsc{art} child new of inside",
         "imtwordsbare": [
@@ -11687,7 +11954,8 @@
             "o",
             "roto."
         ],
-        "trs": "She was the only new child inside (the class).\u2019 \\textstyleExampleref{[R151.020]}"
+        "trs": "She was the only new child inside (the class).\u2019 \\textstyleExampleref{[R151.020]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -11698,6 +11966,7 @@
             "poss",
             "pred"
         ],
+        "clength": 53,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} servant just \\textsc{1du.excl} \\textsc{poss.2sg.o}",
         "imtwordsbare": [
@@ -11744,7 +12013,8 @@
             "m\u0101ua",
             "\u014d{\\\ua78c}ou."
         ],
-        "trs": "We are just your slaves.\u2019 \\textstyleExampleref{[R214.015]}"
+        "trs": "We are just your slaves.\u2019 \\textstyleExampleref{[R214.015]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -11754,6 +12024,7 @@
             "poss",
             "pred"
         ],
+        "clength": 52,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pred} friend just \\textsc{1sg} \\textsc{poss.2sg.o}",
         "imtwordsbare": [
@@ -11800,7 +12071,8 @@
             "au",
             "\u014d{\\\ua78c}ou."
         ],
-        "trs": "I am just your friend.\u2019 \\textstyleExampleref{[R308.032]}"
+        "trs": "I am just your friend.\u2019 \\textstyleExampleref{[R308.032]}",
+        "wlength": 5
     },
     {
         "categories": [
@@ -11808,6 +12080,7 @@
             "neg",
             "num"
         ],
+        "clength": 79,
         "filename": "124/05nounphrase.tex",
         "imt": "but \\textsc{art} bad just \\textsc{neg} \\textsc{num} one material for make",
         "imtwordsbare": [
@@ -11885,7 +12158,8 @@
             "mo",
             "a\u014ba."
         ],
-        "trs": "(He wanted to build a house.) But unfortunately (=the problem was), there were no building materials.\u2019 \\textstyleExampleref{[R231.156]}"
+        "trs": "(He wanted to build a house.) But unfortunately (=the problem was), there were no building materials.\u2019 \\textstyleExampleref{[R231.156]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -11899,6 +12173,7 @@
             "ntr",
             "poss"
         ],
+        "clength": 99,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} good just \\textsc{ipfv} drunk \\textsc{dist} \\textsc{neg} \\textsc{ntr} strike \\textsc{acc} \\textsc{poss.3sg.a} family",
         "imtwordsbare": [
@@ -11988,7 +12263,8 @@
             "t\u0101{\\\ua78c}ana",
             "hua{\\\ua78c}ai."
         ],
-        "trs": "(He used to drink.) Fortunately (=the good thing was), when he was drunk, he did not beat his family.\u2019 \\textstyleExampleref{[R309.056]}"
+        "trs": "(He used to drink.) Fortunately (=the good thing was), when he was drunk, he did not beat his family.\u2019 \\textstyleExampleref{[R309.056]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -12004,6 +12280,7 @@
             "poss",
             "red"
         ],
+        "clength": 144,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} thing just at above at \\textsc{dem} boat \\textsc{dist} \\textsc{poss.3sg.o} \\textsc{ipfv} exist \\textsc{emph} \\textsc{cont} \\textsc{num} one mat \\textsc{num} two wood at \\textsc{art} side:\\textsc{red} of \\textsc{art} boat",
@@ -12177,7 +12454,8 @@
             "te",
             "vaka."
         ],
-        "trs": "(His boat was like the other ones;) however, in his boat there was a rug, and two poles on the sides of the boat.\u2019 \\textstyleExampleref{[R344.040]}"
+        "trs": "(His boat was like the other ones;) however, in his boat there was a rug, and two poles on the sides of the boat.\u2019 \\textstyleExampleref{[R344.040]}",
+        "wlength": 26
     },
     {
         "categories": [
@@ -12193,6 +12471,7 @@
             "prf",
             "prop"
         ],
+        "clength": 130,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prf} afraid \\textsc{cont} \\textsc{acc} \\textsc{dem} sick \\textsc{dist} \\textsc{poss.3sg.o} \\textsc{ipfv} carry \\textsc{dist} at inside  at \\textsc{prop} \\textsc{3sg} \\textsc{ident}",
         "imtwordsbare": [
@@ -12311,7 +12590,8 @@
             "\\textbf{ia}",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "She was afraid of the sickness she carried inside herself.\u2019 \\textstyleExampleref{[R301.091]}"
+        "trs": "She was afraid of the sickness she carried inside herself.\u2019 \\textstyleExampleref{[R301.091]}",
+        "wlength": 17
     },
     {
         "categories": [
@@ -12322,6 +12602,7 @@
             "num",
             "prop"
         ],
+        "clength": 99,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} sit at above at \\textsc{art} stone \\textsc{num} one \\textsc{ntr} say to \\textsc{prop} \\textsc{3sg} \\textsc{ident}",
@@ -12429,7 +12710,8 @@
             "\\textbf{ia}",
             "\\textbf{{\\\ua78c}\u0101}..."
         ],
-        "trs": "He sat down on a stone and said to himself...\u2019 \\textstyleExampleref{[R229.365]}"
+        "trs": "He sat down on a stone and said to himself...\u2019 \\textstyleExampleref{[R229.365]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -12444,6 +12726,7 @@
             "poss",
             "prop"
         ],
+        "clength": 114,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} say away then \\textsc{ag} \\textsc{poss.1sg.o} Dad \\textsc{dist} to \\textsc{prop} \\textsc{1sg} there \\textsc{cntg} say  again away \\textsc{ag} \\textsc{3sg} \\textsc{ident}",
         "imtwordsbare": [
@@ -12574,7 +12857,8 @@
             "\\textbf{ia}",
             "\\textbf{{\\\ua78c}\u0101}..."
         ],
-        "trs": "Then my uncle (lit. father) said to me.... Then he himself said again...\u2019 \\textstyleExampleref{[R230.254-6]}"
+        "trs": "Then my uncle (lit. father) said to me.... Then he himself said again...\u2019 \\textstyleExampleref{[R230.254-6]}",
+        "wlength": 19
     },
     {
         "categories": [
@@ -12588,6 +12872,7 @@
             "prop",
             "subs"
         ],
+        "clength": 85,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pfv} finish \\textsc{dist} \\textsc{art} eat \\textsc{ntr} sleep \\textsc{emph} \\textsc{subs} \\textsc{prop} Taparahi at \\textsc{dem} place \\textsc{dist} \\textsc{ident}",
         "imtwordsbare": [
@@ -12700,7 +12985,8 @@
             "era",
             "\\textbf{{\\\ua78c}\u0101}."
         ],
-        "trs": "When he had finished eating, Taparahi slept at that same place.\u2019 \\textstyleExampleref{[R250.032]}"
+        "trs": "When he had finished eating, Taparahi slept at that same place.\u2019 \\textstyleExampleref{[R250.032]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -12712,6 +12998,7 @@
             "prox",
             "pvp"
         ],
+        "clength": 77,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pfv} born \\textsc{pvp} \\textsc{prop} \\textsc{3sg} at \\textsc{art} islet really \\textsc{prox} \\textsc{ident} at \\textsc{art} year 1922",
         "imtwordsbare": [
@@ -12818,7 +13105,8 @@
             "matahiti",
             "1922."
         ],
-        "trs": "He was born on this very same island here in the year 1922.\u2019 \\textstyleExampleref{[R487.041]}"
+        "trs": "He was born on this very same island here in the year 1922.\u2019 \\textstyleExampleref{[R487.041]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -12829,6 +13117,7 @@
             "o",
             "poss"
         ],
+        "clength": 73,
         "filename": "124/05nounphrase.tex",
         "imt": "~\\textsc{ipfv} exist \\textsc{emph} \\textsc{ident} \\textsc{poss.2sg.o} boat \\textsc{poss.2sg.o} really \\textsc{ident}",
         "imtwordsbare": [
@@ -12899,7 +13188,8 @@
             "\\textbf{mau}",
             "\\textbf{{\\\ua78c}\u0101}?"
         ],
-        "trs": "Do you have your own boat?\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "Do you have your own boat?\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -12907,6 +13197,7 @@
             "cq",
             "dist"
         ],
+        "clength": 44,
         "filename": "124/05nounphrase.tex",
         "imt": "~of family \\textsc{cq} \\textsc{art} old\\_woman \\textsc{dist} there",
         "imtwordsbare": [
@@ -12965,13 +13256,15 @@
             "era",
             "\\textbf{ai}?"
         ],
-        "trs": "Of which family is that old woman over there?\u2019 \\textstyleExampleref{[R413.305]}"
+        "trs": "Of which family is that old woman over there?\u2019 \\textstyleExampleref{[R413.305]}",
+        "wlength": 7
     },
     {
         "categories": [
             "art",
             "ident"
         ],
+        "clength": 53,
         "filename": "124/05nounphrase.tex",
         "imt": "there really \\textsc{art} thing like Mariana \\textsc{ident} there",
         "imtwordsbare": [
@@ -13036,12 +13329,14 @@
             "{\\\ua78c}\u0101",
             "\\textbf{ai}."
         ],
-        "trs": "There is someone (who looks) like Mariana.\u2019 \\textstyleExampleref{[R415.423]}"
+        "trs": "There is someone (who looks) like Mariana.\u2019 \\textstyleExampleref{[R415.423]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 32,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} people exist of \\textsc{art} boat",
         "imtwordsbare": [
@@ -13094,7 +13389,8 @@
             "te",
             "vaka"
         ],
-        "trs": "the people who had a boat\u2019 \\textstyleExampleref{[R200.086]}"
+        "trs": "the people who had a boat\u2019 \\textstyleExampleref{[R200.086]}",
+        "wlength": 6
     },
     {
         "categories": [
@@ -13109,6 +13405,7 @@
             "prop",
             "red"
         ],
+        "clength": 142,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} see all hither \\textsc{ag} \\textsc{1du.incl} \\textsc{art} all hill more small:\\textsc{pl}:\\textsc{red} \\textsc{dist}  to \\textsc{prop} \\textsc{3sg}",
         "imtwordsbare": [
@@ -13215,7 +13512,8 @@
             "\\textbf{a}",
             "\\textbf{ia}."
         ],
-        "trs": "We will also see all the mountains smaller than it (=Terevaka).\u2019 \\textstyleExampleref{[R314.002]}"
+        "trs": "We will also see all the mountains smaller than it (=Terevaka).\u2019 \\textstyleExampleref{[R314.002]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -13230,6 +13528,7 @@
             "pvp",
             "red"
         ],
+        "clength": 262,
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{dem} time \\textsc{dist} then \\textsc{pfv} look away \\textsc{pvp} \\textsc{prop} Kalia \\textsc{prom} \\textsc{art} thing white:\\textsc{red}  \\textsc{num} one {\\db}\\textsc{ipfv} see hither \\textsc{dist} from above at \\textsc{dem} ship \\textsc{dist} more big:\\textsc{red} to \\textsc{art} man \\textsc{num} one",
         "imtwordsbare": [
@@ -13450,13 +13749,15 @@
             "\\textbf{e}",
             "\\textbf{tahi}."
         ],
-        "trs": "At that moment Kalia saw something white, which was seen on the ship, bigger than a man.\u2019 \\textstyleExampleref{[R345.061]}\\textstyleExampleref{}"
+        "trs": "At that moment Kalia saw something white, which was seen on the ship, bigger than a man.\u2019 \\textstyleExampleref{[R345.061]}\\textstyleExampleref{}",
+        "wlength": 34
     },
     {
         "categories": [
             "ntr",
             "prom"
         ],
+        "clength": 50,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} born \\textsc{prom} Renga Roiti child female",
         "imtwordsbare": [
@@ -13515,7 +13816,8 @@
             "\\textbf{poki}",
             "tamahahine."
         ],
-        "trs": "Renga Roiti, a girl, was born.\u2019 \\textstyleExampleref{[Mtx-7-15.002]}"
+        "trs": "Renga Roiti, a girl, was born.\u2019 \\textstyleExampleref{[Mtx-7-15.002]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -13525,6 +13827,7 @@
             "ipfv",
             "red"
         ],
+        "clength": 77,
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{ana} \\textsc{ipfv} stay \\textsc{dist} \\textsc{dem} man \\textsc{dist} man labour:\\textsc{red} land plant food",
         "imtwordsbare": [
@@ -13619,13 +13922,15 @@
             "{\\\ua78c}oka",
             "kai."
         ],
-        "trs": "There that man lived, a farmer who planted crops.\u2019 \\textstyleExampleref{[R372.036]}"
+        "trs": "There that man lived, a farmer who planted crops.\u2019 \\textstyleExampleref{[R372.036]}",
+        "wlength": 13
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 62,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} place \\textsc{prom} Papeete place important of Tahiti",
         "imtwordsbare": [
@@ -13690,7 +13995,8 @@
             "o",
             "Tahiti"
         ],
-        "trs": "the city of Papeete, the capital of Tahiti\u2019 \\textstyleExampleref{[R231.045]}"
+        "trs": "the city of Papeete, the capital of Tahiti\u2019 \\textstyleExampleref{[R231.045]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -13701,6 +14007,7 @@
             "pred",
             "prom"
         ],
+        "clength": 94,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go to Bethlehem at Judea \\textsc{pred} place born of \\textsc{poss.3sg.o} ancestor  \\textsc{prom} David",
         "imtwordsbare": [
@@ -13801,7 +14108,8 @@
             "ko",
             "T\u0101vita."
         ],
-        "trs": "They went to Bethlehem in Judea, the birth place of his ancestor David.\u2019 \\textstyleExampleref{[Luk. 2:4]}"
+        "trs": "They went to Bethlehem in Judea, the birth place of his ancestor David.\u2019 \\textstyleExampleref{[Luk. 2:4]}",
+        "wlength": 14
     },
     {
         "categories": [
@@ -13811,6 +14119,7 @@
             "pred",
             "prop"
         ],
+        "clength": 77,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} \\textsc{caus} near \\textsc{dist} people to \\textsc{prop} Philip \\textsc{pred} person of Bethsaida",
         "imtwordsbare": [
@@ -13899,7 +14208,8 @@
             "o",
             "Vetetaira."
         ],
-        "trs": "Those people approached Philip, a man from Bethsaida.\u2019 \\textstyleExampleref{[John 12:21]}"
+        "trs": "Those people approached Philip, a man from Bethsaida.\u2019 \\textstyleExampleref{[John 12:21]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -13910,6 +14220,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 85,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go then \\textsc{prop} Vakaiaheva to Rano Rarako place ~at \\textsc{ana} \\textsc{art} boss  \\textsc{ipfv} stay \\textsc{dist}",
         "imtwordsbare": [
@@ -14022,7 +14333,8 @@
             "noho",
             "era]."
         ],
-        "trs": "Vakaiaheva went to Rano Raraku, the place where the boss lived.\u2019 \\textstyleExampleref{[R440.028]}"
+        "trs": "Vakaiaheva went to Rano Raraku, the place where the boss lived.\u2019 \\textstyleExampleref{[R440.028]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -14033,6 +14345,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 87,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go\\_down \\textsc{prop} Rovi \\textsc{ntr} person ~care\\_for \\textsc{acc} \\textsc{art} child of\\textsc{.a} Hotu king",
         "imtwordsbare": [
@@ -14127,7 +14440,8 @@
             "Hotu",
             "{\\\ua78c}ariki]."
         ],
-        "trs": "Rovi came down, the man who took care of the child of king Hotu.\u2019 \\textstyleExampleref{[R422.002]}"
+        "trs": "Rovi came down, the man who took care of the child of king Hotu.\u2019 \\textstyleExampleref{[R422.002]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -14138,6 +14452,7 @@
             "pred",
             "prom"
         ],
+        "clength": 103,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} arrive hither \\textsc{art} airplane first \\textsc{prom} \\textsc{art} airplane \\textsc{med} \\textsc{ipfv} say \\textsc{med} \\textsc{pred} DC 10",
         "imtwordsbare": [
@@ -14250,7 +14565,8 @@
             "DC",
             "10."
         ],
-        "trs": "The first airplane, the airplane called DC 10, arrived.\u2019 \\textstyleExampleref{[R203.062]}"
+        "trs": "The first airplane, the airplane called DC 10, arrived.\u2019 \\textstyleExampleref{[R203.062]}",
+        "wlength": 16
     },
     {
         "categories": [
@@ -14261,6 +14577,7 @@
             "prom",
             "prox"
         ],
+        "clength": 92,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} people \\textsc{pfv} \\textsc{caus} scattered \\textsc{med} at above at \\textsc{art} land \\textsc{prox} \\textsc{prom} \\textsc{art} homeland",
         "imtwordsbare": [
@@ -14367,7 +14684,8 @@
             "\\textbf{te}",
             "\\textbf{k\u0101i\u014ba}"
         ],
-        "trs": "the people who spread over the land, over the homeland\u2019 \\textstyleExampleref{[R350.016]}"
+        "trs": "the people who spread over the land, over the homeland\u2019 \\textstyleExampleref{[R350.016]}",
+        "wlength": 15
     },
     {
         "categories": [
@@ -14376,6 +14694,7 @@
             "ntr",
             "prom"
         ],
+        "clength": 88,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go hither \\textsc{dist} \\textsc{art} king \\textsc{prom} Hotu Matu\u2019a \\textsc{ntr} inspect \\textsc{dist}",
@@ -14465,13 +14784,15 @@
             "rarama",
             "era."
         ],
-        "trs": "King Hotu Matu\u2019a came and examined it.\u2019 \\textstyleExampleref{[Mtx-2-02.043]}"
+        "trs": "King Hotu Matu\u2019a came and examined it.\u2019 \\textstyleExampleref{[Mtx-2-02.043]}",
+        "wlength": 12
     },
     {
         "categories": [
             "art",
             "prom"
         ],
+        "clength": 62,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} place \\textsc{prom} Papeete place important of Tahiti",
         "imtwordsbare": [
@@ -14536,12 +14857,14 @@
             "o",
             "Tahiti"
         ],
-        "trs": "the city of Papeete, the capital of Tahiti\u2019 \\textstyleExampleref{[R231.045]}"
+        "trs": "the city of Papeete, the capital of Tahiti\u2019 \\textstyleExampleref{[R231.045]}",
+        "wlength": 8
     },
     {
         "categories": [
             "art"
         ],
+        "clength": 87,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{art} place stay of \\textsc{art} king Hotu Matu\u2019a at Hiva Mara\u2019e Renga",
         "imtwordsbare": [
@@ -14630,7 +14953,8 @@
             "Mara{\\\ua78c}e",
             "Re\u014ba."
         ],
-        "trs": "The place where king Hotu Matu\u2019a lived in Hiva was Mara\u2019e Renga.\u2019 \\textstyleExampleref{[Ley-2-01.002]}"
+        "trs": "The place where king Hotu Matu\u2019a lived in Hiva was Mara\u2019e Renga.\u2019 \\textstyleExampleref{[Ley-2-01.002]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -14642,6 +14966,7 @@
             "pred",
             "prop"
         ],
+        "clength": 85,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} go\\_down \\textsc{prop} Rovi \\textsc{pred} man care\\_for \\textsc{acc} \\textsc{art} child of\\textsc{.a} Hotu king",
         "imtwordsbare": [
@@ -14736,7 +15061,8 @@
             "\\textbf{Hotu}",
             "\\textbf{{\\\ua78c}ariki}."
         ],
-        "trs": "Rovi came down, the man who took care of the child of king Hotu.\u2019 \\textstyleExampleref{[R422.002]}"
+        "trs": "Rovi came down, the man who took care of the child of king Hotu.\u2019 \\textstyleExampleref{[R422.002]}",
+        "wlength": 13
     },
     {
         "categories": [
@@ -14745,6 +15071,7 @@
             "poss",
             "prop"
         ],
+        "clength": 111,
         "filename": "124/05nounphrase.tex",
         "imt": "to \\textsc{prop} \\textsc{poss.2sg.o} {\\db}parent female",
         "imtwordsbare": [
@@ -14791,13 +15118,15 @@
             "{\\ob}matu{\\\ua78c}a",
             "vahine\\,{\\cb}\\textsubscript{4}"
         ],
-        "trs": "(I said) to my mother\u2019 \\textstyleExampleref{[R334.287]}"
+        "trs": "(I said) to my mother\u2019 \\textstyleExampleref{[R334.287]}",
+        "wlength": 5
     },
     {
         "categories": [
             "coll",
             "prop"
         ],
+        "clength": 61,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prop} \\textsc{coll} father",
@@ -14833,12 +15162,14 @@
             "ku\u0101\\textsubscript{2}",
             "koro\\textsubscript{4}"
         ],
-        "trs": "Father and the others\u2019 \\textstyleExampleref{[R184.032]}"
+        "trs": "Father and the others\u2019 \\textstyleExampleref{[R184.032]}",
+        "wlength": 3
     },
     {
         "categories": [
             "prop"
         ],
+        "clength": 89,
         "filename": "124/05nounphrase.tex",
         "imt": "to \\textsc{prop} Lazarus also",
         "imtwordsbare": [
@@ -14880,12 +15211,14 @@
             "R\u0101taro\\textsubscript{4}",
             "tako{\\\ua78c}a\\textsubscript{5}"
         ],
-        "trs": "(they wanted to see) Lazarus as well\u2019 \\textstyleExampleref{[John 12:9]}"
+        "trs": "(they wanted to see) Lazarus as well\u2019 \\textstyleExampleref{[John 12:9]}",
+        "wlength": 4
     },
     {
         "categories": [
             "prom"
         ],
+        "clength": 89,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} Anakena really just",
         "imtwordsbare": [
@@ -14927,12 +15260,14 @@
             "mau\\textsubscript{6}",
             "n\u014d\\textsubscript{7}"
         ],
-        "trs": "only Anakena (was the place where the people were not ill)\u2019 \\textstyleExampleref{[R231.098]}"
+        "trs": "only Anakena (was the place where the people were not ill)\u2019 \\textstyleExampleref{[R231.098]}",
+        "wlength": 4
     },
     {
         "categories": [
             "ident"
         ],
+        "clength": 107,
         "filename": "124/05nounphrase.tex",
         "imt": "like {\\db}Maria Gonzales really \\textsc{ident}",
         "imtwordsbare": [
@@ -14979,13 +15314,15 @@
             "mau\\textsubscript{6}",
             "{\\\ua78c}\u0101\\textsubscript{9}"
         ],
-        "trs": "(That woman looks) like Maria Gonzales herself\u2019 \\textstyleExampleref{[R416.360]}"
+        "trs": "(That woman looks) like Maria Gonzales herself\u2019 \\textstyleExampleref{[R416.360]}",
+        "wlength": 5
     },
     {
         "categories": [
             "3sg",
             "prom"
         ],
+        "clength": 15,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} \\textsc{3sg} also",
         "imtwordsbare": [
@@ -15020,13 +15357,15 @@
             "ia",
             "tako{\\\ua78c}a"
         ],
-        "trs": "he (knew it) as well\u2019 \\textstyleExampleref{[R620.037]}"
+        "trs": "he (knew it) as well\u2019 \\textstyleExampleref{[R620.037]}",
+        "wlength": 3
     },
     {
         "categories": [
             "1sg",
             "prom"
         ],
+        "clength": 12,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} \\textsc{1sg} really just",
         "imtwordsbare": [
@@ -15067,7 +15406,8 @@
             "mau",
             "n\u014d"
         ],
-        "trs": "really just I\u2019 \\textstyleExampleref{[R404.048]}"
+        "trs": "really just I\u2019 \\textstyleExampleref{[R404.048]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -15075,6 +15415,7 @@
             "prom",
             "prox"
         ],
+        "clength": 9,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} \\textsc{1sg} \\textsc{prox}",
         "imtwordsbare": [
@@ -15109,7 +15450,8 @@
             "au",
             "nei"
         ],
-        "trs": "I here (am Huri a Vai)\u2019 \\textstyleExampleref{[R304.086]}"
+        "trs": "I here (am Huri a Vai)\u2019 \\textstyleExampleref{[R304.086]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -15118,6 +15460,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 41,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} set\\_fire \\textsc{prop} Mum \\textsc{acc} \\textsc{art} fire",
         "imtwordsbare": [
@@ -15176,7 +15519,8 @@
             "te",
             "ahi."
         ],
-        "trs": "Mum lighted the fire.\u2019 \\textstyleExampleref{[R232.047]}"
+        "trs": "Mum lighted the fire.\u2019 \\textstyleExampleref{[R232.047]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -15186,6 +15530,7 @@
             "ntr",
             "prop"
         ],
+        "clength": 62,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "at \\textsc{art} afternoon \\textsc{ntr} go \\textsc{prop} \\textsc{1sg} \\textsc{ntr} squeeze \\textsc{acc} \\textsc{art} milk",
@@ -15275,7 +15620,8 @@
             "te",
             "\u016b."
         ],
-        "trs": "In the late afternoon I go and milk the cows.\u2019 \\textstyleExampleref{[R334.277]}"
+        "trs": "In the late afternoon I go and milk the cows.\u2019 \\textstyleExampleref{[R334.277]}",
+        "wlength": 12
     },
     {
         "categories": [
@@ -15283,6 +15629,7 @@
             "art",
             "cntg"
         ],
+        "clength": 42,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{cntg} go\\_out hither \\textsc{3pl} from \\textsc{art} learn",
         "imtwordsbare": [
@@ -15341,7 +15688,8 @@
             "te",
             "h\u0101p\u012b..."
         ],
-        "trs": "When they came from school...\u2019 \\textstyleExampleref{[R381.012]}"
+        "trs": "When they came from school...\u2019 \\textstyleExampleref{[R381.012]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -15350,6 +15698,7 @@
             "med",
             "ntr"
         ],
+        "clength": 32,
         "filename": "124/05nounphrase.tex",
         "imt": "~\\textsc{ntr} what \\textsc{2sg} \\textsc{ipfv} cry \\textsc{med}",
         "imtwordsbare": [
@@ -15402,13 +15751,15 @@
             "ta\u014bi",
             "ena?"
         ],
-        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[R229.185]}"
+        "trs": "Why are you crying?\u2019 \\textstyleExampleref{[R229.185]}",
+        "wlength": 6
     },
     {
         "categories": [
             "2sg",
             "imp"
         ],
+        "clength": 11,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{imp} go \\textsc{2sg}",
         "imtwordsbare": [
@@ -15443,7 +15794,8 @@
             "oho",
             "koe."
         ],
-        "trs": "Go.\u2019 \\textstyleExampleref{[Notes]}"
+        "trs": "Go.\u2019 \\textstyleExampleref{[Notes]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -15456,6 +15808,7 @@
             "pfv",
             "prop"
         ],
+        "clength": 57,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{pfv} go\\_out \\textsc{dist} \\textsc{1sg} \\textsc{ipfv} search \\textsc{cont} \\textsc{acc} \\textsc{prop} \\textsc{2pl}",
@@ -15533,13 +15886,15 @@
             "\\textbf{a}",
             "k\u014drua."
         ],
-        "trs": "I went out and looked for you all.\u2019 \\textstyleExampleref{[R182.012]}"
+        "trs": "I went out and looked for you all.\u2019 \\textstyleExampleref{[R182.012]}",
+        "wlength": 10
     },
     {
         "categories": [
             "ntr",
             "prop"
         ],
+        "clength": 81,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} say \\textsc{prop} Kainga to \\textsc{prop} Makita to \\textsc{prop} Roke\u2019aua",
@@ -15617,7 +15972,8 @@
             "\\textbf{a}",
             "Roke{\\\ua78c}aua..."
         ],
-        "trs": "Kainga said to Makita and Roke\u2019aua...\u2019 \\textstyleExampleref{[R243.063]}"
+        "trs": "Kainga said to Makita and Roke\u2019aua...\u2019 \\textstyleExampleref{[R243.063]}",
+        "wlength": 10
     },
     {
         "categories": [
@@ -15625,6 +15981,7 @@
             "prop",
             "voc"
         ],
+        "clength": 27,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{imp} go hither \\textsc{voc} \\textsc{prop} Tiare \\textsc{voc}",
         "imtwordsbare": [
@@ -15683,7 +16040,8 @@
             "Tiare",
             "\u0113."
         ],
-        "trs": "Come, Tiare.\u2019 \\textstyleExampleref{[R152.035]}"
+        "trs": "Come, Tiare.\u2019 \\textstyleExampleref{[R152.035]}",
+        "wlength": 7
     },
     {
         "categories": [
@@ -15691,6 +16049,7 @@
             "prom",
             "prop"
         ],
+        "clength": 43,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prom} \\textsc{prop} \\textsc{2sg} \\textsc{prom} \\textsc{prop} Alberto \\textsc{prom} \\textsc{prop} Carlo",
@@ -15762,7 +16121,8 @@
             "(*a)",
             "Carlo"
         ],
-        "trs": "you, Alberto, and Carlo\u2019 \\textstyleExampleref{[R103.026]}"
+        "trs": "you, Alberto, and Carlo\u2019 \\textstyleExampleref{[R103.026]}",
+        "wlength": 9
     },
     {
         "categories": [
@@ -15775,6 +16135,7 @@
             "prop",
             "pvp"
         ],
+        "clength": 79,
         "filename": "124/05nounphrase.tex",
         "imt": "~~~~~like \\textsc{cq} \\textsc{2sg} \\textsc{pfv} ascend \\textsc{pvp} to \\textsc{art} crater\\_lake ~~~~\\textsc{prop} \\textsc{1sg} by below \\textsc{ident} by foot",
         "imtwordsbare": [
@@ -15887,13 +16248,15 @@
             "a",
             "pie."
         ],
-        "trs": "\u2014How did you climb the crater? \u2014Me? On foot.\u2019 \\textstyleExampleref{[R623.015\u2013017]}"
+        "trs": "\u2014How did you climb the crater? \u2014Me? On foot.\u2019 \\textstyleExampleref{[R623.015\u2013017]}",
+        "wlength": 16
     },
     {
         "categories": [
             "coll",
             "prop"
         ],
+        "clength": 11,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{prop} \\textsc{coll} Tiare",
@@ -15929,13 +16292,15 @@
             "ku\u0101",
             "Tiare"
         ],
-        "trs": "Tiare and the others\u2019 \\textstyleExampleref{[R315.227]}"
+        "trs": "Tiare and the others\u2019 \\textstyleExampleref{[R315.227]}",
+        "wlength": 3
     },
     {
         "categories": [
             "art",
             "coll"
         ],
+        "clength": 11,
         "coordination": "and",
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{coll} \\textsc{art} captain",
@@ -15971,7 +16336,8 @@
             "te",
             "kape"
         ],
-        "trs": "the captain and company\u2019 \\textstyleExampleref{[R416.864]}"
+        "trs": "the captain and company\u2019 \\textstyleExampleref{[R416.864]}",
+        "wlength": 3
     },
     {
         "categories": [
@@ -15982,6 +16348,7 @@
             "poss",
             "prop"
         ],
+        "clength": 70,
         "filename": "124/05nounphrase.tex",
         "imt": "\\textsc{ntr} ask just\\_then then \\textsc{poss.1sg.o} to \\textsc{prop} \\textsc{poss.1sg.o} Dad \\textsc{dist}",
         "imtwordsbare": [
@@ -16058,6 +16425,7 @@
             "koro",
             "era..."
         ],
-        "trs": "Then I asked my uncle (lit. father) again...\u2019 \\textstyleExampleref{[R230.121]}"
+        "trs": "Then I asked my uncle (lit. father) again...\u2019 \\textstyleExampleref{[R230.121]}",
+        "wlength": 10
     }
 ]

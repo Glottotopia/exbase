@@ -4,6 +4,7 @@
             "abl",
             "obl"
         ],
+        "clength": 42,
         "filename": "98/morphology.tex",
         "imt": "from   Kaabong:\\textsc{abl}   up.to   home:\\textsc{obl}",
         "imtwordsbare": [
@@ -44,7 +45,8 @@
             "\\textbf{p\u00e1ka}",
             "aw\u1d43"
         ],
-        "trs": "from Kaabong up to home"
+        "trs": "from Kaabong up to home",
+        "wlength": 4
     },
     {
         "categories": [
@@ -52,6 +54,7 @@
             "nom",
             "pass"
         ],
+        "clength": 45,
         "filename": "98/morphology.tex",
         "imt": "peg:\\textsc{pass}   field.rat:\\textsc{nom}   like   goat:\\textsc{gen}",
         "imtwordsbare": [
@@ -92,13 +95,15 @@
             "\\textbf{\u0257{\\\u00cd}t\u00e1}",
             "ri\u00e9."
         ],
-        "trs": "And the field rat is pegged up like a goat."
+        "trs": "And the field rat is pegged up like a goat.",
+        "wlength": 4
     },
     {
         "categories": [
             "1sg",
             "gen"
         ],
+        "clength": 47,
         "filename": "98/morphology.tex",
         "imt": "come:\\textsc{1sg}   from   Timu:inside:\\textsc{gen}  that",
         "imtwordsbare": [
@@ -139,13 +144,15 @@
             "T\u00edmua\u0199w\u025b\u025b",
             "n\u025b."
         ],
-        "trs": "I\u2019m coming from within Timu there."
+        "trs": "I\u2019m coming from within Timu there.",
+        "wlength": 4
     },
     {
         "categories": [
             "imp",
             "obl"
         ],
+        "clength": 53,
         "filename": "98/morphology.tex",
         "imt": "set.free:\\textsc{imp}   instead.of   killing:\\textsc{obl}",
         "imtwordsbare": [
@@ -180,13 +187,15 @@
             "\\textbf{ak\u0268l\u0254}",
             "c\u025b\\'{\u025b}s\\'{\u0289}\u0199\u0254t\\\u1da4."
         ],
-        "trs": "Set (him) free instead of killing (him)."
+        "trs": "Set (him) free instead of killing (him).",
+        "wlength": 3
     },
     {
         "categories": [
             "obl",
             "seq"
         ],
+        "clength": 38,
         "filename": "98/morphology.tex",
         "imt": "take:\\textsc{seq}   up.to   hut:\\textsc{obl}   that",
         "imtwordsbare": [
@@ -227,7 +236,8 @@
             "hoo",
             "d\u00e9\u00e9."
         ],
-        "trs": "And she took (it) up to that hut."
+        "trs": "And she took (it) up to that hut.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -236,6 +246,7 @@
             "obl",
             "prf"
         ],
+        "clength": 50,
         "filename": "98/morphology.tex",
         "imt": "go:\\textsc{3pl:prf}   West:\\textsc{dat}   because.of   hunger:\\textsc{obl}",
         "imtwordsbare": [
@@ -276,7 +287,8 @@
             "\\textbf{ik\u00f3ter\u00e9}",
             "\u0272\\`{\u025b}\u0199{\\\u1d4b}."
         ],
-        "trs": "They\u2019ve gone west because of hunger."
+        "trs": "They\u2019ve gone west because of hunger.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -285,6 +297,7 @@
             "nom",
             "obl"
         ],
+        "clength": 55,
         "coordination": "and",
         "filename": "98/morphology.tex",
         "imt": "sow:\\textsc{inf:nom}   cucumber:\\textsc{gen}   and   squash:\\textsc{obl}",
@@ -326,7 +339,8 @@
             "\\textbf{\u0144da}",
             "lomu\u0199e\u2071"
         ],
-        "trs": "the sowing of cucumber and squash"
+        "trs": "the sowing of cucumber and squash",
+        "wlength": 4
     },
     {
         "categories": [
@@ -335,6 +349,7 @@
             "obl",
             "sim"
         ],
+        "clength": 52,
         "filename": "98/morphology.tex",
         "imt": "even  Turkanas:\\textsc{obl}   also   seated:\\textsc{ips:sim:dp}",
         "imtwordsbare": [
@@ -375,7 +390,8 @@
             "\u029d\u0268k,",
             "g\u00f3\u0199\u00e1n\u0268k\\^{\u025b}d{\\\u1d4b}"
         ],
-        "trs": "even the Turkanas as well, (were) staying there"
+        "trs": "even the Turkanas as well, (were) staying there",
+        "wlength": 4
     },
     {
         "categories": [
@@ -384,6 +400,7 @@
             "nom",
             "obl"
         ],
+        "clength": 45,
         "filename": "98/morphology.tex",
         "imt": "know:\\textsc{1sg}   that:\\textsc{nom}   be:\\textsc{2sg}   orphan:\\textsc{obl}",
         "imtwordsbare": [
@@ -424,7 +441,8 @@
             "m\u0268t{\\\u00cd}da",
             "b\u0254n\u00e1n."
         ],
-        "trs": "I know that you are an orphan."
+        "trs": "I know that you are an orphan.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -432,6 +450,7 @@
             "dat",
             "nom"
         ],
+        "clength": 67,
         "filename": "98/morphology.tex",
         "imt": "say:\\textsc{3sg}   I:\\textsc{dat}   that   be:\\textsc{3sg}  we:land:\\textsc{nom} there",
         "imtwordsbare": [
@@ -484,12 +503,14 @@
             "\u0272j\u00edn\u00edki\u029da",
             "k\\'{\u0254}\\'{\u0254}k\u025b."
         ],
-        "trs": "He says to me that our land is over there."
+        "trs": "He says to me that our land is over there.",
+        "wlength": 6
     },
     {
         "categories": [
             "abl"
         ],
+        "clength": 34,
         "coordination": "or",
         "filename": "98/morphology.tex",
         "imt": "West:\\textsc{abl}   or   East:\\textsc{abl}",
@@ -525,7 +546,8 @@
             "\\textbf{ke\u0257e}",
             "Fet\u00ed\u00e9k\u00f9?"
         ],
-        "trs": "From the West or from the East?"
+        "trs": "From the West or from the East?",
+        "wlength": 3
     },
     {
         "categories": [
@@ -535,6 +557,7 @@
             "nom",
             "seq"
         ],
+        "clength": 62,
         "filename": "98/morphology.tex",
         "imt": "marry.forcibly:\\textsc{1sg:seq:dp}  not:\\textsc{seq}   but   kill:\\textsc{ips}   animal:\\textsc{nom}",
         "imtwordsbare": [
@@ -581,7 +604,8 @@
             "s\u00e1\u0253\u00e1n\u0268",
             "\u00ednw{\\\u1d43}"
         ],
-        "trs": "And from there I took (her) away as my wife, but no animal was killed."
+        "trs": "And from there I took (her) away as my wife, but no animal was killed.",
+        "wlength": 5
     },
     {
         "categories": [
@@ -589,6 +613,7 @@
             "nom",
             "sps"
         ],
+        "clength": 47,
         "coordination": "and",
         "filename": "98/morphology.tex",
         "imt": "kill:\\textsc{sps}  eland:\\textsc{nom}   and   fetch:\\textsc{ips} water:\\textsc{nom}",
@@ -636,7 +661,8 @@
             "kotsana",
             "cue."
         ],
-        "trs": "Elands were killed, and water was fetched."
+        "trs": "Elands were killed, and water was fetched.",
+        "wlength": 5
     },
     {
         "categories": [
@@ -645,6 +671,7 @@
             "plur",
             "pst3"
         ],
+        "clength": 22,
         "filename": "98/morphology.tex",
         "imt": "what:\\textsc{cop}   \\textsc{pst3}   wear:\\textsc{plur:ips}",
         "imtwordsbare": [
@@ -679,7 +706,8 @@
             "noo",
             "\u014b\u00e1b\u00ec\u00e0n?"
         ],
-        "trs": "what was typically worn?"
+        "trs": "what was typically worn?",
+        "wlength": 3
     },
     {
         "categories": [
@@ -687,6 +715,7 @@
             "ips",
             "sps"
         ],
+        "clength": 50,
         "filename": "98/morphology.tex",
         "imt": "if   reach:\\textsc{ips}   eland:\\textsc{dat}   kill:\\textsc{sps}",
         "imtwordsbare": [
@@ -727,7 +756,8 @@
             "basa\u00far\u00e9k{\\\u1d49},",
             "s\u00e1\u0253es."
         ],
-        "trs": "If they reach the eland, it is killed."
+        "trs": "If they reach the eland, it is killed.",
+        "wlength": 4
     },
     {
         "categories": [
@@ -735,6 +765,7 @@
             "seq",
             "sim"
         ],
+        "clength": 61,
         "filename": "98/morphology.tex",
         "imt": "when   come:\\textsc{3sg:sim}   sit:\\textsc{3sg:seq}   here   this",
         "imtwordsbare": [
@@ -781,6 +812,7 @@
             "nay\u00e9\u00e9",
             "na."
         ],
-        "trs": "When she came, she sat down here."
+        "trs": "When she came, she sat down here.",
+        "wlength": 5
     }
 ]

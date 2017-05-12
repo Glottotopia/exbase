@@ -4,6 +4,7 @@
             "3pl",
             "3sg"
         ],
+        "clength": 105,
         "filename": "78/02.tex",
         "imt": "now  \\textsc{3pl}  give  \\textsc{3sg}  flashlight  give  flashlight  \\textsc{3pl}  give {}",
         "imtwordsbare": [
@@ -80,13 +81,15 @@
             "kasi",
             "{\\ldots}"
         ],
-        "trs": "\\bluebold{now} they give him a \\bluebold{flashlight}, (having) given (him) a \\bluebold{flashlight} they give (him) \\ldots\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}\\\\"
+        "trs": "\\bluebold{now} they give him a \\bluebold{flashlight}, (having) given (him) a \\bluebold{flashlight} they give (him) \\ldots\u2019 \\textstyleExampleSource{[081108-003-JR.0002]}\\\\",
+        "wlength": 10
     },
     {
         "categories": [
             "3pl",
             "rdp"
         ],
+        "clength": 62,
         "coordination": "and",
         "filename": "78/02.tex",
         "imt": "{} want  \\textsc{3pl}  sagu.porridge  want  give  \\textsc{rdp}{\\Tilde}child  eat",
@@ -153,7 +156,8 @@
             "anana",
             "mak\u0250n"
         ],
-        "trs": "[they said (they) wanted to catch chickens and then] (they) wanted to make sagu porridge to \\bluebold{give} the children to eat\u2019 \\textstyleExampleSource{[081010-001-Cv.0191]}"
+        "trs": "[they said (they) wanted to catch chickens and then] (they) wanted to make sagu porridge to \\bluebold{give} the children to eat\u2019 \\textstyleExampleSource{[081010-001-Cv.0191]}",
+        "wlength": 8
     },
     {
         "categories": [
@@ -161,6 +165,7 @@
             "d",
             "dist"
         ],
+        "clength": 47,
         "filename": "78/02.tex",
         "imt": "\\textsc{d.dist}  Bop  Bop  \\textsc{d.dist}  \\textsc{3sg}  be.usual  turn.around",
         "imtwordsbare": [
@@ -219,12 +224,14 @@
             "biasa",
             "\\bluebold{bale}"
         ],
-        "trs": "that was Bob, that Bob, he usually \\bluebold{(flies) a circle}\u2019 (Lit. \u2018turns around\u2019) \\textstyleExampleSource{[081011-010-Cv.0019]}"
+        "trs": "that was Bob, that Bob, he usually \\bluebold{(flies) a circle}\u2019 (Lit. \u2018turns around\u2019) \\textstyleExampleSource{[081011-010-Cv.0019]}",
+        "wlength": 7
     },
     {
         "categories": [
             "3pl"
         ],
+        "clength": 37,
         "filename": "78/02.tex",
         "imt": "now  \\textsc{3pl}  two  fish",
         "imtwordsbare": [
@@ -265,7 +272,8 @@
             "\\bluebold{doa}",
             "m\u0250n.\u02a7\u026a\u014b"
         ],
-        "trs": "now the \\bluebold{two} of them are fishing\u2019 \\textstyleExampleSource{[081109-010-JR.0002]}"
+        "trs": "now the \\bluebold{two} of them are fishing\u2019 \\textstyleExampleSource{[081109-010-JR.0002]}",
+        "wlength": 4
     },
     {
         "categories": [
@@ -273,6 +281,7 @@
             "d",
             "dist"
         ],
+        "clength": 32,
         "filename": "78/02.tex",
         "imt": "\\textsc{3sg}  enter  hole  \\textsc{d.dist}",
         "imtwordsbare": [
@@ -313,6 +322,7 @@
             "\\bluebold{lob\u0250\u014b}",
             "tu"
         ],
-        "trs": "it (the chicken) went into that \\bluebold{hole} (in the floor)\u2019 \\textstyleExampleSource{[080921-004a-CvNP.0096]}\\\\"
+        "trs": "it (the chicken) went into that \\bluebold{hole} (in the floor)\u2019 \\textstyleExampleSource{[080921-004a-CvNP.0096]}\\\\",
+        "wlength": 4
     }
 ]
