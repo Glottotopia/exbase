@@ -801,4 +801,14 @@ srcline td:nth-child(odd), imtline td:nth-child(odd){
 
 .sidebar{
 overflow:scroll;
+}
+
+.chunklanguage {
+    background: #ddd none repeat scroll 0 0;
+    border: 3px double gray;
+    font-size: small;
 } 
+
+.chunkid{
+font-size:small;
+}
