@@ -657,7 +657,7 @@ scrollbar-track-color: #fff!important;
 }
 
 .chunkcontent{
-    max-width:800px;
+/*    max-width:800px;/*
 /*     background:#fffdee; */
     padding:5px;
     max-height:200px;
@@ -793,4 +793,12 @@ srcline td:nth-child(even), imtline td:nth-child(even){
 srcline td:nth-child(odd), imtline td:nth-child(odd){
   background:#ede;
 }
- 
+
+#ulcategories a{
+ font-variant: small-caps;
+}
+
+
+.sidebar{
+overflow:scroll;
+} 
