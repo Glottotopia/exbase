@@ -1,0 +1,408 @@
+[
+    {
+        "ID": "17-le-831978",
+        "categories": [
+            "",
+            "3sg",
+            "erg",
+            "ind",
+            "obj",
+            "su"
+        ],
+        "clength": 25,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "pig-\\textsc{erg} man \\textsc{3sg.obj.}hit\\textsc{.3sg.su.ind}",
+        "imtwordsbare": [
+            "pig-ERG",
+            "man",
+            "3sg.obj.hit.3sg.su.ind"
+        ],
+        "imtwordshtml": [
+            "pig-<span class=\"sc\">erg</span>",
+            "man",
+            "<span class=\"sc\">3sg.obj.</span>hit<span class=\"sc\">.3sg.su.ind</span>"
+        ],
+        "imtwordstex": [
+            "pig-\\textsc{erg}",
+            "man",
+            "\\textsc{3sg.obj.}hit\\textsc{.3sg.su.ind}"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "Yaga:-wama w\\'a aeg\\'uye.",
+        "srcwordsbare": [
+            "Yaga:-wama",
+            "w\\'a",
+            "aeg\\'uye."
+        ],
+        "srcwordshtml": [
+            "Yaga:-wama",
+            "w\\'a",
+            "aeg\\'uye."
+        ],
+        "srcwordstex": [
+            "Yaga:-wama",
+            "w\\'a",
+            "aeg\\'uye."
+        ],
+        "trs": "The pig attacks the man.",
+        "wlength": 3
+    },
+    {
+        "ID": "17-le-365379",
+        "categories": [
+            "",
+            "3sg",
+            "ind",
+            "obj",
+            "su"
+        ],
+        "clength": 20,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "pig man \\textsc{3sg.obj.}hit\\textsc{.3sg.su.ind}",
+        "imtwordsbare": [
+            "pig",
+            "man",
+            "3sg.obj.hit.3sg.su.ind"
+        ],
+        "imtwordshtml": [
+            "pig",
+            "man",
+            "<span class=\"sc\">3sg.obj.</span>hit<span class=\"sc\">.3sg.su.ind</span>"
+        ],
+        "imtwordstex": [
+            "pig",
+            "man",
+            "\\textsc{3sg.obj.}hit\\textsc{.3sg.su.ind}"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "Yaga: w\\'a aeg\\'uye.",
+        "srcwordsbare": [
+            "Yaga:",
+            "w\\'a",
+            "aeg\\'uye."
+        ],
+        "srcwordshtml": [
+            "Yaga:",
+            "w\\'a",
+            "aeg\\'uye."
+        ],
+        "srcwordstex": [
+            "Yaga:",
+            "w\\'a",
+            "aeg\\'uye."
+        ],
+        "trs": "The man kills the pig.",
+        "wlength": 3
+    },
+    {
+        "ID": "17-le-285299",
+        "categories": [
+            "",
+            "erg",
+            "obj",
+            "pst",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "dog big\\textsc{-erg}=1.\\textsc{sg.obj} bite-\\textsc{pst}",
+        "imtwordsbare": [
+            "dog",
+            "big-erg=1.sg.obj",
+            "bite-PST"
+        ],
+        "imtwordshtml": [
+            "dog",
+            "big<span class=\"sc\">-erg</span>=1.<span class=\"sc\">sg.obj</span>",
+            "bite-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "dog",
+            "big\\textsc{-erg}=1.\\textsc{sg.obj}",
+            "bite-\\textsc{pst}"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "Tyarntu wiri-ngki=tyu yarlki-rnu.",
+        "srcwordsbare": [
+            "Tyarntu",
+            "wiri-ngki=tyu",
+            "yarlki-rnu."
+        ],
+        "srcwordshtml": [
+            "Tyarntu",
+            "wiri-ngki=tyu",
+            "yarlki-rnu."
+        ],
+        "srcwordstex": [
+            "Tyarntu",
+            "wiri-ngki=tyu",
+            "yarlki-rnu."
+        ],
+        "trs": "The big dog bit me.",
+        "wlength": 3
+    },
+    {
+        "ID": "17-le-402902",
+        "categories": [
+            "",
+            "erg",
+            "obj",
+            "pst",
+            "sg"
+        ],
+        "clength": 38,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "dog\\textsc{-erg}=1.\\textsc{sg.obj} bite-\\textsc{pst} big-\\textsc{erg}",
+        "imtwordsbare": [
+            "dog-erg=1.sg.obj",
+            "bite-PST",
+            "big-ERG"
+        ],
+        "imtwordshtml": [
+            "dog<span class=\"sc\">-erg</span>=1.<span class=\"sc\">sg.obj</span>",
+            "bite-<span class=\"sc\">pst</span>",
+            "big-<span class=\"sc\">erg</span>"
+        ],
+        "imtwordstex": [
+            "dog\\textsc{-erg}=1.\\textsc{sg.obj}",
+            "bite-\\textsc{pst}",
+            "big-\\textsc{erg}"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "Tyarntu-ngku=tyu yarlki-rnu wiri-ngki.",
+        "srcwordsbare": [
+            "Tyarntu-ngku=tyu",
+            "yarlki-rnu",
+            "wiri-ngki."
+        ],
+        "srcwordshtml": [
+            "Tyarntu-ngku=tyu",
+            "yarlki-rnu",
+            "wiri-ngki."
+        ],
+        "srcwordstex": [
+            "Tyarntu-ngku=tyu",
+            "yarlki-rnu",
+            "wiri-ngki."
+        ],
+        "trs": "The big dog bit me.",
+        "wlength": 3
+    },
+    {
+        "ID": "17-le--29572",
+        "categories": [],
+        "clength": 39,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "leludor inideta nulotoser nulotos.V leludor",
+        "imtwordsbare": [
+            "leludor",
+            "inideta",
+            "nulotoser",
+            "nulotos.V",
+            "leludor"
+        ],
+        "imtwordshtml": [
+            "leludor",
+            "inideta",
+            "nulotoser",
+            "nulotos.V",
+            "leludor"
+        ],
+        "imtwordstex": [
+            "leludor",
+            "inideta",
+            "nulotoser",
+            "nulotos.V",
+            "leludor"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "leludor inideta rurutis nulotos leludor",
+        "srcwordsbare": [
+            "leludor",
+            "inideta",
+            "rurutis",
+            "nulotos",
+            "leludor"
+        ],
+        "srcwordshtml": [
+            "leludor",
+            "inideta",
+            "rurutis",
+            "nulotos",
+            "leludor"
+        ],
+        "srcwordstex": [
+            "leludor",
+            "inideta",
+            "rurutis",
+            "nulotos",
+            "leludor"
+        ],
+        "trs": "Leludor is nulotosed by inideta.' (AFTF/AFTFTC)\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "17-le--65254",
+        "categories": [],
+        "clength": 23,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "3A atilomi-U lematim.V",
+        "imtwordsbare": [
+            "3A",
+            "atilomi-U",
+            "lematim.V"
+        ],
+        "imtwordshtml": [
+            "3A",
+            "atilomi-U",
+            "lematim.V"
+        ],
+        "imtwordstex": [
+            "3A",
+            "atilomi-U",
+            "lematim.V"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "omad atilomi-ri lematim",
+        "srcwordsbare": [
+            "omad",
+            "atilomi-ri",
+            "lematim"
+        ],
+        "srcwordshtml": [
+            "omad",
+            "atilomi-ri",
+            "lematim"
+        ],
+        "srcwordstex": [
+            "omad",
+            "atilomi-ri",
+            "lematim"
+        ],
+        "trs": "It lematims atilomi.",
+        "wlength": 3
+    },
+    {
+        "ID": "17-le-451999",
+        "categories": [],
+        "clength": 20,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "3A isosisi lematim.V",
+        "imtwordsbare": [
+            "3A",
+            "isosisi",
+            "lematim.V"
+        ],
+        "imtwordshtml": [
+            "3A",
+            "isosisi",
+            "lematim.V"
+        ],
+        "imtwordstex": [
+            "3A",
+            "isosisi",
+            "lematim.V"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "omad isosisi lematim",
+        "srcwordsbare": [
+            "omad",
+            "isosisi",
+            "lematim"
+        ],
+        "srcwordshtml": [
+            "omad",
+            "isosisi",
+            "lematim"
+        ],
+        "srcwordstex": [
+            "omad",
+            "isosisi",
+            "lematim"
+        ],
+        "trs": "It lematims isosisi.",
+        "wlength": 3
+    },
+    {
+        "ID": "17-le--52626",
+        "categories": [],
+        "clength": 26,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "udeloto dosotum-U rodones.V",
+        "imtwordsbare": [
+            "udeloto",
+            "dosotum-U",
+            "rodones.V"
+        ],
+        "imtwordshtml": [
+            "udeloto",
+            "dosotum-U",
+            "rodones.V"
+        ],
+        "imtwordstex": [
+            "udeloto",
+            "dosotum-U",
+            "rodones.V"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "udeloto dosotum-un rodones",
+        "srcwordsbare": [
+            "udeloto",
+            "dosotum-un",
+            "rodones"
+        ],
+        "srcwordshtml": [
+            "udeloto",
+            "dosotum-un",
+            "rodones"
+        ],
+        "srcwordstex": [
+            "udeloto",
+            "dosotum-un",
+            "rodones"
+        ],
+        "trs": "Udeloto rodoneses dosotum.",
+        "wlength": 3
+    },
+    {
+        "ID": "17-le-494051",
+        "categories": [],
+        "clength": 23,
+        "filename": "173/chapters/17-le.tex",
+        "imt": "dadesad dosotum rodones.V",
+        "imtwordsbare": [
+            "dadesad",
+            "dosotum",
+            "rodones.V"
+        ],
+        "imtwordshtml": [
+            "dadesad",
+            "dosotum",
+            "rodones.V"
+        ],
+        "imtwordstex": [
+            "dadesad",
+            "dosotum",
+            "rodones.V"
+        ],
+        "language": "173/chapters/17-le.tex",
+        "src": "dadesad dosotum rodones",
+        "srcwordsbare": [
+            "dadesad",
+            "dosotum",
+            "rodones"
+        ],
+        "srcwordshtml": [
+            "dadesad",
+            "dosotum",
+            "rodones"
+        ],
+        "srcwordstex": [
+            "dadesad",
+            "dosotum",
+            "rodones"
+        ],
+        "trs": "Dadesad rodoneses dosotum.",
+        "wlength": 3
+    }
+]

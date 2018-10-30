@@ -1,0 +1,533 @@
+[
+    {
+        "ID": "01-694894",
+        "categories": [
+            "hab",
+            "name",
+            "place",
+            "prep"
+        ],
+        "clength": 94,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{name}  \\textsc{hab}    go  \\textsc{place}  \\textsc{prep}  Christmas",
+        "imtwordsbare": [
+            "NAME",
+            "HAB",
+            "go",
+            "PLACE",
+            "PREP",
+            "Christmas"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">name</span>",
+            "<span class=\"sc\">hab</span>",
+            "go",
+            "<span class=\"sc\">place</span>",
+            "<span class=\"sc\">prep</span>",
+            "Christmas"
+        ],
+        "imtwordstex": [
+            "\\textsc{name}",
+            "\\textsc{hab}",
+            "go",
+            "\\textsc{place}",
+            "\\textsc{prep}",
+            "Christmas"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "Ol\u00fa    \\textstylePichiexamplebold{blant}  \\textstylePichiexamplebold{g\u00f3}  London  f\u0254  Kr\u00edsm\u025bs.",
+        "srcwordsbare": [
+            "Ol\u00fa",
+            "blant",
+            "g\u00f3",
+            "London",
+            "f\u0254",
+            "Kr\u00edsm\u025bs."
+        ],
+        "srcwordshtml": [
+            "Ol\u00fa",
+            "<span class=\"stylePichiexamplebold\">blant</span>",
+            "<span class=\"stylePichiexamplebold\">g\u00f3</span>",
+            "London",
+            "f\u0254",
+            "Kr\u00edsm\u025bs."
+        ],
+        "srcwordstex": [
+            "Ol\u00fa",
+            "\\textstylePichiexamplebold{blant}",
+            "\\textstylePichiexamplebold{g\u00f3}",
+            "London",
+            "f\u0254",
+            "Kr\u00edsm\u025bs."
+        ],
+        "trs": "Olu always goes to London for Christmas.\u2019  (\\citealt{YillahCorcoran2007}:181)",
+        "wlength": 6
+    },
+    {
+        "ID": "01--62268",
+        "categories": [
+            "be",
+            "loc",
+            "name"
+        ],
+        "clength": 97,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{name}  \\textsc{be.loc}  on    come",
+        "imtwordsbare": [
+            "NAME",
+            "be.loc",
+            "on",
+            "come"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">name</span>",
+            "<span class=\"sc\">be.loc</span>",
+            "on",
+            "come"
+        ],
+        "imtwordstex": [
+            "\\textsc{name}",
+            "\\textsc{be.loc}",
+            "on",
+            "come"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "\\textit{\\textup{Ol\u00fa}}    \\textstylePichiexamplebold{d\u00e9}   \\textstylePichiexamplebold{pan}    k\u00e1m.",
+        "srcwordsbare": [
+            "\\textup{Ol\u00fa}",
+            "d\u00e9",
+            "pan",
+            "k\u00e1m."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">\\textup{Ol\u00fa</span>}",
+            "<span class=\"stylePichiexamplebold\">d\u00e9</span>",
+            "<span class=\"stylePichiexamplebold\">pan</span>",
+            "k\u00e1m."
+        ],
+        "srcwordstex": [
+            "\\textit{\\textup{Ol\u00fa}}",
+            "\\textstylePichiexamplebold{d\u00e9}",
+            "\\textstylePichiexamplebold{pan}",
+            "k\u00e1m."
+        ],
+        "trs": "Olu is coming (right now).\u2019 (\\citealt{YillahCorcoran2007}:179)",
+        "wlength": 4
+    },
+    {
+        "ID": "01-626594",
+        "categories": [
+            "1sg",
+            "be",
+            "loc",
+            "sbj"
+        ],
+        "clength": 79,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{1sg.sbj}  \\textsc{be.loc}  on    eat",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "be.loc",
+            "on",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">be.loc</span>",
+            "on",
+            "eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "\\textsc{be.loc}",
+            "on",
+            "eat"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "A    \\textstylePichiexamplebold{d\u00e9}    \\textstylePichiexamplebold{pan}   ch\u0254\u0301p.",
+        "srcwordsbare": [
+            "A",
+            "d\u00e9",
+            "pan",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordshtml": [
+            "A",
+            "<span class=\"stylePichiexamplebold\">d\u00e9</span>",
+            "<span class=\"stylePichiexamplebold\">pan</span>",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordstex": [
+            "A",
+            "\\textstylePichiexamplebold{d\u00e9}",
+            "\\textstylePichiexamplebold{pan}",
+            "ch\u0254\u0301p."
+        ],
+        "trs": "*I\u2019m eating. [ye07je 025]",
+        "wlength": 4
+    },
+    {
+        "ID": "01--91583",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 48,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{1sg.sbj}  continue    play    ball  until  evening  time",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "continue",
+            "play",
+            "ball",
+            "until",
+            "evening",
+            "time"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "continue",
+            "play",
+            "ball",
+            "until",
+            "evening",
+            "time"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "continue",
+            "play",
+            "ball",
+            "until",
+            "evening",
+            "time"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "A    sigue    pl\u00e9    b\u0254\u0301l  s\u00f3t\u00e9    \u00edvin    t\u025b\u0301n.",
+        "srcwordsbare": [
+            "A",
+            "sigue",
+            "pl\u00e9",
+            "b\u0254\u0301l",
+            "s\u00f3t\u00e9",
+            "\u00edvin",
+            "t\u025b\u0301n."
+        ],
+        "srcwordshtml": [
+            "A",
+            "sigue",
+            "pl\u00e9",
+            "b\u0254\u0301l",
+            "s\u00f3t\u00e9",
+            "\u00edvin",
+            "t\u025b\u0301n."
+        ],
+        "srcwordstex": [
+            "A",
+            "sigue",
+            "pl\u00e9",
+            "b\u0254\u0301l",
+            "s\u00f3t\u00e9",
+            "\u00edvin",
+            "t\u025b\u0301n."
+        ],
+        "trs": "I continued playing ball until the evening.\u2019 [be07fn 189]",
+        "wlength": 7
+    },
+    {
+        "ID": "01--51979",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 72,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{1sg.sbj}  stay    eat",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "stay",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "stay",
+            "eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "stay",
+            "eat"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "A    \\textstylePichiexamplebold{st\u00e9}  \\textstylePichiexamplebold{ch\u0254\u0301p}.",
+        "srcwordsbare": [
+            "A",
+            "st\u00e9",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordshtml": [
+            "A",
+            "<span class=\"stylePichiexamplebold\">st\u00e9</span>",
+            "<span class=\"stylePichiexamplebold\">ch\u0254\u0301p</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "\\textstylePichiexamplebold{st\u00e9}",
+            "\\textstylePichiexamplebold{ch\u0254\u0301p}."
+        ],
+        "trs": "It\u2019s been a long time since I ate.\u2019 [au07ec 078]",
+        "wlength": 3
+    },
+    {
+        "ID": "01--36423",
+        "categories": [
+            "def"
+        ],
+        "clength": 31,
+        "coordination": "and",
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{def}  woman  cook  rice    sell",
+        "imtwordsbare": [
+            "DEF",
+            "woman",
+            "cook",
+            "rice",
+            "sell"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "woman",
+            "cook",
+            "rice",
+            "sell"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "woman",
+            "cook",
+            "rice",
+            "sell"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "Di  h\u00faman  k\u00fak    r\u025b\u0301s    s\u025b\u0301l.",
+        "srcwordsbare": [
+            "Di",
+            "h\u00faman",
+            "k\u00fak",
+            "r\u025b\u0301s",
+            "s\u025b\u0301l."
+        ],
+        "srcwordshtml": [
+            "Di",
+            "h\u00faman",
+            "k\u00fak",
+            "r\u025b\u0301s",
+            "s\u025b\u0301l."
+        ],
+        "srcwordstex": [
+            "Di",
+            "h\u00faman",
+            "k\u00fak",
+            "r\u025b\u0301s",
+            "s\u025b\u0301l."
+        ],
+        "trs": "The woman cooked rice and sold it.\u2019 \\citep[72]{Finney2004}",
+        "wlength": 5
+    },
+    {
+        "ID": "01--64021",
+        "categories": [
+            "3sg",
+            "poss",
+            "sbj"
+        ],
+        "clength": 66,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{3sg.sbj}  buy    clothing  give    \\textsc{3sg.poss}  child",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "buy",
+            "clothing",
+            "give",
+            "3sg.poss",
+            "child"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "buy",
+            "clothing",
+            "give",
+            "<span class=\"sc\">3sg.poss</span>",
+            "child"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "buy",
+            "clothing",
+            "give",
+            "\\textsc{3sg.poss}",
+            "child"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "I    b\u00e1y    kl\u00f3s    \\textstylePichiexamplebold{g\u00ed}    in    pik\u00edn.",
+        "srcwordsbare": [
+            "I",
+            "b\u00e1y",
+            "kl\u00f3s",
+            "g\u00ed",
+            "in",
+            "pik\u00edn."
+        ],
+        "srcwordshtml": [
+            "I",
+            "b\u00e1y",
+            "kl\u00f3s",
+            "<span class=\"stylePichiexamplebold\">g\u00ed</span>",
+            "in",
+            "pik\u00edn."
+        ],
+        "srcwordstex": [
+            "I",
+            "b\u00e1y",
+            "kl\u00f3s",
+            "\\textstylePichiexamplebold{g\u00ed}",
+            "in",
+            "pik\u00edn."
+        ],
+        "trs": "He bought some clothes for his child.\u2019 \\citep[72]{Finney2004}",
+        "wlength": 6
+    },
+    {
+        "ID": "01-807642",
+        "categories": [
+            "3pl",
+            "def",
+            "pfv"
+        ],
+        "clength": 95,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{3pl}    \\textsc{pfv}    build  \\textsc{def}  road    be.strong",
+        "imtwordsbare": [
+            "3PL",
+            "PFV",
+            "build",
+            "DEF",
+            "road",
+            "be.strong"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">pfv</span>",
+            "build",
+            "<span class=\"sc\">def</span>",
+            "road",
+            "be.strong"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "\\textsc{pfv}",
+            "build",
+            "\\textsc{def}",
+            "road",
+            "be.strong"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "D\u025bn    d\u0254\u0301n    \\textstylePichiexamplebold{b\u00edl}   di  h\u00f3s    \\textstylePichiexamplebold{str\u0254\u0301n}.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "d\u0254\u0301n",
+            "b\u00edl",
+            "di",
+            "h\u00f3s",
+            "str\u0254\u0301n."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "d\u0254\u0301n",
+            "<span class=\"stylePichiexamplebold\">b\u00edl</span>",
+            "di",
+            "h\u00f3s",
+            "<span class=\"stylePichiexamplebold\">str\u0254\u0301n</span>."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "d\u0254\u0301n",
+            "\\textstylePichiexamplebold{b\u00edl}",
+            "di",
+            "h\u00f3s",
+            "\\textstylePichiexamplebold{str\u0254\u0301n}."
+        ],
+        "trs": "The house is solidly built.\u2019 [ra07ve 069]",
+        "wlength": 6
+    },
+    {
+        "ID": "01-352605",
+        "categories": [
+            "1sg",
+            "2sg",
+            "def",
+            "indp"
+        ],
+        "clength": 144,
+        "filename": "85/chapters/01.tex",
+        "imt": "\\textsc{2sg}  take    \\textsc{def}  money  \\textsc{2sg}  give  \\textsc{1sg.indp}",
+        "imtwordsbare": [
+            "2SG",
+            "take",
+            "DEF",
+            "money",
+            "2SG",
+            "give",
+            "1sg.indp"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "take",
+            "<span class=\"sc\">def</span>",
+            "money",
+            "<span class=\"sc\">2sg</span>",
+            "give",
+            "<span class=\"sc\">1sg.indp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "take",
+            "\\textsc{def}",
+            "money",
+            "\\textsc{2sg}",
+            "give",
+            "\\textsc{1sg.indp}"
+        ],
+        "language": "85/chapters/01.tex",
+        "src": "\\textstylePichiexamplebold{Yu}  \\textstylePichiexamplebold{t\u00e9k}    di  m\u0254n\u00ed  \\textstylePichiexamplebold{yu}  \\textstylePichiexamplebold{g\u00ed}  m\u00ed.",
+        "srcwordsbare": [
+            "Yu",
+            "t\u00e9k",
+            "di",
+            "m\u0254n\u00ed",
+            "yu",
+            "g\u00ed",
+            "m\u00ed."
+        ],
+        "srcwordshtml": [
+            "<span class=\"stylePichiexamplebold\">Yu</span>",
+            "<span class=\"stylePichiexamplebold\">t\u00e9k</span>",
+            "di",
+            "m\u0254n\u00ed",
+            "<span class=\"stylePichiexamplebold\">yu</span>",
+            "<span class=\"stylePichiexamplebold\">g\u00ed</span>",
+            "m\u00ed."
+        ],
+        "srcwordstex": [
+            "\\textstylePichiexamplebold{Yu}",
+            "\\textstylePichiexamplebold{t\u00e9k}",
+            "di",
+            "m\u0254n\u00ed",
+            "\\textstylePichiexamplebold{yu}",
+            "\\textstylePichiexamplebold{g\u00ed}",
+            "m\u00ed."
+        ],
+        "trs": "You took the money (and) gave it to me.\u2019 [ro05de 033]",
+        "wlength": 7
+    }
+]

@@ -1,0 +1,1114 @@
+[
+    {
+        "ID": "05yuka--29935",
+        "categories": [
+            "attr",
+            "pred"
+        ],
+        "clength": 19,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "good-\\textsc{attr}  person-\\textsc{pred}",
+        "imtwordsbare": [
+            "good-ATTR",
+            "person-PRED"
+        ],
+        "imtwordshtml": [
+            "good-<span class=\"sc\">attr</span>",
+            "person-<span class=\"sc\">pred</span>"
+        ],
+        "imtwordstex": [
+            "good-\\textsc{attr}",
+            "person-\\textsc{pred}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "omo-s\u2019    \u0161oromo-k?",
+        "srcwordsbare": [
+            "omo-s\u2019",
+            "\u0161oromo-k?"
+        ],
+        "srcwordshtml": [
+            "omo-s\u2019",
+            "\u0161oromo-k?"
+        ],
+        "srcwordstex": [
+            "omo-s\u2019",
+            "\u0161oromo-k?"
+        ],
+        "trs": "Is (he) a good person?",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka--44512",
+        "categories": [
+            "foc",
+            "intr",
+            "pred",
+            "q",
+            "sg"
+        ],
+        "clength": 17,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "\\textsc{pred.foc}-fall-\\textsc{intr}.3\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "pred.foc-fall-INTR.3SG=Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pred.foc</span>-fall-<span class=\"sc\">intr</span>.3<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pred.foc}-fall-\\textsc{intr}.3\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "me-n\u2019oho-j={duu}?",
+        "srcwordsbare": [
+            "me-n\u2019oho-j={duu}?"
+        ],
+        "srcwordshtml": [
+            "me-n\u2019oho-j={duu}?"
+        ],
+        "srcwordstex": [
+            "me-n\u2019oho-j={duu}?"
+        ],
+        "trs": "Did he fall down?",
+        "wlength": 1
+    },
+    {
+        "ID": "05yuka--45009",
+        "categories": [
+            "3sg",
+            "S",
+            "caus",
+            "imp",
+            "intr",
+            "q",
+            "sg",
+            "tr"
+        ],
+        "clength": 51,
+        "coordination": "or",
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "rope  strech-\\textsc{imp.3sg}  strong-\\textsc{intr}.3\\textsc{sg}=\\textsc{q}  tear-\\textsc{caus}-\\textsc{tr.S}=\\textsc{q}",
+        "imtwordsbare": [
+            "rope",
+            "strech-imp.3sg",
+            "strong-INTR.3SG=Q",
+            "tear-CAUS-tr.S=Q"
+        ],
+        "imtwordshtml": [
+            "rope",
+            "strech-<span class=\"sc\">imp.3sg</span>",
+            "strong-<span class=\"sc\">intr</span>.3<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>",
+            "tear-<span class=\"sc\">caus</span>-<span class=\"sc\">tr.S</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "rope",
+            "strech-\\textsc{imp.3sg}",
+            "strong-\\textsc{intr}.3\\textsc{sg}=\\textsc{q}",
+            "tear-\\textsc{caus}-\\textsc{tr.S}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "igeje  \u010di\u010degej-gen!  ad-i={duu} \u0161a\u0161aqa-daj-m={duu}?",
+        "srcwordsbare": [
+            "igeje",
+            "\u010di\u010degej-gen!",
+            "ad-i={duu}",
+            "\u0161a\u0161aqa-daj-m={duu}?"
+        ],
+        "srcwordshtml": [
+            "igeje",
+            "\u010di\u010degej-gen!",
+            "ad-i={duu}",
+            "\u0161a\u0161aqa-daj-m={duu}?"
+        ],
+        "srcwordstex": [
+            "igeje",
+            "\u010di\u010degej-gen!",
+            "ad-i={duu}",
+            "\u0161a\u0161aqa-daj-m={duu}?"
+        ],
+        "trs": "Let the rope stretch! Is it strong (enough), or will he tear it up?",
+        "wlength": 4
+    },
+    {
+        "ID": "05yuka-123642",
+        "categories": [
+            "neg",
+            "q"
+        ],
+        "clength": 87,
+        "coordination": "or",
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "kill=\\textsc{q} \\textsc{neg}-be=\\textsc{q}",
+        "imtwordsbare": [
+            "kill=Q",
+            "NEG-be=Q"
+        ],
+        "imtwordshtml": [
+            "kill=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>-be=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "kill=\\textsc{q}",
+            "\\textsc{neg}-be=\\textsc{q}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "kudede{=}\\textbf{{d}}\\textbf{{uu}} \\textbf{{oj}}{{}-l}{\u2019e}{=}\\textbf{{d}}\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "kudede{=}{d}{uu}",
+            "{oj}{{}-l}{\u2019e}{=}{d}{uu}?"
+        ],
+        "srcwordshtml": [
+            "kudede{=}<span class=\"bf\">{d</span>}<span class=\"bf\">{uu</span>}",
+            "<span class=\"bf\">{oj</span>}{{}-l}{\u2019e}{=}<span class=\"bf\">{d</span>}<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "kudede{=}\\textbf{{d}}\\textbf{{uu}}",
+            "\\textbf{{oj}}{{}-l}{\u2019e}{=}\\textbf{{d}}\\textbf{{uu}}?"
+        ],
+        "trs": "Have I killed it or not?\u2019(\\citealt{Maslova2003a}: 475-477)\\z\\z",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka-878732",
+        "categories": [
+            "intr",
+            "neg",
+            "sg"
+        ],
+        "clength": 29,
+        "coordination": "or",
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "1\\textsc{sg}  son  come.\\textsc{intr}.3\\textsc{sg}  or \\textsc{neg}=come.\\textsc{intr}.3\\textsc{sg}",
+        "imtwordsbare": [
+            "1SG",
+            "son",
+            "come.INTR.3SG",
+            "or",
+            "NEG=come.INTR.3SG"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "son",
+            "come.<span class=\"sc\">intr</span>.3<span class=\"sc\">sg</span>",
+            "or",
+            "<span class=\"sc\">neg</span>=come.<span class=\"sc\">intr</span>.3<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "son",
+            "come.\\textsc{intr}.3\\textsc{sg}",
+            "or",
+            "\\textsc{neg}=come.\\textsc{intr}.3\\textsc{sg}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "mot  ad\u00f3  k\u00eat\u2019 al\u00ed el{=k\u00eat\u2019?}",
+        "srcwordsbare": [
+            "mot",
+            "ad\u00f3",
+            "k\u00eat\u2019",
+            "al\u00ed",
+            "el{=k\u00eat\u2019?}"
+        ],
+        "srcwordshtml": [
+            "mot",
+            "ad\u00f3",
+            "k\u00eat\u2019",
+            "al\u00ed",
+            "el{=k\u00eat\u2019?}"
+        ],
+        "srcwordstex": [
+            "mot",
+            "ad\u00f3",
+            "k\u00eat\u2019",
+            "al\u00ed",
+            "el{=k\u00eat\u2019?}"
+        ],
+        "trs": "Did my son come or not?\u2019 \\citep[92]{Schiefner1871}",
+        "wlength": 5
+    },
+    {
+        "ID": "05yuka--64462",
+        "categories": [
+            "dem",
+            "foc",
+            "inv",
+            "neg",
+            "pl",
+            "sg",
+            "tr"
+        ],
+        "clength": 49,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "well \\textsc{dem.inv-foc}  1\\textsc{pl}  ring \\textsc{neg}=take-\\textsc{tr}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "well",
+            "dem.inv-foc",
+            "1PL",
+            "ring",
+            "NEG=take-TR-2SG"
+        ],
+        "imtwordshtml": [
+            "well",
+            "<span class=\"sc\">dem.inv-foc</span>",
+            "1<span class=\"sc\">pl</span>",
+            "ring",
+            "<span class=\"sc\">neg</span>=take-<span class=\"sc\">tr</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "well",
+            "\\textsc{dem.inv-foc}",
+            "1\\textsc{pl}",
+            "ring",
+            "\\textsc{neg}=take-\\textsc{tr}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "eld\u2019e,  tide-\u014b    mit  t\u2019ald\u2019ed\u2019uo  el=men\u2019-me-k?",
+        "srcwordsbare": [
+            "eld\u2019e,",
+            "tide-\u014b",
+            "mit",
+            "t\u2019ald\u2019ed\u2019uo",
+            "el=men\u2019-me-k?"
+        ],
+        "srcwordshtml": [
+            "eld\u2019e,",
+            "tide-\u014b",
+            "mit",
+            "t\u2019ald\u2019ed\u2019uo",
+            "el=men\u2019-me-k?"
+        ],
+        "srcwordstex": [
+            "eld\u2019e,",
+            "tide-\u014b",
+            "mit",
+            "t\u2019ald\u2019ed\u2019uo",
+            "el=men\u2019-me-k?"
+        ],
+        "trs": "Well, haven\u2019t you taken that ring of ours?",
+        "wlength": 5
+    },
+    {
+        "ID": "05yuka--32417",
+        "categories": [
+            "fc",
+            "foc",
+            "tr"
+        ],
+        "clength": 26,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "well  what-\\textsc{foc}  take-\\textsc{tr}-\\textsc{fc}",
+        "imtwordsbare": [
+            "well",
+            "what-FOC",
+            "take-TR-FC"
+        ],
+        "imtwordshtml": [
+            "well",
+            "what-<span class=\"sc\">foc</span>",
+            "take-<span class=\"sc\">tr</span>-<span class=\"sc\">fc</span>"
+        ],
+        "imtwordstex": [
+            "well",
+            "what-\\textsc{foc}",
+            "take-\\textsc{tr}-\\textsc{fc}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "eld\u2019e, neme-le  men\u2019-me-k?",
+        "srcwordsbare": [
+            "eld\u2019e,",
+            "neme-le",
+            "men\u2019-me-k?"
+        ],
+        "srcwordshtml": [
+            "eld\u2019e,",
+            "neme-le",
+            "men\u2019-me-k?"
+        ],
+        "srcwordstex": [
+            "eld\u2019e,",
+            "neme-le",
+            "men\u2019-me-k?"
+        ],
+        "trs": "Well, what have you bought?\u2019 (\\citealt{Maslova2001}: 48, 42)",
+        "wlength": 3
+    },
+    {
+        "ID": "05yuka-474311",
+        "categories": [
+            "foc",
+            "pn",
+            "sg"
+        ],
+        "clength": 18,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "2\\textsc{sg}-\\textsc{foc} \\textsc{pn}",
+        "imtwordsbare": [
+            "2SG-FOC",
+            "PN"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">foc</span>",
+            "<span class=\"sc\">pn</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}-\\textsc{foc}",
+            "\\textsc{pn}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "tet-{ek} Id\u2019ilwej?",
+        "srcwordsbare": [
+            "tet-{ek}",
+            "Id\u2019ilwej?"
+        ],
+        "srcwordshtml": [
+            "tet-{ek}",
+            "Id\u2019ilwej?"
+        ],
+        "srcwordstex": [
+            "tet-{ek}",
+            "Id\u2019ilwej?"
+        ],
+        "trs": "Are you Idilway?\u2019 \\citep[67]{Maslova2003b}",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka--42996",
+        "categories": [
+            "",
+            "foc",
+            "n",
+            "sg"
+        ],
+        "clength": 17,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "2\\textsc{sg}-\\textsc{foc}  be.strong-\\textsc{n.}S\\textsc{foc}",
+        "imtwordsbare": [
+            "2SG-FOC",
+            "be.strong-n.SFOC"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">foc</span>",
+            "be.strong-<span class=\"sc\">n.</span>S<span class=\"sc\">foc</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}-\\textsc{foc}",
+            "be.strong-\\textsc{n.}S\\textsc{foc}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "tet-{ek} werwe-l?",
+        "srcwordsbare": [
+            "tet-{ek}",
+            "werwe-l?"
+        ],
+        "srcwordshtml": [
+            "tet-{ek}",
+            "werwe-l?"
+        ],
+        "srcwordstex": [
+            "tet-{ek}",
+            "werwe-l?"
+        ],
+        "trs": "Are you strong?",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka--83755",
+        "categories": [
+            "foc",
+            "pl",
+            "pred",
+            "tr"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "news \\textsc{pred.foc}=hear-\\textsc{tr}.2\\textsc{pl}",
+        "imtwordsbare": [
+            "news",
+            "pred.foc=hear-TR.2PL"
+        ],
+        "imtwordshtml": [
+            "news",
+            "<span class=\"sc\">pred.foc</span>=hear-<span class=\"sc\">tr</span>.2<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "news",
+            "\\textsc{pred.foc}=hear-\\textsc{tr}.2\\textsc{pl}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "(m\u00f6rde(\u014b)) me=m\u00f6ri-mk?",
+        "srcwordsbare": [
+            "(m\u00f6rde(\u014b))",
+            "me=m\u00f6ri-mk?"
+        ],
+        "srcwordshtml": [
+            "(m\u00f6rde(\u014b))",
+            "me=m\u00f6ri-mk?"
+        ],
+        "srcwordstex": [
+            "(m\u00f6rde(\u014b))",
+            "me=m\u00f6ri-mk?"
+        ],
+        "trs": "Have you heard (the news)?\u2019 (\\citealt{Schmalz2012}: 69, 71)",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka--29807",
+        "categories": [
+            "foc",
+            "intr",
+            "pred",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "\\textsc{pred.foc}=team.leader-be-\\textsc{intr}.2\\textsc{sg}",
+        "imtwordsbare": [
+            "pred.foc=team.leader-be-INTR.2SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pred.foc</span>=team.leader-be-<span class=\"sc\">intr</span>.2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pred.foc}=team.leader-be-\\textsc{intr}.2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "me{=brigadir-\u014bo-d\u2019ek?}",
+        "srcwordsbare": [
+            "me{=brigadir-\u014bo-d\u2019ek?}"
+        ],
+        "srcwordshtml": [
+            "me{=brigadir-\u014bo-d\u2019ek?}"
+        ],
+        "srcwordstex": [
+            "me{=brigadir-\u014bo-d\u2019ek?}"
+        ],
+        "trs": "(You) are the team leader, (aren\u2019t you)?\u2019 \\citep[88]{Schmalz2012}",
+        "wlength": 1
+    },
+    {
+        "ID": "05yuka-456324",
+        "categories": [
+            "acc",
+            "dur",
+            "inch",
+            "sg",
+            "tr"
+        ],
+        "clength": 45,
+        "coordination": "or",
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "child  berry-\\textsc{acc} or  mushroom-\\textsc{acc}  gather.\\textsc{inch}-\\textsc{dur}-\\textsc{tr}.3\\textsc{sg}",
+        "imtwordsbare": [
+            "child",
+            "berry-ACC",
+            "or",
+            "mushroom-ACC",
+            "gather.INCH-DUR-TR.3SG"
+        ],
+        "imtwordshtml": [
+            "child",
+            "berry-<span class=\"sc\">acc</span>",
+            "or",
+            "mushroom-<span class=\"sc\">acc</span>",
+            "gather.<span class=\"sc\">inch</span>-<span class=\"sc\">dur</span>-<span class=\"sc\">tr</span>.3<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "child",
+            "berry-\\textsc{acc}",
+            "or",
+            "mushroom-\\textsc{acc}",
+            "gather.\\textsc{inch}-\\textsc{dur}-\\textsc{tr}.3\\textsc{sg}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "uo  purie-le ejk samnalda\u014bn\u2019e-le  aptaa-nu-m?",
+        "srcwordsbare": [
+            "uo",
+            "purie-le",
+            "ejk",
+            "samnalda\u014bn\u2019e-le",
+            "aptaa-nu-m?"
+        ],
+        "srcwordshtml": [
+            "uo",
+            "purie-le",
+            "ejk",
+            "samnalda\u014bn\u2019e-le",
+            "aptaa-nu-m?"
+        ],
+        "srcwordstex": [
+            "uo",
+            "purie-le",
+            "ejk",
+            "samnalda\u014bn\u2019e-le",
+            "aptaa-nu-m?"
+        ],
+        "trs": "Is the child picking berries or mushrooms?\u2019 \\citep[83]{Schmalz2012}",
+        "wlength": 5
+    },
+    {
+        "ID": "05yuka--69104",
+        "categories": [
+            "3sg",
+            "foc",
+            "intr",
+            "pred",
+            "sg"
+        ],
+        "clength": 51,
+        "coordination": "or",
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "2\\textsc{sg}  reindeer \\textsc{pred.foc}=be.bay-\\textsc{intr.3sg}  or \\textsc{pred.foc}=be.white-\\textsc{intr.3sg}",
+        "imtwordsbare": [
+            "2SG",
+            "reindeer",
+            "pred.foc=be.bay-intr.3sg",
+            "or",
+            "pred.foc=be.white-intr.3sg"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "reindeer",
+            "<span class=\"sc\">pred.foc</span>=be.bay-<span class=\"sc\">intr.3sg</span>",
+            "or",
+            "<span class=\"sc\">pred.foc</span>=be.white-<span class=\"sc\">intr.3sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "reindeer",
+            "\\textsc{pred.foc}=be.bay-\\textsc{intr.3sg}",
+            "or",
+            "\\textsc{pred.foc}=be.white-\\textsc{intr.3sg}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "tet  ile me=\u010daal\u2019-uon\u2019 \\textbf{uuri} me{=n\u2019aawe-j.}",
+        "srcwordsbare": [
+            "tet",
+            "ile",
+            "me=\u010daal\u2019-uon\u2019",
+            "uuri",
+            "me{=n\u2019aawe-j.}"
+        ],
+        "srcwordshtml": [
+            "tet",
+            "ile",
+            "me=\u010daal\u2019-uon\u2019",
+            "<span class=\"bf\">uuri</span>",
+            "me{=n\u2019aawe-j.}"
+        ],
+        "srcwordstex": [
+            "tet",
+            "ile",
+            "me=\u010daal\u2019-uon\u2019",
+            "\\textbf{uuri}",
+            "me{=n\u2019aawe-j.}"
+        ],
+        "trs": "Is your reindeer bay or white?\u2019 \\citep[88]{Schmalz2012}",
+        "wlength": 5
+    },
+    {
+        "ID": "05yuka-317335",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 19,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "2\\textsc{sg}  when  come-2\\textsc{sg.q}",
+        "imtwordsbare": [
+            "2SG",
+            "when",
+            "come-2sg.q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "when",
+            "come-2<span class=\"sc\">sg.q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "when",
+            "come-2\\textsc{sg.q}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "tet qanin kelu-{k}?",
+        "srcwordsbare": [
+            "tet",
+            "qanin",
+            "kelu-{k}?"
+        ],
+        "srcwordshtml": [
+            "tet",
+            "qanin",
+            "kelu-{k}?"
+        ],
+        "srcwordstex": [
+            "tet",
+            "qanin",
+            "kelu-{k}?"
+        ],
+        "trs": "When do you come?\u2019 (questioned peripheral argument)",
+        "wlength": 3
+    },
+    {
+        "ID": "05yuka--68923",
+        "categories": [
+            "foc",
+            "pred",
+            "ptcp"
+        ],
+        "clength": 19,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "who-\\textsc{pred.foc}    come-\\textsc{ptcp}",
+        "imtwordsbare": [
+            "who-pred.foc",
+            "come-PTCP"
+        ],
+        "imtwordshtml": [
+            "who-<span class=\"sc\">pred.foc</span>",
+            "come-<span class=\"sc\">ptcp</span>"
+        ],
+        "imtwordstex": [
+            "who-\\textsc{pred.foc}",
+            "come-\\textsc{ptcp}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "kin{-tek} kelu-{l}?",
+        "srcwordsbare": [
+            "kin{-tek}",
+            "kelu-{l}?"
+        ],
+        "srcwordshtml": [
+            "kin{-tek}",
+            "kelu-{l}?"
+        ],
+        "srcwordstex": [
+            "kin{-tek}",
+            "kelu-{l}?"
+        ],
+        "trs": "Who came?\u2019 (questioned S)",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka--40684",
+        "categories": [
+            "foc",
+            "fut",
+            "pred",
+            "ptcp",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "2\\textsc{sg}  what-\\textsc{pred.foc}  drink-\\textsc{fut}-\\textsc{ptcp}.2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "what-pred.foc",
+            "drink-FUT-PTCP.2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "what-<span class=\"sc\">pred.foc</span>",
+            "drink-<span class=\"sc\">fut</span>-<span class=\"sc\">ptcp</span>.2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "what-\\textsc{pred.foc}",
+            "drink-\\textsc{fut}-\\textsc{ptcp}.2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "tet lem{-}{dik} oo\u0292e-t-{mo}?",
+        "srcwordsbare": [
+            "tet",
+            "lem{-}{dik}",
+            "oo\u0292e-t-{mo}?"
+        ],
+        "srcwordshtml": [
+            "tet",
+            "lem{-}{dik}",
+            "oo\u0292e-t-{mo}?"
+        ],
+        "srcwordstex": [
+            "tet",
+            "lem{-}{dik}",
+            "oo\u0292e-t-{mo}?"
+        ],
+        "trs": "What will you drink?\u2019 (questioned O)",
+        "wlength": 3
+    },
+    {
+        "ID": "05yuka--72108",
+        "categories": [],
+        "clength": 11,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "who  kill",
+        "imtwordsbare": [
+            "who",
+            "kill"
+        ],
+        "imtwordshtml": [
+            "who",
+            "kill"
+        ],
+        "imtwordstex": [
+            "who",
+            "kill"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "kin kudede?",
+        "srcwordsbare": [
+            "kin",
+            "kudede?"
+        ],
+        "srcwordshtml": [
+            "kin",
+            "kudede?"
+        ],
+        "srcwordstex": [
+            "kin",
+            "kudede?"
+        ],
+        "trs": "Who killed (it)?\u2019 (questioned A) (\\citealt{Nagasaki2011}: 245, 240)\\z\\z",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka-836947",
+        "categories": [
+            "fut",
+            "intr",
+            "pfv",
+            "q",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "when    go-?\\textsc{pfv}-\\textsc{fut}-\\textsc{intr}-2\\textsc{sg.q}",
+        "imtwordsbare": [
+            "when",
+            "go-?PFV-FUT-INTR-2sg.q"
+        ],
+        "imtwordshtml": [
+            "when",
+            "go-?<span class=\"sc\">pfv</span>-<span class=\"sc\">fut</span>-<span class=\"sc\">intr</span>-2<span class=\"sc\">sg.q</span>"
+        ],
+        "imtwordstex": [
+            "when",
+            "go-?\\textsc{pfv}-\\textsc{fut}-\\textsc{intr}-2\\textsc{sg.q}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "kanin kawe-i-ta-je-{k}?",
+        "srcwordsbare": [
+            "kanin",
+            "kawe-i-ta-je-{k}?"
+        ],
+        "srcwordshtml": [
+            "kanin",
+            "kawe-i-ta-je-{k}?"
+        ],
+        "srcwordstex": [
+            "kanin",
+            "kawe-i-ta-je-{k}?"
+        ],
+        "trs": "When will you leave?\u2019 (questioned peripheral argument)",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka-377732",
+        "categories": [
+            "foc",
+            "pred",
+            "ptcp"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "who-\\textsc{pred.foc}    come-\\textsc{ptcp}  there",
+        "imtwordsbare": [
+            "who-pred.foc",
+            "come-PTCP",
+            "there"
+        ],
+        "imtwordshtml": [
+            "who-<span class=\"sc\">pred.foc</span>",
+            "come-<span class=\"sc\">ptcp</span>",
+            "there"
+        ],
+        "imtwordstex": [
+            "who-\\textsc{pred.foc}",
+            "come-\\textsc{ptcp}",
+            "there"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "k\u1ecbn{-ak} kallu-{l} ta?",
+        "srcwordsbare": [
+            "k\u1ecbn{-ak}",
+            "kallu-{l}",
+            "ta?"
+        ],
+        "srcwordshtml": [
+            "k\u1ecbn{-ak}",
+            "kallu-{l}",
+            "ta?"
+        ],
+        "srcwordstex": [
+            "k\u1ecbn{-ak}",
+            "kallu-{l}",
+            "ta?"
+        ],
+        "trs": "Who came over there?\u2019 (questioned S)",
+        "wlength": 3
+    },
+    {
+        "ID": "05yuka-786213",
+        "categories": [
+            "1pl",
+            "foc",
+            "fut",
+            "pred",
+            "ptcp"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "\\textsc{1pl}  what-\\textsc{pred.foc}  do-\\textsc{fut}-\\textsc{ptcp}.\\textsc{1pl}",
+        "imtwordsbare": [
+            "1PL",
+            "what-pred.foc",
+            "do-FUT-PTCP.1PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1pl</span>",
+            "what-<span class=\"sc\">pred.foc</span>",
+            "do-<span class=\"sc\">fut</span>-<span class=\"sc\">ptcp</span>.<span class=\"sc\">1pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pl}",
+            "what-\\textsc{pred.foc}",
+            "do-\\textsc{fut}-\\textsc{ptcp}.\\textsc{1pl}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "m\u1ecbt lom{dak} aa-ta-{m}?",
+        "srcwordsbare": [
+            "m\u1ecbt",
+            "lom{dak}",
+            "aa-ta-{m}?"
+        ],
+        "srcwordshtml": [
+            "m\u1ecbt",
+            "lom{dak}",
+            "aa-ta-{m}?"
+        ],
+        "srcwordstex": [
+            "m\u1ecbt",
+            "lom{dak}",
+            "aa-ta-{m}?"
+        ],
+        "trs": "What will we do?\u2019 (questioned O)\\footnote{Note that Kolyma \\ili{Yukaghir} has \u20181\\textsc{sg\u2019} \\textit{-me} but \u20181\\textsc{pl\u2019} \\textit{-l} (\\tabref{tab:yuka:5}).}",
+        "wlength": 3
+    },
+    {
+        "ID": "05yuka-594359",
+        "categories": [],
+        "clength": 8,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "who  steal",
+        "imtwordsbare": [
+            "who",
+            "steal"
+        ],
+        "imtwordshtml": [
+            "who",
+            "steal"
+        ],
+        "imtwordstex": [
+            "who",
+            "steal"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "kin \u00f3lo?",
+        "srcwordsbare": [
+            "kin",
+            "\u00f3lo?"
+        ],
+        "srcwordshtml": [
+            "kin",
+            "\u00f3lo?"
+        ],
+        "srcwordstex": [
+            "kin",
+            "\u00f3lo?"
+        ],
+        "trs": "Who stole (it)?\u2019 (questioned A) (\\citealt{Schiefner1871}: 101, 92)\\z\\z",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka--73317",
+        "categories": [
+            "fut",
+            "inst",
+            "pl",
+            "q"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "what-\\textsc{inst}  play-\\textsc{fut}-1\\textsc{pl.q}",
+        "imtwordsbare": [
+            "what-INST",
+            "play-FUT-1pl.q"
+        ],
+        "imtwordshtml": [
+            "what-<span class=\"sc\">inst</span>",
+            "play-<span class=\"sc\">fut</span>-1<span class=\"sc\">pl.q</span>"
+        ],
+        "imtwordstex": [
+            "what-\\textsc{inst}",
+            "play-\\textsc{fut}-1\\textsc{pl.q}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "neme-lek  joor\u01dd-t-{ook}?",
+        "srcwordsbare": [
+            "neme-lek",
+            "joor\u01dd-t-{ook}?"
+        ],
+        "srcwordshtml": [
+            "neme-lek",
+            "joor\u01dd-t-{ook}?"
+        ],
+        "srcwordstex": [
+            "neme-lek",
+            "joor\u01dd-t-{ook}?"
+        ],
+        "trs": "What are we going to play with?\u2019 (questioned peripheral argument)",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka-141999",
+        "categories": [
+            "foc",
+            "ptcp"
+        ],
+        "clength": 20,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "who-\\textsc{foc}  come-\\textsc{ptcp}",
+        "imtwordsbare": [
+            "who-FOC",
+            "come-PTCP"
+        ],
+        "imtwordshtml": [
+            "who-<span class=\"sc\">foc</span>",
+            "come-<span class=\"sc\">ptcp</span>"
+        ],
+        "imtwordstex": [
+            "who-\\textsc{foc}",
+            "come-\\textsc{ptcp}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "kin{-}{ek} ewr\u01dd-{l}?",
+        "srcwordsbare": [
+            "kin{-}{ek}",
+            "ewr\u01dd-{l}?"
+        ],
+        "srcwordshtml": [
+            "kin{-}{ek}",
+            "ewr\u01dd-{l}?"
+        ],
+        "srcwordstex": [
+            "kin{-}{ek}",
+            "ewr\u01dd-{l}?"
+        ],
+        "trs": "Who has arrived?\u2019 (questioned S)",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka-272816",
+        "categories": [
+            "foc",
+            "ptcp",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "what-\\textsc{foc}  tell-\\textsc{foc}-\\textsc{ptcp}.2\\textsc{sg}",
+        "imtwordsbare": [
+            "what-FOC",
+            "tell-FOC-PTCP.2SG"
+        ],
+        "imtwordshtml": [
+            "what-<span class=\"sc\">foc</span>",
+            "tell-<span class=\"sc\">foc</span>-<span class=\"sc\">ptcp</span>.2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "what-\\textsc{foc}",
+            "tell-\\textsc{foc}-\\textsc{ptcp}.2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "neme{-}{l\u01dd} \u0144eed\u2019i-t-{m\u01dd\u014b}?",
+        "srcwordsbare": [
+            "neme{-}{l\u01dd}",
+            "\u0144eed\u2019i-t-{m\u01dd\u014b}?"
+        ],
+        "srcwordshtml": [
+            "neme{-}{l\u01dd}",
+            "\u0144eed\u2019i-t-{m\u01dd\u014b}?"
+        ],
+        "srcwordstex": [
+            "neme{-}{l\u01dd}",
+            "\u0144eed\u2019i-t-{m\u01dd\u014b}?"
+        ],
+        "trs": "What will you tell (us)?\u2019 (questioned O)",
+        "wlength": 2
+    },
+    {
+        "ID": "05yuka--49340",
+        "categories": [
+            "acc",
+            "sg"
+        ],
+        "clength": 31,
+        "filename": "174/chapters/05yuka.tex",
+        "imt": "2\\textsc{sg}-\\textsc{acc}  who  so  up.to  do",
+        "imtwordsbare": [
+            "2SG-ACC",
+            "who",
+            "so",
+            "up.to",
+            "do"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">acc</span>",
+            "who",
+            "so",
+            "up.to",
+            "do"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}-\\textsc{acc}",
+            "who",
+            "so",
+            "up.to",
+            "do"
+        ],
+        "language": "174/chapters/05yuka.tex",
+        "src": "tet-qan\u01dd kin tite  git\u0144\u01ddr  wee?",
+        "srcwordsbare": [
+            "tet-qan\u01dd",
+            "kin",
+            "tite",
+            "git\u0144\u01ddr",
+            "wee?"
+        ],
+        "srcwordshtml": [
+            "tet-qan\u01dd",
+            "kin",
+            "tite",
+            "git\u0144\u01ddr",
+            "wee?"
+        ],
+        "srcwordstex": [
+            "tet-qan\u01dd",
+            "kin",
+            "tite",
+            "git\u0144\u01ddr",
+            "wee?"
+        ],
+        "trs": "Who did that to you?\u2019 (questioned A) (\\citealt{Mati\u01072014}: 131f.)\\z\\z",
+        "wlength": 5
+    }
+]

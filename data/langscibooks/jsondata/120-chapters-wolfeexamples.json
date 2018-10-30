@@ -1,0 +1,1415 @@
+[
+    {
+        "ID": "wolfe--15417",
+        "categories": [
+            "1sg",
+            "a",
+            "dat",
+            "erg",
+            "pfv",
+            "s"
+        ],
+        "clength": 23,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "1\\textsc{s}=\\textsc{erg} market=\\textsc{dat} run-\\textsc{1sg.a-pfv}",
+        "imtwordsbare": [
+            "1S=ERG",
+            "market=DAT",
+            "run-1sg.a-pfv"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">s</span>=<span class=\"sc\">erg</span>",
+            "market=<span class=\"sc\">dat</span>",
+            "run-<span class=\"sc\">1sg.a-pfv</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{s}=\\textsc{erg}",
+            "market=\\textsc{dat}",
+            "run-\\textsc{1sg.a-pfv}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "*Ai=gu suk=tu hiri-g-\u00ed.",
+        "srcwordsbare": [
+            "*Ai=gu",
+            "suk=tu",
+            "hiri-g-\u00ed."
+        ],
+        "srcwordshtml": [
+            "*Ai=gu",
+            "suk=tu",
+            "hiri-g-\u00ed."
+        ],
+        "srcwordstex": [
+            "*Ai=gu",
+            "suk=tu",
+            "hiri-g-\u00ed."
+        ],
+        "trs": "It was I who ran to the market.\u2019 (TAA)",
+        "wlength": 3
+    },
+    {
+        "ID": "wolfe--53407",
+        "categories": [
+            "1sg",
+            "a",
+            "erg",
+            "pfv",
+            "s"
+        ],
+        "clength": 15,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "1\\textsc{s}=\\textsc{erg} exit-\\textsc{1sg}.\\textsc{a}-\\textsc{pfv}",
+        "imtwordsbare": [
+            "1S=ERG",
+            "exit-1SG.A-PFV"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">s</span>=<span class=\"sc\">erg</span>",
+            "exit-<span class=\"sc\">1sg</span>.<span class=\"sc\">a</span>-<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{s}=\\textsc{erg}",
+            "exit-\\textsc{1sg}.\\textsc{a}-\\textsc{pfv}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "*Ai=gu sur-g-\u00ed.",
+        "srcwordsbare": [
+            "*Ai=gu",
+            "sur-g-\u00ed."
+        ],
+        "srcwordshtml": [
+            "*Ai=gu",
+            "sur-g-\u00ed."
+        ],
+        "srcwordstex": [
+            "*Ai=gu",
+            "sur-g-\u00ed."
+        ],
+        "trs": "It was I who left.\u2019 (TAA)",
+        "wlength": 2
+    },
+    {
+        "ID": "wolfe-264767",
+        "categories": [
+            "a",
+            "erg",
+            "neg",
+            "pfv",
+            "s",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "3\\textsc{s}=\\textsc{erg} car 3.\\textsc{a}:have:\\textsc{pfv}:\\textsc{sg} 1\\textsc{s} car have:1\\textsc{s}.A:\\textsc{neg}",
+        "imtwordsbare": [
+            "3S=ERG",
+            "car",
+            "3.A:have:PFV:SG",
+            "1S",
+            "car",
+            "have:1S.A:NEG"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">s</span>=<span class=\"sc\">erg</span>",
+            "car",
+            "3.<span class=\"sc\">a</span>:have:<span class=\"sc\">pfv</span>:<span class=\"sc\">sg</span>",
+            "1<span class=\"sc\">s</span>",
+            "car",
+            "have:1<span class=\"sc\">s</span>.A:<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{s}=\\textsc{erg}",
+            "car",
+            "3.\\textsc{a}:have:\\textsc{pfv}:\\textsc{sg}",
+            "1\\textsc{s}",
+            "car",
+            "have:1\\textsc{s}.A:\\textsc{neg}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "*Ber=gu arabie kid\u00ed. A arab tigo.",
+        "srcwordsbare": [
+            "*Ber=gu",
+            "arabie",
+            "kid\u00ed.",
+            "A",
+            "arab",
+            "tigo."
+        ],
+        "srcwordshtml": [
+            "*Ber=gu",
+            "arabie",
+            "kid\u00ed.",
+            "A",
+            "arab",
+            "tigo."
+        ],
+        "srcwordstex": [
+            "*Ber=gu",
+            "arabie",
+            "kid\u00ed.",
+            "A",
+            "arab",
+            "tigo."
+        ],
+        "trs": "It is he who has a car. I don\u2019t have a car.\u2019 (TAA)",
+        "wlength": 6
+    },
+    {
+        "ID": "wolfe-750873",
+        "categories": [
+            "\\textsubscript{abs",
+            "foc",
+            "oj",
+            "pfv",
+            "sj"
+        ],
+        "clength": 35,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "Jamal=\\textsc{foc}\\textsc{\\textsubscript{abs}} \\ili{Arabic} \\textsc{oj}:3:learn-\\textsc{sj}:3-\\textsc{pfv}",
+        "imtwordsbare": [
+            "Jamal=FOC\\textsubscript{abs}",
+            "\\ili{Arabic}",
+            "OJ:3:learn-SJ:3-PFV"
+        ],
+        "imtwordshtml": [
+            "Jamal=<span class=\"sc\">foc</span><span class=\"sc\">\\textsubscript{abs</span>}",
+            "\\ili{Arabic}",
+            "<span class=\"sc\">oj</span>:3:learn-<span class=\"sc\">sj</span>:3-<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "Jamal=\\textsc{foc}\\textsc{\\textsubscript{abs}}",
+            "\\ili{Arabic}",
+            "\\textsc{oj}:3:learn-\\textsc{sj}:3-\\textsc{pfv}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "\u025f\u00e0m\u00e2l=\\textbf{d\u026a} \u00e0rm\u00e1 \u00d8:\u00e1w\u00e1\u00e1-r\u0329-\u026a.",
+        "srcwordsbare": [
+            "\u025f\u00e0m\u00e2l=d\u026a",
+            "\u00e0rm\u00e1",
+            "\u00d8:\u00e1w\u00e1\u00e1-r\u0329-\u026a."
+        ],
+        "srcwordshtml": [
+            "\u025f\u00e0m\u00e2l=<span class=\"bf\">d\u026a</span>",
+            "\u00e0rm\u00e1",
+            "\u00d8:\u00e1w\u00e1\u00e1-r\u0329-\u026a."
+        ],
+        "srcwordstex": [
+            "\u025f\u00e0m\u00e2l=\\textbf{d\u026a}",
+            "\u00e0rm\u00e1",
+            "\u00d8:\u00e1w\u00e1\u00e1-r\u0329-\u026a."
+        ],
+        "trs": "It\u2019s Jamal who has learnt  Arabic.\u2019 \\citep[139]{Jakobi2006}",
+        "wlength": 3
+    },
+    {
+        "ID": "wolfe--88921",
+        "categories": [
+            "1sg",
+            "a",
+            "aux",
+            "erg",
+            "neg",
+            "pfv",
+            "poss"
+        ],
+        "clength": 42,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "Hawa=\\textsc{erg} name=\\textsc{1sg}.\\textsc{poss} know=3\\textsc{a}.\\textsc{pfv}:\\textsc{aux} Maha know=3\\textsc{a}.\\textsc{pfv}:\\textsc{aux}:\\textsc{neg}",
+        "imtwordsbare": [
+            "Hawa=ERG",
+            "name=1SG.POSS",
+            "know=3A.PFV:AUX",
+            "Maha",
+            "know=3A.PFV:AUX:NEG"
+        ],
+        "imtwordshtml": [
+            "Hawa=<span class=\"sc\">erg</span>",
+            "name=<span class=\"sc\">1sg</span>.<span class=\"sc\">poss</span>",
+            "know=3<span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>:<span class=\"sc\">aux</span>",
+            "Maha",
+            "know=3<span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>:<span class=\"sc\">aux</span>:<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "Hawa=\\textsc{erg}",
+            "name=\\textsc{1sg}.\\textsc{poss}",
+            "know=3\\textsc{a}.\\textsc{pfv}:\\textsc{aux}",
+            "Maha",
+            "know=3\\textsc{a}.\\textsc{pfv}:\\textsc{aux}:\\textsc{neg}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "*Hawa=gu tir=eg\u00ee. ege=gin\u00ed. Maha ege=gino.",
+        "srcwordsbare": [
+            "*Hawa=gu",
+            "tir=eg\u00ee.",
+            "ege=gin\u00ed.",
+            "Maha",
+            "ege=gino."
+        ],
+        "srcwordshtml": [
+            "*Hawa=gu",
+            "tir=eg\u00ee.",
+            "ege=gin\u00ed.",
+            "Maha",
+            "ege=gino."
+        ],
+        "srcwordstex": [
+            "*Hawa=gu",
+            "tir=eg\u00ee.",
+            "ege=gin\u00ed.",
+            "Maha",
+            "ege=gino."
+        ],
+        "trs": "It was Hawa who learned (lit., \u2018knew\u2019) my name. Maha didn\u2019t learn it.\u2019 (TAA)\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "wolfe-639643",
+        "categories": [
+            "\\textbf{erg",
+            "\\textsubscript{pr",
+            "a",
+            "aux",
+            "cop",
+            "neg",
+            "pfv"
+        ],
+        "clength": 49,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "boy=that\\textbf{=}\\textsc{\\textbf{erg}}\\textbf{} \\textsc{neg}.\\textsc{pfv} girl hit=3.\\textsc{a}.\\textsc{pfv}-\\textsc{aux}-\\textsc{neg} person other=\\textsc{cop}\\textsc{\\textsubscript{pr}}",
+        "imtwordsbare": [
+            "boy=that=\\textbf{erg}",
+            "NEG.PFV",
+            "girl",
+            "hit=3.A.PFV-AUX-NEG",
+            "person",
+            "other=COP\\textsubscript{pr}"
+        ],
+        "imtwordshtml": [
+            "boy=that<span class=\"bf\">=</span><span class=\"sc\">\\textbf{erg</span>}<span class=\"bf\"></span>",
+            "<span class=\"sc\">neg</span>.<span class=\"sc\">pfv</span>",
+            "girl",
+            "hit=3.<span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>-<span class=\"sc\">aux</span>-<span class=\"sc\">neg</span>",
+            "person",
+            "other=<span class=\"sc\">cop</span><span class=\"sc\">\\textsubscript{pr</span>}"
+        ],
+        "imtwordstex": [
+            "boy=that\\textbf{=}\\textsc{\\textbf{erg}}\\textbf{}",
+            "\\textsc{neg}.\\textsc{pfv}",
+            "girl",
+            "hit=3.\\textsc{a}.\\textsc{pfv}-\\textsc{aux}-\\textsc{neg}",
+            "person",
+            "other=\\textsc{cop}\\textsc{\\textsubscript{pr}}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "Bur=do\\textbf{=gu} kana tene sai=gi-n-o. O gie=i.",
+        "srcwordsbare": [
+            "Bur=do=gu",
+            "kana",
+            "tene",
+            "sai=gi-n-o.",
+            "O",
+            "gie=i."
+        ],
+        "srcwordshtml": [
+            "Bur=do<span class=\"bf\">=gu</span>",
+            "kana",
+            "tene",
+            "sai=gi-n-o.",
+            "O",
+            "gie=i."
+        ],
+        "srcwordstex": [
+            "Bur=do\\textbf{=gu}",
+            "kana",
+            "tene",
+            "sai=gi-n-o.",
+            "O",
+            "gie=i."
+        ],
+        "trs": "It wasn\u2019t \\textit{that boy} that hit the girl. It was someone else.\u2019 (TAA)",
+        "wlength": 6
+    },
+    {
+        "ID": "wolfe--51207",
+        "categories": [
+            "\\textbf{erg",
+            "a",
+            "aux",
+            "conj",
+            "neg",
+            "pfv"
+        ],
+        "clength": 58,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "boy\\textbf{=}\\textsc{\\textbf{erg}}\\textbf{} \\textsc{neg}.\\textsc{pfv} girl hit=3.\\textsc{a}.\\textsc{pfv}-\\textsc{aux}-\\textsc{neg}=\\textsc{conj} girl\\textbf{=}\\textsc{\\textbf{erg}}",
+        "imtwordsbare": [
+            "boy=\\textbf{erg}",
+            "NEG.PFV",
+            "girl",
+            "hit=3.A.PFV-AUX-NEG=CONJ",
+            "girl=\\textbf{erg}"
+        ],
+        "imtwordshtml": [
+            "boy<span class=\"bf\">=</span><span class=\"sc\">\\textbf{erg</span>}<span class=\"bf\"></span>",
+            "<span class=\"sc\">neg</span>.<span class=\"sc\">pfv</span>",
+            "girl",
+            "hit=3.<span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>-<span class=\"sc\">aux</span>-<span class=\"sc\">neg</span>=<span class=\"sc\">conj</span>",
+            "girl<span class=\"bf\">=</span><span class=\"sc\">\\textbf{erg</span>}"
+        ],
+        "imtwordstex": [
+            "boy\\textbf{=}\\textsc{\\textbf{erg}}\\textbf{}",
+            "\\textsc{neg}.\\textsc{pfv}",
+            "girl",
+            "hit=3.\\textsc{a}.\\textsc{pfv}-\\textsc{aux}-\\textsc{neg}=\\textsc{conj}",
+            "girl\\textbf{=}\\textsc{\\textbf{erg}}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "Bur\\textbf{=gu} kana tene sai=gi-n-o=ru, tene\\textbf{=gu}.",
+        "srcwordsbare": [
+            "Bur=gu",
+            "kana",
+            "tene",
+            "sai=gi-n-o=ru,",
+            "tene=gu."
+        ],
+        "srcwordshtml": [
+            "Bur<span class=\"bf\">=gu</span>",
+            "kana",
+            "tene",
+            "sai=gi-n-o=ru,",
+            "tene<span class=\"bf\">=gu</span>."
+        ],
+        "srcwordstex": [
+            "Bur\\textbf{=gu}",
+            "kana",
+            "tene",
+            "sai=gi-n-o=ru,",
+            "tene\\textbf{=gu}."
+        ],
+        "trs": "It wasn\u2019t that the \\textit{boy} that hit the \\textit{girl}. The \\textit{girl} hit the \\textit{boy}.\u2019 (TAA)",
+        "wlength": 5
+    },
+    {
+        "ID": "wolfe-580934",
+        "categories": [
+            "3",
+            "\\textbf{erg",
+            "a",
+            "aux",
+            "conj",
+            "cvb",
+            "dat",
+            "loc",
+            "pfv",
+            "pl"
+        ],
+        "clength": 136,
+        "coordination": "and",
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "villages Mt. Sharq al Jebel direction=\\textsc{loc} Yara=\\textsc{conj} Nimra=\\textsc{conj} Dalma=\\textsc{conj} villages=these=\\textsc{conj} person:\\textsc{pl} armed militia government=\\textsc{dat} affiliated this\\textbf{=}\\textsc{\\textbf{erg}} go.\\textsc{3}\\textsc{a}.\\textsc{pl}-\\textsc{cvb} ambush=\\textsc{3}\\textsc{a}.\\textsc{pfv}:\\textsc{aux}:\\textsc{pl}",
+        "imtwordsbare": [
+            "villages",
+            "Mt.",
+            "Sharq",
+            "al",
+            "Jebel",
+            "direction=LOC",
+            "Yara=CONJ",
+            "Nimra=CONJ",
+            "Dalma=CONJ",
+            "villages=these=CONJ",
+            "person:PL",
+            "armed",
+            "militia",
+            "government=DAT",
+            "affiliated",
+            "this=\\textbf{erg}",
+            "go.3A.PL-CVB",
+            "ambush=3A.PFV:AUX:PL"
+        ],
+        "imtwordshtml": [
+            "villages",
+            "Mt.",
+            "Sharq",
+            "al",
+            "Jebel",
+            "direction=<span class=\"sc\">loc</span>",
+            "Yara=<span class=\"sc\">conj</span>",
+            "Nimra=<span class=\"sc\">conj</span>",
+            "Dalma=<span class=\"sc\">conj</span>",
+            "villages=these=<span class=\"sc\">conj</span>",
+            "person:<span class=\"sc\">pl</span>",
+            "armed",
+            "militia",
+            "government=<span class=\"sc\">dat</span>",
+            "affiliated",
+            "this<span class=\"bf\">=</span><span class=\"sc\">\\textbf{erg</span>}",
+            "go.<span class=\"sc\">3</span><span class=\"sc\">a</span>.<span class=\"sc\">pl</span>-<span class=\"sc\">cvb</span>",
+            "ambush=<span class=\"sc\">3</span><span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>:<span class=\"sc\">aux</span>:<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "villages",
+            "Mt.",
+            "Sharq",
+            "al",
+            "Jebel",
+            "direction=\\textsc{loc}",
+            "Yara=\\textsc{conj}",
+            "Nimra=\\textsc{conj}",
+            "Dalma=\\textsc{conj}",
+            "villages=these=\\textsc{conj}",
+            "person:\\textsc{pl}",
+            "armed",
+            "militia",
+            "government=\\textsc{dat}",
+            "affiliated",
+            "this\\textbf{=}\\textsc{\\textbf{erg}}",
+            "go.\\textsc{3}\\textsc{a}.\\textsc{pl}-\\textsc{cvb}",
+            "ambush=\\textsc{3}\\textsc{a}.\\textsc{pfv}:\\textsc{aux}:\\textsc{pl}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "gen\u00eea ha Sharq al Jabal hie=ru Yara=ra Nimra=ra Dalma=ra gen\u00eea=k\u00ee=ra, oo to\u00fbra malishat hakuma=ru tabi beg\u00ee\\textbf{=gu} a-we gami=gin\u00ed\u00ed.",
+        "srcwordsbare": [
+            "gen\u00eea",
+            "ha",
+            "Sharq",
+            "al",
+            "Jabal",
+            "hie=ru",
+            "Yara=ra",
+            "Nimra=ra",
+            "Dalma=ra",
+            "gen\u00eea=k\u00ee=ra,",
+            "oo",
+            "to\u00fbra",
+            "malishat",
+            "hakuma=ru",
+            "tabi",
+            "beg\u00ee=gu",
+            "a-we",
+            "gami=gin\u00ed\u00ed."
+        ],
+        "srcwordshtml": [
+            "gen\u00eea",
+            "ha",
+            "Sharq",
+            "al",
+            "Jabal",
+            "hie=ru",
+            "Yara=ra",
+            "Nimra=ra",
+            "Dalma=ra",
+            "gen\u00eea=k\u00ee=ra,",
+            "oo",
+            "to\u00fbra",
+            "malishat",
+            "hakuma=ru",
+            "tabi",
+            "beg\u00ee<span class=\"bf\">=gu</span>",
+            "a-we",
+            "gami=gin\u00ed\u00ed."
+        ],
+        "srcwordstex": [
+            "gen\u00eea",
+            "ha",
+            "Sharq",
+            "al",
+            "Jabal",
+            "hie=ru",
+            "Yara=ra",
+            "Nimra=ra",
+            "Dalma=ra",
+            "gen\u00eea=k\u00ee=ra,",
+            "oo",
+            "to\u00fbra",
+            "malishat",
+            "hakuma=ru",
+            "tabi",
+            "beg\u00ee\\textbf{=gu}",
+            "a-we",
+            "gami=gin\u00ed\u00ed."
+        ],
+        "trs": "The villages around Mt. Sharq al Jebel \u2013 Yara, Nimra, and Dalma \u2013 these villages too, these armed government-affiliated militiamen(=\\textsc{erg}) went and ambushed.\u2019 [3/18, 3.1]",
+        "wlength": 18
+    },
+    {
+        "ID": "wolfe-759530",
+        "categories": [
+            "\\textbf{\\textsubscript{erg",
+            "\\textbf{foc",
+            "\\textsubscript{abs",
+            "foc",
+            "oj",
+            "pfv",
+            "sj"
+        ],
+        "clength": 42,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "house this=\\textsc{foc}\\textsc{\\textsubscript{abs}} father my\\textbf{=}\\textsc{\\textbf{foc}}\\textsc{\\textbf{\\textsubscript{erg}}} \\textsc{oj}:3:build-\\textsc{pfv}:3-\\textsc{sj}:3-\\textsc{pfv}",
+        "imtwordsbare": [
+            "house",
+            "this=FOC\\textsubscript{abs}",
+            "father",
+            "my=\\textbf{foc}\\textbf{\\textsubscript{erg}}",
+            "OJ:3:build-PFV:3-SJ:3-PFV"
+        ],
+        "imtwordshtml": [
+            "house",
+            "this=<span class=\"sc\">foc</span><span class=\"sc\">\\textsubscript{abs</span>}",
+            "father",
+            "my<span class=\"bf\">=</span><span class=\"sc\">\\textbf{foc</span>}<span class=\"sc\">\\textbf{\\textsubscript{erg</span>}}",
+            "<span class=\"sc\">oj</span>:3:build-<span class=\"sc\">pfv</span>:3-<span class=\"sc\">sj</span>:3-<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "house",
+            "this=\\textsc{foc}\\textsc{\\textsubscript{abs}}",
+            "father",
+            "my\\textbf{=}\\textsc{\\textbf{foc}}\\textsc{\\textbf{\\textsubscript{erg}}}",
+            "\\textsc{oj}:3:build-\\textsc{pfv}:3-\\textsc{sj}:3-\\textsc{pfv}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "b\u026a\u025b k\u00ed=d\u00ee \u00e1b\u0101 \u00e9g\u00ed\\textbf{=g\u00fa} \u00d8:s\u00ed-\u00e9-r\u0329-\u00ee.",
+        "srcwordsbare": [
+            "b\u026a\u025b",
+            "k\u00ed=d\u00ee",
+            "\u00e1b\u0101",
+            "\u00e9g\u00ed=g\u00fa",
+            "\u00d8:s\u00ed-\u00e9-r\u0329-\u00ee."
+        ],
+        "srcwordshtml": [
+            "b\u026a\u025b",
+            "k\u00ed=d\u00ee",
+            "\u00e1b\u0101",
+            "\u00e9g\u00ed<span class=\"bf\">=g\u00fa</span>",
+            "\u00d8:s\u00ed-\u00e9-r\u0329-\u00ee."
+        ],
+        "srcwordstex": [
+            "b\u026a\u025b",
+            "k\u00ed=d\u00ee",
+            "\u00e1b\u0101",
+            "\u00e9g\u00ed\\textbf{=g\u00fa}",
+            "\u00d8:s\u00ed-\u00e9-r\u0329-\u00ee."
+        ],
+        "trs": "It\u2019s this house that my father has built.\u2019 \\citep[138]{Jakobi2006}",
+        "wlength": 5
+    },
+    {
+        "ID": "wolfe-201758",
+        "categories": [
+            "",
+            "1",
+            "1pl",
+            "3",
+            "\\textbf{erg",
+            "\\textsubscript{loc",
+            "a",
+            "cop",
+            "cvb",
+            "ins",
+            "p",
+            "pfv",
+            "pl",
+            "prog"
+        ],
+        "clength": 103,
+        "coordination": "and",
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "village=this within person:\\textsc{pl} \\textsc{cop}\\textsc{\\textsubscript{loc}}\\textsc{.3:}\\textsc{pl}=\\textsc{\\textbf{erg}} \\textsc{1}\\textsc{pl.p}-come.together-\\textsc{cvb} hand:\\textsc{pl}=\\textsc{ins} again \\textsc{prog} spade:\\textsc{pl}=\\textsc{ins} mine=this \\textsc{prog} dig-\\textsc{1pl}.\\textsc{a}-\\textsc{pfv} 3.\\textsc{a}.\\textsc{pfv}-say-\\textsc{cvb} 3.\\textsc{a}.\\textsc{pfv}-say-\\textsc{pfv}:\\textsc{pl}",
+        "imtwordsbare": [
+            "village=this",
+            "within",
+            "person:1{pl}",
+            "1{cop}1{loc}1{.3:}1{pl}=1{erg}",
+            "1{1}1{pl.p}-come.together-1{cvb}",
+            "hand:1{pl}=1{ins}",
+            "again",
+            "1{prog}",
+            "spade:1{pl}=1{ins}",
+            "mine=this",
+            "1{prog}",
+            "dig-1{1pl}.1{a}-1{pfv}",
+            "3.1{a}.1{pfv}-say-1{cvb}",
+            "3.1{a}.1{pfv}-say-1{pfv}:1{pl}"
+        ],
+        "imtwordshtml": [
+            "village=this",
+            "within",
+            "person:<span class=\"sc\">pl</span>",
+            "<span class=\"sc\">cop</span><span class=\"sc\">\\textsubscript{loc</span>}<span class=\"sc\">.3:</span><span class=\"sc\">pl</span>=<span class=\"sc\">\\textbf{erg</span>}",
+            "<span class=\"sc\">1</span><span class=\"sc\">pl.p</span>-come.together-<span class=\"sc\">cvb</span>",
+            "hand:<span class=\"sc\">pl</span>=<span class=\"sc\">ins</span>",
+            "again",
+            "<span class=\"sc\">prog</span>",
+            "spade:<span class=\"sc\">pl</span>=<span class=\"sc\">ins</span>",
+            "mine=this",
+            "<span class=\"sc\">prog</span>",
+            "dig-<span class=\"sc\">1pl</span>.<span class=\"sc\">a</span>-<span class=\"sc\">pfv</span>",
+            "3.<span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>-say-<span class=\"sc\">cvb</span>",
+            "3.<span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>-say-<span class=\"sc\">pfv</span>:<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "village=this",
+            "within",
+            "person:\\textsc{pl}",
+            "\\textsc{cop}\\textsc{\\textsubscript{loc}}\\textsc{.3:}\\textsc{pl}=\\textsc{\\textbf{erg}}",
+            "\\textsc{1}\\textsc{pl.p}-come.together-\\textsc{cvb}",
+            "hand:\\textsc{pl}=\\textsc{ins}",
+            "again",
+            "\\textsc{prog}",
+            "spade:\\textsc{pl}=\\textsc{ins}",
+            "mine=this",
+            "\\textsc{prog}",
+            "dig-\\textsc{1pl}.\\textsc{a}-\\textsc{pfv}",
+            "3.\\textsc{a}.\\textsc{pfv}-say-\\textsc{cvb}",
+            "3.\\textsc{a}.\\textsc{pfv}-say-\\textsc{pfv}:\\textsc{pl}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "\u2026gen\u00ee=gi kerigi oo jii=\\textbf{gu,} \u201cTa-rdasin-e baa=ru ere je korekk=tu ba=gi je o\u00fb-d-\u00ed,\u201d gi-n-e k\u00ee\u00ed\u00ed.",
+        "srcwordsbare": [
+            "\u2026gen\u00ee=gi",
+            "kerigi",
+            "oo",
+            "jii=gu,",
+            "\u201cTa-rdasin-e",
+            "baa=ru",
+            "ere",
+            "je",
+            "korekk=tu",
+            "ba=gi",
+            "je",
+            "o\u00fb-d-\u00ed,\u201d",
+            "gi-n-e",
+            "k\u00ee\u00ed\u00ed."
+        ],
+        "srcwordshtml": [
+            "\u2026gen\u00ee=gi",
+            "kerigi",
+            "oo",
+            "jii=<span class=\"bf\">gu,</span>",
+            "\u201cTa-rdasin-e",
+            "baa=ru",
+            "ere",
+            "je",
+            "korekk=tu",
+            "ba=gi",
+            "je",
+            "o\u00fb-d-\u00ed,\u201d",
+            "gi-n-e",
+            "k\u00ee\u00ed\u00ed."
+        ],
+        "srcwordstex": [
+            "\u2026gen\u00ee=gi",
+            "kerigi",
+            "oo",
+            "jii=\\textbf{gu,}",
+            "\u201cTa-rdasin-e",
+            "baa=ru",
+            "ere",
+            "je",
+            "korekk=tu",
+            "ba=gi",
+            "je",
+            "o\u00fb-d-\u00ed,\u201d",
+            "gi-n-e",
+            "k\u00ee\u00ed\u00ed."
+        ],
+        "trs": "\u2026 the people who are in this village said, \u201cWe are coming together and we are digging this mine out with our hands, and again with spades.\u201d\u2019 [5/1, 4.3]",
+        "wlength": 14
+    },
+    {
+        "ID": "wolfe-614916",
+        "categories": [
+            "\\textbf{\\textsubscript{1",
+            "\\textbf{foc",
+            "\\textsubscript{1",
+            "aff",
+            "cvb",
+            "imp",
+            "lc",
+            "p",
+            "pl",
+            "pp",
+            "prf",
+            "rv",
+            "sj",
+            "sub"
+        ],
+        "clength": 51,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "millet:\\textsc{pl} \\textsc{rv}-scatter-3:\\textsc{sj}:\\textsc{cvb}\\textsc{\\textsubscript{1}} \\textsc{lc}:3:\\textsc{aff}:\\textsc{p} \\textsc{sub} \\textsc{pp}:3\\textbf{=}\\textsc{\\textbf{foc}}\\textsc{\\textbf{\\textsubscript{1}}} take:\\textsc{imp} \\textsc{prf}:3-say-3:\\textsc{sj}:\\textsc{aff}:\\textsc{prf}",
+        "imtwordsbare": [
+            "millet:PL",
+            "RV-scatter-3:SJ:CVB\\textsubscript{1}",
+            "LC:3:AFF:P",
+            "SUB",
+            "PP:3=\\textbf{foc}\\textbf{\\textsubscript{1}}",
+            "take:IMP",
+            "PRF:3-say-3:SJ:AFF:PRF"
+        ],
+        "imtwordshtml": [
+            "millet:<span class=\"sc\">pl</span>",
+            "<span class=\"sc\">rv</span>-scatter-3:<span class=\"sc\">sj</span>:<span class=\"sc\">cvb</span><span class=\"sc\">\\textsubscript{1</span>}",
+            "<span class=\"sc\">lc</span>:3:<span class=\"sc\">aff</span>:<span class=\"sc\">p</span>",
+            "<span class=\"sc\">sub</span>",
+            "<span class=\"sc\">pp</span>:3<span class=\"bf\">=</span><span class=\"sc\">\\textbf{foc</span>}<span class=\"sc\">\\textbf{\\textsubscript{1</span>}}",
+            "take:<span class=\"sc\">imp</span>",
+            "<span class=\"sc\">prf</span>:3-say-3:<span class=\"sc\">sj</span>:<span class=\"sc\">aff</span>:<span class=\"sc\">prf</span>"
+        ],
+        "imtwordstex": [
+            "millet:\\textsc{pl}",
+            "\\textsc{rv}-scatter-3:\\textsc{sj}:\\textsc{cvb}\\textsc{\\textsubscript{1}}",
+            "\\textsc{lc}:3:\\textsc{aff}:\\textsc{p}",
+            "\\textsc{sub}",
+            "\\textsc{pp}:3\\textbf{=}\\textsc{\\textbf{foc}}\\textsc{\\textbf{\\textsubscript{1}}}",
+            "take:\\textsc{imp}",
+            "\\textsc{prf}:3-say-3:\\textsc{sj}:\\textsc{aff}:\\textsc{prf}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "b\u00e1g\u00e2 t\u0254-g\u028a-\u025b \u025f\u026a\u026a g\u026an\u025b, b\u025br\\textbf{=g\u028a} t\u025bb\u026a g\u026a-n-\u026a.",
+        "srcwordsbare": [
+            "b\u00e1g\u00e2",
+            "t\u0254-g\u028a-\u025b",
+            "\u025f\u026a\u026a",
+            "g\u026an\u025b,",
+            "b\u025br=g\u028a",
+            "t\u025bb\u026a",
+            "g\u026a-n-\u026a."
+        ],
+        "srcwordshtml": [
+            "b\u00e1g\u00e2",
+            "t\u0254-g\u028a-\u025b",
+            "\u025f\u026a\u026a",
+            "g\u026an\u025b,",
+            "b\u025br<span class=\"bf\">=g\u028a</span>",
+            "t\u025bb\u026a",
+            "g\u026a-n-\u026a."
+        ],
+        "srcwordstex": [
+            "b\u00e1g\u00e2",
+            "t\u0254-g\u028a-\u025b",
+            "\u025f\u026a\u026a",
+            "g\u026an\u025b,",
+            "b\u025br\\textbf{=g\u028a}",
+            "t\u025bb\u026a",
+            "g\u026a-n-\u026a."
+        ],
+        "trs": "Since the millet had been scattered, he said: \u201cTake it!\u201d\u2019 (\\citealt[152]{JakobiCrass2004})",
+        "wlength": 7
+    },
+    {
+        "ID": "wolfe--89018",
+        "categories": [
+            "3",
+            "3sg",
+            "\\textbf{erg",
+            "a",
+            "gen",
+            "pfv",
+            "poss",
+            "pr",
+            "rel",
+            "sg"
+        ],
+        "clength": 190,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "person Undersecretary.General mission United.Nations     peacekeeping   \\textsc{gen} name-\\textsc{3sg}.\\textsc{poss} Herv\u00e9 Ladsous is.called person=this=\\textsc{\\textbf{erg}} \\textsc{rel}.\\textsc{pr} \\textsc{3}\\textsc{a}.\\textsc{pfv}-say-\\textsc{pfv}.\\textsc{sg}=\\textsc{rel} [\u201c\u2026\u201d] he.said",
+        "imtwordsbare": [
+            "person",
+            "Undersecretary.General",
+            "mission",
+            "United.Nations",
+            "peacekeeping",
+            "GEN",
+            "name-3SG.POSS",
+            "Herv\u00e9",
+            "Ladsous",
+            "is.called",
+            "person=this=\\textbf{erg}",
+            "REL.PR",
+            "3A.PFV-say-PFV.SG=REL",
+            "[\u201c\u2026\u201d]",
+            "he.said"
+        ],
+        "imtwordshtml": [
+            "person",
+            "Undersecretary.General",
+            "mission",
+            "United.Nations",
+            "peacekeeping",
+            "<span class=\"sc\">gen</span>",
+            "name-<span class=\"sc\">3sg</span>.<span class=\"sc\">poss</span>",
+            "Herv\u00e9",
+            "Ladsous",
+            "is.called",
+            "person=this=<span class=\"sc\">\\textbf{erg</span>}",
+            "<span class=\"sc\">rel</span>.<span class=\"sc\">pr</span>",
+            "<span class=\"sc\">3</span><span class=\"sc\">a</span>.<span class=\"sc\">pfv</span>-say-<span class=\"sc\">pfv</span>.<span class=\"sc\">sg</span>=<span class=\"sc\">rel</span>",
+            "[\u201c\u2026\u201d]",
+            "he.said"
+        ],
+        "imtwordstex": [
+            "person",
+            "Undersecretary.General",
+            "mission",
+            "United.Nations",
+            "peacekeeping",
+            "\\textsc{gen}",
+            "name-\\textsc{3sg}.\\textsc{poss}",
+            "Herv\u00e9",
+            "Ladsous",
+            "is.called",
+            "person=this=\\textsc{\\textbf{erg}}",
+            "\\textsc{rel}.\\textsc{pr}",
+            "\\textsc{3}\\textsc{a}.\\textsc{pfv}-say-\\textsc{pfv}.\\textsc{sg}=\\textsc{rel}",
+            "[\u201c\u2026\u201d]",
+            "he.said"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "o      wakil\\_amin\\_al-am       iga \t   Umam\\_al\\_Muttahida  hifz\\_al\\_salaam k\u00ee tir-ogo                    Herv\u00e9 Ladsous gine\\_\u00eer\u00ec, [o=k\u00ee=\\textbf{gu} er\\textbf{} k-\u00ee-\u00ed]=gi, [\u201c\u2026\u201d] gine\\_k\u00ee\u00ed.",
+        "srcwordsbare": [
+            "o",
+            "wakil_amin_al-am",
+            "iga",
+            "Umam_al_Muttahida",
+            "hifz_al_salaam",
+            "k\u00ee",
+            "tir-ogo",
+            "Herv\u00e9",
+            "Ladsous",
+            "gine_\u00eer\u00ec,",
+            "[o=k\u00ee=gu",
+            "er",
+            "k-\u00ee-\u00ed]=gi,",
+            "[\u201c\u2026\u201d]",
+            "gine_k\u00ee\u00ed."
+        ],
+        "srcwordshtml": [
+            "o",
+            "wakil_amin_al-am",
+            "iga",
+            "Umam_al_Muttahida",
+            "hifz_al_salaam",
+            "k\u00ee",
+            "tir-ogo",
+            "Herv\u00e9",
+            "Ladsous",
+            "gine_\u00eer\u00ec,",
+            "[o=k\u00ee=<span class=\"bf\">gu</span>",
+            "er<span class=\"bf\"></span>",
+            "k-\u00ee-\u00ed]=gi,",
+            "[\u201c\u2026\u201d]",
+            "gine_k\u00ee\u00ed."
+        ],
+        "srcwordstex": [
+            "o",
+            "wakil\\_amin\\_al-am",
+            "iga",
+            "Umam\\_al\\_Muttahida",
+            "hifz\\_al\\_salaam",
+            "k\u00ee",
+            "tir-ogo",
+            "Herv\u00e9",
+            "Ladsous",
+            "gine\\_\u00eer\u00ec,",
+            "[o=k\u00ee=\\textbf{gu}",
+            "er\\textbf{}",
+            "k-\u00ee-\u00ed]=gi,",
+            "[\u201c\u2026\u201d]",
+            "gine\\_k\u00ee\u00ed."
+        ],
+        "trs": "The UN Under-Secretary General for Peacekeeping, whose name is Herv\u00e9 Ladsous, what this person said: [\u201c\u201d], he said.\u2019 [5/1, 5.1]",
+        "wlength": 15
+    },
+    {
+        "ID": "wolfe-172582",
+        "categories": [
+            "a",
+            "erg",
+            "pfv",
+            "sg"
+        ],
+        "clength": 37,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "girl boy=\\textsc{erg} \\textsc{pfv}.3-love-\\textsc{pfv}.3-3.\\textsc{sg}-\\textsc{pfv}:\\textsc{sg}=that come-3.\\textsc{a}-\\textsc{pfv}:\\textsc{sg}",
+        "imtwordsbare": [
+            "girl",
+            "boy=ERG",
+            "PFV.3-love-PFV.3-3.SG-PFV:SG=that",
+            "come-3.A-PFV:SG"
+        ],
+        "imtwordshtml": [
+            "girl",
+            "boy=<span class=\"sc\">erg</span>",
+            "<span class=\"sc\">pfv</span>.3-love-<span class=\"sc\">pfv</span>.3-3.<span class=\"sc\">sg</span>-<span class=\"sc\">pfv</span>:<span class=\"sc\">sg</span>=that",
+            "come-3.<span class=\"sc\">a</span>-<span class=\"sc\">pfv</span>:<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "girl",
+            "boy=\\textsc{erg}",
+            "\\textsc{pfv}.3-love-\\textsc{pfv}.3-3.\\textsc{sg}-\\textsc{pfv}:\\textsc{sg}=that",
+            "come-3.\\textsc{a}-\\textsc{pfv}:\\textsc{sg}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "Tene [bur=gu ki-dig-a-r-\u00ed]=do ka-r-\u00ed.",
+        "srcwordsbare": [
+            "Tene",
+            "[bur=gu",
+            "ki-dig-a-r-\u00ed]=do",
+            "ka-r-\u00ed."
+        ],
+        "srcwordshtml": [
+            "Tene",
+            "[bur=gu",
+            "ki-dig-a-r-\u00ed]=do",
+            "ka-r-\u00ed."
+        ],
+        "srcwordstex": [
+            "Tene",
+            "[bur=gu",
+            "ki-dig-a-r-\u00ed]=do",
+            "ka-r-\u00ed."
+        ],
+        "trs": "The girl [that the boy loves] came.\u2019 (TAA)",
+        "wlength": 4
+    },
+    {
+        "ID": "wolfe-395635",
+        "categories": [
+            "",
+            "3",
+            "\\textsubscript{sp",
+            "a",
+            "cop",
+            "ipfv",
+            "rel",
+            "sg"
+        ],
+        "clength": 41,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "person speak-\\textsc{3}\\textsc{a}-\\textsc{ipfv}.\\textsc{sg}=\\textsc{rel} Tayiba Abdelkarim Abdul=\\textsc{cop}\\textsc{\\textsubscript{sp}}\\textsc{.3}",
+        "imtwordsbare": [
+            "person",
+            "speak-3A-IPFV.SG=REL",
+            "Tayiba",
+            "Abdelkarim",
+            "Abdul=COP\\textsubscript{sp}.3"
+        ],
+        "imtwordshtml": [
+            "person",
+            "speak-<span class=\"sc\">3</span><span class=\"sc\">a</span>-<span class=\"sc\">ipfv</span>.<span class=\"sc\">sg</span>=<span class=\"sc\">rel</span>",
+            "Tayiba",
+            "Abdelkarim",
+            "Abdul=<span class=\"sc\">cop</span><span class=\"sc\">\\textsubscript{sp</span>}<span class=\"sc\">.3</span>"
+        ],
+        "imtwordstex": [
+            "person",
+            "speak-\\textsc{3}\\textsc{a}-\\textsc{ipfv}.\\textsc{sg}=\\textsc{rel}",
+            "Tayiba",
+            "Abdelkarim",
+            "Abdul=\\textsc{cop}\\textsc{\\textsubscript{sp}}\\textsc{.3}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "O kese-r-\u00ec=gi Tayiba Abdelkarim Abdul=di.",
+        "srcwordsbare": [
+            "O",
+            "kese-r-\u00ec=gi",
+            "Tayiba",
+            "Abdelkarim",
+            "Abdul=di."
+        ],
+        "srcwordshtml": [
+            "O",
+            "kese-r-\u00ec=gi",
+            "Tayiba",
+            "Abdelkarim",
+            "Abdul=di."
+        ],
+        "srcwordstex": [
+            "O",
+            "kese-r-\u00ec=gi",
+            "Tayiba",
+            "Abdelkarim",
+            "Abdul=di."
+        ],
+        "trs": "The person who is speaking is Tayiba Abdelkarim Abdul.\u2019 [5/1, 2.2]",
+        "wlength": 5
+    },
+    {
+        "ID": "wolfe-326727",
+        "categories": [
+            "1sg",
+            "pp",
+            "pred"
+        ],
+        "clength": 6,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "\\textsc{pp}:\\textsc{1sg}=\\textsc{pred}",
+        "imtwordsbare": [
+            "PP:1SG=PRED"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pp</span>:<span class=\"sc\">1sg</span>=<span class=\"sc\">pred</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pp}:\\textsc{1sg}=\\textsc{pred}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "\u00e1\u026a=d\u026a.",
+        "srcwordsbare": [
+            "\u00e1\u026a=d\u026a."
+        ],
+        "srcwordshtml": [
+            "\u00e1\u026a=d\u026a."
+        ],
+        "srcwordstex": [
+            "\u00e1\u026a=d\u026a."
+        ],
+        "trs": "It\u2019s me.\u2019 \\citep[138]{Jakobi2006}",
+        "wlength": 1
+    },
+    {
+        "ID": "wolfe-322004",
+        "categories": [
+            "ic",
+            "neg"
+        ],
+        "clength": 16,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "owl=\\textsc{ic}-\\textsc{neg}",
+        "imtwordsbare": [
+            "owl=IC-NEG"
+        ],
+        "imtwordshtml": [
+            "owl=<span class=\"sc\">ic</span>-<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "owl=\\textsc{ic}-\\textsc{neg}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "polarity": "negative",
+        "src": "\\v{g}\u01d0m=d-\\={o}.",
+        "srcwordsbare": [
+            "\\v{g}\u01d0m=d-\\={o}."
+        ],
+        "srcwordshtml": [
+            "\\v{g}\u01d0m=d-\\={o}."
+        ],
+        "srcwordstex": [
+            "\\v{g}\u01d0m=d-\\={o}."
+        ],
+        "trs": "It\u2019s not an owl.\u2019 (J\\&C 2004: 101) (compare 23)",
+        "wlength": 1
+    },
+    {
+        "ID": "wolfe--57244",
+        "categories": [
+            "3sg",
+            "\\textsubscript{sp",
+            "a",
+            "cop",
+            "neg",
+            "pfv",
+            "poss",
+            "rel",
+            "s",
+            "sg"
+        ],
+        "clength": 37,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "person car 3.\\textsc{a}:have:\\textsc{pfv}:\\textsc{sg}=\\textsc{rel} 3\\textsc{s}=\\textsc{cop}\\textsc{\\textsubscript{sp}}-\\textsc{neg} brother=\\textsc{3sg}.\\textsc{poss}=\\textsc{cop}\\textsc{\\textsubscript{sp}}",
+        "imtwordsbare": [
+            "person",
+            "car",
+            "3.A:have:PFV:SG=REL",
+            "3S=COP\\textsubscript{sp}-NEG",
+            "brother=3SG.POSS=COP\\textsubscript{sp}"
+        ],
+        "imtwordshtml": [
+            "person",
+            "car",
+            "3.<span class=\"sc\">a</span>:have:<span class=\"sc\">pfv</span>:<span class=\"sc\">sg</span>=<span class=\"sc\">rel</span>",
+            "3<span class=\"sc\">s</span>=<span class=\"sc\">cop</span><span class=\"sc\">\\textsubscript{sp</span>}-<span class=\"sc\">neg</span>",
+            "brother=<span class=\"sc\">3sg</span>.<span class=\"sc\">poss</span>=<span class=\"sc\">cop</span><span class=\"sc\">\\textsubscript{sp</span>}"
+        ],
+        "imtwordstex": [
+            "person",
+            "car",
+            "3.\\textsc{a}:have:\\textsc{pfv}:\\textsc{sg}=\\textsc{rel}",
+            "3\\textsc{s}=\\textsc{cop}\\textsc{\\textsubscript{sp}}-\\textsc{neg}",
+            "brother=\\textsc{3sg}.\\textsc{poss}=\\textsc{cop}\\textsc{\\textsubscript{sp}}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "polarity": "negative",
+        "src": "O arabie kid\u00ed=do ber=d-o kire=ego=di.",
+        "srcwordsbare": [
+            "O",
+            "arabie",
+            "kid\u00ed=do",
+            "ber=d-o",
+            "kire=ego=di."
+        ],
+        "srcwordshtml": [
+            "O",
+            "arabie",
+            "kid\u00ed=do",
+            "ber=d-o",
+            "kire=ego=di."
+        ],
+        "srcwordstex": [
+            "O",
+            "arabie",
+            "kid\u00ed=do",
+            "ber=d-o",
+            "kire=ego=di."
+        ],
+        "trs": "The person who has a car is not him; it is his older brother.\u2019 (TAA)",
+        "wlength": 5
+    },
+    {
+        "ID": "wolfe-460072",
+        "categories": [
+            "3",
+            "aff",
+            "ic"
+        ],
+        "clength": 12,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "pot full=\\textsc{ic:3:aff}",
+        "imtwordsbare": [
+            "pot",
+            "full=ic:3:aff"
+        ],
+        "imtwordshtml": [
+            "pot",
+            "full=<span class=\"sc\">ic:3:aff</span>"
+        ],
+        "imtwordstex": [
+            "pot",
+            "full=\\textsc{ic:3:aff}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "m\u026as\u0101 h\u025brr=\u026a.",
+        "srcwordsbare": [
+            "m\u026as\u0101",
+            "h\u025brr=\u026a."
+        ],
+        "srcwordshtml": [
+            "m\u026as\u0101",
+            "h\u025brr=\u026a."
+        ],
+        "srcwordstex": [
+            "m\u026as\u0101",
+            "h\u025brr=\u026a."
+        ],
+        "trs": "The pot is full.\u2019 (J\\&C 2004: 100)",
+        "wlength": 2
+    },
+    {
+        "ID": "wolfe-584468",
+        "categories": [
+            "aff",
+            "ic",
+            "pl",
+            "poss",
+            "s"
+        ],
+        "clength": 18,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "ram:\\textsc{pl}=1\\textsc{s}.\\textsc{poss} very.fat=\\textsc{ic}:3:\\textsc{aff}",
+        "imtwordsbare": [
+            "ram:PL=1S.POSS",
+            "very.fat=IC:3:AFF"
+        ],
+        "imtwordshtml": [
+            "ram:<span class=\"sc\">pl</span>=1<span class=\"sc\">s</span>.<span class=\"sc\">poss</span>",
+            "very.fat=<span class=\"sc\">ic</span>:3:<span class=\"sc\">aff</span>"
+        ],
+        "imtwordstex": [
+            "ram:\\textsc{pl}=1\\textsc{s}.\\textsc{poss}",
+            "very.fat=\\textsc{ic}:3:\\textsc{aff}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "b\u0254\u0254=\u00e9g\u00ed t\u00e1kk\u028ar\u025b=\u026a.",
+        "srcwordsbare": [
+            "b\u0254\u0254=\u00e9g\u00ed",
+            "t\u00e1kk\u028ar\u025b=\u026a."
+        ],
+        "srcwordshtml": [
+            "b\u0254\u0254=\u00e9g\u00ed",
+            "t\u00e1kk\u028ar\u025b=\u026a."
+        ],
+        "srcwordstex": [
+            "b\u0254\u0254=\u00e9g\u00ed",
+            "t\u00e1kk\u028ar\u025b=\u026a."
+        ],
+        "trs": "My rams are very fat.\u2019 (J\\&C 2004: 100)",
+        "wlength": 2
+    },
+    {
+        "ID": "wolfe--84817",
+        "categories": [
+            "aff",
+            "ic"
+        ],
+        "clength": 7,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "owl=\\textsc{ic}:3:\\textsc{aff}",
+        "imtwordsbare": [
+            "owl=IC:3:AFF"
+        ],
+        "imtwordshtml": [
+            "owl=<span class=\"sc\">ic</span>:3:<span class=\"sc\">aff</span>"
+        ],
+        "imtwordstex": [
+            "owl=\\textsc{ic}:3:\\textsc{aff}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "g\u012bmm=\u012b.",
+        "srcwordsbare": [
+            "g\u012bmm=\u012b."
+        ],
+        "srcwordshtml": [
+            "g\u012bmm=\u012b."
+        ],
+        "srcwordstex": [
+            "g\u012bmm=\u012b."
+        ],
+        "trs": "It\u2019s an owl.\u2019 (J\\&C 2004: 100)",
+        "wlength": 1
+    },
+    {
+        "ID": "wolfe--56848",
+        "categories": [
+            "aff",
+            "ic"
+        ],
+        "clength": 10,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "\\ili{Tama}.person=\\textsc{ic}:3:\\textsc{aff}",
+        "imtwordsbare": [
+            "\\ili{Tama}.person=IC:3:AFF"
+        ],
+        "imtwordshtml": [
+            "\\ili{Tama}.person=<span class=\"sc\">ic</span>:3:<span class=\"sc\">aff</span>"
+        ],
+        "imtwordstex": [
+            "\\ili{Tama}.person=\\textsc{ic}:3:\\textsc{aff}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "t\u00e0m\u00e1r\u0329\u0101=\u026a.",
+        "srcwordsbare": [
+            "t\u00e0m\u00e1r\u0329\u0101=\u026a."
+        ],
+        "srcwordshtml": [
+            "t\u00e0m\u00e1r\u0329\u0101=\u026a."
+        ],
+        "srcwordstex": [
+            "t\u00e0m\u00e1r\u0329\u0101=\u026a."
+        ],
+        "trs": "It\u2019s a \\ili{Tama}.\u2019 (J\\&C 2004: 100)",
+        "wlength": 1
+    },
+    {
+        "ID": "wolfe--15757",
+        "categories": [
+            "\\textbf{abs",
+            "\\textbf{cop",
+            "\\textbf{sg",
+            "adv",
+            "oj",
+            "pfv",
+            "sj"
+        ],
+        "clength": 33,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "paste\\textbf{=}\\textsc{\\textbf{cop}}\\textbf{.}\\textsc{\\textbf{sg}}\\textbf{.}\\textsc{\\textbf{abs}}\\textbf{} mother child=\\textsc{adv} \\textsc{oj}:3:give:\\textsc{sj}:3-\\textsc{pfv}",
+        "imtwordsbare": [
+            "paste=\\textbf{cop}.\\textbf{sg}.\\textbf{abs}",
+            "mother",
+            "child=ADV",
+            "OJ:3:give:SJ:3-PFV"
+        ],
+        "imtwordshtml": [
+            "paste<span class=\"bf\">=</span><span class=\"sc\">\\textbf{cop</span>}<span class=\"bf\">.</span><span class=\"sc\">\\textbf{sg</span>}<span class=\"bf\">.</span><span class=\"sc\">\\textbf{abs</span>}<span class=\"bf\"></span>",
+            "mother",
+            "child=<span class=\"sc\">adv</span>",
+            "<span class=\"sc\">oj</span>:3:give:<span class=\"sc\">sj</span>:3-<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "paste\\textbf{=}\\textsc{\\textbf{cop}}\\textbf{.}\\textsc{\\textbf{sg}}\\textbf{.}\\textsc{\\textbf{abs}}\\textbf{}",
+            "mother",
+            "child=\\textsc{adv}",
+            "\\textsc{oj}:3:give:\\textsc{sj}:3-\\textsc{pfv}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "g\u028a\u028a\\textbf{=\u026a} \u026a\u00e0 \u025f\u00e0\u00e1=r \u00d8:k\u025bkk-\u026a.",
+        "srcwordsbare": [
+            "g\u028a\u028a=\u026a",
+            "\u026a\u00e0",
+            "\u025f\u00e0\u00e1=r",
+            "\u00d8:k\u025bkk-\u026a."
+        ],
+        "srcwordshtml": [
+            "g\u028a\u028a<span class=\"bf\">=\u026a</span>",
+            "\u026a\u00e0",
+            "\u025f\u00e0\u00e1=r",
+            "\u00d8:k\u025bkk-\u026a."
+        ],
+        "srcwordstex": [
+            "g\u028a\u028a\\textbf{=\u026a}",
+            "\u026a\u00e0",
+            "\u025f\u00e0\u00e1=r",
+            "\u00d8:k\u025bkk-\u026a."
+        ],
+        "trs": "It\u2019s paste that the mother has given to the child.\u2019 \\citep[139]{Jakobi2006}",
+        "wlength": 4
+    },
+    {
+        "ID": "wolfe-677990",
+        "categories": [
+            "",
+            "3",
+            "\\textsubscript{1",
+            "cvb",
+            "prf",
+            "sj"
+        ],
+        "clength": 22,
+        "filename": "120/chapters/wolfe.tex",
+        "imt": "jackal girl take-\\textsc{prf}\\textsc{:3-3:}\\textsc{sj}-\\textsc{cvb}\\textsc{\\textsubscript{1}}",
+        "imtwordsbare": [
+            "jackal",
+            "girl",
+            "take-PRF:3-3:SJ-CVB\\textsubscript{1}"
+        ],
+        "imtwordshtml": [
+            "jackal",
+            "girl",
+            "take-<span class=\"sc\">prf</span><span class=\"sc\">:3-3:</span><span class=\"sc\">sj</span>-<span class=\"sc\">cvb</span><span class=\"sc\">\\textsubscript{1</span>}"
+        ],
+        "imtwordstex": [
+            "jackal",
+            "girl",
+            "take-\\textsc{prf}\\textsc{:3-3:}\\textsc{sj}-\\textsc{cvb}\\textsc{\\textsubscript{1}}"
+        ],
+        "language": "120/chapters/wolfe.tex",
+        "src": "s\u00e0g\u028ar t\u025bn\u025b t\u025bb\u026a-\u025b-r\u0329-\u025b",
+        "srcwordsbare": [
+            "s\u00e0g\u028ar",
+            "t\u025bn\u025b",
+            "t\u025bb\u026a-\u025b-r\u0329-\u025b"
+        ],
+        "srcwordshtml": [
+            "s\u00e0g\u028ar",
+            "t\u025bn\u025b",
+            "t\u025bb\u026a-\u025b-r\u0329-\u025b"
+        ],
+        "srcwordstex": [
+            "s\u00e0g\u028ar",
+            "t\u025bn\u025b",
+            "t\u025bb\u026a-\u025b-r\u0329-\u025b"
+        ],
+        "trs": "a jackal took a girl, then\u2026\u2019 (\\citealt[185]{JakobiCrass2004})",
+        "wlength": 3
+    }
+]

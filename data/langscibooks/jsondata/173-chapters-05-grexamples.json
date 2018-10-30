@@ -1,0 +1,2271 @@
+[
+    {
+        "ID": "05-gr-550630",
+        "categories": [
+            "3sg",
+            "cvb",
+            "m",
+            "pst",
+            "stat"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst}-\\textsc{3sg.m}A-leave-\\textsc{3sg.m}P \\textsc{cvb}-\\textsc{3sg.m}-live{\\textbackslash}\\textsc{stat}",
+        "imtwordsbare": [
+            "PST-3sg.mA-leave-3sg.mP",
+            "CVB-3sg.m-live{\\\\}STAT"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>-<span class=\"sc\">3sg.m</span>A-leave-<span class=\"sc\">3sg.m</span>P",
+            "<span class=\"sc\">cvb</span>-<span class=\"sc\">3sg.m</span>-live{<span class=\"backslash}\\textsc\">stat</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}-\\textsc{3sg.m}A-leave-\\textsc{3sg.m}P",
+            "\\textsc{cvb}-\\textsc{3sg.m}-live{\\textbackslash}\\textsc{stat}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-kaa-f e-f-onh",
+        "srcwordsbare": [
+            "a-f-kaa-f",
+            "e-f-onh"
+        ],
+        "srcwordshtml": [
+            "a-f-kaa-f",
+            "e-f-onh"
+        ],
+        "srcwordstex": [
+            "a-f-kaa-f",
+            "e-f-onh"
+        ],
+        "trs": "He left him alive.",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-299213",
+        "categories": [
+            "3pl",
+            "juss"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{juss}-\\textsc{3pl}A-remember<\\textsc{3pl}P>remember",
+        "imtwordsbare": [
+            "JUSS-3PLA-remember<3PLP>remember"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">juss</span>-<span class=\"sc\">3pl</span>A-remember<<span class=\"sc\">3pl</span>P>remember"
+        ],
+        "imtwordstex": [
+            "\\textsc{juss}-\\textsc{3pl}A-remember<\\textsc{3pl}P>remember"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "mar-ou-rpe<u>meeue",
+        "srcwordsbare": [
+            "mar-ou-rpe<u>meeue"
+        ],
+        "srcwordshtml": [
+            "mar-ou-rpe<u>meeue"
+        ],
+        "srcwordstex": [
+            "mar-ou-rpe<u>meeue"
+        ],
+        "trs": "Let them\\textsubscript{i} remember them\\textsubscript{j}.\u2019  %(2 Timothy 2:14)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-482296",
+        "categories": [
+            "",
+            "3pl",
+            "neg",
+            "seq"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{seq-3pl}a\\textsc{-neg}-forget<\\textsc{3pl}P>forget",
+        "imtwordsbare": [
+            "seq-3pla-neg-forget<3PLP>forget"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">seq-3pl</span>a<span class=\"sc\">-neg</span>-forget<<span class=\"sc\">3pl</span>P>forget"
+        ],
+        "imtwordstex": [
+            "\\textsc{seq-3pl}a\\textsc{-neg}-forget<\\textsc{3pl}P>forget"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "polarity": "negative",
+        "src": "n-se-tm-rpe<u>\u00f4b\u0161",
+        "srcwordsbare": [
+            "n-se-tm-rpe<u>\u00f4b\u0161"
+        ],
+        "srcwordshtml": [
+            "n-se-tm-rpe<u>\u00f4b\u0161"
+        ],
+        "srcwordstex": [
+            "n-se-tm-rpe<u>\u00f4b\u0161"
+        ],
+        "trs": "that they\\textsubscript{i} not forget them\\textsubscript{j}.\u2019 %(Besa 4:17)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-353579",
+        "categories": [
+            "1sg",
+            "2pl",
+            "pst"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-2pl}A-visit<\\textsc{1sg}P>visit",
+        "imtwordsbare": [
+            "pst-2plA-visit<1SGP>visit"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-2pl</span>A-visit<<span class=\"sc\">1sg</span>P>visit"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-2pl}A-visit<\\textsc{1sg}P>visit"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-tetn-cmp<a>\u0161ine",
+        "srcwordsbare": [
+            "a-tetn-cmp<a>\u0161ine"
+        ],
+        "srcwordshtml": [
+            "a-tetn-cmp<a>\u0161ine"
+        ],
+        "srcwordstex": [
+            "a-tetn-cmp<a>\u0161ine"
+        ],
+        "trs": "You visited me.",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr--50530",
+        "categories": [
+            "acc",
+            "def",
+            "gen",
+            "m",
+            "pst",
+            "sg"
+        ],
+        "clength": 36,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst}-Peter -remember \\textsc{acc}-\\textsc{def.m.sg}-word \\textsc{gen-def.m.sg}-lord",
+        "imtwordsbare": [
+            "PST-Peter",
+            "-remember",
+            "ACC-def.m.sg-word",
+            "gen-def.m.sg-lord"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>-Peter",
+            "-remember",
+            "<span class=\"sc\">acc</span>-<span class=\"sc\">def.m.sg</span>-word",
+            "<span class=\"sc\">gen-def.m.sg</span>-lord"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}-Peter",
+            "-remember",
+            "\\textsc{acc}-\\textsc{def.m.sg}-word",
+            "\\textsc{gen-def.m.sg}-lord"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-petros -rpmeeue m-p-\u0161a\u010de m-p-\u010doeis",
+        "srcwordsbare": [
+            "a-petros",
+            "-rpmeeue",
+            "m-p-\u0161a\u010de",
+            "m-p-\u010doeis"
+        ],
+        "srcwordshtml": [
+            "a-petros",
+            "-rpmeeue",
+            "m-p-\u0161a\u010de",
+            "m-p-\u010doeis"
+        ],
+        "srcwordstex": [
+            "a-petros",
+            "-rpmeeue",
+            "m-p-\u0161a\u010de",
+            "m-p-\u010doeis"
+        ],
+        "trs": "Peter remembered the word of the Lord.\u2019 %(Luke 22:61)",
+        "wlength": 4
+    },
+    {
+        "ID": "05-gr-129849",
+        "categories": [
+            "3sg",
+            "acc",
+            "def",
+            "m",
+            "poss",
+            "pst",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-def.m.sg}-God -visit \\textsc{acc-poss.m.sg-3sg.m}-people",
+        "imtwordsbare": [
+            "pst-def.m.sg-God",
+            "-visit",
+            "acc-poss.m.sg-3sg.m-people"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-def.m.sg</span>-God",
+            "-visit",
+            "<span class=\"sc\">acc-poss.m.sg-3sg.m</span>-people"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-def.m.sg}-God",
+            "-visit",
+            "\\textsc{acc-poss.m.sg-3sg.m}-people"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-p-noute -cmp\u0161ine m-pe-f-laos",
+        "srcwordsbare": [
+            "a-p-noute",
+            "-cmp\u0161ine",
+            "m-pe-f-laos"
+        ],
+        "srcwordshtml": [
+            "a-p-noute",
+            "-cmp\u0161ine",
+            "m-pe-f-laos"
+        ],
+        "srcwordstex": [
+            "a-p-noute",
+            "-cmp\u0161ine",
+            "m-pe-f-laos"
+        ],
+        "trs": "God visited his people.\u2019 %(Luke 7:16)",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr--78140",
+        "categories": [
+            "1sg",
+            "2pl",
+            "m",
+            "poss",
+            "pst",
+            "sg"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-2pl}-find-\\textsc{poss.m.sg-1sg}-report",
+        "imtwordsbare": [
+            "pst-2pl-find-poss.m.sg-1sg-report"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-2pl</span>-find-<span class=\"sc\">poss.m.sg-1sg</span>-report"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-2pl}-find-\\textsc{poss.m.sg-1sg}-report"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-tetn-cm-p-a-\u0161ine",
+        "srcwordsbare": [
+            "a-tetn-cm-p-a-\u0161ine"
+        ],
+        "srcwordshtml": [
+            "a-tetn-cm-p-a-\u0161ine"
+        ],
+        "srcwordstex": [
+            "a-tetn-cm-p-a-\u0161ine"
+        ],
+        "trs": "You visited me\u2019 (lit.\\,\u2018you found my report\u2019). %(Matthew 25:36)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-768694",
+        "categories": [
+            "3pl",
+            "acc",
+            "pl",
+            "poss",
+            "pst"
+        ],
+        "clength": 22,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3pl}A-choose \\textsc{acc-poss.pl-3pl}-ways",
+        "imtwordsbare": [
+            "pst-3plA-choose",
+            "acc-poss.pl-3pl-ways"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3pl</span>A-choose",
+            "<span class=\"sc\">acc-poss.pl-3pl</span>-ways"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3pl}A-choose",
+            "\\textsc{acc-poss.pl-3pl}-ways"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-u-s\u00f4tp n-ne-u-hiooue",
+        "srcwordsbare": [
+            "a-u-s\u00f4tp",
+            "n-ne-u-hiooue"
+        ],
+        "srcwordshtml": [
+            "a-u-s\u00f4tp",
+            "n-ne-u-hiooue"
+        ],
+        "srcwordstex": [
+            "a-u-s\u00f4tp",
+            "n-ne-u-hiooue"
+        ],
+        "trs": "They have chosen their ways.\u2019 %Besa 46:26",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-384274",
+        "categories": [
+            "3pl",
+            "def",
+            "m",
+            "pst",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-def.m.sg}-lord -reject-\\textsc{3pl}P out",
+        "imtwordsbare": [
+            "pst-def.m.sg-lord",
+            "-reject-3PLP",
+            "out"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-def.m.sg</span>-lord",
+            "-reject-<span class=\"sc\">3pl</span>P",
+            "out"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-def.m.sg}-lord",
+            "-reject-\\textsc{3pl}P",
+            "out"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-p-\u010doeis -tsto-ou ebol",
+        "srcwordsbare": [
+            "a-p-\u010doeis",
+            "-tsto-ou",
+            "ebol"
+        ],
+        "srcwordshtml": [
+            "a-p-\u010doeis",
+            "-tsto-ou",
+            "ebol"
+        ],
+        "srcwordstex": [
+            "a-p-\u010doeis",
+            "-tsto-ou",
+            "ebol"
+        ],
+        "trs": "The Lord rejected them.\u2019 %(Shenoute, cited in \\citealt[34]{Shisha-Halevy1988Coptic})",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr-369857",
+        "categories": [
+            "1pl",
+            "3pl",
+            "pst"
+        ],
+        "clength": 10,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3pl}A-inform-\\textsc{1pl}P",
+        "imtwordsbare": [
+            "pst-3plA-inform-1PLP"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3pl</span>A-inform-<span class=\"sc\">1pl</span>P"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3pl}A-inform-\\textsc{1pl}P"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-u-tamo-n",
+        "srcwordsbare": [
+            "a-u-tamo-n"
+        ],
+        "srcwordshtml": [
+            "a-u-tamo-n"
+        ],
+        "srcwordstex": [
+            "a-u-tamo-n"
+        ],
+        "trs": "They informed us.\u2019  %Besa 45:32",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr--58941",
+        "categories": [
+            "def",
+            "m",
+            "pl",
+            "pst",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-def.pl}-demon -know-\\textsc{def.m.sg}-lord",
+        "imtwordsbare": [
+            "pst-def.pl-demon",
+            "-know-def.m.sg-lord"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-def.pl</span>-demon",
+            "-know-<span class=\"sc\">def.m.sg</span>-lord"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-def.pl}-demon",
+            "-know-\\textsc{def.m.sg}-lord"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-n-daimonion -soun-p-\u010doeis",
+        "srcwordsbare": [
+            "a-n-daimonion",
+            "-soun-p-\u010doeis"
+        ],
+        "srcwordshtml": [
+            "a-n-daimonion",
+            "-soun-p-\u010doeis"
+        ],
+        "srcwordstex": [
+            "a-n-daimonion",
+            "-soun-p-\u010doeis"
+        ],
+        "trs": "The demons knew the Lord.\u2019  %(Shenoute, cited in \\citealt[35]{Shisha-Halevy1988Coptic})",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr--82059",
+        "categories": [
+            "3pl",
+            "3sg",
+            "def",
+            "m",
+            "pl",
+            "pst",
+            "ptcl",
+            "rel",
+            "stat"
+        ],
+        "clength": 28,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{def.pl-rel}-bad{\\textbackslash}\\textsc{stat=ptcl} \\textsc{pst-3sg.m}-cast-\\textsc{3pl} out",
+        "imtwordsbare": [
+            "def.pl-rel-bad{stat=ptcl",
+            "pst-3sg.m-cast-3PL",
+            "out"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def.pl-rel</span>-bad{<span class=\"backslash}\\textsc\">stat=ptcl</span>",
+            "<span class=\"sc\">pst-3sg.m</span>-cast-<span class=\"sc\">3pl</span>",
+            "out"
+        ],
+        "imtwordstex": [
+            "\\textsc{def.pl-rel}-bad{\\textbackslash}\\textsc{stat=ptcl}",
+            "\\textsc{pst-3sg.m}-cast-\\textsc{3pl}",
+            "out"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "n-et-hoou=de a-f-no\u010d-ou ebol",
+        "srcwordsbare": [
+            "n-et-hoou=de",
+            "a-f-no\u010d-ou",
+            "ebol"
+        ],
+        "srcwordshtml": [
+            "n-et-hoou=de",
+            "a-f-no\u010d-ou",
+            "ebol"
+        ],
+        "srcwordstex": [
+            "n-et-hoou=de",
+            "a-f-no\u010d-ou",
+            "ebol"
+        ],
+        "trs": "The bad ones, he cast them out.\u2019  %(Matthew 13:48, cited in \\citealt{Layton2004Coptic}: 132)",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr-391190",
+        "categories": [
+            "3sg",
+            "acc",
+            "m",
+            "pst",
+            "ptcl"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m}-cast=\\textsc{ptcl} \\textsc{acc-3sg.m}",
+        "imtwordsbare": [
+            "pst-3sg.m-cast=PTCL",
+            "acc-3sg.m"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m</span>-cast=<span class=\"sc\">ptcl</span>",
+            "<span class=\"sc\">acc-3sg.m</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m}-cast=\\textsc{ptcl}",
+            "\\textsc{acc-3sg.m}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-nou\u010de=de mmo-f",
+        "srcwordsbare": [
+            "a-f-nou\u010de=de",
+            "mmo-f"
+        ],
+        "srcwordshtml": [
+            "a-f-nou\u010de=de",
+            "mmo-f"
+        ],
+        "srcwordstex": [
+            "a-f-nou\u010de=de",
+            "mmo-f"
+        ],
+        "trs": "And he threw him down.\u2019  %(Luke 4:35, cited in \\citealt{Layton2004Coptic}: 132)",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-413618",
+        "categories": [
+            "3sg",
+            "m",
+            "nom",
+            "pst",
+            "ptcl"
+        ],
+        "clength": 27,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m}-be.troubled=\\textsc{ptcl} \\textsc{nom}-Zacharias",
+        "imtwordsbare": [
+            "pst-3sg.m-be.troubled=PTCL",
+            "NOM-Zacharias"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m</span>-be.troubled=<span class=\"sc\">ptcl</span>",
+            "<span class=\"sc\">nom</span>-Zacharias"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m}-be.troubled=\\textsc{ptcl}",
+            "\\textsc{nom}-Zacharias"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-\u0161tortr=de nci-zakharias",
+        "srcwordsbare": [
+            "a-f-\u0161tortr=de",
+            "nci-zakharias"
+        ],
+        "srcwordshtml": [
+            "a-f-\u0161tortr=de",
+            "nci-zakharias"
+        ],
+        "srcwordstex": [
+            "a-f-\u0161tortr=de",
+            "nci-zakharias"
+        ],
+        "trs": "But Zacharias was troubled.\u2019 %Luke 1:12",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-684111",
+        "categories": [
+            "3sg",
+            "acc",
+            "f",
+            "indef",
+            "pst"
+        ],
+        "clength": 15,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.f}-conceive \\textsc{acc-indef}-son",
+        "imtwordsbare": [
+            "pst-3sg.f-conceive",
+            "acc-indef-son"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.f</span>-conceive",
+            "<span class=\"sc\">acc-indef</span>-son"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.f}-conceive",
+            "\\textsc{acc-indef}-son"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-s-\u00f4 n-ou-\u0161\u00eare",
+        "srcwordsbare": [
+            "a-s-\u00f4",
+            "n-ou-\u0161\u00eare"
+        ],
+        "srcwordshtml": [
+            "a-s-\u00f4",
+            "n-ou-\u0161\u00eare"
+        ],
+        "srcwordstex": [
+            "a-s-\u00f4",
+            "n-ou-\u0161\u00eare"
+        ],
+        "trs": "She conceived a son.\u2019 %(Luke 1:36)",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr--75825",
+        "categories": [
+            "",
+            "3sg",
+            "def",
+            "m",
+            "pst",
+            "sg"
+        ],
+        "clength": 14,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m-}leave\\textsc{-def.m.sg}-multitude",
+        "imtwordsbare": [
+            "pst-3sg.m-leave-def.m.sg-multitude"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m-</span>leave<span class=\"sc\">-def.m.sg</span>-multitude"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m-}leave\\textsc{-def.m.sg}-multitude"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-ka-p-m\u00ea\u00ea\u0161e",
+        "srcwordsbare": [
+            "a-f-ka-p-m\u00ea\u00ea\u0161e"
+        ],
+        "srcwordshtml": [
+            "a-f-ka-p-m\u00ea\u00ea\u0161e"
+        ],
+        "srcwordstex": [
+            "a-f-ka-p-m\u00ea\u00ea\u0161e"
+        ],
+        "trs": "He left the multitude.\u2019 %(Mark 4:36)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-795514",
+        "categories": [
+            "3sg",
+            "bg",
+            "m",
+            "prs"
+        ],
+        "clength": 36,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{bg.prs-3sg.m}-cast-demon out in-Beelzebul",
+        "imtwordsbare": [
+            "bg.prs-3sg.m-cast-demon",
+            "out",
+            "in-Beelzebul"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">bg.prs-3sg.m</span>-cast-demon",
+            "out",
+            "in-Beelzebul"
+        ],
+        "imtwordstex": [
+            "\\textsc{bg.prs-3sg.m}-cast-demon",
+            "out",
+            "in-Beelzebul"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "e-f-ne\u010d-daimonion ebol hn-beelzeboul",
+        "srcwordsbare": [
+            "e-f-ne\u010d-daimonion",
+            "ebol",
+            "hn-beelzeboul"
+        ],
+        "srcwordshtml": [
+            "e-f-ne\u010d-daimonion",
+            "ebol",
+            "hn-beelzeboul"
+        ],
+        "srcwordstex": [
+            "e-f-ne\u010d-daimonion",
+            "ebol",
+            "hn-beelzeboul"
+        ],
+        "trs": "He casts out demons by means of Beelzebul.\u2019  %(Luke 11:15, cited in \\citealt[132]{Layton2004Coptic})",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr--56225",
+        "categories": [
+            "3sg",
+            "acc",
+            "impf",
+            "indef",
+            "m",
+            "ptcl",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{impf-3sg.m}-cast=\\textsc{ptcl} out \\textsc{acc-indef.sg}-demon",
+        "imtwordsbare": [
+            "impf-3sg.m-cast=PTCL",
+            "out",
+            "acc-indef.sg-demon"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">impf-3sg.m</span>-cast=<span class=\"sc\">ptcl</span>",
+            "out",
+            "<span class=\"sc\">acc-indef.sg</span>-demon"
+        ],
+        "imtwordstex": [
+            "\\textsc{impf-3sg.m}-cast=\\textsc{ptcl}",
+            "out",
+            "\\textsc{acc-indef.sg}-demon"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "ne-f-nou\u010de=de ebol n-ou-daimonion",
+        "srcwordsbare": [
+            "ne-f-nou\u010de=de",
+            "ebol",
+            "n-ou-daimonion"
+        ],
+        "srcwordshtml": [
+            "ne-f-nou\u010de=de",
+            "ebol",
+            "n-ou-daimonion"
+        ],
+        "srcwordstex": [
+            "ne-f-nou\u010de=de",
+            "ebol",
+            "n-ou-daimonion"
+        ],
+        "trs": "He cast out a demon.\u2019 %(Luke 11:14, cited in \\citealt[132]{Layton2004Coptic})",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr--80271",
+        "categories": [
+            "2pl",
+            "3sg",
+            "acc",
+            "m",
+            "prs"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{2pl.prs}-cast \\textsc{acc-3sg.m} out",
+        "imtwordsbare": [
+            "2pl.prs-cast",
+            "acc-3sg.m",
+            "out"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2pl.prs</span>-cast",
+            "<span class=\"sc\">acc-3sg.m</span>",
+            "out"
+        ],
+        "imtwordstex": [
+            "\\textsc{2pl.prs}-cast",
+            "\\textsc{acc-3sg.m}",
+            "out"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "tetn-nou\u010de mmo-f ebol",
+        "srcwordsbare": [
+            "tetn-nou\u010de",
+            "mmo-f",
+            "ebol"
+        ],
+        "srcwordshtml": [
+            "tetn-nou\u010de",
+            "mmo-f",
+            "ebol"
+        ],
+        "srcwordstex": [
+            "tetn-nou\u010de",
+            "mmo-f",
+            "ebol"
+        ],
+        "trs": "You cast it out.\u2019 %(Acts 13:46, cited in \\citealt{Layton2004Coptic})",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr-187839",
+        "categories": [
+            "proh"
+        ],
+        "clength": 11,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{proh}-drink-water",
+        "imtwordsbare": [
+            "PROH-drink-water"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">proh</span>-drink-water"
+        ],
+        "imtwordstex": [
+            "\\textsc{proh}-drink-water"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "mpr-se-moou",
+        "srcwordsbare": [
+            "mpr-se-moou"
+        ],
+        "srcwordshtml": [
+            "mpr-se-moou"
+        ],
+        "srcwordstex": [
+            "mpr-se-moou"
+        ],
+        "trs": "Don\u2019t drink water!\u2019  %(1 Timothy 5:23)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr--58237",
+        "categories": [
+            "3sg",
+            "acc",
+            "f",
+            "m",
+            "poss",
+            "pst",
+            "sg"
+        ],
+        "clength": 20,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m}-draw \\textsc{acc-poss.f.sg-3sg.m}-sword",
+        "imtwordsbare": [
+            "pst-3sg.m-draw",
+            "acc-poss.f.sg-3sg.m-sword"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m</span>-draw",
+            "<span class=\"sc\">acc-poss.f.sg-3sg.m</span>-sword"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m}-draw",
+            "\\textsc{acc-poss.f.sg-3sg.m}-sword"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-t\u00f4km n-te-f-s\u00eafe",
+        "srcwordsbare": [
+            "a-f-t\u00f4km",
+            "n-te-f-s\u00eafe"
+        ],
+        "srcwordshtml": [
+            "a-f-t\u00f4km",
+            "n-te-f-s\u00eafe"
+        ],
+        "srcwordstex": [
+            "a-f-t\u00f4km",
+            "n-te-f-s\u00eafe"
+        ],
+        "trs": "He drew his sword.\u2019  %(Matthew 26:51)",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-617721",
+        "categories": [
+            "3sg",
+            "f",
+            "m",
+            "poss",
+            "pst",
+            "sg"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m}-draw-\\textsc{poss.f.sg-3sg.m}-sword",
+        "imtwordsbare": [
+            "pst-3sg.m-draw-poss.f.sg-3sg.m-sword"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m</span>-draw-<span class=\"sc\">poss.f.sg-3sg.m</span>-sword"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m}-draw-\\textsc{poss.f.sg-3sg.m}-sword"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-tekm-te-f-s\u00eafe",
+        "srcwordsbare": [
+            "a-f-tekm-te-f-s\u00eafe"
+        ],
+        "srcwordshtml": [
+            "a-f-tekm-te-f-s\u00eafe"
+        ],
+        "srcwordstex": [
+            "a-f-tekm-te-f-s\u00eafe"
+        ],
+        "trs": "He drew his sword.\u2019 %(Mark 14:47)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr--74391",
+        "categories": [
+            "3sg",
+            "m",
+            "pst"
+        ],
+        "clength": 13,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m}-put-hand-\\textsc{3sg.m}",
+        "imtwordsbare": [
+            "pst-3sg.m-put-hand-3sg.m"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m</span>-put-hand-<span class=\"sc\">3sg.m</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m}-put-hand-\\textsc{3sg.m}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-ka-toot-f",
+        "srcwordsbare": [
+            "a-f-ka-toot-f"
+        ],
+        "srcwordshtml": [
+            "a-f-ka-toot-f"
+        ],
+        "srcwordstex": [
+            "a-f-ka-toot-f"
+        ],
+        "trs": "He ceased.' (lit.\\,\u2018he put his hand\u2019)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-504194",
+        "categories": [
+            "1pl",
+            "seq"
+        ],
+        "clength": 15,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{seq-1pl}-establish-hand-\\textsc{1pl}",
+        "imtwordsbare": [
+            "seq-1pl-establish-hand-1PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">seq-1pl</span>-establish-hand-<span class=\"sc\">1pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{seq-1pl}-establish-hand-\\textsc{1pl}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "n-tn-smn-toot-n",
+        "srcwordsbare": [
+            "n-tn-smn-toot-n"
+        ],
+        "srcwordshtml": [
+            "n-tn-smn-toot-n"
+        ],
+        "srcwordstex": [
+            "n-tn-smn-toot-n"
+        ],
+        "trs": "And let us agree.\u2019 (lit.\\,\u2018let us establish our hand\u2019) %(Besa 3:30)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-542408",
+        "categories": [
+            "3sg",
+            "m",
+            "pst"
+        ],
+        "clength": 12,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m}-cease-\\textsc{3sg.m}",
+        "imtwordsbare": [
+            "pst-3sg.m-cease-3sg.m"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m</span>-cease-<span class=\"sc\">3sg.m</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m}-cease-\\textsc{3sg.m}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-katoot-f",
+        "srcwordsbare": [
+            "a-f-katoot-f"
+        ],
+        "srcwordshtml": [
+            "a-f-katoot-f"
+        ],
+        "srcwordstex": [
+            "a-f-katoot-f"
+        ],
+        "trs": "He ceased\u2019 (lit.\\,\u2018he put his hand\u2019). %(Besa 10:24)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-442835",
+        "categories": [
+            "1pl",
+            "seq"
+        ],
+        "clength": 14,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{seq-1pl}-agree-\\textsc{1pl}",
+        "imtwordsbare": [
+            "seq-1pl-agree-1PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">seq-1pl</span>-agree-<span class=\"sc\">1pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{seq-1pl}-agree-\\textsc{1pl}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "n-tn-smntoot-n",
+        "srcwordsbare": [
+            "n-tn-smntoot-n"
+        ],
+        "srcwordshtml": [
+            "n-tn-smntoot-n"
+        ],
+        "srcwordstex": [
+            "n-tn-smntoot-n"
+        ],
+        "trs": "And let us agree\u2019 (lit.\\,\u2018let us establish our hand\u2019). %(Besa 3:30)",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-200561",
+        "categories": [
+            "2m",
+            "sg"
+        ],
+        "clength": 9,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "name-\\textsc{2m.sg} house-\\textsc{2m.sg}",
+        "imtwordsbare": [
+            "name-2m.sg",
+            "house-2m.sg"
+        ],
+        "imtwordshtml": [
+            "name-<span class=\"sc\">2m.sg</span>",
+            "house-<span class=\"sc\">2m.sg</span>"
+        ],
+        "imtwordstex": [
+            "name-\\textsc{2m.sg}",
+            "house-\\textsc{2m.sg}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "rn-k pr-k",
+        "srcwordsbare": [
+            "rn-k",
+            "pr-k"
+        ],
+        "srcwordshtml": [
+            "rn-k",
+            "pr-k"
+        ],
+        "srcwordstex": [
+            "rn-k",
+            "pr-k"
+        ],
+        "trs": "your name\u2019 { }{ }{ }\u2018your house",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-430753",
+        "categories": [
+            "2m",
+            "3pl",
+            "m",
+            "pl",
+            "poss",
+            "sg"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{poss.m.sg-2m.sg}-name \\textsc{poss.pl-3pl}-name",
+        "imtwordsbare": [
+            "poss.m.sg-2m.sg-name",
+            "poss.pl-3pl-name"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">poss.m.sg-2m.sg</span>-name",
+            "<span class=\"sc\">poss.pl-3pl</span>-name"
+        ],
+        "imtwordstex": [
+            "\\textsc{poss.m.sg-2m.sg}-name",
+            "\\textsc{poss.pl-3pl}-name"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "pe-k-ran ne-u-ran",
+        "srcwordsbare": [
+            "pe-k-ran",
+            "ne-u-ran"
+        ],
+        "srcwordshtml": [
+            "pe-k-ran",
+            "ne-u-ran"
+        ],
+        "srcwordstex": [
+            "pe-k-ran",
+            "ne-u-ran"
+        ],
+        "trs": "your name\u2019 { }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }{ }\u2018their names",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr--42518",
+        "categories": [
+            "3sg",
+            "m"
+        ],
+        "clength": 19,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "to-\\textsc{3sg.m} to-hand-\\textsc{3sg.m}",
+        "imtwordsbare": [
+            "to-3sg.m",
+            "to-hand-3sg.m"
+        ],
+        "imtwordshtml": [
+            "to-<span class=\"sc\">3sg.m</span>",
+            "to-hand-<span class=\"sc\">3sg.m</span>"
+        ],
+        "imtwordstex": [
+            "to-\\textsc{3sg.m}",
+            "to-hand-\\textsc{3sg.m}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "etoot-f (<e-toot-f)",
+        "srcwordsbare": [
+            "etoot-f",
+            "(<e-toot-f)"
+        ],
+        "srcwordshtml": [
+            "etoot-f",
+            "(<e-toot-f)"
+        ],
+        "srcwordstex": [
+            "etoot-f",
+            "(<e-toot-f)"
+        ],
+        "trs": "to him\u2019{ }{ }{ }{ } \u2018to his hand",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-814479",
+        "categories": [
+            "3sg",
+            "dem",
+            "m"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{dem}-\\textsc{3sg.m} day",
+        "imtwordsbare": [
+            "DEM-3sg.m",
+            "day"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dem</span>-<span class=\"sc\">3sg.m</span>",
+            "day"
+        ],
+        "imtwordstex": [
+            "\\textsc{dem}-\\textsc{3sg.m}",
+            "day"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "p\\texttt{\ua722}y-f hrw",
+        "srcwordsbare": [
+            "p\ua722y-f",
+            "hrw"
+        ],
+        "srcwordshtml": [
+            "p<span class=\"tt\">\ua722</span>y-f",
+            "hrw"
+        ],
+        "srcwordstex": [
+            "p\\texttt{\ua722}y-f",
+            "hrw"
+        ],
+        "trs": "his day",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr--48085",
+        "categories": [
+            "3sg",
+            "m"
+        ],
+        "clength": 14,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "army-\\textsc{3sg.m}",
+        "imtwordsbare": [
+            "army-3sg.m"
+        ],
+        "imtwordshtml": [
+            "army-<span class=\"sc\">3sg.m</span>"
+        ],
+        "imtwordstex": [
+            "army-\\textsc{3sg.m}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "m\u0161\\texttt{\ua724}-f",
+        "srcwordsbare": [
+            "m\u0161\ua724-f"
+        ],
+        "srcwordshtml": [
+            "m\u0161<span class=\"tt\">\ua724</span>-f"
+        ],
+        "srcwordstex": [
+            "m\u0161\\texttt{\ua724}-f"
+        ],
+        "trs": "his army",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr--64850",
+        "categories": [
+            "3sg",
+            "m",
+            "poss",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{poss.m.sg-3sg.m} army",
+        "imtwordsbare": [
+            "poss.m.sg-3sg.m",
+            "army"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">poss.m.sg-3sg.m</span>",
+            "army"
+        ],
+        "imtwordstex": [
+            "\\textsc{poss.m.sg-3sg.m}",
+            "army"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "p\\texttt{\ua722}y-f m\u0161\\texttt{\ua724}",
+        "srcwordsbare": [
+            "p\ua722y-f",
+            "m\u0161\ua724"
+        ],
+        "srcwordshtml": [
+            "p<span class=\"tt\">\ua722</span>y-f",
+            "m\u0161<span class=\"tt\">\ua724</span>"
+        ],
+        "srcwordstex": [
+            "p\\texttt{\ua722}y-f",
+            "m\u0161\\texttt{\ua724}"
+        ],
+        "trs": "his army",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-282598",
+        "categories": [
+            "",
+            "3sg",
+            "m",
+            "poss",
+            "sg"
+        ],
+        "clength": 8,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{poss.m.sg-3sg.m-}name",
+        "imtwordsbare": [
+            "poss.m.sg-3sg.m-name"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">poss.m.sg-3sg.m-</span>name"
+        ],
+        "imtwordstex": [
+            "\\textsc{poss.m.sg-3sg.m-}name"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "pe-f-ran",
+        "srcwordsbare": [
+            "pe-f-ran"
+        ],
+        "srcwordshtml": [
+            "pe-f-ran"
+        ],
+        "srcwordstex": [
+            "pe-f-ran"
+        ],
+        "trs": "his name",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr--58941",
+        "categories": [
+            "def",
+            "m",
+            "pl",
+            "pst",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-def.pl}-demon -know-\\textsc{def.m.sg}-lord",
+        "imtwordsbare": [
+            "pst-def.pl-demon",
+            "-know-def.m.sg-lord"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-def.pl</span>-demon",
+            "-know-<span class=\"sc\">def.m.sg</span>-lord"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-def.pl}-demon",
+            "-know-\\textsc{def.m.sg}-lord"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-n-daimonion -soun-p-\u010doeis",
+        "srcwordsbare": [
+            "a-n-daimonion",
+            "-soun-p-\u010doeis"
+        ],
+        "srcwordshtml": [
+            "a-n-daimonion",
+            "-soun-p-\u010doeis"
+        ],
+        "srcwordstex": [
+            "a-n-daimonion",
+            "-soun-p-\u010doeis"
+        ],
+        "trs": "The demons knew the Lord.",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr--16829",
+        "categories": [
+            "3sg",
+            "m",
+            "neg",
+            "pst"
+        ],
+        "clength": 14,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst.neg-3sg.m}-put-another-thing",
+        "imtwordsbare": [
+            "pst.neg-3sg.m-put-another-thing"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst.neg-3sg.m</span>-put-another-thing"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst.neg-3sg.m}-put-another-thing"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "polarity": "negative",
+        "src": "mp-f-ka-ce-h\u00f4b",
+        "srcwordsbare": [
+            "mp-f-ka-ce-h\u00f4b"
+        ],
+        "srcwordshtml": [
+            "mp-f-ka-ce-h\u00f4b"
+        ],
+        "srcwordstex": [
+            "mp-f-ka-ce-h\u00f4b"
+        ],
+        "trs": "He did not leave another thing.",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-188870",
+        "categories": [
+            "aor",
+            "mod",
+            "neg"
+        ],
+        "clength": 36,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{aor.neg}-anyone -throw-wine \\textsc{mod}-new to-wineskin \\textsc{mod}-old",
+        "imtwordsbare": [
+            "aor.neg-anyone",
+            "-throw-wine",
+            "MOD-new",
+            "to-wineskin",
+            "MOD-old"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">aor.neg</span>-anyone",
+            "-throw-wine",
+            "<span class=\"sc\">mod</span>-new",
+            "to-wineskin",
+            "<span class=\"sc\">mod</span>-old"
+        ],
+        "imtwordstex": [
+            "\\textsc{aor.neg}-anyone",
+            "-throw-wine",
+            "\\textsc{mod}-new",
+            "to-wineskin",
+            "\\textsc{mod}-old"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "mere-laau -ne\u010d-\u00earp b-brre e-h\u00f4t n-as",
+        "srcwordsbare": [
+            "mere-laau",
+            "-ne\u010d-\u00earp",
+            "b-brre",
+            "e-h\u00f4t",
+            "n-as"
+        ],
+        "srcwordshtml": [
+            "mere-laau",
+            "-ne\u010d-\u00earp",
+            "b-brre",
+            "e-h\u00f4t",
+            "n-as"
+        ],
+        "srcwordstex": [
+            "mere-laau",
+            "-ne\u010d-\u00earp",
+            "b-brre",
+            "e-h\u00f4t",
+            "n-as"
+        ],
+        "trs": "No one puts new wine into old wineskins.\u2019  %(Mark 2:22, cited in \\citealt[132]{Layton2004Coptic})",
+        "wlength": 5
+    },
+    {
+        "ID": "05-gr-748236",
+        "categories": [
+            "3pl",
+            "3sg",
+            "def",
+            "m",
+            "neg",
+            "obl",
+            "pst",
+            "sg"
+        ],
+        "clength": 38,
+        "coordination": "and",
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst.neg-3pl}-love-\\textsc{def.m.sg}-blessing \\textsc{pst-3sg.m}-flee out \\textsc{obl}-\\textsc{3pl}",
+        "imtwordsbare": [
+            "pst.neg-3pl-love-def.m.sg-blessing",
+            "pst-3sg.m-flee",
+            "out",
+            "OBL-3PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst.neg-3pl</span>-love-<span class=\"sc\">def.m.sg</span>-blessing",
+            "<span class=\"sc\">pst-3sg.m</span>-flee",
+            "out",
+            "<span class=\"sc\">obl</span>-<span class=\"sc\">3pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst.neg-3pl}-love-\\textsc{def.m.sg}-blessing",
+            "\\textsc{pst-3sg.m}-flee",
+            "out",
+            "\\textsc{obl}-\\textsc{3pl}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "polarity": "negative",
+        "src": "mp-ou-oue\u0161-pe-smou a-f-p\u00f4t ebol mmo-ou",
+        "srcwordsbare": [
+            "mp-ou-oue\u0161-pe-smou",
+            "a-f-p\u00f4t",
+            "ebol",
+            "mmo-ou"
+        ],
+        "srcwordshtml": [
+            "mp-ou-oue\u0161-pe-smou",
+            "a-f-p\u00f4t",
+            "ebol",
+            "mmo-ou"
+        ],
+        "srcwordstex": [
+            "mp-ou-oue\u0161-pe-smou",
+            "a-f-p\u00f4t",
+            "ebol",
+            "mmo-ou"
+        ],
+        "trs": "They did not love the blessing, and it fled away from them.",
+        "wlength": 4
+    },
+    {
+        "ID": "05-gr--44413",
+        "categories": [
+            "1pl",
+            "3pl",
+            "def",
+            "gen",
+            "juss",
+            "m",
+            "pl",
+            "poss",
+            "pst",
+            "rel",
+            "sg"
+        ],
+        "clength": 42,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{juss-1pl}-do-\\textsc{def.m.sg}-thought{\\rmfnm} \\textsc{gen}-\\textsc{def.pl-rel-pst-poss.m.sg-1pl}-father -say-\\textsc{3pl}",
+        "imtwordsbare": [
+            "juss-1pl-do-def.m.sg-thought{\\rmfnm}",
+            "GEN-def.pl-rel-pst-poss.m.sg-1pl-father",
+            "-say-3PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">juss-1pl</span>-do-<span class=\"sc\">def.m.sg</span>-thought{\\rmfnm}",
+            "<span class=\"sc\">gen</span>-<span class=\"sc\">def.pl-rel-pst-poss.m.sg-1pl</span>-father",
+            "-say-<span class=\"sc\">3pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{juss-1pl}-do-\\textsc{def.m.sg}-thought{\\rmfnm}",
+            "\\textsc{gen}-\\textsc{def.pl-rel-pst-poss.m.sg-1pl}-father",
+            "-say-\\textsc{3pl}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "mar-n-r-p-meeue n-ne-nt-a-pe-n-ei\u00f4t -\u010doo-u",
+        "srcwordsbare": [
+            "mar-n-r-p-meeue",
+            "n-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "srcwordshtml": [
+            "mar-n-r-p-meeue",
+            "n-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "srcwordstex": [
+            "mar-n-r-p-meeue",
+            "n-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "trs": "Let us remember those things that our father has said\u2019 (lit.\\, \u2018Let us do the thought of the things that our father has said\u2019).",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr--21886",
+        "categories": [
+            "def",
+            "gen",
+            "inf",
+            "m",
+            "pl",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{inf}-do-\\textsc{def.m.sg}-forget \\textsc{gen}-\\textsc{def.pl}-commandment \\textsc{gen-def.m.sg}-god",
+        "imtwordsbare": [
+            "INF-do-def.m.sg-forget",
+            "GEN-def.pl-commandment",
+            "gen-def.m.sg-god"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">inf</span>-do-<span class=\"sc\">def.m.sg</span>-forget",
+            "<span class=\"sc\">gen</span>-<span class=\"sc\">def.pl</span>-commandment",
+            "<span class=\"sc\">gen-def.m.sg</span>-god"
+        ],
+        "imtwordstex": [
+            "\\textsc{inf}-do-\\textsc{def.m.sg}-forget",
+            "\\textsc{gen}-\\textsc{def.pl}-commandment",
+            "\\textsc{gen-def.m.sg}-god"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "e-r-p-\u00f4b\u0161 n-n-entol\u00ea m-p-noute",
+        "srcwordsbare": [
+            "e-r-p-\u00f4b\u0161",
+            "n-n-entol\u00ea",
+            "m-p-noute"
+        ],
+        "srcwordshtml": [
+            "e-r-p-\u00f4b\u0161",
+            "n-n-entol\u00ea",
+            "m-p-noute"
+        ],
+        "srcwordstex": [
+            "e-r-p-\u00f4b\u0161",
+            "n-n-entol\u00ea",
+            "m-p-noute"
+        ],
+        "trs": "to forget the commandments of God\u2019 (lit.\\,`to do the forgetting of the commandments of God')",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr-199271",
+        "categories": [
+            "",
+            "3sg",
+            "def",
+            "f",
+            "m",
+            "poss",
+            "proh",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{def.f.sg-}hospitality \\textsc{proh}-do-\\textsc{poss.m.sg-3sg.f}-forget",
+        "imtwordsbare": [
+            "def.f.sg-hospitality",
+            "PROH-do-poss.m.sg-3sg.f-forget"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def.f.sg-</span>hospitality",
+            "<span class=\"sc\">proh</span>-do-<span class=\"sc\">poss.m.sg-3sg.f</span>-forget"
+        ],
+        "imtwordstex": [
+            "\\textsc{def.f.sg-}hospitality",
+            "\\textsc{proh}-do-\\textsc{poss.m.sg-3sg.f}-forget"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "polarity": "negative",
+        "src": "t-mntmai\u0161mmo mpr-r-pe-s-\u00f4b\u0161",
+        "srcwordsbare": [
+            "t-mntmai\u0161mmo",
+            "mpr-r-pe-s-\u00f4b\u0161"
+        ],
+        "srcwordshtml": [
+            "t-mntmai\u0161mmo",
+            "mpr-r-pe-s-\u00f4b\u0161"
+        ],
+        "srcwordstex": [
+            "t-mntmai\u0161mmo",
+            "mpr-r-pe-s-\u00f4b\u0161"
+        ],
+        "trs": "As for hospitality, do not forget it.\u2019  %(Hebrews 13:2, cited in \\citealt{Layton2004Coptic}:142)",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr--83598",
+        "categories": [
+            "1pl",
+            "3pl",
+            "def",
+            "gen",
+            "juss",
+            "m",
+            "pl",
+            "poss",
+            "pst",
+            "rel",
+            "sg"
+        ],
+        "clength": 51,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{juss-1pl}-do-\\textsc{def.m.sg}-thought \\textbf{\\textsc{gen}}-\\textsc{def.pl-rel-pst-poss.m.sg-1pl}-father -say-\\textsc{3pl}",
+        "imtwordsbare": [
+            "juss-1pl-do-def.m.sg-thought",
+            "GEN-def.pl-rel-pst-poss.m.sg-1pl-father",
+            "-say-3PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">juss-1pl</span>-do-<span class=\"sc\">def.m.sg</span>-thought",
+            "<span class=\"bf\">\\textsc{gen</span>}-<span class=\"sc\">def.pl-rel-pst-poss.m.sg-1pl</span>-father",
+            "-say-<span class=\"sc\">3pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{juss-1pl}-do-\\textsc{def.m.sg}-thought",
+            "\\textbf{\\textsc{gen}}-\\textsc{def.pl-rel-pst-poss.m.sg-1pl}-father",
+            "-say-\\textsc{3pl}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "mar-n-r-p-meeue \\textbf{n}-ne-nt-a-pe-n-ei\u00f4t -\u010doo-u",
+        "srcwordsbare": [
+            "mar-n-r-p-meeue",
+            "n-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "srcwordshtml": [
+            "mar-n-r-p-meeue",
+            "<span class=\"bf\">n</span>-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "srcwordstex": [
+            "mar-n-r-p-meeue",
+            "\\textbf{n}-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "trs": "Let us remember those things that our father has said\u2019 (lit.\\,\u2018Let us do the remembrance of those things that our father has said\u2019).",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr--13663",
+        "categories": [
+            "",
+            "3pl",
+            "acc",
+            "pl",
+            "poss",
+            "pst"
+        ],
+        "clength": 31,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3pl}A-choose \\textbf{\\textsc{acc}}\\textsc{-poss.pl-3pl}-ways",
+        "imtwordsbare": [
+            "pst-3plA-choose",
+            "ACC-poss.pl-3pl-ways"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3pl</span>A-choose",
+            "<span class=\"bf\">\\textsc{acc</span>}<span class=\"sc\">-poss.pl-3pl</span>-ways"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3pl}A-choose",
+            "\\textbf{\\textsc{acc}}\\textsc{-poss.pl-3pl}-ways"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-u-s\u00f4tp \\textbf{n}-ne-u-hiooue",
+        "srcwordsbare": [
+            "a-u-s\u00f4tp",
+            "n-ne-u-hiooue"
+        ],
+        "srcwordshtml": [
+            "a-u-s\u00f4tp",
+            "<span class=\"bf\">n</span>-ne-u-hiooue"
+        ],
+        "srcwordstex": [
+            "a-u-s\u00f4tp",
+            "\\textbf{n}-ne-u-hiooue"
+        ],
+        "trs": "They have chosen their ways.\u2019 %Besa 46:26",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-148514",
+        "categories": [
+            "1pl",
+            "3pl",
+            "acc",
+            "def",
+            "juss",
+            "m",
+            "pl",
+            "poss",
+            "pst",
+            "rel",
+            "sg"
+        ],
+        "clength": 41,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{juss-1pl}-remember \\textbf{\\textsc{acc}}-\\textsc{def.pl-rel-pst-poss.m.sg-1pl}-father -say-\\textsc{3pl}",
+        "imtwordsbare": [
+            "juss-1pl-remember",
+            "ACC-def.pl-rel-pst-poss.m.sg-1pl-father",
+            "-say-3PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">juss-1pl</span>-remember",
+            "<span class=\"bf\">\\textsc{acc</span>}-<span class=\"sc\">def.pl-rel-pst-poss.m.sg-1pl</span>-father",
+            "-say-<span class=\"sc\">3pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{juss-1pl}-remember",
+            "\\textbf{\\textsc{acc}}-\\textsc{def.pl-rel-pst-poss.m.sg-1pl}-father",
+            "-say-\\textsc{3pl}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "mar-n-rpmeeue  n-ne-nt-a-pe-n-ei\u00f4t -\u010doo-u",
+        "srcwordsbare": [
+            "mar-n-rpmeeue",
+            "n-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "srcwordshtml": [
+            "mar-n-rpmeeue",
+            "n-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "srcwordstex": [
+            "mar-n-rpmeeue",
+            "n-ne-nt-a-pe-n-ei\u00f4t",
+            "-\u010doo-u"
+        ],
+        "trs": "Let us remember those things that our father has said.",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr-299213",
+        "categories": [
+            "3pl",
+            "juss"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{juss}-\\textsc{3pl}A-remember<\\textsc{3pl}P>remember",
+        "imtwordsbare": [
+            "JUSS-3PLA-remember<3PLP>remember"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">juss</span>-<span class=\"sc\">3pl</span>A-remember<<span class=\"sc\">3pl</span>P>remember"
+        ],
+        "imtwordstex": [
+            "\\textsc{juss}-\\textsc{3pl}A-remember<\\textsc{3pl}P>remember"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "mar-ou-rpe<u>meeue",
+        "srcwordsbare": [
+            "mar-ou-rpe<u>meeue"
+        ],
+        "srcwordshtml": [
+            "mar-ou-rpe<u>meeue"
+        ],
+        "srcwordstex": [
+            "mar-ou-rpe<u>meeue"
+        ],
+        "trs": "Let them\\textsubscript{i} remember them\\textsubscript{j}.",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-482296",
+        "categories": [
+            "",
+            "3pl",
+            "neg",
+            "seq"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{seq-3pl}A\\textsc{-neg}-forget<\\textsc{3pl}P>forget",
+        "imtwordsbare": [
+            "seq-3plA-neg-forget<3PLP>forget"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">seq-3pl</span>A<span class=\"sc\">-neg</span>-forget<<span class=\"sc\">3pl</span>P>forget"
+        ],
+        "imtwordstex": [
+            "\\textsc{seq-3pl}A\\textsc{-neg}-forget<\\textsc{3pl}P>forget"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "polarity": "negative",
+        "src": "n-se-tm-rpe<u>\u00f4b\u0161",
+        "srcwordsbare": [
+            "n-se-tm-rpe<u>\u00f4b\u0161"
+        ],
+        "srcwordshtml": [
+            "n-se-tm-rpe<u>\u00f4b\u0161"
+        ],
+        "srcwordstex": [
+            "n-se-tm-rpe<u>\u00f4b\u0161"
+        ],
+        "trs": "that they\\textsubscript{i} not forget them\\textsubscript{j}.",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-353579",
+        "categories": [
+            "1sg",
+            "2pl",
+            "pst"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-2pl}A-visit<\\textsc{1sg}P>visit",
+        "imtwordsbare": [
+            "pst-2plA-visit<1SGP>visit"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-2pl</span>A-visit<<span class=\"sc\">1sg</span>P>visit"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-2pl}A-visit<\\textsc{1sg}P>visit"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-tetn-cmp<a>\u0161ine",
+        "srcwordsbare": [
+            "a-tetn-cmp<a>\u0161ine"
+        ],
+        "srcwordshtml": [
+            "a-tetn-cmp<a>\u0161ine"
+        ],
+        "srcwordstex": [
+            "a-tetn-cmp<a>\u0161ine"
+        ],
+        "trs": "You visited me.",
+        "wlength": 1
+    },
+    {
+        "ID": "05-gr-775799",
+        "categories": [
+            "",
+            "2m",
+            "exist",
+            "loc",
+            "sg"
+        ],
+        "clength": 43,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{exist} copper there \\textsc{loc-}hand\\textsc{-2m.sg}",
+        "imtwordsbare": [
+            "EXIST",
+            "copper",
+            "there",
+            "loc-hand-2m.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">exist</span>",
+            "copper",
+            "there",
+            "<span class=\"sc\">loc-</span>hand<span class=\"sc\">-2m.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{exist}",
+            "copper",
+            "there",
+            "\\textsc{loc-}hand\\textsc{-2m.sg}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "wn \\texttt{\u1e25}mt \\texttt{\u1ec9}m m-d\\texttt{\u1ec9}-k",
+        "srcwordsbare": [
+            "wn",
+            "\u1e25mt",
+            "\u1ec9m",
+            "m-d\u1ec9-k"
+        ],
+        "srcwordshtml": [
+            "wn",
+            "<span class=\"tt\">\u1e25</span>mt",
+            "<span class=\"tt\">\u1ec9</span>m",
+            "m-d<span class=\"tt\">\u1ec9</span>-k"
+        ],
+        "srcwordstex": [
+            "wn",
+            "\\texttt{\u1e25}mt",
+            "\\texttt{\u1ec9}m",
+            "m-d\\texttt{\u1ec9}-k"
+        ],
+        "trs": "You have copper\u2019 (lit.\\,\u2018there is copper in your hand\u2019).  %(Late Ramesside Letters 19:15)",
+        "wlength": 4
+    },
+    {
+        "ID": "05-gr-189112",
+        "categories": [
+            "3sg",
+            "exist",
+            "int",
+            "m"
+        ],
+        "clength": 56,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{int} \\textsc{exist}-in\\_hand=\\textsc{3sg.m} crew Syrian",
+        "imtwordsbare": [
+            "INT",
+            "EXIST-in_hand=3sg.m",
+            "crew",
+            "Syrian"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">int</span>",
+            "<span class=\"sc\">exist</span>-in_hand=<span class=\"sc\">3sg.m</span>",
+            "crew",
+            "Syrian"
+        ],
+        "imtwordstex": [
+            "\\textsc{int}",
+            "\\textsc{exist}-in\\_hand=\\textsc{3sg.m}",
+            "crew",
+            "Syrian"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "\\texttt{\u1ec9}n wn-d\\texttt{\u1ec9}-f \\texttt{\u1ec9}s.t \\texttt{\u1e2b\ua722}rw",
+        "srcwordsbare": [
+            "\u1ec9n",
+            "wn-d\u1ec9-f",
+            "\u1ec9s.t",
+            "\u1e2b\ua722rw"
+        ],
+        "srcwordshtml": [
+            "<span class=\"tt\">\u1ec9</span>n",
+            "wn-d<span class=\"tt\">\u1ec9</span>-f",
+            "<span class=\"tt\">\u1ec9</span>s.t",
+            "<span class=\"tt\">\u1e2b\ua722</span>rw"
+        ],
+        "srcwordstex": [
+            "\\texttt{\u1ec9}n",
+            "wn-d\\texttt{\u1ec9}-f",
+            "\\texttt{\u1ec9}s.t",
+            "\\texttt{\u1e2b\ua722}rw"
+        ],
+        "trs": "Does he have a Syrian crew?",
+        "wlength": 4
+    },
+    {
+        "ID": "05-gr--54927",
+        "categories": [
+            "1sg",
+            "acc",
+            "indef",
+            "pl",
+            "poss"
+        ],
+        "clength": 30,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{poss-1sg}=also there \\textsc{acc-indef.pl}-other-sheep",
+        "imtwordsbare": [
+            "poss-1sg=also",
+            "there",
+            "acc-indef.pl-other-sheep"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">poss-1sg</span>=also",
+            "there",
+            "<span class=\"sc\">acc-indef.pl</span>-other-sheep"
+        ],
+        "imtwordstex": [
+            "\\textsc{poss-1sg}=also",
+            "there",
+            "\\textsc{acc-indef.pl}-other-sheep"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "ounta-i=on mmau n-hen-ke-esoou",
+        "srcwordsbare": [
+            "ounta-i=on",
+            "mmau",
+            "n-hen-ke-esoou"
+        ],
+        "srcwordshtml": [
+            "ounta-i=on",
+            "mmau",
+            "n-hen-ke-esoou"
+        ],
+        "srcwordstex": [
+            "ounta-i=on",
+            "mmau",
+            "n-hen-ke-esoou"
+        ],
+        "trs": "I have other sheep too.",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr--66532",
+        "categories": [
+            "3pl",
+            "def",
+            "pl",
+            "poss"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{def.pl}-fox \\textsc{poss-3pl-poss.pl}-\\textsc{3pl}-hole",
+        "imtwordsbare": [
+            "def.pl-fox",
+            "poss-3pl-poss.pl-3PL-hole"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def.pl</span>-fox",
+            "<span class=\"sc\">poss-3pl-poss.pl</span>-<span class=\"sc\">3pl</span>-hole"
+        ],
+        "imtwordstex": [
+            "\\textsc{def.pl}-fox",
+            "\\textsc{poss-3pl-poss.pl}-\\textsc{3pl}-hole"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "n-ba\u0161or ounta-u-ne-u-b\u00eab",
+        "srcwordsbare": [
+            "n-ba\u0161or",
+            "ounta-u-ne-u-b\u00eab"
+        ],
+        "srcwordshtml": [
+            "n-ba\u0161or",
+            "ounta-u-ne-u-b\u00eab"
+        ],
+        "srcwordstex": [
+            "n-ba\u0161or",
+            "ounta-u-ne-u-b\u00eab"
+        ],
+        "trs": "As for foxes, they have their holes.",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr--91256",
+        "categories": [
+            "def",
+            "m",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{q} \\textsc{poss}-\\textsc{def.m.sg}-servant thanks",
+        "imtwordsbare": [
+            "Q",
+            "POSS-def.m.sg-servant",
+            "thanks"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "<span class=\"sc\">poss</span>-<span class=\"sc\">def.m.sg</span>-servant",
+            "thanks"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "\\textsc{poss}-\\textsc{def.m.sg}-servant",
+            "thanks"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "m\u00ea ounte-p-hmhal hmot",
+        "srcwordsbare": [
+            "m\u00ea",
+            "ounte-p-hmhal",
+            "hmot"
+        ],
+        "srcwordshtml": [
+            "m\u00ea",
+            "ounte-p-hmhal",
+            "hmot"
+        ],
+        "srcwordstex": [
+            "m\u00ea",
+            "ounte-p-hmhal",
+            "hmot"
+        ],
+        "trs": "Does the servant have any thanks?",
+        "wlength": 3
+    },
+    {
+        "ID": "05-gr--49757",
+        "categories": [
+            "3sg",
+            "def",
+            "gen",
+            "inf",
+            "m",
+            "nom",
+            "poss",
+            "sg"
+        ],
+        "clength": 55,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{poss-3sg.m}-authority there \\textsc{nom-def.m.sg}-son \\textsc{gen-def.m.sg}-man \\textsc{inf}-put-sin out",
+        "imtwordsbare": [
+            "poss-3sg.m-authority",
+            "there",
+            "nom-def.m.sg-son",
+            "gen-def.m.sg-man",
+            "INF-put-sin",
+            "out"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">poss-3sg.m</span>-authority",
+            "there",
+            "<span class=\"sc\">nom-def.m.sg</span>-son",
+            "<span class=\"sc\">gen-def.m.sg</span>-man",
+            "<span class=\"sc\">inf</span>-put-sin",
+            "out"
+        ],
+        "imtwordstex": [
+            "\\textsc{poss-3sg.m}-authority",
+            "there",
+            "\\textsc{nom-def.m.sg}-son",
+            "\\textsc{gen-def.m.sg}-man",
+            "\\textsc{inf}-put-sin",
+            "out"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "ount-f-eksousia mmau nci-p-\u0161\u00eare m-p-r\u00f4me e-ka-nobe ebol",
+        "srcwordsbare": [
+            "ount-f-eksousia",
+            "mmau",
+            "nci-p-\u0161\u00eare",
+            "m-p-r\u00f4me",
+            "e-ka-nobe",
+            "ebol"
+        ],
+        "srcwordshtml": [
+            "ount-f-eksousia",
+            "mmau",
+            "nci-p-\u0161\u00eare",
+            "m-p-r\u00f4me",
+            "e-ka-nobe",
+            "ebol"
+        ],
+        "srcwordstex": [
+            "ount-f-eksousia",
+            "mmau",
+            "nci-p-\u0161\u00eare",
+            "m-p-r\u00f4me",
+            "e-ka-nobe",
+            "ebol"
+        ],
+        "trs": "The son of man has authority to forgive sins.",
+        "wlength": 6
+    },
+    {
+        "ID": "05-gr-389636",
+        "categories": [
+            "3sg",
+            "m",
+            "pst"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst}-Pilate ask-\\textsc{3sg.m}",
+        "imtwordsbare": [
+            "PST-Pilate",
+            "ask-3sg.m"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>-Pilate",
+            "ask-<span class=\"sc\">3sg.m</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}-Pilate",
+            "ask-\\textsc{3sg.m}"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-pilatos -\u010dnou-f",
+        "srcwordsbare": [
+            "a-pilatos",
+            "-\u010dnou-f"
+        ],
+        "srcwordshtml": [
+            "a-pilatos",
+            "-\u010dnou-f"
+        ],
+        "srcwordstex": [
+            "a-pilatos",
+            "-\u010dnou-f"
+        ],
+        "trs": "Pilate asked him.",
+        "wlength": 2
+    },
+    {
+        "ID": "05-gr-214940",
+        "categories": [
+            "3sg",
+            "m",
+            "nom",
+            "pst"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/05-gr.tex",
+        "imt": "\\textsc{pst-3sg.m}-ask-\\textsc{3sg.m} \\textsc{nom}-Peter",
+        "imtwordsbare": [
+            "pst-3sg.m-ask-3sg.m",
+            "NOM-Peter"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst-3sg.m</span>-ask-<span class=\"sc\">3sg.m</span>",
+            "<span class=\"sc\">nom</span>-Peter"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst-3sg.m}-ask-\\textsc{3sg.m}",
+            "\\textsc{nom}-Peter"
+        ],
+        "language": "173/chapters/05-gr.tex",
+        "src": "a-f-\u010dnou-f nci-petros",
+        "srcwordsbare": [
+            "a-f-\u010dnou-f",
+            "nci-petros"
+        ],
+        "srcwordshtml": [
+            "a-f-\u010dnou-f",
+            "nci-petros"
+        ],
+        "srcwordstex": [
+            "a-f-\u010dnou-f",
+            "nci-petros"
+        ],
+        "trs": "Peter asked him.\u2019  %(Mark 13:3)",
+        "wlength": 2
+    }
+]

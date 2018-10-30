@@ -1,0 +1,4891 @@
+[
+    {
+        "ID": "05turk-494976",
+        "categories": [
+            "dat",
+            "ev",
+            "pfv",
+            "pn",
+            "q"
+        ],
+        "clength": 37,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}    school-\\textsc{dat}    go-\\textsc{pfv.ev=q}",
+        "imtwordsbare": [
+            "PN",
+            "school-DAT",
+            "go-pfv.ev=q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "school-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">pfv.ev=q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "school-\\textsc{dat}",
+            "go-\\textsc{pfv.ev=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "Nermin  okul-a git-mi\u015f=\\textbf{{m\u0131}}?",
+        "srcwordsbare": [
+            "Nermin",
+            "okul-a",
+            "git-mi\u015f={m\u0131}?"
+        ],
+        "srcwordshtml": [
+            "Nermin",
+            "okul-a",
+            "git-mi\u015f=<span class=\"bf\">{m\u0131</span>}?"
+        ],
+        "srcwordstex": [
+            "Nermin",
+            "okul-a",
+            "git-mi\u015f=\\textbf{{m\u0131}}?"
+        ],
+        "trs": "Has Nermin gone to school?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-346539",
+        "categories": [
+            "dat",
+            "ev",
+            "pfv",
+            "pn",
+            "q"
+        ],
+        "clength": 37,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}    school-\\textsc{dat=q}    go-\\textsc{pfv.ev}",
+        "imtwordsbare": [
+            "PN",
+            "school-dat=q",
+            "go-pfv.ev"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "school-<span class=\"sc\">dat=q</span>",
+            "go-<span class=\"sc\">pfv.ev</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "school-\\textsc{dat=q}",
+            "go-\\textsc{pfv.ev}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "Nermin  okul-a=\\textbf{{m\u0131}} git-mi\u015f?",
+        "srcwordsbare": [
+            "Nermin",
+            "okul-a={m\u0131}",
+            "git-mi\u015f?"
+        ],
+        "srcwordshtml": [
+            "Nermin",
+            "okul-a=<span class=\"bf\">{m\u0131</span>}",
+            "git-mi\u015f?"
+        ],
+        "srcwordstex": [
+            "Nermin",
+            "okul-a=\\textbf{{m\u0131}}",
+            "git-mi\u015f?"
+        ],
+        "trs": "Has Nermin gone \\textit{to school}?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-530260",
+        "categories": [
+            "dat",
+            "neg",
+            "pfv",
+            "pn",
+            "q"
+        ],
+        "clength": 97,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}  school-\\textsc{dat}  go-\\textsc{pfv=q}  (or)    go-\\textsc{neg}-\\textsc{pfv=q}",
+        "imtwordsbare": [
+            "PN",
+            "school-DAT",
+            "go-pfv=q",
+            "(or)",
+            "go-NEG-pfv=q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "school-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">pfv=q</span>",
+            "(or)",
+            "go-<span class=\"sc\">neg</span>-<span class=\"sc\">pfv=q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "school-\\textsc{dat}",
+            "go-\\textsc{pfv=q}",
+            "(or)",
+            "go-\\textsc{neg}-\\textsc{pfv=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "Cemal  okul-a    git-ti=\\textbf{{mi}},  (\\textbf{{yoksa}})    git-\\textbf{{me}}-de=\\textbf{{mi}}?",
+        "srcwordsbare": [
+            "Cemal",
+            "okul-a",
+            "git-ti={mi},",
+            "({yoksa})",
+            "git-{me}-de={mi}?"
+        ],
+        "srcwordshtml": [
+            "Cemal",
+            "okul-a",
+            "git-ti=<span class=\"bf\">{mi</span>},",
+            "(<span class=\"bf\">{yoksa</span>})",
+            "git-<span class=\"bf\">{me</span>}-de=<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "Cemal",
+            "okul-a",
+            "git-ti=\\textbf{{mi}},",
+            "(\\textbf{{yoksa}})",
+            "git-\\textbf{{me}}-de=\\textbf{{mi}}?"
+        ],
+        "trs": "Did Cemal go to school or not?",
+        "wlength": 5
+    },
+    {
+        "ID": "05turk-686355",
+        "categories": [
+            "dat",
+            "fut",
+            "sg"
+        ],
+        "clength": 41,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "home-\\textsc{dat}  what  time    go-\\textsc{fut}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "home-DAT",
+            "what",
+            "time",
+            "go-FUT-2SG"
+        ],
+        "imtwordshtml": [
+            "home-<span class=\"sc\">dat</span>",
+            "what",
+            "time",
+            "go-<span class=\"sc\">fut</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "home-\\textsc{dat}",
+            "what",
+            "time",
+            "go-\\textsc{fut}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "Ev-e \\textbf{{ne}} zaman    gid-ecek-sin?",
+        "srcwordsbare": [
+            "Ev-e",
+            "{ne}",
+            "zaman",
+            "gid-ecek-sin?"
+        ],
+        "srcwordshtml": [
+            "Ev-e",
+            "<span class=\"bf\">{ne</span>}",
+            "zaman",
+            "gid-ecek-sin?"
+        ],
+        "srcwordstex": [
+            "Ev-e",
+            "\\textbf{{ne}}",
+            "zaman",
+            "gid-ecek-sin?"
+        ],
+        "trs": "When will you be going home?\u2019 (\\citealt{G\u00f6kselKerslake2005}: 257, 254, 259)\\z\\z",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--54727",
+        "categories": [
+            "dat",
+            "neg",
+            "pfv",
+            "pn",
+            "q"
+        ],
+        "clength": 59,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}  today  school-\\textsc{dat}  go-\\textsc{neg}-\\textsc{pfv}  \\textsc{neg}  \\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "today",
+            "school-DAT",
+            "go-NEG-PFV",
+            "NEG",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "today",
+            "school-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">neg</span>-<span class=\"sc\">pfv</span>",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "today",
+            "school-\\textsc{dat}",
+            "go-\\textsc{neg}-\\textsc{pfv}",
+            "\\textsc{neg}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "Cemal bug\u00fcn okul-a git-me-di, \\textbf{de\u011fil} \\textbf{{mi}}?",
+        "srcwordsbare": [
+            "Cemal",
+            "bug\u00fcn",
+            "okul-a",
+            "git-me-di,",
+            "de\u011fil",
+            "{mi}?"
+        ],
+        "srcwordshtml": [
+            "Cemal",
+            "bug\u00fcn",
+            "okul-a",
+            "git-me-di,",
+            "<span class=\"bf\">de\u011fil</span>",
+            "<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "Cemal",
+            "bug\u00fcn",
+            "okul-a",
+            "git-me-di,",
+            "\\textbf{de\u011fil}",
+            "\\textbf{{mi}}?"
+        ],
+        "trs": "Cemal didn\u2019t go to school today, did(n\u2019t) he?",
+        "wlength": 6
+    },
+    {
+        "ID": "05turk--47774",
+        "categories": [
+            "cop",
+            "ev",
+            "gen",
+            "pn",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 59,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}  \\textsc{pn}-\\textsc{gen}    elder.sister-3\\textsc{sg}.\\textsc{poss}-\\textsc{ev}.\\textsc{cop}  so  \\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "PN-GEN",
+            "elder.sister-3SG.POSS-EV.COP",
+            "so",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "<span class=\"sc\">pn</span>-<span class=\"sc\">gen</span>",
+            "elder.sister-3<span class=\"sc\">sg</span>.<span class=\"sc\">poss</span>-<span class=\"sc\">ev</span>.<span class=\"sc\">cop</span>",
+            "so",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "\\textsc{pn}-\\textsc{gen}",
+            "elder.sister-3\\textsc{sg}.\\textsc{poss}-\\textsc{ev}.\\textsc{cop}",
+            "so",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "Esra Handan-\u0131n abla-s\u0131-ym\u0131\u015f, \\textbf{{\u00f6yle}} \\textbf{{mi}}?",
+        "srcwordsbare": [
+            "Esra",
+            "Handan-\u0131n",
+            "abla-s\u0131-ym\u0131\u015f,",
+            "{\u00f6yle}",
+            "{mi}?"
+        ],
+        "srcwordshtml": [
+            "Esra",
+            "Handan-\u0131n",
+            "abla-s\u0131-ym\u0131\u015f,",
+            "<span class=\"bf\">{\u00f6yle</span>}",
+            "<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "Esra",
+            "Handan-\u0131n",
+            "abla-s\u0131-ym\u0131\u015f,",
+            "\\textbf{{\u00f6yle}}",
+            "\\textbf{{mi}}?"
+        ],
+        "trs": "So Esra is Handan\u2019s elder sister, right?\u2019 (\\citealt{G\u00f6kselKerslake2005}: 253)",
+        "wlength": 5
+    },
+    {
+        "ID": "05turk--51407",
+        "categories": [
+            "def",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 32,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  noodle    drink-\\textsc{pst.def=q}",
+        "imtwordsbare": [
+            "2SG",
+            "noodle",
+            "drink-pst.def=q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "noodle",
+            "drink-<span class=\"sc\">pst.def=q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "noodle",
+            "drink-\\textsc{pst.def=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sen  a\u0283    i\u0283-d\u0292i=\\textbf{{mu}}?",
+        "srcwordsbare": [
+            "sen",
+            "a\u0283",
+            "i\u0283-d\u0292i={mu}?"
+        ],
+        "srcwordshtml": [
+            "sen",
+            "a\u0283",
+            "i\u0283-d\u0292i=<span class=\"bf\">{mu</span>}?"
+        ],
+        "srcwordstex": [
+            "sen",
+            "a\u0283",
+            "i\u0283-d\u0292i=\\textbf{{mu}}?"
+        ],
+        "trs": "Have you eaten (yet)?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--26994",
+        "categories": [
+            "indef",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 26,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  come-\\textsc{pst.indef=q}",
+        "imtwordsbare": [
+            "3SG",
+            "come-pst.indef=q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">pst.indef=q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "come-\\textsc{pst.indef=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "polarity": "negative",
+        "src": "u  ge(l)-mi\u0283=\\textbf{{u}}?",
+        "srcwordsbare": [
+            "u",
+            "ge(l)-mi\u0283={u}?"
+        ],
+        "srcwordshtml": [
+            "u",
+            "ge(l)-mi\u0283=<span class=\"bf\">{u</span>}?"
+        ],
+        "srcwordstex": [
+            "u",
+            "ge(l)-mi\u0283=\\textbf{{u}}?"
+        ],
+        "trs": "Has (s)he come?\u2019\\footnote{The meaning of the parentheses in this last example is not entirely clear, but could indicate either optional elements or parts of the verb stem that are lost in \\isi{combination} with the suffixes.} (\\citealt{LinLianyun1985}: 90, 91)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-504068",
+        "categories": [
+            "fut",
+            "q",
+            "sg"
+        ],
+        "clength": 49,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "girl  2\\textsc{sg}  whither  go-\\textsc{fut-q}",
+        "imtwordsbare": [
+            "girl",
+            "2SG",
+            "whither",
+            "go-fut-q"
+        ],
+        "imtwordshtml": [
+            "girl",
+            "2<span class=\"sc\">sg</span>",
+            "whither",
+            "go-<span class=\"sc\">fut-q</span>"
+        ],
+        "imtwordstex": [
+            "girl",
+            "2\\textsc{sg}",
+            "whither",
+            "go-\\textsc{fut-q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ana,  sen \\textbf{{\u0262ala}} va(r)-\u0281ur-\\textbf{{i}}?",
+        "srcwordsbare": [
+            "ana,",
+            "sen",
+            "{\u0262ala}",
+            "va(r)-\u0281ur-{i}?"
+        ],
+        "srcwordshtml": [
+            "ana,",
+            "sen",
+            "<span class=\"bf\">{\u0262ala</span>}",
+            "va(r)-\u0281ur-<span class=\"bf\">{i</span>}?"
+        ],
+        "srcwordstex": [
+            "ana,",
+            "sen",
+            "\\textbf{{\u0262ala}}",
+            "va(r)-\u0281ur-\\textbf{{i}}?"
+        ],
+        "trs": "Miss, where are you going?\u2019 (\\citealt{LinLianyun1985}: 116)",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--79635",
+        "categories": [
+            "dat",
+            "def",
+            "pst",
+            "sg"
+        ],
+        "clength": 49,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  what-\\textsc{dat}  for  come-\\textsc{pst}.\\textsc{def}",
+        "imtwordsbare": [
+            "2SG",
+            "what-DAT",
+            "for",
+            "come-PST.DEF"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "what-<span class=\"sc\">dat</span>",
+            "for",
+            "come-<span class=\"sc\">pst</span>.<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "what-\\textsc{dat}",
+            "for",
+            "come-\\textsc{pst}.\\textsc{def}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sen \\textbf{{na\u014b}}-a    vul\u0259  gel-\\textbf{{d\u0292i}}?",
+        "srcwordsbare": [
+            "sen",
+            "{na\u014b}-a",
+            "vul\u0259",
+            "gel-{d\u0292i}?"
+        ],
+        "srcwordshtml": [
+            "sen",
+            "<span class=\"bf\">{na\u014b</span>}-a",
+            "vul\u0259",
+            "gel-<span class=\"bf\">{d\u0292i</span>}?"
+        ],
+        "srcwordstex": [
+            "sen",
+            "\\textbf{{na\u014b}}-a",
+            "vul\u0259",
+            "gel-\\textbf{{d\u0292i}}?"
+        ],
+        "trs": "Why have you come?\u2019 (\\citealt{LinLianyun1985}: 86)",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--40865",
+        "categories": [
+            "ev",
+            "q",
+            "self",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  drink-\\textsc{q}.\\textsc{self}.\\textsc{ev}",
+        "imtwordsbare": [
+            "2SG",
+            "drink-Q.SELF.EV"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "drink-<span class=\"sc\">q</span>.<span class=\"sc\">self</span>.<span class=\"sc\">ev</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "drink-\\textsc{q}.\\textsc{self}.\\textsc{ev}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sen  i\u0283-\\textbf{{du}}?",
+        "srcwordsbare": [
+            "sen",
+            "i\u0283-{du}?"
+        ],
+        "srcwordshtml": [
+            "sen",
+            "i\u0283-<span class=\"bf\">{du</span>}?"
+        ],
+        "srcwordstex": [
+            "sen",
+            "i\u0283-\\textbf{{du}}?"
+        ],
+        "trs": "(I see that) you have finished drinking?\u2019 (\\citealt{LinLianyun1985}: 71)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-470300",
+        "categories": [
+            "cop",
+            "gen",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 44,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  2\\textsc{sg}-(\\textsc{gen})  e.brother-?2\\textsc{sg.poss}  \\textsc{cop}  \\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "2SG-(GEN)",
+            "e.brother-?2sg.poss",
+            "COP",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>-(<span class=\"sc\">gen</span>)",
+            "e.brother-?2<span class=\"sc\">sg.poss</span>",
+            "<span class=\"sc\">cop</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "2\\textsc{sg}-(\\textsc{gen})",
+            "e.brother-?2\\textsc{sg.poss}",
+            "\\textsc{cop}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "u  si-(ni\u0263i)  gaga-\u014b      ira \\textbf{{ba}}?",
+        "srcwordsbare": [
+            "u",
+            "si-(ni\u0263i)",
+            "gaga-\u014b",
+            "ira",
+            "{ba}?"
+        ],
+        "srcwordshtml": [
+            "u",
+            "si-(ni\u0263i)",
+            "gaga-\u014b",
+            "ira",
+            "<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "u",
+            "si-(ni\u0263i)",
+            "gaga-\u014b",
+            "ira",
+            "\\textbf{{ba}}?"
+        ],
+        "trs": "This is your elder brother, right?\u2019 (\\citealt{LinLianyun1985}: 84)",
+        "wlength": 5
+    },
+    {
+        "ID": "05turk-457947",
+        "categories": [
+            "acc",
+            "poss",
+            "sg"
+        ],
+        "clength": 39,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  which-3\\textsc{sg.poss}-\\textsc{acc}  want-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "which-3sg.poss-ACC",
+            "want-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "which-3<span class=\"sc\">sg.poss</span>-<span class=\"sc\">acc</span>",
+            "want-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "which-3\\textsc{sg.poss}-\\textsc{acc}",
+            "want-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "modality": "volitive",
+        "src": "s\u0268n \\textbf{{qajs\u0259}}{-s\u0259-n    ala-s\u0259\u014b?}",
+        "srcwordsbare": [
+            "s\u0268n",
+            "{qajs\u0259}{-s\u0259-n",
+            "ala-s\u0259\u014b?}"
+        ],
+        "srcwordshtml": [
+            "s\u0268n",
+            "<span class=\"bf\">{qajs\u0259</span>}{-s\u0259-n",
+            "ala-s\u0259\u014b?}"
+        ],
+        "srcwordstex": [
+            "s\u0268n",
+            "\\textbf{{qajs\u0259}}{-s\u0259-n",
+            "ala-s\u0259\u014b?}"
+        ],
+        "trs": "Which one do you want?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--89583",
+        "categories": [
+            "dat",
+            "neg",
+            "pn",
+            "pst",
+            "ptcp",
+            "q"
+        ],
+        "clength": 55,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}    uncle  \\textsc{pn}-\\textsc{dat}    go-\\textsc{neg}-\\textsc{ptcp.pst=q}",
+        "imtwordsbare": [
+            "PN",
+            "uncle",
+            "PN-DAT",
+            "go-NEG-ptcp.pst=q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "uncle",
+            "<span class=\"sc\">pn</span>-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">neg</span>-<span class=\"sc\">ptcp.pst=q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "uncle",
+            "\\textsc{pn}-\\textsc{dat}",
+            "go-\\textsc{neg}-\\textsc{ptcp.pst=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ism\u025b\u0281il    abz\u0268j  tyrkij\u025b-g\u025b  bar-ma-\u0281an=\\textbf{{m\u0259}}?",
+        "srcwordsbare": [
+            "ism\u025b\u0281il",
+            "abz\u0268j",
+            "tyrkij\u025b-g\u025b",
+            "bar-ma-\u0281an={m\u0259}?"
+        ],
+        "srcwordshtml": [
+            "ism\u025b\u0281il",
+            "abz\u0268j",
+            "tyrkij\u025b-g\u025b",
+            "bar-ma-\u0281an=<span class=\"bf\">{m\u0259</span>}?"
+        ],
+        "srcwordstex": [
+            "ism\u025b\u0281il",
+            "abz\u0268j",
+            "tyrkij\u025b-g\u025b",
+            "bar-ma-\u0281an=\\textbf{{m\u0259}}?"
+        ],
+        "trs": "Has uncle Ismeril (younger brother of the father) never been to Turkey?",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-768600",
+        "categories": [
+            "cop",
+            "dat",
+            "pol",
+            "pst",
+            "ptcp",
+            "q",
+            "sg"
+        ],
+        "clength": 66,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg.pol}  before  people  park-\\textsc{dat}  go-\\textsc{ptcp.pst} \\textsc{cop}-\\textsc{pst}-2\\textsc{sg.pol=q}",
+        "imtwordsbare": [
+            "2sg.pol",
+            "before",
+            "people",
+            "park-DAT",
+            "go-ptcp.pst",
+            "COP-PST-2sg.pol=q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.pol</span>",
+            "before",
+            "people",
+            "park-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">ptcp.pst</span>",
+            "<span class=\"sc\">cop</span>-<span class=\"sc\">pst</span>-2<span class=\"sc\">sg.pol=q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.pol}",
+            "before",
+            "people",
+            "park-\\textsc{dat}",
+            "go-\\textsc{ptcp.pst}",
+            "\\textsc{cop}-\\textsc{pst}-2\\textsc{sg.pol=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "s\u0268z    \u0268lg\u025br\u0268  \u03c7al\u0259q  bart\u0283as\u0259-\u0281a  bar-\u0281an i-di-g\u0268z=\\textbf{{m\u0268}}?",
+        "srcwordsbare": [
+            "s\u0268z",
+            "\u0268lg\u025br\u0268",
+            "\u03c7al\u0259q",
+            "bart\u0283as\u0259-\u0281a",
+            "bar-\u0281an",
+            "i-di-g\u0268z={m\u0268}?"
+        ],
+        "srcwordshtml": [
+            "s\u0268z",
+            "\u0268lg\u025br\u0268",
+            "\u03c7al\u0259q",
+            "bart\u0283as\u0259-\u0281a",
+            "bar-\u0281an",
+            "i-di-g\u0268z=<span class=\"bf\">{m\u0268</span>}?"
+        ],
+        "srcwordstex": [
+            "s\u0268z",
+            "\u0268lg\u025br\u0268",
+            "\u03c7al\u0259q",
+            "bart\u0283as\u0259-\u0281a",
+            "bar-\u0281an",
+            "i-di-g\u0268z=\\textbf{{m\u0268}}?"
+        ],
+        "trs": "Have you been to the People\u2019s Park before?\u2019 \\citealt{ChenZongzhenYiLiqian1986}: 147, 111)\\z\\z",
+        "wlength": 6
+    },
+    {
+        "ID": "05turk-837269",
+        "categories": [
+            "pn",
+            "pst",
+            "q"
+        ],
+        "clength": 31,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}    come-\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "come-PST=Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "come-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "come-\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "z\u00e4kiy\u00e4    kil-de=\\textbf{{me}}?",
+        "srcwordsbare": [
+            "z\u00e4kiy\u00e4",
+            "kil-de={me}?"
+        ],
+        "srcwordshtml": [
+            "z\u00e4kiy\u00e4",
+            "kil-de=<span class=\"bf\">{me</span>}?"
+        ],
+        "srcwordstex": [
+            "z\u00e4kiy\u00e4",
+            "kil-de=\\textbf{{me}}?"
+        ],
+        "trs": "Did Z\u00e4kiy\u00e4 come?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-151187",
+        "categories": [
+            "cop"
+        ],
+        "clength": 21,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "what  \\textsc{cop}",
+        "imtwordsbare": [
+            "what",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "what",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "what",
+            "\\textsc{cop}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{n\u00e4rs\u00e4}} bar?",
+        "srcwordsbare": [
+            "{n\u00e4rs\u00e4}",
+            "bar?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{n\u00e4rs\u00e4</span>}",
+            "bar?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{n\u00e4rs\u00e4}}",
+            "bar?"
+        ],
+        "trs": "What is it?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-485850",
+        "categories": [
+            "dat",
+            "pl",
+            "pst"
+        ],
+        "clength": 37,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "yesterday  2\\textsc{pl}-\\textsc{dat} who  come-\\textsc{pst}",
+        "imtwordsbare": [
+            "yesterday",
+            "2PL-DAT",
+            "who",
+            "come-PST"
+        ],
+        "imtwordshtml": [
+            "yesterday",
+            "2<span class=\"sc\">pl</span>-<span class=\"sc\">dat</span>",
+            "who",
+            "come-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "yesterday",
+            "2\\textsc{pl}-\\textsc{dat}",
+            "who",
+            "come-\\textsc{pst}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ki\u010d\u00e4    sez-g\u00e4 \\textbf{{kem}} kil-de?",
+        "srcwordsbare": [
+            "ki\u010d\u00e4",
+            "sez-g\u00e4",
+            "{kem}",
+            "kil-de?"
+        ],
+        "srcwordshtml": [
+            "ki\u010d\u00e4",
+            "sez-g\u00e4",
+            "<span class=\"bf\">{kem</span>}",
+            "kil-de?"
+        ],
+        "srcwordstex": [
+            "ki\u010d\u00e4",
+            "sez-g\u00e4",
+            "\\textbf{{kem}}",
+            "kil-de?"
+        ],
+        "trs": "Who came to you yesterday?\u2019 \\citep[126]{Poppe1963}\\z\\z",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--90128",
+        "categories": [
+            "pst",
+            "q"
+        ],
+        "clength": 33,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "e.brother  also  go-\\textsc{pst=q}",
+        "imtwordsbare": [
+            "e.brother",
+            "also",
+            "go-pst=q"
+        ],
+        "imtwordshtml": [
+            "e.brother",
+            "also",
+            "go-<span class=\"sc\">pst=q</span>"
+        ],
+        "imtwordstex": [
+            "e.brother",
+            "also",
+            "go-\\textsc{pst=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "a\u0281an    da  bar-d\u0259=\\textbf{{ma}}?",
+        "srcwordsbare": [
+            "a\u0281an",
+            "da",
+            "bar-d\u0259={ma}?"
+        ],
+        "srcwordshtml": [
+            "a\u0281an",
+            "da",
+            "bar-d\u0259=<span class=\"bf\">{ma</span>}?"
+        ],
+        "srcwordstex": [
+            "a\u0281an",
+            "da",
+            "bar-d\u0259=\\textbf{{ma}}?"
+        ],
+        "trs": "Did your elder brother go as well?\u2019 (\\citealt{GengShiminLiZengxiang1985}: 119)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--38010",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 55,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  student=\\textsc{q}    teacher=\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "student=Q",
+            "teacher=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "student=<span class=\"sc\">q</span>",
+            "teacher=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "student=\\textsc{q}",
+            "teacher=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ol  oq\u0259.w\u0283\u0259=\\textbf{{ma}},    oq\u0259.t.\u0259w\u0283\u0259=\\textbf{{ma}}?",
+        "srcwordsbare": [
+            "ol",
+            "oq\u0259.w\u0283\u0259={ma},",
+            "oq\u0259.t.\u0259w\u0283\u0259={ma}?"
+        ],
+        "srcwordshtml": [
+            "ol",
+            "oq\u0259.w\u0283\u0259=<span class=\"bf\">{ma</span>},",
+            "oq\u0259.t.\u0259w\u0283\u0259=<span class=\"bf\">{ma</span>}?"
+        ],
+        "srcwordstex": [
+            "ol",
+            "oq\u0259.w\u0283\u0259=\\textbf{{ma}},",
+            "oq\u0259.t.\u0259w\u0283\u0259=\\textbf{{ma}}?"
+        ],
+        "trs": "Is (s)he a student or a teacher?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--80765",
+        "categories": [
+            "neg",
+            "pfv",
+            "pl",
+            "pst",
+            "q"
+        ],
+        "clength": 81,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{pl}  call-\\textsc{neg}-\\textsc{pst}=\\textsc{q}  or.\\textsc{q}  go-\\textsc{pst.pfv}  come-\\textsc{neg}-\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "3PL",
+            "call-NEG-PST=Q",
+            "or.Q",
+            "go-pst.pfv",
+            "come-NEG-PST=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">pl</span>",
+            "call-<span class=\"sc\">neg</span>-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>",
+            "or.<span class=\"sc\">q</span>",
+            "go-<span class=\"sc\">pst.pfv</span>",
+            "come-<span class=\"sc\">neg</span>-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{pl}",
+            "call-\\textsc{neg}-\\textsc{pst}=\\textsc{q}",
+            "or.\\textsc{q}",
+            "go-\\textsc{pst.pfv}",
+            "come-\\textsc{neg}-\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "polarity": "negative",
+        "src": "olar  \u0283aq\u0259r-ma-d\u0259=\\textbf{{ma}} \\textbf{{\u00e6lde}} bar-\u0281\u0259\u014b  kel-me-di=\\textbf{{me}}?",
+        "srcwordsbare": [
+            "olar",
+            "\u0283aq\u0259r-ma-d\u0259={ma}",
+            "{\u00e6lde}",
+            "bar-\u0281\u0259\u014b",
+            "kel-me-di={me}?"
+        ],
+        "srcwordshtml": [
+            "olar",
+            "\u0283aq\u0259r-ma-d\u0259=<span class=\"bf\">{ma</span>}",
+            "<span class=\"bf\">{\u00e6lde</span>}",
+            "bar-\u0281\u0259\u014b",
+            "kel-me-di=<span class=\"bf\">{me</span>}?"
+        ],
+        "srcwordstex": [
+            "olar",
+            "\u0283aq\u0259r-ma-d\u0259=\\textbf{{ma}}",
+            "\\textbf{{\u00e6lde}}",
+            "bar-\u0281\u0259\u014b",
+            "kel-me-di=\\textbf{{me}}?"
+        ],
+        "trs": "Didn\u2019t they call you or did you (simply) not come?\u2019 (\\citealt{ZhangDingjing1991}: 99, 104)\\z\\z",
+        "wlength": 5
+    },
+    {
+        "ID": "05turk--72010",
+        "categories": [
+            "neg",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 62,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  come-\\textsc{prs}=\\textsc{q}  come-\\textsc{neg-prs}=\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "come-PRS=Q",
+            "come-neg-prs=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">prs</span>=<span class=\"sc\">q</span>",
+            "come-<span class=\"sc\">neg-prs</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "come-\\textsc{prs}=\\textsc{q}",
+            "come-\\textsc{neg-prs}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ol  kel-e=\\textbf{{me}},  kel-\\textbf{{me}}{-j=}\\textbf{{me}}?",
+        "srcwordsbare": [
+            "ol",
+            "kel-e={me},",
+            "kel-{me}{-j=}{me}?"
+        ],
+        "srcwordshtml": [
+            "ol",
+            "kel-e=<span class=\"bf\">{me</span>},",
+            "kel-<span class=\"bf\">{me</span>}{-j=}<span class=\"bf\">{me</span>}?"
+        ],
+        "srcwordstex": [
+            "ol",
+            "kel-e=\\textbf{{me}},",
+            "kel-\\textbf{{me}}{-j=}\\textbf{{me}}?"
+        ],
+        "trs": "Does (s)he come or not?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-811004",
+        "categories": [
+            "dat",
+            "neg",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 65,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "yellow-oil-\\textsc{dat}    good    see-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}  \\textsc{neg}",
+        "imtwordsbare": [
+            "yellow-oil-DAT",
+            "good",
+            "see-PRS-2SG=Q",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "yellow-oil-<span class=\"sc\">dat</span>",
+            "good",
+            "see-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "yellow-oil-\\textsc{dat}",
+            "good",
+            "see-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+            "\\textsc{neg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sar\u0259-maj-d\u0259    d\u0292aqs\u0259    k\u00f8r-e-si\u014b=\\textbf{{be}} \\textbf{{d\u0292oq}}?",
+        "srcwordsbare": [
+            "sar\u0259-maj-d\u0259",
+            "d\u0292aqs\u0259",
+            "k\u00f8r-e-si\u014b={be}",
+            "{d\u0292oq}?"
+        ],
+        "srcwordshtml": [
+            "sar\u0259-maj-d\u0259",
+            "d\u0292aqs\u0259",
+            "k\u00f8r-e-si\u014b=<span class=\"bf\">{be</span>}",
+            "<span class=\"bf\">{d\u0292oq</span>}?"
+        ],
+        "srcwordstex": [
+            "sar\u0259-maj-d\u0259",
+            "d\u0292aqs\u0259",
+            "k\u00f8r-e-si\u014b=\\textbf{{be}}",
+            "\\textbf{{d\u0292oq}}?"
+        ],
+        "trs": "Do you like butter?\u2019 (\\citealt{ZhangDingjing1991}: 104)",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--56363",
+        "categories": [
+            "neg",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 78,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "place  sit-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}    sit-\\textsc{neg}-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "place",
+            "sit-PRS-2SG=Q",
+            "sit-NEG-PRS-2SG=Q"
+        ],
+        "imtwordshtml": [
+            "place",
+            "sit-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>",
+            "sit-<span class=\"sc\">neg</span>-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "place",
+            "sit-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+            "sit-\\textsc{neg}-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ornija  or\u00efr-a-s\u00ef\u014b=\\textbf{{ba}},    or\u00efr-\\textbf{{ma}}{-y-s\u00ef\u014b=}\\textbf{{ba}}?",
+        "srcwordsbare": [
+            "ornija",
+            "or\u00efr-a-s\u00ef\u014b={ba},",
+            "or\u00efr-{ma}{-y-s\u00ef\u014b=}{ba}?"
+        ],
+        "srcwordshtml": [
+            "ornija",
+            "or\u00efr-a-s\u00ef\u014b=<span class=\"bf\">{ba</span>},",
+            "or\u00efr-<span class=\"bf\">{ma</span>}{-y-s\u00ef\u014b=}<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "ornija",
+            "or\u00efr-a-s\u00ef\u014b=\\textbf{{ba}},",
+            "or\u00efr-\\textbf{{ma}}{-y-s\u00ef\u014b=}\\textbf{{ba}}?"
+        ],
+        "trs": "Are you going to sit down at your place or not?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--19404",
+        "categories": [
+            "neg",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 65,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "place  sit-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}    \\textsc{neg}=\\textsc{q}",
+        "imtwordsbare": [
+            "place",
+            "sit-PRS-2SG=Q",
+            "NEG=Q"
+        ],
+        "imtwordshtml": [
+            "place",
+            "sit-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "place",
+            "sit-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+            "\\textsc{neg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ornija  or\u00efr-a-s\u00ef\u014b=\\textbf{{ba}}, \\textbf{{\u017eoq}}{=}\\textbf{{pa}}?",
+        "srcwordsbare": [
+            "ornija",
+            "or\u00efr-a-s\u00ef\u014b={ba},",
+            "{\u017eoq}{=}{pa}?"
+        ],
+        "srcwordshtml": [
+            "ornija",
+            "or\u00efr-a-s\u00ef\u014b=<span class=\"bf\">{ba</span>},",
+            "<span class=\"bf\">{\u017eoq</span>}{=}<span class=\"bf\">{pa</span>}?"
+        ],
+        "srcwordstex": [
+            "ornija",
+            "or\u00efr-a-s\u00ef\u014b=\\textbf{{ba}},",
+            "\\textbf{{\u017eoq}}{=}\\textbf{{pa}}?"
+        ],
+        "trs": "Are you going to sit down at your place or not?\u2019 \\citep[18]{Muhamedowa2016}",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-810025",
+        "categories": [
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}-2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "PN-2SG=Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}-2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "nurbek-s\u0268\u014b=\\textbf{{ba}}?",
+        "srcwordsbare": [
+            "nurbek-s\u0268\u014b={ba}?"
+        ],
+        "srcwordshtml": [
+            "nurbek-s\u0268\u014b=<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "nurbek-s\u0268\u014b=\\textbf{{ba}}?"
+        ],
+        "trs": "Are you Nurbek?",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk-743243",
+        "categories": [
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}-\\textsc{q}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "PN-Q-2SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}-\\textsc{q}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "nurbek-\\textbf{{p\u0268}}{-s\u0268\u014b?}",
+        "srcwordsbare": [
+            "nurbek-{p\u0268}{-s\u0268\u014b?}"
+        ],
+        "srcwordshtml": [
+            "nurbek-<span class=\"bf\">{p\u0268</span>}{-s\u0268\u014b?}"
+        ],
+        "srcwordstex": [
+            "nurbek-\\textbf{{p\u0268}}{-s\u0268\u014b?}"
+        ],
+        "trs": "Are you Nurbek?\u2019 (\\citealt{GengShiminLiZengxiang1985}: 120)",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--47385",
+        "categories": [
+            "pol",
+            "prs",
+            "sg"
+        ],
+        "clength": 31,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg.pol}  where  go-\\textsc{prs}-2\\textsc{sg.pol}",
+        "imtwordsbare": [
+            "2sg.pol",
+            "where",
+            "go-PRS-2sg.pol"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.pol</span>",
+            "where",
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg.pol</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.pol}",
+            "where",
+            "go-\\textsc{prs}-2\\textsc{sg.pol}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "s\u0268z \\textbf{{qajda}} bar-a-s\u0268z?",
+        "srcwordsbare": [
+            "s\u0268z",
+            "{qajda}",
+            "bar-a-s\u0268z?"
+        ],
+        "srcwordshtml": [
+            "s\u0268z",
+            "<span class=\"bf\">{qajda</span>}",
+            "bar-a-s\u0268z?"
+        ],
+        "srcwordstex": [
+            "s\u0268z",
+            "\\textbf{{qajda}}",
+            "bar-a-s\u0268z?"
+        ],
+        "trs": "Where do you go?\u2019 (\\citealt{GengShiminLiZengxiang1985}: 68)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--62528",
+        "categories": [
+            "pn",
+            "q"
+        ],
+        "clength": 19,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn=q}",
+        "imtwordsbare": [
+            "pn=q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn=q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "omar=\\textbf{{\u0283e}}?",
+        "srcwordsbare": [
+            "omar={\u0283e}?"
+        ],
+        "srcwordshtml": [
+            "omar=<span class=\"bf\">{\u0283e</span>}?"
+        ],
+        "srcwordstex": [
+            "omar=\\textbf{{\u0283e}}?"
+        ],
+        "trs": "What about Omar?\u2019 (\\citealt{GengShiminLiZengxiang1985}: 121)",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--30496",
+        "categories": [
+            "cvb",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 58,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "this  2\\textsc{sg}  who  tell-\\textsc{cvb}  give-\\textsc{pst}  \\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "2SG",
+            "who",
+            "tell-CVB",
+            "give-PST",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "2<span class=\"sc\">sg</span>",
+            "who",
+            "tell-<span class=\"sc\">cvb</span>",
+            "give-<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "2\\textsc{sg}",
+            "who",
+            "tell-\\textsc{cvb}",
+            "give-\\textsc{pst}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "mun\u0259  sa\u0281an \\textbf{{k\u0268m}} ajt\u0259-p    ber-d\u0268, \\textbf{{\u00e6}}?",
+        "srcwordsbare": [
+            "mun\u0259",
+            "sa\u0281an",
+            "{k\u0268m}",
+            "ajt\u0259-p",
+            "ber-d\u0268,",
+            "{\u00e6}?"
+        ],
+        "srcwordshtml": [
+            "mun\u0259",
+            "sa\u0281an",
+            "<span class=\"bf\">{k\u0268m</span>}",
+            "ajt\u0259-p",
+            "ber-d\u0268,",
+            "<span class=\"bf\">{\u00e6</span>}?"
+        ],
+        "srcwordstex": [
+            "mun\u0259",
+            "sa\u0281an",
+            "\\textbf{{k\u0268m}}",
+            "ajt\u0259-p",
+            "ber-d\u0268,",
+            "\\textbf{{\u00e6}}?"
+        ],
+        "trs": "Who told you that, eh?\u2019 (\\citealt{GengShiminLiZengxiang1985}: 131)",
+        "wlength": 6
+    },
+    {
+        "ID": "05turk-124887",
+        "categories": [
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  come-\\textsc{prs}=\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "come-PRS=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">prs</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "come-\\textsc{prs}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "al  kel-e=\\textbf{{bi}}?",
+        "srcwordsbare": [
+            "al",
+            "kel-e={bi}?"
+        ],
+        "srcwordshtml": [
+            "al",
+            "kel-e=<span class=\"bf\">{bi</span>}?"
+        ],
+        "srcwordstex": [
+            "al",
+            "kel-e=\\textbf{{bi}}?"
+        ],
+        "trs": "Is (s)he coming?\u2019 \\citep[39]{Kara2003}",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--50270",
+        "categories": [
+            "q"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "this  book=\\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "book=Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "book=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "book=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "bul  kitep=\\textbf{{pi}}?",
+        "srcwordsbare": [
+            "bul",
+            "kitep={pi}?"
+        ],
+        "srcwordshtml": [
+            "bul",
+            "kitep=<span class=\"bf\">{pi</span>}?"
+        ],
+        "srcwordstex": [
+            "bul",
+            "kitep=\\textbf{{pi}}?"
+        ],
+        "trs": "Is this a book?\u2019 (\\citealt{Hu1979}: 89)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--57041",
+        "categories": [
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "go-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "go-PRS-2SG=Q"
+        ],
+        "imtwordshtml": [
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "go-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "kel-e-sing=\\textbf{{b\u00fc}}?",
+        "srcwordsbare": [
+            "kel-e-sing={b\u00fc}?"
+        ],
+        "srcwordshtml": [
+            "kel-e-sing=<span class=\"bf\">{b\u00fc</span>}?"
+        ],
+        "srcwordstex": [
+            "kel-e-sing=\\textbf{{b\u00fc}}?"
+        ],
+        "trs": "Are you going?",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk-327928",
+        "categories": [
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 26,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "go-\\textsc{prs}-\\textsc{q}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "go-PRS-Q-2SG"
+        ],
+        "imtwordshtml": [
+            "go-<span class=\"sc\">prs</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "go-\\textsc{prs}-\\textsc{q}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "kel-e-\\textbf{{bi}}{-sin?}",
+        "srcwordsbare": [
+            "kel-e-{bi}{-sin?}"
+        ],
+        "srcwordshtml": [
+            "kel-e-<span class=\"bf\">{bi</span>}{-sin?}"
+        ],
+        "srcwordstex": [
+            "kel-e-\\textbf{{bi}}{-sin?}"
+        ],
+        "trs": "Are you going?\u2019 (\\citealt{MakelaikeYumai\u2019erbai1986}: 23)",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--18668",
+        "categories": [
+            "prs",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "whither  go-\\textsc{prs}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "whither",
+            "go-PRS-2SG"
+        ],
+        "imtwordshtml": [
+            "whither",
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "whither",
+            "go-\\textsc{prs}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{qaijda}} bar-a-s\u0259\u014b?",
+        "srcwordsbare": [
+            "{qaijda}",
+            "bar-a-s\u0259\u014b?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{qaijda</span>}",
+            "bar-a-s\u0259\u014b?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{qaijda}}",
+            "bar-a-s\u0259\u014b?"
+        ],
+        "trs": "Where are you going?\u2019 (\\citealt{HuZhenhua1986}: 174)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--21629",
+        "categories": [
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 36,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "1\\textsc{sg}  go-\\textsc{prs}-1\\textsc{sg}  2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "1SG",
+            "go-PRS-1SG",
+            "2SG=Q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "go-<span class=\"sc\">prs</span>-1<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "go-\\textsc{prs}-1\\textsc{sg}",
+            "2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "men  bar-a-m\u0259n,  siz=\\textbf{{t\u0283i}}?",
+        "srcwordsbare": [
+            "men",
+            "bar-a-m\u0259n,",
+            "siz={t\u0283i}?"
+        ],
+        "srcwordshtml": [
+            "men",
+            "bar-a-m\u0259n,",
+            "siz=<span class=\"bf\">{t\u0283i</span>}?"
+        ],
+        "srcwordstex": [
+            "men",
+            "bar-a-m\u0259n,",
+            "siz=\\textbf{{t\u0283i}}?"
+        ],
+        "trs": "I have to go, what about you?\u2019 (\\citealt{HuZhenhua1986}: 155)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--85951",
+        "categories": [
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  \\textsc{pn}    \\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "PN",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pn</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "\\textsc{pn}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "al  q\u0259r\u0281\u0259z \\textbf{{beken}}?",
+        "srcwordsbare": [
+            "al",
+            "q\u0259r\u0281\u0259z",
+            "{beken}?"
+        ],
+        "srcwordshtml": [
+            "al",
+            "q\u0259r\u0281\u0259z",
+            "<span class=\"bf\">{beken</span>}?"
+        ],
+        "srcwordstex": [
+            "al",
+            "q\u0259r\u0281\u0259z",
+            "\\textbf{{beken}}?"
+        ],
+        "trs": "Isn\u2019t he \\ili{Kyrgyz}?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--26710",
+        "categories": [
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  \\textsc{pn}    \\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "PN",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pn</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "\\textsc{pn}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "al  tatar \\textbf{{bejim}}?",
+        "srcwordsbare": [
+            "al",
+            "tatar",
+            "{bejim}?"
+        ],
+        "srcwordshtml": [
+            "al",
+            "tatar",
+            "<span class=\"bf\">{bejim</span>}?"
+        ],
+        "srcwordstex": [
+            "al",
+            "tatar",
+            "\\textbf{{bejim}}?"
+        ],
+        "trs": "(S)he apparently is \\ili{Tatar}, right?\u2019 (\\citealt{HuZhenhua1986}: 155, 156)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-471592",
+        "categories": [
+            "pst",
+            "q"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "do-\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "do-PST=Q"
+        ],
+        "imtwordshtml": [
+            "do-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "do-\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "qel-ding=\\textbf{{mu}}?",
+        "srcwordsbare": [
+            "qel-ding={mu}?"
+        ],
+        "srcwordshtml": [
+            "qel-ding=<span class=\"bf\">{mu</span>}?"
+        ],
+        "srcwordstex": [
+            "qel-ding=\\textbf{{mu}}?"
+        ],
+        "trs": "Did you do?",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--62776",
+        "categories": [
+            "npst",
+            "q",
+            "sg"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "do-\\textsc{npst}-\\textsc{q}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "do-NPST-Q-2SG"
+        ],
+        "imtwordshtml": [
+            "do-<span class=\"sc\">npst</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "do-\\textsc{npst}-\\textsc{q}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "qel-a-\\textbf{{m}}{-san?}",
+        "srcwordsbare": [
+            "qel-a-{m}{-san?}"
+        ],
+        "srcwordshtml": [
+            "qel-a-<span class=\"bf\">{m</span>}{-san?}"
+        ],
+        "srcwordstex": [
+            "qel-a-\\textbf{{m}}{-san?}"
+        ],
+        "trs": "Do you do?\u2019 \\citep[56]{Shaw1878}",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk-789804",
+        "categories": [
+            "abil",
+            "npst",
+            "pol",
+            "q",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "tomorrow  come-\\textsc{abil}-\\textsc{npst}-\\textsc{q}-2\\textsc{sg.pol}",
+        "imtwordsbare": [
+            "tomorrow",
+            "come-ABIL-NPST-Q-2sg.pol"
+        ],
+        "imtwordshtml": [
+            "tomorrow",
+            "come-<span class=\"sc\">abil</span>-<span class=\"sc\">npst</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg.pol</span>"
+        ],
+        "imtwordstex": [
+            "tomorrow",
+            "come-\\textsc{abil}-\\textsc{npst}-\\textsc{q}-2\\textsc{sg.pol}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\u00e4t\u00e4    kel-\u00e4l-\u00e4-\\textbf{{m}}{-siz?}",
+        "srcwordsbare": [
+            "\u00e4t\u00e4",
+            "kel-\u00e4l-\u00e4-{m}{-siz?}"
+        ],
+        "srcwordshtml": [
+            "\u00e4t\u00e4",
+            "kel-\u00e4l-\u00e4-<span class=\"bf\">{m</span>}{-siz?}"
+        ],
+        "srcwordstex": [
+            "\u00e4t\u00e4",
+            "kel-\u00e4l-\u00e4-\\textbf{{m}}{-siz?}"
+        ],
+        "trs": "Can you come tomorrow?\u2019 (\\citealt{TuohutiLitifu2012}: 366)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-618007",
+        "categories": [
+            "acc",
+            "cvb",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 52,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  homework-\\textsc{acc} make-\\textsc{cvb}  aux-\\textsc{pst}.2\\textsc{sg=q}",
+        "imtwordsbare": [
+            "2SG",
+            "homework-ACC",
+            "make-CVB",
+            "aux-PST.2sg=q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "homework-<span class=\"sc\">acc</span>",
+            "make-<span class=\"sc\">cvb</span>",
+            "aux-<span class=\"sc\">pst</span>.2<span class=\"sc\">sg=q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "homework-\\textsc{acc}",
+            "make-\\textsc{cvb}",
+            "aux-\\textsc{pst}.2\\textsc{sg=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "s\u00e4n  tap\u0161uruq-ni    i\u0161l\u00e4-p    bol-du\u014b=\\textbf{{mu}}?",
+        "srcwordsbare": [
+            "s\u00e4n",
+            "tap\u0161uruq-ni",
+            "i\u0161l\u00e4-p",
+            "bol-du\u014b={mu}?"
+        ],
+        "srcwordshtml": [
+            "s\u00e4n",
+            "tap\u0161uruq-ni",
+            "i\u0161l\u00e4-p",
+            "bol-du\u014b=<span class=\"bf\">{mu</span>}?"
+        ],
+        "srcwordstex": [
+            "s\u00e4n",
+            "tap\u0161uruq-ni",
+            "i\u0161l\u00e4-p",
+            "bol-du\u014b=\\textbf{{mu}}?"
+        ],
+        "trs": "Have you finished your homework?\u2019 (\\citealt{TuohutiLitifu2012}: 219)",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-759487",
+        "categories": [
+            "acc",
+            "neg",
+            "pst",
+            "q"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "just.now  talk-\\textsc{acc}  hear-\\textsc{neg}-\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "just.now",
+            "talk-ACC",
+            "hear-NEG-PST=Q"
+        ],
+        "imtwordshtml": [
+            "just.now",
+            "talk-<span class=\"sc\">acc</span>",
+            "hear-<span class=\"sc\">neg</span>-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "just.now",
+            "talk-\\textsc{acc}",
+            "hear-\\textsc{neg}-\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "bayiqi    g\u00e4p-ni    a\u014bli-mi-di\u014b=\\textbf{{ma}}?",
+        "srcwordsbare": [
+            "bayiqi",
+            "g\u00e4p-ni",
+            "a\u014bli-mi-di\u014b={ma}?"
+        ],
+        "srcwordshtml": [
+            "bayiqi",
+            "g\u00e4p-ni",
+            "a\u014bli-mi-di\u014b=<span class=\"bf\">{ma</span>}?"
+        ],
+        "srcwordstex": [
+            "bayiqi",
+            "g\u00e4p-ni",
+            "a\u014bli-mi-di\u014b=\\textbf{{ma}}?"
+        ],
+        "trs": "Didn\u2019t you hear what was just said?\u2019 (\\citealt{TuohutiLitifu2012}: 367)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-321541",
+        "categories": [],
+        "clength": 20,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "what  exist",
+        "imtwordsbare": [
+            "what",
+            "exist"
+        ],
+        "imtwordshtml": [
+            "what",
+            "exist"
+        ],
+        "imtwordstex": [
+            "what",
+            "exist"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{nima}} b\u00e2r?",
+        "srcwordsbare": [
+            "{nima}",
+            "b\u00e2r?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{nima</span>}",
+            "b\u00e2r?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{nima}}",
+            "b\u00e2r?"
+        ],
+        "trs": "What is there?\u2019 \\citep[81]{Shaw1878}",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-369186",
+        "categories": [],
+        "clength": 19,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "this  what",
+        "imtwordsbare": [
+            "this",
+            "what"
+        ],
+        "imtwordshtml": [
+            "this",
+            "what"
+        ],
+        "imtwordstex": [
+            "this",
+            "what"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "bu \\textbf{{nem\u00e4}}?",
+        "srcwordsbare": [
+            "bu",
+            "{nem\u00e4}?"
+        ],
+        "srcwordshtml": [
+            "bu",
+            "<span class=\"bf\">{nem\u00e4</span>}?"
+        ],
+        "srcwordstex": [
+            "bu",
+            "\\textbf{{nem\u00e4}}?"
+        ],
+        "trs": "What is this?\u2019 (\\citealt{TuohutiLitifu2012}: 367)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-787125",
+        "categories": [
+            "npst",
+            "pol",
+            "q",
+            "sg"
+        ],
+        "clength": 74,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "today    come-\\textsc{npst}-\\textsc{q}-2\\textsc{sg.pol}    or  tomorrow=\\textsc{q}",
+        "imtwordsbare": [
+            "today",
+            "come-NPST-Q-2sg.pol",
+            "or",
+            "tomorrow=Q"
+        ],
+        "imtwordshtml": [
+            "today",
+            "come-<span class=\"sc\">npst</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg.pol</span>",
+            "or",
+            "tomorrow=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "today",
+            "come-\\textsc{npst}-\\textsc{q}-2\\textsc{sg.pol}",
+            "or",
+            "tomorrow=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "b\u00fcg\u00fcn    kel-a-\\textbf{{m}}-siz      (\\textbf{{yaki}})  \u00e4ti=\\textbf{{mu}}?",
+        "srcwordsbare": [
+            "b\u00fcg\u00fcn",
+            "kel-a-{m}-siz",
+            "({yaki})",
+            "\u00e4ti={mu}?"
+        ],
+        "srcwordshtml": [
+            "b\u00fcg\u00fcn",
+            "kel-a-<span class=\"bf\">{m</span>}-siz",
+            "(<span class=\"bf\">{yaki</span>})",
+            "\u00e4ti=<span class=\"bf\">{mu</span>}?"
+        ],
+        "srcwordstex": [
+            "b\u00fcg\u00fcn",
+            "kel-a-\\textbf{{m}}-siz",
+            "(\\textbf{{yaki}})",
+            "\u00e4ti=\\textbf{{mu}}?"
+        ],
+        "trs": "Do you come today or tomorrow?\u2019 (\\citealt{TuohutiLitifu2012}: 321)",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--37426",
+        "categories": [
+            "pn",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 56,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}    buy-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}  \\textsc{pn}=\\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "buy-PRS-2SG=Q",
+            "PN=Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "buy-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">pn</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "buy-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+            "\\textsc{pn}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "samsung  al-a-s\u00ef\u014b=\\textbf{{ba}},    ayfon=\\textbf{{ba}}?",
+        "srcwordsbare": [
+            "samsung",
+            "al-a-s\u00ef\u014b={ba},",
+            "ayfon={ba}?"
+        ],
+        "srcwordshtml": [
+            "samsung",
+            "al-a-s\u00ef\u014b=<span class=\"bf\">{ba</span>},",
+            "ayfon=<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "samsung",
+            "al-a-s\u00ef\u014b=\\textbf{{ba}},",
+            "ayfon=\\textbf{{ba}}?"
+        ],
+        "trs": "Will you buy a Samsung or an iPhone?\u2019 \\citep[18]{Muhamedowa2016}",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-317830",
+        "categories": [
+            "neg",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 75,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  actually  go-\\textsc{prs}-\\textsc{q}-2\\textsc{sg}  go-\\textsc{neg}-\\textsc{q}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "actually",
+            "go-PRS-Q-2SG",
+            "go-NEG-Q-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "actually",
+            "go-<span class=\"sc\">prs</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg</span>",
+            "go-<span class=\"sc\">neg</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "actually",
+            "go-\\textsc{prs}-\\textsc{q}-2\\textsc{sg}",
+            "go-\\textsc{neg}-\\textsc{q}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "s\u00e4n  zadi    bar-a-\\textbf{{m}}-s\u00e4n,  bar-\\textbf{{ma}}-\\textbf{{m}}{-s\u00e4n?}",
+        "srcwordsbare": [
+            "s\u00e4n",
+            "zadi",
+            "bar-a-{m}-s\u00e4n,",
+            "bar-{ma}-{m}{-s\u00e4n?}"
+        ],
+        "srcwordshtml": [
+            "s\u00e4n",
+            "zadi",
+            "bar-a-<span class=\"bf\">{m</span>}-s\u00e4n,",
+            "bar-<span class=\"bf\">{ma</span>}-<span class=\"bf\">{m</span>}{-s\u00e4n?}"
+        ],
+        "srcwordstex": [
+            "s\u00e4n",
+            "zadi",
+            "bar-a-\\textbf{{m}}-s\u00e4n,",
+            "bar-\\textbf{{ma}}-\\textbf{{m}}{-s\u00e4n?}"
+        ],
+        "trs": "Will you actually go or not?",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-408106",
+        "categories": [
+            "dat",
+            "neg",
+            "q",
+            "sg"
+        ],
+        "clength": 65,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}.\\textsc{dat} life  need=\\textsc{q}  \\textsc{neg}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG.DAT",
+            "life",
+            "need=Q",
+            "NEG=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">dat</span>",
+            "life",
+            "need=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}.\\textsc{dat}",
+            "life",
+            "need=\\textsc{q}",
+            "\\textsc{neg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "modality": "volitive",
+        "src": "sa\u014ba    jan  ker\u00e4k=\\textbf{{mu}} \\textbf{{\u00e4m\u00e4s}}{=}\\textbf{{mu}}?",
+        "srcwordsbare": [
+            "sa\u014ba",
+            "jan",
+            "ker\u00e4k={mu}",
+            "{\u00e4m\u00e4s}{=}{mu}?"
+        ],
+        "srcwordshtml": [
+            "sa\u014ba",
+            "jan",
+            "ker\u00e4k=<span class=\"bf\">{mu</span>}",
+            "<span class=\"bf\">{\u00e4m\u00e4s</span>}{=}<span class=\"bf\">{mu</span>}?"
+        ],
+        "srcwordstex": [
+            "sa\u014ba",
+            "jan",
+            "ker\u00e4k=\\textbf{{mu}}",
+            "\\textbf{{\u00e4m\u00e4s}}{=}\\textbf{{mu}}?"
+        ],
+        "trs": "Do you want to live?",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--64318",
+        "categories": [
+            "abil",
+            "abl",
+            "acc",
+            "neg",
+            "p",
+            "pfv",
+            "pl",
+            "q",
+            "sg"
+        ],
+        "clength": 82,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "other-\\textsc{pl}-\\textsc{abl}  take-\\textsc{p.pfv}  debt-\\textsc{acc}  pay-\\textsc{abil}-\\textsc{q}-2\\textsc{sg}  \\textsc{neg}",
+        "imtwordsbare": [
+            "other-PL-ABL",
+            "take-p.pfv",
+            "debt-ACC",
+            "pay-ABIL-Q-2SG",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "other-<span class=\"sc\">pl</span>-<span class=\"sc\">abl</span>",
+            "take-<span class=\"sc\">p.pfv</span>",
+            "debt-<span class=\"sc\">acc</span>",
+            "pay-<span class=\"sc\">abil</span>-<span class=\"sc\">q</span>-2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "other-\\textsc{pl}-\\textsc{abl}",
+            "take-\\textsc{p.pfv}",
+            "debt-\\textsc{acc}",
+            "pay-\\textsc{abil}-\\textsc{q}-2\\textsc{sg}",
+            "\\textsc{neg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ba\u0161qi-lar-din  al-\u03b3an    q\u00e4rz-ni    qaytur-al-a-\\textbf{{m}}{-s\u00e4n} \\textbf{{yoq}}?",
+        "srcwordsbare": [
+            "ba\u0161qi-lar-din",
+            "al-\u03b3an",
+            "q\u00e4rz-ni",
+            "qaytur-al-a-{m}{-s\u00e4n}",
+            "{yoq}?"
+        ],
+        "srcwordshtml": [
+            "ba\u0161qi-lar-din",
+            "al-\u03b3an",
+            "q\u00e4rz-ni",
+            "qaytur-al-a-<span class=\"bf\">{m</span>}{-s\u00e4n}",
+            "<span class=\"bf\">{yoq</span>}?"
+        ],
+        "srcwordstex": [
+            "ba\u0161qi-lar-din",
+            "al-\u03b3an",
+            "q\u00e4rz-ni",
+            "qaytur-al-a-\\textbf{{m}}{-s\u00e4n}",
+            "\\textbf{{yoq}}?"
+        ],
+        "trs": "Can you pay the debt you have from the others or not?\u2019 (\\citealt{TuohutiLitifu2012}: 368)\\z\\z",
+        "wlength": 5
+    },
+    {
+        "ID": "05turk-896720",
+        "categories": [],
+        "clength": 35,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "this  one.eyed  person  who",
+        "imtwordsbare": [
+            "this",
+            "one.eyed",
+            "person",
+            "who"
+        ],
+        "imtwordshtml": [
+            "this",
+            "one.eyed",
+            "person",
+            "who"
+        ],
+        "imtwordstex": [
+            "this",
+            "one.eyed",
+            "person",
+            "who"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ma  j\u025bkt\u0283\u025b\u0283m\u025b  ki\u0283i \\textbf{{kim}}?",
+        "srcwordsbare": [
+            "ma",
+            "j\u025bkt\u0283\u025b\u0283m\u025b",
+            "ki\u0283i",
+            "{kim}?"
+        ],
+        "srcwordshtml": [
+            "ma",
+            "j\u025bkt\u0283\u025b\u0283m\u025b",
+            "ki\u0283i",
+            "<span class=\"bf\">{kim</span>}?"
+        ],
+        "srcwordstex": [
+            "ma",
+            "j\u025bkt\u0283\u025b\u0283m\u025b",
+            "ki\u0283i",
+            "\\textbf{{kim}}?"
+        ],
+        "trs": "Who is this one-eyed person?\u2019 (\\citealt{ZhaoAximu1981}: 46)",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-840918",
+        "categories": [
+            "2sg",
+            "?pol",
+            "abl",
+            "pst",
+            "sg"
+        ],
+        "clength": 36,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg.?pol}  where-\\textsc{abl}  come.\\textsc{pst.2sg}",
+        "imtwordsbare": [
+            "2sg.?pol",
+            "where-ABL",
+            "come.pst.2sg"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.?pol</span>",
+            "where-<span class=\"sc\">abl</span>",
+            "come.<span class=\"sc\">pst.2sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.?pol}",
+            "where-\\textsc{abl}",
+            "come.\\textsc{pst.2sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "siz \\textbf{{nid\u0292ej}}-d\u0268n  \u0266\u025bs\\_bol?",
+        "srcwordsbare": [
+            "siz",
+            "{nid\u0292ej}-d\u0268n",
+            "\u0266\u025bs_bol?"
+        ],
+        "srcwordshtml": [
+            "siz",
+            "<span class=\"bf\">{nid\u0292ej</span>}-d\u0268n",
+            "\u0266\u025bs_bol?"
+        ],
+        "srcwordstex": [
+            "siz",
+            "\\textbf{{nid\u0292ej}}-d\u0268n",
+            "\u0266\u025bs\\_bol?"
+        ],
+        "trs": "Where did you come from?\u2019 (\\citealt{Hayasi1999}: 31)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-634983",
+        "categories": [
+            "neg",
+            "npst",
+            "pl",
+            "q"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{pl}  today  come-\\textsc{neg}-3\\textsc{npst}  just.so=\\textsc{q}",
+        "imtwordsbare": [
+            "3PL",
+            "today",
+            "come-NEG-3NPST",
+            "just.so=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">pl</span>",
+            "today",
+            "come-<span class=\"sc\">neg</span>-3<span class=\"sc\">npst</span>",
+            "just.so=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{pl}",
+            "today",
+            "come-\\textsc{neg}-3\\textsc{npst}",
+            "just.so=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "polarity": "negative",
+        "src": "ular  b\u00fcg\u00fcn  k\u00e4l-m\u00e4-ydu, \\textbf{{\u0161undaq=qu}}?",
+        "srcwordsbare": [
+            "ular",
+            "b\u00fcg\u00fcn",
+            "k\u00e4l-m\u00e4-ydu,",
+            "{\u0161undaq=qu}?"
+        ],
+        "srcwordshtml": [
+            "ular",
+            "b\u00fcg\u00fcn",
+            "k\u00e4l-m\u00e4-ydu,",
+            "<span class=\"bf\">{\u0161undaq=qu</span>}?"
+        ],
+        "srcwordstex": [
+            "ular",
+            "b\u00fcg\u00fcn",
+            "k\u00e4l-m\u00e4-ydu,",
+            "\\textbf{{\u0161undaq=qu}}?"
+        ],
+        "trs": "You are not coming today, right?\u2019 (\\citealt{TuohutiLitifu2012}: 322)",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-677117",
+        "categories": [
+            "pst",
+            "q"
+        ],
+        "clength": 21,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "go-\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "go-PST=Q"
+        ],
+        "imtwordshtml": [
+            "go-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "go-\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "bar-d\u0131=\\textbf{{ma}}?",
+        "srcwordsbare": [
+            "bar-d\u0131={ma}?"
+        ],
+        "srcwordshtml": [
+            "bar-d\u0131=<span class=\"bf\">{ma</span>}?"
+        ],
+        "srcwordstex": [
+            "bar-d\u0131=\\textbf{{ma}}?"
+        ],
+        "trs": "Did (she) go?",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk-526037",
+        "categories": [
+            "pl",
+            "pst",
+            "q"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "go-\\textsc{pst}-1\\textsc{pl}=\\textsc{q}",
+        "imtwordsbare": [
+            "go-PST-1PL=Q"
+        ],
+        "imtwordshtml": [
+            "go-<span class=\"sc\">pst</span>-1<span class=\"sc\">pl</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "go-\\textsc{pst}-1\\textsc{pl}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "bar-d\u0131-q=\\textbf{{pa}}?",
+        "srcwordsbare": [
+            "bar-d\u0131-q={pa}?"
+        ],
+        "srcwordshtml": [
+            "bar-d\u0131-q=<span class=\"bf\">{pa</span>}?"
+        ],
+        "srcwordstex": [
+            "bar-d\u0131-q=\\textbf{{pa}}?"
+        ],
+        "trs": "Did we go?\u2019 \\citep[31]{Hahn1991}",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--23216",
+        "categories": [
+            "q"
+        ],
+        "clength": 21,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "possible=\\textsc{q}",
+        "imtwordsbare": [
+            "possible=Q"
+        ],
+        "imtwordshtml": [
+            "possible=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "possible=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "m\u00fcmkin=\\textbf{{mi}}?",
+        "srcwordsbare": [
+            "m\u00fcmkin={mi}?"
+        ],
+        "srcwordshtml": [
+            "m\u00fcmkin=<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "m\u00fcmkin=\\textbf{{mi}}?"
+        ],
+        "trs": "Is it possible?\u2019\\footnote{This may also be pronounced as \\textit{m\u00fcmkimmi}.}",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--62521",
+        "categories": [
+            "dat",
+            "q",
+            "vol"
+        ],
+        "clength": 51,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "football  match-\\textsc{dat}  go-\\textsc{vol=q}",
+        "imtwordsbare": [
+            "football",
+            "match-DAT",
+            "go-vol=q"
+        ],
+        "imtwordshtml": [
+            "football",
+            "match-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">vol=q</span>"
+        ],
+        "imtwordstex": [
+            "football",
+            "match-\\textsc{dat}",
+            "go-\\textsc{vol=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "futbol    oyin-g\\.{a}  b\u00e5r-\\.{a}ylik=\\textbf{{mi}}?",
+        "srcwordsbare": [
+            "futbol",
+            "oyin-g\\.{a}",
+            "b\u00e5r-\\.{a}ylik={mi}?"
+        ],
+        "srcwordshtml": [
+            "futbol",
+            "oyin-g\\.{a}",
+            "b\u00e5r-\\.{a}ylik=<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "futbol",
+            "oyin-g\\.{a}",
+            "b\u00e5r-\\.{a}ylik=\\textbf{{mi}}?"
+        ],
+        "trs": "Shall we go to the football mtach?\u2019 (\\citealt{Boeschoten1998}: 360, 368)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--46177",
+        "categories": [
+            "pl",
+            "q"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "good-\\textsc{q}-2\\textsc{pl}",
+        "imtwordsbare": [
+            "good-Q-2PL"
+        ],
+        "imtwordshtml": [
+            "good-<span class=\"sc\">q</span>-2<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "good-\\textsc{q}-2\\textsc{pl}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "s\u00e5\u03b3-\\textbf{{mi}}{-siz?}",
+        "srcwordsbare": [
+            "s\u00e5\u03b3-{mi}{-siz?}"
+        ],
+        "srcwordshtml": [
+            "s\u00e5\u03b3-<span class=\"bf\">{mi</span>}{-siz?}"
+        ],
+        "srcwordstex": [
+            "s\u00e5\u03b3-\\textbf{{mi}}{-siz?}"
+        ],
+        "trs": "Are you well?",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--16527",
+        "categories": [
+            "pl",
+            "q"
+        ],
+        "clength": 31,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "come-2\\textsc{pl}=\\textsc{q}",
+        "imtwordsbare": [
+            "come-2PL=Q"
+        ],
+        "imtwordshtml": [
+            "come-2<span class=\"sc\">pl</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "come-2\\textsc{pl}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "{k\\.el\\.{a}-siz=}\\textbf{{mi}}?",
+        "srcwordsbare": [
+            "{k\\.el\\.{a}-siz=}{mi}?"
+        ],
+        "srcwordshtml": [
+            "{k\\.el\\.{a}-siz=}<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "{k\\.el\\.{a}-siz=}\\textbf{{mi}}?"
+        ],
+        "trs": "Will you come?\u2019 \\citep[373]{Boeschoten1998}",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk--23203",
+        "categories": [
+            "cop",
+            "dat",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 86,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "1\\textsc{sg}.\\textsc{dat}  which    suit-?\\textsc{cop.pst}  red=\\textsc{q}    white=\\textsc{q}",
+        "imtwordsbare": [
+            "1SG.DAT",
+            "which",
+            "suit-?cop.pst",
+            "red=Q",
+            "white=Q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>.<span class=\"sc\">dat</span>",
+            "which",
+            "suit-?<span class=\"sc\">cop.pst</span>",
+            "red=<span class=\"sc\">q</span>",
+            "white=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}.\\textsc{dat}",
+            "which",
+            "suit-?\\textsc{cop.pst}",
+            "red=\\textsc{q}",
+            "white=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "{m\\.e\u014b\\.{a}} \\textbf{{qaysi.si}} yara\u0161-adi,  qizili=\\textbf{{mi}},  \u00e5qi=\\textbf{{mi}}?",
+        "srcwordsbare": [
+            "{m\\.e\u014b\\.{a}}",
+            "{qaysi.si}",
+            "yara\u0161-adi,",
+            "qizili={mi},",
+            "\u00e5qi={mi}?"
+        ],
+        "srcwordshtml": [
+            "{m\\.e\u014b\\.{a}}",
+            "<span class=\"bf\">{qaysi.si</span>}",
+            "yara\u0161-adi,",
+            "qizili=<span class=\"bf\">{mi</span>},",
+            "\u00e5qi=<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "{m\\.e\u014b\\.{a}}",
+            "\\textbf{{qaysi.si}}",
+            "yara\u0161-adi,",
+            "qizili=\\textbf{{mi}},",
+            "\u00e5qi=\\textbf{{mi}}?"
+        ],
+        "trs": "Which one suits me, the red one or the white one?",
+        "wlength": 5
+    },
+    {
+        "ID": "05turk--86294",
+        "categories": [
+            "pl",
+            "pst"
+        ],
+        "clength": 42,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "tonight    who-\\textsc{pl}    come-\\textsc{pst}",
+        "imtwordsbare": [
+            "tonight",
+            "who-PL",
+            "come-PST"
+        ],
+        "imtwordshtml": [
+            "tonight",
+            "who-<span class=\"sc\">pl</span>",
+            "come-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "tonight",
+            "who-\\textsc{pl}",
+            "come-\\textsc{pst}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "{k\\.e\u010d\\.{a}} \\textbf{{kim}}-lar  k\\.el-di?",
+        "srcwordsbare": [
+            "{k\\.e\u010d\\.{a}}",
+            "{kim}-lar",
+            "k\\.el-di?"
+        ],
+        "srcwordshtml": [
+            "{k\\.e\u010d\\.{a}}",
+            "<span class=\"bf\">{kim</span>}-lar",
+            "k\\.el-di?"
+        ],
+        "srcwordstex": [
+            "{k\\.e\u010d\\.{a}}",
+            "\\textbf{{kim}}-lar",
+            "k\\.el-di?"
+        ],
+        "trs": "What persons have arrived tonight?\u2019 \\citep[371]{Boeschoten1998}",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-447530",
+        "categories": [
+            "cop",
+            "q"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "bread  \\textsc{cop=q}",
+        "imtwordsbare": [
+            "bread",
+            "cop=q"
+        ],
+        "imtwordshtml": [
+            "bread",
+            "<span class=\"sc\">cop=q</span>"
+        ],
+        "imtwordstex": [
+            "bread",
+            "\\textsc{cop=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "xlep  bar=\\textbf{{be}}?",
+        "srcwordsbare": [
+            "xlep",
+            "bar={be}?"
+        ],
+        "srcwordshtml": [
+            "xlep",
+            "bar=<span class=\"bf\">{be</span>}?"
+        ],
+        "srcwordstex": [
+            "xlep",
+            "bar=\\textbf{{be}}?"
+        ],
+        "trs": "Is there bread?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-161976",
+        "categories": [
+            "I",
+            "pl",
+            "pst"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "whence  come-\\textsc{pst.I}  2\\textsc{pl}",
+        "imtwordsbare": [
+            "whence",
+            "come-pst.I",
+            "2PL"
+        ],
+        "imtwordshtml": [
+            "whence",
+            "come-<span class=\"sc\">pst.I</span>",
+            "2<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "whence",
+            "come-\\textsc{pst.I}",
+            "2\\textsc{pl}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{kay\u0268\u0268n}} kel-gen    siler?",
+        "srcwordsbare": [
+            "{kay\u0268\u0268n}",
+            "kel-gen",
+            "siler?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{kay\u0268\u0268n</span>}",
+            "kel-gen",
+            "siler?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{kay\u0268\u0268n}}",
+            "kel-gen",
+            "siler?"
+        ],
+        "trs": "Where have you come from?\u2019 (\\citealt{AndersonHarrison1999}: 69, 28)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-166659",
+        "categories": [
+            "II",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  come-\\textsc{pst.II=q}",
+        "imtwordsbare": [
+            "3SG",
+            "come-pst.II=q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">pst.II=q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "come-\\textsc{pst.II=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ol  gel-di=\\textbf{{be}}?",
+        "srcwordsbare": [
+            "ol",
+            "gel-di={be}?"
+        ],
+        "srcwordshtml": [
+            "ol",
+            "gel-di=<span class=\"bf\">{be</span>}?"
+        ],
+        "srcwordstex": [
+            "ol",
+            "gel-di=\\textbf{{be}}?"
+        ],
+        "trs": "Has (s)he come?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-571214",
+        "categories": [
+            "fut",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  when  leave-?\\textsc{fut}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "when",
+            "leave-?FUT-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "when",
+            "leave-?<span class=\"sc\">fut</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "when",
+            "leave-?\\textsc{fut}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sen \\textbf{{\u0262a\u0292an}} d\u0292or-ur-sen?",
+        "srcwordsbare": [
+            "sen",
+            "{\u0262a\u0292an}",
+            "d\u0292or-ur-sen?"
+        ],
+        "srcwordshtml": [
+            "sen",
+            "<span class=\"bf\">{\u0262a\u0292an</span>}",
+            "d\u0292or-ur-sen?"
+        ],
+        "srcwordstex": [
+            "sen",
+            "\\textbf{{\u0262a\u0292an}}",
+            "d\u0292or-ur-sen?"
+        ],
+        "trs": "When will you leave?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--43592",
+        "categories": [
+            "abl",
+            "pl",
+            "poss",
+            "q"
+        ],
+        "clength": 52,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "water-1\\textsc{pl}.\\textsc{poss}-?\\textsc{abl}  some  where-\\textsc{q}",
+        "imtwordsbare": [
+            "water-1PL.POSS-?ABL",
+            "some",
+            "where-Q"
+        ],
+        "imtwordshtml": [
+            "water-1<span class=\"sc\">pl</span>.<span class=\"sc\">poss</span>-?<span class=\"sc\">abl</span>",
+            "some",
+            "where-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "water-1\\textsc{pl}.\\textsc{poss}-?\\textsc{abl}",
+            "some",
+            "where-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "suu-b\u0259s-t\u0259\u014b    bir.si \\textbf{{qajda}}-\\textbf{{l}}?",
+        "srcwordsbare": [
+            "suu-b\u0259s-t\u0259\u014b",
+            "bir.si",
+            "{qajda}-{l}?"
+        ],
+        "srcwordshtml": [
+            "suu-b\u0259s-t\u0259\u014b",
+            "bir.si",
+            "<span class=\"bf\">{qajda</span>}-<span class=\"bf\">{l</span>}?"
+        ],
+        "srcwordstex": [
+            "suu-b\u0259s-t\u0259\u014b",
+            "bir.si",
+            "\\textbf{{qajda}}-\\textbf{{l}}?"
+        ],
+        "trs": "Where has some of our water gone?\u2019 (\\citealt{WuHongwei1999}: 113, 144, 54)\\z\\z",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--62176",
+        "categories": [
+            "pn",
+            "post",
+            "q"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "\\textsc{pn}  come-\\textsc{post}-\\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "come-POST-Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "come-<span class=\"sc\">post</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "come-\\textsc{post}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "bat\u0259  gel-gen-\\textbf{{be}}?",
+        "srcwordsbare": [
+            "bat\u0259",
+            "gel-gen-{be}?"
+        ],
+        "srcwordshtml": [
+            "bat\u0259",
+            "gel-gen-<span class=\"bf\">{be</span>}?"
+        ],
+        "srcwordstex": [
+            "bat\u0259",
+            "gel-gen-\\textbf{{be}}?"
+        ],
+        "trs": "Has Bat arrived?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-461378",
+        "categories": [
+            "post"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "who  come-\\textsc{post}",
+        "imtwordsbare": [
+            "who",
+            "come-POST"
+        ],
+        "imtwordshtml": [
+            "who",
+            "come-<span class=\"sc\">post</span>"
+        ],
+        "imtwordstex": [
+            "who",
+            "come-\\textsc{post}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{g\u00efm}} gel-gen?",
+        "srcwordsbare": [
+            "{g\u00efm}",
+            "gel-gen?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{g\u00efm</span>}",
+            "gel-gen?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{g\u00efm}}",
+            "gel-gen?"
+        ],
+        "trs": "Who has come?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-424960",
+        "categories": [
+            "intra",
+            "lf",
+            "pl",
+            "q",
+            "v"
+        ],
+        "clength": 41,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "now  1\\textsc{pl}  which.\\textsc{v.intra.lf}-\\textsc{q}",
+        "imtwordsbare": [
+            "now",
+            "1PL",
+            "which.v.intra.lf-Q"
+        ],
+        "imtwordshtml": [
+            "now",
+            "1<span class=\"sc\">pl</span>",
+            "which.<span class=\"sc\">v.intra.lf</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "now",
+            "1\\textsc{pl}",
+            "which.\\textsc{v.intra.lf}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "am  pis \\textbf{{gan\u01f0aar}}-\\textbf{{\u0259l}}?",
+        "srcwordsbare": [
+            "am",
+            "pis",
+            "{gan\u01f0aar}-{\u0259l}?"
+        ],
+        "srcwordshtml": [
+            "am",
+            "pis",
+            "<span class=\"bf\">{gan\u01f0aar</span>}-<span class=\"bf\">{\u0259l</span>}?"
+        ],
+        "srcwordstex": [
+            "am",
+            "pis",
+            "\\textbf{{gan\u01f0aar}}-\\textbf{{\u0259l}}?"
+        ],
+        "time": "present",
+        "trs": "And now what should we do?\u2019 (\\citealt{Ragagnin2011}: 193, 131, 188)\\z\\z",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-302170",
+        "categories": [
+            "neg",
+            "post",
+            "q"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "come-\\textsc{post}  \\textsc{neg=q}",
+        "imtwordsbare": [
+            "come-POST",
+            "neg=q"
+        ],
+        "imtwordshtml": [
+            "come-<span class=\"sc\">post</span>",
+            "<span class=\"sc\">neg=q</span>"
+        ],
+        "imtwordstex": [
+            "come-\\textsc{post}",
+            "\\textsc{neg=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "gel-gen \\textbf{{emes=pe}}?",
+        "srcwordsbare": [
+            "gel-gen",
+            "{emes=pe}?"
+        ],
+        "srcwordshtml": [
+            "gel-gen",
+            "<span class=\"bf\">{emes=pe</span>}?"
+        ],
+        "srcwordstex": [
+            "gel-gen",
+            "\\textbf{{emes=pe}}?"
+        ],
+        "trs": "(S)he arrived, didn\u2019t (s)he?\u2019 \\citep[187]{Ragagnin2011}",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--62434",
+        "categories": [
+            "acc",
+            "cvb",
+            "obj",
+            "p/f",
+            "q",
+            "sg",
+            "vers"
+        ],
+        "clength": 36,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}.\\textsc{acc} say.\\textsc{cvb}  \\textsc{obj}.\\textsc{vers}.\\textsc{p/f}=\\textsc{q}",
+        "imtwordsbare": [
+            "3SG.ACC",
+            "say.CVB",
+            "OBJ.VERS.P/F=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>.<span class=\"sc\">acc</span>",
+            "say.<span class=\"sc\">cvb</span>",
+            "<span class=\"sc\">obj</span>.<span class=\"sc\">vers</span>.<span class=\"sc\">p/f</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}.\\textsc{acc}",
+            "say.\\textsc{cvb}",
+            "\\textsc{obj}.\\textsc{vers}.\\textsc{p/f}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "onu    soodap    beer=\\textbf{{be}}?",
+        "srcwordsbare": [
+            "onu",
+            "soodap",
+            "beer={be}?"
+        ],
+        "srcwordshtml": [
+            "onu",
+            "soodap",
+            "beer=<span class=\"bf\">{be</span>}?"
+        ],
+        "srcwordstex": [
+            "onu",
+            "soodap",
+            "beer=\\textbf{{be}}?"
+        ],
+        "trs": "Should I say it again (for you)?\u2019 \\citep[260]{Anderson2001}",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-171939",
+        "categories": [
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "name-2\\textsc{sg}.\\textsc{poss}  who-\\textsc{q}",
+        "imtwordsbare": [
+            "name-2SG.POSS",
+            "who-Q"
+        ],
+        "imtwordshtml": [
+            "name-2<span class=\"sc\">sg</span>.<span class=\"sc\">poss</span>",
+            "who-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "name-2\\textsc{sg}.\\textsc{poss}",
+            "who-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ad-\u00ef\u014b \\textbf{{qum}}-\\textbf{{ul}}?",
+        "srcwordsbare": [
+            "ad-\u00ef\u014b",
+            "{qum}-{ul}?"
+        ],
+        "srcwordshtml": [
+            "ad-\u00ef\u014b",
+            "<span class=\"bf\">{qum</span>}-<span class=\"bf\">{ul</span>}?"
+        ],
+        "srcwordstex": [
+            "ad-\u00ef\u014b",
+            "\\textbf{{qum}}-\\textbf{{ul}}?"
+        ],
+        "trs": "\\isi{What is your name?}\u2019 (\\citealt{Sch\u00f6nig1993}: 199)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-471074",
+        "categories": [
+            "cvb",
+            "pl",
+            "pn",
+            "prs",
+            "q",
+            "v"
+        ],
+        "clength": 48,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{pl}  \\textsc{pn}-\\textsc{v}-\\textsc{cvb}  speak-\\textsc{prs}-2\\textsc{pl=q}",
+        "imtwordsbare": [
+            "2PL",
+            "PN-V-CVB",
+            "speak-PRS-2pl=q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>",
+            "<span class=\"sc\">pn</span>-<span class=\"sc\">v</span>-<span class=\"sc\">cvb</span>",
+            "speak-<span class=\"sc\">prs</span>-2<span class=\"sc\">pl=q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}",
+            "\\textsc{pn}-\\textsc{v}-\\textsc{cvb}",
+            "speak-\\textsc{prs}-2\\textsc{pl=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "s\u026arer  xakas-ta-p  \u010dooxta-p\u010da-zar=\\textbf{{ba}}?",
+        "srcwordsbare": [
+            "s\u026arer",
+            "xakas-ta-p",
+            "\u010dooxta-p\u010da-zar={ba}?"
+        ],
+        "srcwordshtml": [
+            "s\u026arer",
+            "xakas-ta-p",
+            "\u010dooxta-p\u010da-zar=<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "s\u026arer",
+            "xakas-ta-p",
+            "\u010dooxta-p\u010da-zar=\\textbf{{ba}}?"
+        ],
+        "trs": "Do you (pl.) speak \\ili{Khakas}?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-449679",
+        "categories": [
+            "acc",
+            "fut",
+            "sg"
+        ],
+        "clength": 29,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "who  know-\\textsc{fut}  3\\textsc{sg}.\\textsc{acc}",
+        "imtwordsbare": [
+            "who",
+            "know-FUT",
+            "3SG.ACC"
+        ],
+        "imtwordshtml": [
+            "who",
+            "know-<span class=\"sc\">fut</span>",
+            "3<span class=\"sc\">sg</span>.<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "who",
+            "know-\\textsc{fut}",
+            "3\\textsc{sg}.\\textsc{acc}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{kem}} p\u026al-er    an\u0268?",
+        "srcwordsbare": [
+            "{kem}",
+            "p\u026al-er",
+            "an\u0268?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{kem</span>}",
+            "p\u026al-er",
+            "an\u0268?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{kem}}",
+            "p\u026al-er",
+            "an\u0268?"
+        ],
+        "trs": "Who knows him/her?\u2019 \\citep[87]{Anderson1998}",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--24047",
+        "categories": [
+            "prs",
+            "sg"
+        ],
+        "clength": 38,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}    tomorrow  school    go-\\textsc{prs}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "tomorrow",
+            "school",
+            "go-PRS-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "tomorrow",
+            "school",
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "tomorrow",
+            "school",
+            "go-\\textsc{prs}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sin    ta\u014b.da,    \u0161kola    par-\u010da-zy\u014b?",
+        "srcwordsbare": [
+            "sin",
+            "ta\u014b.da,",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordshtml": [
+            "sin",
+            "ta\u014b.da,",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordstex": [
+            "sin",
+            "ta\u014b.da,",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "trs": "Are you going to school tomorrow?",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-918931",
+        "categories": [
+            "prs",
+            "sg"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}    tomorrow  school    go-\\textsc{prs}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "tomorrow",
+            "school",
+            "go-PRS-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "tomorrow",
+            "school",
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "tomorrow",
+            "school",
+            "go-\\textsc{prs}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\uline{sin}    ta\u014b.da,    \u0161kola    par-\u010da-zy\u014b?",
+        "srcwordsbare": [
+            "\\uline{sin}",
+            "ta\u014b.da,",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordshtml": [
+            "\\uline{sin}",
+            "ta\u014b.da,",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordstex": [
+            "\\uline{sin}",
+            "ta\u014b.da,",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "trs": "Is it \\textit{you} who is going to school tomorrow?",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-490404",
+        "categories": [
+            "prs",
+            "sg"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "tomorrow  2\\textsc{sg}    school    go-\\textsc{prs}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "tomorrow",
+            "2SG",
+            "school",
+            "go-PRS-2SG"
+        ],
+        "imtwordshtml": [
+            "tomorrow",
+            "2<span class=\"sc\">sg</span>",
+            "school",
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "tomorrow",
+            "2\\textsc{sg}",
+            "school",
+            "go-\\textsc{prs}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\uline{ta\u014b.da},    sin    \u0161kola    par-\u010da-zy\u014b?",
+        "srcwordsbare": [
+            "\\uline{ta\u014b.da},",
+            "sin",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordshtml": [
+            "\\uline{ta\u014b.da},",
+            "sin",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordstex": [
+            "\\uline{ta\u014b.da},",
+            "sin",
+            "\u0161kola",
+            "par-\u010da-zy\u014b?"
+        ],
+        "trs": "Is it \\textit{tomorrow} that you are going to school?",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--63809",
+        "categories": [
+            "prs",
+            "sg"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}    school    tomorrow  go-\\textsc{prs}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "school",
+            "tomorrow",
+            "go-PRS-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "school",
+            "tomorrow",
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "school",
+            "tomorrow",
+            "go-\\textsc{prs}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sin    \\uline{\u0161kola},    ta\u014b.da    par-\u010da-zy\u014b?",
+        "srcwordsbare": [
+            "sin",
+            "\\uline{\u0161kola},",
+            "ta\u014b.da",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordshtml": [
+            "sin",
+            "\\uline{\u0161kola},",
+            "ta\u014b.da",
+            "par-\u010da-zy\u014b?"
+        ],
+        "srcwordstex": [
+            "sin",
+            "\\uline{\u0161kola},",
+            "ta\u014b.da",
+            "par-\u010da-zy\u014b?"
+        ],
+        "trs": "Is it \\textit{to school} that you are going tomorrow?\u2019\\z\\z",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk--77968",
+        "categories": [
+            "all",
+            "neg",
+            "ppst",
+            "q"
+        ],
+        "clength": 58,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "invite-\\textsc{ppst}  place-\\textsc{all}  how  go-\\textsc{neg}-\\textsc{q}",
+        "imtwordsbare": [
+            "invite-PPST",
+            "place-ALL",
+            "how",
+            "go-NEG-Q"
+        ],
+        "imtwordshtml": [
+            "invite-<span class=\"sc\">ppst</span>",
+            "place-<span class=\"sc\">all</span>",
+            "how",
+            "go-<span class=\"sc\">neg</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "invite-\\textsc{ppst}",
+            "place-\\textsc{all}",
+            "how",
+            "go-\\textsc{neg}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "polarity": "negative",
+        "src": "x\u0268\u0263\u0268r-\u0263an  \u010dir-zer \\textbf{{xaydi}} par-ba-\\textbf{{\u01efa\u014b}}?",
+        "srcwordsbare": [
+            "x\u0268\u0263\u0268r-\u0263an",
+            "\u010dir-zer",
+            "{xaydi}",
+            "par-ba-{\u01efa\u014b}?"
+        ],
+        "srcwordshtml": [
+            "x\u0268\u0263\u0268r-\u0263an",
+            "\u010dir-zer",
+            "<span class=\"bf\">{xaydi</span>}",
+            "par-ba-<span class=\"bf\">{\u01efa\u014b</span>}?"
+        ],
+        "srcwordstex": [
+            "x\u0268\u0263\u0268r-\u0263an",
+            "\u010dir-zer",
+            "\\textbf{{xaydi}}",
+            "par-ba-\\textbf{{\u01efa\u014b}}?"
+        ],
+        "trs": "How is it possible not to go where one was invited?\u2019 \\citep[38]{Anderson1998}",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-103666",
+        "categories": [
+            "gen",
+            "q",
+            "sg"
+        ],
+        "clength": 34,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  2\\textsc{sg}-\\textsc{gen}  son=\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "2SG-GEN",
+            "son=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">gen</span>",
+            "son=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "2\\textsc{sg}-\\textsc{gen}",
+            "son=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ol  sin-i\u014b    bala\u014b=\\textbf{{ma}}?",
+        "srcwordsbare": [
+            "ol",
+            "sin-i\u014b",
+            "bala\u014b={ma}?"
+        ],
+        "srcwordshtml": [
+            "ol",
+            "sin-i\u014b",
+            "bala\u014b=<span class=\"bf\">{ma</span>}?"
+        ],
+        "srcwordstex": [
+            "ol",
+            "sin-i\u014b",
+            "bala\u014b=\\textbf{{ma}}?"
+        ],
+        "trs": "Is he your son?\u2019 (\\citealt{HuImart1987}: 29, 37)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-701929",
+        "categories": [
+            "q"
+        ],
+        "clength": 19,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "good=\\textsc{q}",
+        "imtwordsbare": [
+            "good=Q"
+        ],
+        "imtwordshtml": [
+            "good=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "good=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "yah\u023f=\\textbf{{mu}}?",
+        "srcwordsbare": [
+            "yah\u023f={mu}?"
+        ],
+        "srcwordshtml": [
+            "yah\u023f=<span class=\"bf\">{mu</span>}?"
+        ],
+        "srcwordstex": [
+            "yah\u023f=\\textbf{{mu}}?"
+        ],
+        "trs": "How are you?\u2019 (a greeting)",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk-727177",
+        "categories": [
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  sleep-\\textsc{pst}-\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "sleep-PST-Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "sleep-<span class=\"sc\">pst</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "sleep-\\textsc{pst}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sen  uz\u00ef-\\textsuperscript{h}{t\u00ef-}\\textbf{{m}}?",
+        "srcwordsbare": [
+            "sen",
+            "uz\u00ef-h{t\u00ef-}{m}?"
+        ],
+        "srcwordshtml": [
+            "sen",
+            "uz\u00ef-<span class=\"superscript\">h</span>{t\u00ef-}<span class=\"bf\">{m</span>}?"
+        ],
+        "srcwordstex": [
+            "sen",
+            "uz\u00ef-\\textsuperscript{h}{t\u00ef-}\\textbf{{m}}?"
+        ],
+        "trs": "Did you sleep?\u2019 \\citep[152]{Roos2000}",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--44601",
+        "categories": [
+            "ev",
+            "fut",
+            "neg",
+            "q",
+            "sg"
+        ],
+        "clength": 58,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  come-\\textsc{fut}.\\textsc{ev}-\\textsc{q}  come-\\textsc{fut}.\\textsc{neg}.\\textsc{ev}-\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "come-FUT.EV-Q",
+            "come-FUT.NEG.EV-Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">fut</span>.<span class=\"sc\">ev</span>-<span class=\"sc\">q</span>",
+            "come-<span class=\"sc\">fut</span>.<span class=\"sc\">neg</span>.<span class=\"sc\">ev</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "come-\\textsc{fut}.\\textsc{ev}-\\textsc{q}",
+            "come-\\textsc{fut}.\\textsc{neg}.\\textsc{ev}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "k\u028a  ki-\u023ft\u00ef-\\textbf{{m}} ki-\\textbf{{\u0263\u00efmst\u00ef}}-\\textbf{{m}}?",
+        "srcwordsbare": [
+            "k\u028a",
+            "ki-\u023ft\u00ef-{m}",
+            "ki-{\u0263\u00efmst\u00ef}-{m}?"
+        ],
+        "srcwordshtml": [
+            "k\u028a",
+            "ki-\u023ft\u00ef-<span class=\"bf\">{m</span>}",
+            "ki-<span class=\"bf\">{\u0263\u00efmst\u00ef</span>}-<span class=\"bf\">{m</span>}?"
+        ],
+        "srcwordstex": [
+            "k\u028a",
+            "ki-\u023ft\u00ef-\\textbf{{m}}",
+            "ki-\\textbf{{\u0263\u00efmst\u00ef}}-\\textbf{{m}}?"
+        ],
+        "trs": "Will (s)he come or not?\u2019 \\citep[152]{Roos2000}",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--72179",
+        "categories": [
+            "dat",
+            "fut",
+            "q",
+            "sg"
+        ],
+        "clength": 161,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  today=\\textsc{q}  tomorrow=\\textsc{q}  or  chief-\\textsc{dat}  work-\\textsc{fut}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "today=Q",
+            "tomorrow=Q",
+            "or",
+            "chief-DAT",
+            "work-FUT=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "today=<span class=\"sc\">q</span>",
+            "tomorrow=<span class=\"sc\">q</span>",
+            "or",
+            "chief-<span class=\"sc\">dat</span>",
+            "work-<span class=\"sc\">fut</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "today=\\textsc{q}",
+            "tomorrow=\\textsc{q}",
+            "or",
+            "chief-\\textsc{dat}",
+            "work-\\textsc{fut}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sen  pu\u0263\u00efn=\\textbf{{mi}},  ta\u0263\u00efn=\\textbf{{mi}} \\textbf{{ta}}\\textbf{{\\textsuperscript{h}}}\\textbf{{q\u00ef}} {c\\textsuperscript{h}}un\u0295a\u014b-qa  ku\u014bcuola-\u023f=\\textbf{{mi}}?",
+        "srcwordsbare": [
+            "sen",
+            "pu\u0263\u00efn={mi},",
+            "ta\u0263\u00efn={mi}",
+            "{ta}{\\textsuperscript{h}}{q\u00ef}",
+            "{ch}un\u0295a\u014b-qa",
+            "ku\u014bcuola-\u023f={mi}?"
+        ],
+        "srcwordshtml": [
+            "sen",
+            "pu\u0263\u00efn=<span class=\"bf\">{mi</span>},",
+            "ta\u0263\u00efn=<span class=\"bf\">{mi</span>}",
+            "<span class=\"bf\">{ta</span>}<span class=\"bf\">{\\textsuperscript{h</span>}}<span class=\"bf\">{q\u00ef</span>}",
+            "{c<span class=\"superscript\">h</span>}un\u0295a\u014b-qa",
+            "ku\u014bcuola-\u023f=<span class=\"bf\">{mi</span>}?"
+        ],
+        "srcwordstex": [
+            "sen",
+            "pu\u0263\u00efn=\\textbf{{mi}},",
+            "ta\u0263\u00efn=\\textbf{{mi}}",
+            "\\textbf{{ta}}\\textbf{{\\textsuperscript{h}}}\\textbf{{q\u00ef}}",
+            "{c\\textsuperscript{h}}un\u0295a\u014b-qa",
+            "ku\u014bcuola-\u023f=\\textbf{{mi}}?"
+        ],
+        "trs": "Will you work for the chief today or tomorrow?\u2019 \\citep[152]{Roos2000}",
+        "wlength": 6
+    },
+    {
+        "ID": "05turk--56046",
+        "categories": [
+            "pst"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "who  come-\\textsc{pst}",
+        "imtwordsbare": [
+            "who",
+            "come-PST"
+        ],
+        "imtwordshtml": [
+            "who",
+            "come-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "who",
+            "come-\\textsc{pst}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{kem}} kel-du?",
+        "srcwordsbare": [
+            "{kem}",
+            "kel-du?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{kem</span>}",
+            "kel-du?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{kem}}",
+            "kel-du?"
+        ],
+        "trs": "Who came?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--49328",
+        "categories": [
+            "neg",
+            "q"
+        ],
+        "clength": 48,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "white  ?birch  ?grow=\\textsc{q}  \\textsc{neg=q}",
+        "imtwordsbare": [
+            "white",
+            "?birch",
+            "?grow=Q",
+            "neg=q"
+        ],
+        "imtwordshtml": [
+            "white",
+            "?birch",
+            "?grow=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg=q</span>"
+        ],
+        "imtwordstex": [
+            "white",
+            "?birch",
+            "?grow=\\textsc{q}",
+            "\\textsc{neg=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ak  kazyn  \u00f6zer=\\textbf{be} {\u010dok=}\\textbf{{pa}}?",
+        "srcwordsbare": [
+            "ak",
+            "kazyn",
+            "\u00f6zer=be",
+            "{\u010dok=}{pa}?"
+        ],
+        "srcwordshtml": [
+            "ak",
+            "kazyn",
+            "\u00f6zer=<span class=\"bf\">be</span>",
+            "{\u010dok=}<span class=\"bf\">{pa</span>}?"
+        ],
+        "srcwordstex": [
+            "ak",
+            "kazyn",
+            "\u00f6zer=\\textbf{be}",
+            "{\u010dok=}\\textbf{{pa}}?"
+        ],
+        "trs": "Is the white birch tree growing or not? \\citep[505]{Donidze1997}",
+        "wlength": 4
+    },
+    {
+        "ID": "05turk-912038",
+        "categories": [],
+        "clength": 9,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "?receive=q",
+        "imtwordsbare": [
+            "?receive=q"
+        ],
+        "imtwordshtml": [
+            "?receive=q"
+        ],
+        "imtwordstex": [
+            "?receive=q"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "alby\u014b=ba?",
+        "srcwordsbare": [
+            "alby\u014b=ba?"
+        ],
+        "srcwordshtml": [
+            "alby\u014b=ba?"
+        ],
+        "srcwordstex": [
+            "alby\u014b=ba?"
+        ],
+        "trs": "Have you received?",
+        "wlength": 1
+    },
+    {
+        "ID": "05turk-228174",
+        "categories": [
+            "p",
+            "pl",
+            "pst",
+            "q"
+        ],
+        "clength": 17,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{pl}  come-?\\textsc{p.pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "3PL",
+            "come-?p.pst=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">pl</span>",
+            "come-?<span class=\"sc\">p.pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{pl}",
+            "come-?\\textsc{p.pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "olor  kel-gen=ne?",
+        "srcwordsbare": [
+            "olor",
+            "kel-gen=ne?"
+        ],
+        "srcwordshtml": [
+            "olor",
+            "kel-gen=ne?"
+        ],
+        "srcwordstex": [
+            "olor",
+            "kel-gen=ne?"
+        ],
+        "trs": "(I wonder whether) they came?\u2019 (\\citealt{Baskakov1997}: 183)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-747849",
+        "categories": [
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 41,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "now  till  sleep-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "now",
+            "till",
+            "sleep-PRS-2SG=Q"
+        ],
+        "imtwordshtml": [
+            "now",
+            "till",
+            "sleep-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "now",
+            "till",
+            "sleep-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "eme  t\u2019etire  uyuqta-p-s\u00efn=\\textbf{{m\u00ef}}?",
+        "srcwordsbare": [
+            "eme",
+            "t\u2019etire",
+            "uyuqta-p-s\u00efn={m\u00ef}?"
+        ],
+        "srcwordshtml": [
+            "eme",
+            "t\u2019etire",
+            "uyuqta-p-s\u00efn=<span class=\"bf\">{m\u00ef</span>}?"
+        ],
+        "srcwordstex": [
+            "eme",
+            "t\u2019etire",
+            "uyuqta-p-s\u00efn=\\textbf{{m\u00ef}}?"
+        ],
+        "trs": "Have you been sleeping till now?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--53966",
+        "categories": [
+            "abl",
+            "prs",
+            "sg"
+        ],
+        "clength": 39,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "well  how.much-\\textsc{abl}  ferry.\\textsc{prs}.2\\textsc{sg}",
+        "imtwordsbare": [
+            "well",
+            "how.much-ABL",
+            "ferry.PRS.2SG"
+        ],
+        "imtwordshtml": [
+            "well",
+            "how.much-<span class=\"sc\">abl</span>",
+            "ferry.<span class=\"sc\">prs</span>.2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "well",
+            "how.much-\\textsc{abl}",
+            "ferry.\\textsc{prs}.2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "t\u2019e, \\textbf{{qan\u010d\u00efn}}-dan    ke\u010dirsin?",
+        "srcwordsbare": [
+            "t\u2019e,",
+            "{qan\u010d\u00efn}-dan",
+            "ke\u010dirsin?"
+        ],
+        "srcwordshtml": [
+            "t\u2019e,",
+            "<span class=\"bf\">{qan\u010d\u00efn</span>}-dan",
+            "ke\u010dirsin?"
+        ],
+        "srcwordstex": [
+            "t\u2019e,",
+            "\\textbf{{qan\u010d\u00efn}}-dan",
+            "ke\u010dirsin?"
+        ],
+        "trs": "Well, how much is it for you to ferry us (over the river)?\u2019 \\citep[78]{Nevskaja2014}",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-446059",
+        "categories": [
+            "gen",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 79,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "who-\\textsc{gen}  tooth-3\\textsc{sg.poss} rather.white  3\\textsc{sg}-\\textsc{gen}=\\textsc{q} 1\\textsc{sg.gen}=\\textsc{q}",
+        "imtwordsbare": [
+            "who-GEN",
+            "tooth-3sg.poss",
+            "rather.white",
+            "3SG-GEN=Q",
+            "1sg.gen=Q"
+        ],
+        "imtwordshtml": [
+            "who-<span class=\"sc\">gen</span>",
+            "tooth-3<span class=\"sc\">sg.poss</span>",
+            "rather.white",
+            "3<span class=\"sc\">sg</span>-<span class=\"sc\">gen</span>=<span class=\"sc\">q</span>",
+            "1<span class=\"sc\">sg.gen</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "who-\\textsc{gen}",
+            "tooth-3\\textsc{sg.poss}",
+            "rather.white",
+            "3\\textsc{sg}-\\textsc{gen}=\\textsc{q}",
+            "1\\textsc{sg.gen}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{kem}}-ni\u014b  ti\u017e-i      apaa\u0161\u2019    aa-\u014b=\\textbf{{ma}} mee\u014b=\\textbf{{me}}?",
+        "srcwordsbare": [
+            "{kem}-ni\u014b",
+            "ti\u017e-i",
+            "apaa\u0161\u2019",
+            "aa-\u014b={ma}",
+            "mee\u014b={me}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{kem</span>}-ni\u014b",
+            "ti\u017e-i",
+            "apaa\u0161\u2019",
+            "aa-\u014b=<span class=\"bf\">{ma</span>}",
+            "mee\u014b=<span class=\"bf\">{me</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{kem}}-ni\u014b",
+            "ti\u017e-i",
+            "apaa\u0161\u2019",
+            "aa-\u014b=\\textbf{{ma}}",
+            "mee\u014b=\\textbf{{me}}?"
+        ],
+        "trs": "Whose teeth are especially white, his/hers or mine?\u2019 (\\citealt{Erdal2013}: 98)\\z\\z",
+        "wlength": 5
+    },
+    {
+        "ID": "05turk-647845",
+        "categories": [
+            "prs",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "whither  go-\\textsc{prs}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "whither",
+            "go-PRS-2SG"
+        ],
+        "imtwordshtml": [
+            "whither",
+            "go-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "whither",
+            "go-\\textsc{prs}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{kajnaar}} bar-eydi-\u014b?",
+        "srcwordsbare": [
+            "{kajnaar}",
+            "bar-eydi-\u014b?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{kajnaar</span>}",
+            "bar-eydi-\u014b?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{kajnaar}}",
+            "bar-eydi-\u014b?"
+        ],
+        "trs": "Where are you going?\u2019 (\\citealt{Harrison2003}: 250)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-778064",
+        "categories": [
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 29,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "1\\textsc{sg}  go-\\textsc{prs}-1\\textsc{sg=q}",
+        "imtwordsbare": [
+            "1SG",
+            "go-PRS-1sg=q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "go-<span class=\"sc\">prs</span>-1<span class=\"sc\">sg=q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "go-\\textsc{prs}-1\\textsc{sg=q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "m\u00e4n  par-ad-ym=\\textbf{{ba}}?",
+        "srcwordsbare": [
+            "m\u00e4n",
+            "par-ad-ym={ba}?"
+        ],
+        "srcwordshtml": [
+            "m\u00e4n",
+            "par-ad-ym=<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "m\u00e4n",
+            "par-ad-ym=\\textbf{{ba}}?"
+        ],
+        "trs": "Do I go?\u2019 \\citep[496]{Birjukovich1997}",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--32764",
+        "categories": [
+            "gen",
+            "loc",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 38,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}.\\textsc{gen}  husband-2\\textsc{sg}.\\textsc{poss}  house-\\textsc{loc}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG.GEN",
+            "husband-2SG.POSS",
+            "house-LOC=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">gen</span>",
+            "husband-2<span class=\"sc\">sg</span>.<span class=\"sc\">poss</span>",
+            "house-<span class=\"sc\">loc</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}.\\textsc{gen}",
+            "husband-2\\textsc{sg}.\\textsc{poss}",
+            "house-\\textsc{loc}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "see\u014b    eer-i\u014b      \u00e4p-te=\\textbf{b\u00e4}?",
+        "srcwordsbare": [
+            "see\u014b",
+            "eer-i\u014b",
+            "\u00e4p-te=b\u00e4?"
+        ],
+        "srcwordshtml": [
+            "see\u014b",
+            "eer-i\u014b",
+            "\u00e4p-te=<span class=\"bf\">b\u00e4</span>?"
+        ],
+        "srcwordstex": [
+            "see\u014b",
+            "eer-i\u014b",
+            "\u00e4p-te=\\textbf{b\u00e4}?"
+        ],
+        "trs": "Is your husband at home?\u2019 (\\citealt{LiYong-S\u014fng2008}: 98)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-620183",
+        "categories": [
+            "gen",
+            "pl",
+            "q"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{pl}-\\textsc{gen} good=\\textsc{q}  news",
+        "imtwordsbare": [
+            "2PL-GEN",
+            "good=Q",
+            "news"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>-<span class=\"sc\">gen</span>",
+            "good=<span class=\"sc\">q</span>",
+            "news"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}-\\textsc{gen}",
+            "good=\\textsc{q}",
+            "news"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "siler-ni\u014b  \u010daq\u0161\u00ef=\\textbf{ba} vest\u2019?",
+        "srcwordsbare": [
+            "siler-ni\u014b",
+            "\u010daq\u0161\u00ef=ba",
+            "vest\u2019?"
+        ],
+        "srcwordshtml": [
+            "siler-ni\u014b",
+            "\u010daq\u0161\u00ef=<span class=\"bf\">ba</span>",
+            "vest\u2019?"
+        ],
+        "srcwordstex": [
+            "siler-ni\u014b",
+            "\u010daq\u0161\u00ef=\\textbf{ba}",
+            "vest\u2019?"
+        ],
+        "trs": "Is your news good?\u2019 (\\citealt{LiYong-S\u014fng2008}: 210)",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--52526",
+        "categories": [
+            "acc",
+            "poss",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 48,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "lark    song-3\\textsc{sg}.\\textsc{poss}-\\textsc{acc}  hear-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "lark",
+            "song-3SG.POSS-ACC",
+            "hear-PRS-2SG=Q"
+        ],
+        "imtwordshtml": [
+            "lark",
+            "song-3<span class=\"sc\">sg</span>.<span class=\"sc\">poss</span>-<span class=\"sc\">acc</span>",
+            "hear-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "lark",
+            "song-3\\textsc{sg}.\\textsc{poss}-\\textsc{acc}",
+            "hear-\\textsc{prs}-2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ky\u0153r\u0259\u0281ej  \u026fr\u026fa-t\u026f-n    ist-e-\u0281in=\\textbf{{duo}}?",
+        "srcwordsbare": [
+            "ky\u0153r\u0259\u0281ej",
+            "\u026fr\u026fa-t\u026f-n",
+            "ist-e-\u0281in={duo}?"
+        ],
+        "srcwordshtml": [
+            "ky\u0153r\u0259\u0281ej",
+            "\u026fr\u026fa-t\u026f-n",
+            "ist-e-\u0281in=<span class=\"bf\">{duo</span>}?"
+        ],
+        "srcwordstex": [
+            "ky\u0153r\u0259\u0281ej",
+            "\u026fr\u026fa-t\u026f-n",
+            "ist-e-\u0281in=\\textbf{{duo}}?"
+        ],
+        "trs": "Do you hear the song of larks?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-777038",
+        "categories": [
+            "cop",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 50,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "child-2\\textsc{sg}.\\textsc{poss}  daughter.\\textsc{cop}.3\\textsc{sg}=\\textsc{q}  son.\\textsc{cop}.3\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "child-2SG.POSS",
+            "daughter.COP.3SG=Q",
+            "son.COP.3SG=Q"
+        ],
+        "imtwordshtml": [
+            "child-2<span class=\"sc\">sg</span>.<span class=\"sc\">poss</span>",
+            "daughter.<span class=\"sc\">cop</span>.3<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>",
+            "son.<span class=\"sc\">cop</span>.3<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "child-2\\textsc{sg}.\\textsc{poss}",
+            "daughter.\\textsc{cop}.3\\textsc{sg}=\\textsc{q}",
+            "son.\\textsc{cop}.3\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "o\u0281o-\u014b      k\u026f\u026fs=\\textbf{{duu}} uol=\\textbf{{duu}}?",
+        "srcwordsbare": [
+            "o\u0281o-\u014b",
+            "k\u026f\u026fs={duu}",
+            "uol={duu}?"
+        ],
+        "srcwordshtml": [
+            "o\u0281o-\u014b",
+            "k\u026f\u026fs=<span class=\"bf\">{duu</span>}",
+            "uol=<span class=\"bf\">{duu</span>}?"
+        ],
+        "srcwordstex": [
+            "o\u0281o-\u014b",
+            "k\u026f\u026fs=\\textbf{{duu}}",
+            "uol=\\textbf{{duu}}?"
+        ],
+        "trs": "Is your child a daughter or a son?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-396344",
+        "categories": [
+            "cop",
+            "q",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "where exist-\\textsc{cop}.2\\textsc{sg}-\\textsc{q}",
+        "imtwordsbare": [
+            "where",
+            "exist-COP.2SG-Q"
+        ],
+        "imtwordshtml": [
+            "where",
+            "exist-<span class=\"sc\">cop</span>.2<span class=\"sc\">sg</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "where",
+            "exist-\\textsc{cop}.2\\textsc{sg}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{xanna}} baar-g\u026fn-\\textbf{{\u026fj}}?",
+        "srcwordsbare": [
+            "{xanna}",
+            "baar-g\u026fn-{\u026fj}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{xanna</span>}",
+            "baar-g\u026fn-<span class=\"bf\">{\u026fj</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{xanna}}",
+            "baar-g\u026fn-\\textbf{{\u026fj}}?"
+        ],
+        "trs": "Where are you?\u2019 \\citep[197]{Ebata2011}\\z\\z",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-658835",
+        "categories": [
+            "dat",
+            "ex",
+            "q"
+        ],
+        "clength": 37,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "washbasin-\\textsc{dat}  water  \\textsc{ex}=\\textsc{q}",
+        "imtwordsbare": [
+            "washbasin-DAT",
+            "water",
+            "EX=Q"
+        ],
+        "imtwordshtml": [
+            "washbasin-<span class=\"sc\">dat</span>",
+            "water",
+            "<span class=\"sc\">ex</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "washbasin-\\textsc{dat}",
+            "water",
+            "\\textsc{ex}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "taah\u00efk-ka    uu  baar=\\textbf{{duo}}?",
+        "srcwordsbare": [
+            "taah\u00efk-ka",
+            "uu",
+            "baar={duo}?"
+        ],
+        "srcwordshtml": [
+            "taah\u00efk-ka",
+            "uu",
+            "baar=<span class=\"bf\">{duo</span>}?"
+        ],
+        "srcwordstex": [
+            "taah\u00efk-ka",
+            "uu",
+            "baar=\\textbf{{duo}}?"
+        ],
+        "trs": "Is there water in the washbasin?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--18191",
+        "categories": [
+            "fut",
+            "inst",
+            "q",
+            "sg"
+        ],
+        "clength": 42,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "what.\\textsc{inst}  go-\\textsc{fut}-2\\textsc{sg}-\\textsc{q}",
+        "imtwordsbare": [
+            "what.INST",
+            "go-FUT-2SG-Q"
+        ],
+        "imtwordshtml": [
+            "what.<span class=\"sc\">inst</span>",
+            "go-<span class=\"sc\">fut</span>-2<span class=\"sc\">sg</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "what.\\textsc{inst}",
+            "go-\\textsc{fut}-2\\textsc{sg}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "\\textbf{{tugunan}} bar-\u00efa-\u014b-\\textbf{{\u00efy}}?",
+        "srcwordsbare": [
+            "{tugunan}",
+            "bar-\u00efa-\u014b-{\u00efy}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{tugunan</span>}",
+            "bar-\u00efa-\u014b-<span class=\"bf\">{\u00efy</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{tugunan}}",
+            "bar-\u00efa-\u014b-\\textbf{{\u00efy}}?"
+        ],
+        "trs": "What will you go with?\u2019 (\\citealt{LiYong-S\u014fng2011}: 62, 90)",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk--80546",
+        "categories": [
+            "q"
+        ],
+        "clength": 43,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "two=\\textsc{q}    four=\\textsc{q}    hour",
+        "imtwordsbare": [
+            "two=Q",
+            "four=Q",
+            "hour"
+        ],
+        "imtwordshtml": [
+            "two=<span class=\"sc\">q</span>",
+            "four=<span class=\"sc\">q</span>",
+            "hour"
+        ],
+        "imtwordstex": [
+            "two=\\textsc{q}",
+            "four=\\textsc{q}",
+            "hour"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "ikki=\\textbf{{duo}} \u00fcs=\\textbf{{duo}} \u010dahy?",
+        "srcwordsbare": [
+            "ikki={duo}",
+            "\u00fcs={duo}",
+            "\u010dahy?"
+        ],
+        "srcwordshtml": [
+            "ikki=<span class=\"bf\">{duo</span>}",
+            "\u00fcs=<span class=\"bf\">{duo</span>}",
+            "\u010dahy?"
+        ],
+        "srcwordstex": [
+            "ikki=\\textbf{{duo}}",
+            "\u00fcs=\\textbf{{duo}}",
+            "\u010dahy?"
+        ],
+        "trs": "for two or four hours?\u2019 \\citep[83]{Stachowski1993}\\z\\z",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--25928",
+        "categories": [
+            "dat",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 34,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  city-\\textsc{dat}  go-\\textsc{pst}-\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "city-DAT",
+            "go-PST-Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "city-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">pst</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "city-\\textsc{dat}",
+            "go-\\textsc{pst}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "v\u0103l  \u03c7ula-na  kay-n\u0103-\\textbf{{i}}?",
+        "srcwordsbare": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-{i}?"
+        ],
+        "srcwordshtml": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-<span class=\"bf\">{i</span>}?"
+        ],
+        "srcwordstex": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-\\textbf{{i}}?"
+        ],
+        "trs": "Did (s)he go to the city?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--60093",
+        "categories": [
+            "dat",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  city-\\textsc{dat}  go-\\textsc{pst}-\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "city-DAT",
+            "go-PST-Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "city-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">pst</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "city-\\textsc{dat}",
+            "go-\\textsc{pst}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "v\u0103l  \u03c7ula-na  kay-n\u0103-\\textbf{{im}}?",
+        "srcwordsbare": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-{im}?"
+        ],
+        "srcwordshtml": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-<span class=\"bf\">{im</span>}?"
+        ],
+        "srcwordstex": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-\\textbf{{im}}?"
+        ],
+        "trs": "Did (s)he really go to the city?",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk--40308",
+        "categories": [
+            "dat",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "3\\textsc{sg}  city-\\textsc{dat}  go-\\textsc{pst}-\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "city-DAT",
+            "go-PST-Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "city-<span class=\"sc\">dat</span>",
+            "go-<span class=\"sc\">pst</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "city-\\textsc{dat}",
+            "go-\\textsc{pst}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "v\u0103l  \u03c7ula-na  kay-n\u0103-\\textbf{{\u0161i}}?",
+        "srcwordsbare": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-{\u0161i}?"
+        ],
+        "srcwordshtml": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-<span class=\"bf\">{\u0161i</span>}?"
+        ],
+        "srcwordstex": [
+            "v\u0103l",
+            "\u03c7ula-na",
+            "kay-n\u0103-\\textbf{{\u0161i}}?"
+        ],
+        "trs": "You mean (s)he went to the city?\u2019 \\citep[450]{Clark1998}\\z\\z",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-148514",
+        "categories": [
+            "loc",
+            "pol",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 93,
+        "coordination": "or",
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg.pol}  where  live-\\textsc{prs}-2\\textsc{sg.pol}  city-\\textsc{loc}-\\textsc{q}  or village-\\textsc{loc}-\\textsc{q}",
+        "imtwordsbare": [
+            "2sg.pol",
+            "where",
+            "live-PRS-2sg.pol",
+            "city-LOC-Q",
+            "or",
+            "village-LOC-Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.pol</span>",
+            "where",
+            "live-<span class=\"sc\">prs</span>-2<span class=\"sc\">sg.pol</span>",
+            "city-<span class=\"sc\">loc</span>-<span class=\"sc\">q</span>",
+            "or",
+            "village-<span class=\"sc\">loc</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.pol}",
+            "where",
+            "live-\\textsc{prs}-2\\textsc{sg.pol}",
+            "city-\\textsc{loc}-\\textsc{q}",
+            "or",
+            "village-\\textsc{loc}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "esir \\textbf{{\u0103\u015bta}} pur\u0103n-a-t\u0103r,    xula-ra-\\textbf{{i}} (\\textbf{{e}}) yal-ta-\\textbf{{i}}?",
+        "srcwordsbare": [
+            "esir",
+            "{\u0103\u015bta}",
+            "pur\u0103n-a-t\u0103r,",
+            "xula-ra-{i}",
+            "({e})",
+            "yal-ta-{i}?"
+        ],
+        "srcwordshtml": [
+            "esir",
+            "<span class=\"bf\">{\u0103\u015bta</span>}",
+            "pur\u0103n-a-t\u0103r,",
+            "xula-ra-<span class=\"bf\">{i</span>}",
+            "(<span class=\"bf\">{e</span>})",
+            "yal-ta-<span class=\"bf\">{i</span>}?"
+        ],
+        "srcwordstex": [
+            "esir",
+            "\\textbf{{\u0103\u015bta}}",
+            "pur\u0103n-a-t\u0103r,",
+            "xula-ra-\\textbf{{i}}",
+            "(\\textbf{{e}})",
+            "yal-ta-\\textbf{{i}}?"
+        ],
+        "trs": "Where do you live, in the city or in the village?",
+        "wlength": 6
+    },
+    {
+        "ID": "05turk--89925",
+        "categories": [
+            "q"
+        ],
+        "clength": 36,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "museum  where-\\textsc{q}",
+        "imtwordsbare": [
+            "museum",
+            "where-Q"
+        ],
+        "imtwordshtml": [
+            "museum",
+            "where-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "museum",
+            "where-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "muzey \\textbf{{\u0103\u015bta}}-\\textbf{{\u0161i}}?",
+        "srcwordsbare": [
+            "muzey",
+            "{\u0103\u015bta}-{\u0161i}?"
+        ],
+        "srcwordshtml": [
+            "muzey",
+            "<span class=\"bf\">{\u0103\u015bta</span>}-<span class=\"bf\">{\u0161i</span>}?"
+        ],
+        "srcwordstex": [
+            "muzey",
+            "\\textbf{{\u0103\u015bta}}-\\textbf{{\u0161i}}?"
+        ],
+        "trs": "Where is the museum?",
+        "wlength": 2
+    },
+    {
+        "ID": "05turk-146753",
+        "categories": [
+            "pf",
+            "pol",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg.pol}  where  be.born-\\textsc{pf}",
+        "imtwordsbare": [
+            "2sg.pol",
+            "where",
+            "be.born-PF"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.pol</span>",
+            "where",
+            "be.born-<span class=\"sc\">pf</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.pol}",
+            "where",
+            "be.born-\\textsc{pf}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "esir \\textbf{{\u0103\u015bta}} \u015bural-n\u0103?",
+        "srcwordsbare": [
+            "esir",
+            "{\u0103\u015bta}",
+            "\u015bural-n\u0103?"
+        ],
+        "srcwordshtml": [
+            "esir",
+            "<span class=\"bf\">{\u0103\u015bta</span>}",
+            "\u015bural-n\u0103?"
+        ],
+        "srcwordstex": [
+            "esir",
+            "\\textbf{{\u0103\u015bta}}",
+            "\u015bural-n\u0103?"
+        ],
+        "trs": "Where have you been born?\u2019 (\\citealt{Landmann2014}: 34, 62)\\z\\z",
+        "wlength": 3
+    },
+    {
+        "ID": "05turk-498177",
+        "categories": [
+            "indef",
+            "progr",
+            "q",
+            "sg"
+        ],
+        "clength": 52,
+        "filename": "174/chapters/05turk.tex",
+        "imt": "2\\textsc{sg}  what  do-\\textsc{progr}.\\textsc{indef}-\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "what",
+            "do-PROGR.INDEF-Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "what",
+            "do-<span class=\"sc\">progr</span>.<span class=\"sc\">indef</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "what",
+            "do-\\textsc{progr}.\\textsc{indef}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05turk.tex",
+        "src": "sen \\textbf{{na\u014b}} \\textbf{{et}}{-b\u0259r-}\\textbf{{i}}?",
+        "srcwordsbare": [
+            "sen",
+            "{na\u014b}",
+            "{et}{-b\u0259r-}{i}?"
+        ],
+        "srcwordshtml": [
+            "sen",
+            "<span class=\"bf\">{na\u014b</span>}",
+            "<span class=\"bf\">{et</span>}{-b\u0259r-}<span class=\"bf\">{i</span>}?"
+        ],
+        "srcwordstex": [
+            "sen",
+            "\\textbf{{na\u014b}}",
+            "\\textbf{{et}}{-b\u0259r-}\\textbf{{i}}?"
+        ],
+        "trs": "What are you doing?\u2019 (\\citealt{LinLianyun1985}: 86)",
+        "wlength": 3
+    }
+]

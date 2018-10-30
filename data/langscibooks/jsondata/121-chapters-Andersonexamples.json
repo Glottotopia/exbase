@@ -1,0 +1,3306 @@
+[
+    {
+        "ID": "Anderson--42101",
+        "categories": [
+            "1",
+            "clsfr",
+            "pfv"
+        ],
+        "clength": 31,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.pfv}  drink \\textsc{clsfr}-water",
+        "imtwordsbare": [
+            "1{1.pfv}",
+            "drink",
+            "1{clsfr}-water"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.pfv</span>",
+            "drink",
+            "<span class=\"sc\">clsfr</span>-water"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.pfv}",
+            "drink",
+            "\\textsc{clsfr}-water"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\\textbf{n}        w\u00e1     \u00f9-d\u0268\u014b.",
+        "srcwordsbare": [
+            "n",
+            "w\u00e1",
+            "\u00f9-d\u0268\u014b."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">n</span>",
+            "w\u00e1",
+            "\u00f9-d\u0268\u014b."
+        ],
+        "srcwordstex": [
+            "\\textbf{n}",
+            "w\u00e1",
+            "\u00f9-d\u0268\u014b."
+        ],
+        "trs": "'I have drunk the water.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--18241",
+        "categories": [
+            "",
+            "clsfr",
+            "irr"
+        ],
+        "clength": 34,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1\\textsc{.irr}  drink  \\textsc{clsfr}-tea tomorrow",
+        "imtwordsbare": [
+            "1.irr",
+            "drink",
+            "CLSFR-tea",
+            "tomorrow"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">.irr</span>",
+            "drink",
+            "<span class=\"sc\">clsfr</span>-tea",
+            "tomorrow"
+        ],
+        "imtwordstex": [
+            "1\\textsc{.irr}",
+            "drink",
+            "\\textsc{clsfr}-tea",
+            "tomorrow"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\\textbf{mi}    w\u00e1  a-t\u00ed      ip\u00edn.",
+        "srcwordsbare": [
+            "mi",
+            "w\u00e1",
+            "a-t\u00ed",
+            "ip\u00edn."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">mi</span>",
+            "w\u00e1",
+            "a-t\u00ed",
+            "ip\u00edn."
+        ],
+        "srcwordstex": [
+            "\\textbf{mi}",
+            "w\u00e1",
+            "a-t\u00ed",
+            "ip\u00edn."
+        ],
+        "trs": "'I will drink tea tomorrow.",
+        "wlength": 4
+    },
+    {
+        "ID": "Anderson-918813",
+        "categories": [
+            "1",
+            "pst"
+        ],
+        "clength": 8,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.pst}  call",
+        "imtwordsbare": [
+            "1{1.pst}",
+            "call"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.pst</span>",
+            "call"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.pst}",
+            "call"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "na  zal.",
+        "srcwordsbare": [
+            "na",
+            "zal."
+        ],
+        "srcwordshtml": [
+            "na",
+            "zal."
+        ],
+        "srcwordstex": [
+            "na",
+            "zal."
+        ],
+        "trs": "I called.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--34817",
+        "categories": [
+            "npst"
+        ],
+        "clength": 47,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{npst}  come",
+        "imtwordsbare": [
+            "1.NPST",
+            "come"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">npst</span>",
+            "come"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{npst}",
+            "come"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma\\textsuperscript{2}  gyi\\textsuperscript{32}.",
+        "srcwordsbare": [
+            "ma2",
+            "gyi32."
+        ],
+        "srcwordshtml": [
+            "ma<span class=\"superscript\">2</span>",
+            "gyi<span class=\"superscript\">32</span>."
+        ],
+        "srcwordstex": [
+            "ma\\textsuperscript{2}",
+            "gyi\\textsuperscript{32}."
+        ],
+        "trs": "I am coming.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-860407",
+        "categories": [
+            "indef"
+        ],
+        "clength": 9,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{indef}  give",
+        "imtwordsbare": [
+            "1.INDEF",
+            "give"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">indef</span>",
+            "give"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{indef}",
+            "give"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma    bi.",
+        "srcwordsbare": [
+            "ma",
+            "bi."
+        ],
+        "srcwordshtml": [
+            "ma",
+            "bi."
+        ],
+        "srcwordstex": [
+            "ma",
+            "bi."
+        ],
+        "trs": "I am giving.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-422780",
+        "categories": [
+            "I",
+            "fut",
+            "neg"
+        ],
+        "clength": 17,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{I.fut.neg}  go  to-bush",
+        "imtwordsbare": [
+            "I.fut.neg",
+            "go",
+            "to-bush"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">I.fut.neg</span>",
+            "go",
+            "to-bush"
+        ],
+        "imtwordstex": [
+            "\\textsc{I.fut.neg}",
+            "go",
+            "to-bush"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e2n  h\u00e9  \u00f2-k\\'\u0254t.",
+        "srcwordsbare": [
+            "m\u00e2n",
+            "h\u00e9",
+            "\u00f2-k\\'\u0254t."
+        ],
+        "srcwordshtml": [
+            "m\u00e2n",
+            "h\u00e9",
+            "\u00f2-k\\'\u0254t."
+        ],
+        "srcwordstex": [
+            "m\u00e2n",
+            "h\u00e9",
+            "\u00f2-k\\'\u0254t."
+        ],
+        "trs": "I won't go to the bush.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--29258",
+        "categories": [
+            "3sg",
+            "neg[hab]"
+        ],
+        "clength": 38,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{3sg.neg[hab]}  \\ili{Mano}    language  speak",
+        "imtwordsbare": [
+            "3sg.neg[hab]",
+            "\\ili{Mano}",
+            "language",
+            "speak"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.neg[hab]</span>",
+            "\\ili{Mano}",
+            "language",
+            "speak"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.neg[hab]}",
+            "\\ili{Mano}",
+            "language",
+            "speak"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "l\\`{\u025b}\\'{\u025b}      m\u00e1\u00e1    w\u00e8    g\u00e8\\={e}.",
+        "srcwordsbare": [
+            "l\\`{\u025b}\\'{\u025b}",
+            "m\u00e1\u00e1",
+            "w\u00e8",
+            "g\u00e8\\={e}."
+        ],
+        "srcwordshtml": [
+            "l\\`{\u025b}\\'{\u025b}",
+            "m\u00e1\u00e1",
+            "w\u00e8",
+            "g\u00e8\\={e}."
+        ],
+        "srcwordstex": [
+            "l\\`{\u025b}\\'{\u025b}",
+            "m\u00e1\u00e1",
+            "w\u00e8",
+            "g\u00e8\\={e}."
+        ],
+        "trs": "S/he doesn't speak \\ili{Mano}.",
+        "wlength": 4
+    },
+    {
+        "ID": "Anderson--20065",
+        "categories": [
+            "npst"
+        ],
+        "clength": 13,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1>2.\\textsc{npst}  bite",
+        "imtwordsbare": [
+            "1>2.NPST",
+            "bite"
+        ],
+        "imtwordshtml": [
+            "1>2.<span class=\"sc\">npst</span>",
+            "bite"
+        ],
+        "imtwordstex": [
+            "1>2.\\textsc{npst}",
+            "bite"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "{\u03b2\\'\u0254}    f\u00e0.",
+        "srcwordsbare": [
+            "{\u03b2\\'\u0254}",
+            "f\u00e0."
+        ],
+        "srcwordshtml": [
+            "{\u03b2\\'\u0254}",
+            "f\u00e0."
+        ],
+        "srcwordstex": [
+            "{\u03b2\\'\u0254}",
+            "f\u00e0."
+        ],
+        "trs": "I bite you.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--76996",
+        "categories": [
+            "2sg>3sg",
+            "ipfv"
+        ],
+        "clength": 15,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{2sg>3sg.ipfv}    wash-\\textsc{ipfv}",
+        "imtwordsbare": [
+            "2sg>3sg.ipfv",
+            "wash-IPFV"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg>3sg.ipfv</span>",
+            "wash-<span class=\"sc\">ipfv</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg>3sg.ipfv}",
+            "wash-\\textsc{ipfv}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u0253e      zuru-o.",
+        "srcwordsbare": [
+            "\u0253e",
+            "zuru-o."
+        ],
+        "srcwordshtml": [
+            "\u0253e",
+            "zuru-o."
+        ],
+        "srcwordstex": [
+            "\u0253e",
+            "zuru-o."
+        ],
+        "trs": "[You] wash him/her/it.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--74348",
+        "categories": [
+            "2sg>3sg",
+            "ipfv",
+            "neg"
+        ],
+        "clength": 22,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{2sg>3sg.ipfv.neg}  wash-\\textsc{ipfv}  \\textsc{neg}",
+        "imtwordsbare": [
+            "2sg>3sg.ipfv.neg",
+            "wash-IPFV",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg>3sg.ipfv.neg</span>",
+            "wash-<span class=\"sc\">ipfv</span>",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg>3sg.ipfv.neg}",
+            "wash-\\textsc{ipfv}",
+            "\\textsc{neg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "yaa      z\u00f9r\u00f9-\u00f2    \u0257o.",
+        "srcwordsbare": [
+            "yaa",
+            "z\u00f9r\u00f9-\u00f2",
+            "\u0257o."
+        ],
+        "srcwordshtml": [
+            "yaa",
+            "z\u00f9r\u00f9-\u00f2",
+            "\u0257o."
+        ],
+        "srcwordstex": [
+            "yaa",
+            "z\u00f9r\u00f9-\u00f2",
+            "\u0257o."
+        ],
+        "trs": "[You] don't wash him/her/it.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-445283",
+        "categories": [
+            "I",
+            "prf"
+        ],
+        "clength": 19,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{I.prf}  go  Gindiri",
+        "imtwordsbare": [
+            "I.prf",
+            "go",
+            "Gindiri"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">I.prf</span>",
+            "go",
+            "Gindiri"
+        ],
+        "imtwordstex": [
+            "\\textsc{I.prf}",
+            "go",
+            "Gindiri"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "n\u00e1\u00e1  soo  Gindir\u00ed\u014b.",
+        "srcwordsbare": [
+            "n\u00e1\u00e1",
+            "soo",
+            "Gindir\u00ed\u014b."
+        ],
+        "srcwordshtml": [
+            "n\u00e1\u00e1",
+            "soo",
+            "Gindir\u00ed\u014b."
+        ],
+        "srcwordstex": [
+            "n\u00e1\u00e1",
+            "soo",
+            "Gindir\u00ed\u014b."
+        ],
+        "trs": "I went to Gindiri.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-652146",
+        "categories": [
+            "I",
+            "ipfv",
+            "oblq"
+        ],
+        "clength": 19,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{I.ipfv}  go  farm.your.\\textsc{oblq}",
+        "imtwordsbare": [
+            "I.ipfv",
+            "go",
+            "farm.your.OBLQ"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">I.ipfv</span>",
+            "go",
+            "farm.your.<span class=\"sc\">oblq</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{I.ipfv}",
+            "go",
+            "farm.your.\\textsc{oblq}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u00edn  soo  dir\u00e1mm\u00e9ka.",
+        "srcwordsbare": [
+            "\u00edn",
+            "soo",
+            "dir\u00e1mm\u00e9ka."
+        ],
+        "srcwordshtml": [
+            "\u00edn",
+            "soo",
+            "dir\u00e1mm\u00e9ka."
+        ],
+        "srcwordstex": [
+            "\u00edn",
+            "soo",
+            "dir\u00e1mm\u00e9ka."
+        ],
+        "trs": "I will go to your farm.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--78503",
+        "categories": [
+            "",
+            "fut",
+            "irr"
+        ],
+        "clength": 36,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "if  you\\textsc{.irr}  beat  dog    s/he\\textsc{.fut}  die",
+        "imtwordsbare": [
+            "if",
+            "you.irr",
+            "beat",
+            "dog",
+            "s/he.fut",
+            "die"
+        ],
+        "imtwordshtml": [
+            "if",
+            "you<span class=\"sc\">.irr</span>",
+            "beat",
+            "dog",
+            "s/he<span class=\"sc\">.fut</span>",
+            "die"
+        ],
+        "imtwordstex": [
+            "if",
+            "you\\textsc{.irr}",
+            "beat",
+            "dog",
+            "s/he\\textsc{.fut}",
+            "die"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u0259n  ka    \u0257uu  kar\u00e1\u014b    t\u0283\u00ed    m\u0259\u0283i.",
+        "srcwordsbare": [
+            "\u0259n",
+            "ka",
+            "\u0257uu",
+            "kar\u00e1\u014b",
+            "t\u0283\u00ed",
+            "m\u0259\u0283i."
+        ],
+        "srcwordshtml": [
+            "\u0259n",
+            "ka",
+            "\u0257uu",
+            "kar\u00e1\u014b",
+            "t\u0283\u00ed",
+            "m\u0259\u0283i."
+        ],
+        "srcwordstex": [
+            "\u0259n",
+            "ka",
+            "\u0257uu",
+            "kar\u00e1\u014b",
+            "t\u0283\u00ed",
+            "m\u0259\u0283i."
+        ],
+        "trs": "If you beat the dog, it will die.",
+        "wlength": 6
+    },
+    {
+        "ID": "Anderson-522851",
+        "categories": [
+            "sbjn"
+        ],
+        "clength": 11,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{sbjn}\\textsubscript{<+H>}  sell",
+        "imtwordsbare": [
+            "1.SBJN<+H>",
+            "sell"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">sbjn</span><span class=\"subscript\"><+H></span>",
+            "sell"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{sbjn}\\textsubscript{<+H>}",
+            "sell"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u026a    d\u0254l\u026a.",
+        "srcwordsbare": [
+            "m\u026a",
+            "d\u0254l\u026a."
+        ],
+        "srcwordshtml": [
+            "m\u026a",
+            "d\u0254l\u026a."
+        ],
+        "srcwordstex": [
+            "m\u026a",
+            "d\u0254l\u026a."
+        ],
+        "trs": "'May I sell.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-203723",
+        "categories": [
+            "",
+            "prf"
+        ],
+        "clength": 12,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "you\\textsc{.prf}  eat:\\textsc{prf}",
+        "imtwordsbare": [
+            "you.prf",
+            "eat:PRF"
+        ],
+        "imtwordshtml": [
+            "you<span class=\"sc\">.prf</span>",
+            "eat:<span class=\"sc\">prf</span>"
+        ],
+        "imtwordstex": [
+            "you\\textsc{.prf}",
+            "eat:\\textsc{prf}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\\'{n}    j\u00e1.",
+        "srcwordsbare": [
+            "\\'{n}",
+            "j\u00e1."
+        ],
+        "srcwordshtml": [
+            "\\'{n}",
+            "j\u00e1."
+        ],
+        "srcwordstex": [
+            "\\'{n}",
+            "j\u00e1."
+        ],
+        "trs": "You have eaten.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-881139",
+        "categories": [
+            "asp",
+            "prs"
+        ],
+        "clength": 45,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "they.\\textsc{prs}    ask-\\textsc{asp}",
+        "imtwordsbare": [
+            "they.PRS",
+            "ask-ASP"
+        ],
+        "imtwordshtml": [
+            "they.<span class=\"sc\">prs</span>",
+            "ask-<span class=\"sc\">asp</span>"
+        ],
+        "imtwordstex": [
+            "they.\\textsc{prs}",
+            "ask-\\textsc{asp}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "mb\u00e1       pi\\textsuperscript{{\\textbar}}ne-n.",
+        "srcwordsbare": [
+            "mb\u00e1",
+            "pi{|}ne-n."
+        ],
+        "srcwordshtml": [
+            "mb\u00e1",
+            "pi<span class=\"superscript\">{|</span>}ne-n."
+        ],
+        "srcwordstex": [
+            "mb\u00e1",
+            "pi\\textsuperscript{{\\textbar}}ne-n."
+        ],
+        "trs": "They are asking.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-711093",
+        "categories": [
+            "prf",
+            "rls"
+        ],
+        "clength": 10,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I.\\textsc{rls}  come:\\textsc{prf}",
+        "imtwordsbare": [
+            "I.RLS",
+            "come:PRF"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">rls</span>",
+            "come:<span class=\"sc\">prf</span>"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{rls}",
+            "come:\\textsc{prf}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "mi    ac\u025b.",
+        "srcwordsbare": [
+            "mi",
+            "ac\u025b."
+        ],
+        "srcwordshtml": [
+            "mi",
+            "ac\u025b."
+        ],
+        "srcwordstex": [
+            "mi",
+            "ac\u025b."
+        ],
+        "trs": "I have come.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-322396",
+        "categories": [
+            "npst",
+            "prog"
+        ],
+        "clength": 13,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I.\\textsc{npst}  drink-\\textsc{prog}",
+        "imtwordsbare": [
+            "I.NPST",
+            "drink-PROG"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">npst</span>",
+            "drink-<span class=\"sc\">prog</span>"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{npst}",
+            "drink-\\textsc{prog}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\\`\u0259n  n\u00f2-l\u025b.",
+        "srcwordsbare": [
+            "m\\`\u0259n",
+            "n\u00f2-l\u025b."
+        ],
+        "srcwordshtml": [
+            "m\\`\u0259n",
+            "n\u00f2-l\u025b."
+        ],
+        "srcwordstex": [
+            "m\\`\u0259n",
+            "n\u00f2-l\u025b."
+        ],
+        "trs": "I am drinking.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-361820",
+        "categories": [
+            "npst",
+            "prog",
+            "rdpl"
+        ],
+        "clength": 15,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "you.\\textsc{npst}  \\textsc{rdpl}-eat-\\textsc{prog}",
+        "imtwordsbare": [
+            "you.NPST",
+            "RDPL-eat-PROG"
+        ],
+        "imtwordshtml": [
+            "you.<span class=\"sc\">npst</span>",
+            "<span class=\"sc\">rdpl</span>-eat-<span class=\"sc\">prog</span>"
+        ],
+        "imtwordstex": [
+            "you.\\textsc{npst}",
+            "\\textsc{rdpl}-eat-\\textsc{prog}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "mon    j\u00e0-j\u00e0-l.",
+        "srcwordsbare": [
+            "mon",
+            "j\u00e0-j\u00e0-l."
+        ],
+        "srcwordshtml": [
+            "mon",
+            "j\u00e0-j\u00e0-l."
+        ],
+        "srcwordstex": [
+            "mon",
+            "j\u00e0-j\u00e0-l."
+        ],
+        "trs": "You are eating.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--53209",
+        "categories": [
+            "",
+            "ipfv",
+            "rls"
+        ],
+        "clength": 10,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "he\\textsc{.rls}     enter.\\textsc{ipfv}",
+        "imtwordsbare": [
+            "he.rls",
+            "enter.IPFV"
+        ],
+        "imtwordshtml": [
+            "he<span class=\"sc\">.rls</span>",
+            "enter.<span class=\"sc\">ipfv</span>"
+        ],
+        "imtwordstex": [
+            "he\\textsc{.rls}",
+            "enter.\\textsc{ipfv}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u0294\u00e0\u0330    r\u00e9.",
+        "srcwordsbare": [
+            "\u0294\u00e0\u0330",
+            "r\u00e9."
+        ],
+        "srcwordshtml": [
+            "\u0294\u00e0\u0330",
+            "r\u00e9."
+        ],
+        "srcwordstex": [
+            "\u0294\u00e0\u0330",
+            "r\u00e9."
+        ],
+        "trs": "He enters.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-160083",
+        "categories": [
+            "",
+            "irr",
+            "pfv"
+        ],
+        "clength": 7,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "he\\textsc{.irr}  enter\\textsc{.pfv}",
+        "imtwordsbare": [
+            "he.irr",
+            "enter.pfv"
+        ],
+        "imtwordshtml": [
+            "he<span class=\"sc\">.irr</span>",
+            "enter<span class=\"sc\">.pfv</span>"
+        ],
+        "imtwordstex": [
+            "he\\textsc{.irr}",
+            "enter\\textsc{.pfv}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e1  r\u00e8.",
+        "srcwordsbare": [
+            "m\u00e1",
+            "r\u00e8."
+        ],
+        "srcwordshtml": [
+            "m\u00e1",
+            "r\u00e8."
+        ],
+        "srcwordstex": [
+            "m\u00e1",
+            "r\u00e8."
+        ],
+        "trs": "He will enter.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-337655",
+        "categories": [
+            "fut",
+            "mod"
+        ],
+        "clength": 11,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I.\\textsc{fut}  come:\\textsc{mod}",
+        "imtwordsbare": [
+            "I.FUT",
+            "come:MOD"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">fut</span>",
+            "come:<span class=\"sc\">mod</span>"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{fut}",
+            "come:\\textsc{mod}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma[y]  ay\u025b.",
+        "srcwordsbare": [
+            "ma[y]",
+            "ay\u025b."
+        ],
+        "srcwordshtml": [
+            "ma[y]",
+            "ay\u025b."
+        ],
+        "srcwordstex": [
+            "ma[y]",
+            "ay\u025b."
+        ],
+        "trs": "I will come.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--83995",
+        "categories": [
+            "cond",
+            "irr"
+        ],
+        "clength": 18,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I.\\textsc{irr}  go:\\textsc{cond}",
+        "imtwordsbare": [
+            "I.IRR",
+            "go:COND"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">irr</span>",
+            "go:<span class=\"sc\">cond</span>"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{irr}",
+            "go:\\textsc{cond}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\\'{\u025b}    he\\'{\u025b}.",
+        "srcwordsbare": [
+            "m\\'{\u025b}",
+            "he\\'{\u025b}."
+        ],
+        "srcwordshtml": [
+            "m\\'{\u025b}",
+            "he\\'{\u025b}."
+        ],
+        "srcwordstex": [
+            "m\\'{\u025b}",
+            "he\\'{\u025b}."
+        ],
+        "trs": "If I go...",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-347033",
+        "categories": [
+            "aux",
+            "neg"
+        ],
+        "clength": 26,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I  meat    \\textsc{neg}-eat  1-\\textsc{aux}",
+        "imtwordsbare": [
+            "I",
+            "meat",
+            "NEG-eat",
+            "1-AUX"
+        ],
+        "imtwordshtml": [
+            "I",
+            "meat",
+            "<span class=\"sc\">neg</span>-eat",
+            "1-<span class=\"sc\">aux</span>"
+        ],
+        "imtwordstex": [
+            "I",
+            "meat",
+            "\\textsc{neg}-eat",
+            "1-\\textsc{aux}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "polarity": "negative",
+        "src": "\u014bi   fas    k-ey\u025b    y-\u025bn.",
+        "srcwordsbare": [
+            "\u014bi",
+            "fas",
+            "k-ey\u025b",
+            "y-\u025bn."
+        ],
+        "srcwordshtml": [
+            "\u014bi",
+            "fas",
+            "k-ey\u025b",
+            "y-\u025bn."
+        ],
+        "srcwordstex": [
+            "\u014bi",
+            "fas",
+            "k-ey\u025b",
+            "y-\u025bn."
+        ],
+        "trs": "I am not eating meat.",
+        "wlength": 4
+    },
+    {
+        "ID": "Anderson-219663",
+        "categories": [
+            "",
+            "fut",
+            "neg"
+        ],
+        "clength": 61,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "he\\textsc{.fut}  come-\\textsc{neg}",
+        "imtwordsbare": [
+            "he.fut",
+            "come-NEG"
+        ],
+        "imtwordshtml": [
+            "he<span class=\"sc\">.fut</span>",
+            "come-<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "he\\textsc{.fut}",
+            "come-\\textsc{neg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "polarity": "negative",
+        "src": "e\\textsuperscript{{\\textbar}}    b\u00e1\\textsuperscript{!}-\\'{\u014b}.",
+        "srcwordsbare": [
+            "e{|}",
+            "b\u00e1!-\\'{\u014b}."
+        ],
+        "srcwordshtml": [
+            "e<span class=\"superscript\">{|</span>}",
+            "b\u00e1<span class=\"superscript\">!</span>-\\'{\u014b}."
+        ],
+        "srcwordstex": [
+            "e\\textsuperscript{{\\textbar}}",
+            "b\u00e1\\textsuperscript{!}-\\'{\u014b}."
+        ],
+        "trs": "He will not come.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-208182",
+        "categories": [
+            "fut"
+        ],
+        "clength": 25,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{fut}-1    chew-2",
+        "imtwordsbare": [
+            "FUT-1",
+            "chew-2"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">fut</span>-1",
+            "chew-2"
+        ],
+        "imtwordstex": [
+            "\\textsc{fut}-1",
+            "chew-2"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "w\u00e1-n\\`{\u0259}    mp\\`{\u0259}r-k\u00f3.",
+        "srcwordsbare": [
+            "w\u00e1-n\\`{\u0259}",
+            "mp\\`{\u0259}r-k\u00f3."
+        ],
+        "srcwordshtml": [
+            "w\u00e1-n\\`{\u0259}",
+            "mp\\`{\u0259}r-k\u00f3."
+        ],
+        "srcwordstex": [
+            "w\u00e1-n\\`{\u0259}",
+            "mp\\`{\u0259}r-k\u00f3."
+        ],
+        "trs": "I will eat you.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--12509",
+        "categories": [
+            "2",
+            "acc",
+            "aor",
+            "cop",
+            "inj"
+        ],
+        "clength": 45,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "Garba  \\textsc{cop}  cut  meat  \\textsc{acc}  \\textsc{inj}  \\textsc{2:aor}  say-1",
+        "imtwordsbare": [
+            "Garba",
+            "COP",
+            "cut",
+            "meat",
+            "ACC",
+            "INJ",
+            "2:aor",
+            "say-1"
+        ],
+        "imtwordshtml": [
+            "Garba",
+            "<span class=\"sc\">cop</span>",
+            "cut",
+            "meat",
+            "<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">inj</span>",
+            "<span class=\"sc\">2:aor</span>",
+            "say-1"
+        ],
+        "imtwordstex": [
+            "Garba",
+            "\\textsc{cop}",
+            "cut",
+            "meat",
+            "\\textsc{acc}",
+            "\\textsc{inj}",
+            "\\textsc{2:aor}",
+            "say-1"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "G\u01cerb\u00e0   k\u0259n  nd\u0292a\u014b  slo\u02d0  w\u00fa  \u0257e  k\u0259   f\u01d4\u02d0-m.",
+        "srcwordsbare": [
+            "G\u01cerb\u00e0",
+            "k\u0259n",
+            "nd\u0292a\u014b",
+            "slo\u02d0",
+            "w\u00fa",
+            "\u0257e",
+            "k\u0259",
+            "f\u01d4\u02d0-m."
+        ],
+        "srcwordshtml": [
+            "G\u01cerb\u00e0",
+            "k\u0259n",
+            "nd\u0292a\u014b",
+            "slo\u02d0",
+            "w\u00fa",
+            "\u0257e",
+            "k\u0259",
+            "f\u01d4\u02d0-m."
+        ],
+        "srcwordstex": [
+            "G\u01cerb\u00e0",
+            "k\u0259n",
+            "nd\u0292a\u014b",
+            "slo\u02d0",
+            "w\u00fa",
+            "\u0257e",
+            "k\u0259",
+            "f\u01d4\u02d0-m."
+        ],
+        "trs": "If Garba slaughters a beast, tell me",
+        "wlength": 8
+    },
+    {
+        "ID": "Anderson--39262",
+        "categories": [
+            "",
+            "3",
+            "io",
+            "prog"
+        ],
+        "clength": 19,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{prog.3}  prepare-2\\textsc{.io}  food",
+        "imtwordsbare": [
+            "prog.3",
+            "prepare-2.io",
+            "food"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">prog.3</span>",
+            "prepare-2<span class=\"sc\">.io</span>",
+            "food"
+        ],
+        "imtwordstex": [
+            "\\textsc{prog.3}",
+            "prepare-2\\textsc{.io}",
+            "food"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "f\u00e1    t\u00e1-ka    \u0257\u00e1f.",
+        "srcwordsbare": [
+            "f\u00e1",
+            "t\u00e1-ka",
+            "\u0257\u00e1f."
+        ],
+        "srcwordshtml": [
+            "f\u00e1",
+            "t\u00e1-ka",
+            "\u0257\u00e1f."
+        ],
+        "srcwordstex": [
+            "f\u00e1",
+            "t\u00e1-ka",
+            "\u0257\u00e1f."
+        ],
+        "trs": "She is preparing you food.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--13475",
+        "categories": [
+            "def",
+            "inf"
+        ],
+        "clength": 12,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1:\\textsc{def}  \\textsc{inf}-eat",
+        "imtwordsbare": [
+            "1:DEF",
+            "INF-eat"
+        ],
+        "imtwordshtml": [
+            "1:<span class=\"sc\">def</span>",
+            "<span class=\"sc\">inf</span>-eat"
+        ],
+        "imtwordstex": [
+            "1:\\textsc{def}",
+            "\\textsc{inf}-eat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma    k-usa.",
+        "srcwordsbare": [
+            "ma",
+            "k-usa."
+        ],
+        "srcwordshtml": [
+            "ma",
+            "k-usa."
+        ],
+        "srcwordstex": [
+            "ma",
+            "k-usa."
+        ],
+        "trs": "I am eating.', `I eat (\\textsc{hab}).",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-643992",
+        "categories": [
+            "3sg",
+            "inf",
+            "prs"
+        ],
+        "clength": 24,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "3.\\textsc{prs}  \\textsc{inf}:go  to-\\textsc{3sg}",
+        "imtwordsbare": [
+            "3.PRS",
+            "INF:go",
+            "to-3SG"
+        ],
+        "imtwordshtml": [
+            "3.<span class=\"sc\">prs</span>",
+            "<span class=\"sc\">inf</span>:go",
+            "to-<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "3.\\textsc{prs}",
+            "\\textsc{inf}:go",
+            "to-\\textsc{3sg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "y\\'{\u0254}    \u0254c\u0254ba  n\u00e1-\u00e1y\u00e1.",
+        "srcwordsbare": [
+            "y\\'{\u0254}",
+            "\u0254c\u0254ba",
+            "n\u00e1-\u00e1y\u00e1."
+        ],
+        "srcwordshtml": [
+            "y\\'{\u0254}",
+            "\u0254c\u0254ba",
+            "n\u00e1-\u00e1y\u00e1."
+        ],
+        "srcwordstex": [
+            "y\\'{\u0254}",
+            "\u0254c\u0254ba",
+            "n\u00e1-\u00e1y\u00e1."
+        ],
+        "trs": "He is going to him (i.e., his home).",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--56580",
+        "categories": [
+            "3pl",
+            "cont",
+            "vn"
+        ],
+        "clength": 15,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{3pl.cont}  come-\\textsc{vn}",
+        "imtwordsbare": [
+            "3pl.cont",
+            "come-VN"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl.cont</span>",
+            "come-<span class=\"sc\">vn</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl.cont}",
+            "come-\\textsc{vn}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "taa    t\u0283\u00e9t-ti.",
+        "srcwordsbare": [
+            "taa",
+            "t\u0283\u00e9t-ti."
+        ],
+        "srcwordshtml": [
+            "taa",
+            "t\u0283\u00e9t-ti."
+        ],
+        "srcwordstex": [
+            "taa",
+            "t\u0283\u00e9t-ti."
+        ],
+        "trs": "They are coming.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-578031",
+        "categories": [
+            "dep",
+            "irr",
+            "neg"
+        ],
+        "clength": 27,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I.\\textsc{irr}  \\textsc{dep}-go   \\textsc{neg}",
+        "imtwordsbare": [
+            "I.IRR",
+            "DEP-go",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">irr</span>",
+            "<span class=\"sc\">dep</span>-go",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{irr}",
+            "\\textsc{dep}-go",
+            "\\textsc{neg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "polarity": "negative",
+        "src": "m\\'{\u025b}     \\`{\u0259}m-h\u00e0     \u00e1.",
+        "srcwordsbare": [
+            "m\\'{\u025b}",
+            "\\`{\u0259}m-h\u00e0",
+            "\u00e1."
+        ],
+        "srcwordshtml": [
+            "m\\'{\u025b}",
+            "\\`{\u0259}m-h\u00e0",
+            "\u00e1."
+        ],
+        "srcwordstex": [
+            "m\\'{\u025b}",
+            "\\`{\u0259}m-h\u00e0",
+            "\u00e1."
+        ],
+        "trs": "I am not going.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--25580",
+        "categories": [
+            "dep",
+            "prf",
+            "rls"
+        ],
+        "clength": 12,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "he.\\textsc{rls}  enter.\\textsc{prf}-\\textsc{dep}",
+        "imtwordsbare": [
+            "he.RLS",
+            "enter.PRF-DEP"
+        ],
+        "imtwordshtml": [
+            "he.<span class=\"sc\">rls</span>",
+            "enter.<span class=\"sc\">prf</span>-<span class=\"sc\">dep</span>"
+        ],
+        "imtwordstex": [
+            "he.\\textsc{rls}",
+            "enter.\\textsc{prf}-\\textsc{dep}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u0294\u00e0\u0330    r\u00e8-\u00e1.",
+        "srcwordsbare": [
+            "\u0294\u00e0\u0330",
+            "r\u00e8-\u00e1."
+        ],
+        "srcwordshtml": [
+            "\u0294\u00e0\u0330",
+            "r\u00e8-\u00e1."
+        ],
+        "srcwordstex": [
+            "\u0294\u00e0\u0330",
+            "r\u00e8-\u00e1."
+        ],
+        "trs": "He has entered.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-813119",
+        "categories": [
+            "prf"
+        ],
+        "clength": 8,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I.\\textsc{prf}  come",
+        "imtwordsbare": [
+            "I.PRF",
+            "come"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">prf</span>",
+            "come"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{prf}",
+            "come"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e0\u00e1  b\u00e0.",
+        "srcwordsbare": [
+            "m\u00e0\u00e1",
+            "b\u00e0."
+        ],
+        "srcwordshtml": [
+            "m\u00e0\u00e1",
+            "b\u00e0."
+        ],
+        "srcwordstex": [
+            "m\u00e0\u00e1",
+            "b\u00e0."
+        ],
+        "trs": "I have come.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--42705",
+        "categories": [
+            "1pst",
+            "prf"
+        ],
+        "clength": 6,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1pst}:\\textsc{prf}-come",
+        "imtwordsbare": [
+            "1PST:PRF-come"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1pst</span>:<span class=\"sc\">prf</span>-come"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pst}:\\textsc{prf}-come"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e0-ba.",
+        "srcwordsbare": [
+            "m\u00e0-ba."
+        ],
+        "srcwordshtml": [
+            "m\u00e0-ba."
+        ],
+        "srcwordstex": [
+            "m\u00e0-ba."
+        ],
+        "trs": "I have come.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson--72597",
+        "categories": [
+            "compl"
+        ],
+        "clength": 10,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{compl}  come",
+        "imtwordsbare": [
+            "1.COMPL",
+            "come"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">compl</span>",
+            "come"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{compl}",
+            "come"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u014b\u00e2\u02d0    j\u00ec.",
+        "srcwordsbare": [
+            "\u014b\u00e2\u02d0",
+            "j\u00ec."
+        ],
+        "srcwordshtml": [
+            "\u014b\u00e2\u02d0",
+            "j\u00ec."
+        ],
+        "srcwordstex": [
+            "\u014b\u00e2\u02d0",
+            "j\u00ec."
+        ],
+        "trs": "I have come.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--91517",
+        "categories": [
+            "2",
+            "prf"
+        ],
+        "clength": 12,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{2.prf}  drink  water",
+        "imtwordsbare": [
+            "2.prf",
+            "drink",
+            "water"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2.prf</span>",
+            "drink",
+            "water"
+        ],
+        "imtwordstex": [
+            "\\textsc{2.prf}",
+            "drink",
+            "water"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "k\u00e0  t\u00e0  \u0192\u00e0m.",
+        "srcwordsbare": [
+            "k\u00e0",
+            "t\u00e0",
+            "\u0192\u00e0m."
+        ],
+        "srcwordshtml": [
+            "k\u00e0",
+            "t\u00e0",
+            "\u0192\u00e0m."
+        ],
+        "srcwordstex": [
+            "k\u00e0",
+            "t\u00e0",
+            "\u0192\u00e0m."
+        ],
+        "trs": "You have drunk water.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-565587",
+        "categories": [
+            "fut"
+        ],
+        "clength": 10,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{fut}.1-go",
+        "imtwordsbare": [
+            "FUT.1-go"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">fut</span>.1-go"
+        ],
+        "imtwordstex": [
+            "\\textsc{fut}.1-go"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\\`{\u0259}\u014b-l\u025b.",
+        "srcwordsbare": [
+            "\\`{\u0259}\u014b-l\u025b."
+        ],
+        "srcwordshtml": [
+            "\\`{\u0259}\u014b-l\u025b."
+        ],
+        "srcwordstex": [
+            "\\`{\u0259}\u014b-l\u025b."
+        ],
+        "trs": "I will go.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson-873429",
+        "categories": [
+            "ant",
+            "pfv/ant"
+        ],
+        "clength": 15,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1\\textsc{pfv/ant}-throw:\\textsc{ant}",
+        "imtwordsbare": [
+            "1PFV/ANT-throw:ANT"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">pfv/ant</span>-throw:<span class=\"sc\">ant</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{pfv/ant}-throw:\\textsc{ant}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "n\\`{\u0259}-zl\u00e0mb\u00e1l.",
+        "srcwordsbare": [
+            "n\\`{\u0259}-zl\u00e0mb\u00e1l."
+        ],
+        "srcwordshtml": [
+            "n\\`{\u0259}-zl\u00e0mb\u00e1l."
+        ],
+        "srcwordstex": [
+            "n\\`{\u0259}-zl\u00e0mb\u00e1l."
+        ],
+        "trs": "I threw.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson-722489",
+        "categories": [
+            "1",
+            "ipfv"
+        ],
+        "clength": 24,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.ipfv}  throw",
+        "imtwordsbare": [
+            "1{1.ipfv}",
+            "throw"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.ipfv</span>",
+            "throw"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.ipfv}",
+            "throw"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "n\\={i}  zl\\={a}mb\\={a}l.",
+        "srcwordsbare": [
+            "n\\={i}",
+            "zl\\={a}mb\\={a}l."
+        ],
+        "srcwordshtml": [
+            "n\\={i}",
+            "zl\\={a}mb\\={a}l."
+        ],
+        "srcwordstex": [
+            "n\\={i}",
+            "zl\\={a}mb\\={a}l."
+        ],
+        "trs": "I am throwing.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-415889",
+        "categories": [
+            "1",
+            "pst"
+        ],
+        "clength": 10,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.pst}    call",
+        "imtwordsbare": [
+            "1{1.pst}",
+            "call"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.pst</span>",
+            "call"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.pst}",
+            "call"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "na    zal.",
+        "srcwordsbare": [
+            "na",
+            "zal."
+        ],
+        "srcwordshtml": [
+            "na",
+            "zal."
+        ],
+        "srcwordstex": [
+            "na",
+            "zal."
+        ],
+        "trs": "I called.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--76030",
+        "categories": [
+            "",
+            "pst"
+        ],
+        "clength": 6,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "3\\textsc{.pst}-call",
+        "imtwordsbare": [
+            "3.pst-call"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">.pst</span>-call"
+        ],
+        "imtwordstex": [
+            "3\\textsc{.pst}-call"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "a-zal.",
+        "srcwordsbare": [
+            "a-zal."
+        ],
+        "srcwordshtml": [
+            "a-zal."
+        ],
+        "srcwordstex": [
+            "a-zal."
+        ],
+        "trs": "He called.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson-867705",
+        "categories": [
+            "",
+            "3",
+            "prs",
+            "vn"
+        ],
+        "clength": 17,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{3.prs}-be  at  sit\\textsc{-vn}",
+        "imtwordsbare": [
+            "3.prs-be",
+            "at",
+            "sit-vn"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3.prs</span>-be",
+            "at",
+            "sit<span class=\"sc\">-vn</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3.prs}-be",
+            "at",
+            "sit\\textsc{-vn}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "a-kol  a  jai-ni.",
+        "srcwordsbare": [
+            "a-kol",
+            "a",
+            "jai-ni."
+        ],
+        "srcwordshtml": [
+            "a-kol",
+            "a",
+            "jai-ni."
+        ],
+        "srcwordstex": [
+            "a-kol",
+            "a",
+            "jai-ni."
+        ],
+        "trs": "He is/was sitting.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-804225",
+        "categories": [
+            "3sg",
+            "indef",
+            "npst"
+        ],
+        "clength": 21,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{3sg.indef}  cassava  \\textsc{npst}:eat",
+        "imtwordsbare": [
+            "3sg.indef",
+            "cassava",
+            "NPST:eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.indef</span>",
+            "cassava",
+            "<span class=\"sc\">npst</span>:eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.indef}",
+            "cassava",
+            "\\textsc{npst}:eat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "k\u00e1    gb\u00e1nd\u00e0  \\`{}\u0272a.",
+        "srcwordsbare": [
+            "k\u00e1",
+            "gb\u00e1nd\u00e0",
+            "\\`{}\u0272a."
+        ],
+        "srcwordshtml": [
+            "k\u00e1",
+            "gb\u00e1nd\u00e0",
+            "\\`{}\u0272a."
+        ],
+        "srcwordstex": [
+            "k\u00e1",
+            "gb\u00e1nd\u00e0",
+            "\\`{}\u0272a."
+        ],
+        "trs": "He eats/is eating cassava.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--54638",
+        "categories": [
+            "indef",
+            "npst",
+            "obj",
+            "sg"
+        ],
+        "clength": 16,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "3\\textsc{sg.indef}  \\textsc{npst}:eat-\\textsc{obj}",
+        "imtwordsbare": [
+            "3sg.indef",
+            "NPST:eat-OBJ"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg.indef</span>",
+            "<span class=\"sc\">npst</span>:eat-<span class=\"sc\">obj</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg.indef}",
+            "\\textsc{npst}:eat-\\textsc{obj}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "k\u0254    \\`{}\u0272a-\u0294a.",
+        "srcwordsbare": [
+            "k\u0254",
+            "\\`{}\u0272a-\u0294a."
+        ],
+        "srcwordshtml": [
+            "k\u0254",
+            "\\`{}\u0272a-\u0294a."
+        ],
+        "srcwordstex": [
+            "k\u0254",
+            "\\`{}\u0272a-\u0294a."
+        ],
+        "trs": "He eats/is eating it.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--44228",
+        "categories": [
+            "adv",
+            "fut",
+            "inf",
+            "q"
+        ],
+        "clength": 31,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "2.\\textsc{fut}   \\textsc{inf}-eat thing   \\textsc{adv}   \\textsc{q}",
+        "imtwordsbare": [
+            "2.FUT",
+            "INF-eat",
+            "thing",
+            "ADV",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "2.<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">inf</span>-eat",
+            "thing",
+            "<span class=\"sc\">adv</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2.\\textsc{fut}",
+            "\\textsc{inf}-eat",
+            "thing",
+            "\\textsc{adv}",
+            "\\textsc{q}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u00e1   k-\u00f9s\\={a}    n\u00e9   ng\u00e0   u\u00e0.",
+        "srcwordsbare": [
+            "\u00e1",
+            "k-\u00f9s\\={a}",
+            "n\u00e9",
+            "ng\u00e0",
+            "u\u00e0."
+        ],
+        "srcwordshtml": [
+            "\u00e1",
+            "k-\u00f9s\\={a}",
+            "n\u00e9",
+            "ng\u00e0",
+            "u\u00e0."
+        ],
+        "srcwordstex": [
+            "\u00e1",
+            "k-\u00f9s\\={a}",
+            "n\u00e9",
+            "ng\u00e0",
+            "u\u00e0."
+        ],
+        "trs": "You are already going to eat?",
+        "wlength": 5
+    },
+    {
+        "ID": "Anderson-719379",
+        "categories": [
+            "fut",
+            "inf",
+            "loc",
+            "neg"
+        ],
+        "clength": 27,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1:\\textsc{fut}  \\textsc{inf}-go  place  \\textsc{loc}  \\textsc{neg}",
+        "imtwordsbare": [
+            "1:FUT",
+            "INF-go",
+            "place",
+            "LOC",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "1:<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">inf</span>-go",
+            "place",
+            "<span class=\"sc\">loc</span>",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "1:\\textsc{fut}",
+            "\\textsc{inf}-go",
+            "place",
+            "\\textsc{loc}",
+            "\\textsc{neg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e1  k-\u00e0w  l\u00f2  t\\'{\u0259}  \u00e0\u00e1ng.",
+        "srcwordsbare": [
+            "m\u00e1",
+            "k-\u00e0w",
+            "l\u00f2",
+            "t\\'{\u0259}",
+            "\u00e0\u00e1ng."
+        ],
+        "srcwordshtml": [
+            "m\u00e1",
+            "k-\u00e0w",
+            "l\u00f2",
+            "t\\'{\u0259}",
+            "\u00e0\u00e1ng."
+        ],
+        "srcwordstex": [
+            "m\u00e1",
+            "k-\u00e0w",
+            "l\u00f2",
+            "t\\'{\u0259}",
+            "\u00e0\u00e1ng."
+        ],
+        "trs": "I shall go nowhere.",
+        "wlength": 5
+    },
+    {
+        "ID": "Anderson-219795",
+        "categories": [
+            "fut",
+            "inf"
+        ],
+        "clength": 23,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{fut}  \\textsc{inf}-eat",
+        "imtwordsbare": [
+            "1.FUT",
+            "INF-eat"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">inf</span>-eat"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{fut}",
+            "\\textsc{inf}-eat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\\={m}    k-\\`{\u0254}s\\={\u0254}.",
+        "srcwordsbare": [
+            "\\={m}",
+            "k-\\`{\u0254}s\\={\u0254}."
+        ],
+        "srcwordshtml": [
+            "\\={m}",
+            "k-\\`{\u0254}s\\={\u0254}."
+        ],
+        "srcwordstex": [
+            "\\={m}",
+            "k-\\`{\u0254}s\\={\u0254}."
+        ],
+        "trs": "I will eat.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-295401",
+        "categories": [
+            "def"
+        ],
+        "clength": 6,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{def}-give",
+        "imtwordsbare": [
+            "1.DEF-give"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">def</span>-give"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{def}-give"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "mi-bi.",
+        "srcwordsbare": [
+            "mi-bi."
+        ],
+        "srcwordshtml": [
+            "mi-bi."
+        ],
+        "srcwordstex": [
+            "mi-bi."
+        ],
+        "trs": "I give, I gave.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson-860407",
+        "categories": [
+            "indef"
+        ],
+        "clength": 9,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{indef}  give",
+        "imtwordsbare": [
+            "1.INDEF",
+            "give"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">indef</span>",
+            "give"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{indef}",
+            "give"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma    bi.",
+        "srcwordsbare": [
+            "ma",
+            "bi."
+        ],
+        "srcwordshtml": [
+            "ma",
+            "bi."
+        ],
+        "srcwordstex": [
+            "ma",
+            "bi."
+        ],
+        "trs": "I am giving.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-105136",
+        "categories": [
+            "def"
+        ],
+        "clength": 13,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{def}-beat  child",
+        "imtwordsbare": [
+            "1.DEF-beat",
+            "child"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">def</span>-beat",
+            "child"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{def}-beat",
+            "child"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u00e1-ts\u0254    mv\u00e1.",
+        "srcwordsbare": [
+            "\u00e1-ts\u0254",
+            "mv\u00e1."
+        ],
+        "srcwordshtml": [
+            "\u00e1-ts\u0254",
+            "mv\u00e1."
+        ],
+        "srcwordstex": [
+            "\u00e1-ts\u0254",
+            "mv\u00e1."
+        ],
+        "trs": "I beat the child.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--13687",
+        "categories": [
+            "indef"
+        ],
+        "clength": 15,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{indef}  child  beat",
+        "imtwordsbare": [
+            "1.INDEF",
+            "child",
+            "beat"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">indef</span>",
+            "child",
+            "beat"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{indef}",
+            "child",
+            "beat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma    mv\u00e1  ts\u0254.",
+        "srcwordsbare": [
+            "ma",
+            "mv\u00e1",
+            "ts\u0254."
+        ],
+        "srcwordshtml": [
+            "ma",
+            "mv\u00e1",
+            "ts\u0254."
+        ],
+        "srcwordstex": [
+            "ma",
+            "mv\u00e1",
+            "ts\u0254."
+        ],
+        "trs": "I am beating the child.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--78614",
+        "categories": [
+            "def"
+        ],
+        "clength": 14,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{def}-pull  rope",
+        "imtwordsbare": [
+            "1.DEF-pull",
+            "rope"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">def</span>-pull",
+            "rope"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{def}-pull",
+            "rope"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e1-drr    mb\u00ed.",
+        "srcwordsbare": [
+            "m\u00e1-drr",
+            "mb\u00ed."
+        ],
+        "srcwordshtml": [
+            "m\u00e1-drr",
+            "mb\u00ed."
+        ],
+        "srcwordstex": [
+            "m\u00e1-drr",
+            "mb\u00ed."
+        ],
+        "trs": "I pull the rope.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--17339",
+        "categories": [
+            "1",
+            "indef"
+        ],
+        "clength": 19,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.indef}  rope  pull",
+        "imtwordsbare": [
+            "1{1.indef}",
+            "rope",
+            "pull"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.indef</span>",
+            "rope",
+            "pull"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.indef}",
+            "rope",
+            "pull"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e1    mbi  dr\\'{r}.",
+        "srcwordsbare": [
+            "m\u00e1",
+            "mbi",
+            "dr\\'{r}."
+        ],
+        "srcwordshtml": [
+            "m\u00e1",
+            "mbi",
+            "dr\\'{r}."
+        ],
+        "srcwordstex": [
+            "m\u00e1",
+            "mbi",
+            "dr\\'{r}."
+        ],
+        "trs": "I am pulling the rope.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-298520",
+        "categories": [
+            "2",
+            "def"
+        ],
+        "clength": 15,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{2.def}-beat  child",
+        "imtwordsbare": [
+            "2.def-beat",
+            "child"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2.def</span>-beat",
+            "child"
+        ],
+        "imtwordstex": [
+            "\\textsc{2.def}-beat",
+            "child"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "l-\u00f3m\u00e1     \u00f9nzu.",
+        "srcwordsbare": [
+            "l-\u00f3m\u00e1",
+            "\u00f9nzu."
+        ],
+        "srcwordshtml": [
+            "l-\u00f3m\u00e1",
+            "\u00f9nzu."
+        ],
+        "srcwordstex": [
+            "l-\u00f3m\u00e1",
+            "\u00f9nzu."
+        ],
+        "trs": "You beat the child.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-132726",
+        "categories": [
+            "2",
+            "indef"
+        ],
+        "clength": 17,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{2.indef}  child  beat",
+        "imtwordsbare": [
+            "2.indef",
+            "child",
+            "beat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2.indef</span>",
+            "child",
+            "beat"
+        ],
+        "imtwordstex": [
+            "\\textsc{2.indef}",
+            "child",
+            "beat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "l\u00e1\u00e0    unz\u00fa  \u00f2ma.",
+        "srcwordsbare": [
+            "l\u00e1\u00e0",
+            "unz\u00fa",
+            "\u00f2ma."
+        ],
+        "srcwordshtml": [
+            "l\u00e1\u00e0",
+            "unz\u00fa",
+            "\u00f2ma."
+        ],
+        "srcwordstex": [
+            "l\u00e1\u00e0",
+            "unz\u00fa",
+            "\u00f2ma."
+        ],
+        "trs": "You are beating the child.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--78503",
+        "categories": [
+            "1",
+            "def"
+        ],
+        "clength": 12,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.def}-eat  thing",
+        "imtwordsbare": [
+            "1{1.def}-eat",
+            "thing"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.def</span>-eat",
+            "thing"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.def}-eat",
+            "thing"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m-\u00e1ne    y\u00ed.",
+        "srcwordsbare": [
+            "m-\u00e1ne",
+            "y\u00ed."
+        ],
+        "srcwordshtml": [
+            "m-\u00e1ne",
+            "y\u00ed."
+        ],
+        "srcwordstex": [
+            "m-\u00e1ne",
+            "y\u00ed."
+        ],
+        "trs": "I ate (something).",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-776593",
+        "categories": [
+            "indef",
+            "inf"
+        ],
+        "clength": 18,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{indef}  \\textsc{inf}-eat    thing",
+        "imtwordsbare": [
+            "1.INDEF",
+            "INF-eat",
+            "thing"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">indef</span>",
+            "<span class=\"sc\">inf</span>-eat",
+            "thing"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{indef}",
+            "\\textsc{inf}-eat",
+            "thing"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e1    y-ane    yi.",
+        "srcwordsbare": [
+            "m\u00e1",
+            "y-ane",
+            "yi."
+        ],
+        "srcwordshtml": [
+            "m\u00e1",
+            "y-ane",
+            "yi."
+        ],
+        "srcwordstex": [
+            "m\u00e1",
+            "y-ane",
+            "yi."
+        ],
+        "trs": "I am eating (something).",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--74102",
+        "categories": [],
+        "clength": 14,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1-drink   drink",
+        "imtwordsbare": [
+            "1-drink",
+            "drink"
+        ],
+        "imtwordshtml": [
+            "1-drink",
+            "drink"
+        ],
+        "imtwordstex": [
+            "1-drink",
+            "drink"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m-om\u00f2    n\u00f2m\u00f2.",
+        "srcwordsbare": [
+            "m-om\u00f2",
+            "n\u00f2m\u00f2."
+        ],
+        "srcwordshtml": [
+            "m-om\u00f2",
+            "n\u00f2m\u00f2."
+        ],
+        "srcwordstex": [
+            "m-om\u00f2",
+            "n\u00f2m\u00f2."
+        ],
+        "trs": "I drink a drink.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-818981",
+        "categories": [
+            "1",
+            "indef",
+            "inf"
+        ],
+        "clength": 21,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.indef}  \\textsc{inf}-drink   drink",
+        "imtwordsbare": [
+            "1{1.indef}",
+            "1{inf}-drink",
+            "drink"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.indef</span>",
+            "<span class=\"sc\">inf</span>-drink",
+            "drink"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.indef}",
+            "\\textsc{inf}-drink",
+            "drink"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma     y-\u00f2m\u00f2    n\u00f2m\u00f2.",
+        "srcwordsbare": [
+            "ma",
+            "y-\u00f2m\u00f2",
+            "n\u00f2m\u00f2."
+        ],
+        "srcwordshtml": [
+            "ma",
+            "y-\u00f2m\u00f2",
+            "n\u00f2m\u00f2."
+        ],
+        "srcwordstex": [
+            "ma",
+            "y-\u00f2m\u00f2",
+            "n\u00f2m\u00f2."
+        ],
+        "trs": "I am drinking.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--66135",
+        "categories": [
+            "1",
+            "aux",
+            "def"
+        ],
+        "clength": 17,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.def-aux}  child  beat",
+        "imtwordsbare": [
+            "1{1.def-aux}",
+            "child",
+            "beat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.def-aux</span>",
+            "child",
+            "beat"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.def-aux}",
+            "child",
+            "beat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma-\u014bga  mv\u00e1  ts\u0254.",
+        "srcwordsbare": [
+            "ma-\u014bga",
+            "mv\u00e1",
+            "ts\u0254."
+        ],
+        "srcwordshtml": [
+            "ma-\u014bga",
+            "mv\u00e1",
+            "ts\u0254."
+        ],
+        "srcwordstex": [
+            "ma-\u014bga",
+            "mv\u00e1",
+            "ts\u0254."
+        ],
+        "trs": "I shall beat the child.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-115346",
+        "categories": [
+            "neg"
+        ],
+        "clength": 13,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I   know  \\textsc{neg}",
+        "imtwordsbare": [
+            "I",
+            "know",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "I",
+            "know",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "I",
+            "know",
+            "\\textsc{neg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00ed  g\u00e1li  g\u0254.",
+        "srcwordsbare": [
+            "m\u00ed",
+            "g\u00e1li",
+            "g\u0254."
+        ],
+        "srcwordshtml": [
+            "m\u00ed",
+            "g\u00e1li",
+            "g\u0254."
+        ],
+        "srcwordstex": [
+            "m\u00ed",
+            "g\u00e1li",
+            "g\u0254."
+        ],
+        "trs": "I don't know.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--15052",
+        "categories": [
+            "neg"
+        ],
+        "clength": 27,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1-know  \\textsc{neg}",
+        "imtwordsbare": [
+            "1-know",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "1-know",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "1-know",
+            "\\textsc{neg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00fa-g\u00e1{\\downstep}li  g\\`{\u0254}.",
+        "srcwordsbare": [
+            "m\u00fa-g\u00e1{\\downstep}li",
+            "g\\`{\u0254}."
+        ],
+        "srcwordshtml": [
+            "m\u00fa-g\u00e1{\\downstep}li",
+            "g\\`{\u0254}."
+        ],
+        "srcwordstex": [
+            "m\u00fa-g\u00e1{\\downstep}li",
+            "g\\`{\u0254}."
+        ],
+        "trs": "I don't know.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-666940",
+        "categories": [
+            "prs/fut",
+            "tam"
+        ],
+        "clength": 22,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "2.\\textsc{prs/fut}-do-\\textsc{tam}",
+        "imtwordsbare": [
+            "2.PRS/FUT-do-TAM"
+        ],
+        "imtwordshtml": [
+            "2.<span class=\"sc\">prs/fut</span>-do-<span class=\"sc\">tam</span>"
+        ],
+        "imtwordstex": [
+            "2.\\textsc{prs/fut}-do-\\textsc{tam}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ni-{\\andersonE}si-(a).",
+        "srcwordsbare": [
+            "ni-{\\andersonE}si-(a)."
+        ],
+        "srcwordshtml": [
+            "ni-{\\andersonE}si-(a)."
+        ],
+        "srcwordstex": [
+            "ni-{\\andersonE}si-(a)."
+        ],
+        "trs": "You (will) do.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson-610675",
+        "categories": [
+            "prs/fut",
+            "tam"
+        ],
+        "clength": 20,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{prs/fut}-do-\\textsc{tam}",
+        "imtwordsbare": [
+            "PRS/FUT-do-TAM"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">prs/fut</span>-do-<span class=\"sc\">tam</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{prs/fut}-do-\\textsc{tam}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ni-{\\andersonE}s\u00ed-a.",
+        "srcwordsbare": [
+            "ni-{\\andersonE}s\u00ed-a."
+        ],
+        "srcwordshtml": [
+            "ni-{\\andersonE}s\u00ed-a."
+        ],
+        "srcwordstex": [
+            "ni-{\\andersonE}s\u00ed-a."
+        ],
+        "trs": "You (will) do.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson--69887",
+        "categories": [
+            "prs/fut"
+        ],
+        "clength": 6,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "2.\\textsc{prs/fut}-carry",
+        "imtwordsbare": [
+            "2.PRS/FUT-carry"
+        ],
+        "imtwordshtml": [
+            "2.<span class=\"sc\">prs/fut</span>-carry"
+        ],
+        "imtwordstex": [
+            "2.\\textsc{prs/fut}-carry"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00fa-ta.",
+        "srcwordsbare": [
+            "m\u00fa-ta."
+        ],
+        "srcwordshtml": [
+            "m\u00fa-ta."
+        ],
+        "srcwordstex": [
+            "m\u00fa-ta."
+        ],
+        "trs": "You (will) carry.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson--69461",
+        "categories": [
+            "prs/fut"
+        ],
+        "clength": 5,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{prs/fut}-carry",
+        "imtwordsbare": [
+            "PRS/FUT-carry"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">prs/fut</span>-carry"
+        ],
+        "imtwordstex": [
+            "\\textsc{prs/fut}-carry"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u00fa-ta.",
+        "srcwordsbare": [
+            "\u00fa-ta."
+        ],
+        "srcwordshtml": [
+            "\u00fa-ta."
+        ],
+        "srcwordstex": [
+            "\u00fa-ta."
+        ],
+        "trs": "You (will) carry.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson--36630",
+        "categories": [
+            "aux",
+            "dep",
+            "tam"
+        ],
+        "clength": 27,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1:\\textsc{tam-aux}  meat  \\textsc{dep}-eat",
+        "imtwordsbare": [
+            "1:tam-aux",
+            "meat",
+            "DEP-eat"
+        ],
+        "imtwordshtml": [
+            "1:<span class=\"sc\">tam-aux</span>",
+            "meat",
+            "<span class=\"sc\">dep</span>-eat"
+        ],
+        "imtwordstex": [
+            "1:\\textsc{tam-aux}",
+            "meat",
+            "\\textsc{dep}-eat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e1-dz\\`\u0254    k\\`\u0254\u0257\u00ed  \u00e0-n\\'\u028a.",
+        "srcwordsbare": [
+            "m\u00e1-dz\\`\u0254",
+            "k\\`\u0254\u0257\u00ed",
+            "\u00e0-n\\'\u028a."
+        ],
+        "srcwordshtml": [
+            "m\u00e1-dz\\`\u0254",
+            "k\\`\u0254\u0257\u00ed",
+            "\u00e0-n\\'\u028a."
+        ],
+        "srcwordstex": [
+            "m\u00e1-dz\\`\u0254",
+            "k\\`\u0254\u0257\u00ed",
+            "\u00e0-n\\'\u028a."
+        ],
+        "trs": "I am eating meat.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-233016",
+        "categories": [
+            "aux",
+            "dep",
+            "tam"
+        ],
+        "clength": 27,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1:\\textsc{tam-aux}  meat  \\textsc{dep}-eat",
+        "imtwordsbare": [
+            "1:tam-aux",
+            "meat",
+            "DEP-eat"
+        ],
+        "imtwordshtml": [
+            "1:<span class=\"sc\">tam-aux</span>",
+            "meat",
+            "<span class=\"sc\">dep</span>-eat"
+        ],
+        "imtwordstex": [
+            "1:\\textsc{tam-aux}",
+            "meat",
+            "\\textsc{dep}-eat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\\'\u028a-dz\u00e1    k\\`\u0254\u0257\u00ed  \u00e0-n\\`\u028a.",
+        "srcwordsbare": [
+            "m\\'\u028a-dz\u00e1",
+            "k\\`\u0254\u0257\u00ed",
+            "\u00e0-n\\`\u028a."
+        ],
+        "srcwordshtml": [
+            "m\\'\u028a-dz\u00e1",
+            "k\\`\u0254\u0257\u00ed",
+            "\u00e0-n\\`\u028a."
+        ],
+        "srcwordstex": [
+            "m\\'\u028a-dz\u00e1",
+            "k\\`\u0254\u0257\u00ed",
+            "\u00e0-n\\`\u028a."
+        ],
+        "trs": "I shall be eating meat.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson--44116",
+        "categories": [
+            "",
+            "ipfv"
+        ],
+        "clength": 22,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "he\\textsc{:ipfv}   sing",
+        "imtwordsbare": [
+            "he:ipfv",
+            "sing"
+        ],
+        "imtwordshtml": [
+            "he<span class=\"sc\">:ipfv</span>",
+            "sing"
+        ],
+        "imtwordstex": [
+            "he\\textsc{:ipfv}",
+            "sing"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\\={\u0254}\\={\u0254}    bl\\={e}.",
+        "srcwordsbare": [
+            "\\={\u0254}\\={\u0254}",
+            "bl\\={e}."
+        ],
+        "srcwordshtml": [
+            "\\={\u0254}\\={\u0254}",
+            "bl\\={e}."
+        ],
+        "srcwordstex": [
+            "\\={\u0254}\\={\u0254}",
+            "bl\\={e}."
+        ],
+        "trs": "He is singing.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-203723",
+        "categories": [
+            "",
+            "pfv"
+        ],
+        "clength": 12,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "you\\textsc{.pfv}  eat.\\textsc{pfv}",
+        "imtwordsbare": [
+            "you.pfv",
+            "eat.PFV"
+        ],
+        "imtwordshtml": [
+            "you<span class=\"sc\">.pfv</span>",
+            "eat.<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "you\\textsc{.pfv}",
+            "eat.\\textsc{pfv}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\\'{n}    j\u00e1.",
+        "srcwordsbare": [
+            "\\'{n}",
+            "j\u00e1."
+        ],
+        "srcwordshtml": [
+            "\\'{n}",
+            "j\u00e1."
+        ],
+        "srcwordstex": [
+            "\\'{n}",
+            "j\u00e1."
+        ],
+        "trs": "You have eaten.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--38303",
+        "categories": [
+            "",
+            "prs"
+        ],
+        "clength": 26,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "3\\textsc{:prs}  water  drink",
+        "imtwordsbare": [
+            "3:prs",
+            "water",
+            "drink"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">:prs</span>",
+            "water",
+            "drink"
+        ],
+        "imtwordstex": [
+            "3\\textsc{:prs}",
+            "water",
+            "drink"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "\u00e8e     n\\`{\\~u}  n\\`{\\~u}.",
+        "srcwordsbare": [
+            "\u00e8e",
+            "n\\`{\\~u}",
+            "n\\`{\\~u}."
+        ],
+        "srcwordshtml": [
+            "\u00e8e",
+            "n\\`{\\~u}",
+            "n\\`{\\~u}."
+        ],
+        "srcwordstex": [
+            "\u00e8e",
+            "n\\`{\\~u}",
+            "n\\`{\\~u}."
+        ],
+        "trs": "He is drinking water.",
+        "wlength": 3
+    },
+    {
+        "ID": "Anderson-683520",
+        "categories": [
+            "1",
+            "sbjn"
+        ],
+        "clength": 16,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1.sbjn}  sell",
+        "imtwordsbare": [
+            "1{1.sbjn}",
+            "sell"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1.sbjn</span>",
+            "sell"
+        ],
+        "imtwordstex": [
+            "\\textsc{1.sbjn}",
+            "sell"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\\'\u026a   d\\'\u0254l\\`\u026a.",
+        "srcwordsbare": [
+            "m\\'\u026a",
+            "d\\'\u0254l\\`\u026a."
+        ],
+        "srcwordshtml": [
+            "m\\'\u026a",
+            "d\\'\u0254l\\`\u026a."
+        ],
+        "srcwordstex": [
+            "m\\'\u026a",
+            "d\\'\u0254l\\`\u026a."
+        ],
+        "trs": "May I sell.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson--52128",
+        "categories": [
+            "prog"
+        ],
+        "clength": 19,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{prog}  sell",
+        "imtwordsbare": [
+            "1.PROG",
+            "sell"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">prog</span>",
+            "sell"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{prog}",
+            "sell"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\\'\u026a\\`\u026a   d\\`\u0254l\\`\u026a.",
+        "srcwordsbare": [
+            "m\\'\u026a\\`\u026a",
+            "d\\`\u0254l\\`\u026a."
+        ],
+        "srcwordshtml": [
+            "m\\'\u026a\\`\u026a",
+            "d\\`\u0254l\\`\u026a."
+        ],
+        "srcwordstex": [
+            "m\\'\u026a\\`\u026a",
+            "d\\`\u0254l\\`\u026a."
+        ],
+        "trs": "I am selling.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-365845",
+        "categories": [
+            "3pl",
+            "def",
+            "fut"
+        ],
+        "clength": 25,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{3pl.fut}  \\textit{to}-\\textsc{def}  hot  eat",
+        "imtwordsbare": [
+            "3pl.fut",
+            "to-DEF",
+            "hot",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl.fut</span>",
+            "<span class=\"it\">to</span>-<span class=\"sc\">def</span>",
+            "hot",
+            "eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl.fut}",
+            "\\textit{to}-\\textsc{def}",
+            "hot",
+            "eat"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "kaa    ku-ki  kulu  n\\~u.",
+        "srcwordsbare": [
+            "kaa",
+            "ku-ki",
+            "kulu",
+            "n\\~u."
+        ],
+        "srcwordshtml": [
+            "kaa",
+            "ku-ki",
+            "kulu",
+            "n\\~u."
+        ],
+        "srcwordstex": [
+            "kaa",
+            "ku-ki",
+            "kulu",
+            "n\\~u."
+        ],
+        "trs": "They will eat hot \\textit{to.}",
+        "wlength": 4
+    },
+    {
+        "ID": "Anderson-271774",
+        "categories": [
+            "",
+            "I",
+            "pst"
+        ],
+        "clength": 7,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{I.pst-}send",
+        "imtwordsbare": [
+            "I.pst-send"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">I.pst-</span>send"
+        ],
+        "imtwordstex": [
+            "\\textsc{I.pst-}send"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e0-t\u00f3m.",
+        "srcwordsbare": [
+            "m\u00e0-t\u00f3m."
+        ],
+        "srcwordshtml": [
+            "m\u00e0-t\u00f3m."
+        ],
+        "srcwordstex": [
+            "m\u00e0-t\u00f3m."
+        ],
+        "trs": "I sent.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson--65012",
+        "categories": [
+            "ant",
+            "prf"
+        ],
+        "clength": 6,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{ant.prf}-leave",
+        "imtwordsbare": [
+            "1.ant.prf-leave"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">ant.prf</span>-leave"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{ant.prf}-leave"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "ma-\u0294\u00e0.",
+        "srcwordsbare": [
+            "ma-\u0294\u00e0."
+        ],
+        "srcwordshtml": [
+            "ma-\u0294\u00e0."
+        ],
+        "srcwordstex": [
+            "ma-\u0294\u00e0."
+        ],
+        "trs": "I left.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson-131329",
+        "categories": [
+            "pst/prf"
+        ],
+        "clength": 7,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{pst/prf}-dig",
+        "imtwordsbare": [
+            "1.PST/PRF-dig"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">pst/prf</span>-dig"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{pst/prf}-dig"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e0-ci\u014b.",
+        "srcwordsbare": [
+            "m\u00e0-ci\u014b."
+        ],
+        "srcwordshtml": [
+            "m\u00e0-ci\u014b."
+        ],
+        "srcwordstex": [
+            "m\u00e0-ci\u014b."
+        ],
+        "trs": "I (have) dug.",
+        "wlength": 1
+    },
+    {
+        "ID": "Anderson-191477",
+        "categories": [
+            "1fut"
+        ],
+        "clength": 28,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "\\textsc{1fut}  come",
+        "imtwordsbare": [
+            "1FUT",
+            "come"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1fut</span>",
+            "come"
+        ],
+        "imtwordstex": [
+            "\\textsc{1fut}",
+            "come"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e9    \\textsuperscript{!}va.",
+        "srcwordsbare": [
+            "m\u00e9",
+            "!va."
+        ],
+        "srcwordshtml": [
+            "m\u00e9",
+            "<span class=\"superscript\">!</span>va."
+        ],
+        "srcwordstex": [
+            "m\u00e9",
+            "\\textsuperscript{!}va."
+        ],
+        "trs": "I will come.",
+        "wlength": 2
+    },
+    {
+        "ID": "Anderson-670377",
+        "categories": [
+            "fut",
+            "irr",
+            "neg",
+            "rem"
+        ],
+        "clength": 21,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "I.\\textsc{irr}  \\textsc{rem.fut}  drink  \\textsc{neg}",
+        "imtwordsbare": [
+            "I.IRR",
+            "rem.fut",
+            "drink",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">irr</span>",
+            "<span class=\"sc\">rem.fut</span>",
+            "drink",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{irr}",
+            "\\textsc{rem.fut}",
+            "drink",
+            "\\textsc{neg}"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "polarity": "negative",
+        "src": "m\\'\u025b    r\u00f3\u00e0    s\u0259  \u00e1.",
+        "srcwordsbare": [
+            "m\\'\u025b",
+            "r\u00f3\u00e0",
+            "s\u0259",
+            "\u00e1."
+        ],
+        "srcwordshtml": [
+            "m\\'\u025b",
+            "r\u00f3\u00e0",
+            "s\u0259",
+            "\u00e1."
+        ],
+        "srcwordstex": [
+            "m\\'\u025b",
+            "r\u00f3\u00e0",
+            "s\u0259",
+            "\u00e1."
+        ],
+        "trs": "I would not drink it.",
+        "wlength": 4
+    },
+    {
+        "ID": "Anderson--52044",
+        "categories": [
+            "sbjn"
+        ],
+        "clength": 10,
+        "filename": "121/chapters/Anderson.tex",
+        "imt": "1.\\textsc{sbjn}  dig",
+        "imtwordsbare": [
+            "1.SBJN",
+            "dig"
+        ],
+        "imtwordshtml": [
+            "1.<span class=\"sc\">sbjn</span>",
+            "dig"
+        ],
+        "imtwordstex": [
+            "1.\\textsc{sbjn}",
+            "dig"
+        ],
+        "language": "121/chapters/Anderson.tex",
+        "src": "m\u00e9    ci\u014b.",
+        "srcwordsbare": [
+            "m\u00e9",
+            "ci\u014b."
+        ],
+        "srcwordshtml": [
+            "m\u00e9",
+            "ci\u014b."
+        ],
+        "srcwordstex": [
+            "m\u00e9",
+            "ci\u014b."
+        ],
+        "trs": "I must dig.",
+        "wlength": 2
+    }
+]

@@ -1,0 +1,5411 @@
+[
+    {
+        "ID": "05mong--27162",
+        "categories": [
+            "pl",
+            "q"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{pl}  good=\\textsc{q}",
+        "imtwordsbare": [
+            "2PL",
+            "good=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>",
+            "good=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}",
+            "good=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{ta} {sayin=}\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "{ta}",
+            "{sayin=}{uu}?"
+        ],
+        "srcwordshtml": [
+            "{ta}",
+            "{sayin=}<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "{ta}",
+            "{sayin=}\\textbf{{uu}}?"
+        ],
+        "trs": "Are you well?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-753170",
+        "categories": [
+            "cop",
+            "pl",
+            "q"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{pl}  who  \\textsc{cop}>\\textsc{q}",
+        "imtwordsbare": [
+            "2PL",
+            "who",
+            "COP>Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>",
+            "who",
+            "<span class=\"sc\">cop</span>><span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}",
+            "who",
+            "\\textsc{cop}>\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{ta} \\textbf{{ken}} \\textbf{{bui}}?",
+        "srcwordsbare": [
+            "{ta}",
+            "{ken}",
+            "{bui}?"
+        ],
+        "srcwordshtml": [
+            "{ta}",
+            "<span class=\"bf\">{ken</span>}",
+            "<span class=\"bf\">{bui</span>}?"
+        ],
+        "srcwordstex": [
+            "{ta}",
+            "\\textbf{{ken}}",
+            "\\textbf{{bui}}?"
+        ],
+        "trs": "Who are you?\u2019 (\\citealt[53]{Janhunen2003b}, transcription changed)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--40887",
+        "categories": [
+            "com",
+            "ipfv",
+            "p",
+            "q",
+            "sg"
+        ],
+        "clength": 44,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "old.woman-\\textsc{com}  meet-\\textsc{p.ipfv}=\\textsc{q}=2\\textsc{sg}",
+        "imtwordsbare": [
+            "old.woman-COM",
+            "meet-p.ipfv=Q=2SG"
+        ],
+        "imtwordshtml": [
+            "old.woman-<span class=\"sc\">com</span>",
+            "meet-<span class=\"sc\">p.ipfv</span>=<span class=\"sc\">q</span>=2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "old.woman-\\textsc{com}",
+            "meet-\\textsc{p.ipfv}=\\textsc{q}=2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{xugs\u02b2}in-tei    oolz-aa=\\textbf{{g}}=s\u02b2{a?}",
+        "srcwordsbare": [
+            "{xugs\u02b2}in-tei",
+            "oolz-aa={g}=s\u02b2{a?}"
+        ],
+        "srcwordshtml": [
+            "{xugs\u02b2}in-tei",
+            "oolz-aa=<span class=\"bf\">{g</span>}=s\u02b2{a?}"
+        ],
+        "srcwordstex": [
+            "{xugs\u02b2}in-tei",
+            "oolz-aa=\\textbf{{g}}=s\u02b2{a?}"
+        ],
+        "trs": "Did you meet the old woman?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-586060",
+        "categories": [
+            "com",
+            "ipfv",
+            "p",
+            "q",
+            "sg"
+        ],
+        "clength": 51,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "who-\\textsc{com}  meet-\\textsc{p.ipfv}=\\textsc{q}=2\\textsc{sg}",
+        "imtwordsbare": [
+            "who-COM",
+            "meet-p.ipfv=Q=2SG"
+        ],
+        "imtwordshtml": [
+            "who-<span class=\"sc\">com</span>",
+            "meet-<span class=\"sc\">p.ipfv</span>=<span class=\"sc\">q</span>=2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "who-\\textsc{com}",
+            "meet-\\textsc{p.ipfv}=\\textsc{q}=2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\\textbf{{xen}}-tei    oolz-aa=\\textbf{{b}}{=s\u02b2}{a?}",
+        "srcwordsbare": [
+            "{xen}-tei",
+            "oolz-aa={b}{=s\u02b2}{a?}"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{xen</span>}-tei",
+            "oolz-aa=<span class=\"bf\">{b</span>}{=s\u02b2}{a?}"
+        ],
+        "srcwordstex": [
+            "\\textbf{{xen}}-tei",
+            "oolz-aa=\\textbf{{b}}{=s\u02b2}{a?}"
+        ],
+        "trs": "Whom did you meet?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--69169",
+        "categories": [
+            "com",
+            "obl",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 38,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  1\\textsc{sg}.\\textsc{obl}-\\textsc{com}  reach-\\textsc{prs}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "1SG.OBL-COM",
+            "reach-PRS=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "1<span class=\"sc\">sg</span>.<span class=\"sc\">obl</span>-<span class=\"sc\">com</span>",
+            "reach-<span class=\"sc\">prs</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "1\\textsc{sg}.\\textsc{obl}-\\textsc{com}",
+            "reach-\\textsc{prs}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{s\u02b2}ii  nam-tai  \u0254s\u02b2-n\u0254=\\textbf{{ba}}?",
+        "srcwordsbare": [
+            "{s\u02b2}ii",
+            "nam-tai",
+            "\u0254s\u02b2-n\u0254={ba}?"
+        ],
+        "srcwordshtml": [
+            "{s\u02b2}ii",
+            "nam-tai",
+            "\u0254s\u02b2-n\u0254=<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "{s\u02b2}ii",
+            "nam-tai",
+            "\u0254s\u02b2-n\u0254=\\textbf{{ba}}?"
+        ],
+        "trs": "You go with me, don\u2019t you?\u2019 (\\citealt{Yamakoshi2011a}: 170-171)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--80856",
+        "categories": [
+            "e",
+            "fut",
+            "inst",
+            "nom",
+            "p",
+            "q",
+            "refl",
+            "sg"
+        ],
+        "clength": 88,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg.nom}  this-\\textsc{e}-\\textsc{inst}-\\textsc{refl}  go-\\textsc{p.fut}=\\textsc{q}=1\\textsc{sg} that-\\textsc{e}-\\textsc{inst}-\\textsc{refl}  go-\\textsc{p.fut}=\\textsc{q}=1\\textsc{sg}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "this-E-INST-REFL",
+            "go-p.fut=Q=1SG",
+            "that-E-INST-REFL",
+            "go-p.fut=Q=1SG"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.nom</span>",
+            "this-<span class=\"sc\">e</span>-<span class=\"sc\">inst</span>-<span class=\"sc\">refl</span>",
+            "go-<span class=\"sc\">p.fut</span>=<span class=\"sc\">q</span>=1<span class=\"sc\">sg</span>",
+            "that-<span class=\"sc\">e</span>-<span class=\"sc\">inst</span>-<span class=\"sc\">refl</span>",
+            "go-<span class=\"sc\">p.fut</span>=<span class=\"sc\">q</span>=1<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.nom}",
+            "this-\\textsc{e}-\\textsc{inst}-\\textsc{refl}",
+            "go-\\textsc{p.fut}=\\textsc{q}=1\\textsc{sg}",
+            "that-\\textsc{e}-\\textsc{inst}-\\textsc{refl}",
+            "go-\\textsc{p.fut}=\\textsc{q}=1\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{bii} {enee-g-uur-ee} {jab-xa=}\\textbf{{g}}=bi, teree-g-uur-ee jab-xa=\\textbf{{g}}{=bi?}",
+        "srcwordsbare": [
+            "{bii}",
+            "{enee-g-uur-ee}",
+            "{jab-xa=}{g}=bi,",
+            "teree-g-uur-ee",
+            "jab-xa={g}{=bi?}"
+        ],
+        "srcwordshtml": [
+            "{bii}",
+            "{enee-g-uur-ee}",
+            "{jab-xa=}<span class=\"bf\">{g</span>}=bi,",
+            "teree-g-uur-ee",
+            "jab-xa=<span class=\"bf\">{g</span>}{=bi?}"
+        ],
+        "srcwordstex": [
+            "{bii}",
+            "{enee-g-uur-ee}",
+            "{jab-xa=}\\textbf{{g}}=bi,",
+            "teree-g-uur-ee",
+            "jab-xa=\\textbf{{g}}{=bi?}"
+        ],
+        "trs": "Should I go in this or in that direction?\u2019 (\\citealt{Yamakoshi2006}: 153)",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong-125593",
+        "categories": [
+            "gen",
+            "nom",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 50,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg.gen} boy.\\textsc{nom}=2\\textsc{sg}.\\textsc{poss}  which=\\textsc{q}",
+        "imtwordsbare": [
+            "2sg.gen",
+            "boy.NOM=2SG.POSS",
+            "which=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.gen</span>",
+            "boy.<span class=\"sc\">nom</span>=2<span class=\"sc\">sg</span>.<span class=\"sc\">poss</span>",
+            "which=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.gen}",
+            "boy.\\textsc{nom}=2\\textsc{sg}.\\textsc{poss}",
+            "which=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{s\u02b2}inii xubuun=s\u02b2e \\textbf{{alin}}=\\textbf{{be}}?",
+        "srcwordsbare": [
+            "{s\u02b2}inii",
+            "xubuun=s\u02b2e",
+            "{alin}={be}?"
+        ],
+        "srcwordshtml": [
+            "{s\u02b2}inii",
+            "xubuun=s\u02b2e",
+            "<span class=\"bf\">{alin</span>}=<span class=\"bf\">{be</span>}?"
+        ],
+        "srcwordstex": [
+            "{s\u02b2}inii",
+            "xubuun=s\u02b2e",
+            "\\textbf{{alin}}=\\textbf{{be}}?"
+        ],
+        "trs": "Where is your boy?\u2019 (\\citealt{Yamakoshi2011b}: 116, shortened)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-491829",
+        "categories": [
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 64,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "which=3\\textsc{sg}.\\textsc{poss}  good=\\textsc{q}",
+        "imtwordsbare": [
+            "which=3SG.POSS",
+            "good=Q"
+        ],
+        "imtwordshtml": [
+            "which=3<span class=\"sc\">sg</span>.<span class=\"sc\">poss</span>",
+            "good=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "which=3\\textsc{sg}.\\textsc{poss}",
+            "good=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\\textbf{{al}}\\textbf{{\u02b2}}\\textbf{{an}}=in    hain=\\textbf{{be}}?",
+        "srcwordsbare": [
+            "{al}{\u02b2}{an}=in",
+            "hain={be}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{al</span>}<span class=\"bf\">{\u02b2</span>}<span class=\"bf\">{an</span>}=in",
+            "hain=<span class=\"bf\">{be</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{al}}\\textbf{{\u02b2}}\\textbf{{an}}=in",
+            "hain=\\textbf{{be}}?"
+        ],
+        "trs": "Which one is good?\u2019 \\citep[5]{Yamakoshi2007b}",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-171450",
+        "categories": [
+            "q",
+            "term"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "escape-\\textsc{term}=\\textsc{q}",
+        "imtwordsbare": [
+            "escape-TERM=Q"
+        ],
+        "imtwordshtml": [
+            "escape-<span class=\"sc\">term</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "escape-\\textsc{term}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{burut-b=}\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "{burut-b=}{uu}?"
+        ],
+        "srcwordshtml": [
+            "{burut-b=}<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "{burut-b=}\\textbf{{uu}}?"
+        ],
+        "trs": "Did (you) escape?",
+        "wlength": 1
+    },
+    {
+        "ID": "05mong--79794",
+        "categories": [
+            "q",
+            "term"
+        ],
+        "clength": 30,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "time=\\textsc{q}    arrive-\\textsc{term}",
+        "imtwordsbare": [
+            "time=Q",
+            "arrive-TERM"
+        ],
+        "imtwordshtml": [
+            "time=<span class=\"sc\">q</span>",
+            "arrive-<span class=\"sc\">term</span>"
+        ],
+        "imtwordstex": [
+            "time=\\textsc{q}",
+            "arrive-\\textsc{term}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{caq=}\\textbf{{u\u2019u}} {g\u00fcr-be?}",
+        "srcwordsbare": [
+            "{caq=}{u\u2019u}",
+            "{g\u00fcr-be?}"
+        ],
+        "srcwordshtml": [
+            "{caq=}<span class=\"bf\">{u\u2019u</span>}",
+            "{g\u00fcr-be?}"
+        ],
+        "srcwordstex": [
+            "{caq=}\\textbf{{u\u2019u}}",
+            "{g\u00fcr-be?}"
+        ],
+        "trs": "Has \\textit{the time} arrived?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--36952",
+        "categories": [
+            "cvb",
+            "q"
+        ],
+        "clength": 54,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "appropriate=\\textsc{q}  ?convenient=\\textsc{q}    say-\\textsc{cvb}",
+        "imtwordsbare": [
+            "appropriate=Q",
+            "?convenient=Q",
+            "say-CVB"
+        ],
+        "imtwordshtml": [
+            "appropriate=<span class=\"sc\">q</span>",
+            "?convenient=<span class=\"sc\">q</span>",
+            "say-<span class=\"sc\">cvb</span>"
+        ],
+        "imtwordstex": [
+            "appropriate=\\textsc{q}",
+            "?convenient=\\textsc{q}",
+            "say-\\textsc{cvb}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{j\u00f6b=}\\textbf{{\u00fc\u2019\u00fc}} {tab=}\\textbf{{u\u2019u}} {\u00fcg\u00fcle-r\u00fcn?}",
+        "srcwordsbare": [
+            "{j\u00f6b=}{\u00fc\u2019\u00fc}",
+            "{tab=}{u\u2019u}",
+            "{\u00fcg\u00fcle-r\u00fcn?}"
+        ],
+        "srcwordshtml": [
+            "{j\u00f6b=}<span class=\"bf\">{\u00fc\u2019\u00fc</span>}",
+            "{tab=}<span class=\"bf\">{u\u2019u</span>}",
+            "{\u00fcg\u00fcle-r\u00fcn?}"
+        ],
+        "srcwordstex": [
+            "{j\u00f6b=}\\textbf{{\u00fc\u2019\u00fc}}",
+            "{tab=}\\textbf{{u\u2019u}}",
+            "{\u00fcg\u00fcle-r\u00fcn?}"
+        ],
+        "trs": "Saying: is it appropriate, is it convenient?\u2019 \\citep[79]{Rybatzki2003a}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--30522",
+        "categories": [
+            "cop",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 50,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  when  depart-\\textsc{pst}  \\textsc{cop}>\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "when",
+            "depart-PST",
+            "COP>Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "when",
+            "depart-<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">cop</span>><span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "when",
+            "depart-\\textsc{pst}",
+            "\\textsc{cop}>\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{cii} \\textbf{{xedzee}} {yab-sen} \\textbf{{bwai}}?",
+        "srcwordsbare": [
+            "{cii}",
+            "{xedzee}",
+            "{yab-sen}",
+            "{bwai}?"
+        ],
+        "srcwordshtml": [
+            "{cii}",
+            "<span class=\"bf\">{xedzee</span>}",
+            "{yab-sen}",
+            "<span class=\"bf\">{bwai</span>}?"
+        ],
+        "srcwordstex": [
+            "{cii}",
+            "\\textbf{{xedzee}}",
+            "{yab-sen}",
+            "\\textbf{{bwai}}?"
+        ],
+        "trs": "When did you go?\u2019 \\citep[255]{Janhunen2012c}",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--14971",
+        "categories": [
+            "q"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  book=\\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "book=Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "book=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "book=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "en  bitig=\\textbf{{yee}}?",
+        "srcwordsbare": [
+            "en",
+            "bitig={yee}?"
+        ],
+        "srcwordshtml": [
+            "en",
+            "bitig=<span class=\"bf\">{yee</span>}?"
+        ],
+        "srcwordstex": [
+            "en",
+            "bitig=\\textbf{{yee}}?"
+        ],
+        "trs": "Is this a book?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-637723",
+        "categories": [
+            "sg"
+        ],
+        "clength": 26,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  who-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "who-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "who-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "who-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{\u0283ii} \\textbf{{ani}}{-\u0283i?}",
+        "srcwordsbare": [
+            "{\u0283ii}",
+            "{ani}{-\u0283i?}"
+        ],
+        "srcwordshtml": [
+            "{\u0283ii}",
+            "<span class=\"bf\">{ani</span>}{-\u0283i?}"
+        ],
+        "srcwordstex": [
+            "{\u0283ii}",
+            "\\textbf{{ani}}{-\u0283i?}"
+        ],
+        "trs": "Who are you?\u2019 (\\citealt{Tsumagari2003}: 150; \\citealt{Chaolu1994c}: 11)",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--26341",
+        "categories": [
+            "acc",
+            "pst",
+            "q"
+        ],
+        "clength": 39,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  clothes-\\textsc{acc}  wash-\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "clothes-ACC",
+            "wash-PST=Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "clothes-<span class=\"sc\">acc</span>",
+            "wash-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "clothes-\\textsc{acc}",
+            "wash-\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\u0259n\u0259  wark\u0259l-ii  waa-s\u0259\u014b=\\textbf{{j\u0259\u0259}}?",
+        "srcwordsbare": [
+            "\u0259n\u0259",
+            "wark\u0259l-ii",
+            "waa-s\u0259\u014b={j\u0259\u0259}?"
+        ],
+        "srcwordshtml": [
+            "\u0259n\u0259",
+            "wark\u0259l-ii",
+            "waa-s\u0259\u014b=<span class=\"bf\">{j\u0259\u0259</span>}?"
+        ],
+        "srcwordstex": [
+            "\u0259n\u0259",
+            "wark\u0259l-ii",
+            "waa-s\u0259\u014b=\\textbf{{j\u0259\u0259}}?"
+        ],
+        "trs": "Have (you) washed these clothes?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-206128",
+        "categories": [
+            "fut",
+            "q",
+            "sg"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "whither  go-\\textsc{fut}-2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "whither",
+            "go-FUT-2SG=Q"
+        ],
+        "imtwordshtml": [
+            "whither",
+            "go-<span class=\"sc\">fut</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "whither",
+            "go-\\textsc{fut}-2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\\textbf{{xaan\u0259}} {it\u0283-b\u0259i-\u0283ii=}\\textbf{{j\u0259\u0259}}?",
+        "srcwordsbare": [
+            "{xaan\u0259}",
+            "{it\u0283-b\u0259i-\u0283ii=}{j\u0259\u0259}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{xaan\u0259</span>}",
+            "{it\u0283-b\u0259i-\u0283ii=}<span class=\"bf\">{j\u0259\u0259</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{xaan\u0259}}",
+            "{it\u0283-b\u0259i-\u0283ii=}\\textbf{{j\u0259\u0259}}?"
+        ],
+        "trs": "Where are you going?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-277202",
+        "categories": [
+            "cvb",
+            "ipfv",
+            "neg",
+            "pst",
+            "q"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "tobacco  drink-\\textsc{cvb.ipfv}  \\textsc{neg}  can-\\textsc{pst}  \\textsc{q}",
+        "imtwordsbare": [
+            "tobacco",
+            "drink-cvb.ipfv",
+            "NEG",
+            "can-PST",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "tobacco",
+            "drink-<span class=\"sc\">cvb.ipfv</span>",
+            "<span class=\"sc\">neg</span>",
+            "can-<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "tobacco",
+            "drink-\\textsc{cvb.ipfv}",
+            "\\textsc{neg}",
+            "can-\\textsc{pst}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "da\u014bg    oo-d\u0292      ul  bol-s\u0259\u014b \\textbf{{baa}}?",
+        "srcwordsbare": [
+            "da\u014bg",
+            "oo-d\u0292",
+            "ul",
+            "bol-s\u0259\u014b",
+            "{baa}?"
+        ],
+        "srcwordshtml": [
+            "da\u014bg",
+            "oo-d\u0292",
+            "ul",
+            "bol-s\u0259\u014b",
+            "<span class=\"bf\">{baa</span>}?"
+        ],
+        "srcwordstex": [
+            "da\u014bg",
+            "oo-d\u0292",
+            "ul",
+            "bol-s\u0259\u014b",
+            "\\textbf{{baa}}?"
+        ],
+        "trs": "Smoking is prohibited here, right?\u2019 (\\citealt{ZhongSuchun1982}: 76)",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--91837",
+        "categories": [
+            "cond",
+            "cvb",
+            "ipfv",
+            "q",
+            "sg"
+        ],
+        "clength": 173,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg}  this.way  go-\\textsc{cvb.cond}-1\\textsc{sg}  right-\\textsc{ipfv}  \\textsc{q} that.way  go-\\textsc{cvb.cond}-1\\textsc{sg}    right-\\textsc{ipfv}  \\textsc{q}",
+        "imtwordsbare": [
+            "1SG",
+            "this.way",
+            "go-cvb.cond-1SG",
+            "right-IPFV",
+            "Q",
+            "that.way",
+            "go-cvb.cond-1SG",
+            "right-IPFV",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "this.way",
+            "go-<span class=\"sc\">cvb.cond</span>-1<span class=\"sc\">sg</span>",
+            "right-<span class=\"sc\">ipfv</span>",
+            "<span class=\"sc\">q</span>",
+            "that.way",
+            "go-<span class=\"sc\">cvb.cond</span>-1<span class=\"sc\">sg</span>",
+            "right-<span class=\"sc\">ipfv</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "this.way",
+            "go-\\textsc{cvb.cond}-1\\textsc{sg}",
+            "right-\\textsc{ipfv}",
+            "\\textsc{q}",
+            "that.way",
+            "go-\\textsc{cvb.cond}-1\\textsc{sg}",
+            "right-\\textsc{ipfv}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "bii  \u0259id\u0259\u0259 {jaw-oo}{s-min\u02b2} d\u0292u\u0263i-\u0263u \\textbf{{jum}}\\textbf{.}\\textbf{{o}}\\textbf{{o}}? {tiidaa} {jaw-oo}{s-min\u02b2} {d\u0292u\u0263i-\u0263u} \\textbf{{jum}}\\textbf{.}\\textbf{{o}}\\textbf{{o}}?",
+        "srcwordsbare": [
+            "bii",
+            "\u0259id\u0259\u0259",
+            "{jaw-oo}{s-min\u02b2}",
+            "d\u0292u\u0263i-\u0263u",
+            "{jum}.{o}{o}?",
+            "{tiidaa}",
+            "{jaw-oo}{s-min\u02b2}",
+            "{d\u0292u\u0263i-\u0263u}",
+            "{jum}.{o}{o}?"
+        ],
+        "srcwordshtml": [
+            "bii",
+            "\u0259id\u0259\u0259",
+            "{jaw-oo}{s-min\u02b2}",
+            "d\u0292u\u0263i-\u0263u",
+            "<span class=\"bf\">{jum</span>}<span class=\"bf\">.</span><span class=\"bf\">{o</span>}<span class=\"bf\">{o</span>}?",
+            "{tiidaa}",
+            "{jaw-oo}{s-min\u02b2}",
+            "{d\u0292u\u0263i-\u0263u}",
+            "<span class=\"bf\">{jum</span>}<span class=\"bf\">.</span><span class=\"bf\">{o</span>}<span class=\"bf\">{o</span>}?"
+        ],
+        "srcwordstex": [
+            "bii",
+            "\u0259id\u0259\u0259",
+            "{jaw-oo}{s-min\u02b2}",
+            "d\u0292u\u0263i-\u0263u",
+            "\\textbf{{jum}}\\textbf{.}\\textbf{{o}}\\textbf{{o}}?",
+            "{tiidaa}",
+            "{jaw-oo}{s-min\u02b2}",
+            "{d\u0292u\u0263i-\u0263u}",
+            "\\textbf{{jum}}\\textbf{.}\\textbf{{o}}\\textbf{{o}}?"
+        ],
+        "trs": "Will I go this way or that way?\u2019 (\\citealt{Chaolu1994c}: 18)",
+        "wlength": 9
+    },
+    {
+        "ID": "05mong-804065",
+        "categories": [
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "husband-2\\textsc{sg}  come.back-\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "husband-2SG",
+            "come.back-PST=Q"
+        ],
+        "imtwordshtml": [
+            "husband-2<span class=\"sc\">sg</span>",
+            "come.back-<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "husband-2\\textsc{sg}",
+            "come.back-\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\u0259rgun-\u0161in  xa\u01f0ir-s\u0259\u014b=\\textbf{{ja}}?",
+        "srcwordsbare": [
+            "\u0259rgun-\u0161in",
+            "xa\u01f0ir-s\u0259\u014b={ja}?"
+        ],
+        "srcwordshtml": [
+            "\u0259rgun-\u0161in",
+            "xa\u01f0ir-s\u0259\u014b=<span class=\"bf\">{ja</span>}?"
+        ],
+        "srcwordstex": [
+            "\u0259rgun-\u0161in",
+            "xa\u01f0ir-s\u0259\u014b=\\textbf{{ja}}?"
+        ],
+        "trs": "Did your husband come back?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--52562",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 74,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "urine-2\\textsc{sg}  how.much  much=\\textsc{q}  little=\\textsc{q}",
+        "imtwordsbare": [
+            "urine-2SG",
+            "how.much",
+            "much=Q",
+            "little=Q"
+        ],
+        "imtwordshtml": [
+            "urine-2<span class=\"sc\">sg</span>",
+            "how.much",
+            "much=<span class=\"sc\">q</span>",
+            "little=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "urine-2\\textsc{sg}",
+            "how.much",
+            "much=\\textsc{q}",
+            "little=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{s\u0259\u0259s-\u0161in} \\textbf{{x\u0259r\u0259\u0259}},    b\u0259raan=\\textbf{{ja}} {o\u010dog=}\\textbf{{jo}}?",
+        "srcwordsbare": [
+            "{s\u0259\u0259s-\u0161in}",
+            "{x\u0259r\u0259\u0259},",
+            "b\u0259raan={ja}",
+            "{o\u010dog=}{jo}?"
+        ],
+        "srcwordshtml": [
+            "{s\u0259\u0259s-\u0161in}",
+            "<span class=\"bf\">{x\u0259r\u0259\u0259</span>},",
+            "b\u0259raan=<span class=\"bf\">{ja</span>}",
+            "{o\u010dog=}<span class=\"bf\">{jo</span>}?"
+        ],
+        "srcwordstex": [
+            "{s\u0259\u0259s-\u0161in}",
+            "\\textbf{{x\u0259r\u0259\u0259}},",
+            "b\u0259raan=\\textbf{{ja}}",
+            "{o\u010dog=}\\textbf{{jo}}?"
+        ],
+        "trs": "How much urine do you have? Is it a lot or a little?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--45076",
+        "categories": [
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 52,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  when  here  come-\\textsc{pst}-2\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "when",
+            "here",
+            "come-PST-2SG=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "when",
+            "here",
+            "come-<span class=\"sc\">pst</span>-2<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "when",
+            "here",
+            "come-\\textsc{pst}-2\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{\u0161ii} \\textbf{{x\u0259\u01f0\u0259\u0259}} \u0259nd  ir-s\u0259\u014b-\u0161i=\\textbf{{j\u0259}}?",
+        "srcwordsbare": [
+            "{\u0161ii}",
+            "{x\u0259\u01f0\u0259\u0259}",
+            "\u0259nd",
+            "ir-s\u0259\u014b-\u0161i={j\u0259}?"
+        ],
+        "srcwordshtml": [
+            "{\u0161ii}",
+            "<span class=\"bf\">{x\u0259\u01f0\u0259\u0259</span>}",
+            "\u0259nd",
+            "ir-s\u0259\u014b-\u0161i=<span class=\"bf\">{j\u0259</span>}?"
+        ],
+        "srcwordstex": [
+            "{\u0161ii}",
+            "\\textbf{{x\u0259\u01f0\u0259\u0259}}",
+            "\u0259nd",
+            "ir-s\u0259\u014b-\u0161i=\\textbf{{j\u0259}}?"
+        ],
+        "trs": "When did you come here?\u2019 (\\citealt{Yu2008}: 85, 86)",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--28172",
+        "categories": [
+            "abl",
+            "cop",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 66,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  where-\\textsc{abl}  come-\\textsc{pst}-\\textsc{cop}-2\\textsc{sg=q}",
+        "imtwordsbare": [
+            "2SG",
+            "where-ABL",
+            "come-PST-COP-2sg=q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "where-<span class=\"sc\">abl</span>",
+            "come-<span class=\"sc\">pst</span>-<span class=\"sc\">cop</span>-2<span class=\"sc\">sg=q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "where-\\textsc{abl}",
+            "come-\\textsc{pst}-\\textsc{cop}-2\\textsc{sg=q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{\u0161ii} \\textbf{{xaan}}-aar  ir-s\u0259\u014b-\\textbf{{b}}{-\u0161i=}\\textbf{{j\u0259}}?",
+        "srcwordsbare": [
+            "{\u0161ii}",
+            "{xaan}-aar",
+            "ir-s\u0259\u014b-{b}{-\u0161i=}{j\u0259}?"
+        ],
+        "srcwordshtml": [
+            "{\u0161ii}",
+            "<span class=\"bf\">{xaan</span>}-aar",
+            "ir-s\u0259\u014b-<span class=\"bf\">{b</span>}{-\u0161i=}<span class=\"bf\">{j\u0259</span>}?"
+        ],
+        "srcwordstex": [
+            "{\u0161ii}",
+            "\\textbf{{xaan}}-aar",
+            "ir-s\u0259\u014b-\\textbf{{b}}{-\u0161i=}\\textbf{{j\u0259}}?"
+        ],
+        "trs": "Where did you come from?\u2019 (\\citealt{Yu2008}: 86)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-351632",
+        "categories": [
+            "q"
+        ],
+        "clength": 21,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "good=\\textsc{q}",
+        "imtwordsbare": [
+            "good=Q"
+        ],
+        "imtwordshtml": [
+            "good=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "good=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{hain=}\\textbf{{gu}}?",
+        "srcwordsbare": [
+            "{hain=}{gu}?"
+        ],
+        "srcwordshtml": [
+            "{hain=}<span class=\"bf\">{gu</span>}?"
+        ],
+        "srcwordstex": [
+            "{hain=}\\textbf{{gu}}?"
+        ],
+        "trs": "Is it good?",
+        "wlength": 1
+    },
+    {
+        "ID": "05mong-633659",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 37,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "3\\textsc{sg}  who  \\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "who",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "who",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "who",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{tere} \\textbf{{ken}} \\textbf{{bei}}?",
+        "srcwordsbare": [
+            "{tere}",
+            "{ken}",
+            "{bei}?"
+        ],
+        "srcwordshtml": [
+            "{tere}",
+            "<span class=\"bf\">{ken</span>}",
+            "<span class=\"bf\">{bei</span>}?"
+        ],
+        "srcwordstex": [
+            "{tere}",
+            "\\textbf{{ken}}",
+            "\\textbf{{bei}}?"
+        ],
+        "trs": "Who is he?\u2019 \\citep[97]{Janhunen2003c}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--48846",
+        "categories": [
+            "inst",
+            "ipfv",
+            "neg",
+            "p",
+            "pass",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 76,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  clothes=2\\textsc{sg.poss}  silk-\\textsc{inst}  sew-\\textsc{pass}-\\textsc{p.ipfv}=\\textsc{q} \\textsc{neg}=\\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "clothes=2sg.poss",
+            "silk-INST",
+            "sew-PASS-p.ipfv=Q",
+            "NEG=Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "clothes=2<span class=\"sc\">sg.poss</span>",
+            "silk-<span class=\"sc\">inst</span>",
+            "sew-<span class=\"sc\">pass</span>-<span class=\"sc\">p.ipfv</span>=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "clothes=2\\textsc{sg.poss}",
+            "silk-\\textsc{inst}",
+            "sew-\\textsc{pass}-\\textsc{p.ipfv}=\\textsc{q}",
+            "\\textsc{neg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\u0259n\u0259  kobcaxon=cini  t\u0254rg-\u0254\u0254r  \u0254j\u0254-gd-\u0254\u0254=\\textbf{{gu}}, {bisi=}\\textbf{{gu}}?",
+        "srcwordsbare": [
+            "\u0259n\u0259",
+            "kobcaxon=cini",
+            "t\u0254rg-\u0254\u0254r",
+            "\u0254j\u0254-gd-\u0254\u0254={gu},",
+            "{bisi=}{gu}?"
+        ],
+        "srcwordshtml": [
+            "\u0259n\u0259",
+            "kobcaxon=cini",
+            "t\u0254rg-\u0254\u0254r",
+            "\u0254j\u0254-gd-\u0254\u0254=<span class=\"bf\">{gu</span>},",
+            "{bisi=}<span class=\"bf\">{gu</span>}?"
+        ],
+        "srcwordstex": [
+            "\u0259n\u0259",
+            "kobcaxon=cini",
+            "t\u0254rg-\u0254\u0254r",
+            "\u0254j\u0254-gd-\u0254\u0254=\\textbf{{gu}},",
+            "{bisi=}\\textbf{{gu}}?"
+        ],
+        "trs": "Are these clothes made of silk or not?\u2019\\glt",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--51923",
+        "categories": [
+            "dat",
+            "fut",
+            "nom",
+            "p",
+            "pl",
+            "poss",
+            "prop",
+            "q",
+            "sg"
+        ],
+        "clength": 51,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg.nom}  see-\\textsc{p.fut}-\\textsc{dat}=1\\textsc{sg.poss}  fifty-\\textsc{prop}-2\\textsc{pl}  \\textsc{q}",
+        "imtwordsbare": [
+            "1sg.nom",
+            "see-p.fut-DAT=1sg.poss",
+            "fifty-PROP-2PL",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.nom</span>",
+            "see-<span class=\"sc\">p.fut</span>-<span class=\"sc\">dat</span>=1<span class=\"sc\">sg.poss</span>",
+            "fifty-<span class=\"sc\">prop</span>-2<span class=\"sc\">pl</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.nom}",
+            "see-\\textsc{p.fut}-\\textsc{dat}=1\\textsc{sg.poss}",
+            "fifty-\\textsc{prop}-2\\textsc{pl}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "bii    kara-ku-du=min    tabi-tee-ta \\textbf{{ba}}?",
+        "srcwordsbare": [
+            "bii",
+            "kara-ku-du=min",
+            "tabi-tee-ta",
+            "{ba}?"
+        ],
+        "srcwordshtml": [
+            "bii",
+            "kara-ku-du=min",
+            "tabi-tee-ta",
+            "<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "bii",
+            "kara-ku-du=min",
+            "tabi-tee-ta",
+            "\\textbf{{ba}}?"
+        ],
+        "trs": "I guess you are about fifty years old, right?\u2019 (\\citealt{Yamakoshi2007a}: 132, 127)\\z\\z",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--16917",
+        "categories": [
+            "com",
+            "cop",
+            "pn",
+            "pst",
+            "q"
+        ],
+        "clength": 36,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "\\textsc{pn}  money-\\textsc{com}  \\textsc{cop.pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "money-COM",
+            "cop.pst=Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "money-<span class=\"sc\">com</span>",
+            "<span class=\"sc\">cop.pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "money-\\textsc{com}",
+            "\\textsc{cop.pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "yeshe  m\u00fcnge-tei  hen=\\textbf{{g\u00fc}}?",
+        "srcwordsbare": [
+            "yeshe",
+            "m\u00fcnge-tei",
+            "hen={g\u00fc}?"
+        ],
+        "srcwordshtml": [
+            "yeshe",
+            "m\u00fcnge-tei",
+            "hen=<span class=\"bf\">{g\u00fc</span>}?"
+        ],
+        "srcwordstex": [
+            "yeshe",
+            "m\u00fcnge-tei",
+            "hen=\\textbf{{g\u00fc}}?"
+        ],
+        "trs": "Did Yeshe have money?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--14961",
+        "categories": [
+            "com",
+            "q",
+            "sg"
+        ],
+        "clength": 48,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  who-\\textsc{com}=\\textsc{q}=2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "who-COM=Q=2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "who-<span class=\"sc\">com</span>=<span class=\"sc\">q</span>=2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "who-\\textsc{com}=\\textsc{q}=2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{shi} \\textbf{{xen}}{-tei}{=}\\textbf{{b}}{=shi}?",
+        "srcwordsbare": [
+            "{shi}",
+            "{xen}{-tei}{=}{b}{=shi}?"
+        ],
+        "srcwordshtml": [
+            "{shi}",
+            "<span class=\"bf\">{xen</span>}{-tei}{=}<span class=\"bf\">{b</span>}{=shi}?"
+        ],
+        "srcwordstex": [
+            "{shi}",
+            "\\textbf{{xen}}{-tei}{=}\\textbf{{b}}{=shi}?"
+        ],
+        "trs": "Who are you with?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--86556",
+        "categories": [
+            "fut",
+            "p",
+            "q",
+            "sg"
+        ],
+        "clength": 51,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "go-\\textsc{p}.\\textsc{fut}-1\\textsc{sg}=\\textsc{q}  stay-\\textsc{p}.\\textsc{fut}-1\\textsc{sg}=\\textsc{q}",
+        "imtwordsbare": [
+            "go-P.FUT-1SG=Q",
+            "stay-P.FUT-1SG=Q"
+        ],
+        "imtwordshtml": [
+            "go-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>-1<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>",
+            "stay-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>-1<span class=\"sc\">sg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "go-\\textsc{p}.\\textsc{fut}-1\\textsc{sg}=\\textsc{q}",
+            "stay-\\textsc{p}.\\textsc{fut}-1\\textsc{sg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{yaba-xa-m=}\\textbf{{g\u00fc}},  bai-xa-m=\\textbf{{g\u00fc}}?",
+        "srcwordsbare": [
+            "{yaba-xa-m=}{g\u00fc},",
+            "bai-xa-m={g\u00fc}?"
+        ],
+        "srcwordshtml": [
+            "{yaba-xa-m=}<span class=\"bf\">{g\u00fc</span>},",
+            "bai-xa-m=<span class=\"bf\">{g\u00fc</span>}?"
+        ],
+        "srcwordstex": [
+            "{yaba-xa-m=}\\textbf{{g\u00fc}},",
+            "bai-xa-m=\\textbf{{g\u00fc}}?"
+        ],
+        "trs": "Shall I go or stay?\u2019 (\\citealt{Skribnik2003}: 120, 119)",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--60002",
+        "categories": [
+            "cop",
+            "cvb",
+            "dir",
+            "ipfv",
+            "p",
+            "poss",
+            "q",
+            "refl",
+            "sg"
+        ],
+        "clength": 62,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}  depart-\\textsc{cvb.ipfv}  \\textsc{cop}-\\textsc{p}.\\textsc{ipfv}  \\textsc{cop}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "school-DIR-POSS.REFL",
+            "depart-cvb.ipfv",
+            "COP-P.IPFV",
+            "COP=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "school-<span class=\"sc\">dir</span>-<span class=\"sc\">poss</span>.<span class=\"sc\">refl</span>",
+            "depart-<span class=\"sc\">cvb.ipfv</span>",
+            "<span class=\"sc\">cop</span>-<span class=\"sc\">p</span>.<span class=\"sc\">ipfv</span>",
+            "<span class=\"sc\">cop</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}",
+            "depart-\\textsc{cvb.ipfv}",
+            "\\textsc{cop}-\\textsc{p}.\\textsc{ipfv}",
+            "\\textsc{cop}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ci  surguul-ruu-g.aa  yaw-j      bai-g.aa  youm=\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "ci",
+            "surguul-ruu-g.aa",
+            "yaw-j",
+            "bai-g.aa",
+            "youm={uu}?"
+        ],
+        "srcwordshtml": [
+            "ci",
+            "surguul-ruu-g.aa",
+            "yaw-j",
+            "bai-g.aa",
+            "youm=<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "ci",
+            "surguul-ruu-g.aa",
+            "yaw-j",
+            "bai-g.aa",
+            "youm=\\textbf{{uu}}?"
+        ],
+        "trs": "Are you going to school?",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong-579770",
+        "categories": [
+            "cop",
+            "cvb",
+            "dir",
+            "ipfv",
+            "p",
+            "poss",
+            "q",
+            "refl",
+            "sg"
+        ],
+        "clength": 69,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}  depart-\\textsc{cvb.ipfv}  \\textsc{cop}-\\textsc{p}.\\textsc{ipfv}  \\textsc{cop}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "school-DIR-POSS.REFL",
+            "depart-cvb.ipfv",
+            "COP-P.IPFV",
+            "COP=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "school-<span class=\"sc\">dir</span>-<span class=\"sc\">poss</span>.<span class=\"sc\">refl</span>",
+            "depart-<span class=\"sc\">cvb.ipfv</span>",
+            "<span class=\"sc\">cop</span>-<span class=\"sc\">p</span>.<span class=\"sc\">ipfv</span>",
+            "<span class=\"sc\">cop</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}",
+            "depart-\\textsc{cvb.ipfv}",
+            "\\textsc{cop}-\\textsc{p}.\\textsc{ipfv}",
+            "\\textsc{cop}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ci  \\uline{surguul-ruu-g.aa} yaw-j      bai-g.aa  youm=\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "ci",
+            "\\uline{surguul-ruu-g.aa}",
+            "yaw-j",
+            "bai-g.aa",
+            "youm={uu}?"
+        ],
+        "srcwordshtml": [
+            "ci",
+            "\\uline{surguul-ruu-g.aa}",
+            "yaw-j",
+            "bai-g.aa",
+            "youm=<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "ci",
+            "\\uline{surguul-ruu-g.aa}",
+            "yaw-j",
+            "bai-g.aa",
+            "youm=\\textbf{{uu}}?"
+        ],
+        "trs": "Are you going \\textit{to school}?",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--77562",
+        "categories": [
+            "fut",
+            "p",
+            "q",
+            "sg"
+        ],
+        "clength": 73,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  tea  drink-\\textsc{p}.\\textsc{fut=q}  or  kumis  drink-\\textsc{p}.\\textsc{fut}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "tea",
+            "drink-P.fut=q",
+            "or",
+            "kumis",
+            "drink-P.FUT=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "tea",
+            "drink-<span class=\"sc\">p</span>.<span class=\"sc\">fut=q</span>",
+            "or",
+            "kumis",
+            "drink-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "tea",
+            "drink-\\textsc{p}.\\textsc{fut=q}",
+            "or",
+            "kumis",
+            "drink-\\textsc{p}.\\textsc{fut}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ci  tzai  uu-x=\\textbf{{uu}}, \\textbf{{eswel}} airag  uu-x=\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "ci",
+            "tzai",
+            "uu-x={uu},",
+            "{eswel}",
+            "airag",
+            "uu-x={uu}?"
+        ],
+        "srcwordshtml": [
+            "ci",
+            "tzai",
+            "uu-x=<span class=\"bf\">{uu</span>},",
+            "<span class=\"bf\">{eswel</span>}",
+            "airag",
+            "uu-x=<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "ci",
+            "tzai",
+            "uu-x=\\textbf{{uu}},",
+            "\\textbf{{eswel}}",
+            "airag",
+            "uu-x=\\textbf{{uu}}?"
+        ],
+        "trs": "Do you drink tea or kumis?",
+        "wlength": 6
+    },
+    {
+        "ID": "05mong--25350",
+        "categories": [
+            "dir",
+            "fut",
+            "neg",
+            "p",
+            "poss",
+            "q",
+            "refl",
+            "sg"
+        ],
+        "clength": 103,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}  depart-\\textsc{p}.\\textsc{fut}=\\textsc{q} or  depart-\\textsc{p}.\\textsc{fut}-\\textsc{neg}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "school-DIR-POSS.REFL",
+            "depart-P.FUT=Q",
+            "or",
+            "depart-P.FUT-NEG=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "school-<span class=\"sc\">dir</span>-<span class=\"sc\">poss</span>.<span class=\"sc\">refl</span>",
+            "depart-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>=<span class=\"sc\">q</span>",
+            "or",
+            "depart-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>-<span class=\"sc\">neg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}",
+            "depart-\\textsc{p}.\\textsc{fut}=\\textsc{q}",
+            "or",
+            "depart-\\textsc{p}.\\textsc{fut}-\\textsc{neg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ci  surguul-ruu-g.aa  yaw-a.x=\\textbf{uu}    \\textbf{eswel} {yaw-a.x-}\\textbf{{g\u00fci}}{=}\\textbf{{y.uu}}?",
+        "srcwordsbare": [
+            "ci",
+            "surguul-ruu-g.aa",
+            "yaw-a.x=uu",
+            "eswel",
+            "{yaw-a.x-}{g\u00fci}{=}{y.uu}?"
+        ],
+        "srcwordshtml": [
+            "ci",
+            "surguul-ruu-g.aa",
+            "yaw-a.x=<span class=\"bf\">uu</span>",
+            "<span class=\"bf\">eswel</span>",
+            "{yaw-a.x-}<span class=\"bf\">{g\u00fci</span>}{=}<span class=\"bf\">{y.uu</span>}?"
+        ],
+        "srcwordstex": [
+            "ci",
+            "surguul-ruu-g.aa",
+            "yaw-a.x=\\textbf{uu}",
+            "\\textbf{eswel}",
+            "{yaw-a.x-}\\textbf{{g\u00fci}}{=}\\textbf{{y.uu}}?"
+        ],
+        "trs": "Do you go to school or not?",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong-237651",
+        "categories": [
+            "cop",
+            "fut",
+            "p",
+            "q",
+            "sg"
+        ],
+        "clength": 88,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  tea  drink-\\textsc{p}.\\textsc{fut}  \\textsc{cop}=\\textsc{q}    or  kumis  drink-\\textsc{p}.\\textsc{fut} \\textsc{cop}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "tea",
+            "drink-P.FUT",
+            "COP=Q",
+            "or",
+            "kumis",
+            "drink-P.FUT",
+            "COP=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "tea",
+            "drink-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">cop</span>=<span class=\"sc\">q</span>",
+            "or",
+            "kumis",
+            "drink-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">cop</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "tea",
+            "drink-\\textsc{p}.\\textsc{fut}",
+            "\\textsc{cop}=\\textsc{q}",
+            "or",
+            "kumis",
+            "drink-\\textsc{p}.\\textsc{fut}",
+            "\\textsc{cop}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ci  tzai  uu-x    youm=\\textbf{{uu}}, \\textbf{{eswel}} airag  uu-x {youm=}\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "ci",
+            "tzai",
+            "uu-x",
+            "youm={uu},",
+            "{eswel}",
+            "airag",
+            "uu-x",
+            "{youm=}{uu}?"
+        ],
+        "srcwordshtml": [
+            "ci",
+            "tzai",
+            "uu-x",
+            "youm=<span class=\"bf\">{uu</span>},",
+            "<span class=\"bf\">{eswel</span>}",
+            "airag",
+            "uu-x",
+            "{youm=}<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "ci",
+            "tzai",
+            "uu-x",
+            "youm=\\textbf{{uu}},",
+            "\\textbf{{eswel}}",
+            "airag",
+            "uu-x",
+            "{youm=}\\textbf{{uu}}?"
+        ],
+        "trs": "Do you drink tea or kumis?",
+        "wlength": 8
+    },
+    {
+        "ID": "05mong--83441",
+        "categories": [
+            "dir",
+            "fut",
+            "p",
+            "poss",
+            "q",
+            "refl",
+            "sg"
+        ],
+        "clength": 63,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  when    school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}  depart-\\textsc{p}.\\textsc{fut}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "when",
+            "school-DIR-POSS.REFL",
+            "depart-P.FUT=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "when",
+            "school-<span class=\"sc\">dir</span>-<span class=\"sc\">poss</span>.<span class=\"sc\">refl</span>",
+            "depart-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "when",
+            "school-\\textsc{dir}-\\textsc{poss}.\\textsc{refl}",
+            "depart-\\textsc{p}.\\textsc{fut}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{ci} \\textbf{{xedzee}} surguul-ruu-g.aa  yaw-a.x=\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "{ci}",
+            "{xedzee}",
+            "surguul-ruu-g.aa",
+            "yaw-a.x={uu}?"
+        ],
+        "srcwordshtml": [
+            "{ci}",
+            "<span class=\"bf\">{xedzee</span>}",
+            "surguul-ruu-g.aa",
+            "yaw-a.x=<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "{ci}",
+            "\\textbf{{xedzee}}",
+            "surguul-ruu-g.aa",
+            "yaw-a.x=\\textbf{{uu}}?"
+        ],
+        "trs": "When are you going to school?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--37039",
+        "categories": [
+            "p",
+            "pfv",
+            "q"
+        ],
+        "clength": 42,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "who  tea  drink-\\textsc{p}.\\textsc{pfv}  \\textsc{q}",
+        "imtwordsbare": [
+            "who",
+            "tea",
+            "drink-P.PFV",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "who",
+            "tea",
+            "drink-<span class=\"sc\">p</span>.<span class=\"sc\">pfv</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "who",
+            "tea",
+            "drink-\\textsc{p}.\\textsc{pfv}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\\textbf{{xen}} tsai  uu-san \\textbf{{be}}?",
+        "srcwordsbare": [
+            "{xen}",
+            "tsai",
+            "uu-san",
+            "{be}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{xen</span>}",
+            "tsai",
+            "uu-san",
+            "<span class=\"bf\">{be</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{xen}}",
+            "tsai",
+            "uu-san",
+            "\\textbf{{be}}?"
+        ],
+        "trs": "Who drank tea?\u2019 \\citep[171]{Svantesson2003}",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--60497",
+        "categories": [
+            "dir",
+            "dur",
+            "poss",
+            "refl",
+            "sg"
+        ],
+        "clength": 45,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  school    \\textsc{dir}-\\textsc{poss}.\\textsc{refl}  depart-\\textsc{dur}  so",
+        "imtwordsbare": [
+            "2SG",
+            "school",
+            "DIR-POSS.REFL",
+            "depart-DUR",
+            "so"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "school",
+            "<span class=\"sc\">dir</span>-<span class=\"sc\">poss</span>.<span class=\"sc\">refl</span>",
+            "depart-<span class=\"sc\">dur</span>",
+            "so"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "school",
+            "\\textsc{dir}-\\textsc{poss}.\\textsc{refl}",
+            "depart-\\textsc{dur}",
+            "so"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ci  surguul  ruu-g.aa  yab-na \\textbf{{tee}}?",
+        "srcwordsbare": [
+            "ci",
+            "surguul",
+            "ruu-g.aa",
+            "yab-na",
+            "{tee}?"
+        ],
+        "srcwordshtml": [
+            "ci",
+            "surguul",
+            "ruu-g.aa",
+            "yab-na",
+            "<span class=\"bf\">{tee</span>}?"
+        ],
+        "srcwordstex": [
+            "ci",
+            "surguul",
+            "ruu-g.aa",
+            "yab-na",
+            "\\textbf{{tee}}?"
+        ],
+        "trs": "You are going to school, right?",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong-471381",
+        "categories": [
+            "neg",
+            "p",
+            "pfv",
+            "q"
+        ],
+        "clength": 38,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "come-\\textsc{p.pfv}  \\textsc{neg}=\\textsc{q}",
+        "imtwordsbare": [
+            "come-p.pfv",
+            "NEG=Q"
+        ],
+        "imtwordshtml": [
+            "come-<span class=\"sc\">p.pfv</span>",
+            "<span class=\"sc\">neg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "come-\\textsc{p.pfv}",
+            "\\textsc{neg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{ir-sen} \\textbf{{bi\u0161}}=\\textbf{{oo}}?",
+        "srcwordsbare": [
+            "{ir-sen}",
+            "{bi\u0161}={oo}?"
+        ],
+        "srcwordshtml": [
+            "{ir-sen}",
+            "<span class=\"bf\">{bi\u0161</span>}=<span class=\"bf\">{oo</span>}?"
+        ],
+        "srcwordstex": [
+            "{ir-sen}",
+            "\\textbf{{bi\u0161}}=\\textbf{{oo}}?"
+        ],
+        "trs": "(S)he arrived, didn\u2019t (s)he?\u2019 \\citep[188]{Ragagnin2011}",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--43339",
+        "categories": [
+            "dur",
+            "q",
+            "sg"
+        ],
+        "clength": 39,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "brother=2\\textsc{sg}  today    depart-\\textsc{dur}=\\textsc{q}",
+        "imtwordsbare": [
+            "brother=2SG",
+            "today",
+            "depart-DUR=Q"
+        ],
+        "imtwordshtml": [
+            "brother=2<span class=\"sc\">sg</span>",
+            "today",
+            "depart-<span class=\"sc\">dur</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "brother=2\\textsc{sg}",
+            "today",
+            "depart-\\textsc{dur}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ax=cin    \u00f5n\u00f5\u00f5d\u00f5r  yaw-n=\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "ax=cin",
+            "\u00f5n\u00f5\u00f5d\u00f5r",
+            "yaw-n={uu}?"
+        ],
+        "srcwordshtml": [
+            "ax=cin",
+            "\u00f5n\u00f5\u00f5d\u00f5r",
+            "yaw-n=<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "ax=cin",
+            "\u00f5n\u00f5\u00f5d\u00f5r",
+            "yaw-n=\\textbf{{uu}}?"
+        ],
+        "trs": "Is your brother leaving today?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-573255",
+        "categories": [
+            "q"
+        ],
+        "clength": 44,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  what  thing=\\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "what",
+            "thing=Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "what",
+            "thing=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "what",
+            "thing=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{e.n} \\textbf{{yamar}} {yum=}\\textbf{{b\u00e9\u00e9}}?",
+        "srcwordsbare": [
+            "{e.n}",
+            "{yamar}",
+            "{yum=}{b\u00e9\u00e9}?"
+        ],
+        "srcwordshtml": [
+            "{e.n}",
+            "<span class=\"bf\">{yamar</span>}",
+            "{yum=}<span class=\"bf\">{b\u00e9\u00e9</span>}?"
+        ],
+        "srcwordstex": [
+            "{e.n}",
+            "\\textbf{{yamar}}",
+            "{yum=}\\textbf{{b\u00e9\u00e9}}?"
+        ],
+        "trs": "What kind of thing is this?\u2019 (\\citealt{Sechenbaatar2003}: 182, 107)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--52465",
+        "categories": [
+            "q",
+            "top"
+        ],
+        "clength": 32,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  \\textsc{top}  book=\\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "TOP",
+            "book=Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "<span class=\"sc\">top</span>",
+            "book=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "\\textsc{top}",
+            "book=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{\u0259n\u0259} {b\u0254l} {n\u0254m=}\\textbf{{\u028a\u028a}}?",
+        "srcwordsbare": [
+            "{\u0259n\u0259}",
+            "{b\u0254l}",
+            "{n\u0254m=}{\u028a\u028a}?"
+        ],
+        "srcwordshtml": [
+            "{\u0259n\u0259}",
+            "{b\u0254l}",
+            "{n\u0254m=}<span class=\"bf\">{\u028a\u028a</span>}?"
+        ],
+        "srcwordstex": [
+            "{\u0259n\u0259}",
+            "{b\u0254l}",
+            "{n\u0254m=}\\textbf{{\u028a\u028a}}?"
+        ],
+        "trs": "Is this a book?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--49451",
+        "categories": [
+            "cond",
+            "cvb",
+            "prs",
+            "q",
+            "refl",
+            "sg"
+        ],
+        "clength": 91,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg}  here  go-\\textsc{cvb.cond}  fit-prs=\\textsc{q} there-\\textsc{refl}  go-\\textsc{cvb.cond}  fit-\\textsc{prs}=\\textsc{q}",
+        "imtwordsbare": [
+            "1SG",
+            "here",
+            "go-cvb.cond",
+            "fit-prs=Q",
+            "there-REFL",
+            "go-cvb.cond",
+            "fit-PRS=Q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "here",
+            "go-<span class=\"sc\">cvb.cond</span>",
+            "fit-prs=<span class=\"sc\">q</span>",
+            "there-<span class=\"sc\">refl</span>",
+            "go-<span class=\"sc\">cvb.cond</span>",
+            "fit-<span class=\"sc\">prs</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "here",
+            "go-\\textsc{cvb.cond}",
+            "fit-prs=\\textsc{q}",
+            "there-\\textsc{refl}",
+            "go-\\textsc{cvb.cond}",
+            "fit-\\textsc{prs}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{bii} {\u0259nuur} {jab-aal} {taar-n=}\\textbf{{\u028a\u028a}}, {tii\u0161-\u0259\u0259} {jab-aal} {taar-n=}\\textbf{{\u028a\u028a}}?",
+        "srcwordsbare": [
+            "{bii}",
+            "{\u0259nuur}",
+            "{jab-aal}",
+            "{taar-n=}{\u028a\u028a},",
+            "{tii\u0161-\u0259\u0259}",
+            "{jab-aal}",
+            "{taar-n=}{\u028a\u028a}?"
+        ],
+        "srcwordshtml": [
+            "{bii}",
+            "{\u0259nuur}",
+            "{jab-aal}",
+            "{taar-n=}<span class=\"bf\">{\u028a\u028a</span>},",
+            "{tii\u0161-\u0259\u0259}",
+            "{jab-aal}",
+            "{taar-n=}<span class=\"bf\">{\u028a\u028a</span>}?"
+        ],
+        "srcwordstex": [
+            "{bii}",
+            "{\u0259nuur}",
+            "{jab-aal}",
+            "{taar-n=}\\textbf{{\u028a\u028a}},",
+            "{tii\u0161-\u0259\u0259}",
+            "{jab-aal}",
+            "{taar-n=}\\textbf{{\u028a\u028a}}?"
+        ],
+        "trs": "Do I have to go in this or that direction?\u2019 (\\citealt{Yamakoshi2015}: 282, 292)",
+        "wlength": 7
+    },
+    {
+        "ID": "05mong-544311",
+        "categories": [
+            "conf",
+            "q"
+        ],
+        "clength": 34,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "that  person  depart-\\textsc{conf}=\\textsc{q}",
+        "imtwordsbare": [
+            "that",
+            "person",
+            "depart-CONF=Q"
+        ],
+        "imtwordshtml": [
+            "that",
+            "person",
+            "depart-<span class=\"sc\">conf</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "person",
+            "depart-\\textsc{conf}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u025br  xun  j\u025bb-l\u025b\u025b=\\textbf{{j.ii}}?",
+        "srcwordsbare": [
+            "t\u025br",
+            "xun",
+            "j\u025bb-l\u025b\u025b={j.ii}?"
+        ],
+        "srcwordshtml": [
+            "t\u025br",
+            "xun",
+            "j\u025bb-l\u025b\u025b=<span class=\"bf\">{j.ii</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u025br",
+            "xun",
+            "j\u025bb-l\u025b\u025b=\\textbf{{j.ii}}?"
+        ],
+        "trs": "Did that man go?\u2019 \\citep[71]{Chaganhada1991}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-790696",
+        "categories": [
+            "pl",
+            "q"
+        ],
+        "clength": 37,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{pl}  who=\\textsc{q}",
+        "imtwordsbare": [
+            "2PL",
+            "who=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>",
+            "who=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}",
+            "who=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{\u010dii} \\textbf{{x\u0259n}}{=}\\textbf{{ji}}?",
+        "srcwordsbare": [
+            "{\u010dii}",
+            "{x\u0259n}{=}{ji}?"
+        ],
+        "srcwordshtml": [
+            "{\u010dii}",
+            "<span class=\"bf\">{x\u0259n</span>}{=}<span class=\"bf\">{ji</span>}?"
+        ],
+        "srcwordstex": [
+            "{\u010dii}",
+            "\\textbf{{x\u0259n}}{=}\\textbf{{ji}}?"
+        ],
+        "trs": "Who are you?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-745827",
+        "categories": [
+            "cop",
+            "gen",
+            "poss",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg.gen}  father=2\\textsc{sg.poss}  where  \\textsc{cop}",
+        "imtwordsbare": [
+            "2sg.gen",
+            "father=2sg.poss",
+            "where",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.gen</span>",
+            "father=2<span class=\"sc\">sg.poss</span>",
+            "where",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.gen}",
+            "father=2\\textsc{sg.poss}",
+            "where",
+            "\\textsc{cop}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{\u010dinii} {aab=\u010din\u2019} \\textbf{{xaa}} {bii}?",
+        "srcwordsbare": [
+            "{\u010dinii}",
+            "{aab=\u010din\u2019}",
+            "{xaa}",
+            "{bii}?"
+        ],
+        "srcwordshtml": [
+            "{\u010dinii}",
+            "{aab=\u010din\u2019}",
+            "<span class=\"bf\">{xaa</span>}",
+            "{bii}?"
+        ],
+        "srcwordstex": [
+            "{\u010dinii}",
+            "{aab=\u010din\u2019}",
+            "\\textbf{{xaa}}",
+            "{bii}?"
+        ],
+        "trs": "Where is your father?\u2019 (\\citealt{Yamakoshi2015}: 282, 284)",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-647443",
+        "categories": [
+            "cop",
+            "gen",
+            "q"
+        ],
+        "clength": 47,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  chicken  who-\\textsc{gen}  \\textsc{cop.q}",
+        "imtwordsbare": [
+            "this",
+            "chicken",
+            "who-GEN",
+            "cop.q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "chicken",
+            "who-<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">cop.q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "chicken",
+            "who-\\textsc{gen}",
+            "\\textsc{cop.q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\u0259n  t\u025bxaa \\textbf{{x\u0259n}}{-\u025b\u025b} \\textbf{{jim\u025b\u025b}}?",
+        "srcwordsbare": [
+            "\u0259n",
+            "t\u025bxaa",
+            "{x\u0259n}{-\u025b\u025b}",
+            "{jim\u025b\u025b}?"
+        ],
+        "srcwordshtml": [
+            "\u0259n",
+            "t\u025bxaa",
+            "<span class=\"bf\">{x\u0259n</span>}{-\u025b\u025b}",
+            "<span class=\"bf\">{jim\u025b\u025b</span>}?"
+        ],
+        "srcwordstex": [
+            "\u0259n",
+            "t\u025bxaa",
+            "\\textbf{{x\u0259n}}{-\u025b\u025b}",
+            "\\textbf{{jim\u025b\u025b}}?"
+        ],
+        "trs": "Whose chicken is this?\u2019 \\citep[71]{Chaganhada1991}",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-415773",
+        "categories": [
+            "cop",
+            "gen",
+            "nom",
+            "q"
+        ],
+        "clength": 57,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  chicken  who-\\textsc{gen}(-\\textsc{nom})  \\textsc{cop}  \\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "chicken",
+            "who-GEN(-NOM)",
+            "COP",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "chicken",
+            "who-<span class=\"sc\">gen</span>(-<span class=\"sc\">nom</span>)",
+            "<span class=\"sc\">cop</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "chicken",
+            "who-\\textsc{gen}(-\\textsc{nom})",
+            "\\textsc{cop}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "en  taxyaa \\textbf{{xen}}-ii(-x)    youm \\textbf{{bwai}}?",
+        "srcwordsbare": [
+            "en",
+            "taxyaa",
+            "{xen}-ii(-x)",
+            "youm",
+            "{bwai}?"
+        ],
+        "srcwordshtml": [
+            "en",
+            "taxyaa",
+            "<span class=\"bf\">{xen</span>}-ii(-x)",
+            "youm",
+            "<span class=\"bf\">{bwai</span>}?"
+        ],
+        "srcwordstex": [
+            "en",
+            "taxyaa",
+            "\\textbf{{xen}}-ii(-x)",
+            "youm",
+            "\\textbf{{bwai}}?"
+        ],
+        "trs": "Whose chicken is this?",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--70447",
+        "categories": [
+            "",
+            "dat",
+            "pn",
+            "q"
+        ],
+        "clength": 44,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "\\textsc{pn-dat}    what  do\\textsc{=q}",
+        "imtwordsbare": [
+            "pn-dat",
+            "what",
+            "do=q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn-dat</span>",
+            "what",
+            "do<span class=\"sc\">=q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn-dat}",
+            "what",
+            "do\\textsc{=q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{zaqi-d} \\textbf{{yuu}} {xii=}\\textbf{{me}}?",
+        "srcwordsbare": [
+            "{zaqi-d}",
+            "{yuu}",
+            "{xii=}{me}?"
+        ],
+        "srcwordshtml": [
+            "{zaqi-d}",
+            "<span class=\"bf\">{yuu</span>}",
+            "{xii=}<span class=\"bf\">{me</span>}?"
+        ],
+        "srcwordstex": [
+            "{zaqi-d}",
+            "\\textbf{{yuu}}",
+            "{xii=}\\textbf{{me}}?"
+        ],
+        "trs": "What are you going to do in Jarud?\u2019\\footnote{In \\ili{Chinese} this place is called \\textit{z\\=aq\u00ed} \\zh{\u624e\u65d7}.} \\citep[15]{Brosig2014}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-264146",
+        "categories": [
+            "gen",
+            "ipfv",
+            "neg",
+            "poss",
+            "q",
+            "sg"
+        ],
+        "clength": 56,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg.gen}  e.brother=2\\textsc{sg.poss}  also  forty  become-\\textsc{neg.ipfv}=\\textsc{q}",
+        "imtwordsbare": [
+            "2sg.gen",
+            "e.brother=2sg.poss",
+            "also",
+            "forty",
+            "become-neg.ipfv=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg.gen</span>",
+            "e.brother=2<span class=\"sc\">sg.poss</span>",
+            "also",
+            "forty",
+            "become-<span class=\"sc\">neg.ipfv</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg.gen}",
+            "e.brother=2\\textsc{sg.poss}",
+            "also",
+            "forty",
+            "become-\\textsc{neg.ipfv}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "polarity": "negative",
+        "src": "{\u010dinii} {ax=\u010din'} {bas} {du\u010d} {b\u0254l-\u0254\u0254due=}\\textbf{{ba}}?",
+        "srcwordsbare": [
+            "{\u010dinii}",
+            "{ax=\u010din'}",
+            "{bas}",
+            "{du\u010d}",
+            "{b\u0254l-\u0254\u0254due=}{ba}?"
+        ],
+        "srcwordshtml": [
+            "{\u010dinii}",
+            "{ax=\u010din'}",
+            "{bas}",
+            "{du\u010d}",
+            "{b\u0254l-\u0254\u0254due=}<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "{\u010dinii}",
+            "{ax=\u010din'}",
+            "{bas}",
+            "{du\u010d}",
+            "{b\u0254l-\u0254\u0254due=}\\textbf{{ba}}?"
+        ],
+        "trs": "Your elder brother is not yet forty, right?\u2019 \\citep[287]{Yamakoshi2015}",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong-554483",
+        "categories": [
+            "neg",
+            "q"
+        ],
+        "clength": 45,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "that  person  teacher    \\textsc{neg}  like.that=\\textsc{q}",
+        "imtwordsbare": [
+            "that",
+            "person",
+            "teacher",
+            "NEG",
+            "like.that=Q"
+        ],
+        "imtwordshtml": [
+            "that",
+            "person",
+            "teacher",
+            "<span class=\"sc\">neg</span>",
+            "like.that=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "person",
+            "teacher",
+            "\\textsc{neg}",
+            "like.that=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "polarity": "negative",
+        "src": "{t\u0259r\u0259} {xun} {bax\u0161} bi\u0161\u0259, \\textbf{{tiim=ba}}?",
+        "srcwordsbare": [
+            "{t\u0259r\u0259}",
+            "{xun}",
+            "{bax\u0161}",
+            "bi\u0161\u0259,",
+            "{tiim=ba}?"
+        ],
+        "srcwordshtml": [
+            "{t\u0259r\u0259}",
+            "{xun}",
+            "{bax\u0161}",
+            "bi\u0161\u0259,",
+            "<span class=\"bf\">{tiim=ba</span>}?"
+        ],
+        "srcwordstex": [
+            "{t\u0259r\u0259}",
+            "{xun}",
+            "{bax\u0161}",
+            "bi\u0161\u0259,",
+            "\\textbf{{tiim=ba}}?"
+        ],
+        "trs": "That person is not a teacher, right?",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong-654650",
+        "categories": [
+            "",
+            "cvb",
+            "ipfv",
+            "q"
+        ],
+        "clength": 95,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "when  hour  become-\\textsc{cvb.}\\textsc{ipfv}=\\textsc{q}  two  hour=\\textsc{q}    like.that=\\textsc{q}",
+        "imtwordsbare": [
+            "when",
+            "hour",
+            "become-cvb.IPFV=Q",
+            "two",
+            "hour=Q",
+            "like.that=Q"
+        ],
+        "imtwordshtml": [
+            "when",
+            "hour",
+            "become-<span class=\"sc\">cvb.</span><span class=\"sc\">ipfv</span>=<span class=\"sc\">q</span>",
+            "two",
+            "hour=<span class=\"sc\">q</span>",
+            "like.that=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "when",
+            "hour",
+            "become-\\textsc{cvb.}\\textsc{ipfv}=\\textsc{q}",
+            "two",
+            "hour=\\textsc{q}",
+            "like.that=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\\textbf{{x\u0259d\u0259n}} {\u010dag} {b\u0254l-\u01f0=}\\textbf{{ji}}?    x\u0254j\u0254r {\u010dag=}\\textbf{{\u028a\u028a}}? \\textbf{{tiim=uu}}?",
+        "srcwordsbare": [
+            "{x\u0259d\u0259n}",
+            "{\u010dag}",
+            "{b\u0254l-\u01f0=}{ji}?",
+            "x\u0254j\u0254r",
+            "{\u010dag=}{\u028a\u028a}?",
+            "{tiim=uu}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{x\u0259d\u0259n</span>}",
+            "{\u010dag}",
+            "{b\u0254l-\u01f0=}<span class=\"bf\">{ji</span>}?",
+            "x\u0254j\u0254r",
+            "{\u010dag=}<span class=\"bf\">{\u028a\u028a</span>}?",
+            "<span class=\"bf\">{tiim=uu</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{x\u0259d\u0259n}}",
+            "{\u010dag}",
+            "{b\u0254l-\u01f0=}\\textbf{{ji}}?",
+            "x\u0254j\u0254r",
+            "{\u010dag=}\\textbf{{\u028a\u028a}}?",
+            "\\textbf{{tiim=uu}}?"
+        ],
+        "trs": "What time is it? Two o\u2019clock? Right?\u2019 (\\citealt{Yamakoshi2015}: 283, 286)",
+        "wlength": 6
+    },
+    {
+        "ID": "05mong-283427",
+        "categories": [
+            "gen",
+            "q"
+        ],
+        "clength": 54,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  day  new  five  month-\\textsc{gen}  one  \\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "day",
+            "new",
+            "five",
+            "month-GEN",
+            "one",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "day",
+            "new",
+            "five",
+            "month-<span class=\"sc\">gen</span>",
+            "one",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "day",
+            "new",
+            "five",
+            "month-\\textsc{gen}",
+            "one",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "polarity": "negative",
+        "src": "\u0259n  udur  \u0283in  tab\u0259n  sar-iin    n\u0259g\u0259n \\textbf{{\u0283ii}}?",
+        "srcwordsbare": [
+            "\u0259n",
+            "udur",
+            "\u0283in",
+            "tab\u0259n",
+            "sar-iin",
+            "n\u0259g\u0259n",
+            "{\u0283ii}?"
+        ],
+        "srcwordshtml": [
+            "\u0259n",
+            "udur",
+            "\u0283in",
+            "tab\u0259n",
+            "sar-iin",
+            "n\u0259g\u0259n",
+            "<span class=\"bf\">{\u0283ii</span>}?"
+        ],
+        "srcwordstex": [
+            "\u0259n",
+            "udur",
+            "\u0283in",
+            "tab\u0259n",
+            "sar-iin",
+            "n\u0259g\u0259n",
+            "\\textbf{{\u0283ii}}?"
+        ],
+        "trs": "Is today not the first day of May?\u2019 \\citep[71]{Chaganhada1991}",
+        "wlength": 7
+    },
+    {
+        "ID": "05mong--47865",
+        "categories": [
+            "q",
+            "term"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "go-\\textsc{term}=\\textsc{q}",
+        "imtwordsbare": [
+            "go-TERM=Q"
+        ],
+        "imtwordshtml": [
+            "go-<span class=\"sc\">term</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "go-\\textsc{term}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{yabu-b=}\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "{yabu-b=}{uu}?"
+        ],
+        "srcwordshtml": [
+            "{yabu-b=}<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "{yabu-b=}\\textbf{{uu}}?"
+        ],
+        "trs": "Did he go?\u2019 \\citep[208]{Georg2003a}",
+        "wlength": 1
+    },
+    {
+        "ID": "05mong--31099",
+        "categories": [
+            "3",
+            "res",
+            "sg"
+        ],
+        "clength": 59,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "3\\textsc{sg}  what  say-\\textsc{res-3}",
+        "imtwordsbare": [
+            "3SG",
+            "what",
+            "say-res-3"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "what",
+            "say-<span class=\"sc\">res-3</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "what",
+            "say-\\textsc{res-3}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{t\u2018e.re} \\textbf{{j}}\\textbf{{\u026f\u026f}} {ge-}\\textsc{d}{\u017e\\=e-n?}",
+        "srcwordsbare": [
+            "{t\u2018e.re}",
+            "{j}{\u026f\u026f}",
+            "{ge-}d{\u017e\\=e-n?}"
+        ],
+        "srcwordshtml": [
+            "{t\u2018e.re}",
+            "<span class=\"bf\">{j</span>}<span class=\"bf\">{\u026f\u026f</span>}",
+            "{ge-}<span class=\"sc\">d</span>{\u017e\\=e-n?}"
+        ],
+        "srcwordstex": [
+            "{t\u2018e.re}",
+            "\\textbf{{j}}\\textbf{{\u026f\u026f}}",
+            "{ge-}\\textsc{d}{\u017e\\=e-n?}"
+        ],
+        "trs": "What does he say?\u2019 (\\citealt{Mostaert1937}: lix)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-858167",
+        "categories": [
+            "pfv",
+            "q",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "3\\textsc{sg}  come-\\textsc{pfv}=\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "come-PFV=Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">pfv</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "come-\\textsc{pfv}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ter  ir-v=\\textbf{{u}}?",
+        "srcwordsbare": [
+            "ter",
+            "ir-v={u}?"
+        ],
+        "srcwordshtml": [
+            "ter",
+            "ir-v=<span class=\"bf\">{u</span>}?"
+        ],
+        "srcwordstex": [
+            "ter",
+            "ir-v=\\textbf{{u}}?"
+        ],
+        "trs": "Did he come?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--63269",
+        "categories": [
+            "q"
+        ],
+        "clength": 77,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "today  which    day  good  day=\\textsc{q}  bad  day=\\textsc{q}",
+        "imtwordsbare": [
+            "today",
+            "which",
+            "day",
+            "good",
+            "day=Q",
+            "bad",
+            "day=Q"
+        ],
+        "imtwordshtml": [
+            "today",
+            "which",
+            "day",
+            "good",
+            "day=<span class=\"sc\">q</span>",
+            "bad",
+            "day=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "today",
+            "which",
+            "day",
+            "good",
+            "day=\\textsc{q}",
+            "bad",
+            "day=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{endr} \\textbf{{yamaran}} \u00f6dr?  s\u00e4n  \u00f6dr=\\textbf{{iy}} mu  \u00f6dr=\\textbf{{iy}}?",
+        "srcwordsbare": [
+            "{endr}",
+            "{yamaran}",
+            "\u00f6dr?",
+            "s\u00e4n",
+            "\u00f6dr={iy}",
+            "mu",
+            "\u00f6dr={iy}?"
+        ],
+        "srcwordshtml": [
+            "{endr}",
+            "<span class=\"bf\">{yamaran</span>}",
+            "\u00f6dr?",
+            "s\u00e4n",
+            "\u00f6dr=<span class=\"bf\">{iy</span>}",
+            "mu",
+            "\u00f6dr=<span class=\"bf\">{iy</span>}?"
+        ],
+        "srcwordstex": [
+            "{endr}",
+            "\\textbf{{yamaran}}",
+            "\u00f6dr?",
+            "s\u00e4n",
+            "\u00f6dr=\\textbf{{iy}}",
+            "mu",
+            "\u00f6dr=\\textbf{{iy}}?"
+        ],
+        "trs": "What kind of day is it today, (is it) a good day or a bad day?\u2019 (\\citealt{Benzing1985}: 42f.)",
+        "wlength": 7
+    },
+    {
+        "ID": "05mong-225000",
+        "categories": [
+            "prog",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "whither  go-\\textsc{prog}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "whither",
+            "go-PROG-2SG"
+        ],
+        "imtwordshtml": [
+            "whither",
+            "go-<span class=\"sc\">prog</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "whither",
+            "go-\\textsc{prog}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\\textbf{{al\u2019daran}} {yow-jana-c?}",
+        "srcwordsbare": [
+            "{al\u2019daran}",
+            "{yow-jana-c?}"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{al\u2019daran</span>}",
+            "{yow-jana-c?}"
+        ],
+        "srcwordstex": [
+            "\\textbf{{al\u2019daran}}",
+            "{yow-jana-c?}"
+        ],
+        "trs": "Where are you going?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-185342",
+        "categories": [
+            "all",
+            "prog",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  tomorrow  school-\\textsc{all}  go-\\textsc{prog}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "tomorrow",
+            "school-ALL",
+            "go-PROG-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "tomorrow",
+            "school-<span class=\"sc\">all</span>",
+            "go-<span class=\"sc\">prog</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "tomorrow",
+            "school-\\textsc{all}",
+            "go-\\textsc{prog}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ci  manhdur  shkol-d    yow-jana-c?",
+        "srcwordsbare": [
+            "ci",
+            "manhdur",
+            "shkol-d",
+            "yow-jana-c?"
+        ],
+        "srcwordshtml": [
+            "ci",
+            "manhdur",
+            "shkol-d",
+            "yow-jana-c?"
+        ],
+        "srcwordstex": [
+            "ci",
+            "manhdur",
+            "shkol-d",
+            "yow-jana-c?"
+        ],
+        "trs": "Are you going to school tomorrow?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--28813",
+        "categories": [
+            "all",
+            "prog",
+            "sg"
+        ],
+        "clength": 43,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  tomorrow  school-\\textsc{all}  go-\\textsc{prog}-2\\textsc{sg}",
+        "imtwordsbare": [
+            "2SG",
+            "tomorrow",
+            "school-ALL",
+            "go-PROG-2SG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "tomorrow",
+            "school-<span class=\"sc\">all</span>",
+            "go-<span class=\"sc\">prog</span>-2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "tomorrow",
+            "school-\\textsc{all}",
+            "go-\\textsc{prog}-2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\\uline{ci}  manhdur  shkol-d    yow-jana-c?",
+        "srcwordsbare": [
+            "\\uline{ci}",
+            "manhdur",
+            "shkol-d",
+            "yow-jana-c?"
+        ],
+        "srcwordshtml": [
+            "\\uline{ci}",
+            "manhdur",
+            "shkol-d",
+            "yow-jana-c?"
+        ],
+        "srcwordstex": [
+            "\\uline{ci}",
+            "manhdur",
+            "shkol-d",
+            "yow-jana-c?"
+        ],
+        "trs": "Are \\textit{you} going to school tomorrow?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--66551",
+        "categories": [
+            "cop",
+            "q"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "good  \\textsc{cop}=\\textsc{q}",
+        "imtwordsbare": [
+            "good",
+            "COP=Q"
+        ],
+        "imtwordshtml": [
+            "good",
+            "<span class=\"sc\">cop</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "good",
+            "\\textsc{cop}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "s\u00e4\u00e4n  b\u00e4\u00e4n=\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "s\u00e4\u00e4n",
+            "b\u00e4\u00e4n={uu}?"
+        ],
+        "srcwordshtml": [
+            "s\u00e4\u00e4n",
+            "b\u00e4\u00e4n=<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "s\u00e4\u00e4n",
+            "b\u00e4\u00e4n=\\textbf{{uu}}?"
+        ],
+        "trs": "Are you well?\u2019 \\citep[227]{Birtalan2003}",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--11012",
+        "categories": [
+            "hab",
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 54,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  \\textsc{pn}  speak  able-\\textsc{hab}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "PN",
+            "speak",
+            "able-HAB=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pn</span>",
+            "speak",
+            "able-<span class=\"sc\">hab</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "\\textsc{pn}",
+            "speak",
+            "able-\\textsc{hab}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{t\u0283\u0259} {qutad} larg\u0259  \u0283da-da\u0262=\\textbf{{u}}\\textbf{{u}}?",
+        "srcwordsbare": [
+            "{t\u0283\u0259}",
+            "{qutad}",
+            "larg\u0259",
+            "\u0283da-da\u0262={u}{u}?"
+        ],
+        "srcwordshtml": [
+            "{t\u0283\u0259}",
+            "{qutad}",
+            "larg\u0259",
+            "\u0283da-da\u0262=<span class=\"bf\">{u</span>}<span class=\"bf\">{u</span>}?"
+        ],
+        "srcwordstex": [
+            "{t\u0283\u0259}",
+            "{qutad}",
+            "larg\u0259",
+            "\u0283da-da\u0262=\\textbf{{u}}\\textbf{{u}}?"
+        ],
+        "trs": "Can you speak \\ili{Chinese}?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--17766",
+        "categories": [
+            "dat",
+            "gen",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 74,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}.\\textsc{gen} be  what  time-\\textsc{dat}  get-\\textsc{pst}   \\textsc{q}",
+        "imtwordsbare": [
+            "2SG.GEN",
+            "be",
+            "what",
+            "time-DAT",
+            "get-PST",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">gen</span>",
+            "be",
+            "what",
+            "time-<span class=\"sc\">dat</span>",
+            "get-<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}.\\textsc{gen}",
+            "be",
+            "what",
+            "time-\\textsc{dat}",
+            "get-\\textsc{pst}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0283\u0259miin    d\u0292a \\textbf{{jimar}} d\u0289ge-d\u0259  \u0254\u0254l-s\u0254n \\textbf{{b}}\\textbf{{\u0259}}?",
+        "srcwordsbare": [
+            "t\u0283\u0259miin",
+            "d\u0292a",
+            "{jimar}",
+            "d\u0289ge-d\u0259",
+            "\u0254\u0254l-s\u0254n",
+            "{b}{\u0259}?"
+        ],
+        "srcwordshtml": [
+            "t\u0283\u0259miin",
+            "d\u0292a",
+            "<span class=\"bf\">{jimar</span>}",
+            "d\u0289ge-d\u0259",
+            "\u0254\u0254l-s\u0254n",
+            "<span class=\"bf\">{b</span>}<span class=\"bf\">{\u0259</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0283\u0259miin",
+            "d\u0292a",
+            "\\textbf{{jimar}}",
+            "d\u0289ge-d\u0259",
+            "\u0254\u0254l-s\u0254n",
+            "\\textbf{{b}}\\textbf{{\u0259}}?"
+        ],
+        "trs": "Which year were you born in?\u2019 (\\citealt{Chaolu1994a}: 8, 9f.)",
+        "wlength": 6
+    },
+    {
+        "ID": "05mong--69088",
+        "categories": [
+            "ex",
+            "loc",
+            "neg",
+            "obl",
+            "q",
+            "sg"
+        ],
+        "clength": 74,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}.\\textsc{obl}-\\textsc{loc}  knife    \\textsc{ex}=\\textsc{q}    \\textsc{neg}=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG.OBL-LOC",
+            "knife",
+            "EX=Q",
+            "NEG=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">obl</span>-<span class=\"sc\">loc</span>",
+            "knife",
+            "<span class=\"sc\">ex</span>=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}.\\textsc{obl}-\\textsc{loc}",
+            "knife",
+            "\\textsc{ex}=\\textsc{q}",
+            "\\textsc{neg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0283\u0259.ma-d\u0259  quda\u0281a    bii=\\textbf{{j.u}}, \\textbf{{u\u0263ui}}{=}\\textbf{{j.u}}?",
+        "srcwordsbare": [
+            "t\u0283\u0259.ma-d\u0259",
+            "quda\u0281a",
+            "bii={j.u},",
+            "{u\u0263ui}{=}{j.u}?"
+        ],
+        "srcwordshtml": [
+            "t\u0283\u0259.ma-d\u0259",
+            "quda\u0281a",
+            "bii=<span class=\"bf\">{j.u</span>},",
+            "<span class=\"bf\">{u\u0263ui</span>}{=}<span class=\"bf\">{j.u</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0283\u0259.ma-d\u0259",
+            "quda\u0281a",
+            "bii=\\textbf{{j.u}},",
+            "\\textbf{{u\u0263ui}}{=}\\textbf{{j.u}}?"
+        ],
+        "trs": "Do you have a knife?\u2019 \\citep[58]{Zhaonasitu1981b}",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--39611",
+        "categories": [
+            "acc",
+            "dat",
+            "fut",
+            "q",
+            "sg"
+        ],
+        "clength": 47,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}.\\textsc{acc}  who-\\textsc{dat}  give-\\textsc{fut}.\\textsc{q}",
+        "imtwordsbare": [
+            "2SG.ACC",
+            "who-DAT",
+            "give-FUT.Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">acc</span>",
+            "who-<span class=\"sc\">dat</span>",
+            "give-<span class=\"sc\">fut</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}.\\textsc{acc}",
+            "who-\\textsc{dat}",
+            "give-\\textsc{fut}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{cimiin} \\textbf{{keen}}-di \u00f6g-\\textbf{{k\u2019uu}}?",
+        "srcwordsbare": [
+            "{cimiin}",
+            "{keen}-di",
+            "\u00f6g-{k\u2019uu}?"
+        ],
+        "srcwordshtml": [
+            "{cimiin}",
+            "<span class=\"bf\">{keen</span>}-di",
+            "\u00f6g-<span class=\"bf\">{k\u2019uu</span>}?"
+        ],
+        "srcwordstex": [
+            "{cimiin}",
+            "\\textbf{{keen}}-di",
+            "\u00f6g-\\textbf{{k\u2019uu}}?"
+        ],
+        "trs": "To whom shall I give you?\u2019 \\citep[280]{Nugteren2003}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-687997",
+        "categories": [
+            "pfv",
+            "pn"
+        ],
+        "clength": 31,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "\\textsc{pn}  where  go-\\textsc{pfv}",
+        "imtwordsbare": [
+            "PN",
+            "where",
+            "go-PFV"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "where",
+            "go-<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "where",
+            "go-\\textsc{pfv}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{d\u0290oma} \\textbf{{\u03c7ala}} {o-to}?",
+        "srcwordsbare": [
+            "{d\u0290oma}",
+            "{\u03c7ala}",
+            "{o-to}?"
+        ],
+        "srcwordshtml": [
+            "{d\u0290oma}",
+            "<span class=\"bf\">{\u03c7ala</span>}",
+            "{o-to}?"
+        ],
+        "srcwordstex": [
+            "{d\u0290oma}",
+            "\\textbf{{\u03c7ala}}",
+            "{o-to}?"
+        ],
+        "trs": "Where did Droma go?\u2019 \\citep[261]{Fried2010}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--19662",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}   today  dance-\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "today",
+            "dance-Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "today",
+            "dance-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "today",
+            "dance-\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{t\u0255\u02b0\u0259} {nud\u0259} {nat\u02b0\u0259-}\\textbf{{u}}?",
+        "srcwordsbare": [
+            "{t\u0255\u02b0\u0259}",
+            "{nud\u0259}",
+            "{nat\u02b0\u0259-}{u}?"
+        ],
+        "srcwordshtml": [
+            "{t\u0255\u02b0\u0259}",
+            "{nud\u0259}",
+            "{nat\u02b0\u0259-}<span class=\"bf\">{u</span>}?"
+        ],
+        "srcwordstex": [
+            "{t\u0255\u02b0\u0259}",
+            "{nud\u0259}",
+            "{nat\u02b0\u0259-}\\textbf{{u}}?"
+        ],
+        "trs": "Did you dance today?\u2019 \\citep[259]{Fried2010}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--64493",
+        "categories": [
+            "dur",
+            "q"
+        ],
+        "clength": 20,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "go-\\textsc{dur}.\\textsc{q}",
+        "imtwordsbare": [
+            "go-DUR.Q"
+        ],
+        "imtwordshtml": [
+            "go-<span class=\"sc\">dur</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "go-\\textsc{dur}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{ode-}\\textbf{{nu}}?",
+        "srcwordsbare": [
+            "{ode-}{nu}?"
+        ],
+        "srcwordshtml": [
+            "{ode-}<span class=\"bf\">{nu</span>}?"
+        ],
+        "srcwordstex": [
+            "{ode-}\\textbf{{nu}}?"
+        ],
+        "trs": "Will he go?\u2019 (\\citealt{WuHugjiltu2003}: 343)",
+        "wlength": 1
+    },
+    {
+        "ID": "05mong-902442",
+        "categories": [
+            "dat",
+            "exist",
+            "q",
+            "sg"
+        ],
+        "clength": 60,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}-\\textsc{dat} tea  leaf  \\textsc{exist}.\\textsc{q}",
+        "imtwordsbare": [
+            "2SG-DAT",
+            "tea",
+            "leaf",
+            "EXIST.Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">dat</span>",
+            "tea",
+            "leaf",
+            "<span class=\"sc\">exist</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}-\\textsc{dat}",
+            "tea",
+            "leaf",
+            "\\textsc{exist}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0255in-da    t\u0255a {daw\u0291i} \\textbf{{w}}\\textbf{{\u0275}}\\textbf{{u}}?",
+        "srcwordsbare": [
+            "t\u0255in-da",
+            "t\u0255a",
+            "{daw\u0291i}",
+            "{w}{\u0275}{u}?"
+        ],
+        "srcwordshtml": [
+            "t\u0255in-da",
+            "t\u0255a",
+            "{daw\u0291i}",
+            "<span class=\"bf\">{w</span>}<span class=\"bf\">{\u0275</span>}<span class=\"bf\">{u</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0255in-da",
+            "t\u0255a",
+            "{daw\u0291i}",
+            "\\textbf{{w}}\\textbf{{\u0275}}\\textbf{{u}}?"
+        ],
+        "trs": "Do you have tea?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-417875",
+        "categories": [
+            "cop",
+            "emph",
+            "q"
+        ],
+        "clength": 49,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "that  girl  also  student  \\textsc{cop}.\\textsc{emph}.\\textsc{q}",
+        "imtwordsbare": [
+            "that",
+            "girl",
+            "also",
+            "student",
+            "COP.EMPH.Q"
+        ],
+        "imtwordshtml": [
+            "that",
+            "girl",
+            "also",
+            "student",
+            "<span class=\"sc\">cop</span>.<span class=\"sc\">emph</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "girl",
+            "also",
+            "student",
+            "\\textsc{cop}.\\textsc{emph}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0259.r\u0259  aag\u0275  da  \u026c\u0275ma \\textbf{{mb\u0275}}\\textbf{{u}}?",
+        "srcwordsbare": [
+            "t\u0259.r\u0259",
+            "aag\u0275",
+            "da",
+            "\u026c\u0275ma",
+            "{mb\u0275}{u}?"
+        ],
+        "srcwordshtml": [
+            "t\u0259.r\u0259",
+            "aag\u0275",
+            "da",
+            "\u026c\u0275ma",
+            "<span class=\"bf\">{mb\u0275</span>}<span class=\"bf\">{u</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0259.r\u0259",
+            "aag\u0275",
+            "da",
+            "\u026c\u0275ma",
+            "\\textbf{{mb\u0275}}\\textbf{{u}}?"
+        ],
+        "trs": "Is that woman also a student?\u2019 (\\citealt{Chaolu1994e}: 8, 6)",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--74593",
+        "categories": [
+            "pn",
+            "q"
+        ],
+        "clength": 48,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "\\textsc{pn}  how    dance  be.required-\\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "how",
+            "dance",
+            "be.required-Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "how",
+            "dance",
+            "be.required-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "how",
+            "dance",
+            "be.required-\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{\u03c7e\u0255a\u014b} {ja\u014bg\u0259t\u0255\u0259} {nat\u02b0\u0259} {k\u02b0\u0259r-}\\textbf{{si}}?",
+        "srcwordsbare": [
+            "{\u03c7e\u0255a\u014b}",
+            "{ja\u014bg\u0259t\u0255\u0259}",
+            "{nat\u02b0\u0259}",
+            "{k\u02b0\u0259r-}{si}?"
+        ],
+        "srcwordshtml": [
+            "{\u03c7e\u0255a\u014b}",
+            "{ja\u014bg\u0259t\u0255\u0259}",
+            "{nat\u02b0\u0259}",
+            "{k\u02b0\u0259r-}<span class=\"bf\">{si</span>}?"
+        ],
+        "srcwordstex": [
+            "{\u03c7e\u0255a\u014b}",
+            "{ja\u014bg\u0259t\u0255\u0259}",
+            "{nat\u02b0\u0259}",
+            "{k\u02b0\u0259r-}\\textbf{{si}}?"
+        ],
+        "trs": "How should (one) dance Leru?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-713020",
+        "categories": [
+            "neg",
+            "q",
+            "sg",
+            "term"
+        ],
+        "clength": 112,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg}  yesterday  rain-\\textsc{q}  \\textsc{neg}  rain-\\textsc{q}  \\textsc{neg}  know-\\textsc{term}",
+        "imtwordsbare": [
+            "1SG",
+            "yesterday",
+            "rain-Q",
+            "NEG",
+            "rain-Q",
+            "NEG",
+            "know-TERM"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "yesterday",
+            "rain-<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>",
+            "rain-<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>",
+            "know-<span class=\"sc\">term</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "yesterday",
+            "rain-\\textsc{q}",
+            "\\textsc{neg}",
+            "rain-\\textsc{q}",
+            "\\textsc{neg}",
+            "know-\\textsc{term}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "polarity": "negative",
+        "src": "{p\u0259} [{hkut\u0259} {or}{\u0259-}\\textbf{{si}} \\textbf{{\u0259}}\\textbf{{s}}\\textbf{{\u0259}} {or}{\u0259-}\\textbf{{si}}] {\u0259}{s\u0259} {med-o}.",
+        "srcwordsbare": [
+            "{p\u0259}",
+            "[{hkut\u0259}",
+            "{or}{\u0259-}{si}",
+            "{\u0259}{s}{\u0259}",
+            "{or}{\u0259-}{si}]",
+            "{\u0259}{s\u0259}",
+            "{med-o}."
+        ],
+        "srcwordshtml": [
+            "{p\u0259}",
+            "[{hkut\u0259}",
+            "{or}{\u0259-}<span class=\"bf\">{si</span>}",
+            "<span class=\"bf\">{\u0259</span>}<span class=\"bf\">{s</span>}<span class=\"bf\">{\u0259</span>}",
+            "{or}{\u0259-}<span class=\"bf\">{si</span>}]",
+            "{\u0259}{s\u0259}",
+            "{med-o}."
+        ],
+        "srcwordstex": [
+            "{p\u0259}",
+            "[{hkut\u0259}",
+            "{or}{\u0259-}\\textbf{{si}}",
+            "\\textbf{{\u0259}}\\textbf{{s}}\\textbf{{\u0259}}",
+            "{or}{\u0259-}\\textbf{{si}}]",
+            "{\u0259}{s\u0259}",
+            "{med-o}."
+        ],
+        "trs": "I don\u2019t know [whether it rained or not yesterday].\u2019 (\\citealt{Fried2010}: 99, 227)",
+        "wlength": 7
+    },
+    {
+        "ID": "05mong--49372",
+        "categories": [
+            "abl",
+            "p",
+            "pfv",
+            "q",
+            "sg"
+        ],
+        "clength": 70,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg}  this-\\textsc{abl}  go  be.required-\\textsc{p.pfv}=\\textsc{q}  that-\\textsc{abl} go  be.required-\\textsc{p.pfv}",
+        "imtwordsbare": [
+            "1SG",
+            "this-ABL",
+            "go",
+            "be.required-p.pfv=Q",
+            "that-ABL",
+            "go",
+            "be.required-p.pfv"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "this-<span class=\"sc\">abl</span>",
+            "go",
+            "be.required-<span class=\"sc\">p.pfv</span>=<span class=\"sc\">q</span>",
+            "that-<span class=\"sc\">abl</span>",
+            "go",
+            "be.required-<span class=\"sc\">p.pfv</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "this-\\textsc{abl}",
+            "go",
+            "be.required-\\textsc{p.pfv}=\\textsc{q}",
+            "that-\\textsc{abl}",
+            "go",
+            "be.required-\\textsc{p.pfv}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{b\u0259} en-sa    \u0275.d {k\u0259-}{sa\u014b=}\\textbf{{wu}},    ta\u014b-sa {\u0275.d} {kar-sa\u014b?}",
+        "srcwordsbare": [
+            "{b\u0259}",
+            "en-sa",
+            "\u0275.d",
+            "{k\u0259-}{sa\u014b=}{wu},",
+            "ta\u014b-sa",
+            "{\u0275.d}",
+            "{kar-sa\u014b?}"
+        ],
+        "srcwordshtml": [
+            "{b\u0259}",
+            "en-sa",
+            "\u0275.d",
+            "{k\u0259-}{sa\u014b=}<span class=\"bf\">{wu</span>},",
+            "ta\u014b-sa",
+            "{\u0275.d}",
+            "{kar-sa\u014b?}"
+        ],
+        "srcwordstex": [
+            "{b\u0259}",
+            "en-sa",
+            "\u0275.d",
+            "{k\u0259-}{sa\u014b=}\\textbf{{wu}},",
+            "ta\u014b-sa",
+            "{\u0275.d}",
+            "{kar-sa\u014b?}"
+        ],
+        "trs": "Will I go this way or that way ?\u2019 (\\citealt{Chaolu1994e}: 15)",
+        "wlength": 7
+    },
+    {
+        "ID": "05mong-386137",
+        "categories": [
+            "neg",
+            "q",
+            "voc"
+        ],
+        "clength": 41,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "old.man.\\textsc{voc}  yesterday  \\textsc{neg}  ?tired  \\textsc{q}",
+        "imtwordsbare": [
+            "old.man.VOC",
+            "yesterday",
+            "NEG",
+            "?tired",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "old.man.<span class=\"sc\">voc</span>",
+            "yesterday",
+            "<span class=\"sc\">neg</span>",
+            "?tired",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "old.man.\\textsc{voc}",
+            "yesterday",
+            "\\textsc{neg}",
+            "?tired",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ded\u0259    \u2018gud\u0259    s\u0259  ed\u0259ro \\textbf{{ba}}?",
+        "srcwordsbare": [
+            "ded\u0259",
+            "\u2018gud\u0259",
+            "s\u0259",
+            "ed\u0259ro",
+            "{ba}?"
+        ],
+        "srcwordshtml": [
+            "ded\u0259",
+            "\u2018gud\u0259",
+            "s\u0259",
+            "ed\u0259ro",
+            "<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "ded\u0259",
+            "\u2018gud\u0259",
+            "s\u0259",
+            "ed\u0259ro",
+            "\\textbf{{ba}}?"
+        ],
+        "trs": "Grandpa, you weren\u2019t too tired yesterday, right?\u2019 (\\citealt{Buhe1982}: 59)",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--87354",
+        "categories": [
+            "nfut",
+            "q",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  know-\\textsc{nfut}  \\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "know-NFUT",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "know-<span class=\"sc\">nfut</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "know-\\textsc{nfut}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0283i  meda-na \\textbf{{ba}}?",
+        "srcwordsbare": [
+            "t\u0283i",
+            "meda-na",
+            "{ba}?"
+        ],
+        "srcwordshtml": [
+            "t\u0283i",
+            "meda-na",
+            "<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0283i",
+            "meda-na",
+            "\\textbf{{ba}}?"
+        ],
+        "trs": "You know, right?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-116278",
+        "categories": [
+            "cvb",
+            "excl",
+            "ipfv",
+            "pst",
+            "q",
+            "v"
+        ],
+        "clength": 54,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "\\textsc{excl}  here  how-\\textsc{v}-\\textsc{cvb.ipfv}  come-\\textsc{pst}  \\textsc{q}",
+        "imtwordsbare": [
+            "EXCL",
+            "here",
+            "how-V-cvb.ipfv",
+            "come-PST",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">excl</span>",
+            "here",
+            "how-<span class=\"sc\">v</span>-<span class=\"sc\">cvb.ipfv</span>",
+            "come-<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{excl}",
+            "here",
+            "how-\\textsc{v}-\\textsc{cvb.ipfv}",
+            "come-\\textsc{pst}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "aj\u0254!  en.de \\textbf{ma}-ge-d\u0292i    re-va \\textbf{{sa}}?",
+        "srcwordsbare": [
+            "aj\u0254!",
+            "en.de",
+            "ma-ge-d\u0292i",
+            "re-va",
+            "{sa}?"
+        ],
+        "srcwordshtml": [
+            "aj\u0254!",
+            "en.de",
+            "<span class=\"bf\">ma</span>-ge-d\u0292i",
+            "re-va",
+            "<span class=\"bf\">{sa</span>}?"
+        ],
+        "srcwordstex": [
+            "aj\u0254!",
+            "en.de",
+            "\\textbf{ma}-ge-d\u0292i",
+            "re-va",
+            "\\textbf{{sa}}?"
+        ],
+        "trs": "Oh! Why have you come here?",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--19848",
+        "categories": [
+            "gen",
+            "q",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}-\\textsc{gen}  person  \\textsc{q}",
+        "imtwordsbare": [
+            "2SG-GEN",
+            "person",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">gen</span>",
+            "person",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}-\\textsc{gen}",
+            "person",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0283i-ni    k\u0289n \\textbf{{le}}?",
+        "srcwordsbare": [
+            "t\u0283i-ni",
+            "k\u0289n",
+            "{le}?"
+        ],
+        "srcwordshtml": [
+            "t\u0283i-ni",
+            "k\u0289n",
+            "<span class=\"bf\">{le</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0283i-ni",
+            "k\u0289n",
+            "\\textbf{{le}}?"
+        ],
+        "trs": "What about your person?\u2019 (\\citealt{Siqinchaoketu1999}: 215, 222, 217)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--31607",
+        "categories": [
+            "nfut",
+            "q",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  know-\\textsc{nfut}.\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "know-NFUT.Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "know-<span class=\"sc\">nfut</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "know-\\textsc{nfut}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0283i  mede-\\textbf{{n\u0289}}?",
+        "srcwordsbare": [
+            "t\u0283i",
+            "mede-{n\u0289}?"
+        ],
+        "srcwordshtml": [
+            "t\u0283i",
+            "mede-<span class=\"bf\">{n\u0289</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0283i",
+            "mede-\\textbf{{n\u0289}}?"
+        ],
+        "trs": "Do you know?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--78519",
+        "categories": [
+            "gen",
+            "n",
+            "q",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "that  2\\textsc{sg}-\\textsc{gen}-?\\textsc{n}  \\textsc{q}",
+        "imtwordsbare": [
+            "that",
+            "2SG-GEN-?N",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "that",
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">gen</span>-?<span class=\"sc\">n</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "2\\textsc{sg}-\\textsc{gen}-?\\textsc{n}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "te  t\u0283i-ni-g\u0289 \\textbf{{b\u0289}}?",
+        "srcwordsbare": [
+            "te",
+            "t\u0283i-ni-g\u0289",
+            "{b\u0289}?"
+        ],
+        "srcwordshtml": [
+            "te",
+            "t\u0283i-ni-g\u0289",
+            "<span class=\"bf\">{b\u0289</span>}?"
+        ],
+        "srcwordstex": [
+            "te",
+            "t\u0283i-ni-g\u0289",
+            "\\textbf{{b\u0289}}?"
+        ],
+        "trs": "Is that yours?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-703509",
+        "categories": [
+            "neg",
+            "pst",
+            "q"
+        ],
+        "clength": 40,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "come-\\textsc{pst}.\\textsc{q}  \\textsc{neg}  come-\\textsc{pst}",
+        "imtwordsbare": [
+            "come-PST.Q",
+            "NEG",
+            "come-PST"
+        ],
+        "imtwordshtml": [
+            "come-<span class=\"sc\">pst</span>.<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>",
+            "come-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "come-\\textsc{pst}.\\textsc{q}",
+            "\\textsc{neg}",
+            "come-\\textsc{pst}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "re-\\textbf{{v\u0289}}, \\textbf{{se}} {re-va?}",
+        "srcwordsbare": [
+            "re-{v\u0289},",
+            "{se}",
+            "{re-va?}"
+        ],
+        "srcwordshtml": [
+            "re-<span class=\"bf\">{v\u0289</span>},",
+            "<span class=\"bf\">{se</span>}",
+            "{re-va?}"
+        ],
+        "srcwordstex": [
+            "re-\\textbf{{v\u0289}},",
+            "\\textbf{{se}}",
+            "{re-va?}"
+        ],
+        "trs": "Has (she) come or not?\u2019 (\\citealt{Siqinchaoketu2002}: 71, 169, 217)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-857284",
+        "categories": [
+            "neg",
+            "q"
+        ],
+        "clength": 39,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "that  person  teacher    \\textsc{neg}  \\textsc{q}",
+        "imtwordsbare": [
+            "that",
+            "person",
+            "teacher",
+            "NEG",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "that",
+            "person",
+            "teacher",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "person",
+            "teacher",
+            "\\textsc{neg}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "te  k\u0289n  laus\u026f    mari, \\textbf{{ere}}?",
+        "srcwordsbare": [
+            "te",
+            "k\u0289n",
+            "laus\u026f",
+            "mari,",
+            "{ere}?"
+        ],
+        "srcwordshtml": [
+            "te",
+            "k\u0289n",
+            "laus\u026f",
+            "mari,",
+            "<span class=\"bf\">{ere</span>}?"
+        ],
+        "srcwordstex": [
+            "te",
+            "k\u0289n",
+            "laus\u026f",
+            "mari,",
+            "\\textbf{{ere}}?"
+        ],
+        "trs": "That person isn\u2019t a teacher, right?\u2019 \\citep[197]{Siqinchaoketu1999}",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--22676",
+        "categories": [
+            "dur",
+            "q"
+        ],
+        "clength": 20,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "come-\\textsc{dur.q}",
+        "imtwordsbare": [
+            "come-dur.q"
+        ],
+        "imtwordshtml": [
+            "come-<span class=\"sc\">dur.q</span>"
+        ],
+        "imtwordstex": [
+            "come-\\textsc{dur.q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{ire-}\\textbf{{nu}}?",
+        "srcwordsbare": [
+            "{ire-}{nu}?"
+        ],
+        "srcwordshtml": [
+            "{ire-}<span class=\"bf\">{nu</span>}?"
+        ],
+        "srcwordstex": [
+            "{ire-}\\textbf{{nu}}?"
+        ],
+        "trs": "Will you come?",
+        "wlength": 1
+    },
+    {
+        "ID": "05mong--72384",
+        "categories": [
+            "cop",
+            "cvb",
+            "ipfv",
+            "q"
+        ],
+        "clength": 26,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "sleep-\\textsc{cvb}.\\textsc{ipfv}  \\textsc{cop}.\\textsc{q}",
+        "imtwordsbare": [
+            "sleep-CVB.IPFV",
+            "COP.Q"
+        ],
+        "imtwordshtml": [
+            "sleep-<span class=\"sc\">cvb</span>.<span class=\"sc\">ipfv</span>",
+            "<span class=\"sc\">cop</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "sleep-\\textsc{cvb}.\\textsc{ipfv}",
+            "\\textsc{cop}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{kijie-zhi} \\textbf{{wu}}?",
+        "srcwordsbare": [
+            "{kijie-zhi}",
+            "{wu}?"
+        ],
+        "srcwordshtml": [
+            "{kijie-zhi}",
+            "<span class=\"bf\">{wu</span>}?"
+        ],
+        "srcwordstex": [
+            "{kijie-zhi}",
+            "\\textbf{{wu}}?"
+        ],
+        "trs": "Is (s)he sleeping?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-480316",
+        "categories": [
+            "dur",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  whither  go-\\textsc{dur}",
+        "imtwordsbare": [
+            "2SG",
+            "whither",
+            "go-DUR"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "whither",
+            "go-<span class=\"sc\">dur</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "whither",
+            "go-\\textsc{dur}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{chi} \\textbf{{khala}} {echi-ne?}",
+        "srcwordsbare": [
+            "{chi}",
+            "{khala}",
+            "{echi-ne?}"
+        ],
+        "srcwordshtml": [
+            "{chi}",
+            "<span class=\"bf\">{khala</span>}",
+            "{echi-ne?}"
+        ],
+        "srcwordstex": [
+            "{chi}",
+            "\\textbf{{khala}}",
+            "{echi-ne?}"
+        ],
+        "trs": "Where are you going?\u2019 (\\citealt{Kim2003}: 358)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--58791",
+        "categories": [
+            "gen",
+            "q",
+            "sg",
+            "term"
+        ],
+        "clength": 33,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "sheep=2\\textsc{sg}.\\textsc{gen}  come-\\textsc{term}.\\textsc{q}",
+        "imtwordsbare": [
+            "sheep=2SG.GEN",
+            "come-TERM.Q"
+        ],
+        "imtwordshtml": [
+            "sheep=2<span class=\"sc\">sg</span>.<span class=\"sc\">gen</span>",
+            "come-<span class=\"sc\">term</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "sheep=2\\textsc{sg}.\\textsc{gen}",
+            "come-\\textsc{term}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "ghoni=chini    ire-\\textbf{{wu}}?",
+        "srcwordsbare": [
+            "ghoni=chini",
+            "ire-{wu}?"
+        ],
+        "srcwordshtml": [
+            "ghoni=chini",
+            "ire-<span class=\"bf\">{wu</span>}?"
+        ],
+        "srcwordstex": [
+            "ghoni=chini",
+            "ire-\\textbf{{wu}}?"
+        ],
+        "trs": "Have your sheep come back?\u2019 (\\citealt{Todaeva1959}: 284, modified transcription based on \\citealt{Kim2003})\\z\\z",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-618810",
+        "categories": [
+            "abl",
+            "dur",
+            "q",
+            "sg"
+        ],
+        "clength": 62,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg}  this  direction-\\textsc{abl}  go-\\textsc{q}    that  direction-\\textsc{abl}  go-\\textsc{dur}",
+        "imtwordsbare": [
+            "1SG",
+            "this",
+            "direction-ABL",
+            "go-Q",
+            "that",
+            "direction-ABL",
+            "go-DUR"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "this",
+            "direction-<span class=\"sc\">abl</span>",
+            "go-<span class=\"sc\">q</span>",
+            "that",
+            "direction-<span class=\"sc\">abl</span>",
+            "go-<span class=\"sc\">dur</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "this",
+            "direction-\\textsc{abl}",
+            "go-\\textsc{q}",
+            "that",
+            "direction-\\textsc{abl}",
+            "go-\\textsc{dur}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "bi  \u0259n\u0259 {man-sa} {jawu-}\\textbf{{mu}} {ha} {man-sa} {jawu-n\u0259?}",
+        "srcwordsbare": [
+            "bi",
+            "\u0259n\u0259",
+            "{man-sa}",
+            "{jawu-}{mu}",
+            "{ha}",
+            "{man-sa}",
+            "{jawu-n\u0259?}"
+        ],
+        "srcwordshtml": [
+            "bi",
+            "\u0259n\u0259",
+            "{man-sa}",
+            "{jawu-}<span class=\"bf\">{mu</span>}",
+            "{ha}",
+            "{man-sa}",
+            "{jawu-n\u0259?}"
+        ],
+        "srcwordstex": [
+            "bi",
+            "\u0259n\u0259",
+            "{man-sa}",
+            "{jawu-}\\textbf{{mu}}",
+            "{ha}",
+            "{man-sa}",
+            "{jawu-n\u0259?}"
+        ],
+        "trs": "Will I go this way or that way?\u2019 (\\citealt{Chaolu1994b}: 14)",
+        "wlength": 7
+    },
+    {
+        "ID": "05mong-679156",
+        "categories": [
+            "cop",
+            "q"
+        ],
+        "clength": 34,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "that  \\textsc{cop}  dog  \\textsc{cop}-?\\textsc{q}",
+        "imtwordsbare": [
+            "that",
+            "COP",
+            "dog",
+            "COP-?Q"
+        ],
+        "imtwordshtml": [
+            "that",
+            "<span class=\"sc\">cop</span>",
+            "dog",
+            "<span class=\"sc\">cop</span>-?<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "\\textsc{cop}",
+            "dog",
+            "\\textsc{cop}-?\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "hhe  shi  noghi  we-\\textbf{{la}}?",
+        "srcwordsbare": [
+            "hhe",
+            "shi",
+            "noghi",
+            "we-{la}?"
+        ],
+        "srcwordshtml": [
+            "hhe",
+            "shi",
+            "noghi",
+            "we-<span class=\"bf\">{la</span>}?"
+        ],
+        "srcwordstex": [
+            "hhe",
+            "shi",
+            "noghi",
+            "we-\\textbf{{la}}?"
+        ],
+        "trs": "Is that a dog?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--15606",
+        "categories": [
+            "dur",
+            "q"
+        ],
+        "clength": 38,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this  man  here  come-\\textsc{dur}  \\textsc{q}",
+        "imtwordsbare": [
+            "this",
+            "man",
+            "here",
+            "come-DUR",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "this",
+            "man",
+            "here",
+            "come-<span class=\"sc\">dur</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "man",
+            "here",
+            "come-\\textsc{dur}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "e.ne  kun  e.de  ire-ne \\textbf{{ba}}?",
+        "srcwordsbare": [
+            "e.ne",
+            "kun",
+            "e.de",
+            "ire-ne",
+            "{ba}?"
+        ],
+        "srcwordshtml": [
+            "e.ne",
+            "kun",
+            "e.de",
+            "ire-ne",
+            "<span class=\"bf\">{ba</span>}?"
+        ],
+        "srcwordstex": [
+            "e.ne",
+            "kun",
+            "e.de",
+            "ire-ne",
+            "\\textbf{{ba}}?"
+        ],
+        "trs": "This man is coming, right?\u2019 (\\citealt{Todaeva1959}: 295, modified transcription based on \\citealt{Kim2003})",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--29888",
+        "categories": [
+            "neg",
+            "q"
+        ],
+        "clength": 44,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "faith  know=\\textsc{q}  \\textsc{neg}",
+        "imtwordsbare": [
+            "faith",
+            "know=Q",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "faith",
+            "know=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "faith",
+            "know=\\textsc{q}",
+            "\\textsc{neg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "imani  m\u0259d\u0291i\u0259=\\textbf{{nu}} \\textbf{{uli\u0259}}?",
+        "srcwordsbare": [
+            "imani",
+            "m\u0259d\u0291i\u0259={nu}",
+            "{uli\u0259}?"
+        ],
+        "srcwordshtml": [
+            "imani",
+            "m\u0259d\u0291i\u0259=<span class=\"bf\">{nu</span>}",
+            "<span class=\"bf\">{uli\u0259</span>}?"
+        ],
+        "srcwordstex": [
+            "imani",
+            "m\u0259d\u0291i\u0259=\\textbf{{nu}}",
+            "\\textbf{{uli\u0259}}?"
+        ],
+        "trs": "Do you know the faith or not?\u2019 \\citep[360]{Field1997}",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-130346",
+        "categories": [
+            "loc",
+            "neg",
+            "pn",
+            "sg",
+            "term"
+        ],
+        "clength": 38,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  \\textsc{pn}-\\textsc{loc}    go-\\textsc{term}  \\textsc{neg}",
+        "imtwordsbare": [
+            "2SG",
+            "PN-LOC",
+            "go-TERM",
+            "NEG"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pn</span>-<span class=\"sc\">loc</span>",
+            "go-<span class=\"sc\">term</span>",
+            "<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "\\textsc{pn}-\\textsc{loc}",
+            "go-\\textsc{term}",
+            "\\textsc{neg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "chi  baza-de  echi-wo \\textbf{{wuye}}?",
+        "srcwordsbare": [
+            "chi",
+            "baza-de",
+            "echi-wo",
+            "{wuye}?"
+        ],
+        "srcwordshtml": [
+            "chi",
+            "baza-de",
+            "echi-wo",
+            "<span class=\"bf\">{wuye</span>}?"
+        ],
+        "srcwordstex": [
+            "chi",
+            "baza-de",
+            "echi-wo",
+            "\\textbf{{wuye}}?"
+        ],
+        "trs": "Did you go to Linxia or not?\u2019 \\citep[41]{Napoli2014}",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-401940",
+        "categories": [
+            "cop",
+            "gen",
+            "neg",
+            "q",
+            "sg",
+            "term"
+        ],
+        "clength": 52,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}-\\textsc{gen}  father  \\textsc{cop}-\\textsc{q}    \\textsc{neg}-\\textsc{term}",
+        "imtwordsbare": [
+            "2SG-GEN",
+            "father",
+            "COP-Q",
+            "NEG-TERM"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">gen</span>",
+            "father",
+            "<span class=\"sc\">cop</span>-<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>-<span class=\"sc\">term</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}-\\textsc{gen}",
+            "father",
+            "\\textsc{cop}-\\textsc{q}",
+            "\\textsc{neg}-\\textsc{term}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u023f\u026f-ni    ada  uai-\\textbf{{nu}}, \\textbf{{u}}{-wo?}",
+        "srcwordsbare": [
+            "t\u023f\u026f-ni",
+            "ada",
+            "uai-{nu},",
+            "{u}{-wo?}"
+        ],
+        "srcwordshtml": [
+            "t\u023f\u026f-ni",
+            "ada",
+            "uai-<span class=\"bf\">{nu</span>},",
+            "<span class=\"bf\">{u</span>}{-wo?}"
+        ],
+        "srcwordstex": [
+            "t\u023f\u026f-ni",
+            "ada",
+            "uai-\\textbf{{nu}},",
+            "\\textbf{{u}}{-wo?}"
+        ],
+        "trs": "Is your father alive or not?\u2019 (\\citealt{LiuZhaoxiong1981}: 105, simplified)",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-660642",
+        "categories": [
+            "q",
+            "sg",
+            "v"
+        ],
+        "clength": 30,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  marry-\\textsc{v=q}",
+        "imtwordsbare": [
+            "2SG",
+            "marry-v=q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "marry-<span class=\"sc\">v=q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "marry-\\textsc{v=q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "t\u0255\u0268  d\u0291iehun-la=\\textbf{{uu}}?",
+        "srcwordsbare": [
+            "t\u0255\u0268",
+            "d\u0291iehun-la={uu}?"
+        ],
+        "srcwordshtml": [
+            "t\u0255\u0268",
+            "d\u0291iehun-la=<span class=\"bf\">{uu</span>}?"
+        ],
+        "srcwordstex": [
+            "t\u0255\u0268",
+            "d\u0291iehun-la=\\textbf{{uu}}?"
+        ],
+        "trs": "Are you married?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--74686",
+        "categories": [
+            "obj",
+            "perf",
+            "q",
+            "sg"
+        ],
+        "clength": 42,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "big  belt  see-\\textsc{perf}-\\textsc{obj=q}  2\\textsc{sg}",
+        "imtwordsbare": [
+            "big",
+            "belt",
+            "see-PERF-obj=q",
+            "2SG"
+        ],
+        "imtwordshtml": [
+            "big",
+            "belt",
+            "see-<span class=\"sc\">perf</span>-<span class=\"sc\">obj=q</span>",
+            "2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "big",
+            "belt",
+            "see-\\textsc{perf}-\\textsc{obj=q}",
+            "2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\u0255ge  p\u0268see  sge-d\u0291-a-\\textbf{{nuu}} {t\u0255\u0268?}",
+        "srcwordsbare": [
+            "\u0255ge",
+            "p\u0268see",
+            "sge-d\u0291-a-{nuu}",
+            "{t\u0255\u0268?}"
+        ],
+        "srcwordshtml": [
+            "\u0255ge",
+            "p\u0268see",
+            "sge-d\u0291-a-<span class=\"bf\">{nuu</span>}",
+            "{t\u0255\u0268?}"
+        ],
+        "srcwordstex": [
+            "\u0255ge",
+            "p\u0268see",
+            "sge-d\u0291-a-\\textbf{{nuu}}",
+            "{t\u0255\u0268?}"
+        ],
+        "trs": "Have you seen a big belt?\u2019 (\\citealt{Faehndrich2007}: 221, 220)",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-311471",
+        "categories": [
+            "fut",
+            "p",
+            "sg",
+            "subj"
+        ],
+        "clength": 34,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  where  go-\\textsc{p}.\\textsc{fut}-\\textsc{subj}",
+        "imtwordsbare": [
+            "2SG",
+            "where",
+            "go-P.FUT-SUBJ"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "where",
+            "go-<span class=\"sc\">p</span>.<span class=\"sc\">fut</span>-<span class=\"sc\">subj</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "where",
+            "go-\\textsc{p}.\\textsc{fut}-\\textsc{subj}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{qi} \\textbf{{anji}} {xji}-{gu-i?}",
+        "srcwordsbare": [
+            "{qi}",
+            "{anji}",
+            "{xji}-{gu-i?}"
+        ],
+        "srcwordshtml": [
+            "{qi}",
+            "<span class=\"bf\">{anji</span>}",
+            "{xji}-{gu-i?}"
+        ],
+        "srcwordstex": [
+            "{qi}",
+            "\\textbf{{anji}}",
+            "{xji}-{gu-i?}"
+        ],
+        "trs": "Where are you going?\u2019 (\\citealt{Georg2003b}: 303, shortened)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-226853",
+        "categories": [
+            "ipfv",
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 45,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  \\textsc{pn}    language  know-\\textsc{ipfv}.\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "PN",
+            "language",
+            "know-IPFV.Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pn</span>",
+            "language",
+            "know-<span class=\"sc\">ipfv</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "\\textsc{pn}",
+            "language",
+            "know-\\textsc{ipfv}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{qi} {Mongghul} {uguo} {mudie-}\\textbf{{nu}}?",
+        "srcwordsbare": [
+            "{qi}",
+            "{Mongghul}",
+            "{uguo}",
+            "{mudie-}{nu}?"
+        ],
+        "srcwordshtml": [
+            "{qi}",
+            "{Mongghul}",
+            "{uguo}",
+            "{mudie-}<span class=\"bf\">{nu</span>}?"
+        ],
+        "srcwordstex": [
+            "{qi}",
+            "{Mongghul}",
+            "{uguo}",
+            "{mudie-}\\textbf{{nu}}?"
+        ],
+        "trs": "Do you know (how to speak) \\ili{Mongghul}?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-185631",
+        "categories": [
+            "ipfv",
+            "loc",
+            "pn",
+            "q",
+            "sg",
+            "subj"
+        ],
+        "clength": 47,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}   city  \\textsc{pn}-\\textsc{loc}    sit-\\textsc{subj}.\\textsc{ipfv}.\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "city",
+            "PN-LOC",
+            "sit-SUBJ.IPFV.Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "city",
+            "<span class=\"sc\">pn</span>-<span class=\"sc\">loc</span>",
+            "sit-<span class=\"sc\">subj</span>.<span class=\"sc\">ipfv</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "city",
+            "\\textsc{pn}-\\textsc{loc}",
+            "sit-\\textsc{subj}.\\textsc{ipfv}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{qi} {wazar} {Minyuen-de} {sou-}\\textbf{{niu}}?",
+        "srcwordsbare": [
+            "{qi}",
+            "{wazar}",
+            "{Minyuen-de}",
+            "{sou-}{niu}?"
+        ],
+        "srcwordshtml": [
+            "{qi}",
+            "{wazar}",
+            "{Minyuen-de}",
+            "{sou-}<span class=\"bf\">{niu</span>}?"
+        ],
+        "srcwordstex": [
+            "{qi}",
+            "{wazar}",
+            "{Minyuen-de}",
+            "{sou-}\\textbf{{niu}}?"
+        ],
+        "trs": "Do you live at Minyuan in the city?",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong--74466",
+        "categories": [
+            "cop",
+            "q",
+            "sg",
+            "subj"
+        ],
+        "clength": 32,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  teacher  \\textsc{subj}.\\textsc{cop}-\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "teacher",
+            "SUBJ.COP-Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "teacher",
+            "<span class=\"sc\">subj</span>.<span class=\"sc\">cop</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "teacher",
+            "\\textsc{subj}.\\textsc{cop}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{qi} {laosi} {wei}-\\textbf{{u}}?",
+        "srcwordsbare": [
+            "{qi}",
+            "{laosi}",
+            "{wei}-{u}?"
+        ],
+        "srcwordshtml": [
+            "{qi}",
+            "{laosi}",
+            "{wei}-<span class=\"bf\">{u</span>}?"
+        ],
+        "srcwordstex": [
+            "{qi}",
+            "{laosi}",
+            "{wei}-\\textbf{{u}}?"
+        ],
+        "trs": "Are you a teacher?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--63681",
+        "categories": [
+            "acc",
+            "fut",
+            "obj",
+            "q"
+        ],
+        "clength": 41,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "this-\\textsc{acc}  read  can-\\textsc{obj}.\\textsc{fut}-\\textsc{q}",
+        "imtwordsbare": [
+            "this-ACC",
+            "read",
+            "can-OBJ.FUT-Q"
+        ],
+        "imtwordshtml": [
+            "this-<span class=\"sc\">acc</span>",
+            "read",
+            "can-<span class=\"sc\">obj</span>.<span class=\"sc\">fut</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "this-\\textsc{acc}",
+            "read",
+            "can-\\textsc{obj}.\\textsc{fut}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{nie-nu} {moxi} shda-gu.na-\\textbf{{nu}}?",
+        "srcwordsbare": [
+            "{nie-nu}",
+            "{moxi}",
+            "shda-gu.na-{nu}?"
+        ],
+        "srcwordshtml": [
+            "{nie-nu}",
+            "{moxi}",
+            "shda-gu.na-<span class=\"bf\">{nu</span>}?"
+        ],
+        "srcwordstex": [
+            "{nie-nu}",
+            "{moxi}",
+            "shda-gu.na-\\textbf{{nu}}?"
+        ],
+        "trs": "Can you read this?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--50907",
+        "categories": [
+            "cop",
+            "obj",
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 43,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "3\\textsc{sg}  \\textsc{pn}    person  \\textsc{obj}.\\textsc{cop}-\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "PN",
+            "person",
+            "OBJ.COP-Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pn</span>",
+            "person",
+            "<span class=\"sc\">obj</span>.<span class=\"sc\">cop</span>-<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "\\textsc{pn}",
+            "person",
+            "\\textsc{obj}.\\textsc{cop}-\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{ngan} {Zhonggui} {kun} {na-}\\textbf{{nu}}?",
+        "srcwordsbare": [
+            "{ngan}",
+            "{Zhonggui}",
+            "{kun}",
+            "{na-}{nu}?"
+        ],
+        "srcwordshtml": [
+            "{ngan}",
+            "{Zhonggui}",
+            "{kun}",
+            "{na-}<span class=\"bf\">{nu</span>}?"
+        ],
+        "srcwordstex": [
+            "{ngan}",
+            "{Zhonggui}",
+            "{kun}",
+            "{na-}\\textbf{{nu}}?"
+        ],
+        "trs": "Is he \\ili{Chinese}?\u2019 (\\citealt{\u00c5kerman2012}: 14)",
+        "wlength": 4
+    },
+    {
+        "ID": "05mong-473755",
+        "categories": [
+            "fut",
+            "q",
+            "sg",
+            "subj"
+        ],
+        "clength": 110,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  today    go-\\textsc{fut.subj.q}  tomorrow  go-\\textsc{fut.subj.q}",
+        "imtwordsbare": [
+            "2SG",
+            "today",
+            "go-fut.subj.q",
+            "tomorrow",
+            "go-fut.subj.q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "today",
+            "go-<span class=\"sc\">fut.subj.q</span>",
+            "tomorrow",
+            "go-<span class=\"sc\">fut.subj.q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "today",
+            "go-\\textsc{fut.subj.q}",
+            "tomorrow",
+            "go-\\textsc{fut.subj.q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{qi} {niudur} {xi-}\\textbf{{gu}}\\textbf{.}\\textbf{{niu}}, {malang} {xi-}\\textbf{{gu}}\\textbf{.}\\textbf{{niu}}?",
+        "srcwordsbare": [
+            "{qi}",
+            "{niudur}",
+            "{xi-}{gu}.{niu},",
+            "{malang}",
+            "{xi-}{gu}.{niu}?"
+        ],
+        "srcwordshtml": [
+            "{qi}",
+            "{niudur}",
+            "{xi-}<span class=\"bf\">{gu</span>}<span class=\"bf\">.</span><span class=\"bf\">{niu</span>},",
+            "{malang}",
+            "{xi-}<span class=\"bf\">{gu</span>}<span class=\"bf\">.</span><span class=\"bf\">{niu</span>}?"
+        ],
+        "srcwordstex": [
+            "{qi}",
+            "{niudur}",
+            "{xi-}\\textbf{{gu}}\\textbf{.}\\textbf{{niu}},",
+            "{malang}",
+            "{xi-}\\textbf{{gu}}\\textbf{.}\\textbf{{niu}}?"
+        ],
+        "trs": "Do you go today or tomorrow?\u2019 (\\citealt{\u00c5kerman2012}: 14)",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong--69623",
+        "categories": [
+            "obj",
+            "pfv",
+            "q",
+            "sg"
+        ],
+        "clength": 26,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg}  come-\\textsc{pfv}.\\textsc{obj}.\\textsc{q}",
+        "imtwordsbare": [
+            "1SG",
+            "come-PFV.OBJ.Q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">pfv</span>.<span class=\"sc\">obj</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "come-\\textsc{pfv}.\\textsc{obj}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{bi} {ri-}\\textbf{{jinu}}?",
+        "srcwordsbare": [
+            "{bi}",
+            "{ri-}{jinu}?"
+        ],
+        "srcwordshtml": [
+            "{bi}",
+            "{ri-}<span class=\"bf\">{jinu</span>}?"
+        ],
+        "srcwordstex": [
+            "{bi}",
+            "{ri-}\\textbf{{jinu}}?"
+        ],
+        "trs": "Did I come?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-847851",
+        "categories": [
+            "pfv",
+            "q",
+            "sg",
+            "subj"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  come-\\textsc{pfv}.\\textsc{subj}.\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "come-PFV.SUBJ.Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">pfv</span>.<span class=\"sc\">subj</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "come-\\textsc{pfv}.\\textsc{subj}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{qi} {ri-}\\textbf{{bu}}?",
+        "srcwordsbare": [
+            "{qi}",
+            "{ri-}{bu}?"
+        ],
+        "srcwordshtml": [
+            "{qi}",
+            "{ri-}<span class=\"bf\">{bu</span>}?"
+        ],
+        "srcwordstex": [
+            "{qi}",
+            "{ri-}\\textbf{{bu}}?"
+        ],
+        "trs": "Did you come?",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong--79894",
+        "categories": [
+            "obj",
+            "pfv",
+            "q",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "3\\textsc{sg}  come-\\textsc{pfv}.\\textsc{obj}.\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "come-PFV.OBJ.Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "come-<span class=\"sc\">pfv</span>.<span class=\"sc\">obj</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "come-\\textsc{pfv}.\\textsc{obj}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "gan  ri-\\textbf{{jinu}}?",
+        "srcwordsbare": [
+            "gan",
+            "ri-{jinu}?"
+        ],
+        "srcwordshtml": [
+            "gan",
+            "ri-<span class=\"bf\">{jinu</span>}?"
+        ],
+        "srcwordstex": [
+            "gan",
+            "ri-\\textbf{{jinu}}?"
+        ],
+        "trs": "Did (s)he come?\u2019 \\citep[198]{Slater2003a}\\z\\z",
+        "wlength": 2
+    },
+    {
+        "ID": "05mong-381362",
+        "categories": [
+            "neg",
+            "pl",
+            "q"
+        ],
+        "clength": 69,
+        "coordination": "or",
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{pl}  two  flower  want=\\textsc{q}  \\textsc{neg}-want",
+        "imtwordsbare": [
+            "2PL",
+            "two",
+            "flower",
+            "want=Q",
+            "NEG-want"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>",
+            "two",
+            "flower",
+            "want=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">neg</span>-want"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}",
+            "two",
+            "flower",
+            "want=\\textsc{q}",
+            "\\textsc{neg}-want"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "modality": "volitive",
+        "src": "{ta} {ghula} {qijige} {kerli}{=}\\textbf{{nu}} \\textbf{{lai}}{-kerli}?",
+        "srcwordsbare": [
+            "{ta}",
+            "{ghula}",
+            "{qijige}",
+            "{kerli}{=}{nu}",
+            "{lai}{-kerli}?"
+        ],
+        "srcwordshtml": [
+            "{ta}",
+            "{ghula}",
+            "{qijige}",
+            "{kerli}{=}<span class=\"bf\">{nu</span>}",
+            "<span class=\"bf\">{lai</span>}{-kerli}?"
+        ],
+        "srcwordstex": [
+            "{ta}",
+            "{ghula}",
+            "{qijige}",
+            "{kerli}{=}\\textbf{{nu}}",
+            "\\textbf{{lai}}{-kerli}?"
+        ],
+        "trs": "Do you want two flowers or not?\u2019 (\\citealt{ZhuYongzhong1997}: 437)",
+        "wlength": 5
+    },
+    {
+        "ID": "05mong-483102",
+        "categories": [
+            "cop",
+            "obj",
+            "q",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "1\\textsc{sg}  teacher    \\textsc{cop}.\\textsc{obj}.\\textsc{q}",
+        "imtwordsbare": [
+            "1SG",
+            "teacher",
+            "COP.OBJ.Q"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "teacher",
+            "<span class=\"sc\">cop</span>.<span class=\"sc\">obj</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "teacher",
+            "\\textsc{cop}.\\textsc{obj}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "bi  laoshi \\textbf{{meinu}}?",
+        "srcwordsbare": [
+            "bi",
+            "laoshi",
+            "{meinu}?"
+        ],
+        "srcwordshtml": [
+            "bi",
+            "laoshi",
+            "<span class=\"bf\">{meinu</span>}?"
+        ],
+        "srcwordstex": [
+            "bi",
+            "laoshi",
+            "\\textbf{{meinu}}?"
+        ],
+        "trs": "Am I a teacher?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--80271",
+        "categories": [
+            "cop",
+            "q",
+            "sg",
+            "subj"
+        ],
+        "clength": 26,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  teacher    \\textsc{cop}.\\textsc{subj}.\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "teacher",
+            "COP.SUBJ.Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "teacher",
+            "<span class=\"sc\">cop</span>.<span class=\"sc\">subj</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "teacher",
+            "\\textsc{cop}.\\textsc{subj}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "qi  laoshi \\textbf{{biu}}?",
+        "srcwordsbare": [
+            "qi",
+            "laoshi",
+            "{biu}?"
+        ],
+        "srcwordshtml": [
+            "qi",
+            "laoshi",
+            "<span class=\"bf\">{biu</span>}?"
+        ],
+        "srcwordstex": [
+            "qi",
+            "laoshi",
+            "\\textbf{{biu}}?"
+        ],
+        "trs": "Are you a teacher?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--45009",
+        "categories": [
+            "cop",
+            "obj",
+            "q",
+            "sg"
+        ],
+        "clength": 29,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "3\\textsc{sg}  teacher    \\textsc{cop}.\\textsc{obj}.\\textsc{q}",
+        "imtwordsbare": [
+            "3SG",
+            "teacher",
+            "COP.OBJ.Q"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "teacher",
+            "<span class=\"sc\">cop</span>.<span class=\"sc\">obj</span>.<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "teacher",
+            "\\textsc{cop}.\\textsc{obj}.\\textsc{q}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "gan  laoshi \\textbf{{meinu}}?",
+        "srcwordsbare": [
+            "gan",
+            "laoshi",
+            "{meinu}?"
+        ],
+        "srcwordshtml": [
+            "gan",
+            "laoshi",
+            "<span class=\"bf\">{meinu</span>}?"
+        ],
+        "srcwordstex": [
+            "gan",
+            "laoshi",
+            "\\textbf{{meinu}}?"
+        ],
+        "trs": "Is (s)he a teacher?\u2019 \\citep[199]{Slater2003a}\\z\\z",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--65216",
+        "categories": [
+            "cop",
+            "dir",
+            "ipfv",
+            "n",
+            "pl",
+            "subj"
+        ],
+        "clength": 37,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{pl}  where=\\textsc{dir}-\\textsc{ipfv}-\\textsc{n}  \\textsc{cop}.\\textsc{subj}",
+        "imtwordsbare": [
+            "2PL",
+            "where=DIR-IPFV-N",
+            "COP.SUBJ"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>",
+            "where=<span class=\"sc\">dir</span>-<span class=\"sc\">ipfv</span>-<span class=\"sc\">n</span>",
+            "<span class=\"sc\">cop</span>.<span class=\"sc\">subj</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}",
+            "where=\\textsc{dir}-\\textsc{ipfv}-\\textsc{n}",
+            "\\textsc{cop}.\\textsc{subj}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{tasi} \\textbf{{ang}}=ji-ku-ni    bi?",
+        "srcwordsbare": [
+            "{tasi}",
+            "{ang}=ji-ku-ni",
+            "bi?"
+        ],
+        "srcwordshtml": [
+            "{tasi}",
+            "<span class=\"bf\">{ang</span>}=ji-ku-ni",
+            "bi?"
+        ],
+        "srcwordstex": [
+            "{tasi}",
+            "\\textbf{{ang}}=ji-ku-ni",
+            "bi?"
+        ],
+        "trs": "Where are (all of) you from?\u2019 (\\citealt{ChenZhaojun2005}: 16)",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong--84052",
+        "categories": [
+            "sg",
+            "term"
+        ],
+        "clength": 43,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "2\\textsc{sg}  how  do-\\textsc{term}",
+        "imtwordsbare": [
+            "2SG",
+            "how",
+            "do-TERM"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "how",
+            "do-<span class=\"sc\">term</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "how",
+            "do-\\textsc{term}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "{t\u0255i} \\textbf{{ma.tu}} \\textbf{{gie}}{-wo?}",
+        "srcwordsbare": [
+            "{t\u0255i}",
+            "{ma.tu}",
+            "{gie}{-wo?}"
+        ],
+        "srcwordshtml": [
+            "{t\u0255i}",
+            "<span class=\"bf\">{ma.tu</span>}",
+            "<span class=\"bf\">{gie</span>}{-wo?}"
+        ],
+        "srcwordstex": [
+            "{t\u0255i}",
+            "\\textbf{{ma.tu}}",
+            "\\textbf{{gie}}{-wo?}"
+        ],
+        "trs": "How are you doing?",
+        "wlength": 3
+    },
+    {
+        "ID": "05mong-870848",
+        "categories": [
+            "cop"
+        ],
+        "clength": 44,
+        "filename": "174/chapters/05mong.tex",
+        "imt": "today    weather  how    \\textsc{cop}",
+        "imtwordsbare": [
+            "today",
+            "weather",
+            "how",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "today",
+            "weather",
+            "how",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "today",
+            "weather",
+            "how",
+            "\\textsc{cop}"
+        ],
+        "language": "174/chapters/05mong.tex",
+        "src": "\u0259n.udu.ku  t\u0255ient\u0255i \\textbf{{ma.tu.ka\u014b}} wo?",
+        "srcwordsbare": [
+            "\u0259n.udu.ku",
+            "t\u0255ient\u0255i",
+            "{ma.tu.ka\u014b}",
+            "wo?"
+        ],
+        "srcwordshtml": [
+            "\u0259n.udu.ku",
+            "t\u0255ient\u0255i",
+            "<span class=\"bf\">{ma.tu.ka\u014b</span>}",
+            "wo?"
+        ],
+        "srcwordstex": [
+            "\u0259n.udu.ku",
+            "t\u0255ient\u0255i",
+            "\\textbf{{ma.tu.ka\u014b}}",
+            "wo?"
+        ],
+        "trs": "How is the weather today?\u2019 (\\citealt{Chaolu1994b}: 17)",
+        "wlength": 4
+    }
+]

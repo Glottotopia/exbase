@@ -1,0 +1,2478 @@
+[
+    {
+        "ID": "07--50438",
+        "categories": [
+            "acc",
+            "gen",
+            "instr"
+        ],
+        "clength": 51,
+        "filename": "215/chapters/07.tex",
+        "imt": "I   spear   wallaby-\\textsc{acc} boy-\\textsc{gen-instr}  spear-\\textsc{instr}",
+        "imtwordsbare": [
+            "I",
+            "spear",
+            "wallaby-ACC",
+            "boy-gen-instr",
+            "spear-INSTR"
+        ],
+        "imtwordshtml": [
+            "I",
+            "spear",
+            "wallaby-<span class=\"sc\">acc</span>",
+            "boy-<span class=\"sc\">gen-instr</span>",
+            "spear-<span class=\"sc\">instr</span>"
+        ],
+        "imtwordstex": [
+            "I",
+            "spear",
+            "wallaby-\\textsc{acc}",
+            "boy-\\textsc{gen-instr}",
+            "spear-\\textsc{instr}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "Ngada latha   karnjin-i   marun-ngan-ku   maarn-ku.",
+        "srcwordsbare": [
+            "Ngada",
+            "latha",
+            "karnjin-i",
+            "marun-ngan-ku",
+            "maarn-ku."
+        ],
+        "srcwordshtml": [
+            "Ngada",
+            "latha",
+            "karnjin-i",
+            "marun-ngan-ku",
+            "maarn-ku."
+        ],
+        "srcwordstex": [
+            "Ngada",
+            "latha",
+            "karnjin-i",
+            "marun-ngan-ku",
+            "maarn-ku."
+        ],
+        "trs": "I speared the wallaby with the boy\u2019s spear.",
+        "wlength": 5
+    },
+    {
+        "ID": "07--83227",
+        "categories": [
+            "def",
+            "f",
+            "lkr",
+            "m",
+            "nom",
+            "obl",
+            "sg"
+        ],
+        "clength": 37,
+        "filename": "215/chapters/07.tex",
+        "imt": "book-\\textsc{m.sg.nom.def}  \\textsc{lkr-m.sg.nom.def}   teacher-\\textsc{f.sg.obl.def}",
+        "imtwordsbare": [
+            "book-m.sg.nom.def",
+            "lkr-m.sg.nom.def",
+            "teacher-f.sg.obl.def"
+        ],
+        "imtwordshtml": [
+            "book-<span class=\"sc\">m.sg.nom.def</span>",
+            "<span class=\"sc\">lkr-m.sg.nom.def</span>",
+            "teacher-<span class=\"sc\">f.sg.obl.def</span>"
+        ],
+        "imtwordstex": [
+            "book-\\textsc{m.sg.nom.def}",
+            "\\textsc{lkr-m.sg.nom.def}",
+            "teacher-\\textsc{f.sg.obl.def}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "libr-i          i       msus-[F045?]s",
+        "srcwordsbare": [
+            "libr-i",
+            "i",
+            "msus-[F045?]s"
+        ],
+        "srcwordshtml": [
+            "libr-i",
+            "i",
+            "msus-[F045?]s"
+        ],
+        "srcwordstex": [
+            "libr-i",
+            "i",
+            "msus-[F045?]s"
+        ],
+        "trs": "the book of the teacher",
+        "wlength": 3
+    },
+    {
+        "ID": "07-775298",
+        "categories": [
+            "def",
+            "f",
+            "lkr",
+            "m",
+            "nom",
+            "obl",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "215/chapters/07.tex",
+        "imt": "paw-\\textsc{f.sg.nom.def}   \\textsc{lkr-f.sg.nom.def}  dog-\\textsc{m.sg.obl.def}",
+        "imtwordsbare": [
+            "paw-f.sg.nom.def",
+            "lkr-f.sg.nom.def",
+            "dog-m.sg.obl.def"
+        ],
+        "imtwordshtml": [
+            "paw-<span class=\"sc\">f.sg.nom.def</span>",
+            "<span class=\"sc\">lkr-f.sg.nom.def</span>",
+            "dog-<span class=\"sc\">m.sg.obl.def</span>"
+        ],
+        "imtwordstex": [
+            "paw-\\textsc{f.sg.nom.def}",
+            "\\textsc{lkr-f.sg.nom.def}",
+            "dog-\\textsc{m.sg.obl.def}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "k\u0251:m-a      \u025b          t\u0283\u025bn-it",
+        "srcwordsbare": [
+            "k\u0251:m-a",
+            "\u025b",
+            "t\u0283\u025bn-it"
+        ],
+        "srcwordshtml": [
+            "k\u0251:m-a",
+            "\u025b",
+            "t\u0283\u025bn-it"
+        ],
+        "srcwordstex": [
+            "k\u0251:m-a",
+            "\u025b",
+            "t\u0283\u025bn-it"
+        ],
+        "trs": "the paw of the dog",
+        "wlength": 3
+    },
+    {
+        "ID": "07-535422",
+        "categories": [
+            "def",
+            "f",
+            "lkr",
+            "m",
+            "obl",
+            "sg"
+        ],
+        "clength": 38,
+        "filename": "215/chapters/07.tex",
+        "imt": "before   book-\\textsc{m.sg.obl.def}  \\textsc{lkr.m.sg.obl.def}  teacher-\\textsc{f.sg.obl.def}",
+        "imtwordsbare": [
+            "before",
+            "book-m.sg.obl.def",
+            "lkr.m.sg.obl.def",
+            "teacher-f.sg.obl.def"
+        ],
+        "imtwordshtml": [
+            "before",
+            "book-<span class=\"sc\">m.sg.obl.def</span>",
+            "<span class=\"sc\">lkr.m.sg.obl.def</span>",
+            "teacher-<span class=\"sc\">f.sg.obl.def</span>"
+        ],
+        "imtwordstex": [
+            "before",
+            "book-\\textsc{m.sg.obl.def}",
+            "\\textsc{lkr.m.sg.obl.def}",
+            "teacher-\\textsc{f.sg.obl.def}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "pa\u027ea     libr-it       t       msus-\u025bs",
+        "srcwordsbare": [
+            "pa\u027ea",
+            "libr-it",
+            "t",
+            "msus-\u025bs"
+        ],
+        "srcwordshtml": [
+            "pa\u027ea",
+            "libr-it",
+            "t",
+            "msus-\u025bs"
+        ],
+        "srcwordstex": [
+            "pa\u027ea",
+            "libr-it",
+            "t",
+            "msus-\u025bs"
+        ],
+        "trs": "in front of the book of the teacher",
+        "wlength": 4
+    },
+    {
+        "ID": "07--72906",
+        "categories": [
+            "f",
+            "pl"
+        ],
+        "clength": 45,
+        "filename": "215/chapters/07.tex",
+        "imt": "the-\\textsc{f.pl}   many-\\textsc{f.pl}   nice-\\textsc{f.pl}   region-\\textsc{pl}    Italian-\\textsc{f.pl}",
+        "imtwordsbare": [
+            "the-f.pl",
+            "many-f.pl",
+            "nice-f.pl",
+            "region-PL",
+            "Italian-f.pl"
+        ],
+        "imtwordshtml": [
+            "the-<span class=\"sc\">f.pl</span>",
+            "many-<span class=\"sc\">f.pl</span>",
+            "nice-<span class=\"sc\">f.pl</span>",
+            "region-<span class=\"sc\">pl</span>",
+            "Italian-<span class=\"sc\">f.pl</span>"
+        ],
+        "imtwordstex": [
+            "the-\\textsc{f.pl}",
+            "many-\\textsc{f.pl}",
+            "nice-\\textsc{f.pl}",
+            "region-\\textsc{pl}",
+            "Italian-\\textsc{f.pl}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "l-e    molt-e   bell-e    region-i  italian-e",
+        "srcwordsbare": [
+            "l-e",
+            "molt-e",
+            "bell-e",
+            "region-i",
+            "italian-e"
+        ],
+        "srcwordshtml": [
+            "l-e",
+            "molt-e",
+            "bell-e",
+            "region-i",
+            "italian-e"
+        ],
+        "srcwordstex": [
+            "l-e",
+            "molt-e",
+            "bell-e",
+            "region-i",
+            "italian-e"
+        ],
+        "trs": "the many nice Italian regions",
+        "wlength": 5
+    },
+    {
+        "ID": "07--50438",
+        "categories": [
+            "acc",
+            "gen",
+            "instr"
+        ],
+        "clength": 51,
+        "filename": "215/chapters/07.tex",
+        "imt": "I   spear   wallaby-\\textsc{acc} boy-\\textsc{gen-instr}  spear-\\textsc{instr}",
+        "imtwordsbare": [
+            "I",
+            "spear",
+            "wallaby-ACC",
+            "boy-gen-instr",
+            "spear-INSTR"
+        ],
+        "imtwordshtml": [
+            "I",
+            "spear",
+            "wallaby-<span class=\"sc\">acc</span>",
+            "boy-<span class=\"sc\">gen-instr</span>",
+            "spear-<span class=\"sc\">instr</span>"
+        ],
+        "imtwordstex": [
+            "I",
+            "spear",
+            "wallaby-\\textsc{acc}",
+            "boy-\\textsc{gen-instr}",
+            "spear-\\textsc{instr}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "Ngada latha   karnjin-i   marun-ngan-ku   maarn-ku.",
+        "srcwordsbare": [
+            "Ngada",
+            "latha",
+            "karnjin-i",
+            "marun-ngan-ku",
+            "maarn-ku."
+        ],
+        "srcwordshtml": [
+            "Ngada",
+            "latha",
+            "karnjin-i",
+            "marun-ngan-ku",
+            "maarn-ku."
+        ],
+        "srcwordstex": [
+            "Ngada",
+            "latha",
+            "karnjin-i",
+            "marun-ngan-ku",
+            "maarn-ku."
+        ],
+        "trs": "I speared the wallaby with the boy\u2019s spear.",
+        "wlength": 5
+    },
+    {
+        "ID": "07--89183",
+        "categories": [
+            "acc",
+            "q",
+            "{"
+        ],
+        "clength": 56,
+        "filename": "215/chapters/07.tex",
+        "imt": "\\textsc{q}    you     see   that-\\textsc{acc}    big-\\textsc{acc}    tree\\textsc{{}-acc}",
+        "imtwordsbare": [
+            "Q",
+            "you",
+            "see",
+            "that-ACC",
+            "big-ACC",
+            "tree{-acc}"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "you",
+            "see",
+            "that-<span class=\"sc\">acc</span>",
+            "big-<span class=\"sc\">acc</span>",
+            "tree<span class=\"sc\">{</span>-acc}"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "you",
+            "see",
+            "that-\\textsc{acc}",
+            "big-\\textsc{acc}",
+            "tree\\textsc{{}-acc}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "Kara   nyingki   kurri   kiin-i     mutha-n   thungal-i.",
+        "srcwordsbare": [
+            "Kara",
+            "nyingki",
+            "kurri",
+            "kiin-i",
+            "mutha-n",
+            "thungal-i."
+        ],
+        "srcwordshtml": [
+            "Kara",
+            "nyingki",
+            "kurri",
+            "kiin-i",
+            "mutha-n",
+            "thungal-i."
+        ],
+        "srcwordstex": [
+            "Kara",
+            "nyingki",
+            "kurri",
+            "kiin-i",
+            "mutha-n",
+            "thungal-i."
+        ],
+        "trs": "Do you see that big tree?",
+        "wlength": 6
+    },
+    {
+        "ID": "07-412307",
+        "categories": [
+            "acc",
+            "fut",
+            "gen",
+            "q"
+        ],
+        "clength": 77,
+        "filename": "215/chapters/07.tex",
+        "imt": "\\textsc{q}  you     see   that-\\textsc{acc}    big-\\textsc{acc}   tree-\\textsc{acc}    I.\\textsc{gen-acc}  cut-\\textsc{fut-acc}",
+        "imtwordsbare": [
+            "Q",
+            "you",
+            "see",
+            "that-ACC",
+            "big-ACC",
+            "tree-ACC",
+            "I.gen-acc",
+            "cut-fut-acc"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "you",
+            "see",
+            "that-<span class=\"sc\">acc</span>",
+            "big-<span class=\"sc\">acc</span>",
+            "tree-<span class=\"sc\">acc</span>",
+            "I.<span class=\"sc\">gen-acc</span>",
+            "cut-<span class=\"sc\">fut-acc</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "you",
+            "see",
+            "that-\\textsc{acc}",
+            "big-\\textsc{acc}",
+            "tree-\\textsc{acc}",
+            "I.\\textsc{gen-acc}",
+            "cut-\\textsc{fut-acc}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "Kara   nyingki kurri kiin-i     mutha-n thungal-i,   ngithun-i kirdi-thuru-\u00d8.",
+        "srcwordsbare": [
+            "Kara",
+            "nyingki",
+            "kurri",
+            "kiin-i",
+            "mutha-n",
+            "thungal-i,",
+            "ngithun-i",
+            "kirdi-thuru-\u00d8."
+        ],
+        "srcwordshtml": [
+            "Kara",
+            "nyingki",
+            "kurri",
+            "kiin-i",
+            "mutha-n",
+            "thungal-i,",
+            "ngithun-i",
+            "kirdi-thuru-\u00d8."
+        ],
+        "srcwordstex": [
+            "Kara",
+            "nyingki",
+            "kurri",
+            "kiin-i",
+            "mutha-n",
+            "thungal-i,",
+            "ngithun-i",
+            "kirdi-thuru-\u00d8."
+        ],
+        "trs": "Do you see that big tree, which I am going to cut down?",
+        "wlength": 8
+    },
+    {
+        "ID": "07-538182",
+        "categories": [
+            "lkr"
+        ],
+        "clength": 22,
+        "filename": "215/chapters/07.tex",
+        "imt": "sky-\\textsc{lkr}    blue",
+        "imtwordsbare": [
+            "sky-LKR",
+            "blue"
+        ],
+        "imtwordshtml": [
+            "sky-<span class=\"sc\">lkr</span>",
+            "blue"
+        ],
+        "imtwordstex": [
+            "sky-\\textsc{lkr}",
+            "blue"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "asman-\\textbf{e}   abi",
+        "srcwordsbare": [
+            "asman-e",
+            "abi"
+        ],
+        "srcwordshtml": [
+            "asman-<span class=\"bf\">e</span>",
+            "abi"
+        ],
+        "srcwordstex": [
+            "asman-\\textbf{e}",
+            "abi"
+        ],
+        "trs": "blue sky",
+        "wlength": 2
+    },
+    {
+        "ID": "07--46206",
+        "categories": [
+            "lkr"
+        ],
+        "clength": 24,
+        "filename": "215/chapters/07.tex",
+        "imt": "book-\\textsc{lkr}    Hasan",
+        "imtwordsbare": [
+            "book-LKR",
+            "Hasan"
+        ],
+        "imtwordshtml": [
+            "book-<span class=\"sc\">lkr</span>",
+            "Hasan"
+        ],
+        "imtwordstex": [
+            "book-\\textsc{lkr}",
+            "Hasan"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "ketab-\\textbf{e}   Hasan",
+        "srcwordsbare": [
+            "ketab-e",
+            "Hasan"
+        ],
+        "srcwordshtml": [
+            "ketab-<span class=\"bf\">e</span>",
+            "Hasan"
+        ],
+        "srcwordstex": [
+            "ketab-\\textbf{e}",
+            "Hasan"
+        ],
+        "trs": "the book of Hasan",
+        "wlength": 2
+    },
+    {
+        "ID": "07-296734",
+        "categories": [
+            "1sg",
+            "lkr",
+            "prs"
+        ],
+        "clength": 41,
+        "filename": "215/chapters/07.tex",
+        "imt": "woman-\\textsc{lkr}   that   I   love  give.\\textsc{1sg.prs}",
+        "imtwordsbare": [
+            "woman-LKR",
+            "that",
+            "I",
+            "love",
+            "give.1sg.prs"
+        ],
+        "imtwordshtml": [
+            "woman-<span class=\"sc\">lkr</span>",
+            "that",
+            "I",
+            "love",
+            "give.<span class=\"sc\">1sg.prs</span>"
+        ],
+        "imtwordstex": [
+            "woman-\\textsc{lkr}",
+            "that",
+            "I",
+            "love",
+            "give.\\textsc{1sg.prs}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "z\u00e6n-\\textbf{i}     [ke  m\u00e6n  dust  dar\u00e6m]",
+        "srcwordsbare": [
+            "z\u00e6n-i",
+            "[ke",
+            "m\u00e6n",
+            "dust",
+            "dar\u00e6m]"
+        ],
+        "srcwordshtml": [
+            "z\u00e6n-<span class=\"bf\">i</span>",
+            "[ke",
+            "m\u00e6n",
+            "dust",
+            "dar\u00e6m]"
+        ],
+        "srcwordstex": [
+            "z\u00e6n-\\textbf{i}",
+            "[ke",
+            "m\u00e6n",
+            "dust",
+            "dar\u00e6m]"
+        ],
+        "trs": "the woman I love",
+        "wlength": 5
+    },
+    {
+        "ID": "07--19956",
+        "categories": [
+            "1sg",
+            "dom",
+            "lkr",
+            "pl"
+        ],
+        "clength": 52,
+        "filename": "215/chapters/07.tex",
+        "imt": "child-\\textsc{lkr}    that   clothes-\\textsc{pl-dom}    to-him gave-\\textsc{1sg}",
+        "imtwordsbare": [
+            "child-LKR",
+            "that",
+            "clothes-pl-dom",
+            "to-him",
+            "gave-1SG"
+        ],
+        "imtwordshtml": [
+            "child-<span class=\"sc\">lkr</span>",
+            "that",
+            "clothes-<span class=\"sc\">pl-dom</span>",
+            "to-him",
+            "gave-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "child-\\textsc{lkr}",
+            "that",
+            "clothes-\\textsc{pl-dom}",
+            "to-him",
+            "gave-\\textsc{1sg}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "b\u00e6cce-\\textbf{i}   ke   lebas-a-ro     be-he\u0161 dad-\u00e6m",
+        "srcwordsbare": [
+            "b\u00e6cce-i",
+            "ke",
+            "lebas-a-ro",
+            "be-he\u0161",
+            "dad-\u00e6m"
+        ],
+        "srcwordshtml": [
+            "b\u00e6cce-<span class=\"bf\">i</span>",
+            "ke",
+            "lebas-a-ro",
+            "be-he\u0161",
+            "dad-\u00e6m"
+        ],
+        "srcwordstex": [
+            "b\u00e6cce-\\textbf{i}",
+            "ke",
+            "lebas-a-ro",
+            "be-he\u0161",
+            "dad-\u00e6m"
+        ],
+        "trs": "the child that I gave the clothes to",
+        "wlength": 5
+    },
+    {
+        "ID": "07-627407",
+        "categories": [
+            "lkr",
+            "m"
+        ],
+        "clength": 31,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-(one){}-\\textsc{lkr.m}    big",
+        "imtwordsbare": [
+            "boy-(one){}-lkr.m",
+            "big"
+        ],
+        "imtwordshtml": [
+            "boy-(one){}-<span class=\"sc\">lkr.m</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "boy-(one){}-\\textsc{lkr.m}",
+            "big"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "kurk-(ak-)\\textbf{e:}     maz\u0259n",
+        "srcwordsbare": [
+            "kurk-(ak-)e:",
+            "maz\u0259n"
+        ],
+        "srcwordshtml": [
+            "kurk-(ak-)<span class=\"bf\">e:</span>",
+            "maz\u0259n"
+        ],
+        "srcwordstex": [
+            "kurk-(ak-)\\textbf{e:}",
+            "maz\u0259n"
+        ],
+        "trs": "a big boy",
+        "wlength": 2
+    },
+    {
+        "ID": "07--77152",
+        "categories": [
+            "lkr",
+            "m",
+            "obl"
+        ],
+        "clength": 26,
+        "filename": "215/chapters/07.tex",
+        "imt": "hand{}-\\textsc{lkr.m}    boy{}-\\textsc{obl.m}",
+        "imtwordsbare": [
+            "hand{}-lkr.m",
+            "boy{}-obl.m"
+        ],
+        "imtwordshtml": [
+            "hand{}-<span class=\"sc\">lkr.m</span>",
+            "boy{}-<span class=\"sc\">obl.m</span>"
+        ],
+        "imtwordstex": [
+            "hand{}-\\textsc{lkr.m}",
+            "boy{}-\\textsc{obl.m}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "dest-\\textbf{e}     kurk-i",
+        "srcwordsbare": [
+            "dest-e",
+            "kurk-i"
+        ],
+        "srcwordshtml": [
+            "dest-<span class=\"bf\">e</span>",
+            "kurk-i"
+        ],
+        "srcwordstex": [
+            "dest-\\textbf{e}",
+            "kurk-i"
+        ],
+        "trs": "the hand of the boy",
+        "wlength": 2
+    },
+    {
+        "ID": "07--15914",
+        "categories": [
+            "3sg",
+            "dem",
+            "lkr",
+            "m",
+            "prs",
+            "subj"
+        ],
+        "clength": 50,
+        "filename": "215/chapters/07.tex",
+        "imt": "\\textsc{dem}   person{}-\\textsc{lkr.m}   (that)   first     \\textsc{subj}{}-come-\\textsc{3sg.prs}",
+        "imtwordsbare": [
+            "DEM",
+            "person{}-lkr.m",
+            "(that)",
+            "first",
+            "SUBJ{}-come-3sg.prs"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dem</span>",
+            "person{}-<span class=\"sc\">lkr.m</span>",
+            "(that)",
+            "first",
+            "<span class=\"sc\">subj</span>{}-come-<span class=\"sc\">3sg.prs</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{dem}",
+            "person{}-\\textsc{lkr.m}",
+            "(that)",
+            "first",
+            "\\textsc{subj}{}-come-\\textsc{3sg.prs}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "aw   \u1e31as-\\textbf{e:}     (ku)   awwil\\=\\i   b-e:-t",
+        "srcwordsbare": [
+            "aw",
+            "\u1e31as-e:",
+            "(ku)",
+            "awwil\\=\\i",
+            "b-e:-t"
+        ],
+        "srcwordshtml": [
+            "aw",
+            "\u1e31as-<span class=\"bf\">e:</span>",
+            "(ku)",
+            "awwil\\=\\i",
+            "b-e:-t"
+        ],
+        "srcwordstex": [
+            "aw",
+            "\u1e31as-\\textbf{e:}",
+            "(ku)",
+            "awwil\\=\\i",
+            "b-e:-t"
+        ],
+        "trs": "that person who shall come first",
+        "wlength": 5
+    },
+    {
+        "ID": "07-262979",
+        "categories": [
+            "def",
+            "lkr",
+            "obl",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "215/chapters/07.tex",
+        "imt": "this  is  \\textsc{lkr}  boy-\\textsc{obl.sg.def}",
+        "imtwordsbare": [
+            "this",
+            "is",
+            "LKR",
+            "boy-obl.sg.def"
+        ],
+        "imtwordshtml": [
+            "this",
+            "is",
+            "<span class=\"sc\">lkr</span>",
+            "boy-<span class=\"sc\">obl.sg.def</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "is",
+            "\\textsc{lkr}",
+            "boy-\\textsc{obl.sg.def}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "Ky   \u0251\u0283t   i   di\u0251l-i-t.",
+        "srcwordsbare": [
+            "Ky",
+            "\u0251\u0283t",
+            "i",
+            "di\u0251l-i-t."
+        ],
+        "srcwordshtml": [
+            "Ky",
+            "\u0251\u0283t",
+            "i",
+            "di\u0251l-i-t."
+        ],
+        "srcwordstex": [
+            "Ky",
+            "\u0251\u0283t",
+            "i",
+            "di\u0251l-i-t."
+        ],
+        "trs": "This is of the boy\u2019s",
+        "wlength": 4
+    },
+    {
+        "ID": "07-254339",
+        "categories": [
+            "lkr",
+            "obl",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "215/chapters/07.tex",
+        "imt": "this  is  \\textsc{lkr}  a-obl.sg   boy-\\textsc{obl.sg}",
+        "imtwordsbare": [
+            "this",
+            "is",
+            "LKR",
+            "a-obl.sg",
+            "boy-obl.sg"
+        ],
+        "imtwordshtml": [
+            "this",
+            "is",
+            "<span class=\"sc\">lkr</span>",
+            "a-obl.sg",
+            "boy-<span class=\"sc\">obl.sg</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "is",
+            "\\textsc{lkr}",
+            "a-obl.sg",
+            "boy-\\textsc{obl.sg}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "Ky   \u0251\u0283t   i  \u0272{}-i    di\u0251l-i.",
+        "srcwordsbare": [
+            "Ky",
+            "\u0251\u0283t",
+            "i",
+            "\u0272{}-i",
+            "di\u0251l-i."
+        ],
+        "srcwordshtml": [
+            "Ky",
+            "\u0251\u0283t",
+            "i",
+            "\u0272{}-i",
+            "di\u0251l-i."
+        ],
+        "srcwordstex": [
+            "Ky",
+            "\u0251\u0283t",
+            "i",
+            "\u0272{}-i",
+            "di\u0251l-i."
+        ],
+        "trs": "This is of a boy\u2019s",
+        "wlength": 5
+    },
+    {
+        "ID": "07--51952",
+        "categories": [
+            "lkr"
+        ],
+        "clength": 53,
+        "filename": "215/chapters/07.tex",
+        "imt": "this   book{}-\\textsc{lkr}    ancient{}-\\textsc{lkr}    without value{}-\\textsc{lkr}    Maryam",
+        "imtwordsbare": [
+            "this",
+            "book{}-LKR",
+            "ancient{}-LKR",
+            "without",
+            "value{}-LKR",
+            "Maryam"
+        ],
+        "imtwordshtml": [
+            "this",
+            "book{}-<span class=\"sc\">lkr</span>",
+            "ancient{}-<span class=\"sc\">lkr</span>",
+            "without",
+            "value{}-<span class=\"sc\">lkr</span>",
+            "Maryam"
+        ],
+        "imtwordstex": [
+            "this",
+            "book{}-\\textsc{lkr}",
+            "ancient{}-\\textsc{lkr}",
+            "without",
+            "value{}-\\textsc{lkr}",
+            "Maryam"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "in   ket\u00e2b-[e   kohne-[ye   bi arze\u0161-[e     maryam]]]",
+        "srcwordsbare": [
+            "in",
+            "ket\u00e2b-[e",
+            "kohne-[ye",
+            "bi",
+            "arze\u0161-[e",
+            "maryam]]]"
+        ],
+        "srcwordshtml": [
+            "in",
+            "ket\u00e2b-[e",
+            "kohne-[ye",
+            "bi",
+            "arze\u0161-[e",
+            "maryam]]]"
+        ],
+        "srcwordstex": [
+            "in",
+            "ket\u00e2b-[e",
+            "kohne-[ye",
+            "bi",
+            "arze\u0161-[e",
+            "maryam]]]"
+        ],
+        "trs": "this ancient worthless book of Maryam\u2019s",
+        "wlength": 6
+    },
+    {
+        "ID": "07--88949",
+        "categories": [
+            "indef",
+            "lkr"
+        ],
+        "clength": 29,
+        "filename": "215/chapters/07.tex",
+        "imt": "book-\\textsc{indef-lkr}   good-\\textsc{lkr}   new",
+        "imtwordsbare": [
+            "book-indef-lkr",
+            "good-LKR",
+            "new"
+        ],
+        "imtwordshtml": [
+            "book-<span class=\"sc\">indef-lkr</span>",
+            "good-<span class=\"sc\">lkr</span>",
+            "new"
+        ],
+        "imtwordstex": [
+            "book-\\textsc{indef-lkr}",
+            "good-\\textsc{lkr}",
+            "new"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "kit\u00eab-ek-[e    bas-[e    n\u00fb]]",
+        "srcwordsbare": [
+            "kit\u00eab-ek-[e",
+            "bas-[e",
+            "n\u00fb]]"
+        ],
+        "srcwordshtml": [
+            "kit\u00eab-ek-[e",
+            "bas-[e",
+            "n\u00fb]]"
+        ],
+        "srcwordstex": [
+            "kit\u00eab-ek-[e",
+            "bas-[e",
+            "n\u00fb]]"
+        ],
+        "trs": "a good new book",
+        "wlength": 3
+    },
+    {
+        "ID": "07-329501",
+        "categories": [
+            "indef",
+            "lkr"
+        ],
+        "clength": 29,
+        "filename": "215/chapters/07.tex",
+        "imt": "house-\\textsc{indef-lkr}   good-\\textsc{lkr}   new",
+        "imtwordsbare": [
+            "house-indef-lkr",
+            "good-LKR",
+            "new"
+        ],
+        "imtwordshtml": [
+            "house-<span class=\"sc\">indef-lkr</span>",
+            "good-<span class=\"sc\">lkr</span>",
+            "new"
+        ],
+        "imtwordstex": [
+            "house-\\textsc{indef-lkr}",
+            "good-\\textsc{lkr}",
+            "new"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "xani-yek-[\u00ee    bas-[\u00ee    n\u00fb]]",
+        "srcwordsbare": [
+            "xani-yek-[\u00ee",
+            "bas-[\u00ee",
+            "n\u00fb]]"
+        ],
+        "srcwordshtml": [
+            "xani-yek-[\u00ee",
+            "bas-[\u00ee",
+            "n\u00fb]]"
+        ],
+        "srcwordstex": [
+            "xani-yek-[\u00ee",
+            "bas-[\u00ee",
+            "n\u00fb]]"
+        ],
+        "trs": "a good new house",
+        "wlength": 3
+    },
+    {
+        "ID": "07-535790",
+        "categories": [
+            "def",
+            "lkr",
+            "m",
+            "obl"
+        ],
+        "clength": 30,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-\\textsc{obl.m.def}  \\textsc{lkr.obl}  grown-up.\\textsc{m}",
+        "imtwordsbare": [
+            "boy-obl.m.def",
+            "lkr.obl",
+            "grown-up.M"
+        ],
+        "imtwordshtml": [
+            "boy-<span class=\"sc\">obl.m.def</span>",
+            "<span class=\"sc\">lkr.obl</span>",
+            "grown-up.<span class=\"sc\">m</span>"
+        ],
+        "imtwordstex": [
+            "boy-\\textsc{obl.m.def}",
+            "\\textsc{lkr.obl}",
+            "grown-up.\\textsc{m}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "di\u0251li-t              t     m\u0251\u00f0",
+        "srcwordsbare": [
+            "di\u0251li-t",
+            "t",
+            "m\u0251\u00f0"
+        ],
+        "srcwordshtml": [
+            "di\u0251li-t",
+            "t",
+            "m\u0251\u00f0"
+        ],
+        "srcwordstex": [
+            "di\u0251li-t",
+            "t",
+            "m\u0251\u00f0"
+        ],
+        "trs": "(to) the big boy",
+        "wlength": 3
+    },
+    {
+        "ID": "07-115059",
+        "categories": [
+            "f",
+            "lkr",
+            "obl"
+        ],
+        "clength": 21,
+        "filename": "215/chapters/07.tex",
+        "imt": "girl-obl.f.def    \\textsc{lkr.obl}  grown-up.\\textsc{f}",
+        "imtwordsbare": [
+            "girl-obl.f.def",
+            "lkr.obl",
+            "grown-up.F"
+        ],
+        "imtwordshtml": [
+            "girl-obl.f.def",
+            "<span class=\"sc\">lkr.obl</span>",
+            "grown-up.<span class=\"sc\">f</span>"
+        ],
+        "imtwordstex": [
+            "girl-obl.f.def",
+            "\\textsc{lkr.obl}",
+            "grown-up.\\textsc{f}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "v\u0251iz-\u0259s    t     m\u0251\u00f0\u025b",
+        "srcwordsbare": [
+            "v\u0251iz-\u0259s",
+            "t",
+            "m\u0251\u00f0\u025b"
+        ],
+        "srcwordshtml": [
+            "v\u0251iz-\u0259s",
+            "t",
+            "m\u0251\u00f0\u025b"
+        ],
+        "srcwordstex": [
+            "v\u0251iz-\u0259s",
+            "t",
+            "m\u0251\u00f0\u025b"
+        ],
+        "trs": "(to) the big girl",
+        "wlength": 3
+    },
+    {
+        "ID": "07--50397",
+        "categories": [
+            "lkr",
+            "m",
+            "obl",
+            "pl"
+        ],
+        "clength": 21,
+        "filename": "215/chapters/07.tex",
+        "imt": "boys-\\textsc{obl.pl}     \\textsc{lkr.obl}  grown-up.\\textsc{m.pl}",
+        "imtwordsbare": [
+            "boys-obl.pl",
+            "lkr.obl",
+            "grown-up.m.pl"
+        ],
+        "imtwordshtml": [
+            "boys-<span class=\"sc\">obl.pl</span>",
+            "<span class=\"sc\">lkr.obl</span>",
+            "grown-up.<span class=\"sc\">m.pl</span>"
+        ],
+        "imtwordstex": [
+            "boys-\\textsc{obl.pl}",
+            "\\textsc{lkr.obl}",
+            "grown-up.\\textsc{m.pl}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "diem-v\u025b    t     m\u0251\u00f0i",
+        "srcwordsbare": [
+            "diem-v\u025b",
+            "t",
+            "m\u0251\u00f0i"
+        ],
+        "srcwordshtml": [
+            "diem-v\u025b",
+            "t",
+            "m\u0251\u00f0i"
+        ],
+        "srcwordstex": [
+            "diem-v\u025b",
+            "t",
+            "m\u0251\u00f0i"
+        ],
+        "trs": "(to) the big boys",
+        "wlength": 3
+    },
+    {
+        "ID": "07--89501",
+        "categories": [
+            "lkr",
+            "m"
+        ],
+        "clength": 22,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-(one)-\\textsc{lkr.m}    big",
+        "imtwordsbare": [
+            "boy-(one)-lkr.m",
+            "big"
+        ],
+        "imtwordshtml": [
+            "boy-(one)-<span class=\"sc\">lkr.m</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "boy-(one)-\\textsc{lkr.m}",
+            "big"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "kurk-(ak-)e:     maz\u0259n",
+        "srcwordsbare": [
+            "kurk-(ak-)e:",
+            "maz\u0259n"
+        ],
+        "srcwordshtml": [
+            "kurk-(ak-)e:",
+            "maz\u0259n"
+        ],
+        "srcwordstex": [
+            "kurk-(ak-)e:",
+            "maz\u0259n"
+        ],
+        "trs": "a/the big boy",
+        "wlength": 2
+    },
+    {
+        "ID": "07-157424",
+        "categories": [
+            "f",
+            "lkr"
+        ],
+        "clength": 22,
+        "filename": "215/chapters/07.tex",
+        "imt": "girl-(one)-\\textsc{lkr.f}   big",
+        "imtwordsbare": [
+            "girl-(one)-lkr.f",
+            "big"
+        ],
+        "imtwordshtml": [
+            "girl-(one)-<span class=\"sc\">lkr.f</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "girl-(one)-\\textsc{lkr.f}",
+            "big"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "ket\u0283k-(ak-)\u0251:    maz\u0259n",
+        "srcwordsbare": [
+            "ket\u0283k-(ak-)\u0251:",
+            "maz\u0259n"
+        ],
+        "srcwordshtml": [
+            "ket\u0283k-(ak-)\u0251:",
+            "maz\u0259n"
+        ],
+        "srcwordstex": [
+            "ket\u0283k-(ak-)\u0251:",
+            "maz\u0259n"
+        ],
+        "trs": "a/the big girl",
+        "wlength": 2
+    },
+    {
+        "ID": "07-186831",
+        "categories": [
+            "lkr",
+            "pl"
+        ],
+        "clength": 28,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-\\textsc{lkr.pl}/girl-\\textsc{lkr.pl}  big",
+        "imtwordsbare": [
+            "boy-lkr.pl/girl-lkr.pl",
+            "big"
+        ],
+        "imtwordshtml": [
+            "boy-<span class=\"sc\">lkr.pl</span>/girl-<span class=\"sc\">lkr.pl</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "boy-\\textsc{lkr.pl}/girl-\\textsc{lkr.pl}",
+            "big"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "kurk-e:t/ket\u0283k-e:t     maz\u0259n",
+        "srcwordsbare": [
+            "kurk-e:t/ket\u0283k-e:t",
+            "maz\u0259n"
+        ],
+        "srcwordshtml": [
+            "kurk-e:t/ket\u0283k-e:t",
+            "maz\u0259n"
+        ],
+        "srcwordstex": [
+            "kurk-e:t/ket\u0283k-e:t",
+            "maz\u0259n"
+        ],
+        "trs": "the big boys/girls",
+        "wlength": 2
+    },
+    {
+        "ID": "07-232135",
+        "categories": [
+            "lkr"
+        ],
+        "clength": 15,
+        "filename": "215/chapters/07.tex",
+        "imt": "horse-\\textsc{lkr}  black",
+        "imtwordsbare": [
+            "horse-LKR",
+            "black"
+        ],
+        "imtwordshtml": [
+            "horse-<span class=\"sc\">lkr</span>",
+            "black"
+        ],
+        "imtwordstex": [
+            "horse-\\textsc{lkr}",
+            "black"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "\u00e6sp-i     sya:w",
+        "srcwordsbare": [
+            "\u00e6sp-i",
+            "sya:w"
+        ],
+        "srcwordshtml": [
+            "\u00e6sp-i",
+            "sya:w"
+        ],
+        "srcwordstex": [
+            "\u00e6sp-i",
+            "sya:w"
+        ],
+        "trs": "black horse",
+        "wlength": 2
+    },
+    {
+        "ID": "07-667101",
+        "categories": [
+            "def",
+            "lkr"
+        ],
+        "clength": 19,
+        "filename": "215/chapters/07.tex",
+        "imt": "horse-\\textsc{lkr.def}  big-\\textsc{def}",
+        "imtwordsbare": [
+            "horse-lkr.def",
+            "big-DEF"
+        ],
+        "imtwordshtml": [
+            "horse-<span class=\"sc\">lkr.def</span>",
+            "big-<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "horse-\\textsc{lkr.def}",
+            "big-\\textsc{def}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "\u00e6sp{}-\u00e6     z\u026al-\u00e6k\u00e6",
+        "srcwordsbare": [
+            "\u00e6sp{}-\u00e6",
+            "z\u026al-\u00e6k\u00e6"
+        ],
+        "srcwordshtml": [
+            "\u00e6sp{}-\u00e6",
+            "z\u026al-\u00e6k\u00e6"
+        ],
+        "srcwordstex": [
+            "\u00e6sp{}-\u00e6",
+            "z\u026al-\u00e6k\u00e6"
+        ],
+        "trs": "the big horse",
+        "wlength": 2
+    },
+    {
+        "ID": "07-283260",
+        "categories": [
+            "lkr",
+            "pl"
+        ],
+        "clength": 20,
+        "filename": "215/chapters/07.tex",
+        "imt": "two   horse-\\textsc{lkr.pl}  big-\\textsc{pl}",
+        "imtwordsbare": [
+            "two",
+            "horse-lkr.pl",
+            "big-PL"
+        ],
+        "imtwordshtml": [
+            "two",
+            "horse-<span class=\"sc\">lkr.pl</span>",
+            "big-<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "two",
+            "horse-\\textsc{lkr.pl}",
+            "big-\\textsc{pl}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "due   \u00e6sp-e    z\u026al-e",
+        "srcwordsbare": [
+            "due",
+            "\u00e6sp-e",
+            "z\u026al-e"
+        ],
+        "srcwordshtml": [
+            "due",
+            "\u00e6sp-e",
+            "z\u026al-e"
+        ],
+        "srcwordstex": [
+            "due",
+            "\u00e6sp-e",
+            "z\u026al-e"
+        ],
+        "trs": "two big horses",
+        "wlength": 3
+    },
+    {
+        "ID": "07--48757",
+        "categories": [
+            "lkr",
+            "obl"
+        ],
+        "clength": 16,
+        "filename": "215/chapters/07.tex",
+        "imt": "feather-\\textsc{lkr}   eagle-\\textsc{obl}",
+        "imtwordsbare": [
+            "feather-LKR",
+            "eagle-OBL"
+        ],
+        "imtwordshtml": [
+            "feather-<span class=\"sc\">lkr</span>",
+            "eagle-<span class=\"sc\">obl</span>"
+        ],
+        "imtwordstex": [
+            "feather-\\textsc{lkr}",
+            "eagle-\\textsc{obl}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "p\u00e6l-u     ha\u0142o-i",
+        "srcwordsbare": [
+            "p\u00e6l-u",
+            "ha\u0142o-i"
+        ],
+        "srcwordshtml": [
+            "p\u00e6l-u",
+            "ha\u0142o-i"
+        ],
+        "srcwordstex": [
+            "p\u00e6l-u",
+            "ha\u0142o-i"
+        ],
+        "trs": "eagle\u2019s feather",
+        "wlength": 2
+    },
+    {
+        "ID": "07-775298",
+        "categories": [
+            "def",
+            "f",
+            "m",
+            "nom",
+            "obl",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "215/chapters/07.tex",
+        "imt": "paw-\\textsc{f.sg.nom.def}   lkr-\\textsc{f.sg.nom.def}  dog-\\textsc{m.sg.obl.def}",
+        "imtwordsbare": [
+            "paw-f.sg.nom.def",
+            "lkr-f.sg.nom.def",
+            "dog-m.sg.obl.def"
+        ],
+        "imtwordshtml": [
+            "paw-<span class=\"sc\">f.sg.nom.def</span>",
+            "lkr-<span class=\"sc\">f.sg.nom.def</span>",
+            "dog-<span class=\"sc\">m.sg.obl.def</span>"
+        ],
+        "imtwordstex": [
+            "paw-\\textsc{f.sg.nom.def}",
+            "lkr-\\textsc{f.sg.nom.def}",
+            "dog-\\textsc{m.sg.obl.def}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "k\u0251:m-a      \u025b          t\u0283\u025bn-it",
+        "srcwordsbare": [
+            "k\u0251:m-a",
+            "\u025b",
+            "t\u0283\u025bn-it"
+        ],
+        "srcwordshtml": [
+            "k\u0251:m-a",
+            "\u025b",
+            "t\u0283\u025bn-it"
+        ],
+        "srcwordstex": [
+            "k\u0251:m-a",
+            "\u025b",
+            "t\u0283\u025bn-it"
+        ],
+        "trs": "the paw of the dog",
+        "wlength": 3
+    },
+    {
+        "ID": "07-345828",
+        "categories": [
+            "def   lkr",
+            "m",
+            "nom"
+        ],
+        "clength": 20,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-\\textsc{nom.m.def   lkr.m}  grown-up.\\textsc{m}",
+        "imtwordsbare": [
+            "boy-\\textsc{nom.m.def",
+            "lkr.m}",
+            "grown-up.M"
+        ],
+        "imtwordshtml": [
+            "boy-\\textsc{nom.m.def",
+            "lkr.m}",
+            "grown-up.<span class=\"sc\">m</span>"
+        ],
+        "imtwordstex": [
+            "boy-\\textsc{nom.m.def",
+            "lkr.m}",
+            "grown-up.\\textsc{m}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "di\u0251l-i       i   m\u0251\u00f0",
+        "srcwordsbare": [
+            "di\u0251l-i",
+            "i",
+            "m\u0251\u00f0"
+        ],
+        "srcwordshtml": [
+            "di\u0251l-i",
+            "i",
+            "m\u0251\u00f0"
+        ],
+        "srcwordstex": [
+            "di\u0251l-i",
+            "i",
+            "m\u0251\u00f0"
+        ],
+        "trs": "(to) the grown-up boy",
+        "wlength": 3
+    },
+    {
+        "ID": "07--37293",
+        "categories": [
+            "def",
+            "f",
+            "lkr",
+            "m",
+            "obl",
+            "pl",
+            "sg"
+        ],
+        "clength": 34,
+        "filename": "215/chapters/07.tex",
+        "imt": "two   shirts-\\textsc{f.pl}  \\textsc{lkr}  boy-\\textsc{def-obl.m.sg}",
+        "imtwordsbare": [
+            "two",
+            "shirts-f.pl",
+            "LKR",
+            "boy-def-obl.m.sg"
+        ],
+        "imtwordshtml": [
+            "two",
+            "shirts-<span class=\"sc\">f.pl</span>",
+            "<span class=\"sc\">lkr</span>",
+            "boy-<span class=\"sc\">def-obl.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "two",
+            "shirts-\\textsc{f.pl}",
+            "\\textsc{lkr}",
+            "boy-\\textsc{def-obl.m.sg}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "dou\u0103   k\u0103m\u0103\u015f-i   ale   b\u0103iat-ul-ui",
+        "srcwordsbare": [
+            "dou\u0103",
+            "k\u0103m\u0103\u015f-i",
+            "ale",
+            "b\u0103iat-ul-ui"
+        ],
+        "srcwordshtml": [
+            "dou\u0103",
+            "k\u0103m\u0103\u015f-i",
+            "ale",
+            "b\u0103iat-ul-ui"
+        ],
+        "srcwordstex": [
+            "dou\u0103",
+            "k\u0103m\u0103\u015f-i",
+            "ale",
+            "b\u0103iat-ul-ui"
+        ],
+        "trs": "two shirts of the boy",
+        "wlength": 4
+    },
+    {
+        "ID": "07--15914",
+        "categories": [
+            "3sg",
+            "dem",
+            "lkr",
+            "m",
+            "prs",
+            "subj"
+        ],
+        "clength": 50,
+        "filename": "215/chapters/07.tex",
+        "imt": "\\textsc{dem}  person-\\textsc{lkr.m}   (that)   first     \\textsc{subj}{}-come-\\textsc{3sg.prs}",
+        "imtwordsbare": [
+            "DEM",
+            "person-lkr.m",
+            "(that)",
+            "first",
+            "SUBJ{}-come-3sg.prs"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dem</span>",
+            "person-<span class=\"sc\">lkr.m</span>",
+            "(that)",
+            "first",
+            "<span class=\"sc\">subj</span>{}-come-<span class=\"sc\">3sg.prs</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{dem}",
+            "person-\\textsc{lkr.m}",
+            "(that)",
+            "first",
+            "\\textsc{subj}{}-come-\\textsc{3sg.prs}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "aw   \u1e31as-\\textbf{e:}     (ku)   awwil\\=\\i   b-e:-t",
+        "srcwordsbare": [
+            "aw",
+            "\u1e31as-e:",
+            "(ku)",
+            "awwil\\=\\i",
+            "b-e:-t"
+        ],
+        "srcwordshtml": [
+            "aw",
+            "\u1e31as-<span class=\"bf\">e:</span>",
+            "(ku)",
+            "awwil\\=\\i",
+            "b-e:-t"
+        ],
+        "srcwordstex": [
+            "aw",
+            "\u1e31as-\\textbf{e:}",
+            "(ku)",
+            "awwil\\=\\i",
+            "b-e:-t"
+        ],
+        "trs": "That person who shall come first.",
+        "wlength": 5
+    },
+    {
+        "ID": "07-456374",
+        "categories": [
+            "  gen",
+            "m",
+            "obl",
+            "pl",
+            "sg"
+        ],
+        "clength": 42,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-\\textsc{m.pl.obl-  gen-m.sg}  door-\\textsc{m.sg}  new-\\textsc{m.sg}    be",
+        "imtwordsbare": [
+            "boy-\\textsc{m.pl.obl-",
+            "gen-m.sg}",
+            "door-m.sg",
+            "new-m.sg",
+            "be"
+        ],
+        "imtwordshtml": [
+            "boy-\\textsc{m.pl.obl-",
+            "gen-m.sg}",
+            "door-<span class=\"sc\">m.sg</span>",
+            "new-<span class=\"sc\">m.sg</span>",
+            "be"
+        ],
+        "imtwordstex": [
+            "boy-\\textsc{m.pl.obl-",
+            "gen-m.sg}",
+            "door-\\textsc{m.sg}",
+            "new-\\textsc{m.sg}",
+            "be"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "mun\u0256-ea-    d-a     darwadd\u0292-a   nam-a   a",
+        "srcwordsbare": [
+            "mun\u0256-ea-",
+            "d-a",
+            "darwadd\u0292-a",
+            "nam-a",
+            "a"
+        ],
+        "srcwordshtml": [
+            "mun\u0256-ea-",
+            "d-a",
+            "darwadd\u0292-a",
+            "nam-a",
+            "a"
+        ],
+        "srcwordstex": [
+            "mun\u0256-ea-",
+            "d-a",
+            "darwadd\u0292-a",
+            "nam-a",
+            "a"
+        ],
+        "trs": "The boys\u2019 door is new.",
+        "wlength": 5
+    },
+    {
+        "ID": "07-718279",
+        "categories": [
+            "  gen",
+            "f",
+            "m",
+            "obl",
+            "pl"
+        ],
+        "clength": 42,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-\\textsc{m.pl.obl-  gen-f.pl}   book-\\textsc{pl}   new-\\textsc{f.pl}   be",
+        "imtwordsbare": [
+            "boy-\\textsc{m.pl.obl-",
+            "gen-f.pl}",
+            "book-PL",
+            "new-f.pl",
+            "be"
+        ],
+        "imtwordshtml": [
+            "boy-\\textsc{m.pl.obl-",
+            "gen-f.pl}",
+            "book-<span class=\"sc\">pl</span>",
+            "new-<span class=\"sc\">f.pl</span>",
+            "be"
+        ],
+        "imtwordstex": [
+            "boy-\\textsc{m.pl.obl-",
+            "gen-f.pl}",
+            "book-\\textsc{pl}",
+            "new-\\textsc{f.pl}",
+            "be"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "mun\u0256-ea-    d-ia     kitabb-a   nam-ia   a",
+        "srcwordsbare": [
+            "mun\u0256-ea-",
+            "d-ia",
+            "kitabb-a",
+            "nam-ia",
+            "a"
+        ],
+        "srcwordshtml": [
+            "mun\u0256-ea-",
+            "d-ia",
+            "kitabb-a",
+            "nam-ia",
+            "a"
+        ],
+        "srcwordstex": [
+            "mun\u0256-ea-",
+            "d-ia",
+            "kitabb-a",
+            "nam-ia",
+            "a"
+        ],
+        "trs": "The boys\u2019 books are new.",
+        "wlength": 5
+    },
+    {
+        "ID": "07--58207",
+        "categories": [
+            "f",
+            "gen",
+            "m",
+            "obl",
+            "pl"
+        ],
+        "clength": 48,
+        "filename": "215/chapters/07.tex",
+        "imt": "house-\\textsc{gen-m.pl.obl}  door-\\textsc{m.pl.obl-gen-f.pl}  key-\\textsc{f.pl}  me-\\textsc{gen-f.pl}",
+        "imtwordsbare": [
+            "house-gen-m.pl.obl",
+            "door-m.pl.obl-gen-f.pl",
+            "key-f.pl",
+            "me-gen-f.pl"
+        ],
+        "imtwordshtml": [
+            "house-<span class=\"sc\">gen-m.pl.obl</span>",
+            "door-<span class=\"sc\">m.pl.obl-gen-f.pl</span>",
+            "key-<span class=\"sc\">f.pl</span>",
+            "me-<span class=\"sc\">gen-f.pl</span>"
+        ],
+        "imtwordstex": [
+            "house-\\textsc{gen-m.pl.obl}",
+            "door-\\textsc{m.pl.obl-gen-f.pl}",
+            "key-\\textsc{f.pl}",
+            "me-\\textsc{gen-f.pl}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "ghar-d-e   darwadd\u0292-ea-d-ia   t\u0283abb-ia   me-r-ia",
+        "srcwordsbare": [
+            "ghar-d-e",
+            "darwadd\u0292-ea-d-ia",
+            "t\u0283abb-ia",
+            "me-r-ia"
+        ],
+        "srcwordshtml": [
+            "ghar-d-e",
+            "darwadd\u0292-ea-d-ia",
+            "t\u0283abb-ia",
+            "me-r-ia"
+        ],
+        "srcwordstex": [
+            "ghar-d-e",
+            "darwadd\u0292-ea-d-ia",
+            "t\u0283abb-ia",
+            "me-r-ia"
+        ],
+        "trs": "The keys of the house\u2019s door are mine.",
+        "wlength": 4
+    },
+    {
+        "ID": "07-459173",
+        "categories": [
+            "erg",
+            "f",
+            "gen",
+            "m",
+            "progr",
+            "sg"
+        ],
+        "clength": 62,
+        "filename": "215/chapters/07.tex",
+        "imt": "I(\\textsc{f})  girl-\\textsc{f.sg-gen-m.sg}/  girl-\\textsc{f.sg-erg}  done-\\textsc{m.sg}  meat.\\textsc{m.sg}  eat-\\textsc{progr-f.sg}  be",
+        "imtwordsbare": [
+            "I(F)",
+            "girl-f.sg-gen-m.sg/",
+            "girl-f.sg-erg",
+            "done-m.sg",
+            "meat.m.sg",
+            "eat-progr-f.sg",
+            "be"
+        ],
+        "imtwordshtml": [
+            "I(<span class=\"sc\">f</span>)",
+            "girl-<span class=\"sc\">f.sg-gen-m.sg</span>/",
+            "girl-<span class=\"sc\">f.sg-erg</span>",
+            "done-<span class=\"sc\">m.sg</span>",
+            "meat.<span class=\"sc\">m.sg</span>",
+            "eat-<span class=\"sc\">progr-f.sg</span>",
+            "be"
+        ],
+        "imtwordstex": [
+            "I(\\textsc{f})",
+            "girl-\\textsc{f.sg-gen-m.sg}/",
+            "girl-\\textsc{f.sg-erg}",
+            "done-\\textsc{m.sg}",
+            "meat.\\textsc{m.sg}",
+            "eat-\\textsc{progr-f.sg}",
+            "be"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "m\u025b  ku\u027e-i-d-a/  ku\u027e-i-ne  b\u0259na-ea      mi:t\u0259      khan-d-i   a",
+        "srcwordsbare": [
+            "m\u025b",
+            "ku\u027e-i-d-a/",
+            "ku\u027e-i-ne",
+            "b\u0259na-ea",
+            "mi:t\u0259",
+            "khan-d-i",
+            "a"
+        ],
+        "srcwordshtml": [
+            "m\u025b",
+            "ku\u027e-i-d-a/",
+            "ku\u027e-i-ne",
+            "b\u0259na-ea",
+            "mi:t\u0259",
+            "khan-d-i",
+            "a"
+        ],
+        "srcwordstex": [
+            "m\u025b",
+            "ku\u027e-i-d-a/",
+            "ku\u027e-i-ne",
+            "b\u0259na-ea",
+            "mi:t\u0259",
+            "khan-d-i",
+            "a"
+        ],
+        "trs": "I am eating the meat cooked by the girl.",
+        "wlength": 7
+    },
+    {
+        "ID": "07--71539",
+        "categories": [
+            "erg",
+            "f",
+            "gen",
+            "m",
+            "progr",
+            "sg"
+        ],
+        "clength": 59,
+        "filename": "215/chapters/07.tex",
+        "imt": "I(\\textsc{f})  girl-\\textsc{f.sg-gen-m.sg}/  girl-\\textsc{f.sg-erg}   meat.\\textsc{m.sg}  done-\\textsc{m.sg}   eat-\\textsc{progr-f.sg}   be",
+        "imtwordsbare": [
+            "I(F)",
+            "girl-f.sg-gen-m.sg/",
+            "girl-f.sg-erg",
+            "meat.m.sg",
+            "done-m.sg",
+            "eat-progr-f.sg",
+            "be"
+        ],
+        "imtwordshtml": [
+            "I(<span class=\"sc\">f</span>)",
+            "girl-<span class=\"sc\">f.sg-gen-m.sg</span>/",
+            "girl-<span class=\"sc\">f.sg-erg</span>",
+            "meat.<span class=\"sc\">m.sg</span>",
+            "done-<span class=\"sc\">m.sg</span>",
+            "eat-<span class=\"sc\">progr-f.sg</span>",
+            "be"
+        ],
+        "imtwordstex": [
+            "I(\\textsc{f})",
+            "girl-\\textsc{f.sg-gen-m.sg}/",
+            "girl-\\textsc{f.sg-erg}",
+            "meat.\\textsc{m.sg}",
+            "done-\\textsc{m.sg}",
+            "eat-\\textsc{progr-f.sg}",
+            "be"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "m\u025b  ku\u027e-i-d-a/   ku\u027e-i-ne   mi:t\u0259  b\u0259na-ea     khan-d-i   a",
+        "srcwordsbare": [
+            "m\u025b",
+            "ku\u027e-i-d-a/",
+            "ku\u027e-i-ne",
+            "mi:t\u0259",
+            "b\u0259na-ea",
+            "khan-d-i",
+            "a"
+        ],
+        "srcwordshtml": [
+            "m\u025b",
+            "ku\u027e-i-d-a/",
+            "ku\u027e-i-ne",
+            "mi:t\u0259",
+            "b\u0259na-ea",
+            "khan-d-i",
+            "a"
+        ],
+        "srcwordstex": [
+            "m\u025b",
+            "ku\u027e-i-d-a/",
+            "ku\u027e-i-ne",
+            "mi:t\u0259",
+            "b\u0259na-ea",
+            "khan-d-i",
+            "a"
+        ],
+        "trs": "I am eating the meat cooked by the girl.",
+        "wlength": 7
+    },
+    {
+        "ID": "07-881774",
+        "categories": [
+            "f",
+            "gen",
+            "perf",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "215/chapters/07.tex",
+        "imt": "he-\\textsc{gen-f.sg}  shirt.\\textsc{f.sg}   wash.\\textsc{perf-f.sg}  been  be",
+        "imtwordsbare": [
+            "he-gen-f.sg",
+            "shirt.f.sg",
+            "wash.perf-f.sg",
+            "been",
+            "be"
+        ],
+        "imtwordshtml": [
+            "he-<span class=\"sc\">gen-f.sg</span>",
+            "shirt.<span class=\"sc\">f.sg</span>",
+            "wash.<span class=\"sc\">perf-f.sg</span>",
+            "been",
+            "be"
+        ],
+        "imtwordstex": [
+            "he-\\textsc{gen-f.sg}",
+            "shirt.\\textsc{f.sg}",
+            "wash.\\textsc{perf-f.sg}",
+            "been",
+            "be"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "o-d-i    k\u0259mid\u0292\u0259  tott-i       o  a",
+        "srcwordsbare": [
+            "o-d-i",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "o",
+            "a"
+        ],
+        "srcwordshtml": [
+            "o-d-i",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "o",
+            "a"
+        ],
+        "srcwordstex": [
+            "o-d-i",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "o",
+            "a"
+        ],
+        "trs": "He has the shirt washed.",
+        "wlength": 5
+    },
+    {
+        "ID": "07-618635",
+        "categories": [
+            "erg",
+            "f",
+            "perf",
+            "pst",
+            "sg"
+        ],
+        "clength": 38,
+        "filename": "215/chapters/07.tex",
+        "imt": "he-\\textsc{erg}/I  shirt.\\textsc{f.sg}   wash.\\textsc{perf-f.sg}   be/be.\\textsc{pst}",
+        "imtwordsbare": [
+            "he-ERG/I",
+            "shirt.f.sg",
+            "wash.perf-f.sg",
+            "be/be.PST"
+        ],
+        "imtwordshtml": [
+            "he-<span class=\"sc\">erg</span>/I",
+            "shirt.<span class=\"sc\">f.sg</span>",
+            "wash.<span class=\"sc\">perf-f.sg</span>",
+            "be/be.<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "he-\\textsc{erg}/I",
+            "shirt.\\textsc{f.sg}",
+            "wash.\\textsc{perf-f.sg}",
+            "be/be.\\textsc{pst}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "o-ne/m\u025b  k\u0259mid\u0292\u0259   tott-i       (a/si)",
+        "srcwordsbare": [
+            "o-ne/m\u025b",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "(a/si)"
+        ],
+        "srcwordshtml": [
+            "o-ne/m\u025b",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "(a/si)"
+        ],
+        "srcwordstex": [
+            "o-ne/m\u025b",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "(a/si)"
+        ],
+        "trs": "He has washed the shirt.",
+        "wlength": 4
+    },
+    {
+        "ID": "07--90995",
+        "categories": [
+            "f",
+            "perf",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "215/chapters/07.tex",
+        "imt": "this-\\textsc{f.sg}    shirt.\\textsc{f.sg}   wash.\\textsc{perf-f.sg}   been  be",
+        "imtwordsbare": [
+            "this-f.sg",
+            "shirt.f.sg",
+            "wash.perf-f.sg",
+            "been",
+            "be"
+        ],
+        "imtwordshtml": [
+            "this-<span class=\"sc\">f.sg</span>",
+            "shirt.<span class=\"sc\">f.sg</span>",
+            "wash.<span class=\"sc\">perf-f.sg</span>",
+            "been",
+            "be"
+        ],
+        "imtwordstex": [
+            "this-\\textsc{f.sg}",
+            "shirt.\\textsc{f.sg}",
+            "wash.\\textsc{perf-f.sg}",
+            "been",
+            "be"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "eval-i     k\u0259mid\u0292\u0259   tott-i       (o)  a",
+        "srcwordsbare": [
+            "eval-i",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "(o)",
+            "a"
+        ],
+        "srcwordshtml": [
+            "eval-i",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "(o)",
+            "a"
+        ],
+        "srcwordstex": [
+            "eval-i",
+            "k\u0259mid\u0292\u0259",
+            "tott-i",
+            "(o)",
+            "a"
+        ],
+        "trs": "This shirt is washed.",
+        "wlength": 5
+    },
+    {
+        "ID": "07--37724",
+        "categories": [
+            "acc"
+        ],
+        "clength": 30,
+        "filename": "215/chapters/07.tex",
+        "imt": "that-\\textsc{acc}   big-\\textsc{acc}     tree-\\textsc{acc}",
+        "imtwordsbare": [
+            "that-ACC",
+            "big-ACC",
+            "tree-ACC"
+        ],
+        "imtwordshtml": [
+            "that-<span class=\"sc\">acc</span>",
+            "big-<span class=\"sc\">acc</span>",
+            "tree-<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "that-\\textsc{acc}",
+            "big-\\textsc{acc}",
+            "tree-\\textsc{acc}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "kiin-i     mutha-n   thungal-i",
+        "srcwordsbare": [
+            "kiin-i",
+            "mutha-n",
+            "thungal-i"
+        ],
+        "srcwordshtml": [
+            "kiin-i",
+            "mutha-n",
+            "thungal-i"
+        ],
+        "srcwordstex": [
+            "kiin-i",
+            "mutha-n",
+            "thungal-i"
+        ],
+        "trs": "that big tree",
+        "wlength": 3
+    },
+    {
+        "ID": "07-592083",
+        "categories": [
+            "gen",
+            "instr"
+        ],
+        "clength": 24,
+        "filename": "215/chapters/07.tex",
+        "imt": "boy-\\textsc{gen-instr}  spear-\\textsc{instr}",
+        "imtwordsbare": [
+            "boy-gen-instr",
+            "spear-INSTR"
+        ],
+        "imtwordshtml": [
+            "boy-<span class=\"sc\">gen-instr</span>",
+            "spear-<span class=\"sc\">instr</span>"
+        ],
+        "imtwordstex": [
+            "boy-\\textsc{gen-instr}",
+            "spear-\\textsc{instr}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "marun-ngan-ku   maarn-ku",
+        "srcwordsbare": [
+            "marun-ngan-ku",
+            "maarn-ku"
+        ],
+        "srcwordshtml": [
+            "marun-ngan-ku",
+            "maarn-ku"
+        ],
+        "srcwordstex": [
+            "marun-ngan-ku",
+            "maarn-ku"
+        ],
+        "trs": "with the boy\u2019s spear.",
+        "wlength": 2
+    },
+    {
+        "ID": "07--38607",
+        "categories": [
+            "acc",
+            "fut",
+            "gen"
+        ],
+        "clength": 38,
+        "filename": "215/chapters/07.tex",
+        "imt": "tree-\\textsc{acc}   I.\\textsc{gen-acc}    cut-\\textsc{fut-acc}",
+        "imtwordsbare": [
+            "tree-ACC",
+            "I.gen-acc",
+            "cut-fut-acc"
+        ],
+        "imtwordshtml": [
+            "tree-<span class=\"sc\">acc</span>",
+            "I.<span class=\"sc\">gen-acc</span>",
+            "cut-<span class=\"sc\">fut-acc</span>"
+        ],
+        "imtwordstex": [
+            "tree-\\textsc{acc}",
+            "I.\\textsc{gen-acc}",
+            "cut-\\textsc{fut-acc}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "thungal-i,   ngithun-i   kirdi-thuru-\u00d8",
+        "srcwordsbare": [
+            "thungal-i,",
+            "ngithun-i",
+            "kirdi-thuru-\u00d8"
+        ],
+        "srcwordshtml": [
+            "thungal-i,",
+            "ngithun-i",
+            "kirdi-thuru-\u00d8"
+        ],
+        "srcwordstex": [
+            "thungal-i,",
+            "ngithun-i",
+            "kirdi-thuru-\u00d8"
+        ],
+        "trs": "\u2026tree, which I will cut down (for me to cut down)",
+        "wlength": 3
+    },
+    {
+        "ID": "07--68912",
+        "categories": [
+            "obl",
+            "priv",
+            "prop"
+        ],
+        "clength": 53,
+        "filename": "215/chapters/07.tex",
+        "imt": "\u2026 that.\\textsc{obl-prop}   man-\\textsc{prop}   kangaroo-\\textsc{priv-prop}",
+        "imtwordsbare": [
+            "\u2026",
+            "that.obl-prop",
+            "man-PROP",
+            "kangaroo-priv-prop"
+        ],
+        "imtwordshtml": [
+            "\u2026",
+            "that.<span class=\"sc\">obl-prop</span>",
+            "man-<span class=\"sc\">prop</span>",
+            "kangaroo-<span class=\"sc\">priv-prop</span>"
+        ],
+        "imtwordstex": [
+            "\u2026",
+            "that.\\textsc{obl-prop}",
+            "man-\\textsc{prop}",
+            "kangaroo-\\textsc{priv-prop}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "\u2026 ngurnu-marta   kanyara-marta  tharnta-wirriwa-marta",
+        "srcwordsbare": [
+            "\u2026",
+            "ngurnu-marta",
+            "kanyara-marta",
+            "tharnta-wirriwa-marta"
+        ],
+        "srcwordshtml": [
+            "\u2026",
+            "ngurnu-marta",
+            "kanyara-marta",
+            "tharnta-wirriwa-marta"
+        ],
+        "srcwordstex": [
+            "\u2026",
+            "ngurnu-marta",
+            "kanyara-marta",
+            "tharnta-wirriwa-marta"
+        ],
+        "trs": "\u2026 the man without a kangaroo",
+        "wlength": 4
+    },
+    {
+        "ID": "07-663497",
+        "categories": [
+            "acc",
+            "fut",
+            "prop"
+        ],
+        "clength": 43,
+        "filename": "215/chapters/07.tex",
+        "imt": "see-\\textsc{fut}   that.\\textsc{acc}   spear-\\textsc{prop-acc}{}-now",
+        "imtwordsbare": [
+            "see-FUT",
+            "that.ACC",
+            "spear-prop-acc{}-now"
+        ],
+        "imtwordshtml": [
+            "see-<span class=\"sc\">fut</span>",
+            "that.<span class=\"sc\">acc</span>",
+            "spear-<span class=\"sc\">prop-acc</span>{}-now"
+        ],
+        "imtwordstex": [
+            "see-\\textsc{fut}",
+            "that.\\textsc{acc}",
+            "spear-\\textsc{prop-acc}{}-now"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "nhawu-layi   ngurnaa  kurryarta-marta-a-rru",
+        "srcwordsbare": [
+            "nhawu-layi",
+            "ngurnaa",
+            "kurryarta-marta-a-rru"
+        ],
+        "srcwordshtml": [
+            "nhawu-layi",
+            "ngurnaa",
+            "kurryarta-marta-a-rru"
+        ],
+        "srcwordstex": [
+            "nhawu-layi",
+            "ngurnaa",
+            "kurryarta-marta-a-rru"
+        ],
+        "trs": "I'll see that one with a spear now.",
+        "wlength": 3
+    },
+    {
+        "ID": "07--22387",
+        "categories": [
+            "acc",
+            "acc  cont",
+            "du",
+            "fut",
+            "incl",
+            "loc"
+        ],
+        "clength": 69,
+        "filename": "215/chapters/07.tex",
+        "imt": "l\\textsc{du.incl}   good-\\textsc{loc-acc  cont}   tree-\\textsc{loc-acc}   fruit-\\textsc{acc}   get-\\textsc{fut}",
+        "imtwordsbare": [
+            "ldu.incl",
+            "good-\\textsc{loc-acc",
+            "cont}",
+            "tree-loc-acc",
+            "fruit-ACC",
+            "get-FUT"
+        ],
+        "imtwordshtml": [
+            "l<span class=\"sc\">du.incl</span>",
+            "good-\\textsc{loc-acc",
+            "cont}",
+            "tree-<span class=\"sc\">loc-acc</span>",
+            "fruit-<span class=\"sc\">acc</span>",
+            "get-<span class=\"sc\">fut</span>"
+        ],
+        "imtwordstex": [
+            "l\\textsc{du.incl}",
+            "good-\\textsc{loc-acc",
+            "cont}",
+            "tree-\\textsc{loc-acc}",
+            "fruit-\\textsc{acc}",
+            "get-\\textsc{fut}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "ngali   panyu-ngka-a   warra  kalyaran-ta-a   thuur.ta-a   manku-layi",
+        "srcwordsbare": [
+            "ngali",
+            "panyu-ngka-a",
+            "warra",
+            "kalyaran-ta-a",
+            "thuur.ta-a",
+            "manku-layi"
+        ],
+        "srcwordshtml": [
+            "ngali",
+            "panyu-ngka-a",
+            "warra",
+            "kalyaran-ta-a",
+            "thuur.ta-a",
+            "manku-layi"
+        ],
+        "srcwordstex": [
+            "ngali",
+            "panyu-ngka-a",
+            "warra",
+            "kalyaran-ta-a",
+            "thuur.ta-a",
+            "manku-layi"
+        ],
+        "trs": "We'll get fruit in a better tree.",
+        "wlength": 6
+    },
+    {
+        "ID": "07--62973",
+        "categories": [
+            "f",
+            "sg"
+        ],
+        "clength": 32,
+        "filename": "215/chapters/07.tex",
+        "imt": "Punjab   in-\\textsc{f.sg}  situation.\\textsc{f.sg}",
+        "imtwordsbare": [
+            "Punjab",
+            "in-f.sg",
+            "situation.f.sg"
+        ],
+        "imtwordshtml": [
+            "Punjab",
+            "in-<span class=\"sc\">f.sg</span>",
+            "situation.<span class=\"sc\">f.sg</span>"
+        ],
+        "imtwordstex": [
+            "Punjab",
+            "in-\\textsc{f.sg}",
+            "situation.\\textsc{f.sg}"
+        ],
+        "language": "215/chapters/07.tex",
+        "src": "[p\u0259nj\\=ab  vicl-\\=\\i]    h\\=al\u0259t",
+        "srcwordsbare": [
+            "[p\u0259nj\\=ab",
+            "vicl-\\=\\i]",
+            "h\\=al\u0259t"
+        ],
+        "srcwordshtml": [
+            "[p\u0259nj\\=ab",
+            "vicl-\\=\\i]",
+            "h\\=al\u0259t"
+        ],
+        "srcwordstex": [
+            "[p\u0259nj\\=ab",
+            "vicl-\\=\\i]",
+            "h\\=al\u0259t"
+        ],
+        "trs": "the situation in the Punjab",
+        "wlength": 3
+    }
+]

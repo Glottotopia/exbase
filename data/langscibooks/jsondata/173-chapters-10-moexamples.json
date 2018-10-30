@@ -1,0 +1,5207 @@
+[
+    {
+        "ID": "10-mo-238309",
+        "categories": [
+            "acc",
+            "m",
+            "pass",
+            "pl",
+            "pst",
+            "sg"
+        ],
+        "clength": 45,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "the.two man.\\textsc{m.pl} \\textsc{acc} see \\textsc{pass.pst.m.sg}",
+        "imtwordsbare": [
+            "the.two",
+            "man.m.pl",
+            "ACC",
+            "see",
+            "pass.pst.m.sg"
+        ],
+        "imtwordshtml": [
+            "the.two",
+            "man.<span class=\"sc\">m.pl</span>",
+            "<span class=\"sc\">acc</span>",
+            "see",
+            "<span class=\"sc\">pass.pst.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "the.two",
+            "man.\\textsc{m.pl}",
+            "\\textsc{acc}",
+            "see",
+            "\\textsc{pass.pst.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "{don\u00f5} \\textbf{\u0101dmiy\u00f5} \\textbf{ko} dekh\u0101 gay\u0101",
+        "srcwordsbare": [
+            "{don\u00f5}",
+            "\u0101dmiy\u00f5",
+            "ko",
+            "dekh\u0101",
+            "gay\u0101"
+        ],
+        "srcwordshtml": [
+            "{don\u00f5}",
+            "<span class=\"bf\">\u0101dmiy\u00f5</span>",
+            "<span class=\"bf\">ko</span>",
+            "dekh\u0101",
+            "gay\u0101"
+        ],
+        "srcwordstex": [
+            "{don\u00f5}",
+            "\\textbf{\u0101dmiy\u00f5}",
+            "\\textbf{ko}",
+            "dekh\u0101",
+            "gay\u0101"
+        ],
+        "trs": "Both men were seen",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-106475",
+        "categories": [
+            "1sg",
+            "3f",
+            "dem",
+            "erg",
+            "f",
+            "pfv",
+            "sg"
+        ],
+        "clength": 41,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg.erg}  \\textsc{dem} movie.\\textsc{f.sg} see.\\textsc{pfv.3f.sg}",
+        "imtwordsbare": [
+            "1sg.erg",
+            "DEM",
+            "movie.f.sg",
+            "see.pfv.3f.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.erg</span>",
+            "<span class=\"sc\">dem</span>",
+            "movie.<span class=\"sc\">f.sg</span>",
+            "see.<span class=\"sc\">pfv.3f.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.erg}",
+            "\\textsc{dem}",
+            "movie.\\textsc{f.sg}",
+            "see.\\textsc{pfv.3f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "{ma\u0129ne}  \\textbf{yah} \\textbf{film} dekh\u012b",
+        "srcwordsbare": [
+            "{ma\u0129ne}",
+            "yah",
+            "film",
+            "dekh\u012b"
+        ],
+        "srcwordshtml": [
+            "{ma\u0129ne}",
+            "<span class=\"bf\">yah</span>",
+            "<span class=\"bf\">film</span>",
+            "dekh\u012b"
+        ],
+        "srcwordstex": [
+            "{ma\u0129ne}",
+            "\\textbf{yah}",
+            "\\textbf{film}",
+            "dekh\u012b"
+        ],
+        "trs": "I have seen this film.",
+        "wlength": 4
+    },
+    {
+        "ID": "10-mo--43036",
+        "categories": [
+            "acc",
+            "imp",
+            "indef"
+        ],
+        "clength": 25,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{indef} \\textsc{acc} call.\\textsc{imp}",
+        "imtwordsbare": [
+            "INDEF",
+            "ACC",
+            "call.IMP"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">indef</span>",
+            "<span class=\"sc\">acc</span>",
+            "call.<span class=\"sc\">imp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{indef}",
+            "\\textsc{acc}",
+            "call.\\textsc{imp}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "{kis\u012b} \\textbf{ko} bul\u0101o!",
+        "srcwordsbare": [
+            "{kis\u012b}",
+            "ko",
+            "bul\u0101o!"
+        ],
+        "srcwordshtml": [
+            "{kis\u012b}",
+            "<span class=\"bf\">ko</span>",
+            "bul\u0101o!"
+        ],
+        "srcwordstex": [
+            "{kis\u012b}",
+            "\\textbf{ko}",
+            "bul\u0101o!"
+        ],
+        "trs": "Call somebody!",
+        "wlength": 3
+    },
+    {
+        "ID": "10-mo--10146",
+        "categories": [
+            "3sg",
+            "acc",
+            "erg",
+            "imp"
+        ],
+        "clength": 105,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "pocket from two rupies of note took.out Jivrakhan \\textsc{3sg.acc} put-take.\\textsc{imp} Jivrakhan \\textsc{erg} note money bag in place-took",
+        "imtwordsbare": [
+            "pocket",
+            "from",
+            "two",
+            "rupies",
+            "of",
+            "note",
+            "took.out",
+            "Jivrakhan",
+            "3sg.acc",
+            "put-take.IMP",
+            "Jivrakhan",
+            "ERG",
+            "note",
+            "money",
+            "bag",
+            "in",
+            "place-took"
+        ],
+        "imtwordshtml": [
+            "pocket",
+            "from",
+            "two",
+            "rupies",
+            "of",
+            "note",
+            "took.out",
+            "Jivrakhan",
+            "<span class=\"sc\">3sg.acc</span>",
+            "put-take.<span class=\"sc\">imp</span>",
+            "Jivrakhan",
+            "<span class=\"sc\">erg</span>",
+            "note",
+            "money",
+            "bag",
+            "in",
+            "place-took"
+        ],
+        "imtwordstex": [
+            "pocket",
+            "from",
+            "two",
+            "rupies",
+            "of",
+            "note",
+            "took.out",
+            "Jivrakhan",
+            "\\textsc{3sg.acc}",
+            "put-take.\\textsc{imp}",
+            "Jivrakhan",
+            "\\textsc{erg}",
+            "note",
+            "money",
+            "bag",
+            "in",
+            "place-took"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "jeb se do rupae k\u0101 not\u0323 nik\u0101l\u0101 \u201cJivr\u0101khan, \\textbf{ise} rakh-lo\u201d  Jivr\u0101khan ne not\u0329 m\u0101n\u012b beg m\u1ebd rakh-liy\u0101",
+        "srcwordsbare": [
+            "jeb",
+            "se",
+            "do",
+            "rupae",
+            "k\u0101",
+            "not\u0323",
+            "nik\u0101l\u0101",
+            "\u201cJivr\u0101khan,",
+            "ise",
+            "rakh-lo\u201d",
+            "Jivr\u0101khan",
+            "ne",
+            "not\u0329",
+            "m\u0101n\u012b",
+            "beg",
+            "m\u1ebd",
+            "rakh-liy\u0101"
+        ],
+        "srcwordshtml": [
+            "jeb",
+            "se",
+            "do",
+            "rupae",
+            "k\u0101",
+            "not\u0323",
+            "nik\u0101l\u0101",
+            "\u201cJivr\u0101khan,",
+            "<span class=\"bf\">ise</span>",
+            "rakh-lo\u201d",
+            "Jivr\u0101khan",
+            "ne",
+            "not\u0329",
+            "m\u0101n\u012b",
+            "beg",
+            "m\u1ebd",
+            "rakh-liy\u0101"
+        ],
+        "srcwordstex": [
+            "jeb",
+            "se",
+            "do",
+            "rupae",
+            "k\u0101",
+            "not\u0323",
+            "nik\u0101l\u0101",
+            "\u201cJivr\u0101khan,",
+            "\\textbf{ise}",
+            "rakh-lo\u201d",
+            "Jivr\u0101khan",
+            "ne",
+            "not\u0329",
+            "m\u0101n\u012b",
+            "beg",
+            "m\u1ebd",
+            "rakh-liy\u0101"
+        ],
+        "trs": "He took a two rupee note out of his pocket, \u201cJivrakhan, take it\u201d. Jivrakhan put the note into his purse.",
+        "wlength": 17
+    },
+    {
+        "ID": "10-mo--19236",
+        "categories": [
+            "erg",
+            "f",
+            "m",
+            "pfv",
+            "sg"
+        ],
+        "clength": 32,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "my friend.\\textsc{f.sg} \\textsc{erg} new servant.\\textsc{m.sg} place.\\textsc{pfv.m.sg}",
+        "imtwordsbare": [
+            "my",
+            "friend.f.sg",
+            "ERG",
+            "new",
+            "servant.m.sg",
+            "place.pfv.m.sg"
+        ],
+        "imtwordshtml": [
+            "my",
+            "friend.<span class=\"sc\">f.sg</span>",
+            "<span class=\"sc\">erg</span>",
+            "new",
+            "servant.<span class=\"sc\">m.sg</span>",
+            "place.<span class=\"sc\">pfv.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "my",
+            "friend.\\textsc{f.sg}",
+            "\\textsc{erg}",
+            "new",
+            "servant.\\textsc{m.sg}",
+            "place.\\textsc{pfv.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "mer\u012b sahel\u012b ne nay\u0101 naukar rakh\u0101",
+        "srcwordsbare": [
+            "mer\u012b",
+            "sahel\u012b",
+            "ne",
+            "nay\u0101",
+            "naukar",
+            "rakh\u0101"
+        ],
+        "srcwordshtml": [
+            "mer\u012b",
+            "sahel\u012b",
+            "ne",
+            "nay\u0101",
+            "naukar",
+            "rakh\u0101"
+        ],
+        "srcwordstex": [
+            "mer\u012b",
+            "sahel\u012b",
+            "ne",
+            "nay\u0101",
+            "naukar",
+            "rakh\u0101"
+        ],
+        "trs": "My friend took a new servant.",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo--87438",
+        "categories": [
+            "3m",
+            "3pl",
+            "m",
+            "pl",
+            "prog",
+            "prs",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{3pl} boy.\\textsc{m.sg} look \\textsc{prog} \\textsc{prs.3m.pl}",
+        "imtwordsbare": [
+            "3PL",
+            "boy.m.sg",
+            "look",
+            "PROG",
+            "prs.3m.pl"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "boy.<span class=\"sc\">m.sg</span>",
+            "look",
+            "<span class=\"sc\">prog</span>",
+            "<span class=\"sc\">prs.3m.pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "boy.\\textsc{m.sg}",
+            "look",
+            "\\textsc{prog}",
+            "\\textsc{prs.3m.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ve lar\u0323k\u0101 dekh rahe ha\u0129",
+        "srcwordsbare": [
+            "ve",
+            "lar\u0323k\u0101",
+            "dekh",
+            "rahe",
+            "ha\u0129"
+        ],
+        "srcwordshtml": [
+            "ve",
+            "lar\u0323k\u0101",
+            "dekh",
+            "rahe",
+            "ha\u0129"
+        ],
+        "srcwordstex": [
+            "ve",
+            "lar\u0323k\u0101",
+            "dekh",
+            "rahe",
+            "ha\u0129"
+        ],
+        "trs": "They are visiting a boy (a suitable groom).",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--78909",
+        "categories": [
+            "1sg",
+            "erg",
+            "f",
+            "m",
+            "pl",
+            "sg"
+        ],
+        "clength": 67,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg.erg} many people.\\textsc{m.pl} see.\\textsc{m.pl} many car.\\textsc{f.pl} see.\\textsc{f.pl} much dirt.\\textsc{f.sg} see.\\textsc{f.sg}",
+        "imtwordsbare": [
+            "1sg.erg",
+            "many",
+            "people.m.pl",
+            "see.m.pl",
+            "many",
+            "car.f.pl",
+            "see.f.pl",
+            "much",
+            "dirt.f.sg",
+            "see.f.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.erg</span>",
+            "many",
+            "people.<span class=\"sc\">m.pl</span>",
+            "see.<span class=\"sc\">m.pl</span>",
+            "many",
+            "car.<span class=\"sc\">f.pl</span>",
+            "see.<span class=\"sc\">f.pl</span>",
+            "much",
+            "dirt.<span class=\"sc\">f.sg</span>",
+            "see.<span class=\"sc\">f.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.erg}",
+            "many",
+            "people.\\textsc{m.pl}",
+            "see.\\textsc{m.pl}",
+            "many",
+            "car.\\textsc{f.pl}",
+            "see.\\textsc{f.pl}",
+            "much",
+            "dirt.\\textsc{f.sg}",
+            "see.\\textsc{f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ma\u0129ne bahut log dekhe, bahut g\u0101r\u0329iy\u0101\u0303 \tdekh\u012b\u0303,  bahut gandag\u012b dekh\u012b",
+        "srcwordsbare": [
+            "ma\u0129ne",
+            "bahut",
+            "log",
+            "dekhe,",
+            "bahut",
+            "g\u0101r\u0329iy\u0101\u0303",
+            "dekh\u012b\u0303,",
+            "bahut",
+            "gandag\u012b",
+            "dekh\u012b"
+        ],
+        "srcwordshtml": [
+            "ma\u0129ne",
+            "bahut",
+            "log",
+            "dekhe,",
+            "bahut",
+            "g\u0101r\u0329iy\u0101\u0303",
+            "dekh\u012b\u0303,",
+            "bahut",
+            "gandag\u012b",
+            "dekh\u012b"
+        ],
+        "srcwordstex": [
+            "ma\u0129ne",
+            "bahut",
+            "log",
+            "dekhe,",
+            "bahut",
+            "g\u0101r\u0329iy\u0101\u0303",
+            "dekh\u012b\u0303,",
+            "bahut",
+            "gandag\u012b",
+            "dekh\u012b"
+        ],
+        "trs": "I saw a lot of people, a lot of cars, much dirt.",
+        "wlength": 10
+    },
+    {
+        "ID": "10-mo--69513",
+        "categories": [
+            "1sg",
+            "3m",
+            "acc",
+            "erg",
+            "m",
+            "pfv",
+            "pl",
+            "sg"
+        ],
+        "clength": 43,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg.erg} many people.\\textsc{m.pl} \\textsc{acc} see.\\textsc{pfv.3m.sg}",
+        "imtwordsbare": [
+            "1sg.erg",
+            "many",
+            "people.m.pl",
+            "ACC",
+            "see.pfv.3m.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.erg</span>",
+            "many",
+            "people.<span class=\"sc\">m.pl</span>",
+            "<span class=\"sc\">acc</span>",
+            "see.<span class=\"sc\">pfv.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.erg}",
+            "many",
+            "people.\\textsc{m.pl}",
+            "\\textsc{acc}",
+            "see.\\textsc{pfv.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ma\u0129ne bahut \\textbf{log\u00f5} \\textbf{ko} dekh\u0101",
+        "srcwordsbare": [
+            "ma\u0129ne",
+            "bahut",
+            "log\u00f5",
+            "ko",
+            "dekh\u0101"
+        ],
+        "srcwordshtml": [
+            "ma\u0129ne",
+            "bahut",
+            "<span class=\"bf\">log\u00f5</span>",
+            "<span class=\"bf\">ko</span>",
+            "dekh\u0101"
+        ],
+        "srcwordstex": [
+            "ma\u0129ne",
+            "bahut",
+            "\\textbf{log\u00f5}",
+            "\\textbf{ko}",
+            "dekh\u0101"
+        ],
+        "trs": "I saw many people.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-241627",
+        "categories": [
+            "indef",
+            "m",
+            "neg",
+            "pfv",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "2 like.\\textsc{m.sg} \\textsc{indef} \\textsc{neg} saw.\\textsc{pfv.m.sg}",
+        "imtwordsbare": [
+            "2",
+            "like.m.sg",
+            "INDEF",
+            "NEG",
+            "saw.pfv.m.sg"
+        ],
+        "imtwordshtml": [
+            "2",
+            "like.<span class=\"sc\">m.sg</span>",
+            "<span class=\"sc\">indef</span>",
+            "<span class=\"sc\">neg</span>",
+            "saw.<span class=\"sc\">pfv.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "2",
+            "like.\\textsc{m.sg}",
+            "\\textsc{indef}",
+            "\\textsc{neg}",
+            "saw.\\textsc{pfv.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "tum jais\u0101 ko\u012b nah\u012b dekh\u0101",
+        "srcwordsbare": [
+            "tum",
+            "jais\u0101",
+            "ko\u012b",
+            "nah\u012b",
+            "dekh\u0101"
+        ],
+        "srcwordshtml": [
+            "tum",
+            "jais\u0101",
+            "ko\u012b",
+            "nah\u012b",
+            "dekh\u0101"
+        ],
+        "srcwordstex": [
+            "tum",
+            "jais\u0101",
+            "ko\u012b",
+            "nah\u012b",
+            "dekh\u0101"
+        ],
+        "trs": "I didn\u2019t see anybody like you\u2019 (movie title)",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--78747",
+        "categories": [
+            "1sg",
+            "acc",
+            "erg",
+            "indef",
+            "neg"
+        ],
+        "clength": 26,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg.erg} \\textsc{indef} \\textsc{acc} \\textsc{neg} saw",
+        "imtwordsbare": [
+            "1sg.erg",
+            "INDEF",
+            "ACC",
+            "NEG",
+            "saw"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.erg</span>",
+            "<span class=\"sc\">indef</span>",
+            "<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">neg</span>",
+            "saw"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.erg}",
+            "\\textsc{indef}",
+            "\\textsc{acc}",
+            "\\textsc{neg}",
+            "saw"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "mai\u0342ne kis\u012b ko nah\u012b\u0342 dekh\u0101",
+        "srcwordsbare": [
+            "mai\u0342ne",
+            "kis\u012b",
+            "ko",
+            "nah\u012b\u0342",
+            "dekh\u0101"
+        ],
+        "srcwordshtml": [
+            "mai\u0342ne",
+            "kis\u012b",
+            "ko",
+            "nah\u012b\u0342",
+            "dekh\u0101"
+        ],
+        "srcwordstex": [
+            "mai\u0342ne",
+            "kis\u012b",
+            "ko",
+            "nah\u012b\u0342",
+            "dekh\u0101"
+        ],
+        "trs": "I didn\u2019t see anybody.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--23082",
+        "categories": [
+            "",
+            "acc",
+            "imp"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "time \\textsc{acc} look\\textsc{.imp}",
+        "imtwordsbare": [
+            "time",
+            "ACC",
+            "look.imp"
+        ],
+        "imtwordshtml": [
+            "time",
+            "<span class=\"sc\">acc</span>",
+            "look<span class=\"sc\">.imp</span>"
+        ],
+        "imtwordstex": [
+            "time",
+            "\\textsc{acc}",
+            "look\\textsc{.imp}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "c\u0101\u0303d  \\textbf{ko} dekho!",
+        "srcwordsbare": [
+            "c\u0101\u0303d",
+            "ko",
+            "dekho!"
+        ],
+        "srcwordshtml": [
+            "c\u0101\u0303d",
+            "<span class=\"bf\">ko</span>",
+            "dekho!"
+        ],
+        "srcwordstex": [
+            "c\u0101\u0303d",
+            "\\textbf{ko}",
+            "dekho!"
+        ],
+        "trs": "Look at the moon!",
+        "wlength": 3
+    },
+    {
+        "ID": "10-mo-915169",
+        "categories": [
+            "3m",
+            "acc",
+            "prs",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "iron glass \\textsc{acc} cut \\textsc{prs.3m.sg}",
+        "imtwordsbare": [
+            "iron",
+            "glass",
+            "ACC",
+            "cut",
+            "prs.3m.sg"
+        ],
+        "imtwordshtml": [
+            "iron",
+            "glass",
+            "<span class=\"sc\">acc</span>",
+            "cut",
+            "<span class=\"sc\">prs.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "iron",
+            "glass",
+            "\\textsc{acc}",
+            "cut",
+            "\\textsc{prs.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "loh\u0101 s\u012bse ko k\u0101t\u0329t\u0101 hai",
+        "srcwordsbare": [
+            "loh\u0101",
+            "s\u012bse",
+            "ko",
+            "k\u0101t\u0329t\u0101",
+            "hai"
+        ],
+        "srcwordshtml": [
+            "loh\u0101",
+            "s\u012bse",
+            "ko",
+            "k\u0101t\u0329t\u0101",
+            "hai"
+        ],
+        "srcwordstex": [
+            "loh\u0101",
+            "s\u012bse",
+            "ko",
+            "k\u0101t\u0329t\u0101",
+            "hai"
+        ],
+        "trs": "\u2019Iron cuts glass.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--32285",
+        "categories": [
+            "",
+            "1m",
+            "1pl",
+            "acc",
+            "cond",
+            "pl"
+        ],
+        "clength": 41,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1pl} darkness \\textsc{acc} stop give\\textsc{.cond.1m.pl}",
+        "imtwordsbare": [
+            "1PL",
+            "darkness",
+            "ACC",
+            "stop",
+            "give.cond.1m.pl"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1pl</span>",
+            "darkness",
+            "<span class=\"sc\">acc</span>",
+            "stop",
+            "give<span class=\"sc\">.cond.1m.pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pl}",
+            "darkness",
+            "\\textsc{acc}",
+            "stop",
+            "give\\textsc{.cond.1m.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ham \\textbf{andhere} \\textbf{ko} rok dete",
+        "srcwordsbare": [
+            "ham",
+            "andhere",
+            "ko",
+            "rok",
+            "dete"
+        ],
+        "srcwordshtml": [
+            "ham",
+            "<span class=\"bf\">andhere</span>",
+            "<span class=\"bf\">ko</span>",
+            "rok",
+            "dete"
+        ],
+        "srcwordstex": [
+            "ham",
+            "\\textbf{andhere}",
+            "\\textbf{ko}",
+            "rok",
+            "dete"
+        ],
+        "trs": "We would stop the darkness.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-162122",
+        "categories": [
+            "1pl",
+            "3m",
+            "acc",
+            "erg",
+            "prf",
+            "sg"
+        ],
+        "clength": 64,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1pl.erg} whole outside \\textsc{acc} closed make give \\textsc{prf.3m.sg}",
+        "imtwordsbare": [
+            "1pl.erg",
+            "whole",
+            "outside",
+            "ACC",
+            "closed",
+            "make",
+            "give",
+            "prf.3m.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1pl.erg</span>",
+            "whole",
+            "outside",
+            "<span class=\"sc\">acc</span>",
+            "closed",
+            "make",
+            "give",
+            "<span class=\"sc\">prf.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pl.erg}",
+            "whole",
+            "outside",
+            "\\textsc{acc}",
+            "closed",
+            "make",
+            "give",
+            "\\textsc{prf.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "hamne \\textbf{p\u016bre} \\textbf{b\u0101har} \\textbf{ko} band kar diy\u0101 hai",
+        "srcwordsbare": [
+            "hamne",
+            "p\u016bre",
+            "b\u0101har",
+            "ko",
+            "band",
+            "kar",
+            "diy\u0101",
+            "hai"
+        ],
+        "srcwordshtml": [
+            "hamne",
+            "<span class=\"bf\">p\u016bre</span>",
+            "<span class=\"bf\">b\u0101har</span>",
+            "<span class=\"bf\">ko</span>",
+            "band",
+            "kar",
+            "diy\u0101",
+            "hai"
+        ],
+        "srcwordstex": [
+            "hamne",
+            "\\textbf{p\u016bre}",
+            "\\textbf{b\u0101har}",
+            "\\textbf{ko}",
+            "band",
+            "kar",
+            "diy\u0101",
+            "hai"
+        ],
+        "trs": "We have locked up all the outside.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo--53847",
+        "categories": [
+            "acc",
+            "erg",
+            "pfv"
+        ],
+        "clength": 98,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Mina \\textsc{erg} market in a tourist \\textsc{acc} dancing being see.\\textsc{pfv}",
+        "imtwordsbare": [
+            "Mina",
+            "ERG",
+            "market",
+            "in",
+            "a",
+            "tourist",
+            "ACC",
+            "dancing",
+            "being",
+            "see.PFV"
+        ],
+        "imtwordshtml": [
+            "Mina",
+            "<span class=\"sc\">erg</span>",
+            "market",
+            "in",
+            "a",
+            "tourist",
+            "<span class=\"sc\">acc</span>",
+            "dancing",
+            "being",
+            "see.<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "Mina",
+            "\\textsc{erg}",
+            "market",
+            "in",
+            "a",
+            "tourist",
+            "\\textsc{acc}",
+            "dancing",
+            "being",
+            "see.\\textsc{pfv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "Min\u0101\\textsubscript{i} ne b\u0101z\u0101r m\u1ebd ek sail\u0101n\u012b\\textsubscript{j} ko n\u0101cte hue\\textsubscript{j} dekh\u0101.",
+        "srcwordsbare": [
+            "Min\u0101i",
+            "ne",
+            "b\u0101z\u0101r",
+            "m\u1ebd",
+            "ek",
+            "sail\u0101n\u012bj",
+            "ko",
+            "n\u0101cte",
+            "huej",
+            "dekh\u0101."
+        ],
+        "srcwordshtml": [
+            "Min\u0101<span class=\"subscript\">i</span>",
+            "ne",
+            "b\u0101z\u0101r",
+            "m\u1ebd",
+            "ek",
+            "sail\u0101n\u012b<span class=\"subscript\">j</span>",
+            "ko",
+            "n\u0101cte",
+            "hue<span class=\"subscript\">j</span>",
+            "dekh\u0101."
+        ],
+        "srcwordstex": [
+            "Min\u0101\\textsubscript{i}",
+            "ne",
+            "b\u0101z\u0101r",
+            "m\u1ebd",
+            "ek",
+            "sail\u0101n\u012b\\textsubscript{j}",
+            "ko",
+            "n\u0101cte",
+            "hue\\textsubscript{j}",
+            "dekh\u0101."
+        ],
+        "trs": "Mina\\textsubscript{i} saw a tourist\\textsubscript{j} dancing\\textsubscript{j} in the bazar.",
+        "wlength": 10
+    },
+    {
+        "ID": "10-mo--24545",
+        "categories": [
+            "1sg",
+            "cv",
+            "erg",
+            "f",
+            "m",
+            "pfv",
+            "ptcp",
+            "sg"
+        ],
+        "clength": 40,
+        "coordination": "and",
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "car.\\textsc{f.sg} back come be.\\textsc{ptcp.f.sg} see.\\textsc{cv} \\textsc{1sg.erg} think.\\textsc{pfv.m.sg}",
+        "imtwordsbare": [
+            "car.f.sg",
+            "back",
+            "come",
+            "be.ptcp.f.sg",
+            "see.CV",
+            "1sg.erg",
+            "think.pfv.m.sg"
+        ],
+        "imtwordshtml": [
+            "car.<span class=\"sc\">f.sg</span>",
+            "back",
+            "come",
+            "be.<span class=\"sc\">ptcp.f.sg</span>",
+            "see.<span class=\"sc\">cv</span>",
+            "<span class=\"sc\">1sg.erg</span>",
+            "think.<span class=\"sc\">pfv.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "car.\\textsc{f.sg}",
+            "back",
+            "come",
+            "be.\\textsc{ptcp.f.sg}",
+            "see.\\textsc{cv}",
+            "\\textsc{1sg.erg}",
+            "think.\\textsc{pfv.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "{g\u0101r\u0329\u012b v\u0101pas \u0101\u012b hu\u012b dekhkar ma\u0129ne soc\u0101\u2026}",
+        "srcwordsbare": [
+            "{g\u0101r\u0329\u012b",
+            "v\u0101pas",
+            "\u0101\u012b",
+            "hu\u012b",
+            "dekhkar",
+            "ma\u0129ne",
+            "soc\u0101\u2026}"
+        ],
+        "srcwordshtml": [
+            "{g\u0101r\u0329\u012b",
+            "v\u0101pas",
+            "\u0101\u012b",
+            "hu\u012b",
+            "dekhkar",
+            "ma\u0129ne",
+            "soc\u0101\u2026}"
+        ],
+        "srcwordstex": [
+            "{g\u0101r\u0329\u012b",
+            "v\u0101pas",
+            "\u0101\u012b",
+            "hu\u012b",
+            "dekhkar",
+            "ma\u0129ne",
+            "soc\u0101\u2026}"
+        ],
+        "trs": "I saw the car having come back and thought\u2026",
+        "wlength": 7
+    },
+    {
+        "ID": "10-mo--82698",
+        "categories": [
+            "",
+            "cv",
+            "f",
+            "pfv",
+            "sg"
+        ],
+        "clength": 65,
+        "coordination": "and",
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "black-black jamun vanished being see.\\textsc{cv} his mouth from salive.\\textsc{f}\\textsc{.sg} drip start.\\textsc{pfv.f.sg}",
+        "imtwordsbare": [
+            "black-black",
+            "jamun",
+            "vanished",
+            "being",
+            "see.CV",
+            "his",
+            "mouth",
+            "from",
+            "salive.F.sg",
+            "drip",
+            "start.pfv.f.sg"
+        ],
+        "imtwordshtml": [
+            "black-black",
+            "jamun",
+            "vanished",
+            "being",
+            "see.<span class=\"sc\">cv</span>",
+            "his",
+            "mouth",
+            "from",
+            "salive.<span class=\"sc\">f</span><span class=\"sc\">.sg</span>",
+            "drip",
+            "start.<span class=\"sc\">pfv.f.sg</span>"
+        ],
+        "imtwordstex": [
+            "black-black",
+            "jamun",
+            "vanished",
+            "being",
+            "see.\\textsc{cv}",
+            "his",
+            "mouth",
+            "from",
+            "salive.\\textsc{f}\\textsc{.sg}",
+            "drip",
+            "start.\\textsc{pfv.f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "k\u0101le-k\u0101le j\u0101mun g\u0101yab hote dekhkar  uske m\u0169h se z\u0101l t\u0329apakne lag\u012b",
+        "srcwordsbare": [
+            "k\u0101le-k\u0101le",
+            "j\u0101mun",
+            "g\u0101yab",
+            "hote",
+            "dekhkar",
+            "uske",
+            "m\u0169h",
+            "se",
+            "z\u0101l",
+            "t\u0329apakne",
+            "lag\u012b"
+        ],
+        "srcwordshtml": [
+            "k\u0101le-k\u0101le",
+            "j\u0101mun",
+            "g\u0101yab",
+            "hote",
+            "dekhkar",
+            "uske",
+            "m\u0169h",
+            "se",
+            "z\u0101l",
+            "t\u0329apakne",
+            "lag\u012b"
+        ],
+        "srcwordstex": [
+            "k\u0101le-k\u0101le",
+            "j\u0101mun",
+            "g\u0101yab",
+            "hote",
+            "dekhkar",
+            "uske",
+            "m\u0169h",
+            "se",
+            "z\u0101l",
+            "t\u0329apakne",
+            "lag\u012b"
+        ],
+        "trs": "Seeing the black Java plums disappearing his mouth started watering.\u2019/ \u2018He saw the black Java plums disappearing and he started salivating",
+        "wlength": 11
+    },
+    {
+        "ID": "10-mo-222421",
+        "categories": [
+            "acc",
+            "fut",
+            "m",
+            "pl"
+        ],
+        "clength": 19,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "1pl table \\textsc{acc} wipe.\\textsc{fut.m.pl}",
+        "imtwordsbare": [
+            "1pl",
+            "table",
+            "ACC",
+            "wipe.fut.m.pl"
+        ],
+        "imtwordshtml": [
+            "1pl",
+            "table",
+            "<span class=\"sc\">acc</span>",
+            "wipe.<span class=\"sc\">fut.m.pl</span>"
+        ],
+        "imtwordstex": [
+            "1pl",
+            "table",
+            "\\textsc{acc}",
+            "wipe.\\textsc{fut.m.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ham mez ko pa\u0169ch\u1ebdge",
+        "srcwordsbare": [
+            "ham",
+            "mez",
+            "ko",
+            "pa\u0169ch\u1ebdge"
+        ],
+        "srcwordshtml": [
+            "ham",
+            "mez",
+            "ko",
+            "pa\u0169ch\u1ebdge"
+        ],
+        "srcwordstex": [
+            "ham",
+            "mez",
+            "ko",
+            "pa\u0169ch\u1ebdge"
+        ],
+        "trs": "We will wipe the table.",
+        "wlength": 4
+    },
+    {
+        "ID": "10-mo-105896",
+        "categories": [
+            "erg",
+            "f",
+            "pfv",
+            "sg"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "this film.\\textsc{f.sg} who.\\textsc{erg} see.\\textsc{pfv.f.sg}",
+        "imtwordsbare": [
+            "this",
+            "film.f.sg",
+            "who.ERG",
+            "see.pfv.f.sg"
+        ],
+        "imtwordshtml": [
+            "this",
+            "film.<span class=\"sc\">f.sg</span>",
+            "who.<span class=\"sc\">erg</span>",
+            "see.<span class=\"sc\">pfv.f.sg</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "film.\\textsc{f.sg}",
+            "who.\\textsc{erg}",
+            "see.\\textsc{pfv.f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "yah film kisne dekh\u012b?",
+        "srcwordsbare": [
+            "yah",
+            "film",
+            "kisne",
+            "dekh\u012b?"
+        ],
+        "srcwordshtml": [
+            "yah",
+            "film",
+            "kisne",
+            "dekh\u012b?"
+        ],
+        "srcwordstex": [
+            "yah",
+            "film",
+            "kisne",
+            "dekh\u012b?"
+        ],
+        "trs": "This film, who saw it?",
+        "wlength": 4
+    },
+    {
+        "ID": "10-mo--82598",
+        "categories": [
+            "1pl",
+            "pl",
+            "prs",
+            "top"
+        ],
+        "clength": 28,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "this thing \\textsc{top} \\textsc{1pl} all know \\textsc{prs.pl}",
+        "imtwordsbare": [
+            "this",
+            "thing",
+            "TOP",
+            "1PL",
+            "all",
+            "know",
+            "prs.pl"
+        ],
+        "imtwordshtml": [
+            "this",
+            "thing",
+            "<span class=\"sc\">top</span>",
+            "<span class=\"sc\">1pl</span>",
+            "all",
+            "know",
+            "<span class=\"sc\">prs.pl</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "thing",
+            "\\textsc{top}",
+            "\\textsc{1pl}",
+            "all",
+            "know",
+            "\\textsc{prs.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "yah b\u0101t to ham sab j\u0101nte ha\u0129",
+        "srcwordsbare": [
+            "yah",
+            "b\u0101t",
+            "to",
+            "ham",
+            "sab",
+            "j\u0101nte",
+            "ha\u0129"
+        ],
+        "srcwordshtml": [
+            "yah",
+            "b\u0101t",
+            "to",
+            "ham",
+            "sab",
+            "j\u0101nte",
+            "ha\u0129"
+        ],
+        "srcwordstex": [
+            "yah",
+            "b\u0101t",
+            "to",
+            "ham",
+            "sab",
+            "j\u0101nte",
+            "ha\u0129"
+        ],
+        "trs": "This thing, we all know it.",
+        "wlength": 7
+    },
+    {
+        "ID": "10-mo--15991",
+        "categories": [
+            "acc"
+        ],
+        "clength": 58,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "life \\textsc{acc} live postponed death \\textsc{acc} live is",
+        "imtwordsbare": [
+            "life",
+            "ACC",
+            "live",
+            "postponed",
+            "death",
+            "ACC",
+            "live",
+            "is"
+        ],
+        "imtwordshtml": [
+            "life",
+            "<span class=\"sc\">acc</span>",
+            "live",
+            "postponed",
+            "death",
+            "<span class=\"sc\">acc</span>",
+            "live",
+            "is"
+        ],
+        "imtwordstex": [
+            "life",
+            "\\textsc{acc}",
+            "live",
+            "postponed",
+            "death",
+            "\\textsc{acc}",
+            "live",
+            "is"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "zindag\u012b \\textbf{ko} j\u012bn\u0101 sthagit maut \\textbf{ko} j\u012bn\u0101 hai",
+        "srcwordsbare": [
+            "zindag\u012b",
+            "ko",
+            "j\u012bn\u0101",
+            "sthagit",
+            "maut",
+            "ko",
+            "j\u012bn\u0101",
+            "hai"
+        ],
+        "srcwordshtml": [
+            "zindag\u012b",
+            "<span class=\"bf\">ko</span>",
+            "j\u012bn\u0101",
+            "sthagit",
+            "maut",
+            "<span class=\"bf\">ko</span>",
+            "j\u012bn\u0101",
+            "hai"
+        ],
+        "srcwordstex": [
+            "zindag\u012b",
+            "\\textbf{ko}",
+            "j\u012bn\u0101",
+            "sthagit",
+            "maut",
+            "\\textbf{ko}",
+            "j\u012bn\u0101",
+            "hai"
+        ],
+        "trs": "To live life is to live a deferred death.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo--60598",
+        "categories": [
+            "1sg",
+            "3m",
+            "erg",
+            "prf",
+            "refl",
+            "sg"
+        ],
+        "clength": 32,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "this lock \\textsc{1sg.erg} \\textsc{refl} put.\\textsc{prf} \\textsc{3m.sg}",
+        "imtwordsbare": [
+            "this",
+            "lock",
+            "1sg.erg",
+            "REFL",
+            "put.PRF",
+            "3m.sg"
+        ],
+        "imtwordshtml": [
+            "this",
+            "lock",
+            "<span class=\"sc\">1sg.erg</span>",
+            "<span class=\"sc\">refl</span>",
+            "put.<span class=\"sc\">prf</span>",
+            "<span class=\"sc\">3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "lock",
+            "\\textsc{1sg.erg}",
+            "\\textsc{refl}",
+            "put.\\textsc{prf}",
+            "\\textsc{3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\u2018Yah t\u0101l\u0101 ma\u0129ne xud lag\u0101ya hai\u2019,",
+        "srcwordsbare": [
+            "\u2018Yah",
+            "t\u0101l\u0101",
+            "ma\u0129ne",
+            "xud",
+            "lag\u0101ya",
+            "hai\u2019,"
+        ],
+        "srcwordshtml": [
+            "\u2018Yah",
+            "t\u0101l\u0101",
+            "ma\u0129ne",
+            "xud",
+            "lag\u0101ya",
+            "hai\u2019,"
+        ],
+        "srcwordstex": [
+            "\u2018Yah",
+            "t\u0101l\u0101",
+            "ma\u0129ne",
+            "xud",
+            "lag\u0101ya",
+            "hai\u2019,"
+        ],
+        "trs": "This lock, I put it myself,",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo-786301",
+        "categories": [
+            "1m",
+            "1sg",
+            "3sg",
+            "acc",
+            "prs",
+            "sg"
+        ],
+        "clength": 67,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg} lock \\textsc{acc} open can \\textsc{prs.1m.sg} key \\textsc{1sg} near be.\\textsc{prs.3sg}",
+        "imtwordsbare": [
+            "1SG",
+            "lock",
+            "ACC",
+            "open",
+            "can",
+            "prs.1m.sg",
+            "key",
+            "1SG",
+            "near",
+            "be.prs.3sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "lock",
+            "<span class=\"sc\">acc</span>",
+            "open",
+            "can",
+            "<span class=\"sc\">prs.1m.sg</span>",
+            "key",
+            "<span class=\"sc\">1sg</span>",
+            "near",
+            "be.<span class=\"sc\">prs.3sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "lock",
+            "\\textsc{acc}",
+            "open",
+            "can",
+            "\\textsc{prs.1m.sg}",
+            "key",
+            "\\textsc{1sg}",
+            "near",
+            "be.\\textsc{prs.3sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\u2018Ma\u0129 \\textbf{t\u0101le} \\textbf{ko} khol sakt\u0101 \th\u016b\u0303, c\u0101b\u012b mere p\u0101s hai\u2019.",
+        "srcwordsbare": [
+            "\u2018Ma\u0129",
+            "t\u0101le",
+            "ko",
+            "khol",
+            "sakt\u0101",
+            "h\u016b\u0303,",
+            "c\u0101b\u012b",
+            "mere",
+            "p\u0101s",
+            "hai\u2019."
+        ],
+        "srcwordshtml": [
+            "\u2018Ma\u0129",
+            "<span class=\"bf\">t\u0101le</span>",
+            "<span class=\"bf\">ko</span>",
+            "khol",
+            "sakt\u0101",
+            "h\u016b\u0303,",
+            "c\u0101b\u012b",
+            "mere",
+            "p\u0101s",
+            "hai\u2019."
+        ],
+        "srcwordstex": [
+            "\u2018Ma\u0129",
+            "\\textbf{t\u0101le}",
+            "\\textbf{ko}",
+            "khol",
+            "sakt\u0101",
+            "h\u016b\u0303,",
+            "c\u0101b\u012b",
+            "mere",
+            "p\u0101s",
+            "hai\u2019."
+        ],
+        "trs": "I can open \\textbf{the} \\textbf{lock}, I have the key with me\u2019.",
+        "wlength": 10
+    },
+    {
+        "ID": "10-mo--23547",
+        "categories": [
+            "3hon",
+            "abl",
+            "erg",
+            "f",
+            "hon",
+            "pfv",
+            "prog",
+            "pst",
+            "sg"
+        ],
+        "clength": 65,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "3.\\textsc{hon.erg} key belt \\textsc{abl} take.out.\\textsc{pfv.f.sg} \\textsc{3hon} lock open go \\textsc{prog} \\textsc{pst.3hon}",
+        "imtwordsbare": [
+            "3.hon.erg",
+            "key",
+            "belt",
+            "ABL",
+            "take.out.pfv.f.sg",
+            "3HON",
+            "lock",
+            "open",
+            "go",
+            "PROG",
+            "pst.3hon"
+        ],
+        "imtwordshtml": [
+            "3.<span class=\"sc\">hon.erg</span>",
+            "key",
+            "belt",
+            "<span class=\"sc\">abl</span>",
+            "take.out.<span class=\"sc\">pfv.f.sg</span>",
+            "<span class=\"sc\">3hon</span>",
+            "lock",
+            "open",
+            "go",
+            "<span class=\"sc\">prog</span>",
+            "<span class=\"sc\">pst.3hon</span>"
+        ],
+        "imtwordstex": [
+            "3.\\textsc{hon.erg}",
+            "key",
+            "belt",
+            "\\textsc{abl}",
+            "take.out.\\textsc{pfv.f.sg}",
+            "\\textsc{3hon}",
+            "lock",
+            "open",
+            "go",
+            "\\textsc{prog}",
+            "\\textsc{pst.3hon}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "Unh\u00f5ne c\u0101b\u012b t\u0329\u1ebdt\u0329 se nik\u0101l\u012b. Ve \\textbf{t\u0101l\u0101} kholne j\u0101 rahe the.",
+        "srcwordsbare": [
+            "Unh\u00f5ne",
+            "c\u0101b\u012b",
+            "t\u0329\u1ebdt\u0329",
+            "se",
+            "nik\u0101l\u012b.",
+            "Ve",
+            "t\u0101l\u0101",
+            "kholne",
+            "j\u0101",
+            "rahe",
+            "the."
+        ],
+        "srcwordshtml": [
+            "Unh\u00f5ne",
+            "c\u0101b\u012b",
+            "t\u0329\u1ebdt\u0329",
+            "se",
+            "nik\u0101l\u012b.",
+            "Ve",
+            "<span class=\"bf\">t\u0101l\u0101</span>",
+            "kholne",
+            "j\u0101",
+            "rahe",
+            "the."
+        ],
+        "srcwordstex": [
+            "Unh\u00f5ne",
+            "c\u0101b\u012b",
+            "t\u0329\u1ebdt\u0329",
+            "se",
+            "nik\u0101l\u012b.",
+            "Ve",
+            "\\textbf{t\u0101l\u0101}",
+            "kholne",
+            "j\u0101",
+            "rahe",
+            "the."
+        ],
+        "trs": "He took the key from his belt. He was going to open the lock.",
+        "wlength": 11
+    },
+    {
+        "ID": "10-mo--52462",
+        "categories": [
+            "1sg",
+            "3m",
+            "acc/dat",
+            "pass",
+            "pfv",
+            "sg"
+        ],
+        "clength": 36,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg.acc/dat} hospital take go \\textsc{pass.pfv.3m.sg}",
+        "imtwordsbare": [
+            "1sg.acc/dat",
+            "hospital",
+            "take",
+            "go",
+            "pass.pfv.3m.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.acc/dat</span>",
+            "hospital",
+            "take",
+            "go",
+            "<span class=\"sc\">pass.pfv.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.acc/dat}",
+            "hospital",
+            "take",
+            "go",
+            "\\textsc{pass.pfv.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\\textbf{mujhe} aspat\u0329\u0101l le j\u0101y\u0101 gay\u0101",
+        "srcwordsbare": [
+            "mujhe",
+            "aspat\u0329\u0101l",
+            "le",
+            "j\u0101y\u0101",
+            "gay\u0101"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">mujhe</span>",
+            "aspat\u0329\u0101l",
+            "le",
+            "j\u0101y\u0101",
+            "gay\u0101"
+        ],
+        "srcwordstex": [
+            "\\textbf{mujhe}",
+            "aspat\u0329\u0101l",
+            "le",
+            "j\u0101y\u0101",
+            "gay\u0101"
+        ],
+        "trs": "I was taken to the hospital.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--31196",
+        "categories": [
+            "1sg",
+            "f",
+            "pass",
+            "pfv",
+            "sg"
+        ],
+        "clength": 34,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg} hospital take go \\textsc{pass.pfv.f.sg}",
+        "imtwordsbare": [
+            "1SG",
+            "hospital",
+            "take",
+            "go",
+            "pass.pfv.f.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "hospital",
+            "take",
+            "go",
+            "<span class=\"sc\">pass.pfv.f.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "hospital",
+            "take",
+            "go",
+            "\\textsc{pass.pfv.f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\\textbf{ma\u0129} aspat\u0329\u0101l le j\u0101y\u012b gay\u012b",
+        "srcwordsbare": [
+            "ma\u0129",
+            "aspat\u0329\u0101l",
+            "le",
+            "j\u0101y\u012b",
+            "gay\u012b"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">ma\u0129</span>",
+            "aspat\u0329\u0101l",
+            "le",
+            "j\u0101y\u012b",
+            "gay\u012b"
+        ],
+        "srcwordstex": [
+            "\\textbf{ma\u0129}",
+            "aspat\u0329\u0101l",
+            "le",
+            "j\u0101y\u012b",
+            "gay\u012b"
+        ],
+        "trs": "I was taken to the hospital.\u2019 (feminine speaker)",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-592096",
+        "categories": [
+            "m",
+            "pass",
+            "pl",
+            "pprf",
+            "refl"
+        ],
+        "clength": 63,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Chef Hemant Oberoy \\textsc{refl} ten helper.\\textsc{m.pl} with there send \\textsc{pass} \\textsc{pprf.m.pl}",
+        "imtwordsbare": [
+            "Chef",
+            "Hemant",
+            "Oberoy",
+            "REFL",
+            "ten",
+            "helper.m.pl",
+            "with",
+            "there",
+            "send",
+            "PASS",
+            "pprf.m.pl"
+        ],
+        "imtwordshtml": [
+            "Chef",
+            "Hemant",
+            "Oberoy",
+            "<span class=\"sc\">refl</span>",
+            "ten",
+            "helper.<span class=\"sc\">m.pl</span>",
+            "with",
+            "there",
+            "send",
+            "<span class=\"sc\">pass</span>",
+            "<span class=\"sc\">pprf.m.pl</span>"
+        ],
+        "imtwordstex": [
+            "Chef",
+            "Hemant",
+            "Oberoy",
+            "\\textsc{refl}",
+            "ten",
+            "helper.\\textsc{m.pl}",
+            "with",
+            "there",
+            "send",
+            "\\textsc{pass}",
+            "\\textsc{pprf.m.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\u015bef Hemant Ober\u0101y apne das sahyogiy\u00f5 kes\u0101th vah\u0101\u0303 bheje gae the",
+        "srcwordsbare": [
+            "\u015bef",
+            "Hemant",
+            "Ober\u0101y",
+            "apne",
+            "das",
+            "sahyogiy\u00f5",
+            "kes\u0101th",
+            "vah\u0101\u0303",
+            "bheje",
+            "gae",
+            "the"
+        ],
+        "srcwordshtml": [
+            "\u015bef",
+            "Hemant",
+            "Ober\u0101y",
+            "apne",
+            "das",
+            "sahyogiy\u00f5",
+            "kes\u0101th",
+            "vah\u0101\u0303",
+            "bheje",
+            "gae",
+            "the"
+        ],
+        "srcwordstex": [
+            "\u015bef",
+            "Hemant",
+            "Ober\u0101y",
+            "apne",
+            "das",
+            "sahyogiy\u00f5",
+            "kes\u0101th",
+            "vah\u0101\u0303",
+            "bheje",
+            "gae",
+            "the"
+        ],
+        "trs": "The chef Hemant Oberoi had been sent there with ten of his helpers.",
+        "wlength": 11
+    },
+    {
+        "ID": "10-mo-801675",
+        "categories": [
+            "acc",
+            "m",
+            "pass",
+            "pl",
+            "prf",
+            "sg"
+        ],
+        "clength": 97,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "my thousand supporter.\\textsc{m.pl} \\textsc{acc} Madurai unit from expel give \\textsc{pass} \\textsc{prf.m.sg}",
+        "imtwordsbare": [
+            "my",
+            "thousand",
+            "supporter.m.pl",
+            "ACC",
+            "Madurai",
+            "unit",
+            "from",
+            "expel",
+            "give",
+            "PASS",
+            "prf.m.sg"
+        ],
+        "imtwordshtml": [
+            "my",
+            "thousand",
+            "supporter.<span class=\"sc\">m.pl</span>",
+            "<span class=\"sc\">acc</span>",
+            "Madurai",
+            "unit",
+            "from",
+            "expel",
+            "give",
+            "<span class=\"sc\">pass</span>",
+            "<span class=\"sc\">prf.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "my",
+            "thousand",
+            "supporter.\\textsc{m.pl}",
+            "\\textsc{acc}",
+            "Madurai",
+            "unit",
+            "from",
+            "expel",
+            "give",
+            "\\textsc{pass}",
+            "\\textsc{prf.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\\textbf{mere} \\textbf{haz\u0101r\u00f5} \\textbf{samarthak\u00f5} \\textbf{ko} Madurai ik\u0101\u012b se nik\u0101l diy\u0101 gay\u0101 hai",
+        "srcwordsbare": [
+            "mere",
+            "haz\u0101r\u00f5",
+            "samarthak\u00f5",
+            "ko",
+            "Madurai",
+            "ik\u0101\u012b",
+            "se",
+            "nik\u0101l",
+            "diy\u0101",
+            "gay\u0101",
+            "hai"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">mere</span>",
+            "<span class=\"bf\">haz\u0101r\u00f5</span>",
+            "<span class=\"bf\">samarthak\u00f5</span>",
+            "<span class=\"bf\">ko</span>",
+            "Madurai",
+            "ik\u0101\u012b",
+            "se",
+            "nik\u0101l",
+            "diy\u0101",
+            "gay\u0101",
+            "hai"
+        ],
+        "srcwordstex": [
+            "\\textbf{mere}",
+            "\\textbf{haz\u0101r\u00f5}",
+            "\\textbf{samarthak\u00f5}",
+            "\\textbf{ko}",
+            "Madurai",
+            "ik\u0101\u012b",
+            "se",
+            "nik\u0101l",
+            "diy\u0101",
+            "gay\u0101",
+            "hai"
+        ],
+        "trs": "Thousands of my supporters have been ousted from the Madurai unit.",
+        "wlength": 11
+    },
+    {
+        "ID": "10-mo-473524",
+        "categories": [
+            "3m",
+            "acc",
+            "neg",
+            "pass",
+            "prs",
+            "sg"
+        ],
+        "clength": 76,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "but many days till postponed death \\textsc{acc} even \\textsc{neg} live \\textsc{pass} can.\\textsc{prs.3m.sg}",
+        "imtwordsbare": [
+            "but",
+            "many",
+            "days",
+            "till",
+            "postponed",
+            "death",
+            "ACC",
+            "even",
+            "NEG",
+            "live",
+            "PASS",
+            "can.prs.3m.sg"
+        ],
+        "imtwordshtml": [
+            "but",
+            "many",
+            "days",
+            "till",
+            "postponed",
+            "death",
+            "<span class=\"sc\">acc</span>",
+            "even",
+            "<span class=\"sc\">neg</span>",
+            "live",
+            "<span class=\"sc\">pass</span>",
+            "can.<span class=\"sc\">prs.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "but",
+            "many",
+            "days",
+            "till",
+            "postponed",
+            "death",
+            "\\textsc{acc}",
+            "even",
+            "\\textsc{neg}",
+            "live",
+            "\\textsc{pass}",
+            "can.\\textsc{prs.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "par bahut din\u00f5 tak sthagit \\textbf{maut} \\textbf{ko} bh\u012b nah\u012b\u0303 jiy\u0101 j\u0101 sakt\u0101",
+        "srcwordsbare": [
+            "par",
+            "bahut",
+            "din\u00f5",
+            "tak",
+            "sthagit",
+            "maut",
+            "ko",
+            "bh\u012b",
+            "nah\u012b\u0303",
+            "jiy\u0101",
+            "j\u0101",
+            "sakt\u0101"
+        ],
+        "srcwordshtml": [
+            "par",
+            "bahut",
+            "din\u00f5",
+            "tak",
+            "sthagit",
+            "<span class=\"bf\">maut</span>",
+            "<span class=\"bf\">ko</span>",
+            "bh\u012b",
+            "nah\u012b\u0303",
+            "jiy\u0101",
+            "j\u0101",
+            "sakt\u0101"
+        ],
+        "srcwordstex": [
+            "par",
+            "bahut",
+            "din\u00f5",
+            "tak",
+            "sthagit",
+            "\\textbf{maut}",
+            "\\textbf{ko}",
+            "bh\u012b",
+            "nah\u012b\u0303",
+            "jiy\u0101",
+            "j\u0101",
+            "sakt\u0101"
+        ],
+        "trs": "But one cannot live even a deferred death for very long.\u2019 (Vinod Kumar Shukla, 1996, \\emph{Khilega to dekhenge})",
+        "wlength": 12
+    },
+    {
+        "ID": "10-mo-903717",
+        "categories": [
+            "3pl",
+            "acc",
+            "gen",
+            "m",
+            "pass",
+            "sg"
+        ],
+        "clength": 86,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{3pl.gen} suspension \\textsc{acc} 24 January of morning that time do \\textsc{pass.m.sg} when",
+        "imtwordsbare": [
+            "3pl.gen",
+            "suspension",
+            "ACC",
+            "24",
+            "January",
+            "of",
+            "morning",
+            "that",
+            "time",
+            "do",
+            "pass.m.sg",
+            "when"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl.gen</span>",
+            "suspension",
+            "<span class=\"sc\">acc</span>",
+            "24",
+            "January",
+            "of",
+            "morning",
+            "that",
+            "time",
+            "do",
+            "<span class=\"sc\">pass.m.sg</span>",
+            "when"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl.gen}",
+            "suspension",
+            "\\textsc{acc}",
+            "24",
+            "January",
+            "of",
+            "morning",
+            "that",
+            "time",
+            "do",
+            "\\textsc{pass.m.sg}",
+            "when"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\\textbf{unke} \\textbf{vilamban} \\textbf{ko} 24 janvar\u012b k\u012b subah us vaqt kiy\u0101 gay\u0101 jab\u2026",
+        "srcwordsbare": [
+            "unke",
+            "vilamban",
+            "ko",
+            "24",
+            "janvar\u012b",
+            "k\u012b",
+            "subah",
+            "us",
+            "vaqt",
+            "kiy\u0101",
+            "gay\u0101",
+            "jab\u2026"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">unke</span>",
+            "<span class=\"bf\">vilamban</span>",
+            "<span class=\"bf\">ko</span>",
+            "24",
+            "janvar\u012b",
+            "k\u012b",
+            "subah",
+            "us",
+            "vaqt",
+            "kiy\u0101",
+            "gay\u0101",
+            "jab\u2026"
+        ],
+        "srcwordstex": [
+            "\\textbf{unke}",
+            "\\textbf{vilamban}",
+            "\\textbf{ko}",
+            "24",
+            "janvar\u012b",
+            "k\u012b",
+            "subah",
+            "us",
+            "vaqt",
+            "kiy\u0101",
+            "gay\u0101",
+            "jab\u2026"
+        ],
+        "trs": "Their suspension occurred on the morning of January 24 when\u2026\u2019 (\\emph{Times of India} 13/1/2015)",
+        "wlength": 12
+    },
+    {
+        "ID": "10-mo--21444",
+        "categories": [
+            "1sg",
+            "dat",
+            "gen",
+            "inf",
+            "m",
+            "neg",
+            "pfv",
+            "sg"
+        ],
+        "clength": 44,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "2H.\\textsc{gen} here come.\\textsc{inf} \\textsc{1sg.dat} really really \\textsc{neg} seem.\\textsc{pfv.m.sg}",
+        "imtwordsbare": [
+            "2H.GEN",
+            "here",
+            "come.INF",
+            "1sg.dat",
+            "really",
+            "really",
+            "NEG",
+            "seem.pfv.m.sg"
+        ],
+        "imtwordshtml": [
+            "2H.<span class=\"sc\">gen</span>",
+            "here",
+            "come.<span class=\"sc\">inf</span>",
+            "<span class=\"sc\">1sg.dat</span>",
+            "really",
+            "really",
+            "<span class=\"sc\">neg</span>",
+            "seem.<span class=\"sc\">pfv.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "2H.\\textsc{gen}",
+            "here",
+            "come.\\textsc{inf}",
+            "\\textsc{1sg.dat}",
+            "really",
+            "really",
+            "\\textsc{neg}",
+            "seem.\\textsc{pfv.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "polarity": "negative",
+        "src": "\u0101pk\u0101 yah\u0101\u0342 \u0101n\u0101 mujhe bilkul acch\u0101 nah\u012b\u0342 lag\u0101",
+        "srcwordsbare": [
+            "\u0101pk\u0101",
+            "yah\u0101\u0342",
+            "\u0101n\u0101",
+            "mujhe",
+            "bilkul",
+            "acch\u0101",
+            "nah\u012b\u0342",
+            "lag\u0101"
+        ],
+        "srcwordshtml": [
+            "\u0101pk\u0101",
+            "yah\u0101\u0342",
+            "\u0101n\u0101",
+            "mujhe",
+            "bilkul",
+            "acch\u0101",
+            "nah\u012b\u0342",
+            "lag\u0101"
+        ],
+        "srcwordstex": [
+            "\u0101pk\u0101",
+            "yah\u0101\u0342",
+            "\u0101n\u0101",
+            "mujhe",
+            "bilkul",
+            "acch\u0101",
+            "nah\u012b\u0342",
+            "lag\u0101"
+        ],
+        "trs": "I did not like at all (the fact) that you came here.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo--38513",
+        "categories": [
+            "gen",
+            "m",
+            "pl",
+            "pprf"
+        ],
+        "clength": 45,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Ram \\textsc{gen} coming Ram coming just all.\\textsc{m.pl} disappeared be go \\textsc{pprf.m.pl}",
+        "imtwordsbare": [
+            "Ram",
+            "GEN",
+            "coming",
+            "Ram",
+            "coming",
+            "just",
+            "all.m.pl",
+            "disappeared",
+            "be",
+            "go",
+            "pprf.m.pl"
+        ],
+        "imtwordshtml": [
+            "Ram",
+            "<span class=\"sc\">gen</span>",
+            "coming",
+            "Ram",
+            "coming",
+            "just",
+            "all.<span class=\"sc\">m.pl</span>",
+            "disappeared",
+            "be",
+            "go",
+            "<span class=\"sc\">pprf.m.pl</span>"
+        ],
+        "imtwordstex": [
+            "Ram",
+            "\\textsc{gen}",
+            "coming",
+            "Ram",
+            "coming",
+            "just",
+            "all.\\textsc{m.pl}",
+            "disappeared",
+            "be",
+            "go",
+            "\\textsc{pprf.m.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "r\u0101m ke \u0101te (*r\u0101m \u0101te) h\u012b sab g\u0101yab ho gae the",
+        "srcwordsbare": [
+            "r\u0101m",
+            "ke",
+            "\u0101te",
+            "(*r\u0101m",
+            "\u0101te)",
+            "h\u012b",
+            "sab",
+            "g\u0101yab",
+            "ho",
+            "gae",
+            "the"
+        ],
+        "srcwordshtml": [
+            "r\u0101m",
+            "ke",
+            "\u0101te",
+            "(*r\u0101m",
+            "\u0101te)",
+            "h\u012b",
+            "sab",
+            "g\u0101yab",
+            "ho",
+            "gae",
+            "the"
+        ],
+        "srcwordstex": [
+            "r\u0101m",
+            "ke",
+            "\u0101te",
+            "(*r\u0101m",
+            "\u0101te)",
+            "h\u012b",
+            "sab",
+            "g\u0101yab",
+            "ho",
+            "gae",
+            "the"
+        ],
+        "trs": "Right after Ram came, all had disappeared.",
+        "wlength": 11
+    },
+    {
+        "ID": "10-mo--79922",
+        "categories": [
+            "gen",
+            "m",
+            "pl",
+            "pprf"
+        ],
+        "clength": 43,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "darkness \\textsc{gen} being just all.\\textsc{m.pl} disappeared be go \\textsc{pprf.m.pl}",
+        "imtwordsbare": [
+            "darkness",
+            "GEN",
+            "being",
+            "just",
+            "all.m.pl",
+            "disappeared",
+            "be",
+            "go",
+            "pprf.m.pl"
+        ],
+        "imtwordshtml": [
+            "darkness",
+            "<span class=\"sc\">gen</span>",
+            "being",
+            "just",
+            "all.<span class=\"sc\">m.pl</span>",
+            "disappeared",
+            "be",
+            "go",
+            "<span class=\"sc\">pprf.m.pl</span>"
+        ],
+        "imtwordstex": [
+            "darkness",
+            "\\textsc{gen}",
+            "being",
+            "just",
+            "all.\\textsc{m.pl}",
+            "disappeared",
+            "be",
+            "go",
+            "\\textsc{pprf.m.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "andher\u0101 (*?ke) hote h\u012b sab g\u0101yab ho gae the",
+        "srcwordsbare": [
+            "andher\u0101",
+            "(*?ke)",
+            "hote",
+            "h\u012b",
+            "sab",
+            "g\u0101yab",
+            "ho",
+            "gae",
+            "the"
+        ],
+        "srcwordshtml": [
+            "andher\u0101",
+            "(*?ke)",
+            "hote",
+            "h\u012b",
+            "sab",
+            "g\u0101yab",
+            "ho",
+            "gae",
+            "the"
+        ],
+        "srcwordstex": [
+            "andher\u0101",
+            "(*?ke)",
+            "hote",
+            "h\u012b",
+            "sab",
+            "g\u0101yab",
+            "ho",
+            "gae",
+            "the"
+        ],
+        "trs": "Right after the coming of darkness all had disappeared.",
+        "wlength": 9
+    },
+    {
+        "ID": "10-mo-185586",
+        "categories": [
+            "3m",
+            "erg",
+            "f",
+            "inf",
+            "m",
+            "pfv",
+            "sg"
+        ],
+        "clength": 41,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "child.\\textsc{m.sg} \\textsc{erg} bike.\\textsc{f.sg} drive.\\textsc{inf.m.sg} beginning do.\\textsc{pfv.3m.sg}",
+        "imtwordsbare": [
+            "child.m.sg",
+            "ERG",
+            "bike.f.sg",
+            "drive.inf.m.sg",
+            "beginning",
+            "do.pfv.3m.sg"
+        ],
+        "imtwordshtml": [
+            "child.<span class=\"sc\">m.sg</span>",
+            "<span class=\"sc\">erg</span>",
+            "bike.<span class=\"sc\">f.sg</span>",
+            "drive.<span class=\"sc\">inf.m.sg</span>",
+            "beginning",
+            "do.<span class=\"sc\">pfv.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "child.\\textsc{m.sg}",
+            "\\textsc{erg}",
+            "bike.\\textsc{f.sg}",
+            "drive.\\textsc{inf.m.sg}",
+            "beginning",
+            "do.\\textsc{pfv.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "bacce ne s\u0101ikil \\textbf{cal\u0101n\u0101} \u015bur\u016b kiy\u0101",
+        "srcwordsbare": [
+            "bacce",
+            "ne",
+            "s\u0101ikil",
+            "cal\u0101n\u0101",
+            "\u015bur\u016b",
+            "kiy\u0101"
+        ],
+        "srcwordshtml": [
+            "bacce",
+            "ne",
+            "s\u0101ikil",
+            "<span class=\"bf\">cal\u0101n\u0101</span>",
+            "\u015bur\u016b",
+            "kiy\u0101"
+        ],
+        "srcwordstex": [
+            "bacce",
+            "ne",
+            "s\u0101ikil",
+            "\\textbf{cal\u0101n\u0101}",
+            "\u015bur\u016b",
+            "kiy\u0101"
+        ],
+        "trs": "The boy started to ride a bicycle.\u2019 (has started bicycle riding)",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo-867321",
+        "categories": [
+            "3f",
+            "erg",
+            "f",
+            "inf",
+            "m",
+            "pfv",
+            "sg"
+        ],
+        "clength": 39,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "child.\\textsc{m.sg} \\textsc{erg} bike.\\textsc{f.sg} drive.\\textsc{inf.f.sg} beginning do.\\textsc{pfv.3f.sg}",
+        "imtwordsbare": [
+            "child.m.sg",
+            "ERG",
+            "bike.f.sg",
+            "drive.inf.f.sg",
+            "beginning",
+            "do.pfv.3f.sg"
+        ],
+        "imtwordshtml": [
+            "child.<span class=\"sc\">m.sg</span>",
+            "<span class=\"sc\">erg</span>",
+            "bike.<span class=\"sc\">f.sg</span>",
+            "drive.<span class=\"sc\">inf.f.sg</span>",
+            "beginning",
+            "do.<span class=\"sc\">pfv.3f.sg</span>"
+        ],
+        "imtwordstex": [
+            "child.\\textsc{m.sg}",
+            "\\textsc{erg}",
+            "bike.\\textsc{f.sg}",
+            "drive.\\textsc{inf.f.sg}",
+            "beginning",
+            "do.\\textsc{pfv.3f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "bacce ne s\u0101ikil \\textbf{cal\u0101n\u012b} \u015bur\u016b k\u012b",
+        "srcwordsbare": [
+            "bacce",
+            "ne",
+            "s\u0101ikil",
+            "cal\u0101n\u012b",
+            "\u015bur\u016b",
+            "k\u012b"
+        ],
+        "srcwordshtml": [
+            "bacce",
+            "ne",
+            "s\u0101ikil",
+            "<span class=\"bf\">cal\u0101n\u012b</span>",
+            "\u015bur\u016b",
+            "k\u012b"
+        ],
+        "srcwordstex": [
+            "bacce",
+            "ne",
+            "s\u0101ikil",
+            "\\textbf{cal\u0101n\u012b}",
+            "\u015bur\u016b",
+            "k\u012b"
+        ],
+        "trs": "The boy started to ride a bicycle.",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo--51635",
+        "categories": [
+            "3m",
+            "erg",
+            "inf",
+            "m",
+            "pfv",
+            "pl",
+            "sg"
+        ],
+        "clength": 37,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "child.\\textsc{m.pl} \\textsc{erg} school go.\\textsc{inf.m.sg} beginning do.\\textsc{pfv.3m.sg}",
+        "imtwordsbare": [
+            "child.m.pl",
+            "ERG",
+            "school",
+            "go.inf.m.sg",
+            "beginning",
+            "do.pfv.3m.sg"
+        ],
+        "imtwordshtml": [
+            "child.<span class=\"sc\">m.pl</span>",
+            "<span class=\"sc\">erg</span>",
+            "school",
+            "go.<span class=\"sc\">inf.m.sg</span>",
+            "beginning",
+            "do.<span class=\"sc\">pfv.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "child.\\textsc{m.pl}",
+            "\\textsc{erg}",
+            "school",
+            "go.\\textsc{inf.m.sg}",
+            "beginning",
+            "do.\\textsc{pfv.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "bacc\u00f5 ne sk\u016bl \\textbf{j\u0101n\u0101} \u015bur\u016b kiy\u0101",
+        "srcwordsbare": [
+            "bacc\u00f5",
+            "ne",
+            "sk\u016bl",
+            "j\u0101n\u0101",
+            "\u015bur\u016b",
+            "kiy\u0101"
+        ],
+        "srcwordshtml": [
+            "bacc\u00f5",
+            "ne",
+            "sk\u016bl",
+            "<span class=\"bf\">j\u0101n\u0101</span>",
+            "\u015bur\u016b",
+            "kiy\u0101"
+        ],
+        "srcwordstex": [
+            "bacc\u00f5",
+            "ne",
+            "sk\u016bl",
+            "\\textbf{j\u0101n\u0101}",
+            "\u015bur\u016b",
+            "kiy\u0101"
+        ],
+        "trs": "The children started going to school.",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo--69069",
+        "categories": [
+            "1sg",
+            "3m",
+            "f",
+            "gs",
+            "inf",
+            "m",
+            "prs",
+            "sg"
+        ],
+        "clength": 36,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg} bike.\\textsc{f.gs} drive.\\textsc{inf.m.sg} come \\textsc{prs.3m.sg}",
+        "imtwordsbare": [
+            "1SG",
+            "bike.f.gs",
+            "drive.inf.m.sg",
+            "come",
+            "prs.3m.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "bike.<span class=\"sc\">f.gs</span>",
+            "drive.<span class=\"sc\">inf.m.sg</span>",
+            "come",
+            "<span class=\"sc\">prs.3m.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "bike.\\textsc{f.gs}",
+            "drive.\\textsc{inf.m.sg}",
+            "come",
+            "\\textsc{prs.3m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "mujhe s\u0101ikil \\textbf{cal\u0101n\u0101} \u0101t\u0101 hai",
+        "srcwordsbare": [
+            "mujhe",
+            "s\u0101ikil",
+            "cal\u0101n\u0101",
+            "\u0101t\u0101",
+            "hai"
+        ],
+        "srcwordshtml": [
+            "mujhe",
+            "s\u0101ikil",
+            "<span class=\"bf\">cal\u0101n\u0101</span>",
+            "\u0101t\u0101",
+            "hai"
+        ],
+        "srcwordstex": [
+            "mujhe",
+            "s\u0101ikil",
+            "\\textbf{cal\u0101n\u0101}",
+            "\u0101t\u0101",
+            "hai"
+        ],
+        "trs": "I know how to ride a bicycle (how to cycle).",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--23242",
+        "categories": [
+            "1m",
+            "3f",
+            "f",
+            "inf",
+            "prs",
+            "sg"
+        ],
+        "clength": 36,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1m.sg} bike.\\textsc{f.sg} drive.\\textsc{inf.f.sg} come \\textsc{prs.3f.sg}",
+        "imtwordsbare": [
+            "1m.sg",
+            "bike.f.sg",
+            "drive.inf.f.sg",
+            "come",
+            "prs.3f.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1m.sg</span>",
+            "bike.<span class=\"sc\">f.sg</span>",
+            "drive.<span class=\"sc\">inf.f.sg</span>",
+            "come",
+            "<span class=\"sc\">prs.3f.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1m.sg}",
+            "bike.\\textsc{f.sg}",
+            "drive.\\textsc{inf.f.sg}",
+            "come",
+            "\\textsc{prs.3f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "mujhe \\textbf{s\u0101ikil} cal\u0101n\u012b \u0101t\u012b hai",
+        "srcwordsbare": [
+            "mujhe",
+            "s\u0101ikil",
+            "cal\u0101n\u012b",
+            "\u0101t\u012b",
+            "hai"
+        ],
+        "srcwordshtml": [
+            "mujhe",
+            "<span class=\"bf\">s\u0101ikil</span>",
+            "cal\u0101n\u012b",
+            "\u0101t\u012b",
+            "hai"
+        ],
+        "srcwordstex": [
+            "mujhe",
+            "\\textbf{s\u0101ikil}",
+            "cal\u0101n\u012b",
+            "\u0101t\u012b",
+            "hai"
+        ],
+        "trs": "I know how to ride a bicycle.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--40310",
+        "categories": [
+            "m",
+            "pfv",
+            "sg"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Hiranakashyapu kill.\\textsc{pfv.m.sg}",
+        "imtwordsbare": [
+            "Hiranakashyapu",
+            "kill.pfv.m.sg"
+        ],
+        "imtwordshtml": [
+            "Hiranakashyapu",
+            "kill.<span class=\"sc\">pfv.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "Hiranakashyapu",
+            "kill.\\textsc{pfv.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "Hiran\u0101kasa m\u0101ryau.",
+        "srcwordsbare": [
+            "Hiran\u0101kasa",
+            "m\u0101ryau."
+        ],
+        "srcwordshtml": [
+            "Hiran\u0101kasa",
+            "m\u0101ryau."
+        ],
+        "srcwordstex": [
+            "Hiran\u0101kasa",
+            "m\u0101ryau."
+        ],
+        "trs": "[He] killed Hiranyakashyapu.",
+        "wlength": 2
+    },
+    {
+        "ID": "10-mo--19041",
+        "categories": [
+            "3sg",
+            "acc",
+            "prs"
+        ],
+        "clength": 38,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Ram.\\textsc{acc} know.\\textsc{prs.3sg} know.\\textsc{prs.3sg} Merciful.\u00d8",
+        "imtwordsbare": [
+            "Ram.ACC",
+            "know.prs.3sg",
+            "know.prs.3sg",
+            "Merciful.\u00d8"
+        ],
+        "imtwordshtml": [
+            "Ram.<span class=\"sc\">acc</span>",
+            "know.<span class=\"sc\">prs.3sg</span>",
+            "know.<span class=\"sc\">prs.3sg</span>",
+            "Merciful.\u00d8"
+        ],
+        "imtwordstex": [
+            "Ram.\\textsc{acc}",
+            "know.\\textsc{prs.3sg}",
+            "know.\\textsc{prs.3sg}",
+            "Merciful.\u00d8"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "R\u0101ma\\textbf{hi} janai janai Rahim\u0101\u0303na.",
+        "srcwordsbare": [
+            "R\u0101mahi",
+            "janai",
+            "janai",
+            "Rahim\u0101\u0303na."
+        ],
+        "srcwordshtml": [
+            "R\u0101ma<span class=\"bf\">hi</span>",
+            "janai",
+            "janai",
+            "Rahim\u0101\u0303na."
+        ],
+        "srcwordstex": [
+            "R\u0101ma\\textbf{hi}",
+            "janai",
+            "janai",
+            "Rahim\u0101\u0303na."
+        ],
+        "trs": "[He] knows Ram, he knows the Merciful.\u2019 (Kabir, verse 302)",
+        "wlength": 4
+    },
+    {
+        "ID": "10-mo--68140",
+        "categories": [
+            "cv"
+        ],
+        "clength": 19,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Ram make.\\textsc{cv} dear",
+        "imtwordsbare": [
+            "Ram",
+            "make.CV",
+            "dear"
+        ],
+        "imtwordshtml": [
+            "Ram",
+            "make.<span class=\"sc\">cv</span>",
+            "dear"
+        ],
+        "imtwordstex": [
+            "Ram",
+            "make.\\textsc{cv}",
+            "dear"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "R\u0101ma.\u00d8 kari saneh\u012b.",
+        "srcwordsbare": [
+            "R\u0101ma.\u00d8",
+            "kari",
+            "saneh\u012b."
+        ],
+        "srcwordshtml": [
+            "R\u0101ma.\u00d8",
+            "kari",
+            "saneh\u012b."
+        ],
+        "srcwordstex": [
+            "R\u0101ma.\u00d8",
+            "kari",
+            "saneh\u012b."
+        ],
+        "trs": "Making Ram your dear.\u2019 (Kabir, verse  381)",
+        "wlength": 3
+    },
+    {
+        "ID": "10-mo--91239",
+        "categories": [
+            "3sg",
+            "acc",
+            "prs"
+        ],
+        "clength": 52,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "self blind other \\textsc{acc} say.\\textsc{prs.3sg} one-eyed",
+        "imtwordsbare": [
+            "self",
+            "blind",
+            "other",
+            "ACC",
+            "say.prs.3sg",
+            "one-eyed"
+        ],
+        "imtwordshtml": [
+            "self",
+            "blind",
+            "other",
+            "<span class=\"sc\">acc</span>",
+            "say.<span class=\"sc\">prs.3sg</span>",
+            "one-eyed"
+        ],
+        "imtwordstex": [
+            "self",
+            "blind",
+            "other",
+            "\\textsc{acc}",
+            "say.\\textsc{prs.3sg}",
+            "one-eyed"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\u0101pana \u00e3dha \\textbf{aura} \\textbf{k\u016b\u0303} kahai kan\u0101\u0303n\u0101\u0303",
+        "srcwordsbare": [
+            "\u0101pana",
+            "\u00e3dha",
+            "aura",
+            "k\u016b\u0303",
+            "kahai",
+            "kan\u0101\u0303n\u0101\u0303"
+        ],
+        "srcwordshtml": [
+            "\u0101pana",
+            "\u00e3dha",
+            "<span class=\"bf\">aura</span>",
+            "<span class=\"bf\">k\u016b\u0303</span>",
+            "kahai",
+            "kan\u0101\u0303n\u0101\u0303"
+        ],
+        "srcwordstex": [
+            "\u0101pana",
+            "\u00e3dha",
+            "\\textbf{aura}",
+            "\\textbf{k\u016b\u0303}",
+            "kahai",
+            "kan\u0101\u0303n\u0101\u0303"
+        ],
+        "trs": "[Being] himself blind, he will call others one-eyed.\u2019 (Kabir, verse 149)",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo--81071",
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "neg",
+            "prs"
+        ],
+        "clength": 46,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "world \\textsc{1sg} see.\\textsc{prs.1sg} world \\textsc{neg} see.\\textsc{prs.3sg} \\textsc{1sg.acc}",
+        "imtwordsbare": [
+            "world",
+            "1SG",
+            "see.prs.1sg",
+            "world",
+            "NEG",
+            "see.prs.3sg",
+            "1sg.acc"
+        ],
+        "imtwordshtml": [
+            "world",
+            "<span class=\"sc\">1sg</span>",
+            "see.<span class=\"sc\">prs.1sg</span>",
+            "world",
+            "<span class=\"sc\">neg</span>",
+            "see.<span class=\"sc\">prs.3sg</span>",
+            "<span class=\"sc\">1sg.acc</span>"
+        ],
+        "imtwordstex": [
+            "world",
+            "\\textsc{1sg}",
+            "see.\\textsc{prs.1sg}",
+            "world",
+            "\\textsc{neg}",
+            "see.\\textsc{prs.3sg}",
+            "\\textsc{1sg.acc}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "polarity": "negative",
+        "src": "jaga.\u00d8 ma\u0129 des\u0329\u016b\u0303\t jaga na des\u0329i \\textbf{mohi}",
+        "srcwordsbare": [
+            "jaga.\u00d8",
+            "ma\u0129",
+            "des\u0329\u016b\u0303",
+            "jaga",
+            "na",
+            "des\u0329i",
+            "mohi"
+        ],
+        "srcwordshtml": [
+            "jaga.\u00d8",
+            "ma\u0129",
+            "des\u0329\u016b\u0303",
+            "jaga",
+            "na",
+            "des\u0329i",
+            "<span class=\"bf\">mohi</span>"
+        ],
+        "srcwordstex": [
+            "jaga.\u00d8",
+            "ma\u0129",
+            "des\u0329\u016b\u0303",
+            "jaga",
+            "na",
+            "des\u0329i",
+            "\\textbf{mohi}"
+        ],
+        "trs": "I see the world, the world does not see me.\u2019 (Kabir, verse 76.3)",
+        "wlength": 7
+    },
+    {
+        "ID": "10-mo-809819",
+        "categories": [
+            "acc",
+            "prs"
+        ],
+        "clength": 62,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "reversed Ganga ocean-\\textsc{acc} dry.up.\\textsc{prs} moon sun swallow.\\textsc{prs}",
+        "imtwordsbare": [
+            "reversed",
+            "Ganga",
+            "ocean-ACC",
+            "dry.up.PRS",
+            "moon",
+            "sun",
+            "swallow.PRS"
+        ],
+        "imtwordshtml": [
+            "reversed",
+            "Ganga",
+            "ocean-<span class=\"sc\">acc</span>",
+            "dry.up.<span class=\"sc\">prs</span>",
+            "moon",
+            "sun",
+            "swallow.<span class=\"sc\">prs</span>"
+        ],
+        "imtwordstex": [
+            "reversed",
+            "Ganga",
+            "ocean-\\textsc{acc}",
+            "dry.up.\\textsc{prs}",
+            "moon",
+            "sun",
+            "swallow.\\textsc{prs}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ulat\u0329\u012b Gang\u0101 s\u0101mudra-\\textbf{hi} sosai, sasihara s\u016bra.\u00d8 gr\u0101sai",
+        "srcwordsbare": [
+            "ulat\u0329\u012b",
+            "Gang\u0101",
+            "s\u0101mudra-hi",
+            "sosai,",
+            "sasihara",
+            "s\u016bra.\u00d8",
+            "gr\u0101sai"
+        ],
+        "srcwordshtml": [
+            "ulat\u0329\u012b",
+            "Gang\u0101",
+            "s\u0101mudra-<span class=\"bf\">hi</span>",
+            "sosai,",
+            "sasihara",
+            "s\u016bra.\u00d8",
+            "gr\u0101sai"
+        ],
+        "srcwordstex": [
+            "ulat\u0329\u012b",
+            "Gang\u0101",
+            "s\u0101mudra-\\textbf{hi}",
+            "sosai,",
+            "sasihara",
+            "s\u016bra.\u00d8",
+            "gr\u0101sai"
+        ],
+        "trs": "The reversed Ganga dries up the ocean, the moon swallows the sky.",
+        "wlength": 7
+    },
+    {
+        "ID": "10-mo-355990",
+        "categories": [
+            "3sg",
+            "acc",
+            "cv",
+            "dem",
+            "prs",
+            "rel"
+        ],
+        "clength": 32,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{rel.acc} \\textsc{dem} world horrible do.\\textsc{cv} go.\\textsc{prs.3sg}",
+        "imtwordsbare": [
+            "rel.acc",
+            "DEM",
+            "world",
+            "horrible",
+            "do.CV",
+            "go.prs.3sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">rel.acc</span>",
+            "<span class=\"sc\">dem</span>",
+            "world",
+            "horrible",
+            "do.<span class=\"sc\">cv</span>",
+            "go.<span class=\"sc\">prs.3sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{rel.acc}",
+            "\\textsc{dem}",
+            "world",
+            "horrible",
+            "do.\\textsc{cv}",
+            "go.\\textsc{prs.3sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "j\u0101k\u016b\u0303 yahu jaga ghini kari c\u0101lai",
+        "srcwordsbare": [
+            "j\u0101k\u016b\u0303",
+            "yahu",
+            "jaga",
+            "ghini",
+            "kari",
+            "c\u0101lai"
+        ],
+        "srcwordshtml": [
+            "j\u0101k\u016b\u0303",
+            "yahu",
+            "jaga",
+            "ghini",
+            "kari",
+            "c\u0101lai"
+        ],
+        "srcwordstex": [
+            "j\u0101k\u016b\u0303",
+            "yahu",
+            "jaga",
+            "ghini",
+            "kari",
+            "c\u0101lai"
+        ],
+        "trs": "That which this world avoids with disgust.\u2019  (\\textit{lit}. that which considering horrible the world goes by) (Kabir, verse 185.4)",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo--19759",
+        "categories": [
+            "3sg",
+            "acc",
+            "dat",
+            "dem",
+            "prs"
+        ],
+        "clength": 57,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{dem} verse \\textsc{acc} understand.\\textsc{prs.3sg} \\textsc{3sg.dat} three world think.\\textsc{prs.3sg}",
+        "imtwordsbare": [
+            "DEM",
+            "verse",
+            "ACC",
+            "understand.prs.3sg",
+            "3sg.dat",
+            "three",
+            "world",
+            "think.prs.3sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dem</span>",
+            "verse",
+            "<span class=\"sc\">acc</span>",
+            "understand.<span class=\"sc\">prs.3sg</span>",
+            "<span class=\"sc\">3sg.dat</span>",
+            "three",
+            "world",
+            "think.<span class=\"sc\">prs.3sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{dem}",
+            "verse",
+            "\\textsc{acc}",
+            "understand.\\textsc{prs.3sg}",
+            "\\textsc{3sg.dat}",
+            "three",
+            "world",
+            "think.\\textsc{prs.3sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "y\u0101 \t\tpada k\u016b\u0303 \tbujhai \tt\u0101k\u016b\u0303 \t\ttiny\u016b\u0303 tr\u012bbhuvana\ts\u016bjhai \t",
+        "srcwordsbare": [
+            "y\u0101",
+            "pada",
+            "k\u016b\u0303",
+            "bujhai",
+            "t\u0101k\u016b\u0303",
+            "tiny\u016b\u0303",
+            "tr\u012bbhuvana",
+            "s\u016bjhai"
+        ],
+        "srcwordshtml": [
+            "y\u0101",
+            "pada",
+            "k\u016b\u0303",
+            "bujhai",
+            "t\u0101k\u016b\u0303",
+            "tiny\u016b\u0303",
+            "tr\u012bbhuvana",
+            "s\u016bjhai"
+        ],
+        "srcwordstex": [
+            "y\u0101",
+            "pada",
+            "k\u016b\u0303",
+            "bujhai",
+            "t\u0101k\u016b\u0303",
+            "tiny\u016b\u0303",
+            "tr\u012bbhuvana",
+            "s\u016bjhai"
+        ],
+        "trs": "[Who] understands this pada, he knows the three worlds.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo--16908",
+        "categories": [
+            "3sg",
+            "neg",
+            "obl",
+            "pfv"
+        ],
+        "clength": 56,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{3sg.obl} \\textsc{neg} know.\\textsc{pfv} king king-\\textsc{obl} \\textsc{3sg} know.\\textsc{pfv}",
+        "imtwordsbare": [
+            "3sg.obl",
+            "NEG",
+            "know.PFV",
+            "king",
+            "king-OBL",
+            "3SG",
+            "know.PFV"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.obl</span>",
+            "<span class=\"sc\">neg</span>",
+            "know.<span class=\"sc\">pfv</span>",
+            "king",
+            "king-<span class=\"sc\">obl</span>",
+            "<span class=\"sc\">3sg</span>",
+            "know.<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.obl}",
+            "\\textsc{neg}",
+            "know.\\textsc{pfv}",
+            "king",
+            "king-\\textsc{obl}",
+            "\\textsc{3sg}",
+            "know.\\textsc{pfv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "polarity": "negative",
+        "src": "\\textbf{tehi} na j\u0101n\u0101 nr\u0325pa.\u00d8, nr\u0325pa-\\textbf{hi} so j\u0101n\u0101",
+        "srcwordsbare": [
+            "tehi",
+            "na",
+            "j\u0101n\u0101",
+            "nr\u0325pa.\u00d8,",
+            "nr\u0325pa-hi",
+            "so",
+            "j\u0101n\u0101"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">tehi</span>",
+            "na",
+            "j\u0101n\u0101",
+            "nr\u0325pa.\u00d8,",
+            "nr\u0325pa-<span class=\"bf\">hi</span>",
+            "so",
+            "j\u0101n\u0101"
+        ],
+        "srcwordstex": [
+            "\\textbf{tehi}",
+            "na",
+            "j\u0101n\u0101",
+            "nr\u0325pa.\u00d8,",
+            "nr\u0325pa-\\textbf{hi}",
+            "so",
+            "j\u0101n\u0101"
+        ],
+        "trs": "The king did not recognize him, he recognized the king.\u2019 (T 140)",
+        "wlength": 7
+    },
+    {
+        "ID": "10-mo-608686",
+        "categories": [
+            "1sg",
+            "2",
+            "obl"
+        ],
+        "clength": 58,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "said hermit king know.\\textsc{1sg} \\textsc{2.obl} {}  seem good \\textsc{1sg.obl}",
+        "imtwordsbare": [
+            "said",
+            "hermit",
+            "king",
+            "know.1SG",
+            "2.obl",
+            "{}",
+            "seem",
+            "good",
+            "1sg.obl"
+        ],
+        "imtwordshtml": [
+            "said",
+            "hermit",
+            "king",
+            "know.<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">2.obl</span>",
+            "{}",
+            "seem",
+            "good",
+            "<span class=\"sc\">1sg.obl</span>"
+        ],
+        "imtwordstex": [
+            "said",
+            "hermit",
+            "king",
+            "know.\\textsc{1sg}",
+            "\\textsc{2.obl}",
+            "{}",
+            "seem",
+            "good",
+            "\\textsc{1sg.obl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "kah\u0101 tapas nr\u0325pati.\u00d8 j\u0101na\u016b\u0303 \\textbf{tohi} \u2026 l\u0101g bhala mohi",
+        "srcwordsbare": [
+            "kah\u0101",
+            "tapas",
+            "nr\u0325pati.\u00d8",
+            "j\u0101na\u016b\u0303",
+            "tohi",
+            "\u2026",
+            "l\u0101g",
+            "bhala",
+            "mohi"
+        ],
+        "srcwordshtml": [
+            "kah\u0101",
+            "tapas",
+            "nr\u0325pati.\u00d8",
+            "j\u0101na\u016b\u0303",
+            "<span class=\"bf\">tohi</span>",
+            "\u2026",
+            "l\u0101g",
+            "bhala",
+            "mohi"
+        ],
+        "srcwordstex": [
+            "kah\u0101",
+            "tapas",
+            "nr\u0325pati.\u00d8",
+            "j\u0101na\u016b\u0303",
+            "\\textbf{tohi}",
+            "\u2026",
+            "l\u0101g",
+            "bhala",
+            "mohi"
+        ],
+        "trs": "Said the hermit: \u201cI know you as the king [this move] pleased me/I liked\u201d\u2019 (T 160)",
+        "wlength": 9
+    },
+    {
+        "ID": "10-mo--11470",
+        "categories": [
+            "cv",
+            "obl"
+        ],
+        "clength": 54,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Sun.lord-\\textsc{obl} look.\\textsc{cv} Lord-\\textsc{obl} look.\\textsc{cv}",
+        "imtwordsbare": [
+            "Sun.lord-OBL",
+            "look.CV",
+            "Lord-OBL",
+            "look.CV"
+        ],
+        "imtwordshtml": [
+            "Sun.lord-<span class=\"sc\">obl</span>",
+            "look.<span class=\"sc\">cv</span>",
+            "Lord-<span class=\"sc\">obl</span>",
+            "look.<span class=\"sc\">cv</span>"
+        ],
+        "imtwordstex": [
+            "Sun.lord-\\textsc{obl}",
+            "look.\\textsc{cv}",
+            "Lord-\\textsc{obl}",
+            "look.\\textsc{cv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "Raghupati-\\textbf{hi} nih\u0101ri prabh\u016b-\\textbf{hi} cita\u00ef.",
+        "srcwordsbare": [
+            "Raghupati-hi",
+            "nih\u0101ri",
+            "prabh\u016b-hi",
+            "cita\u00ef."
+        ],
+        "srcwordshtml": [
+            "Raghupati-<span class=\"bf\">hi</span>",
+            "nih\u0101ri",
+            "prabh\u016b-<span class=\"bf\">hi</span>",
+            "cita\u00ef."
+        ],
+        "srcwordstex": [
+            "Raghupati-\\textbf{hi}",
+            "nih\u0101ri",
+            "prabh\u016b-\\textbf{hi}",
+            "cita\u00ef."
+        ],
+        "trs": "[Sita] seeing Rama (king of sun linage).\u2019 \u2018[Sita] looking at the Lord.\u2019 (T 140)",
+        "wlength": 4
+    },
+    {
+        "ID": "10-mo-910809",
+        "categories": [
+            "cv",
+            "obl"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "Sita-\\textsc{obl} see.\\textsc{cv}",
+        "imtwordsbare": [
+            "Sita-OBL",
+            "see.CV"
+        ],
+        "imtwordshtml": [
+            "Sita-<span class=\"sc\">obl</span>",
+            "see.<span class=\"sc\">cv</span>"
+        ],
+        "imtwordstex": [
+            "Sita-\\textsc{obl}",
+            "see.\\textsc{cv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "S\u012bya-\\textbf{hi} biloki.",
+        "srcwordsbare": [
+            "S\u012bya-hi",
+            "biloki."
+        ],
+        "srcwordshtml": [
+            "S\u012bya-<span class=\"bf\">hi</span>",
+            "biloki."
+        ],
+        "srcwordstex": [
+            "S\u012bya-\\textbf{hi}",
+            "biloki."
+        ],
+        "trs": "[Ram] \u2018Looking at Sita.\u2019 (T 250)",
+        "wlength": 2
+    },
+    {
+        "ID": "10-mo--21516",
+        "categories": [
+            "2sg",
+            "obl",
+            "prs"
+        ],
+        "clength": 56,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "good-\\textsc{obl} vile vile-\\textsc{obl} good do.\\textsc{prs.2sg}",
+        "imtwordsbare": [
+            "good-OBL",
+            "vile",
+            "vile-OBL",
+            "good",
+            "do.prs.2sg"
+        ],
+        "imtwordshtml": [
+            "good-<span class=\"sc\">obl</span>",
+            "vile",
+            "vile-<span class=\"sc\">obl</span>",
+            "good",
+            "do.<span class=\"sc\">prs.2sg</span>"
+        ],
+        "imtwordstex": [
+            "good-\\textsc{obl}",
+            "vile",
+            "vile-\\textsc{obl}",
+            "good",
+            "do.\\textsc{prs.2sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "bhale-\\textbf{hi} manda manda-\\textbf{hi} bhale \tkarah\u016b\u0303",
+        "srcwordsbare": [
+            "bhale-hi",
+            "manda",
+            "manda-hi",
+            "bhale",
+            "karah\u016b\u0303"
+        ],
+        "srcwordshtml": [
+            "bhale-<span class=\"bf\">hi</span>",
+            "manda",
+            "manda-<span class=\"bf\">hi</span>",
+            "bhale",
+            "karah\u016b\u0303"
+        ],
+        "srcwordstex": [
+            "bhale-\\textbf{hi}",
+            "manda",
+            "manda-\\textbf{hi}",
+            "bhale",
+            "karah\u016b\u0303"
+        ],
+        "trs": "You debase the good man (make vile the good), you praise the vile.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--47619",
+        "categories": [
+            "cv"
+        ],
+        "clength": 61,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "boar see.\\textsc{cv} king much determined flee enter mountain.cave deep",
+        "imtwordsbare": [
+            "boar",
+            "see.CV",
+            "king",
+            "much",
+            "determined",
+            "flee",
+            "enter",
+            "mountain.cave",
+            "deep"
+        ],
+        "imtwordshtml": [
+            "boar",
+            "see.<span class=\"sc\">cv</span>",
+            "king",
+            "much",
+            "determined",
+            "flee",
+            "enter",
+            "mountain.cave",
+            "deep"
+        ],
+        "imtwordstex": [
+            "boar",
+            "see.\\textsc{cv}",
+            "king",
+            "much",
+            "determined",
+            "flee",
+            "enter",
+            "mountain.cave",
+            "deep"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "kol biloki bh\u016bpa bar\u0329a dh\u012br\u0101 bh\u0101gi pait\u0329h giriguh\u0101\u0303 \t gabh\u012bra",
+        "srcwordsbare": [
+            "kol",
+            "biloki",
+            "bh\u016bpa",
+            "bar\u0329a",
+            "dh\u012br\u0101",
+            "bh\u0101gi",
+            "pait\u0329h",
+            "giriguh\u0101\u0303",
+            "gabh\u012bra"
+        ],
+        "srcwordshtml": [
+            "kol",
+            "biloki",
+            "bh\u016bpa",
+            "bar\u0329a",
+            "dh\u012br\u0101",
+            "bh\u0101gi",
+            "pait\u0329h",
+            "giriguh\u0101\u0303",
+            "gabh\u012bra"
+        ],
+        "srcwordstex": [
+            "kol",
+            "biloki",
+            "bh\u016bpa",
+            "bar\u0329a",
+            "dh\u012br\u0101",
+            "bh\u0101gi",
+            "pait\u0329h",
+            "giriguh\u0101\u0303",
+            "gabh\u012bra"
+        ],
+        "trs": "Seeing the king so much determined the boar entered a deep cave.",
+        "wlength": 9
+    },
+    {
+        "ID": "10-mo--87464",
+        "categories": [
+            "2pl",
+            "pfv",
+            "rel"
+        ],
+        "clength": 34,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{rel} Lord \\textsc{2pl} forest roaming see.\\textsc{pfv}",
+        "imtwordsbare": [
+            "REL",
+            "Lord",
+            "2PL",
+            "forest",
+            "roaming",
+            "see.PFV"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">rel</span>",
+            "Lord",
+            "<span class=\"sc\">2pl</span>",
+            "forest",
+            "roaming",
+            "see.<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{rel}",
+            "Lord",
+            "\\textsc{2pl}",
+            "forest",
+            "roaming",
+            "see.\\textsc{pfv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "jo prabh\u016b tumah bipin phirat dekh\u0101",
+        "srcwordsbare": [
+            "jo",
+            "prabh\u016b",
+            "tumah",
+            "bipin",
+            "phirat",
+            "dekh\u0101"
+        ],
+        "srcwordshtml": [
+            "jo",
+            "prabh\u016b",
+            "tumah",
+            "bipin",
+            "phirat",
+            "dekh\u0101"
+        ],
+        "srcwordstex": [
+            "jo",
+            "prabh\u016b",
+            "tumah",
+            "bipin",
+            "phirat",
+            "dekh\u0101"
+        ],
+        "trs": "The Lord whom you saw roaming in the forest.\u2019 %(T 140)",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo-761560",
+        "categories": [
+            "1sg",
+            "cv",
+            "interj",
+            "pfv"
+        ],
+        "clength": 28,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "sister \\textsc{interj} \\textsc{1sg} take.\\textsc{pfv} Govinda buy.\\textsc{cv}",
+        "imtwordsbare": [
+            "sister",
+            "INTERJ",
+            "1SG",
+            "take.PFV",
+            "Govinda",
+            "buy.CV"
+        ],
+        "imtwordshtml": [
+            "sister",
+            "<span class=\"sc\">interj</span>",
+            "<span class=\"sc\">1sg</span>",
+            "take.<span class=\"sc\">pfv</span>",
+            "Govinda",
+            "buy.<span class=\"sc\">cv</span>"
+        ],
+        "imtwordstex": [
+            "sister",
+            "\\textsc{interj}",
+            "\\textsc{1sg}",
+            "take.\\textsc{pfv}",
+            "Govinda",
+            "buy.\\textsc{cv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "m\u0101\u012b r\u012b mh\u0101\u0303 liy\u0101 Govinda mol",
+        "srcwordsbare": [
+            "m\u0101\u012b",
+            "r\u012b",
+            "mh\u0101\u0303",
+            "liy\u0101",
+            "Govinda",
+            "mol"
+        ],
+        "srcwordshtml": [
+            "m\u0101\u012b",
+            "r\u012b",
+            "mh\u0101\u0303",
+            "liy\u0101",
+            "Govinda",
+            "mol"
+        ],
+        "srcwordstex": [
+            "m\u0101\u012b",
+            "r\u012b",
+            "mh\u0101\u0303",
+            "liy\u0101",
+            "Govinda",
+            "mol"
+        ],
+        "trs": "Sister, I bought (and took) Govinda [a name for Krishna].\u2019 (Mira Bai, 16\\textsuperscript{th} c.)",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo-518733",
+        "categories": [
+            "3m",
+            "prs",
+            "sg"
+        ],
+        "clength": 52,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "that/as heat off make \\textsc{prs.3m.sg} rose slowly slowly",
+        "imtwordsbare": [
+            "that/as",
+            "heat",
+            "off",
+            "make",
+            "prs.3m.sg",
+            "rose",
+            "slowly",
+            "slowly"
+        ],
+        "imtwordshtml": [
+            "that/as",
+            "heat",
+            "off",
+            "make",
+            "<span class=\"sc\">prs.3m.sg</span>",
+            "rose",
+            "slowly",
+            "slowly"
+        ],
+        "imtwordstex": [
+            "that/as",
+            "heat",
+            "off",
+            "make",
+            "\\textsc{prs.3m.sg}",
+            "rose",
+            "slowly",
+            "slowly"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ke \\textbf{garm\u012b} daf\u0101 kart\u0101 hai gul\u0101b \u0101hist\u0101 \u0101hist\u0101",
+        "srcwordsbare": [
+            "ke",
+            "garm\u012b",
+            "daf\u0101",
+            "kart\u0101",
+            "hai",
+            "gul\u0101b",
+            "\u0101hist\u0101",
+            "\u0101hist\u0101"
+        ],
+        "srcwordshtml": [
+            "ke",
+            "<span class=\"bf\">garm\u012b</span>",
+            "daf\u0101",
+            "kart\u0101",
+            "hai",
+            "gul\u0101b",
+            "\u0101hist\u0101",
+            "\u0101hist\u0101"
+        ],
+        "srcwordstex": [
+            "ke",
+            "\\textbf{garm\u012b}",
+            "daf\u0101",
+            "kart\u0101",
+            "hai",
+            "gul\u0101b",
+            "\u0101hist\u0101",
+            "\u0101hist\u0101"
+        ],
+        "trs": "My faithful love has quenched the fire of my love (\\textsc{foc}), as rose dispels the effect of heat, step by step.\u2019 (Wali, mid. 17\\textsuperscript{th} c.)",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo-726500",
+        "categories": [
+            "ez",
+            "neg",
+            "pfv"
+        ],
+        "clength": 50,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "when from see.\\textsc{pfv} \\textsc{neg} glance-full locks-\\textsc{ez}-scented-\\textsc{ez}-beloved",
+        "imtwordsbare": [
+            "when",
+            "from",
+            "see.PFV",
+            "NEG",
+            "glance-full",
+            "locks-EZ-scented-EZ-beloved"
+        ],
+        "imtwordshtml": [
+            "when",
+            "from",
+            "see.<span class=\"sc\">pfv</span>",
+            "<span class=\"sc\">neg</span>",
+            "glance-full",
+            "locks-<span class=\"sc\">ez</span>-scented-<span class=\"sc\">ez</span>-beloved"
+        ],
+        "imtwordstex": [
+            "when",
+            "from",
+            "see.\\textsc{pfv}",
+            "\\textsc{neg}",
+            "glance-full",
+            "locks-\\textsc{ez}-scented-\\textsc{ez}-beloved"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "polarity": "negative",
+        "src": "jab s\u00f5 dekh\u0101 nah\u012b\u0303 nazar-bhar k\u0101kul-e-mu\u015bkin-e-y\u0101r",
+        "srcwordsbare": [
+            "jab",
+            "s\u00f5",
+            "dekh\u0101",
+            "nah\u012b\u0303",
+            "nazar-bhar",
+            "k\u0101kul-e-mu\u015bkin-e-y\u0101r"
+        ],
+        "srcwordshtml": [
+            "jab",
+            "s\u00f5",
+            "dekh\u0101",
+            "nah\u012b\u0303",
+            "nazar-bhar",
+            "k\u0101kul-e-mu\u015bkin-e-y\u0101r"
+        ],
+        "srcwordstex": [
+            "jab",
+            "s\u00f5",
+            "dekh\u0101",
+            "nah\u012b\u0303",
+            "nazar-bhar",
+            "k\u0101kul-e-mu\u015bkin-e-y\u0101r"
+        ],
+        "trs": "Since I did not see fully her [my love\u2019s] scented locks (\\textsc{foc}).\u2019 (Wali, mid 17\\textsuperscript{th} c.)",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo--91042",
+        "categories": [
+            "acc",
+            "erg",
+            "indef",
+            "m",
+            "neg",
+            "pfv",
+            "rel",
+            "sg"
+        ],
+        "clength": 42,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "that \\textsc{rel.acc} \\textsc{indef.erg} ever open \\textsc{neg} see.\\textsc{pfv.m.sg}",
+        "imtwordsbare": [
+            "that",
+            "rel.acc",
+            "indef.erg",
+            "ever",
+            "open",
+            "NEG",
+            "see.pfv.m.sg"
+        ],
+        "imtwordshtml": [
+            "that",
+            "<span class=\"sc\">rel.acc</span>",
+            "<span class=\"sc\">indef.erg</span>",
+            "ever",
+            "open",
+            "<span class=\"sc\">neg</span>",
+            "see.<span class=\"sc\">pfv.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "\\textsc{rel.acc}",
+            "\\textsc{indef.erg}",
+            "ever",
+            "open",
+            "\\textsc{neg}",
+            "see.\\textsc{pfv.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ke \\textbf{jisko} kas\u012bne kabh\u012b v\u0101 na dekh\u0101",
+        "srcwordsbare": [
+            "ke",
+            "jisko",
+            "kas\u012bne",
+            "kabh\u012b",
+            "v\u0101",
+            "na",
+            "dekh\u0101"
+        ],
+        "srcwordshtml": [
+            "ke",
+            "<span class=\"bf\">jisko</span>",
+            "kas\u012bne",
+            "kabh\u012b",
+            "v\u0101",
+            "na",
+            "dekh\u0101"
+        ],
+        "srcwordstex": [
+            "ke",
+            "\\textbf{jisko}",
+            "kas\u012bne",
+            "kabh\u012b",
+            "v\u0101",
+            "na",
+            "dekh\u0101"
+        ],
+        "trs": "That which (\\textsc{acc}) nobody has seen bloom.\u2019 (\u2018which\u2019 = mer\u0101 dil \u2018my heart\u2019)",
+        "wlength": 7
+    },
+    {
+        "ID": "10-mo--78381",
+        "categories": [
+            "3fsg",
+            "acc",
+            "prs"
+        ],
+        "clength": 62,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "that/as fire flower \\textsc{acc} do \\textsc{prs.3fsg} rose slowly slowly",
+        "imtwordsbare": [
+            "that/as",
+            "fire",
+            "flower",
+            "ACC",
+            "do",
+            "prs.3fsg",
+            "rose",
+            "slowly",
+            "slowly"
+        ],
+        "imtwordshtml": [
+            "that/as",
+            "fire",
+            "flower",
+            "<span class=\"sc\">acc</span>",
+            "do",
+            "<span class=\"sc\">prs.3fsg</span>",
+            "rose",
+            "slowly",
+            "slowly"
+        ],
+        "imtwordstex": [
+            "that/as",
+            "fire",
+            "flower",
+            "\\textsc{acc}",
+            "do",
+            "\\textsc{prs.3fsg}",
+            "rose",
+            "slowly",
+            "slowly"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ke \u0101ti\u015b \\textbf{gul} \\textbf{ko} kart\u012b hai gul\u0101b \u0101hist\u0101 \u0101hist\u0101",
+        "srcwordsbare": [
+            "ke",
+            "\u0101ti\u015b",
+            "gul",
+            "ko",
+            "kart\u012b",
+            "hai",
+            "gul\u0101b",
+            "\u0101hist\u0101",
+            "\u0101hist\u0101"
+        ],
+        "srcwordshtml": [
+            "ke",
+            "\u0101ti\u015b",
+            "<span class=\"bf\">gul</span>",
+            "<span class=\"bf\">ko</span>",
+            "kart\u012b",
+            "hai",
+            "gul\u0101b",
+            "\u0101hist\u0101",
+            "\u0101hist\u0101"
+        ],
+        "srcwordstex": [
+            "ke",
+            "\u0101ti\u015b",
+            "\\textbf{gul}",
+            "\\textbf{ko}",
+            "kart\u012b",
+            "hai",
+            "gul\u0101b",
+            "\u0101hist\u0101",
+            "\u0101hist\u0101"
+        ],
+        "trs": "My love has melted the despot (made this despot water), step by step, as fire distil (make the flower rose-perfume) the essence of rose, step by step.\u2019 (Walid, mid 17\\textsuperscript{th} c.)",
+        "wlength": 9
+    },
+    {
+        "ID": "10-mo-628521",
+        "categories": [
+            "1sg",
+            "acc",
+            "f",
+            "sg"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg} Sharan.\\textsc{f.sg} \\textsc{acc} see.\\textsc{f.sg}",
+        "imtwordsbare": [
+            "1SG",
+            "Sharan.f.sg",
+            "ACC",
+            "see.f.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "Sharan.<span class=\"sc\">f.sg</span>",
+            "<span class=\"sc\">acc</span>",
+            "see.<span class=\"sc\">f.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "Sharan.\\textsc{f.sg}",
+            "\\textsc{acc}",
+            "see.\\textsc{f.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "mha\u0129 \u015baran\u0323 na\u0129 dekh\u0101",
+        "srcwordsbare": [
+            "mha\u0129",
+            "\u015baran\u0323",
+            "na\u0129",
+            "dekh\u0101"
+        ],
+        "srcwordshtml": [
+            "mha\u0129",
+            "\u015baran\u0323",
+            "na\u0129",
+            "dekh\u0101"
+        ],
+        "srcwordstex": [
+            "mha\u0129",
+            "\u015baran\u0323",
+            "na\u0129",
+            "dekh\u0101"
+        ],
+        "trs": "I have seen Sharan.",
+        "wlength": 4
+    },
+    {
+        "ID": "10-mo-154649",
+        "categories": [
+            "h",
+            "pst",
+            "sg"
+        ],
+        "clength": 44,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "1\\textsc{sg} see-\\textsc{pst}-1 1\\textsc{sg} see-\\textsc{pst}-1-3non\\textsc{h} 1\\textsc{sg} see-\\textsc{pst}-1-3\\textsc{h}",
+        "imtwordsbare": [
+            "1SG",
+            "see-PST-1",
+            "1SG",
+            "see-PST-1-3nonH",
+            "1SG",
+            "see-PST-1-3H"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "see-<span class=\"sc\">pst</span>-1",
+            "1<span class=\"sc\">sg</span>",
+            "see-<span class=\"sc\">pst</span>-1-3non<span class=\"sc\">h</span>",
+            "1<span class=\"sc\">sg</span>",
+            "see-<span class=\"sc\">pst</span>-1-3<span class=\"sc\">h</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "see-\\textsc{pst}-1",
+            "1\\textsc{sg}",
+            "see-\\textsc{pst}-1-3non\\textsc{h}",
+            "1\\textsc{sg}",
+            "see-\\textsc{pst}-1-3\\textsc{h}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ham dekh-l-i ham dekh-l-i-a ham dekh-l-i-ain",
+        "srcwordsbare": [
+            "ham",
+            "dekh-l-i",
+            "ham",
+            "dekh-l-i-a",
+            "ham",
+            "dekh-l-i-ain"
+        ],
+        "srcwordshtml": [
+            "ham",
+            "dekh-l-i",
+            "ham",
+            "dekh-l-i-a",
+            "ham",
+            "dekh-l-i-ain"
+        ],
+        "srcwordstex": [
+            "ham",
+            "dekh-l-i",
+            "ham",
+            "dekh-l-i-a",
+            "ham",
+            "dekh-l-i-ain"
+        ],
+        "trs": "I saw it.\u2019 \u2018I saw him (servant).\u2019 \u2018I saw him (guru).",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo-507798",
+        "categories": [
+            "erg",
+            "m",
+            "pfv",
+            "pl",
+            "sg"
+        ],
+        "clength": 37,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "my companion.\\textsc{m.pl.erg} one Brahmin seize.\\textsc{pfv.m.sg}",
+        "imtwordsbare": [
+            "my",
+            "companion.m.pl.erg",
+            "one",
+            "Brahmin",
+            "seize.pfv.m.sg"
+        ],
+        "imtwordshtml": [
+            "my",
+            "companion.<span class=\"sc\">m.pl.erg</span>",
+            "one",
+            "Brahmin",
+            "seize.<span class=\"sc\">pfv.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "my",
+            "companion.\\textsc{m.pl.erg}",
+            "one",
+            "Brahmin",
+            "seize.\\textsc{pfv.m.sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "my\u0101r\u0101 dagar\u0329iyana.le ek b\u0101man pakar\u0329o",
+        "srcwordsbare": [
+            "my\u0101r\u0101",
+            "dagar\u0329iyana.le",
+            "ek",
+            "b\u0101man",
+            "pakar\u0329o"
+        ],
+        "srcwordshtml": [
+            "my\u0101r\u0101",
+            "dagar\u0329iyana.le",
+            "ek",
+            "b\u0101man",
+            "pakar\u0329o"
+        ],
+        "srcwordstex": [
+            "my\u0101r\u0101",
+            "dagar\u0329iyana.le",
+            "ek",
+            "b\u0101man",
+            "pakar\u0329o"
+        ],
+        "trs": "My companions captured a Brahmin.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-843356",
+        "categories": [
+            "erg",
+            "pfv"
+        ],
+        "clength": 48,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "earth.on too this mountain our place.to.live make.\\textsc{pfv} god.\\textsc{erg}",
+        "imtwordsbare": [
+            "earth.on",
+            "too",
+            "this",
+            "mountain",
+            "our",
+            "place.to.live",
+            "make.PFV",
+            "god.ERG"
+        ],
+        "imtwordshtml": [
+            "earth.on",
+            "too",
+            "this",
+            "mountain",
+            "our",
+            "place.to.live",
+            "make.<span class=\"sc\">pfv</span>",
+            "god.<span class=\"sc\">erg</span>"
+        ],
+        "imtwordstex": [
+            "earth.on",
+            "too",
+            "this",
+            "mountain",
+            "our",
+            "place.to.live",
+            "make.\\textsc{pfv}",
+            "god.\\textsc{erg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "prithvi.m lag yo pah\u0101r\u0329 ham\u0101r\u012b th\u0101t\u012b raci dev.le",
+        "srcwordsbare": [
+            "prithvi.m",
+            "lag",
+            "yo",
+            "pah\u0101r\u0329",
+            "ham\u0101r\u012b",
+            "th\u0101t\u012b",
+            "raci",
+            "dev.le"
+        ],
+        "srcwordshtml": [
+            "prithvi.m",
+            "lag",
+            "yo",
+            "pah\u0101r\u0329",
+            "ham\u0101r\u012b",
+            "th\u0101t\u012b",
+            "raci",
+            "dev.le"
+        ],
+        "srcwordstex": [
+            "prithvi.m",
+            "lag",
+            "yo",
+            "pah\u0101r\u0329",
+            "ham\u0101r\u012b",
+            "th\u0101t\u012b",
+            "raci",
+            "dev.le"
+        ],
+        "trs": "God made this mountain a place to live for us on earth too.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo-703385",
+        "categories": [
+            "3sg",
+            "acc",
+            "all",
+            "dem",
+            "pfv",
+            "refl"
+        ],
+        "clength": 40,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "then \\textsc{3sg} \\textsc{dem} load \\textsc{acc} \\textsc{refl} home \\textsc{all} take come.\\textsc{pfv}",
+        "imtwordsbare": [
+            "then",
+            "3SG",
+            "DEM",
+            "load",
+            "ACC",
+            "REFL",
+            "home",
+            "ALL",
+            "take",
+            "come.PFV"
+        ],
+        "imtwordshtml": [
+            "then",
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">dem</span>",
+            "load",
+            "<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">refl</span>",
+            "home",
+            "<span class=\"sc\">all</span>",
+            "take",
+            "come.<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "then",
+            "\\textsc{3sg}",
+            "\\textsc{dem}",
+            "load",
+            "\\textsc{acc}",
+            "\\textsc{refl}",
+            "home",
+            "\\textsc{all}",
+            "take",
+            "come.\\textsc{pfv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "tab \u016b w\u012b bwaj kan\u0329i apan ghar huni l\u012b \u0101y",
+        "srcwordsbare": [
+            "tab",
+            "\u016b",
+            "w\u012b",
+            "bwaj",
+            "kan\u0329i",
+            "apan",
+            "ghar",
+            "huni",
+            "l\u012b",
+            "\u0101y"
+        ],
+        "srcwordshtml": [
+            "tab",
+            "\u016b",
+            "w\u012b",
+            "bwaj",
+            "kan\u0329i",
+            "apan",
+            "ghar",
+            "huni",
+            "l\u012b",
+            "\u0101y"
+        ],
+        "srcwordstex": [
+            "tab",
+            "\u016b",
+            "w\u012b",
+            "bwaj",
+            "kan\u0329i",
+            "apan",
+            "ghar",
+            "huni",
+            "l\u012b",
+            "\u0101y"
+        ],
+        "trs": "Then he brought this load to his house.",
+        "wlength": 10
+    },
+    {
+        "ID": "10-mo-917028",
+        "categories": [
+            "1sg",
+            "acc",
+            "erg",
+            "ins",
+            "pfv"
+        ],
+        "clength": 35,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{1sg.erg} child \\textsc{acc} cane \\textsc{ins} strike.\\textsc{pfv}",
+        "imtwordsbare": [
+            "1sg.erg",
+            "child",
+            "ACC",
+            "cane",
+            "INS",
+            "strike.PFV"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.erg</span>",
+            "child",
+            "<span class=\"sc\">acc</span>",
+            "cane",
+            "<span class=\"sc\">ins</span>",
+            "strike.<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.erg}",
+            "child",
+            "\\textsc{acc}",
+            "cane",
+            "\\textsc{ins}",
+            "strike.\\textsc{pfv}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "{m\u012b.le naunai *san\u0329\u012b ba\u0129t\u0329 le m\u0101re}",
+        "srcwordsbare": [
+            "{m\u012b.le",
+            "naunai",
+            "*san\u0329\u012b",
+            "ba\u0129t\u0329",
+            "le",
+            "m\u0101re}"
+        ],
+        "srcwordshtml": [
+            "{m\u012b.le",
+            "naunai",
+            "*san\u0329\u012b",
+            "ba\u0129t\u0329",
+            "le",
+            "m\u0101re}"
+        ],
+        "srcwordstex": [
+            "{m\u012b.le",
+            "naunai",
+            "*san\u0329\u012b",
+            "ba\u0129t\u0329",
+            "le",
+            "m\u0101re}"
+        ],
+        "trs": "I hit the boy with a cane.",
+        "wlength": 6
+    },
+    {
+        "ID": "10-mo-284712",
+        "categories": [
+            "3sg",
+            "acc",
+            "dem",
+            "erg"
+        ],
+        "clength": 44,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{3sg-erg} sattu \\textsc{acc} \\textsc{dem} lake in throw gave",
+        "imtwordsbare": [
+            "3sg-erg",
+            "sattu",
+            "ACC",
+            "DEM",
+            "lake",
+            "in",
+            "throw",
+            "gave"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg-erg</span>",
+            "sattu",
+            "<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">dem</span>",
+            "lake",
+            "in",
+            "throw",
+            "gave"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg-erg}",
+            "sattu",
+            "\\textsc{acc}",
+            "\\textsc{dem}",
+            "lake",
+            "in",
+            "throw",
+            "gave"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "ve-na sattu san\u0329\u012b ve talau m\u0101 d\u0329\u0101l dini/dine",
+        "srcwordsbare": [
+            "ve-na",
+            "sattu",
+            "san\u0329\u012b",
+            "ve",
+            "talau",
+            "m\u0101",
+            "d\u0329\u0101l",
+            "dini/dine"
+        ],
+        "srcwordshtml": [
+            "ve-na",
+            "sattu",
+            "san\u0329\u012b",
+            "ve",
+            "talau",
+            "m\u0101",
+            "d\u0329\u0101l",
+            "dini/dine"
+        ],
+        "srcwordstex": [
+            "ve-na",
+            "sattu",
+            "san\u0329\u012b",
+            "ve",
+            "talau",
+            "m\u0101",
+            "d\u0329\u0101l",
+            "dini/dine"
+        ],
+        "trs": "He threw the sattu (a sort of cereal) in the lake.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo--44907",
+        "categories": [
+            "1sg",
+            "fut",
+            "neg"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "girl \\textsc{1sg} go \\textsc{neg} give.\\textsc{fut.1sg}",
+        "imtwordsbare": [
+            "girl",
+            "1SG",
+            "go",
+            "NEG",
+            "give.fut.1sg"
+        ],
+        "imtwordshtml": [
+            "girl",
+            "<span class=\"sc\">1sg</span>",
+            "go",
+            "<span class=\"sc\">neg</span>",
+            "give.<span class=\"sc\">fut.1sg</span>"
+        ],
+        "imtwordstex": [
+            "girl",
+            "\\textsc{1sg}",
+            "go",
+            "\\textsc{neg}",
+            "give.\\textsc{fut.1sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "chorie, mu j\u0101n\u0329 na deule",
+        "srcwordsbare": [
+            "chorie,",
+            "mu",
+            "j\u0101n\u0329",
+            "na",
+            "deule"
+        ],
+        "srcwordshtml": [
+            "chorie,",
+            "mu",
+            "j\u0101n\u0329",
+            "na",
+            "deule"
+        ],
+        "srcwordstex": [
+            "chorie,",
+            "mu",
+            "j\u0101n\u0329",
+            "na",
+            "deule"
+        ],
+        "trs": "girl, I won\u2019t let you go.\u2019  (GCT 124)",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-538792",
+        "categories": [
+            "1sg",
+            "fut",
+            "neg"
+        ],
+        "clength": 41,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "your father here call.\\textsc{fut} \\textsc{1sg} go \\textsc{neg} give.\\textsc{fut.1sg}",
+        "imtwordsbare": [
+            "your",
+            "father",
+            "here",
+            "call.FUT",
+            "1SG",
+            "go",
+            "NEG",
+            "give.fut.1sg"
+        ],
+        "imtwordshtml": [
+            "your",
+            "father",
+            "here",
+            "call.<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">1sg</span>",
+            "go",
+            "<span class=\"sc\">neg</span>",
+            "give.<span class=\"sc\">fut.1sg</span>"
+        ],
+        "imtwordstex": [
+            "your",
+            "father",
+            "here",
+            "call.\\textsc{fut}",
+            "\\textsc{1sg}",
+            "go",
+            "\\textsc{neg}",
+            "give.\\textsc{fut.1sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "tero b\u0101p\u016b yakh\u012b bulaulo, mu j\u0101n\u0329 na deule",
+        "srcwordsbare": [
+            "tero",
+            "b\u0101p\u016b",
+            "yakh\u012b",
+            "bulaulo,",
+            "mu",
+            "j\u0101n\u0329",
+            "na",
+            "deule"
+        ],
+        "srcwordshtml": [
+            "tero",
+            "b\u0101p\u016b",
+            "yakh\u012b",
+            "bulaulo,",
+            "mu",
+            "j\u0101n\u0329",
+            "na",
+            "deule"
+        ],
+        "srcwordstex": [
+            "tero",
+            "b\u0101p\u016b",
+            "yakh\u012b",
+            "bulaulo,",
+            "mu",
+            "j\u0101n\u0329",
+            "na",
+            "deule"
+        ],
+        "trs": "I will invite your father, I won\u2019t let you go.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo-545875",
+        "categories": [
+            "1sg",
+            "cond",
+            "dat",
+            "fut",
+            "neg",
+            "refl"
+        ],
+        "clength": 45,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{refl} male-child \\textsc{1sg.dat} give.\\textsc{cond.1sg} \\textsc{refl} male.child \\textsc{neg} give.\\textsc{fut.1sg}",
+        "imtwordsbare": [
+            "REFL",
+            "male-child",
+            "1sg.dat",
+            "give.cond.1sg",
+            "REFL",
+            "male.child",
+            "NEG",
+            "give.fut.1sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">refl</span>",
+            "male-child",
+            "<span class=\"sc\">1sg.dat</span>",
+            "give.<span class=\"sc\">cond.1sg</span>",
+            "<span class=\"sc\">refl</span>",
+            "male.child",
+            "<span class=\"sc\">neg</span>",
+            "give.<span class=\"sc\">fut.1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{refl}",
+            "male-child",
+            "\\textsc{1sg.dat}",
+            "give.\\textsc{cond.1sg}",
+            "\\textsc{refl}",
+            "male.child",
+            "\\textsc{neg}",
+            "give.\\textsc{fut.1sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "polarity": "negative",
+        "src": "apn\u0101 b\u0101laka mohi d\u012bte, apn\u0101 b\u0101laka nah\u012b\u0303 debo",
+        "srcwordsbare": [
+            "apn\u0101",
+            "b\u0101laka",
+            "mohi",
+            "d\u012bte,",
+            "apn\u0101",
+            "b\u0101laka",
+            "nah\u012b\u0303",
+            "debo"
+        ],
+        "srcwordshtml": [
+            "apn\u0101",
+            "b\u0101laka",
+            "mohi",
+            "d\u012bte,",
+            "apn\u0101",
+            "b\u0101laka",
+            "nah\u012b\u0303",
+            "debo"
+        ],
+        "srcwordstex": [
+            "apn\u0101",
+            "b\u0101laka",
+            "mohi",
+            "d\u012bte,",
+            "apn\u0101",
+            "b\u0101laka",
+            "nah\u012b\u0303",
+            "debo"
+        ],
+        "trs": "If you give me your son \u2013 I will not give [you] my son.",
+        "wlength": 8
+    },
+    {
+        "ID": "10-mo--63008",
+        "categories": [
+            "2sg",
+            "acc",
+            "imp",
+            "refl"
+        ],
+        "clength": 22,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{2sg} \\textsc{refl} boy \\textsc{acc} send.\\textsc{imp}",
+        "imtwordsbare": [
+            "2SG",
+            "REFL",
+            "boy",
+            "ACC",
+            "send.IMP"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">refl</span>",
+            "boy",
+            "<span class=\"sc\">acc</span>",
+            "send.<span class=\"sc\">imp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "\\textsc{refl}",
+            "boy",
+            "\\textsc{acc}",
+            "send.\\textsc{imp}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "t\u016b apn\u0101 la\u00efk\u0101 ke bhej\u0101",
+        "srcwordsbare": [
+            "t\u016b",
+            "apn\u0101",
+            "la\u00efk\u0101",
+            "ke",
+            "bhej\u0101"
+        ],
+        "srcwordshtml": [
+            "t\u016b",
+            "apn\u0101",
+            "la\u00efk\u0101",
+            "ke",
+            "bhej\u0101"
+        ],
+        "srcwordstex": [
+            "t\u016b",
+            "apn\u0101",
+            "la\u00efk\u0101",
+            "ke",
+            "bhej\u0101"
+        ],
+        "trs": "Send your son.",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--23532",
+        "categories": [
+            "1sg",
+            "3sg",
+            "pst",
+            "v"
+        ],
+        "clength": 19,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "(\\textsc{1sg}) see-\\textsc{pst-1sg-v-3sg}",
+        "imtwordsbare": [
+            "(1SG)",
+            "see-pst-1sg-v-3sg"
+        ],
+        "imtwordshtml": [
+            "(<span class=\"sc\">1sg</span>)",
+            "see-<span class=\"sc\">pst-1sg-v-3sg</span>"
+        ],
+        "imtwordstex": [
+            "(\\textsc{1sg})",
+            "see-\\textsc{pst-1sg-v-3sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "(in) lel-jad-in-a-e",
+        "srcwordsbare": [
+            "(in)",
+            "lel-jad-in-a-e"
+        ],
+        "srcwordshtml": [
+            "(in)",
+            "lel-jad-in-a-e"
+        ],
+        "srcwordstex": [
+            "(in)",
+            "lel-jad-in-a-e"
+        ],
+        "trs": "He saw me\u2019 (V marks the predicative function, in a language with no noun-verb polarity)",
+        "wlength": 2
+    },
+    {
+        "ID": "10-mo--52460",
+        "categories": [
+            "1sg",
+            "2sg",
+            "prs",
+            "v"
+        ],
+        "clength": 20,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "(\\textsc{1sg}) give-\\textsc{2sg-prs-v-1sg}",
+        "imtwordsbare": [
+            "(1SG)",
+            "give-2sg-prs-v-1sg"
+        ],
+        "imtwordshtml": [
+            "(<span class=\"sc\">1sg</span>)",
+            "give-<span class=\"sc\">2sg-prs-v-1sg</span>"
+        ],
+        "imtwordstex": [
+            "(\\textsc{1sg})",
+            "give-\\textsc{2sg-prs-v-1sg}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "(in) om-am-tan-a-in~",
+        "srcwordsbare": [
+            "(in)",
+            "om-am-tan-a-in~"
+        ],
+        "srcwordshtml": [
+            "(in)",
+            "om-am-tan-a-in~"
+        ],
+        "srcwordstex": [
+            "(in)",
+            "om-am-tan-a-in~"
+        ],
+        "trs": "I give (it/them) to you",
+        "wlength": 2
+    },
+    {
+        "ID": "10-mo--66165",
+        "categories": [
+            "loc"
+        ],
+        "clength": 22,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "road \\textsc{loc} pure water",
+        "imtwordsbare": [
+            "road",
+            "LOC",
+            "pure",
+            "water"
+        ],
+        "imtwordshtml": [
+            "road",
+            "<span class=\"sc\">loc</span>",
+            "pure",
+            "water"
+        ],
+        "imtwordstex": [
+            "road",
+            "\\textsc{loc}",
+            "pure",
+            "water"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "c\u0101r\u0101\u00ef na\u00ef nirmala n\u012bra",
+        "srcwordsbare": [
+            "c\u0101r\u0101\u00ef",
+            "na\u00ef",
+            "nirmala",
+            "n\u012bra"
+        ],
+        "srcwordshtml": [
+            "c\u0101r\u0101\u00ef",
+            "na\u00ef",
+            "nirmala",
+            "n\u012bra"
+        ],
+        "srcwordstex": [
+            "c\u0101r\u0101\u00ef",
+            "na\u00ef",
+            "nirmala",
+            "n\u012bra"
+        ],
+        "trs": "A limpid lake close by the road",
+        "wlength": 4
+    },
+    {
+        "ID": "10-mo-310287",
+        "categories": [
+            "loc/all",
+            "m",
+            "pl"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "come.\\textsc{m.pl} king \\textsc{loc/all}",
+        "imtwordsbare": [
+            "come.m.pl",
+            "king",
+            "LOC/ALL"
+        ],
+        "imtwordshtml": [
+            "come.<span class=\"sc\">m.pl</span>",
+            "king",
+            "<span class=\"sc\">loc/all</span>"
+        ],
+        "imtwordstex": [
+            "come.\\textsc{m.pl}",
+            "king",
+            "\\textsc{loc/all}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "\u0101\u0303vy\u0101 \tr\u0101 \tkan\u0329hai",
+        "srcwordsbare": [
+            "\u0101\u0303vy\u0101",
+            "r\u0101",
+            "kan\u0329hai"
+        ],
+        "srcwordshtml": [
+            "\u0101\u0303vy\u0101",
+            "r\u0101",
+            "kan\u0329hai"
+        ],
+        "srcwordstex": [
+            "\u0101\u0303vy\u0101",
+            "r\u0101",
+            "kan\u0329hai"
+        ],
+        "trs": "[They] went to the Raja (king)",
+        "wlength": 3
+    },
+    {
+        "ID": "10-mo--60829",
+        "categories": [
+            "1sg",
+            "3pl",
+            "loc/all",
+            "obl",
+            "prs"
+        ],
+        "clength": 34,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "\\textsc{3pl} all.\\textsc{obl} \\textsc{loc/all} do.\\textsc{prs.1sg} salutation",
+        "imtwordsbare": [
+            "3PL",
+            "all.OBL",
+            "LOC/ALL",
+            "do.prs.1sg",
+            "salutation"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "all.<span class=\"sc\">obl</span>",
+            "<span class=\"sc\">loc/all</span>",
+            "do.<span class=\"sc\">prs.1sg</span>",
+            "salutation"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "all.\\textsc{obl}",
+            "\\textsc{loc/all}",
+            "do.\\textsc{prs.1sg}",
+            "salutation"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "te \tsavih\u016b\u0303  \tna\u00ef \tkarau\u0303 \tparan\u0101m",
+        "srcwordsbare": [
+            "te",
+            "savih\u016b\u0303",
+            "na\u00ef",
+            "karau\u0303",
+            "paran\u0101m"
+        ],
+        "srcwordshtml": [
+            "te",
+            "savih\u016b\u0303",
+            "na\u00ef",
+            "karau\u0303",
+            "paran\u0101m"
+        ],
+        "srcwordstex": [
+            "te",
+            "savih\u016b\u0303",
+            "na\u00ef",
+            "karau\u0303",
+            "paran\u0101m"
+        ],
+        "trs": "I bow to all of them (in front of/ for)",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-568010",
+        "categories": [
+            "3sg",
+            "abl",
+            "acc",
+            "imp"
+        ],
+        "clength": 20,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "money \\textsc{acc} \\textsc{3sg-abl} take take.\\textsc{imp}",
+        "imtwordsbare": [
+            "money",
+            "ACC",
+            "3sg-abl",
+            "take",
+            "take.IMP"
+        ],
+        "imtwordshtml": [
+            "money",
+            "<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">3sg-abl</span>",
+            "take",
+            "take.<span class=\"sc\">imp</span>"
+        ],
+        "imtwordstex": [
+            "money",
+            "\\textsc{acc}",
+            "\\textsc{3sg-abl}",
+            "take",
+            "take.\\textsc{imp}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "rupay t\u012b us-t\u012b le lo",
+        "srcwordsbare": [
+            "rupay",
+            "t\u012b",
+            "us-t\u012b",
+            "le",
+            "lo"
+        ],
+        "srcwordshtml": [
+            "rupay",
+            "t\u012b",
+            "us-t\u012b",
+            "le",
+            "lo"
+        ],
+        "srcwordstex": [
+            "rupay",
+            "t\u012b",
+            "us-t\u012b",
+            "le",
+            "lo"
+        ],
+        "trs": "Take the money from him\u2019 \\citep[177]{Tiwari1955Hindi}",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo-877508",
+        "categories": [
+            "acc",
+            "ins"
+        ],
+        "clength": 25,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "dog \\textsc{acc} stick \\textsc{ins} strike.\\textsc{ins}",
+        "imtwordsbare": [
+            "dog",
+            "ACC",
+            "stick",
+            "INS",
+            "strike.INS"
+        ],
+        "imtwordshtml": [
+            "dog",
+            "<span class=\"sc\">acc</span>",
+            "stick",
+            "<span class=\"sc\">ins</span>",
+            "strike.<span class=\"sc\">ins</span>"
+        ],
+        "imtwordstex": [
+            "dog",
+            "\\textsc{acc}",
+            "stick",
+            "\\textsc{ins}",
+            "strike.\\textsc{ins}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "kutte nae dande nae m\u0101rya",
+        "srcwordsbare": [
+            "kutte",
+            "nae",
+            "dande",
+            "nae",
+            "m\u0101rya"
+        ],
+        "srcwordshtml": [
+            "kutte",
+            "nae",
+            "dande",
+            "nae",
+            "m\u0101rya"
+        ],
+        "srcwordstex": [
+            "kutte",
+            "nae",
+            "dande",
+            "nae",
+            "m\u0101rya"
+        ],
+        "trs": "Strike the dog with the stick\u2019 \\citep{Singh1970Descriptive}",
+        "wlength": 5
+    },
+    {
+        "ID": "10-mo--13038",
+        "categories": [
+            "3m",
+            "erg",
+            "m",
+            "pl",
+            "prsumpt"
+        ],
+        "clength": 23,
+        "filename": "173/chapters/10-mo.tex",
+        "imt": "child.\\textsc{m.pl} \\textsc{erg} break \\textsc{prsumpt.3m.pl}",
+        "imtwordsbare": [
+            "child.m.pl",
+            "ERG",
+            "break",
+            "prsumpt.3m.pl"
+        ],
+        "imtwordshtml": [
+            "child.<span class=\"sc\">m.pl</span>",
+            "<span class=\"sc\">erg</span>",
+            "break",
+            "<span class=\"sc\">prsumpt.3m.pl</span>"
+        ],
+        "imtwordstex": [
+            "child.\\textsc{m.pl}",
+            "\\textsc{erg}",
+            "break",
+            "\\textsc{prsumpt.3m.pl}"
+        ],
+        "language": "173/chapters/10-mo.tex",
+        "src": "balk\u0101 nae tor\u0329iy\u0101 honge",
+        "srcwordsbare": [
+            "balk\u0101",
+            "nae",
+            "tor\u0329iy\u0101",
+            "honge"
+        ],
+        "srcwordshtml": [
+            "balk\u0101",
+            "nae",
+            "tor\u0329iy\u0101",
+            "honge"
+        ],
+        "srcwordstex": [
+            "balk\u0101",
+            "nae",
+            "tor\u0329iy\u0101",
+            "honge"
+        ],
+        "trs": "The children have probably broken [it]\u2019 \\citep{Singh1970Descriptive}",
+        "wlength": 4
+    }
+]

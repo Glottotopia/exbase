@@ -1,0 +1,3671 @@
+[
+    {
+        "ID": "arka--91522",
+        "categories": [
+            "def",
+            "lig",
+            "mid",
+            "part"
+        ],
+        "clength": 42,
+        "filename": "201/chapters/arka.tex",
+        "imt": "2 \\textsc{part} \\textsc{mid}.debt \\textsc{part} 2 to child-2-\\textsc{lig}-\\textsc{def}",
+        "imtwordsbare": [
+            "2",
+            "PART",
+            "MID.debt",
+            "PART",
+            "2",
+            "to",
+            "child-2-LIG-DEF"
+        ],
+        "imtwordshtml": [
+            "2",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">mid</span>.debt",
+            "<span class=\"sc\">part</span>",
+            "2",
+            "to",
+            "child-2-<span class=\"sc\">lig</span>-<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "2",
+            "\\textsc{part}",
+            "\\textsc{mid}.debt",
+            "\\textsc{part}",
+            "2",
+            "to",
+            "child-2-\\textsc{lig}-\\textsc{def}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Engko sa mutang sa engko k\u00e9n panak-mu-n-e.",
+        "srcwordsbare": [
+            "Engko",
+            "sa",
+            "mutang",
+            "sa",
+            "engko",
+            "k\u00e9n",
+            "panak-mu-n-e."
+        ],
+        "srcwordshtml": [
+            "Engko",
+            "sa",
+            "mutang",
+            "sa",
+            "engko",
+            "k\u00e9n",
+            "panak-mu-n-e."
+        ],
+        "srcwordstex": [
+            "Engko",
+            "sa",
+            "mutang",
+            "sa",
+            "engko",
+            "k\u00e9n",
+            "panak-mu-n-e."
+        ],
+        "trs": "You still owe your son/daughter (a ritual).\u2019 \\citep{Sedeng2007}",
+        "wlength": 7
+    },
+    {
+        "ID": "arka--11773",
+        "categories": [
+            "caus",
+            "sg",
+            "uv"
+        ],
+        "clength": 62,
+        "filename": "201/chapters/arka.tex",
+        "imt": "really  2\\textsc{sg}  want {} \\textsc{uv}.dead-\\textsc{caus}  1\\textsc{sg}",
+        "imtwordsbare": [
+            "really",
+            "2SG",
+            "want",
+            "{}",
+            "UV.dead-CAUS",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "really",
+            "2<span class=\"sc\">sg</span>",
+            "want",
+            "{}",
+            "<span class=\"sc\">uv</span>.dead-<span class=\"sc\">caus</span>",
+            "1<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "really",
+            "2\\textsc{sg}",
+            "want",
+            "{}",
+            "\\textsc{uv}.dead-\\textsc{caus}",
+            "1\\textsc{sg}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "modality": "volitive",
+        "src": "Saking  engko  dot  {\\ob}\\_\\_   mati-ang    ok\u00e9{\\cb}{\\USQMark}",
+        "srcwordsbare": [
+            "Saking",
+            "engko",
+            "dot",
+            "[__",
+            "mati-ang",
+            "ok\u00e9]{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Saking",
+            "engko",
+            "dot",
+            "[__",
+            "mati-ang",
+            "ok\u00e9]{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Saking",
+            "engko",
+            "dot",
+            "{\\ob}\\_\\_",
+            "mati-ang",
+            "ok\u00e9{\\cb}{\\USQMark}"
+        ],
+        "trs": "You really want me to kill you?",
+        "wlength": 6
+    },
+    {
+        "ID": "arka--54747",
+        "categories": [
+            "art",
+            "av",
+            "caus",
+            "def"
+        ],
+        "clength": 60,
+        "filename": "201/chapters/arka.tex",
+        "imt": "person-\\textsc{def}  want {} \\textsc{av}.dead-\\textsc{caus}  \\textsc{art}  giant",
+        "imtwordsbare": [
+            "person-DEF",
+            "want",
+            "{}",
+            "AV.dead-CAUS",
+            "ART",
+            "giant"
+        ],
+        "imtwordshtml": [
+            "person-<span class=\"sc\">def</span>",
+            "want",
+            "{}",
+            "<span class=\"sc\">av</span>.dead-<span class=\"sc\">caus</span>",
+            "<span class=\"sc\">art</span>",
+            "giant"
+        ],
+        "imtwordstex": [
+            "person-\\textsc{def}",
+            "want",
+            "{}",
+            "\\textsc{av}.dead-\\textsc{caus}",
+            "\\textsc{art}",
+            "giant"
+        ],
+        "language": "201/chapters/arka.tex",
+        "modality": "volitive",
+        "src": "Glema-n\u00e9n\u00e9  nagih  {\\ob}\\_\\_  ngmati-ang   i  rangsasa{\\cb}.",
+        "srcwordsbare": [
+            "Glema-n\u00e9n\u00e9",
+            "nagih",
+            "[__",
+            "ngmati-ang",
+            "i",
+            "rangsasa]."
+        ],
+        "srcwordshtml": [
+            "Glema-n\u00e9n\u00e9",
+            "nagih",
+            "[__",
+            "ngmati-ang",
+            "i",
+            "rangsasa]."
+        ],
+        "srcwordstex": [
+            "Glema-n\u00e9n\u00e9",
+            "nagih",
+            "{\\ob}\\_\\_",
+            "ngmati-ang",
+            "i",
+            "rangsasa{\\cb}."
+        ],
+        "trs": "This person wants to kill the giant.\u2019 \\citep[135]{Sedeng2007}",
+        "wlength": 6
+    },
+    {
+        "ID": "arka--23116",
+        "categories": [
+            "fut",
+            "mid"
+        ],
+        "clength": 125,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[[}again  when  {\\ob}kid  \\textsc{fut}  \\textsc{mid}.go.sightseeing",
+        "imtwordsbare": [
+            "\\phantom{[[}again",
+            "when",
+            "[kid",
+            "FUT",
+            "MID.go.sightseeing"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[[}again",
+            "when",
+            "[kid",
+            "<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">mid</span>.go.sightseeing"
+        ],
+        "imtwordstex": [
+            "\\phantom{[[}again",
+            "when",
+            "{\\ob}kid",
+            "\\textsc{fut}",
+            "\\textsc{mid}.go.sightseeing"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}{\\ob}Buwin pidan{\\cb}\\textsubscript{Foc} {\\ob}cening lakar mlali{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}{\\USQMark}",
+        "srcwordsbare": [
+            "[[Buwin",
+            "pidan]Foc",
+            "[cening",
+            "lakar",
+            "mlali]IP]CP{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "[[Buwin",
+            "pidan]<span class=\"subscript\">Foc</span>",
+            "[cening",
+            "lakar",
+            "mlali]<span class=\"subscript\">IP</span>]<span class=\"subscript\">CP</span>{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "{\\ob}{\\ob}Buwin",
+            "pidan{\\cb}\\textsubscript{Foc}",
+            "{\\ob}cening",
+            "lakar",
+            "mlali{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}{\\USQMark}"
+        ],
+        "trs": "When again will you go (there)?",
+        "wlength": 5
+    },
+    {
+        "ID": "arka-216483",
+        "categories": [
+            "fut",
+            "mid"
+        ],
+        "clength": 187,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[[}as.for  kid  \\phantom{[}again  when {} \\textsc{fut} \\textsc{mid}.sightseeing",
+        "imtwordsbare": [
+            "\\phantom{[[}as.for",
+            "kid",
+            "\\phantom{[}again",
+            "when",
+            "{}",
+            "FUT",
+            "MID.sightseeing"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[[}as.for",
+            "kid",
+            "\\phantom{[}again",
+            "when",
+            "{}",
+            "<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">mid</span>.sightseeing"
+        ],
+        "imtwordstex": [
+            "\\phantom{[[}as.for",
+            "kid",
+            "\\phantom{[}again",
+            "when",
+            "{}",
+            "\\textsc{fut}",
+            "\\textsc{mid}.sightseeing"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}{\\ob}{\\USOParen}En{\\USCParen} cening{\\cb}\\textsubscript{Top}, {\\ob}buwin   pidan{\\cb}\\textsubscript{Foc}  {\\ob}\\_ lakar  mlali{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}{\\USQMark}",
+        "srcwordsbare": [
+            "[[{\\USOParen}En{\\USCParen}",
+            "cening]Top,",
+            "[buwin",
+            "pidan]Foc",
+            "[_",
+            "lakar",
+            "mlali]IP]CP{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "[[{\\USOParen}En{\\USCParen}",
+            "cening]<span class=\"subscript\">Top</span>,",
+            "[buwin",
+            "pidan]<span class=\"subscript\">Foc</span>",
+            "[_",
+            "lakar",
+            "mlali]<span class=\"subscript\">IP</span>]<span class=\"subscript\">CP</span>{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "{\\ob}{\\ob}{\\USOParen}En{\\USCParen}",
+            "cening{\\cb}\\textsubscript{Top},",
+            "{\\ob}buwin",
+            "pidan{\\cb}\\textsubscript{Foc}",
+            "{\\ob}\\_",
+            "lakar",
+            "mlali{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}{\\USQMark}"
+        ],
+        "trs": "As for you, kid, when again will you go (there)?",
+        "wlength": 7
+    },
+    {
+        "ID": "arka-176939",
+        "categories": [
+            "av",
+            "sg"
+        ],
+        "clength": 116,
+        "filename": "201/chapters/arka.tex",
+        "imt": "mother  yesterday  \\textsc{av}.ask  \\phantom{[}again  tomorrow  if  \\phantom{[}3\\textsc{sg}  come  here",
+        "imtwordsbare": [
+            "mother",
+            "yesterday",
+            "AV.ask",
+            "\\phantom{[}again",
+            "tomorrow",
+            "if",
+            "\\phantom{[}3SG",
+            "come",
+            "here"
+        ],
+        "imtwordshtml": [
+            "mother",
+            "yesterday",
+            "<span class=\"sc\">av</span>.ask",
+            "\\phantom{[}again",
+            "tomorrow",
+            "if",
+            "\\phantom{[}3<span class=\"sc\">sg</span>",
+            "come",
+            "here"
+        ],
+        "imtwordstex": [
+            "mother",
+            "yesterday",
+            "\\textsc{av}.ask",
+            "\\phantom{[}again",
+            "tomorrow",
+            "if",
+            "\\phantom{[}3\\textsc{sg}",
+            "come",
+            "here"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Meme   ibi   ntakon    {\\ob}buwin   mani   apa   {\\ob}ia   teka   mai{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}.",
+        "srcwordsbare": [
+            "Meme",
+            "ibi",
+            "ntakon",
+            "[buwin",
+            "mani",
+            "apa",
+            "[ia",
+            "teka",
+            "mai]IP]CP."
+        ],
+        "srcwordshtml": [
+            "Meme",
+            "ibi",
+            "ntakon",
+            "[buwin",
+            "mani",
+            "apa",
+            "[ia",
+            "teka",
+            "mai]<span class=\"subscript\">IP</span>]<span class=\"subscript\">CP</span>."
+        ],
+        "srcwordstex": [
+            "Meme",
+            "ibi",
+            "ntakon",
+            "{\\ob}buwin",
+            "mani",
+            "apa",
+            "{\\ob}ia",
+            "teka",
+            "mai{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}."
+        ],
+        "time": "future",
+        "trs": "Mother yesterday asked whether TOMORROW he would come here.",
+        "wlength": 9
+    },
+    {
+        "ID": "arka--19238",
+        "categories": [
+            "av",
+            "part",
+            "piv",
+            "sg"
+        ],
+        "clength": 164,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}3\\textsc{sg} \\phantom{[[]}1\\textsc{sg} \\textsc{part} \\phantom{[}\\textsc{piv}  \\textsc{av}.give rice",
+        "imtwordsbare": [
+            "\\phantom{[}3SG",
+            "\\phantom{[[]}1SG",
+            "PART",
+            "\\phantom{[}PIV",
+            "AV.give",
+            "rice"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}3<span class=\"sc\">sg</span>",
+            "\\phantom{[[]}1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">part</span>",
+            "\\phantom{[}<span class=\"sc\">piv</span>",
+            "<span class=\"sc\">av</span>.give",
+            "rice"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}3\\textsc{sg}",
+            "\\phantom{[[]}1\\textsc{sg}",
+            "\\textsc{part}",
+            "\\phantom{[}\\textsc{piv}",
+            "\\textsc{av}.give",
+            "rice"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Iya{\\cb}\\textsubscript{ContrTop}, {\\ob}{\\ob}icang  ba{\\cb}\\textsubscript{ContrFoc\\_i}  {\\ob}\\_\\_i  mehang   nasi{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}.",
+        "srcwordsbare": [
+            "[Iya]ContrTop,",
+            "[[icang",
+            "ba]ContrFoc_i",
+            "[__i",
+            "mehang",
+            "nasi]IP]CP."
+        ],
+        "srcwordshtml": [
+            "[Iya]<span class=\"subscript\">ContrTop</span>,",
+            "[[icang",
+            "ba]<span class=\"subscript\">ContrFoc_i</span>",
+            "[__i",
+            "mehang",
+            "nasi]<span class=\"subscript\">IP</span>]<span class=\"subscript\">CP</span>."
+        ],
+        "srcwordstex": [
+            "{\\ob}Iya{\\cb}\\textsubscript{ContrTop},",
+            "{\\ob}{\\ob}icang",
+            "ba{\\cb}\\textsubscript{ContrFoc\\_i}",
+            "{\\ob}\\_\\_i",
+            "mehang",
+            "nasi{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}."
+        ],
+        "trs": "As for him, I am the one who provided meals.",
+        "wlength": 6
+    },
+    {
+        "ID": "arka-351887",
+        "categories": [
+            "av",
+            "part",
+            "piv",
+            "rel",
+            "sg"
+        ],
+        "clength": 193,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}3\\textsc{sg}      \\phantom{[}1\\textsc{sg}  \\textsc{part}     \\phantom{[}\\textsc{rel}   \\phantom{[}\\textsc{piv}  \\textsc{av}.give   rice",
+        "imtwordsbare": [
+            "\\phantom{[}3SG",
+            "\\phantom{[}1SG",
+            "PART",
+            "\\phantom{[}REL",
+            "\\phantom{[}PIV",
+            "AV.give",
+            "rice"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}3<span class=\"sc\">sg</span>",
+            "\\phantom{[}1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">part</span>",
+            "\\phantom{[}<span class=\"sc\">rel</span>",
+            "\\phantom{[}<span class=\"sc\">piv</span>",
+            "<span class=\"sc\">av</span>.give",
+            "rice"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}3\\textsc{sg}",
+            "\\phantom{[}1\\textsc{sg}",
+            "\\textsc{part}",
+            "\\phantom{[}\\textsc{rel}",
+            "\\phantom{[}\\textsc{piv}",
+            "\\textsc{av}.give",
+            "rice"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Iya{\\cb}\\textsubscript{ContrTop}, {\\ob}icang   ba{\\cb}\\textsubscript{ContrFoc\\_i}  {\\ob}\\textbf{ane}\\textsubscript{\\_i}  {\\ob}\\_i mehang nasi{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}.",
+        "srcwordsbare": [
+            "[Iya]ContrTop,",
+            "[icang",
+            "ba]ContrFoc_i",
+            "[ane_i",
+            "[_i",
+            "mehang",
+            "nasi]IP]CP."
+        ],
+        "srcwordshtml": [
+            "[Iya]<span class=\"subscript\">ContrTop</span>,",
+            "[icang",
+            "ba]<span class=\"subscript\">ContrFoc_i</span>",
+            "[<span class=\"bf\">ane</span><span class=\"subscript\">_i</span>",
+            "[_i",
+            "mehang",
+            "nasi]<span class=\"subscript\">IP</span>]<span class=\"subscript\">CP</span>."
+        ],
+        "srcwordstex": [
+            "{\\ob}Iya{\\cb}\\textsubscript{ContrTop},",
+            "{\\ob}icang",
+            "ba{\\cb}\\textsubscript{ContrFoc\\_i}",
+            "{\\ob}\\textbf{ane}\\textsubscript{\\_i}",
+            "{\\ob}\\_i",
+            "mehang",
+            "nasi{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}."
+        ],
+        "trs": "As for him, I am the one who provided meals.",
+        "wlength": 7
+    },
+    {
+        "ID": "arka--37542",
+        "categories": [
+            "av",
+            "part",
+            "piv",
+            "rel",
+            "sg"
+        ],
+        "clength": 199,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{*[}3\\textsc{sg}      \\textsc{rel}  1\\textsc{sg}  \\textsc{part}        \\textsc{piv}  \\textsc{av}.give  rice",
+        "imtwordsbare": [
+            "\\phantom{*[}3SG",
+            "REL",
+            "1SG",
+            "PART",
+            "PIV",
+            "AV.give",
+            "rice"
+        ],
+        "imtwordshtml": [
+            "\\phantom{*[}3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">rel</span>",
+            "1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">piv</span>",
+            "<span class=\"sc\">av</span>.give",
+            "rice"
+        ],
+        "imtwordstex": [
+            "\\phantom{*[}3\\textsc{sg}",
+            "\\textsc{rel}",
+            "1\\textsc{sg}",
+            "\\textsc{part}",
+            "\\textsc{piv}",
+            "\\textsc{av}.give",
+            "rice"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{{\\USStar}{\\ob}Iya{\\cb}\\textsubscript{ContrTop}}  \\textbf{ane}\\textsubscript{\\_i} {\\ob}icang   ba{\\cb}\\textsubscript{ContrFoc\\_i}  {\\ob}\\_i mehang  nasi{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}.",
+        "srcwordsbare": [
+            "{{\\USStar}[Iya]ContrTop}",
+            "ane_i",
+            "[icang",
+            "ba]ContrFoc_i",
+            "[_i",
+            "mehang",
+            "nasi]IP]CP."
+        ],
+        "srcwordshtml": [
+            "{{\\USStar}[Iya]<span class=\"subscript\">ContrTop</span>}",
+            "<span class=\"bf\">ane</span><span class=\"subscript\">_i</span>",
+            "[icang",
+            "ba]<span class=\"subscript\">ContrFoc_i</span>",
+            "[_i",
+            "mehang",
+            "nasi]<span class=\"subscript\">IP</span>]<span class=\"subscript\">CP</span>."
+        ],
+        "srcwordstex": [
+            "{{\\USStar}{\\ob}Iya{\\cb}\\textsubscript{ContrTop}}",
+            "\\textbf{ane}\\textsubscript{\\_i}",
+            "{\\ob}icang",
+            "ba{\\cb}\\textsubscript{ContrFoc\\_i}",
+            "{\\ob}\\_i",
+            "mehang",
+            "nasi{\\cb}\\textsubscript{IP}{\\cb}\\textsubscript{CP}."
+        ],
+        "trs": "As for him, I am the one who provided meals.",
+        "wlength": 7
+    },
+    {
+        "ID": "arka-242294",
+        "categories": [
+            "av",
+            "part",
+            "sg"
+        ],
+        "clength": 114,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}if   about   \\textsc{av}.eat \\phantom{[}1\\textsc{sg}  \\textsc{part}  \\textsc{av}.give  3\\textsc{sg}  rice",
+        "imtwordsbare": [
+            "\\phantom{[}if",
+            "about",
+            "AV.eat",
+            "\\phantom{[}1SG",
+            "PART",
+            "AV.give",
+            "3SG",
+            "rice"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}if",
+            "about",
+            "<span class=\"sc\">av</span>.eat",
+            "\\phantom{[}1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">av</span>.give",
+            "3<span class=\"sc\">sg</span>",
+            "rice"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}if",
+            "about",
+            "\\textsc{av}.eat",
+            "\\phantom{[}1\\textsc{sg}",
+            "\\textsc{part}",
+            "\\textsc{av}.give",
+            "3\\textsc{sg}",
+            "rice"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}En  buat  ngamah{\\cb}\\textsubscript{Frame}, {\\ob}icang   ba{\\cb}\\textsubscript{ContrFoc}   mehang  iya  nasi.",
+        "srcwordsbare": [
+            "[En",
+            "buat",
+            "ngamah]Frame,",
+            "[icang",
+            "ba]ContrFoc",
+            "mehang",
+            "iya",
+            "nasi."
+        ],
+        "srcwordshtml": [
+            "[En",
+            "buat",
+            "ngamah]<span class=\"subscript\">Frame</span>,",
+            "[icang",
+            "ba]<span class=\"subscript\">ContrFoc</span>",
+            "mehang",
+            "iya",
+            "nasi."
+        ],
+        "srcwordstex": [
+            "{\\ob}En",
+            "buat",
+            "ngamah{\\cb}\\textsubscript{Frame},",
+            "{\\ob}icang",
+            "ba{\\cb}\\textsubscript{ContrFoc}",
+            "mehang",
+            "iya",
+            "nasi."
+        ],
+        "trs": "As for eating needs, I am the person who gave him meals.",
+        "wlength": 8
+    },
+    {
+        "ID": "arka-283133",
+        "categories": [
+            "acc"
+        ],
+        "clength": 22,
+        "filename": "201/chapters/arka.tex",
+        "imt": "and   Victor-\\textsc{acc}",
+        "imtwordsbare": [
+            "and",
+            "Victor-ACC"
+        ],
+        "imtwordshtml": [
+            "and",
+            "Victor-<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "and",
+            "Victor-\\textsc{acc}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "A   V\u00edktor-a{\\USQMark}",
+        "srcwordsbare": [
+            "A",
+            "V\u00edktor-a{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "A",
+            "V\u00edktor-a{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "A",
+            "V\u00edktor-a{\\USQMark}"
+        ],
+        "trs": "And Victor?",
+        "wlength": 2
+    },
+    {
+        "ID": "arka-712902",
+        "categories": [
+            "acc",
+            "nom"
+        ],
+        "clength": 31,
+        "filename": "201/chapters/arka.tex",
+        "imt": "Victor-\\textsc{acc}   Maxim.\\textsc{nom}  defends",
+        "imtwordsbare": [
+            "Victor-ACC",
+            "Maxim.NOM",
+            "defends"
+        ],
+        "imtwordshtml": [
+            "Victor-<span class=\"sc\">acc</span>",
+            "Maxim.<span class=\"sc\">nom</span>",
+            "defends"
+        ],
+        "imtwordstex": [
+            "Victor-\\textsc{acc}",
+            "Maxim.\\textsc{nom}",
+            "defends"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "V\u00edktor-a  M\u00e1ksim   za\u0161\u010d\u01d0\u0161\u010dajet.",
+        "srcwordsbare": [
+            "V\u00edktor-a",
+            "M\u00e1ksim",
+            "za\u0161\u010d\u01d0\u0161\u010dajet."
+        ],
+        "srcwordshtml": [
+            "V\u00edktor-a",
+            "M\u00e1ksim",
+            "za\u0161\u010d\u01d0\u0161\u010dajet."
+        ],
+        "srcwordstex": [
+            "V\u00edktor-a",
+            "M\u00e1ksim",
+            "za\u0161\u010d\u01d0\u0161\u010dajet."
+        ],
+        "trs": "Maxim defends Victor.\u2019      \\citep[96]{Comrie1987}",
+        "wlength": 3
+    },
+    {
+        "ID": "arka--19477",
+        "categories": [
+            "def",
+            "uv"
+        ],
+        "clength": 25,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\textsc{uv}.obtain   land-\\textsc{def}",
+        "imtwordsbare": [
+            "UV.obtain",
+            "land-DEF"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">uv</span>.obtain",
+            "land-<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{uv}.obtain",
+            "land-\\textsc{def}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Bakat   tanah-e{\\USQMark}",
+        "srcwordsbare": [
+            "Bakat",
+            "tanah-e{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Bakat",
+            "tanah-e{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Bakat",
+            "tanah-e{\\USQMark}"
+        ],
+        "trs": "Did you get the land?",
+        "wlength": 2
+    },
+    {
+        "ID": "arka--19924",
+        "categories": [
+            "neg",
+            "uv"
+        ],
+        "clength": 81,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}\\textsc{neg}  \\phantom{[}\\textsc{neg}   \\textsc{uv}.obtain",
+        "imtwordsbare": [
+            "\\phantom{[}NEG",
+            "\\phantom{[}NEG",
+            "UV.obtain"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}<span class=\"sc\">neg</span>",
+            "\\phantom{[}<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">uv</span>.obtain"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}\\textsc{neg}",
+            "\\phantom{[}\\textsc{neg}",
+            "\\textsc{uv}.obtain"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Ngara{\\cb}\\textsubscript{Foc},   {\\ob}ngara{\\cb}\\textsubscript{Foc}   bakat.",
+        "srcwordsbare": [
+            "[Ngara]Foc,",
+            "[ngara]Foc",
+            "bakat."
+        ],
+        "srcwordshtml": [
+            "[Ngara]<span class=\"subscript\">Foc</span>,",
+            "[ngara]<span class=\"subscript\">Foc</span>",
+            "bakat."
+        ],
+        "srcwordstex": [
+            "{\\ob}Ngara{\\cb}\\textsubscript{Foc},",
+            "{\\ob}ngara{\\cb}\\textsubscript{Foc}",
+            "bakat."
+        ],
+        "trs": "No, (I) didn't get (it).",
+        "wlength": 3
+    },
+    {
+        "ID": "arka-722411",
+        "categories": [
+            "3sg",
+            "av",
+            "part",
+            "poss"
+        ],
+        "clength": 59,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{Miasa:} land-\\textsc{3sg.poss}  Patra  \\textsc{av}-contain   what   \\textsc{part}",
+        "imtwordsbare": [
+            "\\phantom{Miasa:}",
+            "land-3sg.poss",
+            "Patra",
+            "AV-contain",
+            "what",
+            "PART"
+        ],
+        "imtwordshtml": [
+            "\\phantom{Miasa:}",
+            "land-<span class=\"sc\">3sg.poss</span>",
+            "Patra",
+            "<span class=\"sc\">av</span>-contain",
+            "what",
+            "<span class=\"sc\">part</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{Miasa:}",
+            "land-\\textsc{3sg.poss}",
+            "Patra",
+            "\\textsc{av}-contain",
+            "what",
+            "\\textsc{part}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{Miasa:} Tanah-anne  Patra  m-isi    apa   dowang{\\USQMark}",
+        "srcwordsbare": [
+            "{Miasa:}",
+            "Tanah-anne",
+            "Patra",
+            "m-isi",
+            "apa",
+            "dowang{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "{Miasa:}",
+            "Tanah-anne",
+            "Patra",
+            "m-isi",
+            "apa",
+            "dowang{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "{Miasa:}",
+            "Tanah-anne",
+            "Patra",
+            "m-isi",
+            "apa",
+            "dowang{\\USQMark}"
+        ],
+        "trs": "What is Patra\u2019s land planted with?\u2019\\\\",
+        "wlength": 6
+    },
+    {
+        "ID": "arka--45380",
+        "categories": [
+            "av"
+        ],
+        "clength": 39,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{Dora:} new   now  \\textsc{av}-content mango",
+        "imtwordsbare": [
+            "\\phantom{Dora:}",
+            "new",
+            "now",
+            "AV-content",
+            "mango"
+        ],
+        "imtwordshtml": [
+            "\\phantom{Dora:}",
+            "new",
+            "now",
+            "<span class=\"sc\">av</span>-content",
+            "mango"
+        ],
+        "imtwordstex": [
+            "\\phantom{Dora:}",
+            "new",
+            "now",
+            "\\textsc{av}-content",
+            "mango"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "\\phantom{Dora:} Mara   jani  m-isi poh.",
+        "srcwordsbare": [
+            "\\phantom{Dora:}",
+            "Mara",
+            "jani",
+            "m-isi",
+            "poh."
+        ],
+        "srcwordshtml": [
+            "\\phantom{Dora:}",
+            "Mara",
+            "jani",
+            "m-isi",
+            "poh."
+        ],
+        "srcwordstex": [
+            "\\phantom{Dora:}",
+            "Mara",
+            "jani",
+            "m-isi",
+            "poh."
+        ],
+        "trs": "Young mango trees. It has just been planted with mangos.",
+        "wlength": 5
+    },
+    {
+        "ID": "arka-538615",
+        "categories": [
+            "av",
+            "mid"
+        ],
+        "clength": 244,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}\\textsc{av}.have  \\phantom{[}child   \\phantom{[}mother  \\phantom{[[}still  one \\textsc{mid}.name Butuh Dora",
+        "imtwordsbare": [
+            "\\phantom{[}AV.have",
+            "\\phantom{[}child",
+            "\\phantom{[}mother",
+            "\\phantom{[[}still",
+            "one",
+            "MID.name",
+            "Butuh",
+            "Dora"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}<span class=\"sc\">av</span>.have",
+            "\\phantom{[}child",
+            "\\phantom{[}mother",
+            "\\phantom{[[}still",
+            "one",
+            "<span class=\"sc\">mid</span>.name",
+            "Butuh",
+            "Dora"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}\\textsc{av}.have",
+            "\\phantom{[}child",
+            "\\phantom{[}mother",
+            "\\phantom{[[}still",
+            "one",
+            "\\textsc{mid}.name",
+            "Butuh",
+            "Dora"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}\\textit{Ngelah} {\\ob}\\textit{panak}{\\cb}\\textsubscript{P}{\\cb}\\textsubscript{Emph.Foc} {\\ob}\\textit{meme}{\\cb}\\textsubscript{A.Top} {\\ob}\\textit{mara} \\textit{besik}{\\cb}\\textsubscript{P.NewFoc} \\textit{madan} \\textit{Butuh} \\textit{Dora}.",
+        "srcwordsbare": [
+            "[Ngelah",
+            "[panak]P]Emph.Foc",
+            "[meme]A.Top",
+            "[mara",
+            "besik]P.NewFoc",
+            "madan",
+            "Butuh",
+            "Dora."
+        ],
+        "srcwordshtml": [
+            "[<span class=\"it\">Ngelah</span>",
+            "[<span class=\"it\">panak</span>]<span class=\"subscript\">P</span>]<span class=\"subscript\">Emph.Foc</span>",
+            "[<span class=\"it\">meme</span>]<span class=\"subscript\">A.Top</span>",
+            "[<span class=\"it\">mara</span>",
+            "<span class=\"it\">besik</span>]<span class=\"subscript\">P.NewFoc</span>",
+            "<span class=\"it\">madan</span>",
+            "<span class=\"it\">Butuh</span>",
+            "<span class=\"it\">Dora</span>."
+        ],
+        "srcwordstex": [
+            "{\\ob}\\textit{Ngelah}",
+            "{\\ob}\\textit{panak}{\\cb}\\textsubscript{P}{\\cb}\\textsubscript{Emph.Foc}",
+            "{\\ob}\\textit{meme}{\\cb}\\textsubscript{A.Top}",
+            "{\\ob}\\textit{mara}",
+            "\\textit{besik}{\\cb}\\textsubscript{P.NewFoc}",
+            "\\textit{madan}",
+            "\\textit{Butuh}",
+            "\\textit{Dora}."
+        ],
+        "trs": "I (mother) gave birth to the first (lit. still one) child, named Butuh Dora.",
+        "wlength": 8
+    },
+    {
+        "ID": "arka-823750",
+        "categories": [
+            "av",
+            "part"
+        ],
+        "clength": 213,
+        "filename": "201/chapters/arka.tex",
+        "imt": "after  like.that  {}  again  \\textsc{part}  \\textsc{av}.have  \\phantom{[}child {} again  \\phantom{[}male",
+        "imtwordsbare": [
+            "after",
+            "like.that",
+            "{}",
+            "again",
+            "PART",
+            "AV.have",
+            "\\phantom{[}child",
+            "{}",
+            "again",
+            "\\phantom{[}male"
+        ],
+        "imtwordshtml": [
+            "after",
+            "like.that",
+            "{}",
+            "again",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">av</span>.have",
+            "\\phantom{[}child",
+            "{}",
+            "again",
+            "\\phantom{[}male"
+        ],
+        "imtwordstex": [
+            "after",
+            "like.that",
+            "{}",
+            "again",
+            "\\textsc{part}",
+            "\\textsc{av}.have",
+            "\\phantom{[}child",
+            "{}",
+            "again",
+            "\\phantom{[}male"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Ba   kento   {\\ob}${\\varnothing}${\\cb}\\textsubscript{A.Top}  buwin   sa    ngelah   {\\ob}panak{\\cb}\\textsubscript{Foc}, {\\ob}${\\varnothing}${\\cb}\\textsubscript{S.Top}   buwin   {\\ob}ninnya{\\cb}\\textsubscript{Foc}.",
+        "srcwordsbare": [
+            "Ba",
+            "kento",
+            "[${\\varnothing}$]A.Top",
+            "buwin",
+            "sa",
+            "ngelah",
+            "[panak]Foc,",
+            "[${\\varnothing}$]S.Top",
+            "buwin",
+            "[ninnya]Foc."
+        ],
+        "srcwordshtml": [
+            "Ba",
+            "kento",
+            "[${\\varnothing}$]<span class=\"subscript\">A.Top</span>",
+            "buwin",
+            "sa",
+            "ngelah",
+            "[panak]<span class=\"subscript\">Foc</span>,",
+            "[${\\varnothing}$]<span class=\"subscript\">S.Top</span>",
+            "buwin",
+            "[ninnya]<span class=\"subscript\">Foc</span>."
+        ],
+        "srcwordstex": [
+            "Ba",
+            "kento",
+            "{\\ob}${\\varnothing}${\\cb}\\textsubscript{A.Top}",
+            "buwin",
+            "sa",
+            "ngelah",
+            "{\\ob}panak{\\cb}\\textsubscript{Foc},",
+            "{\\ob}${\\varnothing}${\\cb}\\textsubscript{S.Top}",
+            "buwin",
+            "{\\ob}ninnya{\\cb}\\textsubscript{Foc}."
+        ],
+        "trs": "After that, I again gave birth to a child, (and) (he\u2019s) again a baby boy.",
+        "wlength": 10
+    },
+    {
+        "ID": "arka--69995",
+        "categories": [
+            "def",
+            "neg",
+            "red",
+            "uv"
+        ],
+        "clength": 363,
+        "coordination": "and",
+        "filename": "201/chapters/arka.tex",
+        "imt": "know-\\textsc{red}   \\phantom{[}money-\\textsc{def}   \\phantom{[}\\textsc{neg}   transfer=3  to   office  \\phantom{[[}\\textsc{uv}.take=3   \\textsc{uv}.eat=3  on   road  \\phantom{[}that  \\phantom{[}accompany=3    deputy  head.villate-\\textsc{def}",
+        "imtwordsbare": [
+            "know-RED",
+            "\\phantom{[}money-DEF",
+            "\\phantom{[}NEG",
+            "transfer=3",
+            "to",
+            "office",
+            "\\phantom{[[}UV.take=3",
+            "UV.eat=3",
+            "on",
+            "road",
+            "\\phantom{[}that",
+            "\\phantom{[}accompany=3",
+            "deputy",
+            "head.villate-DEF"
+        ],
+        "imtwordshtml": [
+            "know-<span class=\"sc\">red</span>",
+            "\\phantom{[}money-<span class=\"sc\">def</span>",
+            "\\phantom{[}<span class=\"sc\">neg</span>",
+            "transfer=3",
+            "to",
+            "office",
+            "\\phantom{[[}<span class=\"sc\">uv</span>.take=3",
+            "<span class=\"sc\">uv</span>.eat=3",
+            "on",
+            "road",
+            "\\phantom{[}that",
+            "\\phantom{[}accompany=3",
+            "deputy",
+            "head.villate-<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "know-\\textsc{red}",
+            "\\phantom{[}money-\\textsc{def}",
+            "\\phantom{[}\\textsc{neg}",
+            "transfer=3",
+            "to",
+            "office",
+            "\\phantom{[[}\\textsc{uv}.take=3",
+            "\\textsc{uv}.eat=3",
+            "on",
+            "road",
+            "\\phantom{[}that",
+            "\\phantom{[}accompany=3",
+            "deputy",
+            "head.villate-\\textsc{def}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Tau-tau    {\\ob}pipis-e{\\cb}\\textsc{\\textsubscript{P.Top}}  {\\ob}ngara  setor=a   ke   kantor{\\cb}\\textsc{\\textsubscript{Foc}}, {\\ob}{\\ob}juwang=a   amah=a   di jalan{\\cb}\\textsc{\\textsubscript{ContrFoc}}{\\cb}\\textsc{\\textsubscript{NewFoc}}   {\\ob}ento{\\cb}\\textsc{\\textsubscript{P.Piv.Top}} {\\ob}ajak=a     wakil   prebekel-e{\\cb}\\textsc{\\textsubscript{NewFoc}}.",
+        "srcwordsbare": [
+            "Tau-tau",
+            "[pipis-e]\\textsubscript{P.Top}",
+            "[ngara",
+            "setor=a",
+            "ke",
+            "kantor]\\textsubscript{Foc},",
+            "[[juwang=a",
+            "amah=a",
+            "di",
+            "jalan]\\textsubscript{ContrFoc}]\\textsubscript{NewFoc}",
+            "[ento]\\textsubscript{P.Piv.Top}",
+            "[ajak=a",
+            "wakil",
+            "prebekel-e]\\textsubscript{NewFoc}."
+        ],
+        "srcwordshtml": [
+            "Tau-tau",
+            "[pipis-e]<span class=\"sc\">\\textsubscript{P.Top</span>}",
+            "[ngara",
+            "setor=a",
+            "ke",
+            "kantor]<span class=\"sc\">\\textsubscript{Foc</span>},",
+            "[[juwang=a",
+            "amah=a",
+            "di",
+            "jalan]<span class=\"sc\">\\textsubscript{ContrFoc</span>}]<span class=\"sc\">\\textsubscript{NewFoc</span>}",
+            "[ento]<span class=\"sc\">\\textsubscript{P.Piv.Top</span>}",
+            "[ajak=a",
+            "wakil",
+            "prebekel-e]<span class=\"sc\">\\textsubscript{NewFoc</span>}."
+        ],
+        "srcwordstex": [
+            "Tau-tau",
+            "{\\ob}pipis-e{\\cb}\\textsc{\\textsubscript{P.Top}}",
+            "{\\ob}ngara",
+            "setor=a",
+            "ke",
+            "kantor{\\cb}\\textsc{\\textsubscript{Foc}},",
+            "{\\ob}{\\ob}juwang=a",
+            "amah=a",
+            "di",
+            "jalan{\\cb}\\textsc{\\textsubscript{ContrFoc}}{\\cb}\\textsc{\\textsubscript{NewFoc}}",
+            "{\\ob}ento{\\cb}\\textsc{\\textsubscript{P.Piv.Top}}",
+            "{\\ob}ajak=a",
+            "wakil",
+            "prebekel-e{\\cb}\\textsc{\\textsubscript{NewFoc}}."
+        ],
+        "trs": "Surprisingly, the money was [not transferred to the (Land) office]\\textsubscript{Foc},  that (money) was [taken and eaten along the way]\\textsubscript{ContrFoc} by him and the village head.",
+        "wlength": 14
+    },
+    {
+        "ID": "arka-721389",
+        "categories": [
+            "def",
+            "nml",
+            "uv"
+        ],
+        "clength": 344,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}already   exist  \\phantom{[}about      five  month \\phantom{[}\\textsc{uv}.look.after  \\phantom{[}piglet-\\textsc{def} \\phantom{[}just    about  half  \\phantom{[}size-\\textsc{nml}  piglet-\\textsc{def} \\phantom{[}die      \\phantom{[}piglet-\\textsc{def}",
+        "imtwordsbare": [
+            "\\phantom{[}already",
+            "exist",
+            "\\phantom{[}about",
+            "five",
+            "month",
+            "\\phantom{[}UV.look.after",
+            "\\phantom{[}piglet-DEF",
+            "\\phantom{[}just",
+            "about",
+            "half",
+            "\\phantom{[}size-NML",
+            "piglet-DEF",
+            "\\phantom{[}die",
+            "\\phantom{[}piglet-DEF"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}already",
+            "exist",
+            "\\phantom{[}about",
+            "five",
+            "month",
+            "\\phantom{[}<span class=\"sc\">uv</span>.look.after",
+            "\\phantom{[}piglet-<span class=\"sc\">def</span>",
+            "\\phantom{[}just",
+            "about",
+            "half",
+            "\\phantom{[}size-<span class=\"sc\">nml</span>",
+            "piglet-<span class=\"sc\">def</span>",
+            "\\phantom{[}die",
+            "\\phantom{[}piglet-<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}already",
+            "exist",
+            "\\phantom{[}about",
+            "five",
+            "month",
+            "\\phantom{[}\\textsc{uv}.look.after",
+            "\\phantom{[}piglet-\\textsc{def}",
+            "\\phantom{[}just",
+            "about",
+            "half",
+            "\\phantom{[}size-\\textsc{nml}",
+            "piglet-\\textsc{def}",
+            "\\phantom{[}die",
+            "\\phantom{[}piglet-\\textsc{def}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Ba   ada   {\\ob}ukuran   lima   bulan{\\cb}\\textsubscript{NewFoc} {\\ob}ubuwin{\\cb}{\\cb}\\textsubscript{Comment} {\\ob}kucit-e{\\cb}\\textsubscript{P.Top}, {\\ob}mara   ukuran   setengah{\\cb}\\textsubscript{ContrFoc}  {\\ob}gede-n   kucit-e{\\cb}\\textsubscript{S.Top}, {\\ob}mati{\\cb}\\textsubscript{ContrFoc}   {\\ob}kucit-e{\\cb}\\textsubscript{S.Top}.",
+        "srcwordsbare": [
+            "[Ba",
+            "ada",
+            "[ukuran",
+            "lima",
+            "bulan]NewFoc",
+            "[ubuwin]]Comment",
+            "[kucit-e]P.Top,",
+            "[mara",
+            "ukuran",
+            "setengah]ContrFoc",
+            "[gede-n",
+            "kucit-e]S.Top,",
+            "[mati]ContrFoc",
+            "[kucit-e]S.Top."
+        ],
+        "srcwordshtml": [
+            "[Ba",
+            "ada",
+            "[ukuran",
+            "lima",
+            "bulan]<span class=\"subscript\">NewFoc</span>",
+            "[ubuwin]]<span class=\"subscript\">Comment</span>",
+            "[kucit-e]<span class=\"subscript\">P.Top</span>,",
+            "[mara",
+            "ukuran",
+            "setengah]<span class=\"subscript\">ContrFoc</span>",
+            "[gede-n",
+            "kucit-e]<span class=\"subscript\">S.Top</span>,",
+            "[mati]<span class=\"subscript\">ContrFoc</span>",
+            "[kucit-e]<span class=\"subscript\">S.Top</span>."
+        ],
+        "srcwordstex": [
+            "{\\ob}Ba",
+            "ada",
+            "{\\ob}ukuran",
+            "lima",
+            "bulan{\\cb}\\textsubscript{NewFoc}",
+            "{\\ob}ubuwin{\\cb}{\\cb}\\textsubscript{Comment}",
+            "{\\ob}kucit-e{\\cb}\\textsubscript{P.Top},",
+            "{\\ob}mara",
+            "ukuran",
+            "setengah{\\cb}\\textsubscript{ContrFoc}",
+            "{\\ob}gede-n",
+            "kucit-e{\\cb}\\textsubscript{S.Top},",
+            "{\\ob}mati{\\cb}\\textsubscript{ContrFoc}",
+            "{\\ob}kucit-e{\\cb}\\textsubscript{S.Top}."
+        ],
+        "trs": "Presumably, for about five months, I looked after the pig. The size of the pig\u2019s body was about half the size of a mature one\u2019s, (but) it died unexpectedly.",
+        "wlength": 14
+    },
+    {
+        "ID": "arka-666401",
+        "categories": [
+            "def",
+            "part",
+            "perf"
+        ],
+        "clength": 106,
+        "filename": "201/chapters/arka.tex",
+        "imt": "father  \\phantom{[}\\textsc{perf}  done  \\textsc{part}  \\phantom{[}material  shirt-\\textsc{def}",
+        "imtwordsbare": [
+            "father",
+            "\\phantom{[}PERF",
+            "done",
+            "PART",
+            "\\phantom{[}material",
+            "shirt-DEF"
+        ],
+        "imtwordshtml": [
+            "father",
+            "\\phantom{[}<span class=\"sc\">perf</span>",
+            "done",
+            "<span class=\"sc\">part</span>",
+            "\\phantom{[}material",
+            "shirt-<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "father",
+            "\\phantom{[}\\textsc{perf}",
+            "done",
+            "\\textsc{part}",
+            "\\phantom{[}material",
+            "shirt-\\textsc{def}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Nang,   {\\ob}ba   tepud   ba{\\cb}\\textsubscript{ContrFoc}  {\\ob}lakar   baju-ne{\\cb}\\textsubscript{S.Top}.",
+        "srcwordsbare": [
+            "Nang,",
+            "[ba",
+            "tepud",
+            "ba]ContrFoc",
+            "[lakar",
+            "baju-ne]S.Top."
+        ],
+        "srcwordshtml": [
+            "Nang,",
+            "[ba",
+            "tepud",
+            "ba]<span class=\"subscript\">ContrFoc</span>",
+            "[lakar",
+            "baju-ne]<span class=\"subscript\">S.Top</span>."
+        ],
+        "srcwordstex": [
+            "Nang,",
+            "{\\ob}ba",
+            "tepud",
+            "ba{\\cb}\\textsubscript{ContrFoc}",
+            "{\\ob}lakar",
+            "baju-ne{\\cb}\\textsubscript{S.Top}."
+        ],
+        "trs": "Father, it\u2019s done, the material for the shirt.",
+        "wlength": 6
+    },
+    {
+        "ID": "arka-309497",
+        "categories": [
+            "av",
+            "neg",
+            "part"
+        ],
+        "clength": 59,
+        "filename": "201/chapters/arka.tex",
+        "imt": "like.this  visit=3  time   hard=very  \\textsc{part}  what   \\textsc{neg}  \\textsc{av}.have",
+        "imtwordsbare": [
+            "like.this",
+            "visit=3",
+            "time",
+            "hard=very",
+            "PART",
+            "what",
+            "NEG",
+            "AV.have"
+        ],
+        "imtwordshtml": [
+            "like.this",
+            "visit=3",
+            "time",
+            "hard=very",
+            "<span class=\"sc\">part</span>",
+            "what",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">av</span>.have"
+        ],
+        "imtwordstex": [
+            "like.this",
+            "visit=3",
+            "time",
+            "hard=very",
+            "\\textsc{part}",
+            "what",
+            "\\textsc{neg}",
+            "\\textsc{av}.have"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Kene   ojog=a  masan   parah=sen  jeg   apa  ngara  ngelah.",
+        "srcwordsbare": [
+            "Kene",
+            "ojog=a",
+            "masan",
+            "parah=sen",
+            "jeg",
+            "apa",
+            "ngara",
+            "ngelah."
+        ],
+        "srcwordshtml": [
+            "Kene",
+            "ojog=a",
+            "masan",
+            "parah=sen",
+            "jeg",
+            "apa",
+            "ngara",
+            "ngelah."
+        ],
+        "srcwordstex": [
+            "Kene",
+            "ojog=a",
+            "masan",
+            "parah=sen",
+            "jeg",
+            "apa",
+            "ngara",
+            "ngelah."
+        ],
+        "trs": "The worst time hit hard at this time, I had NOTHING whatsoever.",
+        "wlength": 8
+    },
+    {
+        "ID": "arka-229708",
+        "categories": [
+            "appl",
+            "part",
+            "prep",
+            "uv"
+        ],
+        "clength": 79,
+        "filename": "201/chapters/arka.tex",
+        "imt": "Tut Sik  mother   PART  doctor  \\textsc{part}  \\textsc{uv}.find-\\textsc{appl}  \\textsc{prep}  place  that",
+        "imtwordsbare": [
+            "Tut",
+            "Sik",
+            "mother",
+            "PART",
+            "doctor",
+            "PART",
+            "UV.find-APPL",
+            "PREP",
+            "place",
+            "that"
+        ],
+        "imtwordshtml": [
+            "Tut",
+            "Sik",
+            "mother",
+            "PART",
+            "doctor",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">uv</span>.find-<span class=\"sc\">appl</span>",
+            "<span class=\"sc\">prep</span>",
+            "place",
+            "that"
+        ],
+        "imtwordstex": [
+            "Tut",
+            "Sik",
+            "mother",
+            "PART",
+            "doctor",
+            "\\textsc{part}",
+            "\\textsc{uv}.find-\\textsc{appl}",
+            "\\textsc{prep}",
+            "place",
+            "that"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Tut Sik,  meme   \\textbf{jeg} \\textbf{dokter}  ba alih-ang    di  Jakula   nto.",
+        "srcwordsbare": [
+            "Tut",
+            "Sik,",
+            "meme",
+            "jeg",
+            "dokter",
+            "ba",
+            "alih-ang",
+            "di",
+            "Jakula",
+            "nto."
+        ],
+        "srcwordshtml": [
+            "Tut",
+            "Sik,",
+            "meme",
+            "<span class=\"bf\">jeg</span>",
+            "<span class=\"bf\">dokter</span>",
+            "ba",
+            "alih-ang",
+            "di",
+            "Jakula",
+            "nto."
+        ],
+        "srcwordstex": [
+            "Tut",
+            "Sik,",
+            "meme",
+            "\\textbf{jeg}",
+            "\\textbf{dokter}",
+            "ba",
+            "alih-ang",
+            "di",
+            "Jakula",
+            "nto."
+        ],
+        "trs": "Tut Gasik, as for me (Mother), you just find a DOCTOR (nobody else) for me in Tejakula.",
+        "wlength": 10
+    },
+    {
+        "ID": "arka-163807",
+        "categories": [
+            "",
+            "av",
+            "dem",
+            "neg",
+            "part",
+            "poss"
+        ],
+        "clength": 151,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}person  \\textsc{part}   \\textsc{av-}wander  \\textsc{neg}   want  ever \\textsc{av}-work \\phantom{[}husband mother-\\textsc{poss}  \\textsc{dem}",
+        "imtwordsbare": [
+            "\\phantom{[}person",
+            "PART",
+            "av-wander",
+            "NEG",
+            "want",
+            "ever",
+            "AV-work",
+            "\\phantom{[}husband",
+            "mother-POSS",
+            "DEM"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}person",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">av-</span>wander",
+            "<span class=\"sc\">neg</span>",
+            "want",
+            "ever",
+            "<span class=\"sc\">av</span>-work",
+            "\\phantom{[}husband",
+            "mother-<span class=\"sc\">poss</span>",
+            "<span class=\"sc\">dem</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}person",
+            "\\textsc{part}",
+            "\\textsc{av-}wander",
+            "\\textsc{neg}",
+            "want",
+            "ever",
+            "\\textsc{av}-work",
+            "\\phantom{[}husband",
+            "mother-\\textsc{poss}",
+            "\\textsc{dem}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "modality": "volitive",
+        "polarity": "negative",
+        "src": "{\\ob}Gelema  kalud  ng-luyur  ngara   nyak  pati   me-ga\u00e9{\\cb}\\textsubscript{Pred.ContrFoc},  {\\ob}sommah   meme-n\u00e9     ento{\\cb}\\textsubscript{S.Top}.",
+        "srcwordsbare": [
+            "[Gelema",
+            "kalud",
+            "ng-luyur",
+            "ngara",
+            "nyak",
+            "pati",
+            "me-ga\u00e9]Pred.ContrFoc,",
+            "[sommah",
+            "meme-n\u00e9",
+            "ento]S.Top."
+        ],
+        "srcwordshtml": [
+            "[Gelema",
+            "kalud",
+            "ng-luyur",
+            "ngara",
+            "nyak",
+            "pati",
+            "me-ga\u00e9]<span class=\"subscript\">Pred.ContrFoc</span>,",
+            "[sommah",
+            "meme-n\u00e9",
+            "ento]<span class=\"subscript\">S.Top</span>."
+        ],
+        "srcwordstex": [
+            "{\\ob}Gelema",
+            "kalud",
+            "ng-luyur",
+            "ngara",
+            "nyak",
+            "pati",
+            "me-ga\u00e9{\\cb}\\textsubscript{Pred.ContrFoc},",
+            "{\\ob}sommah",
+            "meme-n\u00e9",
+            "ento{\\cb}\\textsubscript{S.Top}."
+        ],
+        "trs": "A person who\u2019s wandering around, not wanting to work, my husband is.",
+        "wlength": 10
+    },
+    {
+        "ID": "arka-286130",
+        "categories": [
+            "av",
+            "def",
+            "perf",
+            "uv"
+        ],
+        "clength": 227,
+        "coordination": "and",
+        "filename": "201/chapters/arka.tex",
+        "imt": "after that  \\textsc{uv}.give=3  mother  corn  three  two.hundred \\textsc{av}.waive  then  mother  material shirt  \\textsc{perf}  finish  that {} \\textsc{perf}  that  corn-\\textsc{def}  that  exist  one=month  half  \\textsc{uv}.eat",
+        "imtwordsbare": [
+            "after",
+            "that",
+            "UV.give=3",
+            "mother",
+            "corn",
+            "three",
+            "two.hundred",
+            "AV.waive",
+            "then",
+            "mother",
+            "material",
+            "shirt",
+            "PERF",
+            "finish",
+            "that",
+            "{}",
+            "PERF",
+            "that",
+            "corn-DEF",
+            "that",
+            "exist",
+            "one=month",
+            "half",
+            "UV.eat"
+        ],
+        "imtwordshtml": [
+            "after",
+            "that",
+            "<span class=\"sc\">uv</span>.give=3",
+            "mother",
+            "corn",
+            "three",
+            "two.hundred",
+            "<span class=\"sc\">av</span>.waive",
+            "then",
+            "mother",
+            "material",
+            "shirt",
+            "<span class=\"sc\">perf</span>",
+            "finish",
+            "that",
+            "{}",
+            "<span class=\"sc\">perf</span>",
+            "that",
+            "corn-<span class=\"sc\">def</span>",
+            "that",
+            "exist",
+            "one=month",
+            "half",
+            "<span class=\"sc\">uv</span>.eat"
+        ],
+        "imtwordstex": [
+            "after",
+            "that",
+            "\\textsc{uv}.give=3",
+            "mother",
+            "corn",
+            "three",
+            "two.hundred",
+            "\\textsc{av}.waive",
+            "then",
+            "mother",
+            "material",
+            "shirt",
+            "\\textsc{perf}",
+            "finish",
+            "that",
+            "{}",
+            "\\textsc{perf}",
+            "that",
+            "corn-\\textsc{def}",
+            "that",
+            "exist",
+            "one=month",
+            "half",
+            "\\textsc{uv}.eat"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Ba kento,   behang=a   meme   \\textbf{jagung}   tigang   atak, nunun   ntas   meme   \\textbf{lakar} \\textbf{baju},    ba   tepud   \\textbf{ento} \u2026 ba   kento,  \\textbf{jagung-e}   \\textbf{ento}   ada   a=bulan   tengah   dahar\u2026",
+        "srcwordsbare": [
+            "Ba",
+            "kento,",
+            "behang=a",
+            "meme",
+            "jagung",
+            "tigang",
+            "atak,",
+            "nunun",
+            "ntas",
+            "meme",
+            "lakar",
+            "baju,",
+            "ba",
+            "tepud",
+            "ento",
+            "\u2026",
+            "ba",
+            "kento,",
+            "jagung-e",
+            "ento",
+            "ada",
+            "a=bulan",
+            "tengah",
+            "dahar\u2026"
+        ],
+        "srcwordshtml": [
+            "Ba",
+            "kento,",
+            "behang=a",
+            "meme",
+            "<span class=\"bf\">jagung</span>",
+            "tigang",
+            "atak,",
+            "nunun",
+            "ntas",
+            "meme",
+            "<span class=\"bf\">lakar</span>",
+            "<span class=\"bf\">baju</span>,",
+            "ba",
+            "tepud",
+            "<span class=\"bf\">ento</span>",
+            "\u2026",
+            "ba",
+            "kento,",
+            "<span class=\"bf\">jagung-e</span>",
+            "<span class=\"bf\">ento</span>",
+            "ada",
+            "a=bulan",
+            "tengah",
+            "dahar\u2026"
+        ],
+        "srcwordstex": [
+            "Ba",
+            "kento,",
+            "behang=a",
+            "meme",
+            "\\textbf{jagung}",
+            "tigang",
+            "atak,",
+            "nunun",
+            "ntas",
+            "meme",
+            "\\textbf{lakar}",
+            "\\textbf{baju},",
+            "ba",
+            "tepud",
+            "\\textbf{ento}",
+            "\u2026",
+            "ba",
+            "kento,",
+            "\\textbf{jagung-e}",
+            "\\textbf{ento}",
+            "ada",
+            "a=bulan",
+            "tengah",
+            "dahar\u2026"
+        ],
+        "trs": "After that, I (mother) was given 600 ears of corns\u2026I then waived shirt material; it was then done\u2026after that, the 600 ears of corn were consumed in about one month and a half\u2026",
+        "wlength": 24
+    },
+    {
+        "ID": "arka--31165",
+        "categories": [
+            "av",
+            "mid",
+            "p"
+        ],
+        "clength": 160,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\textsc{av}.have  child.\\textsc{p}  \\phantom{[}mother  still   one   \\textsc{mid}.name  B. Dora",
+        "imtwordsbare": [
+            "AV.have",
+            "child.P",
+            "\\phantom{[}mother",
+            "still",
+            "one",
+            "MID.name",
+            "B.",
+            "Dora"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>.have",
+            "child.<span class=\"sc\">p</span>",
+            "\\phantom{[}mother",
+            "still",
+            "one",
+            "<span class=\"sc\">mid</span>.name",
+            "B.",
+            "Dora"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}.have",
+            "child.\\textsc{p}",
+            "\\phantom{[}mother",
+            "still",
+            "one",
+            "\\textsc{mid}.name",
+            "B.",
+            "Dora"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "\\textit{Ngelah}   \\textit{panak}    {\\ob}\\textit{meme}{\\cb}\\textsubscript{A.Top}    \\textit{mara}   \\textit{besik}, \\textit{madan} \\textit{Butuh} \\textit{Dora}.",
+        "srcwordsbare": [
+            "Ngelah",
+            "panak",
+            "[meme]A.Top",
+            "mara",
+            "besik,",
+            "madan",
+            "Butuh",
+            "Dora."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Ngelah</span>",
+            "<span class=\"it\">panak</span>",
+            "[<span class=\"it\">meme</span>]<span class=\"subscript\">A.Top</span>",
+            "<span class=\"it\">mara</span>",
+            "<span class=\"it\">besik</span>,",
+            "<span class=\"it\">madan</span>",
+            "<span class=\"it\">Butuh</span>",
+            "<span class=\"it\">Dora</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Ngelah}",
+            "\\textit{panak}",
+            "{\\ob}\\textit{meme}{\\cb}\\textsubscript{A.Top}",
+            "\\textit{mara}",
+            "\\textit{besik},",
+            "\\textit{madan}",
+            "\\textit{Butuh}",
+            "\\textit{Dora}."
+        ],
+        "trs": "I (mother) gave birth to my first child, named Butuh Dora.",
+        "wlength": 8
+    },
+    {
+        "ID": "arka-278498",
+        "categories": [
+            "av",
+            "def",
+            "p",
+            "part",
+            "sg"
+        ],
+        "clength": 237,
+        "filename": "201/chapters/arka.tex",
+        "imt": "moreover \\textsc{av}.have child.\\textsc{p} still four like.that  \\textsc{part} \\phantom{[}father 2\\textsc{sg}-\\textsc{def}   \\textsc{av}.take wife.\\textsc{p} again",
+        "imtwordsbare": [
+            "moreover",
+            "AV.have",
+            "child.P",
+            "still",
+            "four",
+            "like.that",
+            "PART",
+            "\\phantom{[}father",
+            "2SG-DEF",
+            "AV.take",
+            "wife.P",
+            "again"
+        ],
+        "imtwordshtml": [
+            "moreover",
+            "<span class=\"sc\">av</span>.have",
+            "child.<span class=\"sc\">p</span>",
+            "still",
+            "four",
+            "like.that",
+            "<span class=\"sc\">part</span>",
+            "\\phantom{[}father",
+            "2<span class=\"sc\">sg</span>-<span class=\"sc\">def</span>",
+            "<span class=\"sc\">av</span>.take",
+            "wife.<span class=\"sc\">p</span>",
+            "again"
+        ],
+        "imtwordstex": [
+            "moreover",
+            "\\textsc{av}.have",
+            "child.\\textsc{p}",
+            "still",
+            "four",
+            "like.that",
+            "\\textsc{part}",
+            "\\phantom{[}father",
+            "2\\textsc{sg}-\\textsc{def}",
+            "\\textsc{av}.take",
+            "wife.\\textsc{p}",
+            "again"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "\\textit{Buina} \\textit{ngelah} \\textit{panak} \\textit{mara} \\textit{patpat} \\textit{kento} \\textit{teh}, {\\ob}\\textit{nanang}{\\cb}\\textsc{\\textsubscript{a.piv.top}} \\textit{cahi}-\\textit{ne} \\textit{ngalih} \\textit{somah} \\textit{buwin}.",
+        "srcwordsbare": [
+            "Buina",
+            "ngelah",
+            "panak",
+            "mara",
+            "patpat",
+            "kento",
+            "teh,",
+            "[nanang]\\textsubscript{a.piv.top}",
+            "cahi-ne",
+            "ngalih",
+            "somah",
+            "buwin."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Buina</span>",
+            "<span class=\"it\">ngelah</span>",
+            "<span class=\"it\">panak</span>",
+            "<span class=\"it\">mara</span>",
+            "<span class=\"it\">patpat</span>",
+            "<span class=\"it\">kento</span>",
+            "<span class=\"it\">teh</span>,",
+            "[<span class=\"it\">nanang</span>]<span class=\"sc\">\\textsubscript{a.piv.top</span>}",
+            "<span class=\"it\">cahi</span>-<span class=\"it\">ne</span>",
+            "<span class=\"it\">ngalih</span>",
+            "<span class=\"it\">somah</span>",
+            "<span class=\"it\">buwin</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Buina}",
+            "\\textit{ngelah}",
+            "\\textit{panak}",
+            "\\textit{mara}",
+            "\\textit{patpat}",
+            "\\textit{kento}",
+            "\\textit{teh},",
+            "{\\ob}\\textit{nanang}{\\cb}\\textsc{\\textsubscript{a.piv.top}}",
+            "\\textit{cahi}-\\textit{ne}",
+            "\\textit{ngalih}",
+            "\\textit{somah}",
+            "\\textit{buwin}."
+        ],
+        "trs": "In addition, when I had given birth to four children, your father took another wife.",
+        "wlength": 12
+    },
+    {
+        "ID": "arka--55341",
+        "categories": [
+            "",
+            "av",
+            "sg"
+        ],
+        "clength": 157,
+        "filename": "201/chapters/arka.tex",
+        "imt": "after  that   just  \\phantom{[}1\\textsc{sg}  \\textsc{av.}have  child  nine.",
+        "imtwordsbare": [
+            "after",
+            "that",
+            "just",
+            "\\phantom{[}1SG",
+            "av.have",
+            "child",
+            "nine."
+        ],
+        "imtwordshtml": [
+            "after",
+            "that",
+            "just",
+            "\\phantom{[}1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">av.</span>have",
+            "child",
+            "nine."
+        ],
+        "imtwordstex": [
+            "after",
+            "that",
+            "just",
+            "\\phantom{[}1\\textsc{sg}",
+            "\\textsc{av.}have",
+            "child",
+            "nine."
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "\\textit{Ba} \\textit{keto} \\textit{mara} {\\ob}\\textit{tiyang}{\\cb}\\textbf{\\textsubscript{A.Piv.Top\\_\\textit{i}}} \\textit{ngelah} \\textit{panak} \\textit{siya}.",
+        "srcwordsbare": [
+            "Ba",
+            "keto",
+            "mara",
+            "[tiyang]\\textsubscript{A.Piv.Top_\\textit{i}}",
+            "ngelah",
+            "panak",
+            "siya."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Ba</span>",
+            "<span class=\"it\">keto</span>",
+            "<span class=\"it\">mara</span>",
+            "[<span class=\"it\">tiyang</span>]<span class=\"bf\">\\textsubscript{A.Piv.Top_\\textit{i</span>}}",
+            "<span class=\"it\">ngelah</span>",
+            "<span class=\"it\">panak</span>",
+            "<span class=\"it\">siya</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Ba}",
+            "\\textit{keto}",
+            "\\textit{mara}",
+            "{\\ob}\\textit{tiyang}{\\cb}\\textbf{\\textsubscript{A.Piv.Top\\_\\textit{i}}}",
+            "\\textit{ngelah}",
+            "\\textit{panak}",
+            "\\textit{siya}."
+        ],
+        "trs": "Then, after, I gave birth to a total of nine children.",
+        "wlength": 7
+    },
+    {
+        "ID": "arka-455720",
+        "categories": [
+            "perf"
+        ],
+        "clength": 116,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}\\textit{i}  \\textsc{perf}  happy  this  \\textsc{perf}",
+        "imtwordsbare": [
+            "\\phantom{[}i",
+            "PERF",
+            "happy",
+            "this",
+            "PERF"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}<span class=\"it\">i</span>",
+            "<span class=\"sc\">perf</span>",
+            "happy",
+            "this",
+            "<span class=\"sc\">perf</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}\\textit{i}",
+            "\\textsc{perf}",
+            "happy",
+            "this",
+            "\\textsc{perf}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}${\\varnothing}${\\cb}\\textsubscript{A.\\textbf{Piv.Top}}  \\textit{Ba}   \\textit{nau}   \\textit{ne}   \\textit{ba}.",
+        "srcwordsbare": [
+            "[${\\varnothing}$]A.\\textbf{Piv.Top}",
+            "Ba",
+            "nau",
+            "ne",
+            "ba."
+        ],
+        "srcwordshtml": [
+            "[${\\varnothing}$]<span class=\"subscript\">A.\\textbf{Piv.Top</span>}",
+            "<span class=\"it\">Ba</span>",
+            "<span class=\"it\">nau</span>",
+            "<span class=\"it\">ne</span>",
+            "<span class=\"it\">ba</span>."
+        ],
+        "srcwordstex": [
+            "{\\ob}${\\varnothing}${\\cb}\\textsubscript{A.\\textbf{Piv.Top}}",
+            "\\textit{Ba}",
+            "\\textit{nau}",
+            "\\textit{ne}",
+            "\\textit{ba}."
+        ],
+        "trs": "I was already happy.",
+        "wlength": 5
+    },
+    {
+        "ID": "arka--17731",
+        "categories": [
+            "art",
+            "mid",
+            "nml"
+        ],
+        "clength": 83,
+        "filename": "201/chapters/arka.tex",
+        "imt": "exist  \\phantom{[}tell-\\textsc{nml}  story  \\textsc{mid}.call  \\textsc{art}   Father   Sedok",
+        "imtwordsbare": [
+            "exist",
+            "\\phantom{[}tell-NML",
+            "story",
+            "MID.call",
+            "ART",
+            "Father",
+            "Sedok"
+        ],
+        "imtwordshtml": [
+            "exist",
+            "\\phantom{[}tell-<span class=\"sc\">nml</span>",
+            "story",
+            "<span class=\"sc\">mid</span>.call",
+            "<span class=\"sc\">art</span>",
+            "Father",
+            "Sedok"
+        ],
+        "imtwordstex": [
+            "exist",
+            "\\phantom{[}tell-\\textsc{nml}",
+            "story",
+            "\\textsc{mid}.call",
+            "\\textsc{art}",
+            "Father",
+            "Sedok"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Ada   {\\ob}tutur-an   satua{\\cb}\\textsubscript{NewTop},   madan   I   Bapa   Sedok.",
+        "srcwordsbare": [
+            "Ada",
+            "[tutur-an",
+            "satua]NewTop,",
+            "madan",
+            "I",
+            "Bapa",
+            "Sedok."
+        ],
+        "srcwordshtml": [
+            "Ada",
+            "[tutur-an",
+            "satua]<span class=\"subscript\">NewTop</span>,",
+            "madan",
+            "I",
+            "Bapa",
+            "Sedok."
+        ],
+        "srcwordstex": [
+            "Ada",
+            "{\\ob}tutur-an",
+            "satua{\\cb}\\textsubscript{NewTop},",
+            "madan",
+            "I",
+            "Bapa",
+            "Sedok."
+        ],
+        "trs": "There is a story often talked about called \\textit{I Bapa Sedok}.",
+        "wlength": 7
+    },
+    {
+        "ID": "arka-211969",
+        "categories": [
+            "av",
+            "poss",
+            "rel"
+        ],
+        "clength": 60,
+        "filename": "201/chapters/arka.tex",
+        "imt": "exist  person  \\textsc{av}.replace  Sumarwi  name-\\textsc{poss} \\textsc{rel}  \\textsc{av}.replace",
+        "imtwordsbare": [
+            "exist",
+            "person",
+            "AV.replace",
+            "Sumarwi",
+            "name-POSS",
+            "REL",
+            "AV.replace"
+        ],
+        "imtwordshtml": [
+            "exist",
+            "person",
+            "<span class=\"sc\">av</span>.replace",
+            "Sumarwi",
+            "name-<span class=\"sc\">poss</span>",
+            "<span class=\"sc\">rel</span>",
+            "<span class=\"sc\">av</span>.replace"
+        ],
+        "imtwordstex": [
+            "exist",
+            "person",
+            "\\textsc{av}.replace",
+            "Sumarwi",
+            "name-\\textsc{poss}",
+            "\\textsc{rel}",
+            "\\textsc{av}.replace"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Ada    nak   nimbalin,   Sumarwi   adan-anne neh   nimbalin.",
+        "srcwordsbare": [
+            "Ada",
+            "nak",
+            "nimbalin,",
+            "Sumarwi",
+            "adan-anne",
+            "neh",
+            "nimbalin."
+        ],
+        "srcwordshtml": [
+            "Ada",
+            "nak",
+            "nimbalin,",
+            "Sumarwi",
+            "adan-anne",
+            "neh",
+            "nimbalin."
+        ],
+        "srcwordstex": [
+            "Ada",
+            "nak",
+            "nimbalin,",
+            "Sumarwi",
+            "adan-anne",
+            "neh",
+            "nimbalin."
+        ],
+        "trs": "There\u2019s a person reimbursing (the money); Sumarwi is the name of the person who reimbursed the money.",
+        "wlength": 7
+    },
+    {
+        "ID": "arka--29517",
+        "categories": [
+            "av"
+        ],
+        "clength": 73,
+        "filename": "201/chapters/arka.tex",
+        "imt": "after that just.after \\phantom{[}mother \\textsc{av}.have child four",
+        "imtwordsbare": [
+            "after",
+            "that",
+            "just.after",
+            "\\phantom{[}mother",
+            "AV.have",
+            "child",
+            "four"
+        ],
+        "imtwordshtml": [
+            "after",
+            "that",
+            "just.after",
+            "\\phantom{[}mother",
+            "<span class=\"sc\">av</span>.have",
+            "child",
+            "four"
+        ],
+        "imtwordstex": [
+            "after",
+            "that",
+            "just.after",
+            "\\phantom{[}mother",
+            "\\textsc{av}.have",
+            "child",
+            "four"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Ba kento mara {\\ob}meme{\\cb}\\textsubscript{A.Top\\_i} ngelah panak patpat,",
+        "srcwordsbare": [
+            "Ba",
+            "kento",
+            "mara",
+            "[meme]A.Top_i",
+            "ngelah",
+            "panak",
+            "patpat,"
+        ],
+        "srcwordshtml": [
+            "Ba",
+            "kento",
+            "mara",
+            "[meme]<span class=\"subscript\">A.Top_i</span>",
+            "ngelah",
+            "panak",
+            "patpat,"
+        ],
+        "srcwordstex": [
+            "Ba",
+            "kento",
+            "mara",
+            "{\\ob}meme{\\cb}\\textsubscript{A.Top\\_i}",
+            "ngelah",
+            "panak",
+            "patpat,"
+        ],
+        "trs": "Then, after, I (mother) gave birth to four children,",
+        "wlength": 7
+    },
+    {
+        "ID": "arka-895038",
+        "categories": [
+            "caus"
+        ],
+        "clength": 88,
+        "filename": "201/chapters/arka.tex",
+        "imt": "co-wife-\\textsc{caus}=3 \\phantom{[}mother",
+        "imtwordsbare": [
+            "co-wife-CAUS=3",
+            "\\phantom{[}mother"
+        ],
+        "imtwordshtml": [
+            "co-wife-<span class=\"sc\">caus</span>=3",
+            "\\phantom{[}mother"
+        ],
+        "imtwordstex": [
+            "co-wife-\\textsc{caus}=3",
+            "\\phantom{[}mother"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Madu-telu-ang{\\ob}=a{\\cb}\\textsubscript{A.Top2\\_j} {\\ob}meme{\\cb}\\textsubscript{P.Top1}.",
+        "srcwordsbare": [
+            "Madu-telu-ang[=a]A.Top2_j",
+            "[meme]P.Top1."
+        ],
+        "srcwordshtml": [
+            "Madu-telu-ang[=a]<span class=\"subscript\">A.Top2_j</span>",
+            "[meme]<span class=\"subscript\">P.Top1</span>."
+        ],
+        "srcwordstex": [
+            "Madu-telu-ang{\\ob}=a{\\cb}\\textsubscript{A.Top2\\_j}",
+            "{\\ob}meme{\\cb}\\textsubscript{P.Top1}."
+        ],
+        "trs": "I was made one of his three wives.",
+        "wlength": 2
+    },
+    {
+        "ID": "arka--87174",
+        "categories": [
+            "appl",
+            "av",
+            "emph",
+            "neg",
+            "poss",
+            "sg",
+            "uv"
+        ],
+        "clength": 237,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}mother  \\textsc{neg}   invite=3  \\textsc{av}{}-own-\\textsc{appl} land   inheritance   in  Pramboan  since \\phantom{[}3\\textsc{sg}   \\textsc{emph}  \\phantom{[}wife-3\\textsc{sg.poss}  younger  that   \\textsc{uv}.invite=3",
+        "imtwordsbare": [
+            "\\phantom{[}mother",
+            "NEG",
+            "invite=3",
+            "AV{}-own-APPL",
+            "land",
+            "inheritance",
+            "in",
+            "Pramboan",
+            "since",
+            "\\phantom{[}3SG",
+            "EMPH",
+            "\\phantom{[}wife-3sg.poss",
+            "younger",
+            "that",
+            "UV.invite=3"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}mother",
+            "<span class=\"sc\">neg</span>",
+            "invite=3",
+            "<span class=\"sc\">av</span>{}-own-<span class=\"sc\">appl</span>",
+            "land",
+            "inheritance",
+            "in",
+            "Pramboan",
+            "since",
+            "\\phantom{[}3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">emph</span>",
+            "\\phantom{[}wife-3<span class=\"sc\">sg.poss</span>",
+            "younger",
+            "that",
+            "<span class=\"sc\">uv</span>.invite=3"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}mother",
+            "\\textsc{neg}",
+            "invite=3",
+            "\\textsc{av}{}-own-\\textsc{appl}",
+            "land",
+            "inheritance",
+            "in",
+            "Pramboan",
+            "since",
+            "\\phantom{[}3\\textsc{sg}",
+            "\\textsc{emph}",
+            "\\phantom{[}wife-3\\textsc{sg.poss}",
+            "younger",
+            "that",
+            "\\textsc{uv}.invite=3"
+        ],
+        "language": "201/chapters/arka.tex",
+        "polarity": "negative",
+        "src": "{\\ob}Meme{\\cb}\\textsubscript{P.Top\\_i}  ngara   ajak=a  ng-{\\USOParen}g{\\USCParen}ellah-ang tanah   warisan   di Pramboan  mapan {\\ob}iya   ba{\\cb}\\textsubscript{Top\\_j},  {\\ob}somah-anne  senikan   ento{\\cb}\\textsubscript{P\\_j}  ajak=a.",
+        "srcwordsbare": [
+            "[Meme]P.Top_i",
+            "ngara",
+            "ajak=a",
+            "ng-{\\USOParen}g{\\USCParen}ellah-ang",
+            "tanah",
+            "warisan",
+            "di",
+            "Pramboan",
+            "mapan",
+            "[iya",
+            "ba]Top_j,",
+            "[somah-anne",
+            "senikan",
+            "ento]P_j",
+            "ajak=a."
+        ],
+        "srcwordshtml": [
+            "[Meme]<span class=\"subscript\">P.Top_i</span>",
+            "ngara",
+            "ajak=a",
+            "ng-{\\USOParen}g{\\USCParen}ellah-ang",
+            "tanah",
+            "warisan",
+            "di",
+            "Pramboan",
+            "mapan",
+            "[iya",
+            "ba]<span class=\"subscript\">Top_j</span>,",
+            "[somah-anne",
+            "senikan",
+            "ento]<span class=\"subscript\">P_j</span>",
+            "ajak=a."
+        ],
+        "srcwordstex": [
+            "{\\ob}Meme{\\cb}\\textsubscript{P.Top\\_i}",
+            "ngara",
+            "ajak=a",
+            "ng-{\\USOParen}g{\\USCParen}ellah-ang",
+            "tanah",
+            "warisan",
+            "di",
+            "Pramboan",
+            "mapan",
+            "{\\ob}iya",
+            "ba{\\cb}\\textsubscript{Top\\_j},",
+            "{\\ob}somah-anne",
+            "senikan",
+            "ento{\\cb}\\textsubscript{P\\_j}",
+            "ajak=a."
+        ],
+        "trs": "[I (mother)] was not invited to share the inherited land in",
+        "wlength": 15
+    },
+    {
+        "ID": "arka--54471",
+        "categories": [
+            "appl",
+            "av",
+            "neg",
+            "part",
+            "sg",
+            "uv"
+        ],
+        "clength": 109,
+        "filename": "201/chapters/arka.tex",
+        "imt": "this 2\\textsc{sg} \\textsc{part} \\textsc{av}.have.\\textsc{appl} this \\textsc{neg} \\textsc{uv}.measure father  this",
+        "imtwordsbare": [
+            "this",
+            "2SG",
+            "PART",
+            "AV.have.APPL",
+            "this",
+            "NEG",
+            "UV.measure",
+            "father",
+            "this"
+        ],
+        "imtwordshtml": [
+            "this",
+            "2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">av</span>.have.<span class=\"sc\">appl</span>",
+            "this",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">uv</span>.measure",
+            "father",
+            "this"
+        ],
+        "imtwordstex": [
+            "this",
+            "2\\textsc{sg}",
+            "\\textsc{part}",
+            "\\textsc{av}.have.\\textsc{appl}",
+            "this",
+            "\\textsc{neg}",
+            "\\textsc{uv}.measure",
+            "father",
+            "this"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Ne{\\cb}\\textsubscript{Top} {\\ob}cahi{\\cb}\\textsubscript{A.Piv.Foc} ba ngelahang. Ne ngara ukur Bapak ne.",
+        "srcwordsbare": [
+            "[Ne]Top",
+            "[cahi]A.Piv.Foc",
+            "ba",
+            "ngelahang.",
+            "Ne",
+            "ngara",
+            "ukur",
+            "Bapak",
+            "ne."
+        ],
+        "srcwordshtml": [
+            "[Ne]<span class=\"subscript\">Top</span>",
+            "[cahi]<span class=\"subscript\">A.Piv.Foc</span>",
+            "ba",
+            "ngelahang.",
+            "Ne",
+            "ngara",
+            "ukur",
+            "Bapak",
+            "ne."
+        ],
+        "srcwordstex": [
+            "{\\ob}Ne{\\cb}\\textsubscript{Top}",
+            "{\\ob}cahi{\\cb}\\textsubscript{A.Piv.Foc}",
+            "ba",
+            "ngelahang.",
+            "Ne",
+            "ngara",
+            "ukur",
+            "Bapak",
+            "ne."
+        ],
+        "trs": "As for this piece of land, YOU are the one who owns (it). This one, I didn\u2019t measure it.",
+        "wlength": 9
+    },
+    {
+        "ID": "arka--25157",
+        "categories": [
+            "av",
+            "part",
+            "sg"
+        ],
+        "clength": 115,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}if   about \\textsc{av}.eat   \\phantom{[}1\\textsc{sg}  \\textsc{part}  \\textsc{av}.give  3\\textsc{sg}  rice",
+        "imtwordsbare": [
+            "\\phantom{[}if",
+            "about",
+            "AV.eat",
+            "\\phantom{[}1SG",
+            "PART",
+            "AV.give",
+            "3SG",
+            "rice"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}if",
+            "about",
+            "<span class=\"sc\">av</span>.eat",
+            "\\phantom{[}1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">av</span>.give",
+            "3<span class=\"sc\">sg</span>",
+            "rice"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}if",
+            "about",
+            "\\textsc{av}.eat",
+            "\\phantom{[}1\\textsc{sg}",
+            "\\textsc{part}",
+            "\\textsc{av}.give",
+            "3\\textsc{sg}",
+            "rice"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}En  buat  ngamah{\\cb}\\textsubscript{Frame}, {\\ob}icang   ba{\\cb}\\textsubscript{ContrFoc}   mehang   iya  nasi.",
+        "srcwordsbare": [
+            "[En",
+            "buat",
+            "ngamah]Frame,",
+            "[icang",
+            "ba]ContrFoc",
+            "mehang",
+            "iya",
+            "nasi."
+        ],
+        "srcwordshtml": [
+            "[En",
+            "buat",
+            "ngamah]<span class=\"subscript\">Frame</span>,",
+            "[icang",
+            "ba]<span class=\"subscript\">ContrFoc</span>",
+            "mehang",
+            "iya",
+            "nasi."
+        ],
+        "srcwordstex": [
+            "{\\ob}En",
+            "buat",
+            "ngamah{\\cb}\\textsubscript{Frame},",
+            "{\\ob}icang",
+            "ba{\\cb}\\textsubscript{ContrFoc}",
+            "mehang",
+            "iya",
+            "nasi."
+        ],
+        "trs": "As for eating needs, I am the person who gave him meals.",
+        "wlength": 8
+    },
+    {
+        "ID": "arka-360026",
+        "categories": [
+            "av",
+            "def",
+            "neg",
+            "pass",
+            "sg"
+        ],
+        "clength": 251,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}coconut father-\\textsc{def}  that   \\textsc{av}.intend  brother Mudiasir again  \\textsc{av}.redeem {} {} \\phantom{(*}3\\textsc{sg} intend  pay=3  \\textsc{av}-pay {} \\textsc{neg}  give-\\textsc{pass}   by  Man Jantuk",
+        "imtwordsbare": [
+            "\\phantom{[}coconut",
+            "father-DEF",
+            "that",
+            "AV.intend",
+            "brother",
+            "Mudiasir",
+            "again",
+            "AV.redeem",
+            "{}",
+            "{}",
+            "\\phantom{(*}3SG",
+            "intend",
+            "pay=3",
+            "AV-pay",
+            "{}",
+            "NEG",
+            "give-PASS",
+            "by",
+            "Man",
+            "Jantuk"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}coconut",
+            "father-<span class=\"sc\">def</span>",
+            "that",
+            "<span class=\"sc\">av</span>.intend",
+            "brother",
+            "Mudiasir",
+            "again",
+            "<span class=\"sc\">av</span>.redeem",
+            "{}",
+            "{}",
+            "\\phantom{(*}3<span class=\"sc\">sg</span>",
+            "intend",
+            "pay=3",
+            "<span class=\"sc\">av</span>-pay",
+            "{}",
+            "<span class=\"sc\">neg</span>",
+            "give-<span class=\"sc\">pass</span>",
+            "by",
+            "Man",
+            "Jantuk"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}coconut",
+            "father-\\textsc{def}",
+            "that",
+            "\\textsc{av}.intend",
+            "brother",
+            "Mudiasir",
+            "again",
+            "\\textsc{av}.redeem",
+            "{}",
+            "{}",
+            "\\phantom{(*}3\\textsc{sg}",
+            "intend",
+            "pay=3",
+            "\\textsc{av}-pay",
+            "{}",
+            "\\textsc{neg}",
+            "give-\\textsc{pass}",
+            "by",
+            "Man",
+            "Jantuk"
+        ],
+        "language": "201/chapters/arka.tex",
+        "modality": "volitive",
+        "polarity": "negative",
+        "src": "{\\ob}Nyuh  nanang-\u00e9  ento{\\cb}\\textsubscript{Top}  nagih  beli Mudiasir  buwin   nebus   {\\USEmptySet}  {\\USSlash}   {\\USOParen}{\\USStar}iya{\\USCParen}, nagih   bayah=a  ny-{\\USOParen}c{\\USCParen}icil {\\USEmptySet}, ngara  behang-a   k\u00e9n   Man Jantuk.",
+        "srcwordsbare": [
+            "[Nyuh",
+            "nanang-\u00e9",
+            "ento]Top",
+            "nagih",
+            "beli",
+            "Mudiasir",
+            "buwin",
+            "nebus",
+            "{\\USEmptySet}",
+            "{\\USSlash}",
+            "{\\USOParen}{\\USStar}iya{\\USCParen},",
+            "nagih",
+            "bayah=a",
+            "ny-{\\USOParen}c{\\USCParen}icil",
+            "{\\USEmptySet},",
+            "ngara",
+            "behang-a",
+            "k\u00e9n",
+            "Man",
+            "Jantuk."
+        ],
+        "srcwordshtml": [
+            "[Nyuh",
+            "nanang-\u00e9",
+            "ento]<span class=\"subscript\">Top</span>",
+            "nagih",
+            "beli",
+            "Mudiasir",
+            "buwin",
+            "nebus",
+            "{\\USEmptySet}",
+            "{\\USSlash}",
+            "{\\USOParen}{\\USStar}iya{\\USCParen},",
+            "nagih",
+            "bayah=a",
+            "ny-{\\USOParen}c{\\USCParen}icil",
+            "{\\USEmptySet},",
+            "ngara",
+            "behang-a",
+            "k\u00e9n",
+            "Man",
+            "Jantuk."
+        ],
+        "srcwordstex": [
+            "{\\ob}Nyuh",
+            "nanang-\u00e9",
+            "ento{\\cb}\\textsubscript{Top}",
+            "nagih",
+            "beli",
+            "Mudiasir",
+            "buwin",
+            "nebus",
+            "{\\USEmptySet}",
+            "{\\USSlash}",
+            "{\\USOParen}{\\USStar}iya{\\USCParen},",
+            "nagih",
+            "bayah=a",
+            "ny-{\\USOParen}c{\\USCParen}icil",
+            "{\\USEmptySet},",
+            "ngara",
+            "behang-a",
+            "k\u00e9n",
+            "Man",
+            "Jantuk."
+        ],
+        "trs": "As for Father\u2019s coconut tree, (brother) Mudiasi wanted to redeem (it); (he) wanted to pay it in instalments, but it was not accepted by Man Jantuk.",
+        "wlength": 20
+    },
+    {
+        "ID": "arka--69540",
+        "categories": [
+            "appl",
+            "av",
+            "fut",
+            "rel",
+            "sg"
+        ],
+        "clength": 110,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}rice  \\phantom{[}3\\textsc{sg}     \\textsc{rel}    \\textsc{fut}  \\textsc{av}.buy-\\textsc{appl}",
+        "imtwordsbare": [
+            "\\phantom{[}rice",
+            "\\phantom{[}3SG",
+            "REL",
+            "FUT",
+            "AV.buy-APPL"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}rice",
+            "\\phantom{[}3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">rel</span>",
+            "<span class=\"sc\">fut</span>",
+            "<span class=\"sc\">av</span>.buy-<span class=\"sc\">appl</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}rice",
+            "\\phantom{[}3\\textsc{sg}",
+            "\\textsc{rel}",
+            "\\textsc{fut}",
+            "\\textsc{av}.buy-\\textsc{appl}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Behas{\\cb}\\textsubscript{P.ContrTop},  {\\ob}iya{\\cb}\\textsubscript{A.Piv.ContrFoc}  ane  lakar  meli-ang.",
+        "srcwordsbare": [
+            "[Behas]P.ContrTop,",
+            "[iya]A.Piv.ContrFoc",
+            "ane",
+            "lakar",
+            "meli-ang."
+        ],
+        "srcwordshtml": [
+            "[Behas]<span class=\"subscript\">P.ContrTop</span>,",
+            "[iya]<span class=\"subscript\">A.Piv.ContrFoc</span>",
+            "ane",
+            "lakar",
+            "meli-ang."
+        ],
+        "srcwordstex": [
+            "{\\ob}Behas{\\cb}\\textsubscript{P.ContrTop},",
+            "{\\ob}iya{\\cb}\\textsubscript{A.Piv.ContrFoc}",
+            "ane",
+            "lakar",
+            "meli-ang."
+        ],
+        "trs": "As for rice, he is the one who will buy it.",
+        "wlength": 5
+    },
+    {
+        "ID": "arka--44774",
+        "categories": [
+            "appl",
+            "av",
+            "part",
+            "rel",
+            "sg"
+        ],
+        "clength": 95,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}this   \\phantom{[}2\\textsc{sg}  \\textsc{part}  \\textsc{rel}  \\textsc{av}.have.\\textsc{appl}",
+        "imtwordsbare": [
+            "\\phantom{[}this",
+            "\\phantom{[}2SG",
+            "PART",
+            "REL",
+            "AV.have.APPL"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}this",
+            "\\phantom{[}2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">rel</span>",
+            "<span class=\"sc\">av</span>.have.<span class=\"sc\">appl</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}this",
+            "\\phantom{[}2\\textsc{sg}",
+            "\\textsc{part}",
+            "\\textsc{rel}",
+            "\\textsc{av}.have.\\textsc{appl}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Ne{\\cb}\\textsubscript{Top}  {\\ob}cahi{\\cb}\\textsubscript{A.Piv.Foc}   ba   ane  ngelahang.",
+        "srcwordsbare": [
+            "[Ne]Top",
+            "[cahi]A.Piv.Foc",
+            "ba",
+            "ane",
+            "ngelahang."
+        ],
+        "srcwordshtml": [
+            "[Ne]<span class=\"subscript\">Top</span>",
+            "[cahi]<span class=\"subscript\">A.Piv.Foc</span>",
+            "ba",
+            "ane",
+            "ngelahang."
+        ],
+        "srcwordstex": [
+            "{\\ob}Ne{\\cb}\\textsubscript{Top}",
+            "{\\ob}cahi{\\cb}\\textsubscript{A.Piv.Foc}",
+            "ba",
+            "ane",
+            "ngelahang."
+        ],
+        "trs": "This (land), YOU are the one who owns (it).",
+        "wlength": 5
+    },
+    {
+        "ID": "arka-195706",
+        "categories": [
+            "appl",
+            "av",
+            "part",
+            "rel",
+            "sg"
+        ],
+        "clength": 117,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}this   \\textsc{part}  \\phantom{[}2\\textsc{sg}  \\phantom{(}\\textsc{part}  \\textsc{rel}  \\textsc{av}.have.\\textsc{appl}",
+        "imtwordsbare": [
+            "\\phantom{[}this",
+            "PART",
+            "\\phantom{[}2SG",
+            "\\phantom{(}PART",
+            "REL",
+            "AV.have.APPL"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}this",
+            "<span class=\"sc\">part</span>",
+            "\\phantom{[}2<span class=\"sc\">sg</span>",
+            "\\phantom{(}<span class=\"sc\">part</span>",
+            "<span class=\"sc\">rel</span>",
+            "<span class=\"sc\">av</span>.have.<span class=\"sc\">appl</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}this",
+            "\\textsc{part}",
+            "\\phantom{[}2\\textsc{sg}",
+            "\\phantom{(}\\textsc{part}",
+            "\\textsc{rel}",
+            "\\textsc{av}.have.\\textsc{appl}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Ne{\\cb}\\textsubscript{Top}  ba  {\\ob}cahi{\\cb}\\textsubscript{A.Piv}   {\\USOParen}ba{\\USCParen}  ane   ngelahang.",
+        "srcwordsbare": [
+            "[Ne]Top",
+            "ba",
+            "[cahi]A.Piv",
+            "{\\USOParen}ba{\\USCParen}",
+            "ane",
+            "ngelahang."
+        ],
+        "srcwordshtml": [
+            "[Ne]<span class=\"subscript\">Top</span>",
+            "ba",
+            "[cahi]<span class=\"subscript\">A.Piv</span>",
+            "{\\USOParen}ba{\\USCParen}",
+            "ane",
+            "ngelahang."
+        ],
+        "srcwordstex": [
+            "{\\ob}Ne{\\cb}\\textsubscript{Top}",
+            "ba",
+            "{\\ob}cahi{\\cb}\\textsubscript{A.Piv}",
+            "{\\USOParen}ba{\\USCParen}",
+            "ane",
+            "ngelahang."
+        ],
+        "trs": "THIS (LAND), YOU are the one who owns (it).",
+        "wlength": 6
+    },
+    {
+        "ID": "arka-435053",
+        "categories": [
+            "appl",
+            "av",
+            "part",
+            "rel",
+            "sg"
+        ],
+        "clength": 127,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{*} \\phantom{[}this   \\textsc{part}  \\textsc{rel}   \\phantom{[}2\\textsc{sg}  \\phantom{(}\\textsc{part}  \\textsc{av}.have.\\textsc{appl}",
+        "imtwordsbare": [
+            "\\phantom{*}",
+            "\\phantom{[}this",
+            "PART",
+            "REL",
+            "\\phantom{[}2SG",
+            "\\phantom{(}PART",
+            "AV.have.APPL"
+        ],
+        "imtwordshtml": [
+            "\\phantom{*}",
+            "\\phantom{[}this",
+            "<span class=\"sc\">part</span>",
+            "<span class=\"sc\">rel</span>",
+            "\\phantom{[}2<span class=\"sc\">sg</span>",
+            "\\phantom{(}<span class=\"sc\">part</span>",
+            "<span class=\"sc\">av</span>.have.<span class=\"sc\">appl</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{*}",
+            "\\phantom{[}this",
+            "\\textsc{part}",
+            "\\textsc{rel}",
+            "\\phantom{[}2\\textsc{sg}",
+            "\\phantom{(}\\textsc{part}",
+            "\\textsc{av}.have.\\textsc{appl}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\USStar} {\\ob}Ne{\\cb}\\textsubscript{Top}  ba  ane   {\\ob}cahi{\\cb}\\textsubscript{A.Piv}   {\\USOParen}ba{\\USCParen}  ngelahang.",
+        "srcwordsbare": [
+            "{\\USStar}",
+            "[Ne]Top",
+            "ba",
+            "ane",
+            "[cahi]A.Piv",
+            "{\\USOParen}ba{\\USCParen}",
+            "ngelahang."
+        ],
+        "srcwordshtml": [
+            "{\\USStar}",
+            "[Ne]<span class=\"subscript\">Top</span>",
+            "ba",
+            "ane",
+            "[cahi]<span class=\"subscript\">A.Piv</span>",
+            "{\\USOParen}ba{\\USCParen}",
+            "ngelahang."
+        ],
+        "srcwordstex": [
+            "{\\USStar}",
+            "{\\ob}Ne{\\cb}\\textsubscript{Top}",
+            "ba",
+            "ane",
+            "{\\ob}cahi{\\cb}\\textsubscript{A.Piv}",
+            "{\\USOParen}ba{\\USCParen}",
+            "ngelahang."
+        ],
+        "trs": "NOT FOR \u2018THIS (land), YOU are the one who owns (it)\u2019 or\t\\glt \u2018It is THIS (LAND) that YOU are the one who owns it.",
+        "wlength": 7
+    },
+    {
+        "ID": "arka--43189",
+        "categories": [
+            "av"
+        ],
+        "clength": 31,
+        "filename": "201/chapters/arka.tex",
+        "imt": "Men Sugih   \\textsc{av}.look.for  Men Tiwas",
+        "imtwordsbare": [
+            "Men",
+            "Sugih",
+            "AV.look.for",
+            "Men",
+            "Tiwas"
+        ],
+        "imtwordshtml": [
+            "Men",
+            "Sugih",
+            "<span class=\"sc\">av</span>.look.for",
+            "Men",
+            "Tiwas"
+        ],
+        "imtwordstex": [
+            "Men",
+            "Sugih",
+            "\\textsc{av}.look.for",
+            "Men",
+            "Tiwas"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Men Sugih   ngalih   Men Tiwas.",
+        "srcwordsbare": [
+            "Men",
+            "Sugih",
+            "ngalih",
+            "Men",
+            "Tiwas."
+        ],
+        "srcwordshtml": [
+            "Men",
+            "Sugih",
+            "ngalih",
+            "Men",
+            "Tiwas."
+        ],
+        "srcwordstex": [
+            "Men",
+            "Sugih",
+            "ngalih",
+            "Men",
+            "Tiwas."
+        ],
+        "trs": "Men Sugih looked for Men Tiwas.",
+        "wlength": 5
+    },
+    {
+        "ID": "arka--28906",
+        "categories": [
+            "av"
+        ],
+        "clength": 35,
+        "filename": "201/chapters/arka.tex",
+        "imt": "who  \\textsc{av}.look.for  Men Tiwas",
+        "imtwordsbare": [
+            "who",
+            "AV.look.for",
+            "Men",
+            "Tiwas"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">av</span>.look.for",
+            "Men",
+            "Tiwas"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{av}.look.for",
+            "Men",
+            "Tiwas"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Nyen   ngalih   Men Tiwas{\\USQMark}",
+        "srcwordsbare": [
+            "Nyen",
+            "ngalih",
+            "Men",
+            "Tiwas{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Nyen",
+            "ngalih",
+            "Men",
+            "Tiwas{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Nyen",
+            "ngalih",
+            "Men",
+            "Tiwas{\\USQMark}"
+        ],
+        "trs": "Who looked for Men Tiwas?",
+        "wlength": 4
+    },
+    {
+        "ID": "arka--76263",
+        "categories": [
+            "a",
+            "av",
+            "object",
+            "p",
+            "piv"
+        ],
+        "clength": 170,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}who  \\phantom{[}Men Tiwas  \\phantom{[}\\textsc{a}.\\textsc{piv}  \\textsc{av}.look.for  \\textsc{p}.\\textsc{object}",
+        "imtwordsbare": [
+            "\\phantom{[}who",
+            "\\phantom{[}Men",
+            "Tiwas",
+            "\\phantom{[}A.PIV",
+            "AV.look.for",
+            "P.OBJECT"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}who",
+            "\\phantom{[}Men",
+            "Tiwas",
+            "\\phantom{[}<span class=\"sc\">a</span>.<span class=\"sc\">piv</span>",
+            "<span class=\"sc\">av</span>.look.for",
+            "<span class=\"sc\">p</span>.<span class=\"sc\">object</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}who",
+            "\\phantom{[}Men",
+            "Tiwas",
+            "\\phantom{[}\\textsc{a}.\\textsc{piv}",
+            "\\textsc{av}.look.for",
+            "\\textsc{p}.\\textsc{object}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}Nyen{\\cb}\\textsubscript{Foc\\_j{\\USSlash}{\\USStar}i}  {\\ob}Men Tiwas{\\cb}\\textsubscript{Top}  {\\ob}\\_\\textsubscript{j}  ngalih    \\_\\_\\textsubscript{i}{\\cb}{\\USQMark}",
+        "srcwordsbare": [
+            "[Nyen]Foc_j{\\USSlash{\\USStar}i}",
+            "[Men",
+            "Tiwas]Top",
+            "[_j",
+            "ngalih",
+            "__i]{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "[Nyen]<span class=\"subscript\">Foc_j{\\USSlash</span>{\\USStar}i}",
+            "[Men",
+            "Tiwas]<span class=\"subscript\">Top</span>",
+            "[_<span class=\"subscript\">j</span>",
+            "ngalih",
+            "__<span class=\"subscript\">i</span>]{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "{\\ob}Nyen{\\cb}\\textsubscript{Foc\\_j{\\USSlash}{\\USStar}i}",
+            "{\\ob}Men",
+            "Tiwas{\\cb}\\textsubscript{Top}",
+            "{\\ob}\\_\\textsubscript{j}",
+            "ngalih",
+            "\\_\\_\\textsubscript{i}{\\cb}{\\USQMark}"
+        ],
+        "trs": "i)  \u2018Who was looking for Men Tiwas?\u2019\\\\",
+        "wlength": 6
+    },
+    {
+        "ID": "arka-802243",
+        "categories": [
+            "def",
+            "mid",
+            "part"
+        ],
+        "clength": 166,
+        "filename": "201/chapters/arka.tex",
+        "imt": "after like.that  \\phantom{[}there   \\textsc{part}  \\phantom{[}mother  together  \\textsc{mid}.work \\phantom{[}at  Butuh Catra-\\textsc{def}  that",
+        "imtwordsbare": [
+            "after",
+            "like.that",
+            "\\phantom{[}there",
+            "PART",
+            "\\phantom{[}mother",
+            "together",
+            "MID.work",
+            "\\phantom{[}at",
+            "Butuh",
+            "Catra-DEF",
+            "that"
+        ],
+        "imtwordshtml": [
+            "after",
+            "like.that",
+            "\\phantom{[}there",
+            "<span class=\"sc\">part</span>",
+            "\\phantom{[}mother",
+            "together",
+            "<span class=\"sc\">mid</span>.work",
+            "\\phantom{[}at",
+            "Butuh",
+            "Catra-<span class=\"sc\">def</span>",
+            "that"
+        ],
+        "imtwordstex": [
+            "after",
+            "like.that",
+            "\\phantom{[}there",
+            "\\textsc{part}",
+            "\\phantom{[}mother",
+            "together",
+            "\\textsc{mid}.work",
+            "\\phantom{[}at",
+            "Butuh",
+            "Catra-\\textsc{def}",
+            "that"
+        ],
+        "language": "201/chapters/arka.tex",
+        "polarity": "negative",
+        "src": "Ba kento   {\\ob}ditu   sa{\\cb}\\textsubscript{Frame\\_i}   {\\ob}meme{\\cb}\\textsubscript{S.Top}   bareng   megae {\\ob}di   Butuh Catra-ne   ento{\\cb}\\textsubscript{\\_i}.",
+        "srcwordsbare": [
+            "Ba",
+            "kento",
+            "[ditu",
+            "sa]Frame_i",
+            "[meme]S.Top",
+            "bareng",
+            "megae",
+            "[di",
+            "Butuh",
+            "Catra-ne",
+            "ento]_i."
+        ],
+        "srcwordshtml": [
+            "Ba",
+            "kento",
+            "[ditu",
+            "sa]<span class=\"subscript\">Frame_i</span>",
+            "[meme]<span class=\"subscript\">S.Top</span>",
+            "bareng",
+            "megae",
+            "[di",
+            "Butuh",
+            "Catra-ne",
+            "ento]<span class=\"subscript\">_i</span>."
+        ],
+        "srcwordstex": [
+            "Ba",
+            "kento",
+            "{\\ob}ditu",
+            "sa{\\cb}\\textsubscript{Frame\\_i}",
+            "{\\ob}meme{\\cb}\\textsubscript{S.Top}",
+            "bareng",
+            "megae",
+            "{\\ob}di",
+            "Butuh",
+            "Catra-ne",
+            "ento{\\cb}\\textsubscript{\\_i}."
+        ],
+        "trs": "After that, THERE at Butuh Catra\u2019s place (i.e. not at other places), I (mother) work together.",
+        "wlength": 11
+    },
+    {
+        "ID": "arka-805605",
+        "categories": [
+            "neg",
+            "uv"
+        ],
+        "clength": 81,
+        "filename": "201/chapters/arka.tex",
+        "imt": "\\phantom{[}\\textsc{neg}  \\phantom{[}\\textsc{neg}    \\textsc{uv}.obtain",
+        "imtwordsbare": [
+            "\\phantom{[}NEG",
+            "\\phantom{[}NEG",
+            "UV.obtain"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}<span class=\"sc\">neg</span>",
+            "\\phantom{[}<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">uv</span>.obtain"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}\\textsc{neg}",
+            "\\phantom{[}\\textsc{neg}",
+            "\\textsc{uv}.obtain"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "{\\ob}ngara{\\cb}\\textsubscript{Foc},   {\\ob}ngara{\\cb}\\textsubscript{Foc}   bakat.",
+        "srcwordsbare": [
+            "[ngara]Foc,",
+            "[ngara]Foc",
+            "bakat."
+        ],
+        "srcwordshtml": [
+            "[ngara]<span class=\"subscript\">Foc</span>,",
+            "[ngara]<span class=\"subscript\">Foc</span>",
+            "bakat."
+        ],
+        "srcwordstex": [
+            "{\\ob}ngara{\\cb}\\textsubscript{Foc},",
+            "{\\ob}ngara{\\cb}\\textsubscript{Foc}",
+            "bakat."
+        ],
+        "trs": "No, (I) didn't get (it).",
+        "wlength": 3
+    },
+    {
+        "ID": "arka-166789",
+        "categories": [
+            "def",
+            "f",
+            "neg",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "201/chapters/arka.tex",
+        "imt": "piglet-\\textsc{def}  \\textsc{neg}  die  because.of  2\\textsc{sg.f}",
+        "imtwordsbare": [
+            "piglet-DEF",
+            "NEG",
+            "die",
+            "because.of",
+            "2sg.f"
+        ],
+        "imtwordshtml": [
+            "piglet-<span class=\"sc\">def</span>",
+            "<span class=\"sc\">neg</span>",
+            "die",
+            "because.of",
+            "2<span class=\"sc\">sg.f</span>"
+        ],
+        "imtwordstex": [
+            "piglet-\\textsc{def}",
+            "\\textsc{neg}",
+            "die",
+            "because.of",
+            "2\\textsc{sg.f}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "polarity": "negative",
+        "src": "Kucit-e    ngara   mati   ulihan   nyai.",
+        "srcwordsbare": [
+            "Kucit-e",
+            "ngara",
+            "mati",
+            "ulihan",
+            "nyai."
+        ],
+        "srcwordshtml": [
+            "Kucit-e",
+            "ngara",
+            "mati",
+            "ulihan",
+            "nyai."
+        ],
+        "srcwordstex": [
+            "Kucit-e",
+            "ngara",
+            "mati",
+            "ulihan",
+            "nyai."
+        ],
+        "trs": "i.   \u2018The piglet was not dead because of you.\u2019\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "arka-138657",
+        "categories": [
+            "def",
+            "f",
+            "neg",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "201/chapters/arka.tex",
+        "imt": "piglet-\\textsc{def}  \\textsc{neg}  die  because.of  2\\textsc{sg.f}",
+        "imtwordsbare": [
+            "piglet-DEF",
+            "NEG",
+            "die",
+            "because.of",
+            "2sg.f"
+        ],
+        "imtwordshtml": [
+            "piglet-<span class=\"sc\">def</span>",
+            "<span class=\"sc\">neg</span>",
+            "die",
+            "because.of",
+            "2<span class=\"sc\">sg.f</span>"
+        ],
+        "imtwordstex": [
+            "piglet-\\textsc{def}",
+            "\\textsc{neg}",
+            "die",
+            "because.of",
+            "2\\textsc{sg.f}"
+        ],
+        "language": "201/chapters/arka.tex",
+        "polarity": "negative",
+        "src": "Kucit-e    mati   ngara   ulihan   nyai.",
+        "srcwordsbare": [
+            "Kucit-e",
+            "mati",
+            "ngara",
+            "ulihan",
+            "nyai."
+        ],
+        "srcwordshtml": [
+            "Kucit-e",
+            "mati",
+            "ngara",
+            "ulihan",
+            "nyai."
+        ],
+        "srcwordstex": [
+            "Kucit-e",
+            "mati",
+            "ngara",
+            "ulihan",
+            "nyai."
+        ],
+        "trs": "* i.   \u2018The piglet was not dead because of you.\u2019\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "arka--44172",
+        "categories": [
+            "f",
+            "neg",
+            "sg"
+        ],
+        "clength": 123,
+        "filename": "201/chapters/arka.tex",
+        "imt": "that   piglet   dead  because   by  sickness \\phantom{[}\\textsc{neg}  \\phantom{[}because.of  2\\textsc{sg.f}  make  dead",
+        "imtwordsbare": [
+            "that",
+            "piglet",
+            "dead",
+            "because",
+            "by",
+            "sickness",
+            "\\phantom{[}NEG",
+            "\\phantom{[}because.of",
+            "2sg.f",
+            "make",
+            "dead"
+        ],
+        "imtwordshtml": [
+            "that",
+            "piglet",
+            "dead",
+            "because",
+            "by",
+            "sickness",
+            "\\phantom{[}<span class=\"sc\">neg</span>",
+            "\\phantom{[}because.of",
+            "2<span class=\"sc\">sg.f</span>",
+            "make",
+            "dead"
+        ],
+        "imtwordstex": [
+            "that",
+            "piglet",
+            "dead",
+            "because",
+            "by",
+            "sickness",
+            "\\phantom{[}\\textsc{neg}",
+            "\\phantom{[}because.of",
+            "2\\textsc{sg.f}",
+            "make",
+            "dead"
+        ],
+        "language": "201/chapters/arka.tex",
+        "polarity": "negative",
+        "src": "Ento   kucit   mati   kinnya   behan   sakiten; {\\ob}ngara   {\\ob}ulihan   nyai{\\cb}{\\cb}\\textsubscript{Foc}   kada   mati.",
+        "srcwordsbare": [
+            "Ento",
+            "kucit",
+            "mati",
+            "kinnya",
+            "behan",
+            "sakiten;",
+            "[ngara",
+            "[ulihan",
+            "nyai]]Foc",
+            "kada",
+            "mati."
+        ],
+        "srcwordshtml": [
+            "Ento",
+            "kucit",
+            "mati",
+            "kinnya",
+            "behan",
+            "sakiten;",
+            "[ngara",
+            "[ulihan",
+            "nyai]]<span class=\"subscript\">Foc</span>",
+            "kada",
+            "mati."
+        ],
+        "srcwordstex": [
+            "Ento",
+            "kucit",
+            "mati",
+            "kinnya",
+            "behan",
+            "sakiten;",
+            "{\\ob}ngara",
+            "{\\ob}ulihan",
+            "nyai{\\cb}{\\cb}\\textsubscript{Foc}",
+            "kada",
+            "mati."
+        ],
+        "trs": "The piglet died because of its sickness; not because of you, (the thing that) caused its death.",
+        "wlength": 11
+    },
+    {
+        "ID": "arka--39811",
+        "categories": [
+            "av",
+            "neg"
+        ],
+        "clength": 99,
+        "filename": "201/chapters/arka.tex",
+        "imt": "want   go  to  mountain  \\textsc{av}.get  sweet.potato \\phantom{[}coconuts  \\textsc{neg}  \\textsc{av}.have",
+        "imtwordsbare": [
+            "want",
+            "go",
+            "to",
+            "mountain",
+            "AV.get",
+            "sweet.potato",
+            "\\phantom{[}coconuts",
+            "NEG",
+            "AV.have"
+        ],
+        "imtwordshtml": [
+            "want",
+            "go",
+            "to",
+            "mountain",
+            "<span class=\"sc\">av</span>.get",
+            "sweet.potato",
+            "\\phantom{[}coconuts",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">av</span>.have"
+        ],
+        "imtwordstex": [
+            "want",
+            "go",
+            "to",
+            "mountain",
+            "\\textsc{av}.get",
+            "sweet.potato",
+            "\\phantom{[}coconuts",
+            "\\textsc{neg}",
+            "\\textsc{av}.have"
+        ],
+        "language": "201/chapters/arka.tex",
+        "src": "Budi   luwas   ke   gunung   ngalih   sela, {\\ob}nyuh{\\cb}\\textsubscript{ContrFoc}  ngara   ngelah.",
+        "srcwordsbare": [
+            "Budi",
+            "luwas",
+            "ke",
+            "gunung",
+            "ngalih",
+            "sela,",
+            "[nyuh]ContrFoc",
+            "ngara",
+            "ngelah."
+        ],
+        "srcwordshtml": [
+            "Budi",
+            "luwas",
+            "ke",
+            "gunung",
+            "ngalih",
+            "sela,",
+            "[nyuh]<span class=\"subscript\">ContrFoc</span>",
+            "ngara",
+            "ngelah."
+        ],
+        "srcwordstex": [
+            "Budi",
+            "luwas",
+            "ke",
+            "gunung",
+            "ngalih",
+            "sela,",
+            "{\\ob}nyuh{\\cb}\\textsubscript{ContrFoc}",
+            "ngara",
+            "ngelah."
+        ],
+        "trs": "I was going to go to the mountain to trade for sweet potatoes, but, as for COCONUTS, I didn\u2019t have any.",
+        "wlength": 9
+    }
+]

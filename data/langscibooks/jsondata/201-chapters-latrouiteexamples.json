@@ -1,0 +1,1293 @@
+[
+    {
+        "ID": "latrouite--33506",
+        "categories": [
+            "<uv",
+            "dat",
+            "gen",
+            "lk",
+            "neg",
+            "nom",
+            "rls>"
+        ],
+        "clength": 100,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{neg}  \\textsc{<uv.rls>}write \\textsc{gen} woman \\textsc{dat} Lisa \\textsc{nom} one-\\textsc{lk} letter",
+        "imtwordsbare": [
+            "NEG",
+            "<uv.rls>write",
+            "GEN",
+            "woman",
+            "DAT",
+            "Lisa",
+            "NOM",
+            "one-LK",
+            "letter"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\"><uv.rls></span>write",
+            "<span class=\"sc\">gen</span>",
+            "woman",
+            "<span class=\"sc\">dat</span>",
+            "Lisa",
+            "<span class=\"sc\">nom</span>",
+            "one-<span class=\"sc\">lk</span>",
+            "letter"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "\\textsc{<uv.rls>}write",
+            "\\textsc{gen}",
+            "woman",
+            "\\textsc{dat}",
+            "Lisa",
+            "\\textsc{nom}",
+            "one-\\textsc{lk}",
+            "letter"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "polarity": "negative",
+        "src": "Hindi s{\\USSmaller}in{\\USGreater}ulat ng babae kay Lisa \\textbf{ang} \\textbf{isa-ng} \\textbf{liham}.",
+        "srcwordsbare": [
+            "Hindi",
+            "s{\\USSmaller}in{\\USGreater}ulat",
+            "ng",
+            "babae",
+            "kay",
+            "Lisa",
+            "ang",
+            "isa-ng",
+            "liham."
+        ],
+        "srcwordshtml": [
+            "Hindi",
+            "s{\\USSmaller}in{\\USGreater}ulat",
+            "ng",
+            "babae",
+            "kay",
+            "Lisa",
+            "<span class=\"bf\">ang</span>",
+            "<span class=\"bf\">isa-ng</span>",
+            "<span class=\"bf\">liham</span>."
+        ],
+        "srcwordstex": [
+            "Hindi",
+            "s{\\USSmaller}in{\\USGreater}ulat",
+            "ng",
+            "babae",
+            "kay",
+            "Lisa",
+            "\\textbf{ang}",
+            "\\textbf{isa-ng}",
+            "\\textbf{liham}."
+        ],
+        "trs": "The woman did not write \\textbf{a certain letter} to Lisa.",
+        "wlength": 9
+    },
+    {
+        "ID": "latrouite-449748",
+        "categories": [
+            "<uv",
+            "dat",
+            "gen",
+            "nom",
+            "rls>",
+            "tv"
+        ],
+        "clength": 127,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{tv-<uv.rls>}write \\textsc{gen} woman \\textsc{nom} name   \\textsc{gen} Lisa  \\textsc{dat} paper",
+        "imtwordsbare": [
+            "tv-<uv.rls>write",
+            "GEN",
+            "woman",
+            "NOM",
+            "name",
+            "GEN",
+            "Lisa",
+            "DAT",
+            "paper"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">tv-<uv.rls></span>write",
+            "<span class=\"sc\">gen</span>",
+            "woman",
+            "<span class=\"sc\">nom</span>",
+            "name",
+            "<span class=\"sc\">gen</span>",
+            "Lisa",
+            "<span class=\"sc\">dat</span>",
+            "paper"
+        ],
+        "imtwordstex": [
+            "\\textsc{tv-<uv.rls>}write",
+            "\\textsc{gen}",
+            "woman",
+            "\\textsc{nom}",
+            "name",
+            "\\textsc{gen}",
+            "Lisa",
+            "\\textsc{dat}",
+            "paper"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "\\textbf{I}\u2010s{\\USSmaller}in{\\USGreater}ulat    ng babae    \\textbf{ang} \\textbf{pangalan}    \\textbf{ni} \\textbf{Lisa} sa papel.",
+        "srcwordsbare": [
+            "I\u2010s{\\USSmaller}in{\\USGreater}ulat",
+            "ng",
+            "babae",
+            "ang",
+            "pangalan",
+            "ni",
+            "Lisa",
+            "sa",
+            "papel."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">I</span>\u2010s{\\USSmaller}in{\\USGreater}ulat",
+            "ng",
+            "babae",
+            "<span class=\"bf\">ang</span>",
+            "<span class=\"bf\">pangalan</span>",
+            "<span class=\"bf\">ni</span>",
+            "<span class=\"bf\">Lisa</span>",
+            "sa",
+            "papel."
+        ],
+        "srcwordstex": [
+            "\\textbf{I}\u2010s{\\USSmaller}in{\\USGreater}ulat",
+            "ng",
+            "babae",
+            "\\textbf{ang}",
+            "\\textbf{pangalan}",
+            "\\textbf{ni}",
+            "\\textbf{Lisa}",
+            "sa",
+            "papel."
+        ],
+        "trs": "The woman wrote \\textbf{Lisa\u2019s name} on (the) paper.",
+        "wlength": 9
+    },
+    {
+        "ID": "latrouite--70878",
+        "categories": [
+            "av",
+            "dat",
+            "nom",
+            "pl",
+            "rls"
+        ],
+        "clength": 58,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "<\\textsc{av.rls}>scare    \\textsc{dat} \\textsc{pl}     woman \\textsc{nom}  Lena",
+        "imtwordsbare": [
+            "<av.rls>scare",
+            "DAT",
+            "PL",
+            "woman",
+            "NOM",
+            "Lena"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av.rls</span>>scare",
+            "<span class=\"sc\">dat</span>",
+            "<span class=\"sc\">pl</span>",
+            "woman",
+            "<span class=\"sc\">nom</span>",
+            "Lena"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av.rls}>scare",
+            "\\textsc{dat}",
+            "\\textsc{pl}",
+            "woman",
+            "\\textsc{nom}",
+            "Lena"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "T{\\USSmaller}um{\\USGreater}akot   sa    mga babae si Lena.",
+        "srcwordsbare": [
+            "T{\\USSmaller}um{\\USGreater}akot",
+            "sa",
+            "mga",
+            "babae",
+            "si",
+            "Lena."
+        ],
+        "srcwordshtml": [
+            "T{\\USSmaller}um{\\USGreater}akot",
+            "sa",
+            "mga",
+            "babae",
+            "si",
+            "Lena."
+        ],
+        "srcwordstex": [
+            "T{\\USSmaller}um{\\USGreater}akot",
+            "sa",
+            "mga",
+            "babae",
+            "si",
+            "Lena."
+        ],
+        "trs": "Intended: `Lena scared the women.'}",
+        "wlength": 6
+    },
+    {
+        "ID": "latrouite--91475",
+        "categories": [
+            "gen",
+            "lk",
+            "nom",
+            "one",
+            "rls",
+            "uv"
+        ],
+        "clength": 62,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "<\\textsc{uv.rls}>scare    \\textsc{gen} Lena \\textsc{nom}  \\textsc{one-lk}  woman",
+        "imtwordsbare": [
+            "<uv.rls>scare",
+            "GEN",
+            "Lena",
+            "NOM",
+            "one-lk",
+            "woman"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">uv.rls</span>>scare",
+            "<span class=\"sc\">gen</span>",
+            "Lena",
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">one-lk</span>",
+            "woman"
+        ],
+        "imtwordstex": [
+            "<\\textsc{uv.rls}>scare",
+            "\\textsc{gen}",
+            "Lena",
+            "\\textsc{nom}",
+            "\\textsc{one-lk}",
+            "woman"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "T{\\USSmaller}in{\\USGreater}akot    ni Lena   ang isa-ng babae.",
+        "srcwordsbare": [
+            "T{\\USSmaller}in{\\USGreater}akot",
+            "ni",
+            "Lena",
+            "ang",
+            "isa-ng",
+            "babae."
+        ],
+        "srcwordshtml": [
+            "T{\\USSmaller}in{\\USGreater}akot",
+            "ni",
+            "Lena",
+            "ang",
+            "isa-ng",
+            "babae."
+        ],
+        "srcwordstex": [
+            "T{\\USSmaller}in{\\USGreater}akot",
+            "ni",
+            "Lena",
+            "ang",
+            "isa-ng",
+            "babae."
+        ],
+        "trs": "Lena scared a woman.'}",
+        "wlength": 6
+    },
+    {
+        "ID": "latrouite-681800",
+        "categories": [
+            "dat",
+            "inv",
+            "nom"
+        ],
+        "clength": 70,
+        "coordination": "and",
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{dat} Angel, \\textsc{nom} ghost   \\textsc{inv} \\textsc{nom} developing slave   \\textsc{dat} alcohol and cigarette",
+        "imtwordsbare": [
+            "DAT",
+            "Angel,",
+            "NOM",
+            "ghost",
+            "INV",
+            "NOM",
+            "developing",
+            "slave",
+            "DAT",
+            "alcohol",
+            "and",
+            "cigarette"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dat</span>",
+            "Angel,",
+            "<span class=\"sc\">nom</span>",
+            "ghost",
+            "<span class=\"sc\">inv</span>",
+            "<span class=\"sc\">nom</span>",
+            "developing",
+            "slave",
+            "<span class=\"sc\">dat</span>",
+            "alcohol",
+            "and",
+            "cigarette"
+        ],
+        "imtwordstex": [
+            "\\textsc{dat}",
+            "Angel,",
+            "\\textsc{nom}",
+            "ghost",
+            "\\textsc{inv}",
+            "\\textsc{nom}",
+            "developing",
+            "slave",
+            "\\textsc{dat}",
+            "alcohol",
+            "and",
+            "cigarette"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Kay Angel, ang multo ay ang pagiging      alipin sa alak at sigarilyo.",
+        "srcwordsbare": [
+            "Kay",
+            "Angel,",
+            "ang",
+            "multo",
+            "ay",
+            "ang",
+            "pagiging",
+            "alipin",
+            "sa",
+            "alak",
+            "at",
+            "sigarilyo."
+        ],
+        "srcwordshtml": [
+            "Kay",
+            "Angel,",
+            "ang",
+            "multo",
+            "ay",
+            "ang",
+            "pagiging",
+            "alipin",
+            "sa",
+            "alak",
+            "at",
+            "sigarilyo."
+        ],
+        "srcwordstex": [
+            "Kay",
+            "Angel,",
+            "ang",
+            "multo",
+            "ay",
+            "ang",
+            "pagiging",
+            "alipin",
+            "sa",
+            "alak",
+            "at",
+            "sigarilyo."
+        ],
+        "trs": "For Angel, the ghost is the developing addiction to alcohol and cigarettes.",
+        "wlength": 12
+    },
+    {
+        "ID": "latrouite-782673",
+        "categories": [
+            "<uv>ipfv",
+            "gen",
+            "nom",
+            "pl"
+        ],
+        "clength": 116,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "answer likewise \\textsc{gen} Executive Sec. Ronaldo Zamora \\textsc{<uv>ipfv}-scare    just    \\textsc{gen} rallies \\textsc{nom} \\textsc{pl} negotiators",
+        "imtwordsbare": [
+            "answer",
+            "likewise",
+            "GEN",
+            "Executive",
+            "Sec.",
+            "Ronaldo",
+            "Zamora",
+            "<UV>IPFV-scare",
+            "just",
+            "GEN",
+            "rallies",
+            "NOM",
+            "PL",
+            "negotiators"
+        ],
+        "imtwordshtml": [
+            "answer",
+            "likewise",
+            "<span class=\"sc\">gen</span>",
+            "Executive",
+            "Sec.",
+            "Ronaldo",
+            "Zamora",
+            "<span class=\"sc\"><uv>ipfv</span>-scare",
+            "just",
+            "<span class=\"sc\">gen</span>",
+            "rallies",
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">pl</span>",
+            "negotiators"
+        ],
+        "imtwordstex": [
+            "answer",
+            "likewise",
+            "\\textsc{gen}",
+            "Executive",
+            "Sec.",
+            "Ronaldo",
+            "Zamora",
+            "\\textsc{<uv>ipfv}-scare",
+            "just",
+            "\\textsc{gen}",
+            "rallies",
+            "\\textsc{nom}",
+            "\\textsc{pl}",
+            "negotiators"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Sabat naman ni Executive Sec. Ronaldo Zamora, t{\\USSmaller}in{\\USGreater}a-takot lang ng rallies ang mga negosyante.",
+        "srcwordsbare": [
+            "Sabat",
+            "naman",
+            "ni",
+            "Executive",
+            "Sec.",
+            "Ronaldo",
+            "Zamora,",
+            "t{\\USSmaller}in{\\USGreater}a-takot",
+            "lang",
+            "ng",
+            "rallies",
+            "ang",
+            "mga",
+            "negosyante."
+        ],
+        "srcwordshtml": [
+            "Sabat",
+            "naman",
+            "ni",
+            "Executive",
+            "Sec.",
+            "Ronaldo",
+            "Zamora,",
+            "t{\\USSmaller}in{\\USGreater}a-takot",
+            "lang",
+            "ng",
+            "rallies",
+            "ang",
+            "mga",
+            "negosyante."
+        ],
+        "srcwordstex": [
+            "Sabat",
+            "naman",
+            "ni",
+            "Executive",
+            "Sec.",
+            "Ronaldo",
+            "Zamora,",
+            "t{\\USSmaller}in{\\USGreater}a-takot",
+            "lang",
+            "ng",
+            "rallies",
+            "ang",
+            "mga",
+            "negosyante."
+        ],
+        "trs": "According to Executive Sec.\\ Ronaldo Zamora, the rallies just frighten the negotiators/businessmen.",
+        "wlength": 14
+    },
+    {
+        "ID": "latrouite-486508",
+        "categories": [
+            "1sg",
+            "<uv",
+            "gen",
+            "lk",
+            "nom",
+            "rls>"
+        ],
+        "clength": 74,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{<uv.rls>}wait \\textsc{1sg.nom}  \\textsc{gen} one-\\textsc{lk} man {} \\textsc{gen} Gale",
+        "imtwordsbare": [
+            "<uv.rls>wait",
+            "1sg.nom",
+            "GEN",
+            "one-LK",
+            "man",
+            "{}",
+            "GEN",
+            "Gale"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\"><uv.rls></span>wait",
+            "<span class=\"sc\">1sg.nom</span>",
+            "<span class=\"sc\">gen</span>",
+            "one-<span class=\"sc\">lk</span>",
+            "man",
+            "{}",
+            "<span class=\"sc\">gen</span>",
+            "Gale"
+        ],
+        "imtwordstex": [
+            "\\textsc{<uv.rls>}wait",
+            "\\textsc{1sg.nom}",
+            "\\textsc{gen}",
+            "one-\\textsc{lk}",
+            "man",
+            "{}",
+            "\\textsc{gen}",
+            "Gale"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "H{\\USSmaller}in{\\USGreater}intay ako ng  isa-ng lalaki {\\USSlash} ni Gale.",
+        "srcwordsbare": [
+            "H{\\USSmaller}in{\\USGreater}intay",
+            "ako",
+            "ng",
+            "isa-ng",
+            "lalaki",
+            "{\\USSlash}",
+            "ni",
+            "Gale."
+        ],
+        "srcwordshtml": [
+            "H{\\USSmaller}in{\\USGreater}intay",
+            "ako",
+            "ng",
+            "isa-ng",
+            "lalaki",
+            "{\\USSlash}",
+            "ni",
+            "Gale."
+        ],
+        "srcwordstex": [
+            "H{\\USSmaller}in{\\USGreater}intay",
+            "ako",
+            "ng",
+            "isa-ng",
+            "lalaki",
+            "{\\USSlash}",
+            "ni",
+            "Gale."
+        ],
+        "trs": "A man/Gale waited for me.",
+        "wlength": 8
+    },
+    {
+        "ID": "latrouite-585811",
+        "categories": [
+            "av",
+            "dat",
+            "gen",
+            "lk",
+            "pl",
+            "q"
+        ],
+        "clength": 63,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "should    \\textsc{q-lk}    \\textsc{av}-give    \\textsc{gen} money    \\textsc{dat} \\textsc{pl} teacher",
+        "imtwordsbare": [
+            "should",
+            "q-lk",
+            "AV-give",
+            "GEN",
+            "money",
+            "DAT",
+            "PL",
+            "teacher"
+        ],
+        "imtwordshtml": [
+            "should",
+            "<span class=\"sc\">q-lk</span>",
+            "<span class=\"sc\">av</span>-give",
+            "<span class=\"sc\">gen</span>",
+            "money",
+            "<span class=\"sc\">dat</span>",
+            "<span class=\"sc\">pl</span>",
+            "teacher"
+        ],
+        "imtwordstex": [
+            "should",
+            "\\textsc{q-lk}",
+            "\\textsc{av}-give",
+            "\\textsc{gen}",
+            "money",
+            "\\textsc{dat}",
+            "\\textsc{pl}",
+            "teacher"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Dapat    ba-ng    mag-bigay    ng pera    sa mga guro{\\USQMark}",
+        "srcwordsbare": [
+            "Dapat",
+            "ba-ng",
+            "mag-bigay",
+            "ng",
+            "pera",
+            "sa",
+            "mga",
+            "guro{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Dapat",
+            "ba-ng",
+            "mag-bigay",
+            "ng",
+            "pera",
+            "sa",
+            "mga",
+            "guro{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Dapat",
+            "ba-ng",
+            "mag-bigay",
+            "ng",
+            "pera",
+            "sa",
+            "mga",
+            "guro{\\USQMark}"
+        ],
+        "trs": "Should one give money to the teachers?",
+        "wlength": 8
+    },
+    {
+        "ID": "latrouite--32936",
+        "categories": [
+            "<av",
+            "gen",
+            "inv",
+            "nom",
+            "rls>"
+        ],
+        "clength": 54,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{nom} book your \\textsc{inv} \\textsc{<av.rls>}read this.\\textsc{gen} \\textsc{nom} Peter",
+        "imtwordsbare": [
+            "NOM",
+            "book",
+            "your",
+            "INV",
+            "<av.rls>read",
+            "this.GEN",
+            "NOM",
+            "Peter"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>",
+            "book",
+            "your",
+            "<span class=\"sc\">inv</span>",
+            "<span class=\"sc\"><av.rls></span>read",
+            "this.<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">nom</span>",
+            "Peter"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}",
+            "book",
+            "your",
+            "\\textsc{inv}",
+            "\\textsc{<av.rls>}read",
+            "this.\\textsc{gen}",
+            "\\textsc{nom}",
+            "Peter"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Ang libro mo   ay    nag-ba-basa  nito si       Peter.",
+        "srcwordsbare": [
+            "Ang",
+            "libro",
+            "mo",
+            "ay",
+            "nag-ba-basa",
+            "nito",
+            "si",
+            "Peter."
+        ],
+        "srcwordshtml": [
+            "Ang",
+            "libro",
+            "mo",
+            "ay",
+            "nag-ba-basa",
+            "nito",
+            "si",
+            "Peter."
+        ],
+        "srcwordstex": [
+            "Ang",
+            "libro",
+            "mo",
+            "ay",
+            "nag-ba-basa",
+            "nito",
+            "si",
+            "Peter."
+        ],
+        "trs": "Intended: `The book, Peter is reading it.'}",
+        "wlength": 8
+    },
+    {
+        "ID": "latrouite--54977",
+        "categories": [
+            "<av",
+            "inv",
+            "nom",
+            "rls>"
+        ],
+        "clength": 47,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{nom} book your \\textsc{inv} \\textsc{<av.rls>}read \\textsc{nom} Peter",
+        "imtwordsbare": [
+            "NOM",
+            "book",
+            "your",
+            "INV",
+            "<av.rls>read",
+            "NOM",
+            "Peter"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>",
+            "book",
+            "your",
+            "<span class=\"sc\">inv</span>",
+            "<span class=\"sc\"><av.rls></span>read",
+            "<span class=\"sc\">nom</span>",
+            "Peter"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}",
+            "book",
+            "your",
+            "\\textsc{inv}",
+            "\\textsc{<av.rls>}read",
+            "\\textsc{nom}",
+            "Peter"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Ang libro mo   ay    nag-basa   si       Peter.",
+        "srcwordsbare": [
+            "Ang",
+            "libro",
+            "mo",
+            "ay",
+            "nag-basa",
+            "si",
+            "Peter."
+        ],
+        "srcwordshtml": [
+            "Ang",
+            "libro",
+            "mo",
+            "ay",
+            "nag-basa",
+            "si",
+            "Peter."
+        ],
+        "srcwordstex": [
+            "Ang",
+            "libro",
+            "mo",
+            "ay",
+            "nag-basa",
+            "si",
+            "Peter."
+        ],
+        "trs": "Intended: `Peter read the BOOK.'}",
+        "wlength": 7
+    },
+    {
+        "ID": "latrouite-901930",
+        "categories": [
+            "av",
+            "gen",
+            "inv",
+            "nom",
+            "rls"
+        ],
+        "clength": 53,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "yesterday    \\textsc{inv}    \\textsc{av.rls}\u2010read    \\textsc{gen} book your  \\textsc{nom} Peter",
+        "imtwordsbare": [
+            "yesterday",
+            "INV",
+            "av.rls\u2010read",
+            "GEN",
+            "book",
+            "your",
+            "NOM",
+            "Peter"
+        ],
+        "imtwordshtml": [
+            "yesterday",
+            "<span class=\"sc\">inv</span>",
+            "<span class=\"sc\">av.rls</span>\u2010read",
+            "<span class=\"sc\">gen</span>",
+            "book",
+            "your",
+            "<span class=\"sc\">nom</span>",
+            "Peter"
+        ],
+        "imtwordstex": [
+            "yesterday",
+            "\\textsc{inv}",
+            "\\textsc{av.rls}\u2010read",
+            "\\textsc{gen}",
+            "book",
+            "your",
+            "\\textsc{nom}",
+            "Peter"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Kahapon    ay    nag\u2010basa    ng libro mo    si Peter.",
+        "srcwordsbare": [
+            "Kahapon",
+            "ay",
+            "nag\u2010basa",
+            "ng",
+            "libro",
+            "mo",
+            "si",
+            "Peter."
+        ],
+        "srcwordshtml": [
+            "Kahapon",
+            "ay",
+            "nag\u2010basa",
+            "ng",
+            "libro",
+            "mo",
+            "si",
+            "Peter."
+        ],
+        "srcwordstex": [
+            "Kahapon",
+            "ay",
+            "nag\u2010basa",
+            "ng",
+            "libro",
+            "mo",
+            "si",
+            "Peter."
+        ],
+        "trs": "Yesterday Peter read your book.",
+        "wlength": 8
+    },
+    {
+        "ID": "latrouite--76628",
+        "categories": [
+            "3sg",
+            "av",
+            "dat",
+            "nom",
+            "obl",
+            "rls"
+        ],
+        "clength": 65,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "<\\textsc{av.rls}>laugh   \\textsc{3sg.nom}  \\textsc{dat} \\textsc{3sg.obl} yesterday",
+        "imtwordsbare": [
+            "<av.rls>laugh",
+            "3sg.nom",
+            "DAT",
+            "3sg.obl",
+            "yesterday"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av.rls</span>>laugh",
+            "<span class=\"sc\">3sg.nom</span>",
+            "<span class=\"sc\">dat</span>",
+            "<span class=\"sc\">3sg.obl</span>",
+            "yesterday"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av.rls}>laugh",
+            "\\textsc{3sg.nom}",
+            "\\textsc{dat}",
+            "\\textsc{3sg.obl}",
+            "yesterday"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "T{\\USSmaller}um{\\USGreater}awa    siya    sa kaniya      kahapon.",
+        "srcwordsbare": [
+            "T{\\USSmaller}um{\\USGreater}awa",
+            "siya",
+            "sa",
+            "kaniya",
+            "kahapon."
+        ],
+        "srcwordshtml": [
+            "T{\\USSmaller}um{\\USGreater}awa",
+            "siya",
+            "sa",
+            "kaniya",
+            "kahapon."
+        ],
+        "srcwordstex": [
+            "T{\\USSmaller}um{\\USGreater}awa",
+            "siya",
+            "sa",
+            "kaniya",
+            "kahapon."
+        ],
+        "trs": "She laughed at him yesterday.",
+        "wlength": 5
+    },
+    {
+        "ID": "latrouite--12890",
+        "categories": [
+            "3sg",
+            "av",
+            "dat",
+            "nom",
+            "obl",
+            "rls"
+        ],
+        "clength": 71,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{dat} \\textsc{3sg.obl}    \\textsc{3sg.nom}    <\\textsc{av.rls}>laugh    yesterday",
+        "imtwordsbare": [
+            "DAT",
+            "3sg.obl",
+            "3sg.nom",
+            "<av.rls>laugh",
+            "yesterday"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dat</span>",
+            "<span class=\"sc\">3sg.obl</span>",
+            "<span class=\"sc\">3sg.nom</span>",
+            "<<span class=\"sc\">av.rls</span>>laugh",
+            "yesterday"
+        ],
+        "imtwordstex": [
+            "\\textsc{dat}",
+            "\\textsc{3sg.obl}",
+            "\\textsc{3sg.nom}",
+            "<\\textsc{av.rls}>laugh",
+            "yesterday"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Sa kaniya    siya        t{\\USSmaller}um{\\USGreater}awa        kahapon.",
+        "srcwordsbare": [
+            "Sa",
+            "kaniya",
+            "siya",
+            "t{\\USSmaller}um{\\USGreater}awa",
+            "kahapon."
+        ],
+        "srcwordshtml": [
+            "Sa",
+            "kaniya",
+            "siya",
+            "t{\\USSmaller}um{\\USGreater}awa",
+            "kahapon."
+        ],
+        "srcwordstex": [
+            "Sa",
+            "kaniya",
+            "siya",
+            "t{\\USSmaller}um{\\USGreater}awa",
+            "kahapon."
+        ],
+        "trs": "It was at him that she laughed yesterday.",
+        "wlength": 5
+    },
+    {
+        "ID": "latrouite-236814",
+        "categories": [
+            "3sg",
+            "<av",
+            "nom",
+            "rls>ipfv"
+        ],
+        "clength": 43,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{<av.rls>ipfv}-laugh  \\textsc{3sg.nom}",
+        "imtwordsbare": [
+            "<av.rls>ipfv-laugh",
+            "3sg.nom"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\"><av.rls>ipfv</span>-laugh",
+            "<span class=\"sc\">3sg.nom</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{<av.rls>ipfv}-laugh",
+            "\\textsc{3sg.nom}"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "T{\\USSmaller}um{\\USGreater}a-tawa     siya.",
+        "srcwordsbare": [
+            "T{\\USSmaller}um{\\USGreater}a-tawa",
+            "siya."
+        ],
+        "srcwordshtml": [
+            "T{\\USSmaller}um{\\USGreater}a-tawa",
+            "siya."
+        ],
+        "srcwordstex": [
+            "T{\\USSmaller}um{\\USGreater}a-tawa",
+            "siya."
+        ],
+        "trs": "He was laughing.",
+        "wlength": 2
+    },
+    {
+        "ID": "latrouite--36483",
+        "categories": [
+            "3sg",
+            "<av",
+            "nom",
+            "rls>ipfv"
+        ],
+        "clength": 55,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "\\textsc{3sg.nom} \\textsc{nom} \\textsc{<av.rls>ipfv}-laugh",
+        "imtwordsbare": [
+            "3sg.nom",
+            "NOM",
+            "<av.rls>ipfv-laugh"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\"><av.rls>ipfv</span>-laugh"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.nom}",
+            "\\textsc{nom}",
+            "\\textsc{<av.rls>ipfv}-laugh"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "Siya         ang     t{\\USSmaller}um{\\USGreater}a-tawa.",
+        "srcwordsbare": [
+            "Siya",
+            "ang",
+            "t{\\USSmaller}um{\\USGreater}a-tawa."
+        ],
+        "srcwordshtml": [
+            "Siya",
+            "ang",
+            "t{\\USSmaller}um{\\USGreater}a-tawa."
+        ],
+        "srcwordstex": [
+            "Siya",
+            "ang",
+            "t{\\USSmaller}um{\\USGreater}a-tawa."
+        ],
+        "trs": "He was the one laughing.",
+        "wlength": 3
+    },
+    {
+        "ID": "latrouite-825574",
+        "categories": [
+            "gen"
+        ],
+        "clength": 57,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "{\\void{[[}done} \\textsc{gen} noise \\textsc{gen} traffic",
+        "imtwordsbare": [
+            "{\\void{[[}done}",
+            "GEN",
+            "noise",
+            "GEN",
+            "traffic"
+        ],
+        "imtwordshtml": [
+            "{\\void{[[}done}",
+            "<span class=\"sc\">gen</span>",
+            "noise",
+            "<span class=\"sc\">gen</span>",
+            "traffic"
+        ],
+        "imtwordstex": [
+            "{\\void{[[}done}",
+            "\\textsc{gen}",
+            "noise",
+            "\\textsc{gen}",
+            "traffic"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "{{\\ob}{\\ob}gawa} ng ingay ng {trapik{\\cb}\\focus{\\cb}\\sq}.",
+        "srcwordsbare": [
+            "{[[gawa}",
+            "ng",
+            "ingay",
+            "ng",
+            "{trapik]\\focus]\\sq}."
+        ],
+        "srcwordshtml": [
+            "{[[gawa}",
+            "ng",
+            "ingay",
+            "ng",
+            "{trapik]\\focus]\\sq}."
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}gawa}",
+            "ng",
+            "ingay",
+            "ng",
+            "{trapik{\\cb}\\focus{\\cb}\\sq}."
+        ],
+        "trs": "due to the noise of the traffic.'\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "latrouite-777565",
+        "categories": [],
+        "clength": 55,
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "{\\void{[[}if} exist chance",
+        "imtwordsbare": [
+            "{\\void{[[}if}",
+            "exist",
+            "chance"
+        ],
+        "imtwordshtml": [
+            "{\\void{[[}if}",
+            "exist",
+            "chance"
+        ],
+        "imtwordstex": [
+            "{\\void{[[}if}",
+            "exist",
+            "chance"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "{{\\ob}{\\ob}kapag} may {pagkakataon{\\cb}\\focus{\\cb}\\sq}.",
+        "srcwordsbare": [
+            "{[[kapag}",
+            "may",
+            "{pagkakataon]\\focus]\\sq}."
+        ],
+        "srcwordshtml": [
+            "{[[kapag}",
+            "may",
+            "{pagkakataon]\\focus]\\sq}."
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}kapag}",
+            "may",
+            "{pagkakataon{\\cb}\\focus{\\cb}\\sq}."
+        ],
+        "trs": "when they get the chance.",
+        "wlength": 3
+    },
+    {
+        "ID": "latrouite--14207",
+        "categories": [
+            "<av>",
+            "gen",
+            "ipfv",
+            "lk",
+            "pl"
+        ],
+        "clength": 149,
+        "coordination": "and",
+        "filename": "201/chapters/latrouite.tex",
+        "imt": "{\\void{[[}exist} \\textsc{pl} cat-\\textsc{lk} \\textsc{<av>-ipfv}-catch and \\textsc{<av>-ipfv}-kill \\textsc{gen} \\textsc{pl} innocent-\\textsc{lk} \\textsc{pl} rat",
+        "imtwordsbare": [
+            "{\\void{[[}exist}",
+            "PL",
+            "cat-LK",
+            "<av>-ipfv-catch",
+            "and",
+            "<av>-ipfv-kill",
+            "GEN",
+            "PL",
+            "innocent-LK",
+            "PL",
+            "rat"
+        ],
+        "imtwordshtml": [
+            "{\\void{[[}exist}",
+            "<span class=\"sc\">pl</span>",
+            "cat-<span class=\"sc\">lk</span>",
+            "<span class=\"sc\"><av>-ipfv</span>-catch",
+            "and",
+            "<span class=\"sc\"><av>-ipfv</span>-kill",
+            "<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">pl</span>",
+            "innocent-<span class=\"sc\">lk</span>",
+            "<span class=\"sc\">pl</span>",
+            "rat"
+        ],
+        "imtwordstex": [
+            "{\\void{[[}exist}",
+            "\\textsc{pl}",
+            "cat-\\textsc{lk}",
+            "\\textsc{<av>-ipfv}-catch",
+            "and",
+            "\\textsc{<av>-ipfv}-kill",
+            "\\textsc{gen}",
+            "\\textsc{pl}",
+            "innocent-\\textsc{lk}",
+            "\\textsc{pl}",
+            "rat"
+        ],
+        "language": "201/chapters/latrouite.tex",
+        "src": "{{\\ob}{\\ob}May} mga pusang h{\\USSmaller}um{\\USGreater}a-habol at p{\\USSmaller}um{\\USGreater}a-patay ng mga inosente-ng mga {daga{\\cb}\\focus{\\cb}\\sq}.",
+        "srcwordsbare": [
+            "{[[May}",
+            "mga",
+            "pusang",
+            "h{\\USSmaller}um{\\USGreater}a-habol",
+            "at",
+            "p{\\USSmaller}um{\\USGreater}a-patay",
+            "ng",
+            "mga",
+            "inosente-ng",
+            "mga",
+            "{daga]\\focus]\\sq}."
+        ],
+        "srcwordshtml": [
+            "{[[May}",
+            "mga",
+            "pusang",
+            "h{\\USSmaller}um{\\USGreater}a-habol",
+            "at",
+            "p{\\USSmaller}um{\\USGreater}a-patay",
+            "ng",
+            "mga",
+            "inosente-ng",
+            "mga",
+            "{daga]\\focus]\\sq}."
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}May}",
+            "mga",
+            "pusang",
+            "h{\\USSmaller}um{\\USGreater}a-habol",
+            "at",
+            "p{\\USSmaller}um{\\USGreater}a-patay",
+            "ng",
+            "mga",
+            "inosente-ng",
+            "mga",
+            "{daga{\\cb}\\focus{\\cb}\\sq}."
+        ],
+        "trs": "There are cats chasing and killing innocent rats.'\\\\",
+        "wlength": 11
+    }
+]

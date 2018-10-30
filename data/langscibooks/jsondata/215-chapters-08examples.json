@@ -1,0 +1,2023 @@
+[
+    {
+        "ID": "08--38846",
+        "categories": [
+            "3pl",
+            "acc",
+            "inf"
+        ],
+        "clength": 88,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria {ordered  them.\\textsc{acc}} /   they.\\textsc{acc}   ~   clean-\\textsc{inf.3pl} the house",
+        "imtwordsbare": [
+            "Maria",
+            "{ordered",
+            "them.ACC}",
+            "/",
+            "they.ACC",
+            "~",
+            "clean-inf.3pl",
+            "the",
+            "house"
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "{ordered",
+            "them.<span class=\"sc\">acc</span>}",
+            "/",
+            "they.<span class=\"sc\">acc</span>",
+            "~",
+            "clean-<span class=\"sc\">inf.3pl</span>",
+            "the",
+            "house"
+        ],
+        "imtwordstex": [
+            "Maria",
+            "{ordered",
+            "them.\\textsc{acc}}",
+            "/",
+            "they.\\textsc{acc}",
+            "~",
+            "clean-\\textsc{inf.3pl}",
+            "the",
+            "house"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria  mandou-os                   /   eles        {\\ob}  limpar-(*em) a     casa {\\cb}.",
+        "srcwordsbare": [
+            "Maria",
+            "mandou-os",
+            "/",
+            "eles",
+            "[",
+            "limpar-(*em)",
+            "a",
+            "casa",
+            "]."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou-os",
+            "/",
+            "eles",
+            "[",
+            "limpar-(*em)",
+            "a",
+            "casa",
+            "]."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou-os",
+            "/",
+            "eles",
+            "{\\ob}",
+            "limpar-(*em)",
+            "a",
+            "casa",
+            "{\\cb}."
+        ],
+        "trs": "\\ex  Backward Control\\\\",
+        "wlength": 9
+    },
+    {
+        "ID": "08--48914",
+        "categories": [
+            "1sg",
+            "3pl",
+            "inf",
+            "nom"
+        ],
+        "clength": 80,
+        "filename": "215/chapters/08.tex",
+        "imt": "Mary ordered ~ they.\\textsc{1sg.nom} self behave.\\textsc{inf.3pl}",
+        "imtwordsbare": [
+            "Mary",
+            "ordered",
+            "~",
+            "they.1sg.nom",
+            "self",
+            "behave.inf.3pl"
+        ],
+        "imtwordshtml": [
+            "Mary",
+            "ordered",
+            "~",
+            "they.<span class=\"sc\">1sg.nom</span>",
+            "self",
+            "behave.<span class=\"sc\">inf.3pl</span>"
+        ],
+        "imtwordstex": [
+            "Mary",
+            "ordered",
+            "~",
+            "they.\\textsc{1sg.nom}",
+            "self",
+            "behave.\\textsc{inf.3pl}"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria mandou ${\\Delta}$\\textsubscript{1} [eles\\textsubscript{1} se comportarem.]",
+        "srcwordsbare": [
+            "Maria",
+            "mandou",
+            "${\\Delta}$1",
+            "[eles1",
+            "se",
+            "comportarem.]"
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou",
+            "${\\Delta}$<span class=\"subscript\">1</span>",
+            "[eles<span class=\"subscript\">1</span>",
+            "se",
+            "comportarem.]"
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou",
+            "${\\Delta}$\\textsubscript{1}",
+            "[eles\\textsubscript{1}",
+            "se",
+            "comportarem.]"
+        ],
+        "trs": "Mary ordered them to behave themselves.",
+        "wlength": 6
+    },
+    {
+        "ID": "08--20926",
+        "categories": [
+            "nom"
+        ],
+        "clength": 58,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria   prohibited   I.\\textsc{nom}  from clean  the house",
+        "imtwordsbare": [
+            "Maria",
+            "prohibited",
+            "I.NOM",
+            "from",
+            "clean",
+            "the",
+            "house"
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "prohibited",
+            "I.<span class=\"sc\">nom</span>",
+            "from",
+            "clean",
+            "the",
+            "house"
+        ],
+        "imtwordstex": [
+            "Maria",
+            "prohibited",
+            "I.\\textsc{nom}",
+            "from",
+            "clean",
+            "the",
+            "house"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria proibiu   [\\textbf{eu}       de    limpar a   casa].",
+        "srcwordsbare": [
+            "Maria",
+            "proibiu",
+            "[eu",
+            "de",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "proibiu",
+            "[<span class=\"bf\">eu</span>",
+            "de",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "proibiu",
+            "[\\textbf{eu}",
+            "de",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "trs": "Maria prohibited me from cleaning the house.\u2019}",
+        "wlength": 7
+    },
+    {
+        "ID": "08-272203",
+        "categories": [
+            "acc"
+        ],
+        "clength": 53,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria  me.\\textsc{acc} made       clean   the house",
+        "imtwordsbare": [
+            "Maria",
+            "me.ACC",
+            "made",
+            "clean",
+            "the",
+            "house"
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "me.<span class=\"sc\">acc</span>",
+            "made",
+            "clean",
+            "the",
+            "house"
+        ],
+        "imtwordstex": [
+            "Maria",
+            "me.\\textsc{acc}",
+            "made",
+            "clean",
+            "the",
+            "house"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria  \\textbf{me}        mandou  [limpar a    casa].",
+        "srcwordsbare": [
+            "Maria",
+            "me",
+            "mandou",
+            "[limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "<span class=\"bf\">me</span>",
+            "mandou",
+            "[limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "\\textbf{me}",
+            "mandou",
+            "[limpar",
+            "a",
+            "casa]."
+        ],
+        "trs": "Maria made/had me clean the house.",
+        "wlength": 6
+    },
+    {
+        "ID": "08--81513",
+        "categories": [
+            "nom"
+        ],
+        "clength": 50,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria made       I.\\textsc{nom}  clean  the house",
+        "imtwordsbare": [
+            "Maria",
+            "made",
+            "I.NOM",
+            "clean",
+            "the",
+            "house"
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "made",
+            "I.<span class=\"sc\">nom</span>",
+            "clean",
+            "the",
+            "house"
+        ],
+        "imtwordstex": [
+            "Maria",
+            "made",
+            "I.\\textsc{nom}",
+            "clean",
+            "the",
+            "house"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria mandou [\\textbf{eu}        limpar a   casa].",
+        "srcwordsbare": [
+            "Maria",
+            "mandou",
+            "[eu",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou",
+            "[<span class=\"bf\">eu</span>",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou",
+            "[\\textbf{eu}",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "trs": "Maria made me clean the house.",
+        "wlength": 6
+    },
+    {
+        "ID": "08--64752",
+        "categories": [
+            "cl",
+            "dat"
+        ],
+        "clength": 84,
+        "filename": "215/chapters/08.tex",
+        "imt": "the recession \\textsc{cl.dat} has made lose     the  job       to Mary",
+        "imtwordsbare": [
+            "the",
+            "recession",
+            "cl.dat",
+            "has",
+            "made",
+            "lose",
+            "the",
+            "job",
+            "to",
+            "Mary"
+        ],
+        "imtwordshtml": [
+            "the",
+            "recession",
+            "<span class=\"sc\">cl.dat</span>",
+            "has",
+            "made",
+            "lose",
+            "the",
+            "job",
+            "to",
+            "Mary"
+        ],
+        "imtwordstex": [
+            "the",
+            "recession",
+            "\\textsc{cl.dat}",
+            "has",
+            "made",
+            "lose",
+            "the",
+            "job",
+            "to",
+            "Mary"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "La  recesi\u00f3n  \\textbf{le}          ha  hecho perder el   trabajo  a  \\textbf{Mar\u00eda.}",
+        "srcwordsbare": [
+            "La",
+            "recesi\u00f3n",
+            "le",
+            "ha",
+            "hecho",
+            "perder",
+            "el",
+            "trabajo",
+            "a",
+            "Mar\u00eda."
+        ],
+        "srcwordshtml": [
+            "La",
+            "recesi\u00f3n",
+            "<span class=\"bf\">le</span>",
+            "ha",
+            "hecho",
+            "perder",
+            "el",
+            "trabajo",
+            "a",
+            "<span class=\"bf\">Mar\u00eda.</span>"
+        ],
+        "srcwordstex": [
+            "La",
+            "recesi\u00f3n",
+            "\\textbf{le}",
+            "ha",
+            "hecho",
+            "perder",
+            "el",
+            "trabajo",
+            "a",
+            "\\textbf{Mar\u00eda.}"
+        ],
+        "trs": "Recession has made Mary lose her job.\u2019 }",
+        "wlength": 10
+    },
+    {
+        "ID": "08-722717",
+        "categories": [
+            "acc",
+            "cl"
+        ],
+        "clength": 82,
+        "filename": "215/chapters/08.tex",
+        "imt": "the  recession \\textsc{cl.acc} has made  lose    the job       to Mary",
+        "imtwordsbare": [
+            "the",
+            "recession",
+            "cl.acc",
+            "has",
+            "made",
+            "lose",
+            "the",
+            "job",
+            "to",
+            "Mary"
+        ],
+        "imtwordshtml": [
+            "the",
+            "recession",
+            "<span class=\"sc\">cl.acc</span>",
+            "has",
+            "made",
+            "lose",
+            "the",
+            "job",
+            "to",
+            "Mary"
+        ],
+        "imtwordstex": [
+            "the",
+            "recession",
+            "\\textsc{cl.acc}",
+            "has",
+            "made",
+            "lose",
+            "the",
+            "job",
+            "to",
+            "Mary"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "La recesi\u00f3n  \\textbf{la}          ha  hecho perder el  trabajo  a  \\textbf{Mar\u00eda.}",
+        "srcwordsbare": [
+            "La",
+            "recesi\u00f3n",
+            "la",
+            "ha",
+            "hecho",
+            "perder",
+            "el",
+            "trabajo",
+            "a",
+            "Mar\u00eda."
+        ],
+        "srcwordshtml": [
+            "La",
+            "recesi\u00f3n",
+            "<span class=\"bf\">la</span>",
+            "ha",
+            "hecho",
+            "perder",
+            "el",
+            "trabajo",
+            "a",
+            "<span class=\"bf\">Mar\u00eda.</span>"
+        ],
+        "srcwordstex": [
+            "La",
+            "recesi\u00f3n",
+            "\\textbf{la}",
+            "ha",
+            "hecho",
+            "perder",
+            "el",
+            "trabajo",
+            "a",
+            "\\textbf{Mar\u00eda.}"
+        ],
+        "trs": "Recession has made Mary lose her job.\u2019  }",
+        "wlength": 10
+    },
+    {
+        "ID": "08--43983",
+        "categories": [
+            "cl",
+            "subj"
+        ],
+        "clength": 78,
+        "filename": "215/chapters/08.tex",
+        "imt": "hurricane.the has made  that many people   \\textsc{subj.cl}.their lose     houses.",
+        "imtwordsbare": [
+            "hurricane.the",
+            "has",
+            "made",
+            "that",
+            "many",
+            "people",
+            "subj.cl.their",
+            "lose",
+            "houses."
+        ],
+        "imtwordshtml": [
+            "hurricane.the",
+            "has",
+            "made",
+            "that",
+            "many",
+            "people",
+            "<span class=\"sc\">subj.cl</span>.their",
+            "lose",
+            "houses."
+        ],
+        "imtwordstex": [
+            "hurricane.the",
+            "has",
+            "made",
+            "that",
+            "many",
+            "people",
+            "\\textsc{subj.cl}.their",
+            "lose",
+            "houses."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Uraganul    a    f\u0103cut   ca   mul\u0163i  oameni  s\u0103-\u0219i              piard\u0103 casele.",
+        "srcwordsbare": [
+            "Uraganul",
+            "a",
+            "f\u0103cut",
+            "ca",
+            "mul\u0163i",
+            "oameni",
+            "s\u0103-\u0219i",
+            "piard\u0103",
+            "casele."
+        ],
+        "srcwordshtml": [
+            "Uraganul",
+            "a",
+            "f\u0103cut",
+            "ca",
+            "mul\u0163i",
+            "oameni",
+            "s\u0103-\u0219i",
+            "piard\u0103",
+            "casele."
+        ],
+        "srcwordstex": [
+            "Uraganul",
+            "a",
+            "f\u0103cut",
+            "ca",
+            "mul\u0163i",
+            "oameni",
+            "s\u0103-\u0219i",
+            "piard\u0103",
+            "casele."
+        ],
+        "trs": "The hurricane made many people lose their houses.",
+        "wlength": 9
+    },
+    {
+        "ID": "08-688458",
+        "categories": [],
+        "clength": 57,
+        "filename": "215/chapters/08.tex",
+        "imt": "the wave of cold weather   made  snow  in.the highlands",
+        "imtwordsbare": [
+            "the",
+            "wave",
+            "of",
+            "cold",
+            "weather",
+            "made",
+            "snow",
+            "in.the",
+            "highlands"
+        ],
+        "imtwordshtml": [
+            "the",
+            "wave",
+            "of",
+            "cold",
+            "weather",
+            "made",
+            "snow",
+            "in.the",
+            "highlands"
+        ],
+        "imtwordstex": [
+            "the",
+            "wave",
+            "of",
+            "cold",
+            "weather",
+            "made",
+            "snow",
+            "in.the",
+            "highlands"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "A   vaga  de frio     fez   nevar   nas     terras altas.",
+        "srcwordsbare": [
+            "A",
+            "vaga",
+            "de",
+            "frio",
+            "fez",
+            "nevar",
+            "nas",
+            "terras",
+            "altas."
+        ],
+        "srcwordshtml": [
+            "A",
+            "vaga",
+            "de",
+            "frio",
+            "fez",
+            "nevar",
+            "nas",
+            "terras",
+            "altas."
+        ],
+        "srcwordstex": [
+            "A",
+            "vaga",
+            "de",
+            "frio",
+            "fez",
+            "nevar",
+            "nas",
+            "terras",
+            "altas."
+        ],
+        "trs": "The wave of cold weather made it snow in the highlands.",
+        "wlength": 9
+    },
+    {
+        "ID": "08-903488",
+        "categories": [
+            "1sg",
+            "3sg",
+            "inf"
+        ],
+        "clength": 75,
+        "filename": "215/chapters/08.tex",
+        "imt": "that        would.make.\\textsc{3sg}   to.be.\\textsc{inf} obvious that  I  am.\\textsc{1sg} strong.",
+        "imtwordsbare": [
+            "that",
+            "would.make.3SG",
+            "to.be.INF",
+            "obvious",
+            "that",
+            "I",
+            "am.1SG",
+            "strong."
+        ],
+        "imtwordshtml": [
+            "that",
+            "would.make.<span class=\"sc\">3sg</span>",
+            "to.be.<span class=\"sc\">inf</span>",
+            "obvious",
+            "that",
+            "I",
+            "am.<span class=\"sc\">1sg</span>",
+            "strong."
+        ],
+        "imtwordstex": [
+            "that",
+            "would.make.\\textsc{3sg}",
+            "to.be.\\textsc{inf}",
+            "obvious",
+            "that",
+            "I",
+            "am.\\textsc{1sg}",
+            "strong."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Aquilo faria                ser           \u00f3bvio    que eu sou        forte.",
+        "srcwordsbare": [
+            "Aquilo",
+            "faria",
+            "ser",
+            "\u00f3bvio",
+            "que",
+            "eu",
+            "sou",
+            "forte."
+        ],
+        "srcwordshtml": [
+            "Aquilo",
+            "faria",
+            "ser",
+            "\u00f3bvio",
+            "que",
+            "eu",
+            "sou",
+            "forte."
+        ],
+        "srcwordstex": [
+            "Aquilo",
+            "faria",
+            "ser",
+            "\u00f3bvio",
+            "que",
+            "eu",
+            "sou",
+            "forte."
+        ],
+        "trs": "That would make it be obvious that I am strong.\u2019 \\citep[120]{Farrell1995}}",
+        "wlength": 8
+    },
+    {
+        "ID": "08--46597",
+        "categories": [
+            "inf"
+        ],
+        "clength": 46,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria not   ordered   they clean.\\textsc{inf}   the house",
+        "imtwordsbare": [
+            "Maria",
+            "not",
+            "ordered",
+            "they",
+            "clean.INF",
+            "the",
+            "house"
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "not",
+            "ordered",
+            "they",
+            "clean.<span class=\"sc\">inf</span>",
+            "the",
+            "house"
+        ],
+        "imtwordstex": [
+            "Maria",
+            "not",
+            "ordered",
+            "they",
+            "clean.\\textsc{inf}",
+            "the",
+            "house"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria n\u00e3o   mandou   eles limpar(em)   a casa.",
+        "srcwordsbare": [
+            "Maria",
+            "n\u00e3o",
+            "mandou",
+            "eles",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "n\u00e3o",
+            "mandou",
+            "eles",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "n\u00e3o",
+            "mandou",
+            "eles",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "trs": "Maria didn\u2019t order them to clean the house.",
+        "wlength": 7
+    },
+    {
+        "ID": "08-748082",
+        "categories": [
+            "inf"
+        ],
+        "clength": 46,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria ordered   they not   clean.\\textsc{inf}   the house.",
+        "imtwordsbare": [
+            "Maria",
+            "ordered",
+            "they",
+            "not",
+            "clean.INF",
+            "the",
+            "house."
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "ordered",
+            "they",
+            "not",
+            "clean.<span class=\"sc\">inf</span>",
+            "the",
+            "house."
+        ],
+        "imtwordstex": [
+            "Maria",
+            "ordered",
+            "they",
+            "not",
+            "clean.\\textsc{inf}",
+            "the",
+            "house."
+        ],
+        "language": "215/chapters/08.tex",
+        "polarity": "negative",
+        "src": "Maria mandou   eles n\u00e3o   limpar(em)   a casa.",
+        "srcwordsbare": [
+            "Maria",
+            "mandou",
+            "eles",
+            "n\u00e3o",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou",
+            "eles",
+            "n\u00e3o",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou",
+            "eles",
+            "n\u00e3o",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "trs": "Maria ordered them not  to clean  the house.",
+        "wlength": 7
+    },
+    {
+        "ID": "08--59306",
+        "categories": [
+            "inf"
+        ],
+        "clength": 50,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria  not   ordered   they not clean.\\textsc{inf}   the house.",
+        "imtwordsbare": [
+            "Maria",
+            "not",
+            "ordered",
+            "they",
+            "not",
+            "clean.INF",
+            "the",
+            "house."
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "not",
+            "ordered",
+            "they",
+            "not",
+            "clean.<span class=\"sc\">inf</span>",
+            "the",
+            "house."
+        ],
+        "imtwordstex": [
+            "Maria",
+            "not",
+            "ordered",
+            "they",
+            "not",
+            "clean.\\textsc{inf}",
+            "the",
+            "house."
+        ],
+        "language": "215/chapters/08.tex",
+        "polarity": "negative",
+        "src": "Maria n\u00e3o   mandou   eles n\u00e3o limpar(em)   a casa.",
+        "srcwordsbare": [
+            "Maria",
+            "n\u00e3o",
+            "mandou",
+            "eles",
+            "n\u00e3o",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "n\u00e3o",
+            "mandou",
+            "eles",
+            "n\u00e3o",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "n\u00e3o",
+            "mandou",
+            "eles",
+            "n\u00e3o",
+            "limpar(em)",
+            "a",
+            "casa."
+        ],
+        "trs": "Maria didn\u2019t order them not to clean the house.",
+        "wlength": 8
+    },
+    {
+        "ID": "08-317893",
+        "categories": [],
+        "clength": 54,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria ordered    four    times  they rinse   the shirt.",
+        "imtwordsbare": [
+            "Maria",
+            "ordered",
+            "four",
+            "times",
+            "they",
+            "rinse",
+            "the",
+            "shirt."
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "ordered",
+            "four",
+            "times",
+            "they",
+            "rinse",
+            "the",
+            "shirt."
+        ],
+        "imtwordstex": [
+            "Maria",
+            "ordered",
+            "four",
+            "times",
+            "they",
+            "rinse",
+            "the",
+            "shirt."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria mandou   quatro vezes  eles enxaguar   a camisa.",
+        "srcwordsbare": [
+            "Maria",
+            "mandou",
+            "quatro",
+            "vezes",
+            "eles",
+            "enxaguar",
+            "a",
+            "camisa."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou",
+            "quatro",
+            "vezes",
+            "eles",
+            "enxaguar",
+            "a",
+            "camisa."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou",
+            "quatro",
+            "vezes",
+            "eles",
+            "enxaguar",
+            "a",
+            "camisa."
+        ],
+        "trs": "There were four times that Maria ordered them to rinse the shirt.\u2019 (four orderings)",
+        "wlength": 8
+    },
+    {
+        "ID": "08-554529",
+        "categories": [],
+        "clength": 55,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria ordered they   rinse     the shirt  four times.",
+        "imtwordsbare": [
+            "Maria",
+            "ordered",
+            "they",
+            "rinse",
+            "the",
+            "shirt",
+            "four",
+            "times."
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "ordered",
+            "they",
+            "rinse",
+            "the",
+            "shirt",
+            "four",
+            "times."
+        ],
+        "imtwordstex": [
+            "Maria",
+            "ordered",
+            "they",
+            "rinse",
+            "the",
+            "shirt",
+            "four",
+            "times."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria mandou eles   enxaguar   a camisa   quatro vezes.",
+        "srcwordsbare": [
+            "Maria",
+            "mandou",
+            "eles",
+            "enxaguar",
+            "a",
+            "camisa",
+            "quatro",
+            "vezes."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou",
+            "eles",
+            "enxaguar",
+            "a",
+            "camisa",
+            "quatro",
+            "vezes."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou",
+            "eles",
+            "enxaguar",
+            "a",
+            "camisa",
+            "quatro",
+            "vezes."
+        ],
+        "trs": "Also: \u2018Maria ordered them to rinse the shirt four times.\u2019 (four rinsings)",
+        "wlength": 8
+    },
+    {
+        "ID": "08--51704",
+        "categories": [
+            "acc",
+            "nom"
+        ],
+        "clength": 25,
+        "filename": "215/chapters/08.tex",
+        "imt": "she   me.\\textsc{acc} saw/saw     I.\\textsc{nom}",
+        "imtwordsbare": [
+            "she",
+            "me.ACC",
+            "saw/saw",
+            "I.NOM"
+        ],
+        "imtwordshtml": [
+            "she",
+            "me.<span class=\"sc\">acc</span>",
+            "saw/saw",
+            "I.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "she",
+            "me.\\textsc{acc}",
+            "saw/saw",
+            "I.\\textsc{nom}"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Ela  me     viu/viu  *eu.",
+        "srcwordsbare": [
+            "Ela",
+            "me",
+            "viu/viu",
+            "*eu."
+        ],
+        "srcwordshtml": [
+            "Ela",
+            "me",
+            "viu/viu",
+            "*eu."
+        ],
+        "srcwordstex": [
+            "Ela",
+            "me",
+            "viu/viu",
+            "*eu."
+        ],
+        "trs": "She saw me.\u2019 }",
+        "wlength": 4
+    },
+    {
+        "ID": "08--12068",
+        "categories": [
+            "nom"
+        ],
+        "clength": 52,
+        "filename": "215/chapters/08.tex",
+        "imt": "the teacher     prohibited   I.\\textsc{nom}  of erase    the board.",
+        "imtwordsbare": [
+            "the",
+            "teacher",
+            "prohibited",
+            "I.NOM",
+            "of",
+            "erase",
+            "the",
+            "board."
+        ],
+        "imtwordshtml": [
+            "the",
+            "teacher",
+            "prohibited",
+            "I.<span class=\"sc\">nom</span>",
+            "of",
+            "erase",
+            "the",
+            "board."
+        ],
+        "imtwordstex": [
+            "the",
+            "teacher",
+            "prohibited",
+            "I.\\textsc{nom}",
+            "of",
+            "erase",
+            "the",
+            "board."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "A professora proibiu   eu        de apagar o quadro.",
+        "srcwordsbare": [
+            "A",
+            "professora",
+            "proibiu",
+            "eu",
+            "de",
+            "apagar",
+            "o",
+            "quadro."
+        ],
+        "srcwordshtml": [
+            "A",
+            "professora",
+            "proibiu",
+            "eu",
+            "de",
+            "apagar",
+            "o",
+            "quadro."
+        ],
+        "srcwordstex": [
+            "A",
+            "professora",
+            "proibiu",
+            "eu",
+            "de",
+            "apagar",
+            "o",
+            "quadro."
+        ],
+        "trs": "The teacher prohibited me from erasing the board.\u2019 }",
+        "wlength": 8
+    },
+    {
+        "ID": "08-405768",
+        "categories": [
+            "nom"
+        ],
+        "clength": 51,
+        "filename": "215/chapters/08.tex",
+        "imt": "the teacher    made/had      I.\\textsc{nom} erase    the board",
+        "imtwordsbare": [
+            "the",
+            "teacher",
+            "made/had",
+            "I.NOM",
+            "erase",
+            "the",
+            "board"
+        ],
+        "imtwordshtml": [
+            "the",
+            "teacher",
+            "made/had",
+            "I.<span class=\"sc\">nom</span>",
+            "erase",
+            "the",
+            "board"
+        ],
+        "imtwordstex": [
+            "the",
+            "teacher",
+            "made/had",
+            "I.\\textsc{nom}",
+            "erase",
+            "the",
+            "board"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "A professora mandou/fez  eu        apagar o quadro.",
+        "srcwordsbare": [
+            "A",
+            "professora",
+            "mandou/fez",
+            "eu",
+            "apagar",
+            "o",
+            "quadro."
+        ],
+        "srcwordshtml": [
+            "A",
+            "professora",
+            "mandou/fez",
+            "eu",
+            "apagar",
+            "o",
+            "quadro."
+        ],
+        "srcwordstex": [
+            "A",
+            "professora",
+            "mandou/fez",
+            "eu",
+            "apagar",
+            "o",
+            "quadro."
+        ],
+        "trs": "The teacher had me erase the board.\u2019 \\citep[121]{Farrell1995} }",
+        "wlength": 7
+    },
+    {
+        "ID": "08-639041",
+        "categories": [
+            "acc"
+        ],
+        "clength": 36,
+        "filename": "215/chapters/08.tex",
+        "imt": "Mary it.\\textsc{acc}  made  repair    to Giovanni",
+        "imtwordsbare": [
+            "Mary",
+            "it.ACC",
+            "made",
+            "repair",
+            "to",
+            "Giovanni"
+        ],
+        "imtwordshtml": [
+            "Mary",
+            "it.<span class=\"sc\">acc</span>",
+            "made",
+            "repair",
+            "to",
+            "Giovanni"
+        ],
+        "imtwordstex": [
+            "Mary",
+            "it.\\textsc{acc}",
+            "made",
+            "repair",
+            "to",
+            "Giovanni"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria la  fa   riparare a  Giovanni.",
+        "srcwordsbare": [
+            "Maria",
+            "la",
+            "fa",
+            "riparare",
+            "a",
+            "Giovanni."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "la",
+            "fa",
+            "riparare",
+            "a",
+            "Giovanni."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "la",
+            "fa",
+            "riparare",
+            "a",
+            "Giovanni."
+        ],
+        "trs": "Mary made Giovanni repair it.\u2019 }",
+        "wlength": 6
+    },
+    {
+        "ID": "08-358245",
+        "categories": [
+            "inf"
+        ],
+        "clength": 53,
+        "filename": "215/chapters/08.tex",
+        "imt": "Gianni has made repair.\\textsc{inf} the car    to Mario",
+        "imtwordsbare": [
+            "Gianni",
+            "has",
+            "made",
+            "repair.INF",
+            "the",
+            "car",
+            "to",
+            "Mario"
+        ],
+        "imtwordshtml": [
+            "Gianni",
+            "has",
+            "made",
+            "repair.<span class=\"sc\">inf</span>",
+            "the",
+            "car",
+            "to",
+            "Mario"
+        ],
+        "imtwordstex": [
+            "Gianni",
+            "has",
+            "made",
+            "repair.\\textsc{inf}",
+            "the",
+            "car",
+            "to",
+            "Mario"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Gianni ha  fatto   riparare    la   macchina a Mario.",
+        "srcwordsbare": [
+            "Gianni",
+            "ha",
+            "fatto",
+            "riparare",
+            "la",
+            "macchina",
+            "a",
+            "Mario."
+        ],
+        "srcwordshtml": [
+            "Gianni",
+            "ha",
+            "fatto",
+            "riparare",
+            "la",
+            "macchina",
+            "a",
+            "Mario."
+        ],
+        "srcwordstex": [
+            "Gianni",
+            "ha",
+            "fatto",
+            "riparare",
+            "la",
+            "macchina",
+            "a",
+            "Mario."
+        ],
+        "trs": "Gianni made Mario repair the car.",
+        "wlength": 8
+    },
+    {
+        "ID": "08-100574",
+        "categories": [],
+        "clength": 56,
+        "filename": "215/chapters/08.tex",
+        "imt": "Gianni has made repair   the car  (by Mario)",
+        "imtwordsbare": [
+            "Gianni",
+            "has",
+            "made",
+            "repair",
+            "the",
+            "car",
+            "(by",
+            "Mario)"
+        ],
+        "imtwordshtml": [
+            "Gianni",
+            "has",
+            "made",
+            "repair",
+            "the",
+            "car",
+            "(by",
+            "Mario)"
+        ],
+        "imtwordstex": [
+            "Gianni",
+            "has",
+            "made",
+            "repair",
+            "the",
+            "car",
+            "(by",
+            "Mario)"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Gianni ha fatto    riparare   la  macchina   (da Mario).",
+        "srcwordsbare": [
+            "Gianni",
+            "ha",
+            "fatto",
+            "riparare",
+            "la",
+            "macchina",
+            "(da",
+            "Mario)."
+        ],
+        "srcwordshtml": [
+            "Gianni",
+            "ha",
+            "fatto",
+            "riparare",
+            "la",
+            "macchina",
+            "(da",
+            "Mario)."
+        ],
+        "srcwordstex": [
+            "Gianni",
+            "ha",
+            "fatto",
+            "riparare",
+            "la",
+            "macchina",
+            "(da",
+            "Mario)."
+        ],
+        "trs": "Gianni got the car repaired (by Mario).\u2019 (\\citealt{Campanini2012})",
+        "wlength": 8
+    },
+    {
+        "ID": "08-496421",
+        "categories": [
+            "3pl"
+        ],
+        "clength": 72,
+        "filename": "215/chapters/08.tex",
+        "imt": "they    learned        to not    talk-(\\textsc{3pl})  loud at.the table",
+        "imtwordsbare": [
+            "they",
+            "learned",
+            "to",
+            "not",
+            "talk-(3PL)",
+            "loud",
+            "at.the",
+            "table"
+        ],
+        "imtwordshtml": [
+            "they",
+            "learned",
+            "to",
+            "not",
+            "talk-(<span class=\"sc\">3pl</span>)",
+            "loud",
+            "at.the",
+            "table"
+        ],
+        "imtwordstex": [
+            "they",
+            "learned",
+            "to",
+            "not",
+            "talk-(\\textsc{3pl})",
+            "loud",
+            "at.the",
+            "table"
+        ],
+        "language": "215/chapters/08.tex",
+        "polarity": "negative",
+        "src": "Eles    aprenderam \\textbf{a}  n\u00e3o   falar(-em)     alto  \u00e0        mesa.",
+        "srcwordsbare": [
+            "Eles",
+            "aprenderam",
+            "a",
+            "n\u00e3o",
+            "falar(-em)",
+            "alto",
+            "\u00e0",
+            "mesa."
+        ],
+        "srcwordshtml": [
+            "Eles",
+            "aprenderam",
+            "<span class=\"bf\">a</span>",
+            "n\u00e3o",
+            "falar(-em)",
+            "alto",
+            "\u00e0",
+            "mesa."
+        ],
+        "srcwordstex": [
+            "Eles",
+            "aprenderam",
+            "\\textbf{a}",
+            "n\u00e3o",
+            "falar(-em)",
+            "alto",
+            "\u00e0",
+            "mesa."
+        ],
+        "trs": "They learned not to talk loudly at the table.",
+        "wlength": 8
+    },
+    {
+        "ID": "08-619198",
+        "categories": [
+            "3pl",
+            "inf"
+        ],
+        "clength": 45,
+        "filename": "215/chapters/08.tex",
+        "imt": "the boys  manage.\\textsc{3pl}   sell.\\textsc{inf}(-\\textsc{3pl}) the house.",
+        "imtwordsbare": [
+            "the",
+            "boys",
+            "manage.3PL",
+            "sell.INF(-3PL)",
+            "the",
+            "house."
+        ],
+        "imtwordshtml": [
+            "the",
+            "boys",
+            "manage.<span class=\"sc\">3pl</span>",
+            "sell.<span class=\"sc\">inf</span>(-<span class=\"sc\">3pl</span>)",
+            "the",
+            "house."
+        ],
+        "imtwordstex": [
+            "the",
+            "boys",
+            "manage.\\textsc{3pl}",
+            "sell.\\textsc{inf}(-\\textsc{3pl})",
+            "the",
+            "house."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Os meninos  conseguiram  vender-*em   a casa.",
+        "srcwordsbare": [
+            "Os",
+            "meninos",
+            "conseguiram",
+            "vender-*em",
+            "a",
+            "casa."
+        ],
+        "srcwordshtml": [
+            "Os",
+            "meninos",
+            "conseguiram",
+            "vender-*em",
+            "a",
+            "casa."
+        ],
+        "srcwordstex": [
+            "Os",
+            "meninos",
+            "conseguiram",
+            "vender-*em",
+            "a",
+            "casa."
+        ],
+        "trs": "The boys managed to sell the house.",
+        "wlength": 6
+    },
+    {
+        "ID": "08--88546",
+        "categories": [
+            "3pl"
+        ],
+        "clength": 70,
+        "filename": "215/chapters/08.tex",
+        "imt": "they    learned         to not    talk({}-\\textsc{3pl})    loud at.the table",
+        "imtwordsbare": [
+            "they",
+            "learned",
+            "to",
+            "not",
+            "talk({}-3PL)",
+            "loud",
+            "at.the",
+            "table"
+        ],
+        "imtwordshtml": [
+            "they",
+            "learned",
+            "to",
+            "not",
+            "talk({}-<span class=\"sc\">3pl</span>)",
+            "loud",
+            "at.the",
+            "table"
+        ],
+        "imtwordstex": [
+            "they",
+            "learned",
+            "to",
+            "not",
+            "talk({}-\\textsc{3pl})",
+            "loud",
+            "at.the",
+            "table"
+        ],
+        "language": "215/chapters/08.tex",
+        "polarity": "negative",
+        "src": "Eles     aprenderam \\textbf{a}  n\u00e3o   falar(-em)  alto  \u00e0        mesa.",
+        "srcwordsbare": [
+            "Eles",
+            "aprenderam",
+            "a",
+            "n\u00e3o",
+            "falar(-em)",
+            "alto",
+            "\u00e0",
+            "mesa."
+        ],
+        "srcwordshtml": [
+            "Eles",
+            "aprenderam",
+            "<span class=\"bf\">a</span>",
+            "n\u00e3o",
+            "falar(-em)",
+            "alto",
+            "\u00e0",
+            "mesa."
+        ],
+        "srcwordstex": [
+            "Eles",
+            "aprenderam",
+            "\\textbf{a}",
+            "n\u00e3o",
+            "falar(-em)",
+            "alto",
+            "\u00e0",
+            "mesa."
+        ],
+        "trs": "They learned not to talk loudly at the table.",
+        "wlength": 8
+    },
+    {
+        "ID": "08-664374",
+        "categories": [
+            "2sg",
+            "acc",
+            "cl",
+            "inf"
+        ],
+        "clength": 40,
+        "filename": "215/chapters/08.tex",
+        "imt": "the Maria saw-\\textsc{cl.2sg.acc} leave.\\textsc{inf}/leave.\\textsc{2sg}",
+        "imtwordsbare": [
+            "the",
+            "Maria",
+            "saw-cl.2sg.acc",
+            "leave.INF/leave.2SG"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Maria",
+            "saw-<span class=\"sc\">cl.2sg.acc</span>",
+            "leave.<span class=\"sc\">inf</span>/leave.<span class=\"sc\">2sg</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Maria",
+            "saw-\\textsc{cl.2sg.acc}",
+            "leave.\\textsc{inf}/leave.\\textsc{2sg}"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "A   Maria viu-te           sair/*saires.",
+        "srcwordsbare": [
+            "A",
+            "Maria",
+            "viu-te",
+            "sair/*saires."
+        ],
+        "srcwordshtml": [
+            "A",
+            "Maria",
+            "viu-te",
+            "sair/*saires."
+        ],
+        "srcwordstex": [
+            "A",
+            "Maria",
+            "viu-te",
+            "sair/*saires."
+        ],
+        "trs": "Mary saw you leaving.",
+        "wlength": 4
+    },
+    {
+        "ID": "08--73192",
+        "categories": [],
+        "clength": 71,
+        "filename": "215/chapters/08.tex",
+        "imt": "the children  want     they     clean the house.",
+        "imtwordsbare": [
+            "the",
+            "children",
+            "want",
+            "they",
+            "clean",
+            "the",
+            "house."
+        ],
+        "imtwordshtml": [
+            "the",
+            "children",
+            "want",
+            "they",
+            "clean",
+            "the",
+            "house."
+        ],
+        "imtwordstex": [
+            "the",
+            "children",
+            "want",
+            "they",
+            "clean",
+            "the",
+            "house."
+        ],
+        "language": "215/chapters/08.tex",
+        "modality": "volitive",
+        "src": "Os meninos\\textsubscript{i} querem ELES\\textsubscript{i} limpar a casa.",
+        "srcwordsbare": [
+            "Os",
+            "meninosi",
+            "querem",
+            "ELESi",
+            "limpar",
+            "a",
+            "casa."
+        ],
+        "srcwordshtml": [
+            "Os",
+            "meninos<span class=\"subscript\">i</span>",
+            "querem",
+            "ELES<span class=\"subscript\">i</span>",
+            "limpar",
+            "a",
+            "casa."
+        ],
+        "srcwordstex": [
+            "Os",
+            "meninos\\textsubscript{i}",
+            "querem",
+            "ELES\\textsubscript{i}",
+            "limpar",
+            "a",
+            "casa."
+        ],
+        "trs": "The children want themselves to clean the house.\u2019\\\\ }",
+        "wlength": 7
+    },
+    {
+        "ID": "08-606037",
+        "categories": [
+            "3pl",
+            "inf"
+        ],
+        "clength": 61,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria  orders     they have.\\textsc{inf.3pl} cleaned the house   yesterday.",
+        "imtwordsbare": [
+            "Maria",
+            "orders",
+            "they",
+            "have.inf.3pl",
+            "cleaned",
+            "the",
+            "house",
+            "yesterday."
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "orders",
+            "they",
+            "have.<span class=\"sc\">inf.3pl</span>",
+            "cleaned",
+            "the",
+            "house",
+            "yesterday."
+        ],
+        "imtwordstex": [
+            "Maria",
+            "orders",
+            "they",
+            "have.\\textsc{inf.3pl}",
+            "cleaned",
+            "the",
+            "house",
+            "yesterday."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria manda   eles   terem        limpado a casa        ontem",
+        "srcwordsbare": [
+            "Maria",
+            "manda",
+            "eles",
+            "terem",
+            "limpado",
+            "a",
+            "casa",
+            "ontem"
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "manda",
+            "eles",
+            "terem",
+            "limpado",
+            "a",
+            "casa",
+            "ontem"
+        ],
+        "srcwordstex": [
+            "Maria",
+            "manda",
+            "eles",
+            "terem",
+            "limpado",
+            "a",
+            "casa",
+            "ontem"
+        ],
+        "trs": "Maria orders them to have cleaned the house yesterday.\u2019  }",
+        "wlength": 8
+    },
+    {
+        "ID": "08-620954",
+        "categories": [
+            "3pl"
+        ],
+        "clength": 46,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria   orders    they clean.\\textsc{3pl} the house   tomorrow.",
+        "imtwordsbare": [
+            "Maria",
+            "orders",
+            "they",
+            "clean.3PL",
+            "the",
+            "house",
+            "tomorrow."
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "orders",
+            "they",
+            "clean.<span class=\"sc\">3pl</span>",
+            "the",
+            "house",
+            "tomorrow."
+        ],
+        "imtwordstex": [
+            "Maria",
+            "orders",
+            "they",
+            "clean.\\textsc{3pl}",
+            "the",
+            "house",
+            "tomorrow."
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria mandou eles limparem  a casa     amanh\u00e3.",
+        "srcwordsbare": [
+            "Maria",
+            "mandou",
+            "eles",
+            "limparem",
+            "a",
+            "casa",
+            "amanh\u00e3."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou",
+            "eles",
+            "limparem",
+            "a",
+            "casa",
+            "amanh\u00e3."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou",
+            "eles",
+            "limparem",
+            "a",
+            "casa",
+            "amanh\u00e3."
+        ],
+        "trs": "Maria makes them clean the house tomorrow.\u2019  }",
+        "wlength": 7
+    },
+    {
+        "ID": "08-564880",
+        "categories": [
+            "acc",
+            "inf"
+        ],
+        "clength": 46,
+        "filename": "215/chapters/08.tex",
+        "imt": "Maria ordered   they.\\textsc{acc}  ~ clean-\\textsc{inf} the house",
+        "imtwordsbare": [
+            "Maria",
+            "ordered",
+            "they.ACC",
+            "~",
+            "clean-INF",
+            "the",
+            "house"
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "ordered",
+            "they.<span class=\"sc\">acc</span>",
+            "~",
+            "clean-<span class=\"sc\">inf</span>",
+            "the",
+            "house"
+        ],
+        "imtwordstex": [
+            "Maria",
+            "ordered",
+            "they.\\textsc{acc}",
+            "~",
+            "clean-\\textsc{inf}",
+            "the",
+            "house"
+        ],
+        "language": "215/chapters/08.tex",
+        "src": "Maria mandou   eles [  limpar      a    casa].",
+        "srcwordsbare": [
+            "Maria",
+            "mandou",
+            "eles",
+            "[",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordshtml": [
+            "Maria",
+            "mandou",
+            "eles",
+            "[",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "srcwordstex": [
+            "Maria",
+            "mandou",
+            "eles",
+            "[",
+            "limpar",
+            "a",
+            "casa]."
+        ],
+        "trs": "Mary ordered them to clean the house.",
+        "wlength": 7
+    }
+]

@@ -1,0 +1,4092 @@
+[
+    {
+        "ID": "05--23721",
+        "categories": [],
+        "clength": 37,
+        "filename": "73/chapters/05.tex",
+        "imt": "it  be.{\\prs}  \\textbf{my} \\textbf{cat.{\\deff}}",
+        "imtwordsbare": [
+            "it",
+            "be.{\\prs}",
+            "my",
+            "cat.{\\deff}"
+        ],
+        "imtwordshtml": [
+            "it",
+            "be.{\\prs}",
+            "<span class=\"bf\">my</span>",
+            "<span class=\"bf\">cat.{\\deff</span>}"
+        ],
+        "imtwordstex": [
+            "it",
+            "be.{\\prs}",
+            "\\textbf{my}",
+            "\\textbf{cat.{\\deff}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "De  j\u00e4r  \\textbf{min} \\textbf{kattn}.",
+        "srcwordsbare": [
+            "De",
+            "j\u00e4r",
+            "min",
+            "kattn."
+        ],
+        "srcwordshtml": [
+            "De",
+            "j\u00e4r",
+            "<span class=\"bf\">min</span>",
+            "<span class=\"bf\">kattn</span>."
+        ],
+        "srcwordstex": [
+            "De",
+            "j\u00e4r",
+            "\\textbf{min}",
+            "\\textbf{kattn}."
+        ],
+        "trs": "It is my cat.\u2019 (Cat Corpus)",
+        "wlength": 4
+    },
+    {
+        "ID": "05--75291",
+        "categories": [],
+        "clength": 16,
+        "filename": "73/chapters/05.tex",
+        "imt": "life.{\\gen}.{\\deff}  tree.{\\deff}",
+        "imtwordsbare": [
+            "life.{\\gen}.{\\deff}",
+            "tree.{\\deff}"
+        ],
+        "imtwordshtml": [
+            "life.{\\gen}.{\\deff}",
+            "tree.{\\deff}"
+        ],
+        "imtwordstex": [
+            "life.{\\gen}.{\\deff}",
+            "tree.{\\deff}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Lijffzens  Tr\u00e4et",
+        "srcwordsbare": [
+            "Lijffzens",
+            "Tr\u00e4et"
+        ],
+        "srcwordshtml": [
+            "Lijffzens",
+            "Tr\u00e4et"
+        ],
+        "srcwordstex": [
+            "Lijffzens",
+            "Tr\u00e4et"
+        ],
+        "trs": "the tree of life",
+        "wlength": 2
+    },
+    {
+        "ID": "05-618162",
+        "categories": [],
+        "clength": 41,
+        "filename": "73/chapters/05.tex",
+        "imt": "at  Anders  Burman.{\\gen}  in  R\u00f6db\u00e4ck  sister.{\\deff}",
+        "imtwordsbare": [
+            "at",
+            "Anders",
+            "Burman.{\\gen}",
+            "in",
+            "R\u00f6db\u00e4ck",
+            "sister.{\\deff}"
+        ],
+        "imtwordshtml": [
+            "at",
+            "Anders",
+            "Burman.{\\gen}",
+            "in",
+            "R\u00f6db\u00e4ck",
+            "sister.{\\deff}"
+        ],
+        "imtwordstex": [
+            "at",
+            "Anders",
+            "Burman.{\\gen}",
+            "in",
+            "R\u00f6db\u00e4ck",
+            "sister.{\\deff}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "hos  Anders  Burmans  i  R\u00f6db\u00e4ck  systren",
+        "srcwordsbare": [
+            "hos",
+            "Anders",
+            "Burmans",
+            "i",
+            "R\u00f6db\u00e4ck",
+            "systren"
+        ],
+        "srcwordshtml": [
+            "hos",
+            "Anders",
+            "Burmans",
+            "i",
+            "R\u00f6db\u00e4ck",
+            "systren"
+        ],
+        "srcwordstex": [
+            "hos",
+            "Anders",
+            "Burmans",
+            "i",
+            "R\u00f6db\u00e4ck",
+            "systren"
+        ],
+        "trs": "at the sister of Anders Burman in R\u00f6db\u00e4ck",
+        "wlength": 6
+    },
+    {
+        "ID": "05--14016",
+        "categories": [],
+        "clength": 50,
+        "coordination": "and",
+        "filename": "73/chapters/05.tex",
+        "imt": "and  lay  {\\refl}  on  \\textbf{belly.{\\deff}} \\textbf{Granny.{\\deff}}",
+        "imtwordsbare": [
+            "and",
+            "lay",
+            "{\\refl}",
+            "on",
+            "belly.{\\deff}",
+            "Granny.{\\deff}"
+        ],
+        "imtwordshtml": [
+            "and",
+            "lay",
+            "{\\refl}",
+            "on",
+            "<span class=\"bf\">belly.{\\deff</span>}",
+            "<span class=\"bf\">Granny.{\\deff</span>}"
+        ],
+        "imtwordstex": [
+            "and",
+            "lay",
+            "{\\refl}",
+            "on",
+            "\\textbf{belly.{\\deff}}",
+            "\\textbf{Granny.{\\deff}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "\u00e5  laar  \u2019se  opa  \\textbf{m\u00e5an} \\textbf{m\u00e5rmora}.",
+        "srcwordsbare": [
+            "\u00e5",
+            "laar",
+            "\u2019se",
+            "opa",
+            "m\u00e5an",
+            "m\u00e5rmora."
+        ],
+        "srcwordshtml": [
+            "\u00e5",
+            "laar",
+            "\u2019se",
+            "opa",
+            "<span class=\"bf\">m\u00e5an</span>",
+            "<span class=\"bf\">m\u00e5rmora</span>."
+        ],
+        "srcwordstex": [
+            "\u00e5",
+            "laar",
+            "\u2019se",
+            "opa",
+            "\\textbf{m\u00e5an}",
+            "\\textbf{m\u00e5rmora}."
+        ],
+        "trs": "Murre jumped up and lay down on Granny\u2019s belly.\u2019 (Cat Corpus)",
+        "wlength": 6
+    },
+    {
+        "ID": "05-858196",
+        "categories": [],
+        "clength": 70,
+        "filename": "73/chapters/05.tex",
+        "imt": "sometimes  be.{\\pst}  it  too  hot  behind  \\textbf{back.{\\deff}} \\textbf{Granny.{\\deff}.{\\dat}}",
+        "imtwordsbare": [
+            "sometimes",
+            "be.{\\pst}",
+            "it",
+            "too",
+            "hot",
+            "behind",
+            "back.{\\deff}",
+            "Granny.{\\deff.{\\dat}}"
+        ],
+        "imtwordshtml": [
+            "sometimes",
+            "be.{\\pst}",
+            "it",
+            "too",
+            "hot",
+            "behind",
+            "<span class=\"bf\">back.{\\deff</span>}",
+            "<span class=\"bf\">Granny.{\\deff</span>.{\\dat}}"
+        ],
+        "imtwordstex": [
+            "sometimes",
+            "be.{\\pst}",
+            "it",
+            "too",
+            "hot",
+            "behind",
+            "\\textbf{back.{\\deff}}",
+            "\\textbf{Granny.{\\deff}.{\\dat}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Utimila  var  \u2018e  f\u00f6r  varmt  baki  \\textbf{r\u00f6yggen} \\textbf{m\u00e5rmorn}.",
+        "srcwordsbare": [
+            "Utimila",
+            "var",
+            "\u2018e",
+            "f\u00f6r",
+            "varmt",
+            "baki",
+            "r\u00f6yggen",
+            "m\u00e5rmorn."
+        ],
+        "srcwordshtml": [
+            "Utimila",
+            "var",
+            "\u2018e",
+            "f\u00f6r",
+            "varmt",
+            "baki",
+            "<span class=\"bf\">r\u00f6yggen</span>",
+            "<span class=\"bf\">m\u00e5rmorn</span>."
+        ],
+        "srcwordstex": [
+            "Utimila",
+            "var",
+            "\u2018e",
+            "f\u00f6r",
+            "varmt",
+            "baki",
+            "\\textbf{r\u00f6yggen}",
+            "\\textbf{m\u00e5rmorn}."
+        ],
+        "trs": "[The cat thought:] Sometimes it was too hot behind Granny\u2019s back.\u2019 (Cat Corpus)",
+        "wlength": 8
+    },
+    {
+        "ID": "05--14048",
+        "categories": [],
+        "clength": 11,
+        "filename": "73/chapters/05.tex",
+        "imt": "Granny.{\\deff}.{\\dat}  firewood",
+        "imtwordsbare": [
+            "Granny.{\\deff}.{\\dat}",
+            "firewood"
+        ],
+        "imtwordshtml": [
+            "Granny.{\\deff}.{\\dat}",
+            "firewood"
+        ],
+        "imtwordstex": [
+            "Granny.{\\deff}.{\\dat}",
+            "firewood"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "m\u00e5rmorn  v\u00e9",
+        "srcwordsbare": [
+            "m\u00e5rmorn",
+            "v\u00e9"
+        ],
+        "srcwordshtml": [
+            "m\u00e5rmorn",
+            "v\u00e9"
+        ],
+        "srcwordstex": [
+            "m\u00e5rmorn",
+            "v\u00e9"
+        ],
+        "trs": "Granny\u2019s firewood\u2019  (Cat Corpus)",
+        "wlength": 2
+    },
+    {
+        "ID": "05-135990",
+        "categories": [],
+        "clength": 50,
+        "coordination": "and",
+        "filename": "73/chapters/05.tex",
+        "imt": "fish  and  bread  be.{\\prs}  \\textbf{farmer.{\\deff}.{\\dat}} \\textbf{food}",
+        "imtwordsbare": [
+            "fish",
+            "and",
+            "bread",
+            "be.{\\prs}",
+            "farmer.{\\deff.{\\dat}}",
+            "food"
+        ],
+        "imtwordshtml": [
+            "fish",
+            "and",
+            "bread",
+            "be.{\\prs}",
+            "<span class=\"bf\">farmer.{\\deff</span>.{\\dat}}",
+            "<span class=\"bf\">food</span>"
+        ],
+        "imtwordstex": [
+            "fish",
+            "and",
+            "bread",
+            "be.{\\prs}",
+            "\\textbf{farmer.{\\deff}.{\\dat}}",
+            "\\textbf{food}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Fisk  o  br\u00f6d  jer  \\textbf{b\u00e5nndo} \\textbf{f\u00f6\u00f6d}.",
+        "srcwordsbare": [
+            "Fisk",
+            "o",
+            "br\u00f6d",
+            "jer",
+            "b\u00e5nndo",
+            "f\u00f6\u00f6d."
+        ],
+        "srcwordshtml": [
+            "Fisk",
+            "o",
+            "br\u00f6d",
+            "jer",
+            "<span class=\"bf\">b\u00e5nndo</span>",
+            "<span class=\"bf\">f\u00f6\u00f6d</span>."
+        ],
+        "srcwordstex": [
+            "Fisk",
+            "o",
+            "br\u00f6d",
+            "jer",
+            "\\textbf{b\u00e5nndo}",
+            "\\textbf{f\u00f6\u00f6d}."
+        ],
+        "trs": "Fish and bread are the farmer\u2019s food.",
+        "wlength": 6
+    },
+    {
+        "ID": "05--36115",
+        "categories": [],
+        "clength": 48,
+        "filename": "73/chapters/05.tex",
+        "imt": "it  be.{\\prs}  clearly  \\textbf{farmer.{\\deff}.{\\dat}} \\textbf{work}",
+        "imtwordsbare": [
+            "it",
+            "be.{\\prs}",
+            "clearly",
+            "farmer.{\\deff.{\\dat}}",
+            "work"
+        ],
+        "imtwordshtml": [
+            "it",
+            "be.{\\prs}",
+            "clearly",
+            "<span class=\"bf\">farmer.{\\deff</span>.{\\dat}}",
+            "<span class=\"bf\">work</span>"
+        ],
+        "imtwordstex": [
+            "it",
+            "be.{\\prs}",
+            "clearly",
+            "\\textbf{farmer.{\\deff}.{\\dat}}",
+            "\\textbf{work}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "He  jer  \u00e5llt  \\textbf{b\u00e5nndo} \\textbf{arrb\u00e4jt}.",
+        "srcwordsbare": [
+            "He",
+            "jer",
+            "\u00e5llt",
+            "b\u00e5nndo",
+            "arrb\u00e4jt."
+        ],
+        "srcwordshtml": [
+            "He",
+            "jer",
+            "\u00e5llt",
+            "<span class=\"bf\">b\u00e5nndo</span>",
+            "<span class=\"bf\">arrb\u00e4jt</span>."
+        ],
+        "srcwordstex": [
+            "He",
+            "jer",
+            "\u00e5llt",
+            "\\textbf{b\u00e5nndo}",
+            "\\textbf{arrb\u00e4jt}."
+        ],
+        "trs": "It is clearly the farmer\u2019s work.",
+        "wlength": 5
+    },
+    {
+        "ID": "05--30242",
+        "categories": [],
+        "clength": 20,
+        "filename": "73/chapters/05.tex",
+        "imt": "stable-shed.{\\deff}  Stormas.{\\deff}-{\\pl}",
+        "imtwordsbare": [
+            "stable-shed.{\\deff}",
+            "Stormas.{\\deff}-{\\pl}"
+        ],
+        "imtwordshtml": [
+            "stable-shed.{\\deff}",
+            "Stormas.{\\deff}-{\\pl}"
+        ],
+        "imtwordstex": [
+            "stable-shed.{\\deff}",
+            "Stormas.{\\deff}-{\\pl}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "fjosbu\u00f0e;  sturmasum",
+        "srcwordsbare": [
+            "fjosbu\u00f0e;",
+            "sturmasum"
+        ],
+        "srcwordshtml": [
+            "fjosbu\u00f0e;",
+            "sturmasum"
+        ],
+        "srcwordstex": [
+            "fjosbu\u00f0e;",
+            "sturmasum"
+        ],
+        "trs": "the shed of the Stormas people",
+        "wlength": 2
+    },
+    {
+        "ID": "05--13295",
+        "categories": [],
+        "clength": 54,
+        "filename": "73/chapters/05.tex",
+        "imt": "Ulov  have.PRET  take.{\\supp}  \\textbf{pen\\_box.{\\deff}} \\textbf{girl:{\\dat}.{\\sg}.{\\deff}}",
+        "imtwordsbare": [
+            "Ulov",
+            "have.PRET",
+            "take.{\\supp}",
+            "pen_box.{\\deff}",
+            "girl:{\\dat.{\\sg}.{\\deff}}"
+        ],
+        "imtwordshtml": [
+            "Ulov",
+            "have.PRET",
+            "take.{\\supp}",
+            "<span class=\"bf\">pen_box.{\\deff</span>}",
+            "<span class=\"bf\">girl:{\\dat</span>.{\\sg}.{\\deff}}"
+        ],
+        "imtwordstex": [
+            "Ulov",
+            "have.PRET",
+            "take.{\\supp}",
+            "\\textbf{pen\\_box.{\\deff}}",
+            "\\textbf{girl:{\\dat}.{\\sg}.{\\deff}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Ulov  add  tai\u00f0  \\textbf{pennskrine\u00f0} \\textbf{kullun}.",
+        "srcwordsbare": [
+            "Ulov",
+            "add",
+            "tai\u00f0",
+            "pennskrine\u00f0",
+            "kullun."
+        ],
+        "srcwordshtml": [
+            "Ulov",
+            "add",
+            "tai\u00f0",
+            "<span class=\"bf\">pennskrine\u00f0</span>",
+            "<span class=\"bf\">kullun</span>."
+        ],
+        "srcwordstex": [
+            "Ulov",
+            "add",
+            "tai\u00f0",
+            "\\textbf{pennskrine\u00f0}",
+            "\\textbf{kullun}."
+        ],
+        "trs": "Ulov had taken the girl\u2019s pen case.\u2019 (\\citealt[120]{\u00c5kerberg2012}))",
+        "wlength": 5
+    },
+    {
+        "ID": "05--66861",
+        "categories": [],
+        "clength": 20,
+        "filename": "73/chapters/05.tex",
+        "imt": "shoe.{\\pl}  Erik.{\\dat}",
+        "imtwordsbare": [
+            "shoe.{\\pl}",
+            "Erik.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "shoe.{\\pl}",
+            "Erik.{\\dat}"
+        ],
+        "imtwordstex": [
+            "shoe.{\\pl}",
+            "Erik.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "sk\\k{u}\u00f4nna;  Ierrka",
+        "srcwordsbare": [
+            "sk\\k{u}\u00f4nna;",
+            "Ierrka"
+        ],
+        "srcwordshtml": [
+            "sk\\k{u}\u00f4nna;",
+            "Ierrka"
+        ],
+        "srcwordstex": [
+            "sk\\k{u}\u00f4nna;",
+            "Ierrka"
+        ],
+        "trs": "Erik\u2019s shoes",
+        "wlength": 2
+    },
+    {
+        "ID": "05-398152",
+        "categories": [],
+        "clength": 20,
+        "filename": "73/chapters/05.tex",
+        "imt": "work.{\\pl}  Zorn",
+        "imtwordsbare": [
+            "work.{\\pl}",
+            "Zorn"
+        ],
+        "imtwordshtml": [
+            "work.{\\pl}",
+            "Zorn"
+        ],
+        "imtwordstex": [
+            "work.{\\pl}",
+            "Zorn"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "g\\={\u00e4}rdi  S\\={\u00e5}rim",
+        "srcwordsbare": [
+            "g\\={\u00e4}rdi",
+            "S\\={\u00e5}rim"
+        ],
+        "srcwordshtml": [
+            "g\\={\u00e4}rdi",
+            "S\\={\u00e5}rim"
+        ],
+        "srcwordstex": [
+            "g\\={\u00e4}rdi",
+            "S\\={\u00e5}rim"
+        ],
+        "trs": "[the painter Anders] Zorn\u2019s works",
+        "wlength": 2
+    },
+    {
+        "ID": "05-525522",
+        "categories": [],
+        "clength": 16,
+        "filename": "73/chapters/05.tex",
+        "imt": "cap.{\\deff}  farm-hand.{\\dat}",
+        "imtwordsbare": [
+            "cap.{\\deff}",
+            "farm-hand.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "cap.{\\deff}",
+            "farm-hand.{\\dat}"
+        ],
+        "imtwordstex": [
+            "cap.{\\deff}",
+            "farm-hand.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "h\u00e4tta  dr\u00e4nndjan",
+        "srcwordsbare": [
+            "h\u00e4tta",
+            "dr\u00e4nndjan"
+        ],
+        "srcwordshtml": [
+            "h\u00e4tta",
+            "dr\u00e4nndjan"
+        ],
+        "srcwordstex": [
+            "h\u00e4tta",
+            "dr\u00e4nndjan"
+        ],
+        "trs": "the farm-hand\u2019s cap",
+        "wlength": 2
+    },
+    {
+        "ID": "05-756883",
+        "categories": [],
+        "clength": 13,
+        "filename": "73/chapters/05.tex",
+        "imt": "cat.{\\deff}  Margit",
+        "imtwordsbare": [
+            "cat.{\\deff}",
+            "Margit"
+        ],
+        "imtwordshtml": [
+            "cat.{\\deff}",
+            "Margit"
+        ],
+        "imtwordstex": [
+            "cat.{\\deff}",
+            "Margit"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "katto  Margit",
+        "srcwordsbare": [
+            "katto",
+            "Margit"
+        ],
+        "srcwordshtml": [
+            "katto",
+            "Margit"
+        ],
+        "srcwordstex": [
+            "katto",
+            "Margit"
+        ],
+        "trs": "Margit\u2019s cat",
+        "wlength": 2
+    },
+    {
+        "ID": "05--77191",
+        "categories": [],
+        "clength": 14,
+        "filename": "73/chapters/05.tex",
+        "imt": "car.{\\deff}  priest.{\\deff}.{\\dat}",
+        "imtwordsbare": [
+            "car.{\\deff}",
+            "priest.{\\deff}.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "car.{\\deff}",
+            "priest.{\\deff}.{\\dat}"
+        ],
+        "imtwordstex": [
+            "car.{\\deff}",
+            "priest.{\\deff}.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "biln  pr\u00e4sstim",
+        "srcwordsbare": [
+            "biln",
+            "pr\u00e4sstim"
+        ],
+        "srcwordshtml": [
+            "biln",
+            "pr\u00e4sstim"
+        ],
+        "srcwordstex": [
+            "biln",
+            "pr\u00e4sstim"
+        ],
+        "trs": "\u201cthe priest\u2019s car\u201d",
+        "wlength": 2
+    },
+    {
+        "ID": "05-290538",
+        "categories": [],
+        "clength": 72,
+        "filename": "73/chapters/05.tex",
+        "imt": "Paul  wash.{\\pst}  \\textbf{{\\deff}.{\\nom}.{\\pl}} \\textbf{foot.{\\nom}.{\\pl}} \\textbf{his.{\\dat}.{\\m}.{\\sg}} \\textbf{son}",
+        "imtwordsbare": [
+            "Paul",
+            "wash.{\\pst}",
+            "{\\deff.{\\nom}.{\\pl}}",
+            "foot.{\\nom.{\\pl}}",
+            "his.{\\dat.{\\m}.{\\sg}}",
+            "son"
+        ],
+        "imtwordshtml": [
+            "Paul",
+            "wash.{\\pst}",
+            "<span class=\"bf\">{\\deff</span>.{\\nom}.{\\pl}}",
+            "<span class=\"bf\">foot.{\\nom</span>.{\\pl}}",
+            "<span class=\"bf\">his.{\\dat</span>.{\\m}.{\\sg}}",
+            "<span class=\"bf\">son</span>"
+        ],
+        "imtwordstex": [
+            "Paul",
+            "wash.{\\pst}",
+            "\\textbf{{\\deff}.{\\nom}.{\\pl}}",
+            "\\textbf{foot.{\\nom}.{\\pl}}",
+            "\\textbf{his.{\\dat}.{\\m}.{\\sg}}",
+            "\\textbf{son}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Peter  wusch  \\textbf{die} \\textbf{F\u00fc\u00dfe} \\textbf{seines} \\textbf{Sohns}.",
+        "srcwordsbare": [
+            "Peter",
+            "wusch",
+            "die",
+            "F\u00fc\u00dfe",
+            "seines",
+            "Sohns."
+        ],
+        "srcwordshtml": [
+            "Peter",
+            "wusch",
+            "<span class=\"bf\">die</span>",
+            "<span class=\"bf\">F\u00fc\u00dfe</span>",
+            "<span class=\"bf\">seines</span>",
+            "<span class=\"bf\">Sohns</span>."
+        ],
+        "srcwordstex": [
+            "Peter",
+            "wusch",
+            "\\textbf{die}",
+            "\\textbf{F\u00fc\u00dfe}",
+            "\\textbf{seines}",
+            "\\textbf{Sohns}."
+        ],
+        "trs": "Paul washed his son\u2019s feet.",
+        "wlength": 6
+    },
+    {
+        "ID": "05--79733",
+        "categories": [],
+        "clength": 48,
+        "filename": "73/chapters/05.tex",
+        "imt": "cut.{\\prs}  tongue.{\\acc}  out\\_of  \\textbf{head.{\\dat}} \\textbf{man.{\\dat}}",
+        "imtwordsbare": [
+            "cut.{\\prs}",
+            "tongue.{\\acc}",
+            "out_of",
+            "head.{\\dat}",
+            "man.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "cut.{\\prs}",
+            "tongue.{\\acc}",
+            "out_of",
+            "<span class=\"bf\">head.{\\dat</span>}",
+            "<span class=\"bf\">man.{\\dat</span>}"
+        ],
+        "imtwordstex": [
+            "cut.{\\prs}",
+            "tongue.{\\acc}",
+            "out\\_of",
+            "\\textbf{head.{\\dat}}",
+            "\\textbf{man.{\\dat}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Ski\u00e6r  tungu  \u00f6r  \\textbf{h\u00f6f\u00fei} \\textbf{manni\u2026}",
+        "srcwordsbare": [
+            "Ski\u00e6r",
+            "tungu",
+            "\u00f6r",
+            "h\u00f6f\u00fei",
+            "manni\u2026"
+        ],
+        "srcwordshtml": [
+            "Ski\u00e6r",
+            "tungu",
+            "\u00f6r",
+            "<span class=\"bf\">h\u00f6f\u00fei</span>",
+            "<span class=\"bf\">manni\u2026</span>"
+        ],
+        "srcwordstex": [
+            "Ski\u00e6r",
+            "tungu",
+            "\u00f6r",
+            "\\textbf{h\u00f6f\u00fei}",
+            "\\textbf{manni\u2026}"
+        ],
+        "trs": "If one cuts the tongue out of a man\u2019s head\u2026\u2019 [S2]",
+        "wlength": 5
+    },
+    {
+        "ID": "05-879220",
+        "categories": [],
+        "clength": 64,
+        "filename": "73/chapters/05.tex",
+        "imt": "then  jump.{\\pst}  he  up  in  \\textbf{knee.{\\deff}.{\\pl}} \\textbf{on} \\textbf{she.{\\obl}}",
+        "imtwordsbare": [
+            "then",
+            "jump.{\\pst}",
+            "he",
+            "up",
+            "in",
+            "knee.{\\deff.{\\pl}}",
+            "on",
+            "she.{\\obl}"
+        ],
+        "imtwordshtml": [
+            "then",
+            "jump.{\\pst}",
+            "he",
+            "up",
+            "in",
+            "<span class=\"bf\">knee.{\\deff</span>.{\\pl}}",
+            "<span class=\"bf\">on</span>",
+            "<span class=\"bf\">she.{\\obl</span>}"
+        ],
+        "imtwordstex": [
+            "then",
+            "jump.{\\pst}",
+            "he",
+            "up",
+            "in",
+            "\\textbf{knee.{\\deff}.{\\pl}}",
+            "\\textbf{on}",
+            "\\textbf{she.{\\obl}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Sen  huppa  han  \u00e5pp  i  \\textbf{kn\u00e4na} \\textbf{p\u00e5} \\textbf{na}.",
+        "srcwordsbare": [
+            "Sen",
+            "huppa",
+            "han",
+            "\u00e5pp",
+            "i",
+            "kn\u00e4na",
+            "p\u00e5",
+            "na."
+        ],
+        "srcwordshtml": [
+            "Sen",
+            "huppa",
+            "han",
+            "\u00e5pp",
+            "i",
+            "<span class=\"bf\">kn\u00e4na</span>",
+            "<span class=\"bf\">p\u00e5</span>",
+            "<span class=\"bf\">na</span>."
+        ],
+        "srcwordstex": [
+            "Sen",
+            "huppa",
+            "han",
+            "\u00e5pp",
+            "i",
+            "\\textbf{kn\u00e4na}",
+            "\\textbf{p\u00e5}",
+            "\\textbf{na}."
+        ],
+        "trs": "Then he jumped onto her lap.\u2019 (Cat Corpus)",
+        "wlength": 8
+    },
+    {
+        "ID": "05-764880",
+        "categories": [],
+        "clength": 47,
+        "filename": "73/chapters/05.tex",
+        "imt": "stand.{\\pst}  manly  in  \\textbf{stem.{\\dat}} \\textbf{ship.{\\dat}}",
+        "imtwordsbare": [
+            "stand.{\\pst}",
+            "manly",
+            "in",
+            "stem.{\\dat}",
+            "ship.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "stand.{\\pst}",
+            "manly",
+            "in",
+            "<span class=\"bf\">stem.{\\dat</span>}",
+            "<span class=\"bf\">ship.{\\dat</span>}"
+        ],
+        "imtwordstex": [
+            "stand.{\\pst}",
+            "manly",
+            "in",
+            "\\textbf{stem.{\\dat}}",
+            "\\textbf{ship.{\\dat}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "stu\u00fe  trikila  i  \\textbf{stafn} \\textbf{skibi}",
+        "srcwordsbare": [
+            "stu\u00fe",
+            "trikila",
+            "i",
+            "stafn",
+            "skibi"
+        ],
+        "srcwordshtml": [
+            "stu\u00fe",
+            "trikila",
+            "i",
+            "<span class=\"bf\">stafn</span>",
+            "<span class=\"bf\">skibi</span>"
+        ],
+        "srcwordstex": [
+            "stu\u00fe",
+            "trikila",
+            "i",
+            "\\textbf{stafn}",
+            "\\textbf{skibi}"
+        ],
+        "trs": "He stood manly at the stem of the ship.\u2019 [S35]",
+        "wlength": 5
+    },
+    {
+        "ID": "05--40912",
+        "categories": [],
+        "clength": 80,
+        "coordination": "and",
+        "filename": "73/chapters/05.tex",
+        "imt": "kill.{\\prs}  man.{\\nom}  man.{\\acc} become.{\\prs}  he  then  kill.{\\pp}  at  \\textbf{foot.{\\dat}.{\\pl}} \\textbf{he.{\\dat}}",
+        "imtwordsbare": [
+            "kill.{\\prs}",
+            "man.{\\nom}",
+            "man.{\\acc}",
+            "become.{\\prs}",
+            "he",
+            "then",
+            "kill.{\\pp}",
+            "at",
+            "foot.{\\dat.{\\pl}}",
+            "he.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "kill.{\\prs}",
+            "man.{\\nom}",
+            "man.{\\acc}",
+            "become.{\\prs}",
+            "he",
+            "then",
+            "kill.{\\pp}",
+            "at",
+            "<span class=\"bf\">foot.{\\dat</span>.{\\pl}}",
+            "<span class=\"bf\">he.{\\dat</span>}"
+        ],
+        "imtwordstex": [
+            "kill.{\\prs}",
+            "man.{\\nom}",
+            "man.{\\acc}",
+            "become.{\\prs}",
+            "he",
+            "then",
+            "kill.{\\pp}",
+            "at",
+            "\\textbf{foot.{\\dat}.{\\pl}}",
+            "\\textbf{he.{\\dat}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Dr\u00e6p\u00e6r  ma\u00feer  man, var\u00fe\u00e6r  han  si\u00feen  dr\u00e6pin  a  \\textbf{fotum} \\textbf{hanum}",
+        "srcwordsbare": [
+            "Dr\u00e6p\u00e6r",
+            "ma\u00feer",
+            "man,",
+            "var\u00fe\u00e6r",
+            "han",
+            "si\u00feen",
+            "dr\u00e6pin",
+            "a",
+            "fotum",
+            "hanum"
+        ],
+        "srcwordshtml": [
+            "Dr\u00e6p\u00e6r",
+            "ma\u00feer",
+            "man,",
+            "var\u00fe\u00e6r",
+            "han",
+            "si\u00feen",
+            "dr\u00e6pin",
+            "a",
+            "<span class=\"bf\">fotum</span>",
+            "<span class=\"bf\">hanum</span>"
+        ],
+        "srcwordstex": [
+            "Dr\u00e6p\u00e6r",
+            "ma\u00feer",
+            "man,",
+            "var\u00fe\u00e6r",
+            "han",
+            "si\u00feen",
+            "dr\u00e6pin",
+            "a",
+            "\\textbf{fotum}",
+            "\\textbf{hanum}"
+        ],
+        "trs": "If a man kills a man, and is then killed at his [that man\u2019s] feet.\u2019 [S2]",
+        "wlength": 10
+    },
+    {
+        "ID": "05-525641",
+        "categories": [],
+        "clength": 48,
+        "filename": "73/chapters/05.tex",
+        "imt": "this  here  be.{\\prs}  \\textbf{girl.{\\deff}.{\\pl}.{\\dat}-{\\poss}} \\textbf{bed}",
+        "imtwordsbare": [
+            "this",
+            "here",
+            "be.{\\prs}",
+            "girl.{\\deff.{\\pl}.{\\dat}-{\\poss}}",
+            "bed"
+        ],
+        "imtwordshtml": [
+            "this",
+            "here",
+            "be.{\\prs}",
+            "<span class=\"bf\">girl.{\\deff</span>.{\\pl}.{\\dat}-{\\poss}}",
+            "<span class=\"bf\">bed</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "here",
+            "be.{\\prs}",
+            "\\textbf{girl.{\\deff}.{\\pl}.{\\dat}-{\\poss}}",
+            "\\textbf{bed}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Ita  jar  ir  \\textbf{kullum-es} \\textbf{saing}.",
+        "srcwordsbare": [
+            "Ita",
+            "jar",
+            "ir",
+            "kullum-es",
+            "saing."
+        ],
+        "srcwordshtml": [
+            "Ita",
+            "jar",
+            "ir",
+            "<span class=\"bf\">kullum-es</span>",
+            "<span class=\"bf\">saing</span>."
+        ],
+        "srcwordstex": [
+            "Ita",
+            "jar",
+            "ir",
+            "\\textbf{kullum-es}",
+            "\\textbf{saing}."
+        ],
+        "trs": "This is the girls\u2019 bed.",
+        "wlength": 5
+    },
+    {
+        "ID": "05--94275",
+        "categories": [],
+        "clength": 37,
+        "filename": "73/chapters/05.tex",
+        "imt": "that  forest.{\\deff}  be.{\\prs}  \\textbf{village.{\\deff}.{\\dat}-{\\poss}}",
+        "imtwordsbare": [
+            "that",
+            "forest.{\\deff}",
+            "be.{\\prs}",
+            "village.{\\deff.{\\dat}-{\\poss}}"
+        ],
+        "imtwordshtml": [
+            "that",
+            "forest.{\\deff}",
+            "be.{\\prs}",
+            "<span class=\"bf\">village.{\\deff</span>.{\\dat}-{\\poss}}"
+        ],
+        "imtwordstex": [
+            "that",
+            "forest.{\\deff}",
+            "be.{\\prs}",
+            "\\textbf{village.{\\deff}.{\\dat}-{\\poss}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "An-dar  sku\u00e4gen  ir  \\textbf{bym-es}.",
+        "srcwordsbare": [
+            "An-dar",
+            "sku\u00e4gen",
+            "ir",
+            "bym-es."
+        ],
+        "srcwordshtml": [
+            "An-dar",
+            "sku\u00e4gen",
+            "ir",
+            "<span class=\"bf\">bym-es</span>."
+        ],
+        "srcwordstex": [
+            "An-dar",
+            "sku\u00e4gen",
+            "ir",
+            "\\textbf{bym-es}."
+        ],
+        "trs": "This forest belongs to the village.",
+        "wlength": 4
+    },
+    {
+        "ID": "05-800571",
+        "categories": [],
+        "clength": 38,
+        "filename": "73/chapters/05.tex",
+        "imt": "this  building.{\\deff}  be.{\\prs}  \\textbf{saw-mill.{\\deff}.{\\dat}-{\\poss}}",
+        "imtwordsbare": [
+            "this",
+            "building.{\\deff}",
+            "be.{\\prs}",
+            "saw-mill.{\\deff.{\\dat}-{\\poss}}"
+        ],
+        "imtwordshtml": [
+            "this",
+            "building.{\\deff}",
+            "be.{\\prs}",
+            "<span class=\"bf\">saw-mill.{\\deff</span>.{\\dat}-{\\poss}}"
+        ],
+        "imtwordstex": [
+            "this",
+            "building.{\\deff}",
+            "be.{\\prs}",
+            "\\textbf{saw-mill.{\\deff}.{\\dat}-{\\poss}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Isn-j\u00e4r  byggnan  ir  \\textbf{s\u00e5n-es}.",
+        "srcwordsbare": [
+            "Isn-j\u00e4r",
+            "byggnan",
+            "ir",
+            "s\u00e5n-es."
+        ],
+        "srcwordshtml": [
+            "Isn-j\u00e4r",
+            "byggnan",
+            "ir",
+            "<span class=\"bf\">s\u00e5n-es</span>."
+        ],
+        "srcwordstex": [
+            "Isn-j\u00e4r",
+            "byggnan",
+            "ir",
+            "\\textbf{s\u00e5n-es}."
+        ],
+        "trs": "This building belongs to the saw-mill.",
+        "wlength": 4
+    },
+    {
+        "ID": "05-846443",
+        "categories": [],
+        "clength": 41,
+        "filename": "73/chapters/05.tex",
+        "imt": "Anna.{\\dat}  up  in  shieling.{\\dat}.{\\pl}-{\\poss}  hood",
+        "imtwordsbare": [
+            "Anna.{\\dat}",
+            "up",
+            "in",
+            "shieling.{\\dat}.{\\pl}-{\\poss}",
+            "hood"
+        ],
+        "imtwordshtml": [
+            "Anna.{\\dat}",
+            "up",
+            "in",
+            "shieling.{\\dat}.{\\pl}-{\\poss}",
+            "hood"
+        ],
+        "imtwordstex": [
+            "Anna.{\\dat}",
+            "up",
+            "in",
+            "shieling.{\\dat}.{\\pl}-{\\poss}",
+            "hood"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Ann\\footnotemark{}  upp  i  budum-es etta",
+        "srcwordsbare": [
+            "Ann\\footnotemark{}",
+            "upp",
+            "i",
+            "budum-es",
+            "etta"
+        ],
+        "srcwordshtml": [
+            "Ann\\footnotemark{}",
+            "upp",
+            "i",
+            "budum-es",
+            "etta"
+        ],
+        "srcwordstex": [
+            "Ann\\footnotemark{}",
+            "upp",
+            "i",
+            "budum-es",
+            "etta"
+        ],
+        "trs": "Anna-at-the-shieling\u2019s hood",
+        "wlength": 5
+    },
+    {
+        "ID": "05-533404",
+        "categories": [],
+        "clength": 62,
+        "filename": "73/chapters/05.tex",
+        "imt": "he  carry.PRET  \\textbf{preacher.{\\deff}.{\\dat}.{\\sg}} \\textbf{here} \\textbf{up-{\\poss}} he",
+        "imtwordsbare": [
+            "he",
+            "carry.PRET",
+            "preacher.{\\deff.{\\dat}.{\\sg}}",
+            "here",
+            "up-{\\poss}",
+            "he"
+        ],
+        "imtwordshtml": [
+            "he",
+            "carry.PRET",
+            "<span class=\"bf\">preacher.{\\deff</span>.{\\dat}.{\\sg}}",
+            "<span class=\"bf\">here</span>",
+            "<span class=\"bf\">up-{\\poss</span>}",
+            "he"
+        ],
+        "imtwordstex": [
+            "he",
+            "carry.PRET",
+            "\\textbf{preacher.{\\deff}.{\\dat}.{\\sg}}",
+            "\\textbf{here}",
+            "\\textbf{up-{\\poss}}",
+            "he"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "An  bar  \\textbf{pridikantem} \\textbf{j\u00e4r} \\textbf{upp-es} an.",
+        "srcwordsbare": [
+            "An",
+            "bar",
+            "pridikantem",
+            "j\u00e4r",
+            "upp-es",
+            "an."
+        ],
+        "srcwordshtml": [
+            "An",
+            "bar",
+            "<span class=\"bf\">pridikantem</span>",
+            "<span class=\"bf\">j\u00e4r</span>",
+            "<span class=\"bf\">upp-es</span>",
+            "an."
+        ],
+        "srcwordstex": [
+            "An",
+            "bar",
+            "\\textbf{pridikantem}",
+            "\\textbf{j\u00e4r}",
+            "\\textbf{upp-es}",
+            "an."
+        ],
+        "trs": "He carried the stuff of the preacher\u2019s [stuff] up here, he did.",
+        "wlength": 6
+    },
+    {
+        "ID": "05-819744",
+        "categories": [],
+        "clength": 104,
+        "filename": "73/chapters/05.tex",
+        "imt": "it  be.PRET.{\\sg}  \\textbf{our.{\\m}.{\\dat}.{\\sg}.} \\textbf{father\u2019s\\_father-{\\poss}} \\textbf{father\u2019s\\_father} who  build.PRET  that.{\\f}.{\\sg}.{\\acc}  there  shelter.{\\deff}.{\\acc}.{\\sg}",
+        "imtwordsbare": [
+            "it",
+            "be.PRET.{\\sg}",
+            "our.{\\m.{\\dat}.{\\sg}.}",
+            "father\u2019s_father-{\\poss}",
+            "father\u2019s_father",
+            "who",
+            "build.PRET",
+            "that.{\\f}.{\\sg}.{\\acc}",
+            "there",
+            "shelter.{\\deff}.{\\acc}.{\\sg}"
+        ],
+        "imtwordshtml": [
+            "it",
+            "be.PRET.{\\sg}",
+            "<span class=\"bf\">our.{\\m</span>.{\\dat}.{\\sg}.}",
+            "<span class=\"bf\">father\u2019s_father-{\\poss</span>}",
+            "<span class=\"bf\">father\u2019s_father</span>",
+            "who",
+            "build.PRET",
+            "that.{\\f}.{\\sg}.{\\acc}",
+            "there",
+            "shelter.{\\deff}.{\\acc}.{\\sg}"
+        ],
+        "imtwordstex": [
+            "it",
+            "be.PRET.{\\sg}",
+            "\\textbf{our.{\\m}.{\\dat}.{\\sg}.}",
+            "\\textbf{father\u2019s\\_father-{\\poss}}",
+            "\\textbf{father\u2019s\\_father}",
+            "who",
+            "build.PRET",
+            "that.{\\f}.{\\sg}.{\\acc}",
+            "there",
+            "shelter.{\\deff}.{\\acc}.{\\sg}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "E\u00f0  war  \\textbf{uorum} \\textbf{fafar-es} \\textbf{fafar} so  byggd  do\u0328  dar  tjy\u00e4lbu\u00f0e;.\\footnotemark{}",
+        "srcwordsbare": [
+            "E\u00f0",
+            "war",
+            "uorum",
+            "fafar-es",
+            "fafar",
+            "so",
+            "byggd",
+            "do\u0328",
+            "dar",
+            "tjy\u00e4lbu\u00f0e;.\\footnotemark{}"
+        ],
+        "srcwordshtml": [
+            "E\u00f0",
+            "war",
+            "<span class=\"bf\">uorum</span>",
+            "<span class=\"bf\">fafar-es</span>",
+            "<span class=\"bf\">fafar</span>",
+            "so",
+            "byggd",
+            "do\u0328",
+            "dar",
+            "tjy\u00e4lbu\u00f0e;.\\footnotemark{}"
+        ],
+        "srcwordstex": [
+            "E\u00f0",
+            "war",
+            "\\textbf{uorum}",
+            "\\textbf{fafar-es}",
+            "\\textbf{fafar}",
+            "so",
+            "byggd",
+            "do\u0328",
+            "dar",
+            "tjy\u00e4lbu\u00f0e;.\\footnotemark{}"
+        ],
+        "trs": "It was our great-great-great-grandfather who built that shelter.",
+        "wlength": 10
+    },
+    {
+        "ID": "05--74225",
+        "categories": [],
+        "clength": 57,
+        "filename": "73/chapters/05.tex",
+        "imt": "it  be.PRET.{\\sg}  \\textbf{your.{\\m}.{\\dat}.{\\sg}.} \\textbf{husband-{\\poss}} \\textbf{mother\u2019s\\_mother}",
+        "imtwordsbare": [
+            "it",
+            "be.PRET.{\\sg}",
+            "your.{\\m.{\\dat}.{\\sg}.}",
+            "husband-{\\poss}",
+            "mother\u2019s_mother"
+        ],
+        "imtwordshtml": [
+            "it",
+            "be.PRET.{\\sg}",
+            "<span class=\"bf\">your.{\\m</span>.{\\dat}.{\\sg}.}",
+            "<span class=\"bf\">husband-{\\poss</span>}",
+            "<span class=\"bf\">mother\u2019s_mother</span>"
+        ],
+        "imtwordstex": [
+            "it",
+            "be.PRET.{\\sg}",
+            "\\textbf{your.{\\m}.{\\dat}.{\\sg}.}",
+            "\\textbf{husband-{\\poss}}",
+            "\\textbf{mother\u2019s\\_mother}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "E\u00f0  war  \\textbf{dainum} \\textbf{kall-es} \\textbf{mumun}.",
+        "srcwordsbare": [
+            "E\u00f0",
+            "war",
+            "dainum",
+            "kall-es",
+            "mumun."
+        ],
+        "srcwordshtml": [
+            "E\u00f0",
+            "war",
+            "<span class=\"bf\">dainum</span>",
+            "<span class=\"bf\">kall-es</span>",
+            "<span class=\"bf\">mumun</span>."
+        ],
+        "srcwordstex": [
+            "E\u00f0",
+            "war",
+            "\\textbf{dainum}",
+            "\\textbf{kall-es}",
+            "\\textbf{mumun}."
+        ],
+        "trs": "It was your husband\u2019s maternal grandmother.",
+        "wlength": 5
+    },
+    {
+        "ID": "05--60810",
+        "categories": [],
+        "clength": 31,
+        "filename": "73/chapters/05.tex",
+        "imt": "other.{\\deff}.{\\f}.{\\sg}  be.{\\prs}  \\textbf{evil.{\\deff}.{\\m}.{\\dat}-{\\poss}}",
+        "imtwordsbare": [
+            "other.{\\deff}.{\\f}.{\\sg}",
+            "be.{\\prs}",
+            "evil.{\\deff.{\\m}.{\\dat}-{\\poss}}"
+        ],
+        "imtwordshtml": [
+            "other.{\\deff}.{\\f}.{\\sg}",
+            "be.{\\prs}",
+            "<span class=\"bf\">evil.{\\deff</span>.{\\m}.{\\dat}-{\\poss}}"
+        ],
+        "imtwordstex": [
+            "other.{\\deff}.{\\f}.{\\sg}",
+            "be.{\\prs}",
+            "\\textbf{evil.{\\deff}.{\\m}.{\\dat}-{\\poss}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "O\u00f0ra;  ir  \\textbf{lju\u00e4tam-es}.",
+        "srcwordsbare": [
+            "O\u00f0ra;",
+            "ir",
+            "lju\u00e4tam-es."
+        ],
+        "srcwordshtml": [
+            "O\u00f0ra;",
+            "ir",
+            "<span class=\"bf\">lju\u00e4tam-es</span>."
+        ],
+        "srcwordstex": [
+            "O\u00f0ra;",
+            "ir",
+            "\\textbf{lju\u00e4tam-es}."
+        ],
+        "trs": "The other one belongs to the Evil One.",
+        "wlength": 3
+    },
+    {
+        "ID": "05--80683",
+        "categories": [],
+        "clength": 32,
+        "filename": "73/chapters/05.tex",
+        "imt": "scarf.{\\deff}  be.{\\prs}  \\textbf{dumb.{\\deff}.{\\f}.{\\dat}-{\\poss}}",
+        "imtwordsbare": [
+            "scarf.{\\deff}",
+            "be.{\\prs}",
+            "dumb.{\\deff.{\\f}.{\\dat}-{\\poss}}"
+        ],
+        "imtwordshtml": [
+            "scarf.{\\deff}",
+            "be.{\\prs}",
+            "<span class=\"bf\">dumb.{\\deff</span>.{\\f}.{\\dat}-{\\poss}}"
+        ],
+        "imtwordstex": [
+            "scarf.{\\deff}",
+            "be.{\\prs}",
+            "\\textbf{dumb.{\\deff}.{\\f}.{\\dat}-{\\poss}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Ermkl\u00e4d  ir  \\textbf{dumbun-es}.",
+        "srcwordsbare": [
+            "Ermkl\u00e4d",
+            "ir",
+            "dumbun-es."
+        ],
+        "srcwordshtml": [
+            "Ermkl\u00e4d",
+            "ir",
+            "<span class=\"bf\">dumbun-es</span>."
+        ],
+        "srcwordstex": [
+            "Ermkl\u00e4d",
+            "ir",
+            "\\textbf{dumbun-es}."
+        ],
+        "trs": "The scarf belongs to the deaf-and-dumb woman.\u2019\\footnotemark{}",
+        "wlength": 3
+    },
+    {
+        "ID": "05-922123",
+        "categories": [],
+        "clength": 49,
+        "filename": "73/chapters/05.tex",
+        "imt": "it  be.{\\prs}  \\textbf{neither.{\\dat}.{\\m}.{\\sg}-{\\poss}} \\textbf{reason} with",
+        "imtwordsbare": [
+            "it",
+            "be.{\\prs}",
+            "neither.{\\dat.{\\m}.{\\sg}-{\\poss}}",
+            "reason",
+            "with"
+        ],
+        "imtwordshtml": [
+            "it",
+            "be.{\\prs}",
+            "<span class=\"bf\">neither.{\\dat</span>.{\\m}.{\\sg}-{\\poss}}",
+            "<span class=\"bf\">reason</span>",
+            "with"
+        ],
+        "imtwordstex": [
+            "it",
+            "be.{\\prs}",
+            "\\textbf{neither.{\\dat}.{\\m}.{\\sg}-{\\poss}}",
+            "\\textbf{reason}",
+            "with"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "E\u00f0  ir  \\textbf{ingumdier-es} \\textbf{stj\u00e4l} min.",
+        "srcwordsbare": [
+            "E\u00f0",
+            "ir",
+            "ingumdier-es",
+            "stj\u00e4l",
+            "min."
+        ],
+        "srcwordshtml": [
+            "E\u00f0",
+            "ir",
+            "<span class=\"bf\">ingumdier-es</span>",
+            "<span class=\"bf\">stj\u00e4l</span>",
+            "min."
+        ],
+        "srcwordstex": [
+            "E\u00f0",
+            "ir",
+            "\\textbf{ingumdier-es}",
+            "\\textbf{stj\u00e4l}",
+            "min."
+        ],
+        "trs": "There is no reason for either one.",
+        "wlength": 5
+    },
+    {
+        "ID": "05--36653",
+        "categories": [],
+        "clength": 162,
+        "filename": "73/chapters/05.tex",
+        "imt": "now  be.{\\pst}  it  \\textbf{clergy-side.{\\deff}} \\textbf{{\\poss}} \\textbf{turn} {\\infm}  think.{\\inf} that  adversary.{\\deff}.{\\pl}  speak.{\\pst}  about  something  other  than  it they  shall.{\\pst}  take.{\\inf} position  to  on  meeting.{\\deff}.{\\dat}",
+        "imtwordsbare": [
+            "now",
+            "be.{\\pst}",
+            "it",
+            "clergy-side.{\\deff}",
+            "{\\poss}",
+            "turn",
+            "{\\infm}",
+            "think.{\\inf}",
+            "that",
+            "adversary.{\\deff}.{\\pl}",
+            "speak.{\\pst}",
+            "about",
+            "something",
+            "other",
+            "than",
+            "it",
+            "they",
+            "shall.{\\pst}",
+            "take.{\\inf}",
+            "position",
+            "to",
+            "on",
+            "meeting.{\\deff}.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "now",
+            "be.{\\pst}",
+            "it",
+            "<span class=\"bf\">clergy-side.{\\deff</span>}",
+            "<span class=\"bf\">{\\poss</span>}",
+            "<span class=\"bf\">turn</span>",
+            "{\\infm}",
+            "think.{\\inf}",
+            "that",
+            "adversary.{\\deff}.{\\pl}",
+            "speak.{\\pst}",
+            "about",
+            "something",
+            "other",
+            "than",
+            "it",
+            "they",
+            "shall.{\\pst}",
+            "take.{\\inf}",
+            "position",
+            "to",
+            "on",
+            "meeting.{\\deff}.{\\dat}"
+        ],
+        "imtwordstex": [
+            "now",
+            "be.{\\pst}",
+            "it",
+            "\\textbf{clergy-side.{\\deff}}",
+            "\\textbf{{\\poss}}",
+            "\\textbf{turn}",
+            "{\\infm}",
+            "think.{\\inf}",
+            "that",
+            "adversary.{\\deff}.{\\pl}",
+            "speak.{\\pst}",
+            "about",
+            "something",
+            "other",
+            "than",
+            "it",
+            "they",
+            "shall.{\\pst}",
+            "take.{\\inf}",
+            "position",
+            "to",
+            "on",
+            "meeting.{\\deff}.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Nu  war  ed  \\textbf{prestsaida} \\textbf{es} \\textbf{tur} at  tytts at  muotstonderer  spr\u00e5ked  um  n\u01ebd  eller  eld  ed dier  uld  tag  stellning  ad  \u01eb  stemmun.",
+        "srcwordsbare": [
+            "Nu",
+            "war",
+            "ed",
+            "prestsaida",
+            "es",
+            "tur",
+            "at",
+            "tytts",
+            "at",
+            "muotstonderer",
+            "spr\u00e5ked",
+            "um",
+            "n\u01ebd",
+            "eller",
+            "eld",
+            "ed",
+            "dier",
+            "uld",
+            "tag",
+            "stellning",
+            "ad",
+            "\u01eb",
+            "stemmun."
+        ],
+        "srcwordshtml": [
+            "Nu",
+            "war",
+            "ed",
+            "<span class=\"bf\">prestsaida</span>",
+            "<span class=\"bf\">es</span>",
+            "<span class=\"bf\">tur</span>",
+            "at",
+            "tytts",
+            "at",
+            "muotstonderer",
+            "spr\u00e5ked",
+            "um",
+            "n\u01ebd",
+            "eller",
+            "eld",
+            "ed",
+            "dier",
+            "uld",
+            "tag",
+            "stellning",
+            "ad",
+            "\u01eb",
+            "stemmun."
+        ],
+        "srcwordstex": [
+            "Nu",
+            "war",
+            "ed",
+            "\\textbf{prestsaida}",
+            "\\textbf{es}",
+            "\\textbf{tur}",
+            "at",
+            "tytts",
+            "at",
+            "muotstonderer",
+            "spr\u00e5ked",
+            "um",
+            "n\u01ebd",
+            "eller",
+            "eld",
+            "ed",
+            "dier",
+            "uld",
+            "tag",
+            "stellning",
+            "ad",
+            "\u01eb",
+            "stemmun."
+        ],
+        "trs": "Now it was the turn of the clergy side to think that the adversaries were talking about something other than what should be decided at the meeting.",
+        "wlength": 23
+    },
+    {
+        "ID": "05--19519",
+        "categories": [],
+        "clength": 37,
+        "filename": "73/chapters/05.tex",
+        "imt": "when  herder\\_boy.{\\pl}  have.{\\pst}  go.{\\supp}  to  forest.{\\deff}.{\\dat}",
+        "imtwordsbare": [
+            "when",
+            "herder_boy.{\\pl}",
+            "have.{\\pst}",
+            "go.{\\supp}",
+            "to",
+            "forest.{\\deff}.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "when",
+            "herder_boy.{\\pl}",
+            "have.{\\pst}",
+            "go.{\\supp}",
+            "to",
+            "forest.{\\deff}.{\\dat}"
+        ],
+        "imtwordstex": [
+            "when",
+            "herder\\_boy.{\\pl}",
+            "have.{\\pst}",
+            "go.{\\supp}",
+            "to",
+            "forest.{\\deff}.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "da  gesslkall\u00e4r  ad  fer  ad  rais\u00e4\u0328.",
+        "srcwordsbare": [
+            "da",
+            "gesslkall\u00e4r",
+            "ad",
+            "fer",
+            "ad",
+            "rais\u00e4\u0328."
+        ],
+        "srcwordshtml": [
+            "da",
+            "gesslkall\u00e4r",
+            "ad",
+            "fer",
+            "ad",
+            "rais\u00e4\u0328."
+        ],
+        "srcwordstex": [
+            "da",
+            "gesslkall\u00e4r",
+            "ad",
+            "fer",
+            "ad",
+            "rais\u00e4\u0328."
+        ],
+        "trs": "\u2026and then it was the shieling hostess\u2019s turn to take care of the milk when the herder boys had gone to the woods.\u2019 [S16]",
+        "wlength": 6
+    },
+    {
+        "ID": "05--74672",
+        "categories": [],
+        "clength": 46,
+        "filename": "73/chapters/05.tex",
+        "imt": "who  come.{\\prs}  in  \\textbf{Lord.{\\deff}.{\\dat}-{\\poss}} \\textbf{name}",
+        "imtwordsbare": [
+            "who",
+            "come.{\\prs}",
+            "in",
+            "Lord.{\\deff.{\\dat}-{\\poss}}",
+            "name"
+        ],
+        "imtwordshtml": [
+            "who",
+            "come.{\\prs}",
+            "in",
+            "<span class=\"bf\">Lord.{\\deff</span>.{\\dat}-{\\poss}}",
+            "<span class=\"bf\">name</span>"
+        ],
+        "imtwordstex": [
+            "who",
+            "come.{\\prs}",
+            "in",
+            "\\textbf{Lord.{\\deff}.{\\dat}-{\\poss}}",
+            "\\textbf{name}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "s\u00e5  kum  i  \\textbf{\u00c4rram-\u00e5s} \\textbf{nammen!}",
+        "srcwordsbare": [
+            "s\u00e5",
+            "kum",
+            "i",
+            "\u00c4rram-\u00e5s",
+            "nammen!"
+        ],
+        "srcwordshtml": [
+            "s\u00e5",
+            "kum",
+            "i",
+            "<span class=\"bf\">\u00c4rram-\u00e5s</span>",
+            "<span class=\"bf\">nammen!</span>"
+        ],
+        "srcwordstex": [
+            "s\u00e5",
+            "kum",
+            "i",
+            "\\textbf{\u00c4rram-\u00e5s}",
+            "\\textbf{nammen!}"
+        ],
+        "trs": "Blessed is he who comes in the name of the \\href{http://www.godrules.net/library/topics/topic1192.htm}{Lord}!\u2019 (Matthew 21:9) [S20]",
+        "wlength": 5
+    },
+    {
+        "ID": "05-287200",
+        "categories": [],
+        "clength": 57,
+        "filename": "73/chapters/05.tex",
+        "imt": "then  stand.{\\pst}  \\textbf{Lord.{\\deff}-{\\poss}} \\textbf{angel} in\\_front\\_of  they.{\\obl}",
+        "imtwordsbare": [
+            "then",
+            "stand.{\\pst}",
+            "Lord.{\\deff-{\\poss}}",
+            "angel",
+            "in_front_of",
+            "they.{\\obl}"
+        ],
+        "imtwordshtml": [
+            "then",
+            "stand.{\\pst}",
+            "<span class=\"bf\">Lord.{\\deff</span>-{\\poss}}",
+            "<span class=\"bf\">angel</span>",
+            "in_front_of",
+            "they.{\\obl}"
+        ],
+        "imtwordstex": [
+            "then",
+            "stand.{\\pst}",
+            "\\textbf{Lord.{\\deff}-{\\poss}}",
+            "\\textbf{angel}",
+            "in\\_front\\_of",
+            "they.{\\obl}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "D\u00e5  stod  \\textbf{\u00c4rran-\u00e5s} \\textbf{angel} fram\u00e5min  dem\u2026",
+        "srcwordsbare": [
+            "D\u00e5",
+            "stod",
+            "\u00c4rran-\u00e5s",
+            "angel",
+            "fram\u00e5min",
+            "dem\u2026"
+        ],
+        "srcwordshtml": [
+            "D\u00e5",
+            "stod",
+            "<span class=\"bf\">\u00c4rran-\u00e5s</span>",
+            "<span class=\"bf\">angel</span>",
+            "fram\u00e5min",
+            "dem\u2026"
+        ],
+        "srcwordstex": [
+            "D\u00e5",
+            "stod",
+            "\\textbf{\u00c4rran-\u00e5s}",
+            "\\textbf{angel}",
+            "fram\u00e5min",
+            "dem\u2026"
+        ],
+        "trs": "And then the angel of the Lord stood before them\u2026\u2019 (Luke 2:9) [S20]",
+        "wlength": 6
+    },
+    {
+        "ID": "05-848893",
+        "categories": [],
+        "clength": 70,
+        "filename": "73/chapters/05.tex",
+        "imt": "why  see.{\\prs}  you  speck.{\\pl}  in  \\textbf{brother} \\textbf{your-{\\poss}} \\textbf{eye}",
+        "imtwordsbare": [
+            "why",
+            "see.{\\prs}",
+            "you",
+            "speck.{\\pl}",
+            "in",
+            "brother",
+            "your-{\\poss}",
+            "eye"
+        ],
+        "imtwordshtml": [
+            "why",
+            "see.{\\prs}",
+            "you",
+            "speck.{\\pl}",
+            "in",
+            "<span class=\"bf\">brother</span>",
+            "<span class=\"bf\">your-{\\poss</span>}",
+            "<span class=\"bf\">eye</span>"
+        ],
+        "imtwordstex": [
+            "why",
+            "see.{\\prs}",
+            "you",
+            "speck.{\\pl}",
+            "in",
+            "\\textbf{brother}",
+            "\\textbf{your-{\\poss}}",
+            "\\textbf{eye}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Wennfe  si  du  tw\u00e5rp\u00e4r  i  \\textbf{bror} \\textbf{den\u00e5s} \\textbf{\u00f6ga\u2026}",
+        "srcwordsbare": [
+            "Wennfe",
+            "si",
+            "du",
+            "tw\u00e5rp\u00e4r",
+            "i",
+            "bror",
+            "den\u00e5s",
+            "\u00f6ga\u2026"
+        ],
+        "srcwordshtml": [
+            "Wennfe",
+            "si",
+            "du",
+            "tw\u00e5rp\u00e4r",
+            "i",
+            "<span class=\"bf\">bror</span>",
+            "<span class=\"bf\">den\u00e5s</span>",
+            "<span class=\"bf\">\u00f6ga\u2026</span>"
+        ],
+        "srcwordstex": [
+            "Wennfe",
+            "si",
+            "du",
+            "tw\u00e5rp\u00e4r",
+            "i",
+            "\\textbf{bror}",
+            "\\textbf{den\u00e5s}",
+            "\\textbf{\u00f6ga\u2026}"
+        ],
+        "trs": "And why do you see specks in your brother\u2019s eye\u2026\u2019 (Matt. 7:3) [S20]",
+        "wlength": 8
+    },
+    {
+        "ID": "05--36693",
+        "categories": [],
+        "clength": 41,
+        "coordination": "and",
+        "filename": "73/chapters/05.tex",
+        "imt": "who  have.{\\pst}  fall\\_asleep.{\\supp}  off  and  lie.{\\pst}  and  snore.{\\pst}",
+        "imtwordsbare": [
+            "who",
+            "have.{\\pst}",
+            "fall_asleep.{\\supp}",
+            "off",
+            "and",
+            "lie.{\\pst}",
+            "and",
+            "snore.{\\pst}"
+        ],
+        "imtwordshtml": [
+            "who",
+            "have.{\\pst}",
+            "fall_asleep.{\\supp}",
+            "off",
+            "and",
+            "lie.{\\pst}",
+            "and",
+            "snore.{\\pst}"
+        ],
+        "imtwordstex": [
+            "who",
+            "have.{\\pst}",
+            "fall\\_asleep.{\\supp}",
+            "off",
+            "and",
+            "lie.{\\pst}",
+            "and",
+            "snore.{\\pst}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "s\u00f4m  hadde  s\u00f4mne  \u00e5v  \u00e5  l\u00e5g  \u00e5  snarke.",
+        "srcwordsbare": [
+            "s\u00f4m",
+            "hadde",
+            "s\u00f4mne",
+            "\u00e5v",
+            "\u00e5",
+            "l\u00e5g",
+            "\u00e5",
+            "snarke."
+        ],
+        "srcwordshtml": [
+            "s\u00f4m",
+            "hadde",
+            "s\u00f4mne",
+            "\u00e5v",
+            "\u00e5",
+            "l\u00e5g",
+            "\u00e5",
+            "snarke."
+        ],
+        "srcwordstex": [
+            "s\u00f4m",
+            "hadde",
+            "s\u00f4mne",
+            "\u00e5v",
+            "\u00e5",
+            "l\u00e5g",
+            "\u00e5",
+            "snarke."
+        ],
+        "trs": "It was one of the Russians\u2019 sentinels who had fallen asleep and lay snoring.\u2019 [S38]",
+        "wlength": 8
+    },
+    {
+        "ID": "05--32808",
+        "categories": [],
+        "clength": 106,
+        "filename": "73/chapters/05.tex",
+        "imt": "on  \\textbf{father.{\\dat}} \\textbf{their.{\\refl}.{\\dat}} \\textbf{{\\poss}} \\textbf{funeral}",
+        "imtwordsbare": [
+            "on",
+            "father.{\\dat}",
+            "their.{\\refl.{\\dat}}",
+            "{\\poss}",
+            "funeral"
+        ],
+        "imtwordshtml": [
+            "on",
+            "<span class=\"bf\">father.{\\dat</span>}",
+            "<span class=\"bf\">their.{\\refl</span>.{\\dat}}",
+            "<span class=\"bf\">{\\poss</span>}",
+            "<span class=\"bf\">funeral</span>"
+        ],
+        "imtwordstex": [
+            "on",
+            "\\textbf{father.{\\dat}}",
+            "\\textbf{their.{\\refl}.{\\dat}}",
+            "\\textbf{{\\poss}}",
+            "\\textbf{funeral}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "p\u00e5  \\textbf{fara} \\textbf{senne-}\\textbf{\\textit{  }}\\textbf{\\textit{\\nobreakdash-s}} \\textbf{joLs\u00e4ttning}",
+        "srcwordsbare": [
+            "p\u00e5",
+            "fara",
+            "senne-\\textbf{\\textit{",
+            "}}\\textit{-s}",
+            "joLs\u00e4ttning"
+        ],
+        "srcwordshtml": [
+            "p\u00e5",
+            "<span class=\"bf\">fara</span>",
+            "<span class=\"bf\">senne-</span>\\textbf{\\textit{",
+            "}}<span class=\"bf\">\\textit{-s</span>}",
+            "<span class=\"bf\">joLs\u00e4ttning</span>"
+        ],
+        "srcwordstex": [
+            "p\u00e5",
+            "\\textbf{fara}",
+            "\\textbf{senne-}\\textbf{\\textit{",
+            "}}\\textbf{\\textit{\\nobreakdash-s}}",
+            "\\textbf{joLs\u00e4ttning}"
+        ],
+        "trs": "\u2026a couple of girls \u2026 who took part in their father\u2019s funeral.\u2019 [S15]",
+        "wlength": 5
+    },
+    {
+        "ID": "05--37453",
+        "categories": [],
+        "clength": 46,
+        "coordination": "and",
+        "filename": "73/chapters/05.tex",
+        "imt": "and  their  \\textbf{child.{\\dat}.{\\pl}-{\\poss}} good.{\\dat}.{\\sg}.{\\m}  will..",
+        "imtwordsbare": [
+            "and",
+            "their",
+            "child.{\\dat.{\\pl}-{\\poss}}",
+            "good.{\\dat}.{\\sg}.{\\m}",
+            "will.."
+        ],
+        "imtwordshtml": [
+            "and",
+            "their",
+            "<span class=\"bf\">child.{\\dat</span>.{\\pl}-{\\poss}}",
+            "good.{\\dat}.{\\sg}.{\\m}",
+            "will.."
+        ],
+        "imtwordstex": [
+            "and",
+            "their",
+            "\\textbf{child.{\\dat}.{\\pl}-{\\poss}}",
+            "good.{\\dat}.{\\sg}.{\\m}",
+            "will.."
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "oc  theyriss  \\textbf{barnomss}  godom  vilie\u2026",
+        "srcwordsbare": [
+            "oc",
+            "theyriss",
+            "barnomss",
+            "godom",
+            "vilie\u2026"
+        ],
+        "srcwordshtml": [
+            "oc",
+            "theyriss",
+            "<span class=\"bf\">barnomss</span>",
+            "godom",
+            "vilie\u2026"
+        ],
+        "srcwordstex": [
+            "oc",
+            "theyriss",
+            "\\textbf{barnomss}",
+            "godom",
+            "vilie\u2026"
+        ],
+        "trs": "\u2026with the good will of their husbands Karl Jonsson Engelbrikt Asmarsson and Trond Eyriksson and their children\u2026",
+        "wlength": 5
+    },
+    {
+        "ID": "05--50531",
+        "categories": [],
+        "clength": 58,
+        "filename": "73/chapters/05.tex",
+        "imt": "of  Seth  who  be.{\\pst}  \\textbf{Adam} \\textbf{{\\poss}} \\textbf{son}",
+        "imtwordsbare": [
+            "of",
+            "Seth",
+            "who",
+            "be.{\\pst}",
+            "Adam",
+            "{\\poss}",
+            "son"
+        ],
+        "imtwordshtml": [
+            "of",
+            "Seth",
+            "who",
+            "be.{\\pst}",
+            "<span class=\"bf\">Adam</span>",
+            "<span class=\"bf\">{\\poss</span>}",
+            "<span class=\"bf\">son</span>"
+        ],
+        "imtwordstex": [
+            "of",
+            "Seth",
+            "who",
+            "be.{\\pst}",
+            "\\textbf{Adam}",
+            "\\textbf{{\\poss}}",
+            "\\textbf{son}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "of  Seth  \u00f0e  was  \\textbf{Adam} \\textbf{is} \\textbf{sune}",
+        "srcwordsbare": [
+            "of",
+            "Seth",
+            "\u00f0e",
+            "was",
+            "Adam",
+            "is",
+            "sune"
+        ],
+        "srcwordshtml": [
+            "of",
+            "Seth",
+            "\u00f0e",
+            "was",
+            "<span class=\"bf\">Adam</span>",
+            "<span class=\"bf\">is</span>",
+            "<span class=\"bf\">sune</span>"
+        ],
+        "srcwordstex": [
+            "of",
+            "Seth",
+            "\u00f0e",
+            "was",
+            "\\textbf{Adam}",
+            "\\textbf{is}",
+            "\\textbf{sune}"
+        ],
+        "trs": "of Seth, who was Adam\u2019s son\u2019 [S3]",
+        "wlength": 7
+    },
+    {
+        "ID": "05-777835",
+        "categories": [],
+        "clength": 25,
+        "filename": "73/chapters/05.tex",
+        "imt": "Great.{\\dat}  Charles.{\\dat}  his  son",
+        "imtwordsbare": [
+            "Great.{\\dat}",
+            "Charles.{\\dat}",
+            "his",
+            "son"
+        ],
+        "imtwordshtml": [
+            "Great.{\\dat}",
+            "Charles.{\\dat}",
+            "his",
+            "son"
+        ],
+        "imtwordstex": [
+            "Great.{\\dat}",
+            "Charles.{\\dat}",
+            "his",
+            "son"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Grote  Kaerle  sijn  soon",
+        "srcwordsbare": [
+            "Grote",
+            "Kaerle",
+            "sijn",
+            "soon"
+        ],
+        "srcwordshtml": [
+            "Grote",
+            "Kaerle",
+            "sijn",
+            "soon"
+        ],
+        "srcwordstex": [
+            "Grote",
+            "Kaerle",
+            "sijn",
+            "soon"
+        ],
+        "trs": "great Charles\u2019 son",
+        "wlength": 4
+    },
+    {
+        "ID": "05-516035",
+        "categories": [],
+        "clength": 14,
+        "filename": "73/chapters/05.tex",
+        "imt": "Jan  {\\poss}   book",
+        "imtwordsbare": [
+            "Jan",
+            "{\\poss}",
+            "book"
+        ],
+        "imtwordshtml": [
+            "Jan",
+            "{\\poss}",
+            "book"
+        ],
+        "imtwordstex": [
+            "Jan",
+            "{\\poss}",
+            "book"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Jan  z\u2019n  boek",
+        "srcwordsbare": [
+            "Jan",
+            "z\u2019n",
+            "boek"
+        ],
+        "srcwordshtml": [
+            "Jan",
+            "z\u2019n",
+            "boek"
+        ],
+        "srcwordstex": [
+            "Jan",
+            "z\u2019n",
+            "boek"
+        ],
+        "trs": "Jan\u2019s book",
+        "wlength": 3
+    },
+    {
+        "ID": "05--69768",
+        "categories": [],
+        "clength": 15,
+        "filename": "73/chapters/05.tex",
+        "imt": "Mary  {\\poss}  book",
+        "imtwordsbare": [
+            "Mary",
+            "{\\poss}",
+            "book"
+        ],
+        "imtwordshtml": [
+            "Mary",
+            "{\\poss}",
+            "book"
+        ],
+        "imtwordstex": [
+            "Mary",
+            "{\\poss}",
+            "book"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Marie  se  boek",
+        "srcwordsbare": [
+            "Marie",
+            "se",
+            "boek"
+        ],
+        "srcwordshtml": [
+            "Marie",
+            "se",
+            "boek"
+        ],
+        "srcwordstex": [
+            "Marie",
+            "se",
+            "boek"
+        ],
+        "trs": "Marie\u2019s book\u2019 (\\REF{289}{}-\\REF{291} quoted from \\citealt[56]{Norde1997})",
+        "wlength": 3
+    },
+    {
+        "ID": "05-419042",
+        "categories": [],
+        "clength": 73,
+        "filename": "73/chapters/05.tex",
+        "imt": "{\\deff}.{\\m}.{\\sg}.{\\nom}  dative  be.{\\prs}  \\textbf{{\\deff}.{\\m}.{\\sg}.{\\dat}} \\textbf{genitive} \\textbf{{\\poss}.{\\m}.{\\sg}.{\\nom}} \\textbf{death}",
+        "imtwordsbare": [
+            "{\\deff}.{\\m}.{\\sg}.{\\nom}",
+            "dative",
+            "be.{\\prs}",
+            "{\\deff.{\\m}.{\\sg}.{\\dat}}",
+            "genitive",
+            "{\\poss.{\\m}.{\\sg}.{\\nom}}",
+            "death"
+        ],
+        "imtwordshtml": [
+            "{\\deff}.{\\m}.{\\sg}.{\\nom}",
+            "dative",
+            "be.{\\prs}",
+            "<span class=\"bf\">{\\deff</span>.{\\m}.{\\sg}.{\\dat}}",
+            "<span class=\"bf\">genitive</span>",
+            "<span class=\"bf\">{\\poss</span>.{\\m}.{\\sg}.{\\nom}}",
+            "<span class=\"bf\">death</span>"
+        ],
+        "imtwordstex": [
+            "{\\deff}.{\\m}.{\\sg}.{\\nom}",
+            "dative",
+            "be.{\\prs}",
+            "\\textbf{{\\deff}.{\\m}.{\\sg}.{\\dat}}",
+            "\\textbf{genitive}",
+            "\\textbf{{\\poss}.{\\m}.{\\sg}.{\\nom}}",
+            "\\textbf{death}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Der  Dativ  ist  \\textbf{dem} \\textbf{Genitiv} \\textbf{sein} \\textbf{Tod}",
+        "srcwordsbare": [
+            "Der",
+            "Dativ",
+            "ist",
+            "dem",
+            "Genitiv",
+            "sein",
+            "Tod"
+        ],
+        "srcwordshtml": [
+            "Der",
+            "Dativ",
+            "ist",
+            "<span class=\"bf\">dem</span>",
+            "<span class=\"bf\">Genitiv</span>",
+            "<span class=\"bf\">sein</span>",
+            "<span class=\"bf\">Tod</span>"
+        ],
+        "srcwordstex": [
+            "Der",
+            "Dativ",
+            "ist",
+            "\\textbf{dem}",
+            "\\textbf{Genitiv}",
+            "\\textbf{sein}",
+            "\\textbf{Tod}"
+        ],
+        "trs": "The dative is the death of the genitive.",
+        "wlength": 7
+    },
+    {
+        "ID": "05-507844",
+        "categories": [],
+        "clength": 33,
+        "filename": "73/chapters/05.tex",
+        "imt": "all  {\\deff}.{\\m}.{\\gen}  king.{\\gen}  his  land.{\\pl}",
+        "imtwordsbare": [
+            "all",
+            "{\\deff}.{\\m}.{\\gen}",
+            "king.{\\gen}",
+            "his",
+            "land.{\\pl}"
+        ],
+        "imtwordshtml": [
+            "all",
+            "{\\deff}.{\\m}.{\\gen}",
+            "king.{\\gen}",
+            "his",
+            "land.{\\pl}"
+        ],
+        "imtwordstex": [
+            "all",
+            "{\\deff}.{\\m}.{\\gen}",
+            "king.{\\gen}",
+            "his",
+            "land.{\\pl}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "alle  des  konincks  sijn  landen",
+        "srcwordsbare": [
+            "alle",
+            "des",
+            "konincks",
+            "sijn",
+            "landen"
+        ],
+        "srcwordshtml": [
+            "alle",
+            "des",
+            "konincks",
+            "sijn",
+            "landen"
+        ],
+        "srcwordstex": [
+            "alle",
+            "des",
+            "konincks",
+            "sijn",
+            "landen"
+        ],
+        "trs": "all the king\u2019s lands\u2019 (\\citealt[58]{Norde1997})",
+        "wlength": 5
+    },
+    {
+        "ID": "05-190747",
+        "categories": [],
+        "clength": 17,
+        "filename": "73/chapters/05.tex",
+        "imt": "man.{\\deff}  {\\poss}.{\\refl}.3{\\sg}  hat",
+        "imtwordsbare": [
+            "man.{\\deff}",
+            "{\\poss}.{\\refl}.3{\\sg}",
+            "hat"
+        ],
+        "imtwordshtml": [
+            "man.{\\deff}",
+            "{\\poss}.{\\refl}.3{\\sg}",
+            "hat"
+        ],
+        "imtwordstex": [
+            "man.{\\deff}",
+            "{\\poss}.{\\refl}.3{\\sg}",
+            "hat"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "mannen  sin  hatt",
+        "srcwordsbare": [
+            "mannen",
+            "sin",
+            "hatt"
+        ],
+        "srcwordshtml": [
+            "mannen",
+            "sin",
+            "hatt"
+        ],
+        "srcwordstex": [
+            "mannen",
+            "sin",
+            "hatt"
+        ],
+        "trs": "the man\u2019s hat",
+        "wlength": 3
+    },
+    {
+        "ID": "05-713155",
+        "categories": [],
+        "clength": 20,
+        "filename": "73/chapters/05.tex",
+        "imt": "{\\deff}  neighbour  garden-3{\\sg}.{\\poss}",
+        "imtwordsbare": [
+            "{\\deff}",
+            "neighbour",
+            "garden-3{\\sg}.{\\poss}"
+        ],
+        "imtwordshtml": [
+            "{\\deff}",
+            "neighbour",
+            "garden-3{\\sg}.{\\poss}"
+        ],
+        "imtwordstex": [
+            "{\\deff}",
+            "neighbour",
+            "garden-3{\\sg}.{\\poss}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "a  szomsz\u00e9d  kert-je",
+        "srcwordsbare": [
+            "a",
+            "szomsz\u00e9d",
+            "kert-je"
+        ],
+        "srcwordshtml": [
+            "a",
+            "szomsz\u00e9d",
+            "kert-je"
+        ],
+        "srcwordstex": [
+            "a",
+            "szomsz\u00e9d",
+            "kert-je"
+        ],
+        "trs": "the neighbour\u2019s garden\u2019 \\citep[648]{KoptjevskajaTamm2003}",
+        "wlength": 3
+    },
+    {
+        "ID": "05--67893",
+        "categories": [],
+        "clength": 89,
+        "filename": "73/chapters/05.tex",
+        "imt": "he  have.{\\prs}  \\textbf{my.{\\dat}.{\\m}.{\\sg}} \\textbf{father} \\textit{his.{\\acc}.{\\m}.{\\sg}}\\textit{  }\\textit{hat}\\textit{  }take.{\\pp}",
+        "imtwordsbare": [
+            "he",
+            "have.{\\prs}",
+            "my.{\\dat.{\\m}.{\\sg}}",
+            "father",
+            "his.{\\acc.{\\m}.{\\sg}}\\textit{",
+            "}hat\\textit{",
+            "}take.{\\pp}"
+        ],
+        "imtwordshtml": [
+            "he",
+            "have.{\\prs}",
+            "<span class=\"bf\">my.{\\dat</span>.{\\m}.{\\sg}}",
+            "<span class=\"bf\">father</span>",
+            "<span class=\"it\">his.{\\acc</span>.{\\m}.{\\sg}}\\textit{",
+            "}<span class=\"it\">hat</span>\\textit{",
+            "}take.{\\pp}"
+        ],
+        "imtwordstex": [
+            "he",
+            "have.{\\prs}",
+            "\\textbf{my.{\\dat}.{\\m}.{\\sg}}",
+            "\\textbf{father}",
+            "\\textit{his.{\\acc}.{\\m}.{\\sg}}\\textit{",
+            "}\\textit{hat}\\textit{",
+            "}take.{\\pp}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Er  hat  \\textbf{meinem} \\textbf{Vater} \\textit{seinen}\\textit{  Hut}\\textit{  }genommen.",
+        "srcwordsbare": [
+            "Er",
+            "hat",
+            "meinem",
+            "Vater",
+            "seinen\\textit{",
+            "Hut}\\textit{",
+            "}genommen."
+        ],
+        "srcwordshtml": [
+            "Er",
+            "hat",
+            "<span class=\"bf\">meinem</span>",
+            "<span class=\"bf\">Vater</span>",
+            "<span class=\"it\">seinen</span>\\textit{",
+            "Hut}\\textit{",
+            "}genommen."
+        ],
+        "srcwordstex": [
+            "Er",
+            "hat",
+            "\\textbf{meinem}",
+            "\\textbf{Vater}",
+            "\\textit{seinen}\\textit{",
+            "Hut}\\textit{",
+            "}genommen."
+        ],
+        "trs": "He has taken from my father his hat.\u2019?\u2019he has taken my father\u2019s hat.",
+        "wlength": 7
+    },
+    {
+        "ID": "05-221389",
+        "categories": [],
+        "clength": 76,
+        "filename": "73/chapters/05.tex",
+        "imt": "that  that  be.{\\pst}  \\textbf{wife.{\\deff}} \\textbf{his} \\textbf{{\\pda}.{\\m}} \\textbf{Alfred}",
+        "imtwordsbare": [
+            "that",
+            "that",
+            "be.{\\pst}",
+            "wife.{\\deff}",
+            "his",
+            "{\\pda.{\\m}}",
+            "Alfred"
+        ],
+        "imtwordshtml": [
+            "that",
+            "that",
+            "be.{\\pst}",
+            "<span class=\"bf\">wife.{\\deff</span>}",
+            "<span class=\"bf\">his</span>",
+            "<span class=\"bf\">{\\pda</span>.{\\m}}",
+            "<span class=\"bf\">Alfred</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "that",
+            "be.{\\pst}",
+            "\\textbf{wife.{\\deff}}",
+            "\\textbf{his}",
+            "\\textbf{{\\pda}.{\\m}}",
+            "\\textbf{Alfred}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "att  h\u00e4nd\u00e4na  var  \\textbf{kelinga} \\textbf{h\u00e5ns} \\textbf{n} \\textbf{Alfre}.",
+        "srcwordsbare": [
+            "att",
+            "h\u00e4nd\u00e4na",
+            "var",
+            "kelinga",
+            "h\u00e5ns",
+            "n",
+            "Alfre."
+        ],
+        "srcwordshtml": [
+            "att",
+            "h\u00e4nd\u00e4na",
+            "var",
+            "<span class=\"bf\">kelinga</span>",
+            "<span class=\"bf\">h\u00e5ns</span>",
+            "<span class=\"bf\">n</span>",
+            "<span class=\"bf\">Alfre</span>."
+        ],
+        "srcwordstex": [
+            "att",
+            "h\u00e4nd\u00e4na",
+            "var",
+            "\\textbf{kelinga}",
+            "\\textbf{h\u00e5ns}",
+            "\\textbf{n}",
+            "\\textbf{Alfre}."
+        ],
+        "trs": "Cat understood that that was Alfred\u2019s wife.\u2019 (Cat Corpus)",
+        "wlength": 7
+    },
+    {
+        "ID": "05--12407",
+        "categories": [],
+        "clength": 23,
+        "filename": "73/chapters/05.tex",
+        "imt": "floor  his  {\\pda}.{\\m}  Jesus",
+        "imtwordsbare": [
+            "floor",
+            "his",
+            "{\\pda}.{\\m}",
+            "Jesus"
+        ],
+        "imtwordshtml": [
+            "floor",
+            "his",
+            "{\\pda}.{\\m}",
+            "Jesus"
+        ],
+        "imtwordstex": [
+            "floor",
+            "his",
+            "{\\pda}.{\\m}",
+            "Jesus"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "golvet  hans  n\u2019  Jonas",
+        "srcwordsbare": [
+            "golvet",
+            "hans",
+            "n\u2019",
+            "Jonas"
+        ],
+        "srcwordshtml": [
+            "golvet",
+            "hans",
+            "n\u2019",
+            "Jonas"
+        ],
+        "srcwordstex": [
+            "golvet",
+            "hans",
+            "n\u2019",
+            "Jonas"
+        ],
+        "trs": "Jonas\u2019 floor\u2019 [S23]",
+        "wlength": 4
+    },
+    {
+        "ID": "05--15208",
+        "categories": [],
+        "clength": 27,
+        "filename": "73/chapters/05.tex",
+        "imt": "bookshelf.{\\deff}  his  {\\pda}.{\\m}  Petrus",
+        "imtwordsbare": [
+            "bookshelf.{\\deff}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Petrus"
+        ],
+        "imtwordshtml": [
+            "bookshelf.{\\deff}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Petrus"
+        ],
+        "imtwordstex": [
+            "bookshelf.{\\deff}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Petrus"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "bokhyllan  hans  n\u2019  Petrus",
+        "srcwordsbare": [
+            "bokhyllan",
+            "hans",
+            "n\u2019",
+            "Petrus"
+        ],
+        "srcwordshtml": [
+            "bokhyllan",
+            "hans",
+            "n\u2019",
+            "Petrus"
+        ],
+        "srcwordstex": [
+            "bokhyllan",
+            "hans",
+            "n\u2019",
+            "Petrus"
+        ],
+        "trs": "Petrus\u2019 bookshelf\u2019 [S23]",
+        "wlength": 4
+    },
+    {
+        "ID": "05-448577",
+        "categories": [],
+        "clength": 25,
+        "filename": "73/chapters/05.tex",
+        "imt": "tar\\_pile  his  {\\pda}.{\\m}  Nisj",
+        "imtwordsbare": [
+            "tar_pile",
+            "his",
+            "{\\pda}.{\\m}",
+            "Nisj"
+        ],
+        "imtwordshtml": [
+            "tar_pile",
+            "his",
+            "{\\pda}.{\\m}",
+            "Nisj"
+        ],
+        "imtwordstex": [
+            "tar\\_pile",
+            "his",
+            "{\\pda}.{\\m}",
+            "Nisj"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "tj\u00e4rdalen  hans  n\u2019  Nisj",
+        "srcwordsbare": [
+            "tj\u00e4rdalen",
+            "hans",
+            "n\u2019",
+            "Nisj"
+        ],
+        "srcwordshtml": [
+            "tj\u00e4rdalen",
+            "hans",
+            "n\u2019",
+            "Nisj"
+        ],
+        "srcwordstex": [
+            "tj\u00e4rdalen",
+            "hans",
+            "n\u2019",
+            "Nisj"
+        ],
+        "trs": "Nils\u2019s tar pile\u2019 [S23]",
+        "wlength": 4
+    },
+    {
+        "ID": "05--62462",
+        "categories": [],
+        "clength": 21,
+        "filename": "73/chapters/05.tex",
+        "imt": "book.{\\deff}  his  {\\pda}.{\\m}  Erik",
+        "imtwordsbare": [
+            "book.{\\deff}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Erik"
+        ],
+        "imtwordshtml": [
+            "book.{\\deff}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Erik"
+        ],
+        "imtwordstex": [
+            "book.{\\deff}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Erik"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "b\u00e5oka  haNs  en  Erik",
+        "srcwordsbare": [
+            "b\u00e5oka",
+            "haNs",
+            "en",
+            "Erik"
+        ],
+        "srcwordshtml": [
+            "b\u00e5oka",
+            "haNs",
+            "en",
+            "Erik"
+        ],
+        "srcwordstex": [
+            "b\u00e5oka",
+            "haNs",
+            "en",
+            "Erik"
+        ],
+        "trs": "Erik\u2019s book",
+        "wlength": 4
+    },
+    {
+        "ID": "05--88708",
+        "categories": [],
+        "clength": 25,
+        "filename": "73/chapters/05.tex",
+        "imt": "disciple.{\\deff}.{\\pl}  his  {\\pda}.{\\m}  Jesus",
+        "imtwordsbare": [
+            "disciple.{\\deff}.{\\pl}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Jesus"
+        ],
+        "imtwordshtml": [
+            "disciple.{\\deff}.{\\pl}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Jesus"
+        ],
+        "imtwordstex": [
+            "disciple.{\\deff}.{\\pl}",
+            "his",
+            "{\\pda}.{\\m}",
+            "Jesus"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "l\u00e4rjunga  haNs  en  Jesus",
+        "srcwordsbare": [
+            "l\u00e4rjunga",
+            "haNs",
+            "en",
+            "Jesus"
+        ],
+        "srcwordshtml": [
+            "l\u00e4rjunga",
+            "haNs",
+            "en",
+            "Jesus"
+        ],
+        "srcwordstex": [
+            "l\u00e4rjunga",
+            "haNs",
+            "en",
+            "Jesus"
+        ],
+        "trs": "the disciples of Jesus",
+        "wlength": 4
+    },
+    {
+        "ID": "05-419563",
+        "categories": [],
+        "clength": 26,
+        "filename": "73/chapters/05.tex",
+        "imt": "reed  her  granny.{\\dat}",
+        "imtwordsbare": [
+            "reed",
+            "her",
+            "granny.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "reed",
+            "her",
+            "granny.{\\dat}"
+        ],
+        "imtwordstex": [
+            "reed",
+            "her",
+            "granny.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "v\u00e4vsjea  h\u00e4nnasj  mo\u2019rrmon",
+        "srcwordsbare": [
+            "v\u00e4vsjea",
+            "h\u00e4nnasj",
+            "mo\u2019rrmon"
+        ],
+        "srcwordshtml": [
+            "v\u00e4vsjea",
+            "h\u00e4nnasj",
+            "mo\u2019rrmon"
+        ],
+        "srcwordstex": [
+            "v\u00e4vsjea",
+            "h\u00e4nnasj",
+            "mo\u2019rrmon"
+        ],
+        "trs": "Granny\u2019s reed",
+        "wlength": 3
+    },
+    {
+        "ID": "05-702313",
+        "categories": [],
+        "clength": 25,
+        "filename": "73/chapters/05.tex",
+        "imt": "book.{\\deff}.{\\pl}  their  school-child.{\\deff}.{\\pl}.{\\dat}",
+        "imtwordsbare": [
+            "book.{\\deff}.{\\pl}",
+            "their",
+            "school-child.{\\deff}.{\\pl}.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "book.{\\deff}.{\\pl}",
+            "their",
+            "school-child.{\\deff}.{\\pl}.{\\dat}"
+        ],
+        "imtwordstex": [
+            "book.{\\deff}.{\\pl}",
+            "their",
+            "school-child.{\\deff}.{\\pl}.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "b\u00f6kkreN  d\u00e4res  skolb\u00e2N\u00e5m",
+        "srcwordsbare": [
+            "b\u00f6kkreN",
+            "d\u00e4res",
+            "skolb\u00e2N\u00e5m"
+        ],
+        "srcwordshtml": [
+            "b\u00f6kkreN",
+            "d\u00e4res",
+            "skolb\u00e2N\u00e5m"
+        ],
+        "srcwordstex": [
+            "b\u00f6kkreN",
+            "d\u00e4res",
+            "skolb\u00e2N\u00e5m"
+        ],
+        "trs": "the books of the school-children",
+        "wlength": 3
+    },
+    {
+        "ID": "05-106135",
+        "categories": [],
+        "clength": 29,
+        "filename": "73/chapters/05.tex",
+        "imt": "little\\_road.{\\deff}  her  Granny.{\\deff}",
+        "imtwordsbare": [
+            "little_road.{\\deff}",
+            "her",
+            "Granny.{\\deff}"
+        ],
+        "imtwordshtml": [
+            "little_road.{\\deff}",
+            "her",
+            "Granny.{\\deff}"
+        ],
+        "imtwordstex": [
+            "little\\_road.{\\deff}",
+            "her",
+            "Granny.{\\deff}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "leill-veg\u00e4n  h\u00e4nn\u00e4rs  Mormora",
+        "srcwordsbare": [
+            "leill-veg\u00e4n",
+            "h\u00e4nn\u00e4rs",
+            "Mormora"
+        ],
+        "srcwordshtml": [
+            "leill-veg\u00e4n",
+            "h\u00e4nn\u00e4rs",
+            "Mormora"
+        ],
+        "srcwordstex": [
+            "leill-veg\u00e4n",
+            "h\u00e4nn\u00e4rs",
+            "Mormora"
+        ],
+        "trs": "Granny\u2019s little road",
+        "wlength": 3
+    },
+    {
+        "ID": "05--52029",
+        "categories": [],
+        "clength": 67,
+        "filename": "73/chapters/05.tex",
+        "imt": "and  cat.{\\deff}  have.{\\pst}  jump.{\\supp}  up in  \\textbf{knee.{\\deff}} \\textbf{her}",
+        "imtwordsbare": [
+            "and",
+            "cat.{\\deff}",
+            "have.{\\pst}",
+            "jump.{\\supp}",
+            "up",
+            "in",
+            "knee.{\\deff}",
+            "her"
+        ],
+        "imtwordshtml": [
+            "and",
+            "cat.{\\deff}",
+            "have.{\\pst}",
+            "jump.{\\supp}",
+            "up",
+            "in",
+            "<span class=\"bf\">knee.{\\deff</span>}",
+            "<span class=\"bf\">her</span>"
+        ],
+        "imtwordstex": [
+            "and",
+            "cat.{\\deff}",
+            "have.{\\pst}",
+            "jump.{\\supp}",
+            "up",
+            "in",
+            "\\textbf{knee.{\\deff}}",
+            "\\textbf{her}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "\u2026  \u00f4  kahtta  hadde  h\u00e5hpp\u00e2  ohppi  \\textbf{knea} \\textbf{hinnjis.}",
+        "srcwordsbare": [
+            "\u2026",
+            "\u00f4",
+            "kahtta",
+            "hadde",
+            "h\u00e5hpp\u00e2",
+            "ohppi",
+            "knea",
+            "hinnjis."
+        ],
+        "srcwordshtml": [
+            "\u2026",
+            "\u00f4",
+            "kahtta",
+            "hadde",
+            "h\u00e5hpp\u00e2",
+            "ohppi",
+            "<span class=\"bf\">knea</span>",
+            "<span class=\"bf\">hinnjis.</span>"
+        ],
+        "srcwordstex": [
+            "\u2026",
+            "\u00f4",
+            "kahtta",
+            "hadde",
+            "h\u00e5hpp\u00e2",
+            "ohppi",
+            "\\textbf{knea}",
+            "\\textbf{hinnjis.}"
+        ],
+        "trs": "\u2026and the cat had jumped up on her lap.\u2019 (Cat Corpus)",
+        "wlength": 8
+    },
+    {
+        "ID": "05--31132",
+        "categories": [],
+        "clength": 64,
+        "filename": "73/chapters/05.tex",
+        "imt": "she  jump.{\\pst}  up  in  \\textbf{knee.{\\deff}} \\textbf{{\\pda}.{\\f}.{\\gen}} \\textbf{mother}",
+        "imtwordsbare": [
+            "she",
+            "jump.{\\pst}",
+            "up",
+            "in",
+            "knee.{\\deff}",
+            "{\\pda.{\\f}.{\\gen}}",
+            "mother"
+        ],
+        "imtwordshtml": [
+            "she",
+            "jump.{\\pst}",
+            "up",
+            "in",
+            "<span class=\"bf\">knee.{\\deff</span>}",
+            "<span class=\"bf\">{\\pda</span>.{\\f}.{\\gen}}",
+            "<span class=\"bf\">mother</span>"
+        ],
+        "imtwordstex": [
+            "she",
+            "jump.{\\pst}",
+            "up",
+            "in",
+            "\\textbf{knee.{\\deff}}",
+            "\\textbf{{\\pda}.{\\f}.{\\gen}}",
+            "\\textbf{mother}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Ho  h\u00e5hpp\u00e2  ohpp  i  \\textbf{knea} \\textbf{hinnji} \\textbf{mor}.",
+        "srcwordsbare": [
+            "Ho",
+            "h\u00e5hpp\u00e2",
+            "ohpp",
+            "i",
+            "knea",
+            "hinnji",
+            "mor."
+        ],
+        "srcwordshtml": [
+            "Ho",
+            "h\u00e5hpp\u00e2",
+            "ohpp",
+            "i",
+            "<span class=\"bf\">knea</span>",
+            "<span class=\"bf\">hinnji</span>",
+            "<span class=\"bf\">mor</span>."
+        ],
+        "srcwordstex": [
+            "Ho",
+            "h\u00e5hpp\u00e2",
+            "ohpp",
+            "i",
+            "\\textbf{knea}",
+            "\\textbf{hinnji}",
+            "\\textbf{mor}."
+        ],
+        "trs": "She [the cat] jumped up on Granny\u2019s lap.\u2019 (Cat Corpus)",
+        "wlength": 7
+    },
+    {
+        "ID": "05-108679",
+        "categories": [],
+        "clength": 48,
+        "coordination": "and",
+        "filename": "73/chapters/05.tex",
+        "imt": "in  \\textbf{knee.{\\deff}.{\\pl}} \\textbf{{\\pda}.{\\f}.{\\gen}} \\textbf{mother}",
+        "imtwordsbare": [
+            "in",
+            "knee.{\\deff.{\\pl}}",
+            "{\\pda.{\\f}.{\\gen}}",
+            "mother"
+        ],
+        "imtwordshtml": [
+            "in",
+            "<span class=\"bf\">knee.{\\deff</span>.{\\pl}}",
+            "<span class=\"bf\">{\\pda</span>.{\\f}.{\\gen}}",
+            "<span class=\"bf\">mother</span>"
+        ],
+        "imtwordstex": [
+            "in",
+            "\\textbf{knee.{\\deff}.{\\pl}}",
+            "\\textbf{{\\pda}.{\\f}.{\\gen}}",
+            "\\textbf{mother}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "ti  \\textbf{knenon} \\textbf{in} \\textbf{Mormor}.",
+        "srcwordsbare": [
+            "ti",
+            "knenon",
+            "in",
+            "Mormor."
+        ],
+        "srcwordshtml": [
+            "ti",
+            "<span class=\"bf\">knenon</span>",
+            "<span class=\"bf\">in</span>",
+            "<span class=\"bf\">Mormor</span>."
+        ],
+        "srcwordstex": [
+            "ti",
+            "\\textbf{knenon}",
+            "\\textbf{in}",
+            "\\textbf{Mormor}."
+        ],
+        "trs": "She jumped up and sat on Granny\u2019s lap.\u2019 (Cat Corpus)",
+        "wlength": 4
+    },
+    {
+        "ID": "05--64825",
+        "categories": [],
+        "clength": 74,
+        "filename": "73/chapters/05.tex",
+        "imt": "make.{\\inf} wedding  \\textbf{for} \\textbf{{\\poss}.3{\\sg}.{\\refl}.{\\dat}.{\\m}.{\\sg}} \\textbf{son} \\textbf{Johan.{\\dat}}",
+        "imtwordsbare": [
+            "make.{\\inf}",
+            "wedding",
+            "for",
+            "{\\poss.3{\\sg}.{\\refl}.{\\dat}.{\\m}.{\\sg}}",
+            "son",
+            "Johan.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "make.{\\inf}",
+            "wedding",
+            "<span class=\"bf\">for</span>",
+            "<span class=\"bf\">{\\poss</span>.3{\\sg}.{\\refl}.{\\dat}.{\\m}.{\\sg}}",
+            "<span class=\"bf\">son</span>",
+            "<span class=\"bf\">Johan.{\\dat</span>}"
+        ],
+        "imtwordstex": [
+            "make.{\\inf}",
+            "wedding",
+            "\\textbf{for}",
+            "\\textbf{{\\poss}.3{\\sg}.{\\refl}.{\\dat}.{\\m}.{\\sg}}",
+            "\\textbf{son}",
+            "\\textbf{Johan.{\\dat}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "\u2026g\u00f6ra  brull\u00f6p  \\textbf{aat} \\textbf{sinom} \\textbf{son} \\textbf{iohanni\u2026}",
+        "srcwordsbare": [
+            "\u2026g\u00f6ra",
+            "brull\u00f6p",
+            "aat",
+            "sinom",
+            "son",
+            "iohanni\u2026"
+        ],
+        "srcwordshtml": [
+            "\u2026g\u00f6ra",
+            "brull\u00f6p",
+            "<span class=\"bf\">aat</span>",
+            "<span class=\"bf\">sinom</span>",
+            "<span class=\"bf\">son</span>",
+            "<span class=\"bf\">iohanni\u2026</span>"
+        ],
+        "srcwordstex": [
+            "\u2026g\u00f6ra",
+            "brull\u00f6p",
+            "\\textbf{aat}",
+            "\\textbf{sinom}",
+            "\\textbf{son}",
+            "\\textbf{iohanni\u2026}"
+        ],
+        "trs": "\u2026arrange a wedding for his son Johan.\u2019 [S13]",
+        "wlength": 6
+    },
+    {
+        "ID": "05-546968",
+        "categories": [],
+        "clength": 51,
+        "filename": "73/chapters/05.tex",
+        "imt": "they  there  forth  go.{\\pst}.{\\pl}  \\textbf{along} \\textbf{road.{\\deff}.{\\dat}}",
+        "imtwordsbare": [
+            "they",
+            "there",
+            "forth",
+            "go.{\\pst}.{\\pl}",
+            "along",
+            "road.{\\deff.{\\dat}}"
+        ],
+        "imtwordshtml": [
+            "they",
+            "there",
+            "forth",
+            "go.{\\pst}.{\\pl}",
+            "<span class=\"bf\">along</span>",
+            "<span class=\"bf\">road.{\\deff</span>.{\\dat}}"
+        ],
+        "imtwordstex": [
+            "they",
+            "there",
+            "forth",
+            "go.{\\pst}.{\\pl}",
+            "\\textbf{along}",
+            "\\textbf{road.{\\deff}.{\\dat}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "\u00dee  \u00fe\u00e4r  fram  foro  \\textbf{at} \\textbf{v\u00e4ghenom}.",
+        "srcwordsbare": [
+            "\u00dee",
+            "\u00fe\u00e4r",
+            "fram",
+            "foro",
+            "at",
+            "v\u00e4ghenom."
+        ],
+        "srcwordshtml": [
+            "\u00dee",
+            "\u00fe\u00e4r",
+            "fram",
+            "foro",
+            "<span class=\"bf\">at</span>",
+            "<span class=\"bf\">v\u00e4ghenom</span>."
+        ],
+        "srcwordstex": [
+            "\u00dee",
+            "\u00fe\u00e4r",
+            "fram",
+            "foro",
+            "\\textbf{at}",
+            "\\textbf{v\u00e4ghenom}."
+        ],
+        "trs": "They went along the road.\u2019 [S8]",
+        "wlength": 6
+    },
+    {
+        "ID": "05-559250",
+        "categories": [],
+        "clength": 76,
+        "filename": "73/chapters/05.tex",
+        "imt": "\u2026he  shall.{\\pst}  turn.{\\inf} off  on  little\\_road.{\\deff}  \\textbf{{\\poss}} \\textbf{{\\pda}.{\\f}.{\\dat}} \\textbf{Granny}",
+        "imtwordsbare": [
+            "\u2026he",
+            "shall.{\\pst}",
+            "turn.{\\inf}",
+            "off",
+            "on",
+            "little_road.{\\deff}",
+            "{\\poss}",
+            "{\\pda.{\\f}.{\\dat}}",
+            "Granny"
+        ],
+        "imtwordshtml": [
+            "\u2026he",
+            "shall.{\\pst}",
+            "turn.{\\inf}",
+            "off",
+            "on",
+            "little_road.{\\deff}",
+            "<span class=\"bf\">{\\poss</span>}",
+            "<span class=\"bf\">{\\pda</span>.{\\f}.{\\dat}}",
+            "<span class=\"bf\">Granny</span>"
+        ],
+        "imtwordstex": [
+            "\u2026he",
+            "shall.{\\pst}",
+            "turn.{\\inf}",
+            "off",
+            "on",
+            "little\\_road.{\\deff}",
+            "\\textbf{{\\poss}}",
+            "\\textbf{{\\pda}.{\\f}.{\\dat}}",
+            "\\textbf{Granny}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "\u2026han  skull  sv\u00e4ng  ta  p\u00e5  lillvein  \\textbf{at} \\textbf{n} \\textbf{Momma}.",
+        "srcwordsbare": [
+            "\u2026han",
+            "skull",
+            "sv\u00e4ng",
+            "ta",
+            "p\u00e5",
+            "lillvein",
+            "at",
+            "n",
+            "Momma."
+        ],
+        "srcwordshtml": [
+            "\u2026han",
+            "skull",
+            "sv\u00e4ng",
+            "ta",
+            "p\u00e5",
+            "lillvein",
+            "<span class=\"bf\">at</span>",
+            "<span class=\"bf\">n</span>",
+            "<span class=\"bf\">Momma</span>."
+        ],
+        "srcwordstex": [
+            "\u2026han",
+            "skull",
+            "sv\u00e4ng",
+            "ta",
+            "p\u00e5",
+            "lillvein",
+            "\\textbf{at}",
+            "\\textbf{n}",
+            "\\textbf{Momma}."
+        ],
+        "trs": "\u2026he was going to turn into Granny\u2019s little road.",
+        "wlength": 9
+    },
+    {
+        "ID": "05-633498",
+        "categories": [],
+        "clength": 73,
+        "filename": "73/chapters/05.tex",
+        "imt": "Cat.{\\deff}  understand.{\\pst}  that  it  there  be.{\\pst}  wife.{\\deff}  \\textbf{{\\poss}-{\\pda}.{\\m}} \\textbf{Alfred}",
+        "imtwordsbare": [
+            "Cat.{\\deff}",
+            "understand.{\\pst}",
+            "that",
+            "it",
+            "there",
+            "be.{\\pst}",
+            "wife.{\\deff}",
+            "{\\poss-{\\pda}.{\\m}}",
+            "Alfred"
+        ],
+        "imtwordshtml": [
+            "Cat.{\\deff}",
+            "understand.{\\pst}",
+            "that",
+            "it",
+            "there",
+            "be.{\\pst}",
+            "wife.{\\deff}",
+            "<span class=\"bf\">{\\poss</span>-{\\pda}.{\\m}}",
+            "<span class=\"bf\">Alfred</span>"
+        ],
+        "imtwordstex": [
+            "Cat.{\\deff}",
+            "understand.{\\pst}",
+            "that",
+            "it",
+            "there",
+            "be.{\\pst}",
+            "wife.{\\deff}",
+            "\\textbf{{\\poss}-{\\pda}.{\\m}}",
+            "\\textbf{Alfred}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Katta  begrep  att  \u00e4  d\u00e4nne  va  k\u00e4ringa  \\textbf{\u00e5t\u2019n} \\textbf{Alfred}.",
+        "srcwordsbare": [
+            "Katta",
+            "begrep",
+            "att",
+            "\u00e4",
+            "d\u00e4nne",
+            "va",
+            "k\u00e4ringa",
+            "\u00e5t\u2019n",
+            "Alfred."
+        ],
+        "srcwordshtml": [
+            "Katta",
+            "begrep",
+            "att",
+            "\u00e4",
+            "d\u00e4nne",
+            "va",
+            "k\u00e4ringa",
+            "<span class=\"bf\">\u00e5t\u2019n</span>",
+            "<span class=\"bf\">Alfred</span>."
+        ],
+        "srcwordstex": [
+            "Katta",
+            "begrep",
+            "att",
+            "\u00e4",
+            "d\u00e4nne",
+            "va",
+            "k\u00e4ringa",
+            "\\textbf{\u00e5t\u2019n}",
+            "\\textbf{Alfred}."
+        ],
+        "trs": "Cat understood that this was Alfred\u2019s wife.",
+        "wlength": 9
+    },
+    {
+        "ID": "05--66584",
+        "categories": [],
+        "clength": 78,
+        "filename": "73/chapters/05.tex",
+        "imt": "Cat.{\\deff}  understand.{\\pst}  that  this  be.{\\pst}  wife.{\\deff}  \\textbf{{\\poss}} \\textbf{{\\pda}.{\\m}} \\textbf{Alfred}",
+        "imtwordsbare": [
+            "Cat.{\\deff}",
+            "understand.{\\pst}",
+            "that",
+            "this",
+            "be.{\\pst}",
+            "wife.{\\deff}",
+            "{\\poss}",
+            "{\\pda.{\\m}}",
+            "Alfred"
+        ],
+        "imtwordshtml": [
+            "Cat.{\\deff}",
+            "understand.{\\pst}",
+            "that",
+            "this",
+            "be.{\\pst}",
+            "wife.{\\deff}",
+            "<span class=\"bf\">{\\poss</span>}",
+            "<span class=\"bf\">{\\pda</span>.{\\m}}",
+            "<span class=\"bf\">Alfred</span>"
+        ],
+        "imtwordstex": [
+            "Cat.{\\deff}",
+            "understand.{\\pst}",
+            "that",
+            "this",
+            "be.{\\pst}",
+            "wife.{\\deff}",
+            "\\textbf{{\\poss}}",
+            "\\textbf{{\\pda}.{\\m}}",
+            "\\textbf{Alfred}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "K\u00e4tta  f\u00f6rst\u00f6o  att  hein  v\u00e4r  freo  \\textbf{att} \\textbf{n\u2019} \\textbf{Alfri}.",
+        "srcwordsbare": [
+            "K\u00e4tta",
+            "f\u00f6rst\u00f6o",
+            "att",
+            "hein",
+            "v\u00e4r",
+            "freo",
+            "att",
+            "n\u2019",
+            "Alfri."
+        ],
+        "srcwordshtml": [
+            "K\u00e4tta",
+            "f\u00f6rst\u00f6o",
+            "att",
+            "hein",
+            "v\u00e4r",
+            "freo",
+            "<span class=\"bf\">att</span>",
+            "<span class=\"bf\">n\u2019</span>",
+            "<span class=\"bf\">Alfri</span>."
+        ],
+        "srcwordstex": [
+            "K\u00e4tta",
+            "f\u00f6rst\u00f6o",
+            "att",
+            "hein",
+            "v\u00e4r",
+            "freo",
+            "\\textbf{att}",
+            "\\textbf{n\u2019}",
+            "\\textbf{Alfri}."
+        ],
+        "trs": "Cat understood that this was Alfred\u2019s wife.",
+        "wlength": 9
+    },
+    {
+        "ID": "05--89985",
+        "categories": [],
+        "clength": 68,
+        "filename": "73/chapters/05.tex",
+        "imt": "it  be.{\\pst}  {\\prag}  \\textbf{{\\pda}.{\\f}} \\textbf{daughter} \\textbf{{\\poss}} \\textbf{Granny.{\\deff}}",
+        "imtwordsbare": [
+            "it",
+            "be.{\\pst}",
+            "{\\prag}",
+            "{\\pda.{\\f}}",
+            "daughter",
+            "{\\poss}",
+            "Granny.{\\deff}"
+        ],
+        "imtwordshtml": [
+            "it",
+            "be.{\\pst}",
+            "{\\prag}",
+            "<span class=\"bf\">{\\pda</span>.{\\f}}",
+            "<span class=\"bf\">daughter</span>",
+            "<span class=\"bf\">{\\poss</span>}",
+            "<span class=\"bf\">Granny.{\\deff</span>}"
+        ],
+        "imtwordstex": [
+            "it",
+            "be.{\\pst}",
+            "{\\prag}",
+            "\\textbf{{\\pda}.{\\f}}",
+            "\\textbf{daughter}",
+            "\\textbf{{\\poss}}",
+            "\\textbf{Granny.{\\deff}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "H\u00e4  va  ju  \\textbf{n\u2019} \\textbf{doter} \\textbf{\u00e5t} \\textbf{mormora}.",
+        "srcwordsbare": [
+            "H\u00e4",
+            "va",
+            "ju",
+            "n\u2019",
+            "doter",
+            "\u00e5t",
+            "mormora."
+        ],
+        "srcwordshtml": [
+            "H\u00e4",
+            "va",
+            "ju",
+            "<span class=\"bf\">n\u2019</span>",
+            "<span class=\"bf\">doter</span>",
+            "<span class=\"bf\">\u00e5t</span>",
+            "<span class=\"bf\">mormora</span>."
+        ],
+        "srcwordstex": [
+            "H\u00e4",
+            "va",
+            "ju",
+            "\\textbf{n\u2019}",
+            "\\textbf{doter}",
+            "\\textbf{\u00e5t}",
+            "\\textbf{mormora}."
+        ],
+        "trs": "It was Granny\u2019s daughter.\u2019 [S44]",
+        "wlength": 7
+    },
+    {
+        "ID": "05--81790",
+        "categories": [],
+        "clength": 52,
+        "filename": "73/chapters/05.tex",
+        "imt": "he  jump.{\\pst}  up  in  lap.{\\deff}.{\\dat}  \\textbf{to} \\textbf{Granny}",
+        "imtwordsbare": [
+            "he",
+            "jump.{\\pst}",
+            "up",
+            "in",
+            "lap.{\\deff}.{\\dat}",
+            "to",
+            "Granny"
+        ],
+        "imtwordshtml": [
+            "he",
+            "jump.{\\pst}",
+            "up",
+            "in",
+            "lap.{\\deff}.{\\dat}",
+            "<span class=\"bf\">to</span>",
+            "<span class=\"bf\">Granny</span>"
+        ],
+        "imtwordstex": [
+            "he",
+            "jump.{\\pst}",
+            "up",
+            "in",
+            "lap.{\\deff}.{\\dat}",
+            "\\textbf{to}",
+            "\\textbf{Granny}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "An  upped  upp  i  knim  \\textbf{a} \\textbf{M\u00e5rm\u00e5r}.",
+        "srcwordsbare": [
+            "An",
+            "upped",
+            "upp",
+            "i",
+            "knim",
+            "a",
+            "M\u00e5rm\u00e5r."
+        ],
+        "srcwordshtml": [
+            "An",
+            "upped",
+            "upp",
+            "i",
+            "knim",
+            "<span class=\"bf\">a</span>",
+            "<span class=\"bf\">M\u00e5rm\u00e5r</span>."
+        ],
+        "srcwordstex": [
+            "An",
+            "upped",
+            "upp",
+            "i",
+            "knim",
+            "\\textbf{a}",
+            "\\textbf{M\u00e5rm\u00e5r}."
+        ],
+        "trs": "He jumped up onto Granny\u2019s lap.\u2019 (Cat Corpus)",
+        "wlength": 7
+    },
+    {
+        "ID": "05--78155",
+        "categories": [],
+        "clength": 64,
+        "filename": "73/chapters/05.tex",
+        "imt": "but  then  begin.{\\pst}  it  {\\infm}  smart  in  eye.{\\deff}.{\\pl}  \\textbf{to} \\textbf{Cat\u2026}",
+        "imtwordsbare": [
+            "but",
+            "then",
+            "begin.{\\pst}",
+            "it",
+            "{\\infm}",
+            "smart",
+            "in",
+            "eye.{\\deff}.{\\pl}",
+            "to",
+            "Cat\u2026"
+        ],
+        "imtwordshtml": [
+            "but",
+            "then",
+            "begin.{\\pst}",
+            "it",
+            "{\\infm}",
+            "smart",
+            "in",
+            "eye.{\\deff}.{\\pl}",
+            "<span class=\"bf\">to</span>",
+            "<span class=\"bf\">Cat\u2026</span>"
+        ],
+        "imtwordstex": [
+            "but",
+            "then",
+            "begin.{\\pst}",
+            "it",
+            "{\\infm}",
+            "smart",
+            "in",
+            "eye.{\\deff}.{\\pl}",
+            "\\textbf{to}",
+            "\\textbf{Cat\u2026}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Men  d\u00e5  byrd  \u00e4  \u00e5  sw\u00e4ir  i  ogum  \\textbf{a} \\textbf{Missan\u2026}",
+        "srcwordsbare": [
+            "Men",
+            "d\u00e5",
+            "byrd",
+            "\u00e4",
+            "\u00e5",
+            "sw\u00e4ir",
+            "i",
+            "ogum",
+            "a",
+            "Missan\u2026"
+        ],
+        "srcwordshtml": [
+            "Men",
+            "d\u00e5",
+            "byrd",
+            "\u00e4",
+            "\u00e5",
+            "sw\u00e4ir",
+            "i",
+            "ogum",
+            "<span class=\"bf\">a</span>",
+            "<span class=\"bf\">Missan\u2026</span>"
+        ],
+        "srcwordstex": [
+            "Men",
+            "d\u00e5",
+            "byrd",
+            "\u00e4",
+            "\u00e5",
+            "sw\u00e4ir",
+            "i",
+            "ogum",
+            "\\textbf{a}",
+            "\\textbf{Missan\u2026}"
+        ],
+        "trs": "But then Cat\u2019s eyes started smarting...\u2019 (Cat Corpus)",
+        "wlength": 10
+    },
+    {
+        "ID": "05-779477",
+        "categories": [],
+        "clength": 56,
+        "filename": "73/chapters/05.tex",
+        "imt": "old.{\\superl}  boy.{\\deff}  have.{\\pst}  go.{\\supp}  \\textbf{to} \\textbf{America{\\deff}}.",
+        "imtwordsbare": [
+            "old.{\\superl}",
+            "boy.{\\deff}",
+            "have.{\\pst}",
+            "go.{\\supp}",
+            "to",
+            "America{\\deff}."
+        ],
+        "imtwordshtml": [
+            "old.{\\superl}",
+            "boy.{\\deff}",
+            "have.{\\pst}",
+            "go.{\\supp}",
+            "<span class=\"bf\">to</span>",
+            "<span class=\"bf\">America{\\deff</span>}."
+        ],
+        "imtwordstex": [
+            "old.{\\superl}",
+            "boy.{\\deff}",
+            "have.{\\pst}",
+            "go.{\\supp}",
+            "\\textbf{to}",
+            "\\textbf{America{\\deff}}."
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "Gamblest  p\u00e5jtsen  add  fe  \\textbf{a} \\textbf{Merikun\u2026}",
+        "srcwordsbare": [
+            "Gamblest",
+            "p\u00e5jtsen",
+            "add",
+            "fe",
+            "a",
+            "Merikun\u2026"
+        ],
+        "srcwordshtml": [
+            "Gamblest",
+            "p\u00e5jtsen",
+            "add",
+            "fe",
+            "<span class=\"bf\">a</span>",
+            "<span class=\"bf\">Merikun\u2026</span>"
+        ],
+        "srcwordstex": [
+            "Gamblest",
+            "p\u00e5jtsen",
+            "add",
+            "fe",
+            "\\textbf{a}",
+            "\\textbf{Merikun\u2026}"
+        ],
+        "trs": "The eldest boy had gone to America\u2026\u2019 (Cat Corpus)",
+        "wlength": 6
+    },
+    {
+        "ID": "05-434938",
+        "categories": [],
+        "clength": 53,
+        "filename": "73/chapters/05.tex",
+        "imt": "have.{\\prs}  you  write.{\\supp}  that  slip.{\\deff}  \\textbf{to} \\textbf{me.{\\obl}}",
+        "imtwordsbare": [
+            "have.{\\prs}",
+            "you",
+            "write.{\\supp}",
+            "that",
+            "slip.{\\deff}",
+            "to",
+            "me.{\\obl}"
+        ],
+        "imtwordshtml": [
+            "have.{\\prs}",
+            "you",
+            "write.{\\supp}",
+            "that",
+            "slip.{\\deff}",
+            "<span class=\"bf\">to</span>",
+            "<span class=\"bf\">me.{\\obl</span>}"
+        ],
+        "imtwordstex": [
+            "have.{\\prs}",
+            "you",
+            "write.{\\supp}",
+            "that",
+            "slip.{\\deff}",
+            "\\textbf{to}",
+            "\\textbf{me.{\\obl}}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "A  du  skreva  d\u00e5nda  lappen  \\textbf{a} \\textbf{me?}",
+        "srcwordsbare": [
+            "A",
+            "du",
+            "skreva",
+            "d\u00e5nda",
+            "lappen",
+            "a",
+            "me?"
+        ],
+        "srcwordshtml": [
+            "A",
+            "du",
+            "skreva",
+            "d\u00e5nda",
+            "lappen",
+            "<span class=\"bf\">a</span>",
+            "<span class=\"bf\">me?</span>"
+        ],
+        "srcwordstex": [
+            "A",
+            "du",
+            "skreva",
+            "d\u00e5nda",
+            "lappen",
+            "\\textbf{a}",
+            "\\textbf{me?}"
+        ],
+        "trs": "Have you written that note to me?\u2019 (Cat Corpus)",
+        "wlength": 7
+    },
+    {
+        "ID": "05-0",
+        "categories": [],
+        "clength": 0,
+        "filename": "73/chapters/05.tex",
+        "imt": "",
+        "imtwordsbare": [],
+        "imtwordshtml": [],
+        "imtwordstex": [],
+        "language": "73/chapters/05.tex",
+        "src": "",
+        "srcwordsbare": [],
+        "srcwordshtml": [],
+        "srcwordstex": [],
+        "trs": "and she had passed by the front roof of some M\u00e5nsta people.\u2019 [S34]",
+        "wlength": 0
+    },
+    {
+        "ID": "05--50706",
+        "categories": [],
+        "clength": 8,
+        "filename": "73/chapters/05.tex",
+        "imt": "4face.{\\cs}-brother",
+        "imtwordsbare": [
+            "4face.{\\cs}-brother"
+        ],
+        "imtwordshtml": [
+            "4face.{\\cs}-brother"
+        ],
+        "imtwordstex": [
+            "4face.{\\cs}-brother"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "\u0127al-\u02c8\u0283an",
+        "srcwordsbare": [
+            "\u0127al-\u02c8\u0283an"
+        ],
+        "srcwordshtml": [
+            "\u0127al-\u02c8\u0283an"
+        ],
+        "srcwordstex": [
+            "\u0127al-\u02c8\u0283an"
+        ],
+        "trs": "the brother\u2019s face",
+        "wlength": 1
+    },
+    {
+        "ID": "05--19639",
+        "categories": [],
+        "clength": 11,
+        "filename": "73/chapters/05.tex",
+        "imt": "boat.{\\cs}-brother",
+        "imtwordsbare": [
+            "boat.{\\cs}-brother"
+        ],
+        "imtwordshtml": [
+            "boat.{\\cs}-brother"
+        ],
+        "imtwordstex": [
+            "boat.{\\cs}-brother"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "t\u2019apat-\u02c8\u0283an",
+        "srcwordsbare": [
+            "t\u2019apat-\u02c8\u0283an"
+        ],
+        "srcwordshtml": [
+            "t\u2019apat-\u02c8\u0283an"
+        ],
+        "srcwordstex": [
+            "t\u2019apat-\u02c8\u0283an"
+        ],
+        "trs": "the brother\u2019s boat",
+        "wlength": 1
+    },
+    {
+        "ID": "05-898205",
+        "categories": [],
+        "clength": 23,
+        "coordination": "and",
+        "filename": "73/chapters/05.tex",
+        "imt": "walk.{\\prs}  there  on  meadow.{\\deff}.{\\dat}",
+        "imtwordsbare": [
+            "walk.{\\prs}",
+            "there",
+            "on",
+            "meadow.{\\deff}.{\\dat}"
+        ],
+        "imtwordshtml": [
+            "walk.{\\prs}",
+            "there",
+            "on",
+            "meadow.{\\deff}.{\\dat}"
+        ],
+        "imtwordstex": [
+            "walk.{\\prs}",
+            "there",
+            "on",
+            "meadow.{\\deff}.{\\dat}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "g\u00e4r  din  opa  aindjen.",
+        "srcwordsbare": [
+            "g\u00e4r",
+            "din",
+            "opa",
+            "aindjen."
+        ],
+        "srcwordshtml": [
+            "g\u00e4r",
+            "din",
+            "opa",
+            "aindjen."
+        ],
+        "srcwordstex": [
+            "g\u00e4r",
+            "din",
+            "opa",
+            "aindjen."
+        ],
+        "trs": "Per Eriksson\u2019s mare and Lars Andersson\u2019s horse are in the meadow.\u2019 (\\citealt[164]{K\u00e4llskog1992})",
+        "wlength": 4
+    },
+    {
+        "ID": "05--59755",
+        "categories": [],
+        "clength": 38,
+        "filename": "73/chapters/05.tex",
+        "imt": "it  be.{\\prs}  \\textbf{his} \\textbf{farm}",
+        "imtwordsbare": [
+            "it",
+            "be.{\\prs}",
+            "his",
+            "farm"
+        ],
+        "imtwordshtml": [
+            "it",
+            "be.{\\prs}",
+            "<span class=\"bf\">his</span>",
+            "<span class=\"bf\">farm</span>"
+        ],
+        "imtwordstex": [
+            "it",
+            "be.{\\prs}",
+            "\\textbf{his}",
+            "\\textbf{farm}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "E\u00f0  ir  \\textbf{onumes} \\textbf{gard}.",
+        "srcwordsbare": [
+            "E\u00f0",
+            "ir",
+            "onumes",
+            "gard."
+        ],
+        "srcwordshtml": [
+            "E\u00f0",
+            "ir",
+            "<span class=\"bf\">onumes</span>",
+            "<span class=\"bf\">gard</span>."
+        ],
+        "srcwordstex": [
+            "E\u00f0",
+            "ir",
+            "\\textbf{onumes}",
+            "\\textbf{gard}."
+        ],
+        "trs": "It is his farm.",
+        "wlength": 4
+    },
+    {
+        "ID": "05-771883",
+        "categories": [],
+        "clength": 51,
+        "filename": "73/chapters/05.tex",
+        "imt": "\\textbf{farm} \\textbf{his} have.{\\prs}  company.{\\deff}  buy.{\\supp}",
+        "imtwordsbare": [
+            "farm",
+            "his",
+            "have.{\\prs}",
+            "company.{\\deff}",
+            "buy.{\\supp}"
+        ],
+        "imtwordshtml": [
+            "<span class=\"bf\">farm</span>",
+            "<span class=\"bf\">his</span>",
+            "have.{\\prs}",
+            "company.{\\deff}",
+            "buy.{\\supp}"
+        ],
+        "imtwordstex": [
+            "\\textbf{farm}",
+            "\\textbf{his}",
+            "have.{\\prs}",
+            "company.{\\deff}",
+            "buy.{\\supp}"
+        ],
+        "language": "73/chapters/05.tex",
+        "src": "\\textbf{Gardn} \\textbf{{}-os} ar  buolage\u00f0  tjy\u00f6pt.",
+        "srcwordsbare": [
+            "Gardn",
+            "{-os}",
+            "ar",
+            "buolage\u00f0",
+            "tjy\u00f6pt."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Gardn</span>",
+            "<span class=\"bf\">{</span>-os}",
+            "ar",
+            "buolage\u00f0",
+            "tjy\u00f6pt."
+        ],
+        "srcwordstex": [
+            "\\textbf{Gardn}",
+            "\\textbf{{}-os}",
+            "ar",
+            "buolage\u00f0",
+            "tjy\u00f6pt."
+        ],
+        "trs": "His farm has been bought by the company.",
+        "wlength": 5
+    }
+]

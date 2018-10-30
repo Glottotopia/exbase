@@ -1,0 +1,3176 @@
+[
+    {
+        "ID": "engdahl-782256",
+        "categories": [
+            "",
+            "ex",
+            "n",
+            "pl"
+        ],
+        "clength": 97,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}   became written.\\textsc{n} /    written\\textsc{.pl}   three books     about   this",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "written.N",
+            "/",
+            "written.pl",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "written.<span class=\"sc\">n</span>",
+            "/",
+            "written<span class=\"sc\">.pl</span>",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "written.\\textsc{n}",
+            "/",
+            "written\\textsc{.pl}",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det \\textbf{blev}     \\textbf{skrivet} /     *\\textbf{skrivna}     tre     b\u00f6cker   om     detta.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "skrivet",
+            "/",
+            "*skrivna",
+            "tre",
+            "b\u00f6cker",
+            "om",
+            "detta."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "<span class=\"bf\">skrivet</span>",
+            "/",
+            "*<span class=\"bf\">skrivna</span>",
+            "tre",
+            "b\u00f6cker",
+            "om",
+            "detta."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "\\textbf{skrivet}",
+            "/",
+            "*\\textbf{skrivna}",
+            "tre",
+            "b\u00f6cker",
+            "om",
+            "detta."
+        ],
+        "trs": "Three books were written about this.",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl--19245",
+        "categories": [
+            "ex",
+            "n",
+            "pl"
+        ],
+        "clength": 117,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}   became three  books     written.\\textsc{n} / written.\\textsc{pl} about  this",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "three",
+            "books",
+            "written.N",
+            "/",
+            "written.PL",
+            "about",
+            "this"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "three",
+            "books",
+            "written.<span class=\"sc\">n</span>",
+            "/",
+            "written.<span class=\"sc\">pl</span>",
+            "about",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "three",
+            "books",
+            "written.\\textsc{n}",
+            "/",
+            "written.\\textsc{pl}",
+            "about",
+            "this"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det     \\textbf{blev}     tre     b\u00f6cker \\textbf{\\textit{*skrivet}} /     \\textbf{\\textit{skrivna}}     om     detta.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "tre",
+            "b\u00f6cker",
+            "\\textit{*skrivet}",
+            "/",
+            "\\textit{skrivna}",
+            "om",
+            "detta."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "tre",
+            "b\u00f6cker",
+            "<span class=\"bf\">\\textit{*skrivet</span>}",
+            "/",
+            "<span class=\"bf\">\\textit{skrivna</span>}",
+            "om",
+            "detta."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "tre",
+            "b\u00f6cker",
+            "\\textbf{\\textit{*skrivet}}",
+            "/",
+            "\\textbf{\\textit{skrivna}}",
+            "om",
+            "detta."
+        ],
+        "trs": "Three books were written about this.",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl-734523",
+        "categories": [
+            "ex",
+            "pcp"
+        ],
+        "clength": 67,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}     became written.\\textsc{pcp} three  books  about  this",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "written.PCP",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "written.<span class=\"sc\">pcp</span>",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "written.\\textsc{pcp}",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{ble}  \\textbf{skrevet}  tre     b\u00f8ker   om     dette.",
+        "srcwordsbare": [
+            "Det",
+            "ble",
+            "skrevet",
+            "tre",
+            "b\u00f8ker",
+            "om",
+            "dette."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">ble</span>",
+            "<span class=\"bf\">skrevet</span>",
+            "tre",
+            "b\u00f8ker",
+            "om",
+            "dette."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{ble}",
+            "\\textbf{skrevet}",
+            "tre",
+            "b\u00f8ker",
+            "om",
+            "dette."
+        ],
+        "trs": "Three books were written about this.'}",
+        "wlength": 7
+    },
+    {
+        "ID": "engdahl--61876",
+        "categories": [
+            "ex",
+            "n",
+            "pl"
+        ],
+        "clength": 88,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}     became   written.\\textsc{n} /  written.\\textsc{pl}    three    books  about  this",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "written.N",
+            "/",
+            "written.PL",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "written.<span class=\"sc\">n</span>",
+            "/",
+            "written.<span class=\"sc\">pl</span>",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "written.\\textsc{n}",
+            "/",
+            "written.\\textsc{pl}",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{vart}  \\textbf{skrive} /     *\\textbf{skrivne}  tre  b\u00f8ker   um     dette.",
+        "srcwordsbare": [
+            "Det",
+            "vart",
+            "skrive",
+            "/",
+            "*skrivne",
+            "tre",
+            "b\u00f8ker",
+            "um",
+            "dette."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">vart</span>",
+            "<span class=\"bf\">skrive</span>",
+            "/",
+            "*<span class=\"bf\">skrivne</span>",
+            "tre",
+            "b\u00f8ker",
+            "um",
+            "dette."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{vart}",
+            "\\textbf{skrive}",
+            "/",
+            "*\\textbf{skrivne}",
+            "tre",
+            "b\u00f8ker",
+            "um",
+            "dette."
+        ],
+        "trs": "Three books were written about this.",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl-722856",
+        "categories": [
+            "ex",
+            "n",
+            "pl"
+        ],
+        "clength": 92,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}     became three  books   written.\\textsc{n} / written.\\textsc{pl} about  this",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "three",
+            "books",
+            "written.N",
+            "/",
+            "written.PL",
+            "about",
+            "this"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "three",
+            "books",
+            "written.<span class=\"sc\">n</span>",
+            "/",
+            "written.<span class=\"sc\">pl</span>",
+            "about",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "three",
+            "books",
+            "written.\\textsc{n}",
+            "/",
+            "written.\\textsc{pl}",
+            "about",
+            "this"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{vart}  tre     b\u00f8ker *\\textbf{skrive} /     \\textbf{skrivne}     um     dette.",
+        "srcwordsbare": [
+            "Det",
+            "vart",
+            "tre",
+            "b\u00f8ker",
+            "*skrive",
+            "/",
+            "skrivne",
+            "um",
+            "dette."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">vart</span>",
+            "tre",
+            "b\u00f8ker",
+            "*<span class=\"bf\">skrive</span>",
+            "/",
+            "<span class=\"bf\">skrivne</span>",
+            "um",
+            "dette."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{vart}",
+            "tre",
+            "b\u00f8ker",
+            "*\\textbf{skrive}",
+            "/",
+            "\\textbf{skrivne}",
+            "um",
+            "dette."
+        ],
+        "trs": "Three books were written about this.",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl--82397",
+        "categories": [
+            "ex",
+            "pcp"
+        ],
+        "clength": 52,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became  written.\\textsc{pcp}  many    books",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "written.PCP",
+            "many",
+            "books"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "written.<span class=\"sc\">pcp</span>",
+            "many",
+            "books"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "written.\\textsc{pcp}",
+            "many",
+            "books"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det  \\textbf{ble}   \\textbf{skrevet} mange    b\u00f8ker.",
+        "srcwordsbare": [
+            "Det",
+            "ble",
+            "skrevet",
+            "mange",
+            "b\u00f8ker."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">ble</span>",
+            "<span class=\"bf\">skrevet</span>",
+            "mange",
+            "b\u00f8ker."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{ble}",
+            "\\textbf{skrevet}",
+            "mange",
+            "b\u00f8ker."
+        ],
+        "trs": "Many books were written.",
+        "wlength": 5
+    },
+    {
+        "ID": "engdahl--91290",
+        "categories": [
+            "",
+            "ex",
+            "pl"
+        ],
+        "clength": 53,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became  many  books    written\\textsc{.pl}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "many",
+            "books",
+            "written.pl"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "many",
+            "books",
+            "written<span class=\"sc\">.pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "many",
+            "books",
+            "written\\textsc{.pl}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det  \\textbf{blev} m\u00e5nga  b\u00f6cker    \\textbf{skrivna}.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "m\u00e5nga",
+            "b\u00f6cker",
+            "skrivna."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "m\u00e5nga",
+            "b\u00f6cker",
+            "<span class=\"bf\">skrivna</span>."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "m\u00e5nga",
+            "b\u00f6cker",
+            "\\textbf{skrivna}."
+        ],
+        "trs": "Many books were written.",
+        "wlength": 5
+    },
+    {
+        "ID": "engdahl--25997",
+        "categories": [
+            "ex",
+            "s"
+        ],
+        "clength": 61,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex} has    written.\\textsc{s}    three    books    about  this",
+        "imtwordsbare": [
+            "EX",
+            "has",
+            "written.S",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "has",
+            "written.<span class=\"sc\">s</span>",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "has",
+            "written.\\textsc{s}",
+            "three",
+            "books",
+            "about",
+            "this"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   har   \\textbf{skrivits}     tre  b\u00f6cker   om     detta.",
+        "srcwordsbare": [
+            "Det",
+            "har",
+            "skrivits",
+            "tre",
+            "b\u00f6cker",
+            "om",
+            "detta."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "har",
+            "<span class=\"bf\">skrivits</span>",
+            "tre",
+            "b\u00f6cker",
+            "om",
+            "detta."
+        ],
+        "srcwordstex": [
+            "Det",
+            "har",
+            "\\textbf{skrivits}",
+            "tre",
+            "b\u00f6cker",
+            "om",
+            "detta."
+        ],
+        "trs": "Three books have been written about this.",
+        "wlength": 7
+    },
+    {
+        "ID": "engdahl--94024",
+        "categories": [
+            "",
+            "ex",
+            "n"
+        ],
+        "clength": 97,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "but   I    have  a    feeling    of that \\textsc{ex} becomes not something done\\textsc{.n} there still",
+        "imtwordsbare": [
+            "but",
+            "I",
+            "have",
+            "a",
+            "feeling",
+            "of",
+            "that",
+            "EX",
+            "becomes",
+            "not",
+            "something",
+            "done.n",
+            "there",
+            "still"
+        ],
+        "imtwordshtml": [
+            "but",
+            "I",
+            "have",
+            "a",
+            "feeling",
+            "of",
+            "that",
+            "<span class=\"sc\">ex</span>",
+            "becomes",
+            "not",
+            "something",
+            "done<span class=\"sc\">.n</span>",
+            "there",
+            "still"
+        ],
+        "imtwordstex": [
+            "but",
+            "I",
+            "have",
+            "a",
+            "feeling",
+            "of",
+            "that",
+            "\\textsc{ex}",
+            "becomes",
+            "not",
+            "something",
+            "done\\textsc{.n}",
+            "there",
+            "still"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "men jag har   en   k\u00e4nsla   av att det \\textbf{blir}  inte   n\u00e5gonting \\textbf{gjort}  d\u00e4r   \u00e4nd\u00e5",
+        "srcwordsbare": [
+            "men",
+            "jag",
+            "har",
+            "en",
+            "k\u00e4nsla",
+            "av",
+            "att",
+            "det",
+            "blir",
+            "inte",
+            "n\u00e5gonting",
+            "gjort",
+            "d\u00e4r",
+            "\u00e4nd\u00e5"
+        ],
+        "srcwordshtml": [
+            "men",
+            "jag",
+            "har",
+            "en",
+            "k\u00e4nsla",
+            "av",
+            "att",
+            "det",
+            "<span class=\"bf\">blir</span>",
+            "inte",
+            "n\u00e5gonting",
+            "<span class=\"bf\">gjort</span>",
+            "d\u00e4r",
+            "\u00e4nd\u00e5"
+        ],
+        "srcwordstex": [
+            "men",
+            "jag",
+            "har",
+            "en",
+            "k\u00e4nsla",
+            "av",
+            "att",
+            "det",
+            "\\textbf{blir}",
+            "inte",
+            "n\u00e5gonting",
+            "\\textbf{gjort}",
+            "d\u00e4r",
+            "\u00e4nd\u00e5"
+        ],
+        "trs": "but I have a feeling that  still nothing gets done there",
+        "wlength": 14
+    },
+    {
+        "ID": "engdahl--34594",
+        "categories": [
+            "",
+            "ex",
+            "n"
+        ],
+        "clength": 64,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex} became not so  much\\textsc{.n}   said\\textsc{.n}   maybe",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "not",
+            "so",
+            "much.n",
+            "said.n",
+            "maybe"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "not",
+            "so",
+            "much<span class=\"sc\">.n</span>",
+            "said<span class=\"sc\">.n</span>",
+            "maybe"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "not",
+            "so",
+            "much\\textsc{.n}",
+            "said\\textsc{.n}",
+            "maybe"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det \\textbf{blev}     inte   s\u00e5 mycket \\textbf{sagt}     kanske.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "inte",
+            "s\u00e5",
+            "mycket",
+            "sagt",
+            "kanske."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "inte",
+            "s\u00e5",
+            "mycket",
+            "<span class=\"bf\">sagt</span>",
+            "kanske."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "inte",
+            "s\u00e5",
+            "mycket",
+            "\\textbf{sagt}",
+            "kanske."
+        ],
+        "trs": "Not much was  said, maybe'.",
+        "wlength": 7
+    },
+    {
+        "ID": "engdahl--71605",
+        "categories": [
+            "",
+            "ex",
+            "n"
+        ],
+        "clength": 60,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "but    then  became \\textsc{ex}     nothing\\textsc{.n}      done\\textsc{.n}",
+        "imtwordsbare": [
+            "but",
+            "then",
+            "became",
+            "EX",
+            "nothing.n",
+            "done.n"
+        ],
+        "imtwordshtml": [
+            "but",
+            "then",
+            "became",
+            "<span class=\"sc\">ex</span>",
+            "nothing<span class=\"sc\">.n</span>",
+            "done<span class=\"sc\">.n</span>"
+        ],
+        "imtwordstex": [
+            "but",
+            "then",
+            "became",
+            "\\textsc{ex}",
+            "nothing\\textsc{.n}",
+            "done\\textsc{.n}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Men d\u00e5     \\textbf{blev}  det   ingenting    \\textbf{gjort}.",
+        "srcwordsbare": [
+            "Men",
+            "d\u00e5",
+            "blev",
+            "det",
+            "ingenting",
+            "gjort."
+        ],
+        "srcwordshtml": [
+            "Men",
+            "d\u00e5",
+            "<span class=\"bf\">blev</span>",
+            "det",
+            "ingenting",
+            "<span class=\"bf\">gjort</span>."
+        ],
+        "srcwordstex": [
+            "Men",
+            "d\u00e5",
+            "\\textbf{blev}",
+            "det",
+            "ingenting",
+            "\\textbf{gjort}."
+        ],
+        "trs": "But nothing got done then.",
+        "wlength": 6
+    },
+    {
+        "ID": "engdahl-864664",
+        "categories": [
+            "c",
+            "ex"
+        ],
+        "clength": 72,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex} became no post.\\textsc{c}  distributed.\\textsc{c}  at-all  yesterday",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "no",
+            "post.C",
+            "distributed.C",
+            "at-all",
+            "yesterday"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "no",
+            "post.<span class=\"sc\">c</span>",
+            "distributed.<span class=\"sc\">c</span>",
+            "at-all",
+            "yesterday"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "no",
+            "post.\\textsc{c}",
+            "distributed.\\textsc{c}",
+            "at-all",
+            "yesterday"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det \\textbf{blev}     ingen   post     \\textbf{utdelad}   alls     ig\u00e5r.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "ingen",
+            "post",
+            "utdelad",
+            "alls",
+            "ig\u00e5r."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "ingen",
+            "post",
+            "<span class=\"bf\">utdelad</span>",
+            "alls",
+            "ig\u00e5r."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "ingen",
+            "post",
+            "\\textbf{utdelad}",
+            "alls",
+            "ig\u00e5r."
+        ],
+        "trs": "No post  whatsoever  was  distributed  yesterday.",
+        "wlength": 7
+    },
+    {
+        "ID": "engdahl--61691",
+        "categories": [
+            "",
+            "def",
+            "ex",
+            "n"
+        ],
+        "clength": 139,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "I    sit  there  by  computer.\\textsc{def} and shall  write I know  what  I shall  do    {but} \\textsc{ex}  becomes still  nothing\\textsc{.n}  {done}\\textsc{.n}",
+        "imtwordsbare": [
+            "I",
+            "sit",
+            "there",
+            "by",
+            "computer.DEF",
+            "and",
+            "shall",
+            "write",
+            "I",
+            "know",
+            "what",
+            "I",
+            "shall",
+            "do",
+            "{but}",
+            "EX",
+            "becomes",
+            "still",
+            "nothing.n",
+            "{done}.n"
+        ],
+        "imtwordshtml": [
+            "I",
+            "sit",
+            "there",
+            "by",
+            "computer.<span class=\"sc\">def</span>",
+            "and",
+            "shall",
+            "write",
+            "I",
+            "know",
+            "what",
+            "I",
+            "shall",
+            "do",
+            "{but}",
+            "<span class=\"sc\">ex</span>",
+            "becomes",
+            "still",
+            "nothing<span class=\"sc\">.n</span>",
+            "{done}<span class=\"sc\">.n</span>"
+        ],
+        "imtwordstex": [
+            "I",
+            "sit",
+            "there",
+            "by",
+            "computer.\\textsc{def}",
+            "and",
+            "shall",
+            "write",
+            "I",
+            "know",
+            "what",
+            "I",
+            "shall",
+            "do",
+            "{but}",
+            "\\textsc{ex}",
+            "becomes",
+            "still",
+            "nothing\\textsc{.n}",
+            "{done}\\textsc{.n}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Jag sitter d\u00e4r   vid   datorn   och   ska   skriva,   jag   vet   vad   jag   ska   g\u00f6ra men det \\textbf{blir}  \u00e4nd\u00e5 inget  \\textbf{gjort}.",
+        "srcwordsbare": [
+            "Jag",
+            "sitter",
+            "d\u00e4r",
+            "vid",
+            "datorn",
+            "och",
+            "ska",
+            "skriva,",
+            "jag",
+            "vet",
+            "vad",
+            "jag",
+            "ska",
+            "g\u00f6ra",
+            "men",
+            "det",
+            "blir",
+            "\u00e4nd\u00e5",
+            "inget",
+            "gjort."
+        ],
+        "srcwordshtml": [
+            "Jag",
+            "sitter",
+            "d\u00e4r",
+            "vid",
+            "datorn",
+            "och",
+            "ska",
+            "skriva,",
+            "jag",
+            "vet",
+            "vad",
+            "jag",
+            "ska",
+            "g\u00f6ra",
+            "men",
+            "det",
+            "<span class=\"bf\">blir</span>",
+            "\u00e4nd\u00e5",
+            "inget",
+            "<span class=\"bf\">gjort</span>."
+        ],
+        "srcwordstex": [
+            "Jag",
+            "sitter",
+            "d\u00e4r",
+            "vid",
+            "datorn",
+            "och",
+            "ska",
+            "skriva,",
+            "jag",
+            "vet",
+            "vad",
+            "jag",
+            "ska",
+            "g\u00f6ra",
+            "men",
+            "det",
+            "\\textbf{blir}",
+            "\u00e4nd\u00e5",
+            "inget",
+            "\\textbf{gjort}."
+        ],
+        "trs": "I sit there in front of the computer, about to write, I know what I should do, but still nothing gets done.",
+        "wlength": 20
+    },
+    {
+        "ID": "engdahl-558614",
+        "categories": [
+            "ex",
+            "pl"
+        ],
+        "clength": 169,
+        "coordination": "or",
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "without  their   support  and reasonable  conditions become \\textsc{ex}  no    films    made.\\textsc{pl}  no    books  written.\\textsc{pl}  no    songs  composed.\\textsc{pl}",
+        "imtwordsbare": [
+            "without",
+            "their",
+            "support",
+            "and",
+            "reasonable",
+            "conditions",
+            "become",
+            "EX",
+            "no",
+            "films",
+            "made.PL",
+            "no",
+            "books",
+            "written.PL",
+            "no",
+            "songs",
+            "composed.PL"
+        ],
+        "imtwordshtml": [
+            "without",
+            "their",
+            "support",
+            "and",
+            "reasonable",
+            "conditions",
+            "become",
+            "<span class=\"sc\">ex</span>",
+            "no",
+            "films",
+            "made.<span class=\"sc\">pl</span>",
+            "no",
+            "books",
+            "written.<span class=\"sc\">pl</span>",
+            "no",
+            "songs",
+            "composed.<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "without",
+            "their",
+            "support",
+            "and",
+            "reasonable",
+            "conditions",
+            "become",
+            "\\textsc{ex}",
+            "no",
+            "films",
+            "made.\\textsc{pl}",
+            "no",
+            "books",
+            "written.\\textsc{pl}",
+            "no",
+            "songs",
+            "composed.\\textsc{pl}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Utan     deras   f\u00f6rs\u00f6rjning   och   rimliga  villkor,  \\textbf{blir} det inga filmer \\textbf{gjorda}, inga b\u00f6cker \\textbf{skrivna},     inga l\u00e5tar \\textbf{komponerade}.",
+        "srcwordsbare": [
+            "Utan",
+            "deras",
+            "f\u00f6rs\u00f6rjning",
+            "och",
+            "rimliga",
+            "villkor,",
+            "blir",
+            "det",
+            "inga",
+            "filmer",
+            "gjorda,",
+            "inga",
+            "b\u00f6cker",
+            "skrivna,",
+            "inga",
+            "l\u00e5tar",
+            "komponerade."
+        ],
+        "srcwordshtml": [
+            "Utan",
+            "deras",
+            "f\u00f6rs\u00f6rjning",
+            "och",
+            "rimliga",
+            "villkor,",
+            "<span class=\"bf\">blir</span>",
+            "det",
+            "inga",
+            "filmer",
+            "<span class=\"bf\">gjorda</span>,",
+            "inga",
+            "b\u00f6cker",
+            "<span class=\"bf\">skrivna</span>,",
+            "inga",
+            "l\u00e5tar",
+            "<span class=\"bf\">komponerade</span>."
+        ],
+        "srcwordstex": [
+            "Utan",
+            "deras",
+            "f\u00f6rs\u00f6rjning",
+            "och",
+            "rimliga",
+            "villkor,",
+            "\\textbf{blir}",
+            "det",
+            "inga",
+            "filmer",
+            "\\textbf{gjorda},",
+            "inga",
+            "b\u00f6cker",
+            "\\textbf{skrivna},",
+            "inga",
+            "l\u00e5tar",
+            "\\textbf{komponerade}."
+        ],
+        "trs": "Without their support and reasonable conditions, there won't be any films made,  books written or songs composed.",
+        "wlength": 17
+    },
+    {
+        "ID": "engdahl-256364",
+        "categories": [
+            "",
+            "ex",
+            "n"
+        ],
+        "clength": 82,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "so here with a shovel so  \\textsc{ex} becomes  something\\textsc{.n} done\\textsc{.n}",
+        "imtwordsbare": [
+            "so",
+            "here",
+            "with",
+            "a",
+            "shovel",
+            "so",
+            "EX",
+            "becomes",
+            "something.n",
+            "done.n"
+        ],
+        "imtwordshtml": [
+            "so",
+            "here",
+            "with",
+            "a",
+            "shovel",
+            "so",
+            "<span class=\"sc\">ex</span>",
+            "becomes",
+            "something<span class=\"sc\">.n</span>",
+            "done<span class=\"sc\">.n</span>"
+        ],
+        "imtwordstex": [
+            "so",
+            "here",
+            "with",
+            "a",
+            "shovel",
+            "so",
+            "\\textsc{ex}",
+            "becomes",
+            "something\\textsc{.n}",
+            "done\\textsc{.n}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "\u201cs\u00e5 hit     med en   skyffel   s\u00e5   det   \\textbf{blir}  n\u00e5got    \\textbf{gjort}.\u201d",
+        "srcwordsbare": [
+            "\u201cs\u00e5",
+            "hit",
+            "med",
+            "en",
+            "skyffel",
+            "s\u00e5",
+            "det",
+            "blir",
+            "n\u00e5got",
+            "gjort.\u201d"
+        ],
+        "srcwordshtml": [
+            "\u201cs\u00e5",
+            "hit",
+            "med",
+            "en",
+            "skyffel",
+            "s\u00e5",
+            "det",
+            "<span class=\"bf\">blir</span>",
+            "n\u00e5got",
+            "<span class=\"bf\">gjort</span>.\u201d"
+        ],
+        "srcwordstex": [
+            "\u201cs\u00e5",
+            "hit",
+            "med",
+            "en",
+            "skyffel",
+            "s\u00e5",
+            "det",
+            "\\textbf{blir}",
+            "n\u00e5got",
+            "\\textbf{gjort}.\u201d"
+        ],
+        "trs": "Hand me a shovel so that something gets done.",
+        "wlength": 10
+    },
+    {
+        "ID": "engdahl-444369",
+        "categories": [
+            "",
+            "ex",
+            "pl"
+        ],
+        "clength": 69,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "all    as  all    became \\textsc{ex}    five  houses    built\\textsc{.pl}",
+        "imtwordsbare": [
+            "all",
+            "as",
+            "all",
+            "became",
+            "EX",
+            "five",
+            "houses",
+            "built.pl"
+        ],
+        "imtwordshtml": [
+            "all",
+            "as",
+            "all",
+            "became",
+            "<span class=\"sc\">ex</span>",
+            "five",
+            "houses",
+            "built<span class=\"sc\">.pl</span>"
+        ],
+        "imtwordstex": [
+            "all",
+            "as",
+            "all",
+            "became",
+            "\\textsc{ex}",
+            "five",
+            "houses",
+            "built\\textsc{.pl}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Allt som allt   \\textbf{blev}  det   fem     hus     \\textbf{byggda}.",
+        "srcwordsbare": [
+            "Allt",
+            "som",
+            "allt",
+            "blev",
+            "det",
+            "fem",
+            "hus",
+            "byggda."
+        ],
+        "srcwordshtml": [
+            "Allt",
+            "som",
+            "allt",
+            "<span class=\"bf\">blev</span>",
+            "det",
+            "fem",
+            "hus",
+            "<span class=\"bf\">byggda</span>."
+        ],
+        "srcwordstex": [
+            "Allt",
+            "som",
+            "allt",
+            "\\textbf{blev}",
+            "det",
+            "fem",
+            "hus",
+            "\\textbf{byggda}."
+        ],
+        "trs": "Altogether there were five houses built.",
+        "wlength": 8
+    },
+    {
+        "ID": "engdahl--38583",
+        "categories": [
+            "c",
+            "def",
+            "ex",
+            "pcp"
+        ],
+        "clength": 77,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "so \\textsc{ex}  became  not    written.\\textsc{pcp}  any    story.\\textsc{c} about  race.\\textsc{def}",
+        "imtwordsbare": [
+            "so",
+            "EX",
+            "became",
+            "not",
+            "written.PCP",
+            "any",
+            "story.C",
+            "about",
+            "race.DEF"
+        ],
+        "imtwordshtml": [
+            "so",
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "not",
+            "written.<span class=\"sc\">pcp</span>",
+            "any",
+            "story.<span class=\"sc\">c</span>",
+            "about",
+            "race.<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "so",
+            "\\textsc{ex}",
+            "became",
+            "not",
+            "written.\\textsc{pcp}",
+            "any",
+            "story.\\textsc{c}",
+            "about",
+            "race.\\textsc{def}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "S\u00e5  det \\textbf{blev}  inte   \\textbf{skrivet}  n\u00e5gon  ber\u00e4ttelse om  loppet.",
+        "srcwordsbare": [
+            "S\u00e5",
+            "det",
+            "blev",
+            "inte",
+            "skrivet",
+            "n\u00e5gon",
+            "ber\u00e4ttelse",
+            "om",
+            "loppet."
+        ],
+        "srcwordshtml": [
+            "S\u00e5",
+            "det",
+            "<span class=\"bf\">blev</span>",
+            "inte",
+            "<span class=\"bf\">skrivet</span>",
+            "n\u00e5gon",
+            "ber\u00e4ttelse",
+            "om",
+            "loppet."
+        ],
+        "srcwordstex": [
+            "S\u00e5",
+            "det",
+            "\\textbf{blev}",
+            "inte",
+            "\\textbf{skrivet}",
+            "n\u00e5gon",
+            "ber\u00e4ttelse",
+            "om",
+            "loppet."
+        ],
+        "trs": "So no story about the race was written.'}",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl-635904",
+        "categories": [
+            "ex",
+            "pcp"
+        ],
+        "clength": 66,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}  becomes  almost    not    admitted.\\textsc{pcp}  new  pupils",
+        "imtwordsbare": [
+            "EX",
+            "becomes",
+            "almost",
+            "not",
+            "admitted.PCP",
+            "new",
+            "pupils"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "becomes",
+            "almost",
+            "not",
+            "admitted.<span class=\"sc\">pcp</span>",
+            "new",
+            "pupils"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "becomes",
+            "almost",
+            "not",
+            "admitted.\\textsc{pcp}",
+            "new",
+            "pupils"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "der \\textbf{bliver}   n\u00e6sten   ikke \\textbf{optaget}    nye elever",
+        "srcwordsbare": [
+            "der",
+            "bliver",
+            "n\u00e6sten",
+            "ikke",
+            "optaget",
+            "nye",
+            "elever"
+        ],
+        "srcwordshtml": [
+            "der",
+            "<span class=\"bf\">bliver</span>",
+            "n\u00e6sten",
+            "ikke",
+            "<span class=\"bf\">optaget</span>",
+            "nye",
+            "elever"
+        ],
+        "srcwordstex": [
+            "der",
+            "\\textbf{bliver}",
+            "n\u00e6sten",
+            "ikke",
+            "\\textbf{optaget}",
+            "nye",
+            "elever"
+        ],
+        "trs": "Hardly any new pupils are admitted.",
+        "wlength": 7
+    },
+    {
+        "ID": "engdahl--39730",
+        "categories": [
+            "ex",
+            "pcp"
+        ],
+        "clength": 99,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    is    become  produced.\\textsc{pcp} more    terrorists in   the  last  years because-of  that  policy",
+        "imtwordsbare": [
+            "EX",
+            "is",
+            "become",
+            "produced.PCP",
+            "more",
+            "terrorists",
+            "in",
+            "the",
+            "last",
+            "years",
+            "because-of",
+            "that",
+            "policy"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "is",
+            "become",
+            "produced.<span class=\"sc\">pcp</span>",
+            "more",
+            "terrorists",
+            "in",
+            "the",
+            "last",
+            "years",
+            "because-of",
+            "that",
+            "policy"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "is",
+            "become",
+            "produced.\\textsc{pcp}",
+            "more",
+            "terrorists",
+            "in",
+            "the",
+            "last",
+            "years",
+            "because-of",
+            "that",
+            "policy"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Der er \\textbf{blevet} \\textbf{produceret} flere terrorister   i     de sidste \u00e5r pga. den politik,",
+        "srcwordsbare": [
+            "Der",
+            "er",
+            "blevet",
+            "produceret",
+            "flere",
+            "terrorister",
+            "i",
+            "de",
+            "sidste",
+            "\u00e5r",
+            "pga.",
+            "den",
+            "politik,"
+        ],
+        "srcwordshtml": [
+            "Der",
+            "er",
+            "<span class=\"bf\">blevet</span>",
+            "<span class=\"bf\">produceret</span>",
+            "flere",
+            "terrorister",
+            "i",
+            "de",
+            "sidste",
+            "\u00e5r",
+            "pga.",
+            "den",
+            "politik,"
+        ],
+        "srcwordstex": [
+            "Der",
+            "er",
+            "\\textbf{blevet}",
+            "\\textbf{produceret}",
+            "flere",
+            "terrorister",
+            "i",
+            "de",
+            "sidste",
+            "\u00e5r",
+            "pga.",
+            "den",
+            "politik,"
+        ],
+        "trs": "More terrorists  have been produced in recent years  because of that policy.",
+        "wlength": 13
+    },
+    {
+        "ID": "engdahl-611772",
+        "categories": [
+            "def",
+            "ex",
+            "pcp",
+            "poss",
+            "refl"
+        ],
+        "clength": 111,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "every time  \\textsc{ex} becomes a new admitted.\\textsc{pcp} shall one  put  \\textsc{refl} into in  patient.\\textsc{def.poss} notes",
+        "imtwordsbare": [
+            "every",
+            "time",
+            "EX",
+            "becomes",
+            "a",
+            "new",
+            "admitted.PCP",
+            "shall",
+            "one",
+            "put",
+            "REFL",
+            "into",
+            "in",
+            "patient.def.poss",
+            "notes"
+        ],
+        "imtwordshtml": [
+            "every",
+            "time",
+            "<span class=\"sc\">ex</span>",
+            "becomes",
+            "a",
+            "new",
+            "admitted.<span class=\"sc\">pcp</span>",
+            "shall",
+            "one",
+            "put",
+            "<span class=\"sc\">refl</span>",
+            "into",
+            "in",
+            "patient.<span class=\"sc\">def.poss</span>",
+            "notes"
+        ],
+        "imtwordstex": [
+            "every",
+            "time",
+            "\\textsc{ex}",
+            "becomes",
+            "a",
+            "new",
+            "admitted.\\textsc{pcp}",
+            "shall",
+            "one",
+            "put",
+            "\\textsc{refl}",
+            "into",
+            "in",
+            "patient.\\textsc{def.poss}",
+            "notes"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Hver   gang {der} \\textbf{bliver} en   ny \\textbf{indlagt}, skal man s\u00e6tte sig   ind i   patientens  journaler.",
+        "srcwordsbare": [
+            "Hver",
+            "gang",
+            "{der}",
+            "bliver",
+            "en",
+            "ny",
+            "indlagt,",
+            "skal",
+            "man",
+            "s\u00e6tte",
+            "sig",
+            "ind",
+            "i",
+            "patientens",
+            "journaler."
+        ],
+        "srcwordshtml": [
+            "Hver",
+            "gang",
+            "{der}",
+            "<span class=\"bf\">bliver</span>",
+            "en",
+            "ny",
+            "<span class=\"bf\">indlagt</span>,",
+            "skal",
+            "man",
+            "s\u00e6tte",
+            "sig",
+            "ind",
+            "i",
+            "patientens",
+            "journaler."
+        ],
+        "srcwordstex": [
+            "Hver",
+            "gang",
+            "{der}",
+            "\\textbf{bliver}",
+            "en",
+            "ny",
+            "\\textbf{indlagt},",
+            "skal",
+            "man",
+            "s\u00e6tte",
+            "sig",
+            "ind",
+            "i",
+            "patientens",
+            "journaler."
+        ],
+        "trs": "Every time a new patient is admitted, one has to familiarize oneself with his/her notes.",
+        "wlength": 15
+    },
+    {
+        "ID": "engdahl-522152",
+        "categories": [
+            "",
+            "def",
+            "ex",
+            "pcp"
+        ],
+        "clength": 80,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex} became  nothing    said\\textsc{.pcp} before \\textsc{ex} rang on  door\\textsc{.def}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "nothing",
+            "said.pcp",
+            "before",
+            "EX",
+            "rang",
+            "on",
+            "door.def"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "nothing",
+            "said<span class=\"sc\">.pcp</span>",
+            "before",
+            "<span class=\"sc\">ex</span>",
+            "rang",
+            "on",
+            "door<span class=\"sc\">.def</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "nothing",
+            "said\\textsc{.pcp}",
+            "before",
+            "\\textsc{ex}",
+            "rang",
+            "on",
+            "door\\textsc{.def}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Der \\textbf{blev}     ingenting \\textbf{sagt},    f\u00f8r  det ringede   p\u00e5   d\u00f8ren,",
+        "srcwordsbare": [
+            "Der",
+            "blev",
+            "ingenting",
+            "sagt,",
+            "f\u00f8r",
+            "det",
+            "ringede",
+            "p\u00e5",
+            "d\u00f8ren,"
+        ],
+        "srcwordshtml": [
+            "Der",
+            "<span class=\"bf\">blev</span>",
+            "ingenting",
+            "<span class=\"bf\">sagt</span>,",
+            "f\u00f8r",
+            "det",
+            "ringede",
+            "p\u00e5",
+            "d\u00f8ren,"
+        ],
+        "srcwordstex": [
+            "Der",
+            "\\textbf{blev}",
+            "ingenting",
+            "\\textbf{sagt},",
+            "f\u00f8r",
+            "det",
+            "ringede",
+            "p\u00e5",
+            "d\u00f8ren,"
+        ],
+        "trs": "Nothing was said before the  door bell rang.",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl-431159",
+        "categories": [
+            "",
+            "def",
+            "ex",
+            "pcp"
+        ],
+        "clength": 82,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "according  SAS  became  \\textsc{ex}  no    fault  found\\textsc{.pcp}  on  any  of  planes.\\textsc{def}",
+        "imtwordsbare": [
+            "according",
+            "SAS",
+            "became",
+            "EX",
+            "no",
+            "fault",
+            "found.pcp",
+            "on",
+            "any",
+            "of",
+            "planes.DEF"
+        ],
+        "imtwordshtml": [
+            "according",
+            "SAS",
+            "became",
+            "<span class=\"sc\">ex</span>",
+            "no",
+            "fault",
+            "found<span class=\"sc\">.pcp</span>",
+            "on",
+            "any",
+            "of",
+            "planes.<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "according",
+            "SAS",
+            "became",
+            "\\textsc{ex}",
+            "no",
+            "fault",
+            "found\\textsc{.pcp}",
+            "on",
+            "any",
+            "of",
+            "planes.\\textsc{def}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "If\u00f8lge    SAS \\textbf{blev} der ingen fejl \\textbf{fundet}     p\u00e5 nogle af flyene,",
+        "srcwordsbare": [
+            "If\u00f8lge",
+            "SAS",
+            "blev",
+            "der",
+            "ingen",
+            "fejl",
+            "fundet",
+            "p\u00e5",
+            "nogle",
+            "af",
+            "flyene,"
+        ],
+        "srcwordshtml": [
+            "If\u00f8lge",
+            "SAS",
+            "<span class=\"bf\">blev</span>",
+            "der",
+            "ingen",
+            "fejl",
+            "<span class=\"bf\">fundet</span>",
+            "p\u00e5",
+            "nogle",
+            "af",
+            "flyene,"
+        ],
+        "srcwordstex": [
+            "If\u00f8lge",
+            "SAS",
+            "\\textbf{blev}",
+            "der",
+            "ingen",
+            "fejl",
+            "\\textbf{fundet}",
+            "p\u00e5",
+            "nogle",
+            "af",
+            "flyene,"
+        ],
+        "trs": "According to SAS, no fault was found on any of the planes.",
+        "wlength": 11
+    },
+    {
+        "ID": "engdahl--54143",
+        "categories": [
+            "ex",
+            "pcp"
+        ],
+        "clength": 58,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}  became not anything done.\\textsc{pcp} with that",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "not",
+            "anything",
+            "done.PCP",
+            "with",
+            "that"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "not",
+            "anything",
+            "done.<span class=\"sc\">pcp</span>",
+            "with",
+            "that"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "not",
+            "anything",
+            "done.\\textsc{pcp}",
+            "with",
+            "that"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "der \\textbf{blev} inte   noget \\textbf{gjort} ved det\\_der",
+        "srcwordsbare": [
+            "der",
+            "blev",
+            "inte",
+            "noget",
+            "gjort",
+            "ved",
+            "det_der"
+        ],
+        "srcwordshtml": [
+            "der",
+            "<span class=\"bf\">blev</span>",
+            "inte",
+            "noget",
+            "<span class=\"bf\">gjort</span>",
+            "ved",
+            "det_der"
+        ],
+        "srcwordstex": [
+            "der",
+            "\\textbf{blev}",
+            "inte",
+            "noget",
+            "\\textbf{gjort}",
+            "ved",
+            "det\\_der"
+        ],
+        "trs": "Nothing was done with that.",
+        "wlength": 7
+    },
+    {
+        "ID": "engdahl-578084",
+        "categories": [
+            "",
+            "c",
+            "def",
+            "ex",
+            "pcp"
+        ],
+        "clength": 89,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "{clock.}\\textsc{def}  five  in  morning    there    became \\textsc{ex} {one}\\textsc{.c} {shot.}\\textsc{pcp} {down}",
+        "imtwordsbare": [
+            "{clock.}DEF",
+            "five",
+            "in",
+            "morning",
+            "there",
+            "became",
+            "EX",
+            "{one}.c",
+            "{shot.}PCP",
+            "{down}"
+        ],
+        "imtwordshtml": [
+            "{clock.}<span class=\"sc\">def</span>",
+            "five",
+            "in",
+            "morning",
+            "there",
+            "became",
+            "<span class=\"sc\">ex</span>",
+            "{one}<span class=\"sc\">.c</span>",
+            "{shot.}<span class=\"sc\">pcp</span>",
+            "{down}"
+        ],
+        "imtwordstex": [
+            "{clock.}\\textsc{def}",
+            "five",
+            "in",
+            "morning",
+            "there",
+            "became",
+            "\\textsc{ex}",
+            "{one}\\textsc{.c}",
+            "{shot.}\\textsc{pcp}",
+            "{down}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "klokken   fem     om morgenen der     \\textbf{blev}     der \u00e9n     \\textbf{skudt}     ned",
+        "srcwordsbare": [
+            "klokken",
+            "fem",
+            "om",
+            "morgenen",
+            "der",
+            "blev",
+            "der",
+            "\u00e9n",
+            "skudt",
+            "ned"
+        ],
+        "srcwordshtml": [
+            "klokken",
+            "fem",
+            "om",
+            "morgenen",
+            "der",
+            "<span class=\"bf\">blev</span>",
+            "der",
+            "\u00e9n",
+            "<span class=\"bf\">skudt</span>",
+            "ned"
+        ],
+        "srcwordstex": [
+            "klokken",
+            "fem",
+            "om",
+            "morgenen",
+            "der",
+            "\\textbf{blev}",
+            "der",
+            "\u00e9n",
+            "\\textbf{skudt}",
+            "ned"
+        ],
+        "trs": "At 5 o\u2019clock in the morning one person was shot down there.",
+        "wlength": 10
+    },
+    {
+        "ID": "engdahl--44569",
+        "categories": [
+            "",
+            "c",
+            "ex",
+            "pcp"
+        ],
+        "clength": 83,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "then  became \\textsc{ex}  a   large    pot porridge\\textsc{.c}  {cooked}\\textsc{.pcp}  every  day",
+        "imtwordsbare": [
+            "then",
+            "became",
+            "EX",
+            "a",
+            "large",
+            "pot",
+            "porridge.c",
+            "{cooked}.pcp",
+            "every",
+            "day"
+        ],
+        "imtwordshtml": [
+            "then",
+            "became",
+            "<span class=\"sc\">ex</span>",
+            "a",
+            "large",
+            "pot",
+            "porridge<span class=\"sc\">.c</span>",
+            "{cooked}<span class=\"sc\">.pcp</span>",
+            "every",
+            "day"
+        ],
+        "imtwordstex": [
+            "then",
+            "became",
+            "\\textsc{ex}",
+            "a",
+            "large",
+            "pot",
+            "porridge\\textsc{.c}",
+            "{cooked}\\textsc{.pcp}",
+            "every",
+            "day"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "da     \\textbf{blev}  der en stor   gryde   gr\u00f8d      \\textbf{kogt}    hver     dag",
+        "srcwordsbare": [
+            "da",
+            "blev",
+            "der",
+            "en",
+            "stor",
+            "gryde",
+            "gr\u00f8d",
+            "kogt",
+            "hver",
+            "dag"
+        ],
+        "srcwordshtml": [
+            "da",
+            "<span class=\"bf\">blev</span>",
+            "der",
+            "en",
+            "stor",
+            "gryde",
+            "gr\u00f8d",
+            "<span class=\"bf\">kogt</span>",
+            "hver",
+            "dag"
+        ],
+        "srcwordstex": [
+            "da",
+            "\\textbf{blev}",
+            "der",
+            "en",
+            "stor",
+            "gryde",
+            "gr\u00f8d",
+            "\\textbf{kogt}",
+            "hver",
+            "dag"
+        ],
+        "trs": "Then a large  pot of porridge was  cooked  every day.",
+        "wlength": 10
+    },
+    {
+        "ID": "engdahl-365937",
+        "categories": [
+            "",
+            "c",
+            "ex"
+        ],
+        "clength": 46,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex} \\textit{became}  \\textit{a} \\textit{silverspoon}\\textsc{.c}  \\textit{stolen}\\textsc{.c}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "a",
+            "silverspoon.c",
+            "stolen.c"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "<span class=\"it\">became</span>",
+            "<span class=\"it\">a</span>",
+            "<span class=\"it\">silverspoon</span><span class=\"sc\">.c</span>",
+            "<span class=\"it\">stolen</span><span class=\"sc\">.c</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "\\textit{became}",
+            "\\textit{a}",
+            "\\textit{silverspoon}\\textsc{.c}",
+            "\\textit{stolen}\\textsc{.c}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Der \\textbf{blev} en s\u00f8lvske \\textbf{staalen}.",
+        "srcwordsbare": [
+            "Der",
+            "blev",
+            "en",
+            "s\u00f8lvske",
+            "staalen."
+        ],
+        "srcwordshtml": [
+            "Der",
+            "<span class=\"bf\">blev</span>",
+            "en",
+            "s\u00f8lvske",
+            "<span class=\"bf\">staalen</span>."
+        ],
+        "srcwordstex": [
+            "Der",
+            "\\textbf{blev}",
+            "en",
+            "s\u00f8lvske",
+            "\\textbf{staalen}."
+        ],
+        "trs": "A silver spoon was stolen.'\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "engdahl-794755",
+        "categories": [
+            "",
+            "c",
+            "ex"
+        ],
+        "clength": 50,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}  became  a    dead\\textsc{.c}   {out-carried}\\textsc{.c}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "a",
+            "dead.c",
+            "{out-carried}.c"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "a",
+            "dead<span class=\"sc\">.c</span>",
+            "{out-carried}<span class=\"sc\">.c</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "a",
+            "dead\\textsc{.c}",
+            "{out-carried}\\textsc{.c}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Der \\textbf{blev}     en   D\u00f6d  \\textbf{udbaaren}.",
+        "srcwordsbare": [
+            "Der",
+            "blev",
+            "en",
+            "D\u00f6d",
+            "udbaaren."
+        ],
+        "srcwordshtml": [
+            "Der",
+            "<span class=\"bf\">blev</span>",
+            "en",
+            "D\u00f6d",
+            "<span class=\"bf\">udbaaren</span>."
+        ],
+        "srcwordstex": [
+            "Der",
+            "\\textbf{blev}",
+            "en",
+            "D\u00f6d",
+            "\\textbf{udbaaren}."
+        ],
+        "trs": "A dead person was carried out.",
+        "wlength": 5
+    },
+    {
+        "ID": "engdahl-917839",
+        "categories": [
+            "def",
+            "ex",
+            "pcp"
+        ],
+        "clength": 74,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "{because} \\textsc{ex}  became  built.\\textsc{pcp}  very  much  exactly    that  time.\\textsc{def}",
+        "imtwordsbare": [
+            "{because}",
+            "EX",
+            "became",
+            "built.PCP",
+            "very",
+            "much",
+            "exactly",
+            "that",
+            "time.DEF"
+        ],
+        "imtwordshtml": [
+            "{because}",
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "built.<span class=\"sc\">pcp</span>",
+            "very",
+            "much",
+            "exactly",
+            "that",
+            "time.<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "{because}",
+            "\\textsc{ex}",
+            "became",
+            "built.\\textsc{pcp}",
+            "very",
+            "much",
+            "exactly",
+            "that",
+            "time.\\textsc{def}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "for  det  \\textbf{ble}  \\textbf{bygd}  veldig   mye   akkurat   den   tida",
+        "srcwordsbare": [
+            "for",
+            "det",
+            "ble",
+            "bygd",
+            "veldig",
+            "mye",
+            "akkurat",
+            "den",
+            "tida"
+        ],
+        "srcwordshtml": [
+            "for",
+            "det",
+            "<span class=\"bf\">ble</span>",
+            "<span class=\"bf\">bygd</span>",
+            "veldig",
+            "mye",
+            "akkurat",
+            "den",
+            "tida"
+        ],
+        "srcwordstex": [
+            "for",
+            "det",
+            "\\textbf{ble}",
+            "\\textbf{bygd}",
+            "veldig",
+            "mye",
+            "akkurat",
+            "den",
+            "tida"
+        ],
+        "trs": "because a lot was built right at that time",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl-814356",
+        "categories": [
+            "def",
+            "ex",
+            "pcp",
+            "poss"
+        ],
+        "clength": 87,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became  not  found.\\textsc{pcp}  technical  evidence    in woman.\\textsc{def.poss} {flat}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "not",
+            "found.PCP",
+            "technical",
+            "evidence",
+            "in",
+            "woman.def.poss",
+            "{flat}"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "not",
+            "found.<span class=\"sc\">pcp</span>",
+            "technical",
+            "evidence",
+            "in",
+            "woman.<span class=\"sc\">def.poss</span>",
+            "{flat}"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "not",
+            "found.\\textsc{pcp}",
+            "technical",
+            "evidence",
+            "in",
+            "woman.\\textsc{def.poss}",
+            "{flat}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det  \\textbf{ble}   ikke   \\textbf{funnet}  tekniske   bevis  i   kvinnens   leilighet.",
+        "srcwordsbare": [
+            "Det",
+            "ble",
+            "ikke",
+            "funnet",
+            "tekniske",
+            "bevis",
+            "i",
+            "kvinnens",
+            "leilighet."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">ble</span>",
+            "ikke",
+            "<span class=\"bf\">funnet</span>",
+            "tekniske",
+            "bevis",
+            "i",
+            "kvinnens",
+            "leilighet."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{ble}",
+            "ikke",
+            "\\textbf{funnet}",
+            "tekniske",
+            "bevis",
+            "i",
+            "kvinnens",
+            "leilighet."
+        ],
+        "trs": "No technical evidence was found in the  womans  flat.",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl-883179",
+        "categories": [
+            "ex",
+            "pcp"
+        ],
+        "clength": 84,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "according  Amnesty  International  became \\textsc{ex}    5000  innocent    killed.\\textsc{pcp}",
+        "imtwordsbare": [
+            "according",
+            "Amnesty",
+            "International",
+            "became",
+            "EX",
+            "5000",
+            "innocent",
+            "killed.PCP"
+        ],
+        "imtwordshtml": [
+            "according",
+            "Amnesty",
+            "International",
+            "became",
+            "<span class=\"sc\">ex</span>",
+            "5000",
+            "innocent",
+            "killed.<span class=\"sc\">pcp</span>"
+        ],
+        "imtwordstex": [
+            "according",
+            "Amnesty",
+            "International",
+            "became",
+            "\\textsc{ex}",
+            "5000",
+            "innocent",
+            "killed.\\textsc{pcp}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "If\u00f8lge  Amnesty International \\textbf{ble} det   5.000   uskyldige   \\textbf{drept}.",
+        "srcwordsbare": [
+            "If\u00f8lge",
+            "Amnesty",
+            "International",
+            "ble",
+            "det",
+            "5.000",
+            "uskyldige",
+            "drept."
+        ],
+        "srcwordshtml": [
+            "If\u00f8lge",
+            "Amnesty",
+            "International",
+            "<span class=\"bf\">ble</span>",
+            "det",
+            "5.000",
+            "uskyldige",
+            "<span class=\"bf\">drept</span>."
+        ],
+        "srcwordstex": [
+            "If\u00f8lge",
+            "Amnesty",
+            "International",
+            "\\textbf{ble}",
+            "det",
+            "5.000",
+            "uskyldige",
+            "\\textbf{drept}."
+        ],
+        "trs": "According to Amnesty International, 5000 innocent people were killed.",
+        "wlength": 8
+    },
+    {
+        "ID": "engdahl-662599",
+        "categories": [
+            "",
+            "def",
+            "pcp"
+        ],
+        "clength": 44,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "{man}\\textsc{.def}    had    maybe    nothing    said\\textsc{.pcp}",
+        "imtwordsbare": [
+            "{man}.def",
+            "had",
+            "maybe",
+            "nothing",
+            "said.pcp"
+        ],
+        "imtwordshtml": [
+            "{man}<span class=\"sc\">.def</span>",
+            "had",
+            "maybe",
+            "nothing",
+            "said<span class=\"sc\">.pcp</span>"
+        ],
+        "imtwordstex": [
+            "{man}\\textsc{.def}",
+            "had",
+            "maybe",
+            "nothing",
+            "said\\textsc{.pcp}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Mannen     hade   kanske   ingenting   sagt.",
+        "srcwordsbare": [
+            "Mannen",
+            "hade",
+            "kanske",
+            "ingenting",
+            "sagt."
+        ],
+        "srcwordshtml": [
+            "Mannen",
+            "hade",
+            "kanske",
+            "ingenting",
+            "sagt."
+        ],
+        "srcwordstex": [
+            "Mannen",
+            "hade",
+            "kanske",
+            "ingenting",
+            "sagt."
+        ],
+        "trs": "Maybe the man hadn\u2019t said anything.",
+        "wlength": 5
+    },
+    {
+        "ID": "engdahl--17832",
+        "categories": [
+            "",
+            "c",
+            "def",
+            "ex",
+            "n"
+        ],
+        "clength": 61,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became   given.\\textsc{n}  boy\\textsc{.c.def} presents",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "given.N",
+            "boy.c.def",
+            "presents"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "given.<span class=\"sc\">n</span>",
+            "boy<span class=\"sc\">.c.def</span>",
+            "presents"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "given.\\textsc{n}",
+            "boy\\textsc{.c.def}",
+            "presents"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{blev}  \\textbf{givet}     pojken     presenter.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "givet",
+            "pojken",
+            "presenter."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "<span class=\"bf\">givet</span>",
+            "pojken",
+            "presenter."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "\\textbf{givet}",
+            "pojken",
+            "presenter."
+        ],
+        "trs": "The boy was given presents.",
+        "wlength": 5
+    },
+    {
+        "ID": "engdahl--85033",
+        "categories": [
+            "def",
+            "ex",
+            "pl"
+        ],
+        "clength": 81,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became  not    many  children  given.\\textsc{pl}  presents    that Christmas.\\textsc{def}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "not",
+            "many",
+            "children",
+            "given.PL",
+            "presents",
+            "that",
+            "Christmas.DEF"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "not",
+            "many",
+            "children",
+            "given.<span class=\"sc\">pl</span>",
+            "presents",
+            "that",
+            "Christmas.<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "not",
+            "many",
+            "children",
+            "given.\\textsc{pl}",
+            "presents",
+            "that",
+            "Christmas.\\textsc{def}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{blev}  inte   m\u00e5nga barn  \\textbf{givna}     presenter den   julen.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "inte",
+            "m\u00e5nga",
+            "barn",
+            "givna",
+            "presenter",
+            "den",
+            "julen."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "inte",
+            "m\u00e5nga",
+            "barn",
+            "<span class=\"bf\">givna</span>",
+            "presenter",
+            "den",
+            "julen."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "inte",
+            "m\u00e5nga",
+            "barn",
+            "\\textbf{givna}",
+            "presenter",
+            "den",
+            "julen."
+        ],
+        "trs": "Not may children were given presents that  Christmas.",
+        "wlength": 9
+    },
+    {
+        "ID": "engdahl-580270",
+        "categories": [
+            "c",
+            "ex"
+        ],
+        "clength": 68,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    should  become  us  a    reward.\\textsc{c}  {awarded.}\\textsc{c}.",
+        "imtwordsbare": [
+            "EX",
+            "should",
+            "become",
+            "us",
+            "a",
+            "reward.C",
+            "{awarded.}C."
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "should",
+            "become",
+            "us",
+            "a",
+            "reward.<span class=\"sc\">c</span>",
+            "{awarded.}<span class=\"sc\">c</span>."
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "should",
+            "become",
+            "us",
+            "a",
+            "reward.\\textsc{c}",
+            "{awarded.}\\textsc{c}."
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   skulle   \\textbf{bli}    oss en bel\u00f6ning   \\textbf{tilldelad}.",
+        "srcwordsbare": [
+            "Det",
+            "skulle",
+            "bli",
+            "oss",
+            "en",
+            "bel\u00f6ning",
+            "tilldelad."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "skulle",
+            "<span class=\"bf\">bli</span>",
+            "oss",
+            "en",
+            "bel\u00f6ning",
+            "<span class=\"bf\">tilldelad</span>."
+        ],
+        "srcwordstex": [
+            "Det",
+            "skulle",
+            "\\textbf{bli}",
+            "oss",
+            "en",
+            "bel\u00f6ning",
+            "\\textbf{tilldelad}."
+        ],
+        "trs": "We  were supposed to  receive an award.",
+        "wlength": 7
+    },
+    {
+        "ID": "engdahl-456684",
+        "categories": [
+            "ex",
+            "n"
+        ],
+        "clength": 63,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became us    not    much.\\textsc{n}    {confided.}\\textsc{n}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "us",
+            "not",
+            "much.N",
+            "{confided.}N"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "us",
+            "not",
+            "much.<span class=\"sc\">n</span>",
+            "{confided.}<span class=\"sc\">n</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "us",
+            "not",
+            "much.\\textsc{n}",
+            "{confided.}\\textsc{n}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{blev}  oss inte   mycket     \\textbf{anf\u00f6rtrott}.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "oss",
+            "inte",
+            "mycket",
+            "anf\u00f6rtrott."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "oss",
+            "inte",
+            "mycket",
+            "<span class=\"bf\">anf\u00f6rtrott</span>."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "oss",
+            "inte",
+            "mycket",
+            "\\textbf{anf\u00f6rtrott}."
+        ],
+        "trs": "Not much was  confided to us.",
+        "wlength": 6
+    },
+    {
+        "ID": "engdahl--61450",
+        "categories": [
+            "ex",
+            "n"
+        ],
+        "clength": 70,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became nobody very much.\\textsc{n}    {confided.}\\textsc{n}",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "nobody",
+            "very",
+            "much.N",
+            "{confided.}N"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "nobody",
+            "very",
+            "much.<span class=\"sc\">n</span>",
+            "{confided.}<span class=\"sc\">n</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "nobody",
+            "very",
+            "much.\\textsc{n}",
+            "{confided.}\\textsc{n}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{blev}  ingen  s\u00e4rskilt   mycket     \\textbf{anf\u00f6rtrott}.",
+        "srcwordsbare": [
+            "Det",
+            "blev",
+            "ingen",
+            "s\u00e4rskilt",
+            "mycket",
+            "anf\u00f6rtrott."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blev</span>",
+            "ingen",
+            "s\u00e4rskilt",
+            "mycket",
+            "<span class=\"bf\">anf\u00f6rtrott</span>."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blev}",
+            "ingen",
+            "s\u00e4rskilt",
+            "mycket",
+            "\\textbf{anf\u00f6rtrott}."
+        ],
+        "trs": "Not much was confided to anybody.",
+        "wlength": 6
+    },
+    {
+        "ID": "engdahl-348533",
+        "categories": [
+            "",
+            "ex",
+            "pcp"
+        ],
+        "clength": 52,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}    became  denied\\textsc{.pcp}  us    admittance",
+        "imtwordsbare": [
+            "EX",
+            "became",
+            "denied.pcp",
+            "us",
+            "admittance"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "became",
+            "denied<span class=\"sc\">.pcp</span>",
+            "us",
+            "admittance"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "became",
+            "denied\\textsc{.pcp}",
+            "us",
+            "admittance"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Det   \\textbf{blei}  \\textbf{nekta}    oss   adgang.",
+        "srcwordsbare": [
+            "Det",
+            "blei",
+            "nekta",
+            "oss",
+            "adgang."
+        ],
+        "srcwordshtml": [
+            "Det",
+            "<span class=\"bf\">blei</span>",
+            "<span class=\"bf\">nekta</span>",
+            "oss",
+            "adgang."
+        ],
+        "srcwordstex": [
+            "Det",
+            "\\textbf{blei}",
+            "\\textbf{nekta}",
+            "oss",
+            "adgang."
+        ],
+        "trs": "We were denied admittance.",
+        "wlength": 5
+    },
+    {
+        "ID": "engdahl-740740",
+        "categories": [
+            "ex",
+            "pcp"
+        ],
+        "clength": 94,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "\\textsc{ex}   becomes  imposed.\\textsc{pcp}  children  a    too for big responsibility  in day",
+        "imtwordsbare": [
+            "EX",
+            "becomes",
+            "imposed.PCP",
+            "children",
+            "a",
+            "too",
+            "for",
+            "big",
+            "responsibility",
+            "in",
+            "day"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">ex</span>",
+            "becomes",
+            "imposed.<span class=\"sc\">pcp</span>",
+            "children",
+            "a",
+            "too",
+            "for",
+            "big",
+            "responsibility",
+            "in",
+            "day"
+        ],
+        "imtwordstex": [
+            "\\textsc{ex}",
+            "becomes",
+            "imposed.\\textsc{pcp}",
+            "children",
+            "a",
+            "too",
+            "for",
+            "big",
+            "responsibility",
+            "in",
+            "day"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Der   \\textbf{bliver}     \\textbf{p\u00e5lagt}    b\u00f8rn  et   alt   for   stort     ansvar    i dag.",
+        "srcwordsbare": [
+            "Der",
+            "bliver",
+            "p\u00e5lagt",
+            "b\u00f8rn",
+            "et",
+            "alt",
+            "for",
+            "stort",
+            "ansvar",
+            "i",
+            "dag."
+        ],
+        "srcwordshtml": [
+            "Der",
+            "<span class=\"bf\">bliver</span>",
+            "<span class=\"bf\">p\u00e5lagt</span>",
+            "b\u00f8rn",
+            "et",
+            "alt",
+            "for",
+            "stort",
+            "ansvar",
+            "i",
+            "dag."
+        ],
+        "srcwordstex": [
+            "Der",
+            "\\textbf{bliver}",
+            "\\textbf{p\u00e5lagt}",
+            "b\u00f8rn",
+            "et",
+            "alt",
+            "for",
+            "stort",
+            "ansvar",
+            "i",
+            "dag."
+        ],
+        "trs": "A too big responsibility is imposed on children today.",
+        "wlength": 11
+    },
+    {
+        "ID": "engdahl-883841",
+        "categories": [
+            "",
+            "def",
+            "pcp"
+        ],
+        "clength": 100,
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "they  carried-out  just  the    tasks that  became  them  imposed.\\textsc{pcp}  by  parliament\\textsc{.def}",
+        "imtwordsbare": [
+            "they",
+            "carried-out",
+            "just",
+            "the",
+            "tasks",
+            "that",
+            "became",
+            "them",
+            "imposed.PCP",
+            "by",
+            "parliament.def"
+        ],
+        "imtwordshtml": [
+            "they",
+            "carried-out",
+            "just",
+            "the",
+            "tasks",
+            "that",
+            "became",
+            "them",
+            "imposed.<span class=\"sc\">pcp</span>",
+            "by",
+            "parliament<span class=\"sc\">.def</span>"
+        ],
+        "imtwordstex": [
+            "they",
+            "carried-out",
+            "just",
+            "the",
+            "tasks",
+            "that",
+            "became",
+            "them",
+            "imposed.\\textsc{pcp}",
+            "by",
+            "parliament\\textsc{.def}"
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "De     udf\u00f8rte  blot   de   opgaver, der   \\textbf{blev}  dem \\textbf{p\u00e5lagt}      af   folketinget,",
+        "srcwordsbare": [
+            "De",
+            "udf\u00f8rte",
+            "blot",
+            "de",
+            "opgaver,",
+            "der",
+            "blev",
+            "dem",
+            "p\u00e5lagt",
+            "af",
+            "folketinget,"
+        ],
+        "srcwordshtml": [
+            "De",
+            "udf\u00f8rte",
+            "blot",
+            "de",
+            "opgaver,",
+            "der",
+            "<span class=\"bf\">blev</span>",
+            "dem",
+            "<span class=\"bf\">p\u00e5lagt</span>",
+            "af",
+            "folketinget,"
+        ],
+        "srcwordstex": [
+            "De",
+            "udf\u00f8rte",
+            "blot",
+            "de",
+            "opgaver,",
+            "der",
+            "\\textbf{blev}",
+            "dem",
+            "\\textbf{p\u00e5lagt}",
+            "af",
+            "folketinget,"
+        ],
+        "trs": "They only carried out the tasks that  had been imposed on them by the parliament.",
+        "wlength": 11
+    },
+    {
+        "ID": "engdahl--26377",
+        "categories": [
+            "pcp"
+        ],
+        "clength": 74,
+        "coordination": "and",
+        "filename": "115/chapters/engdahl.tex",
+        "imt": "wait  and  see  who     that  becomes    you  assigned.\\textsc{pcp}.",
+        "imtwordsbare": [
+            "wait",
+            "and",
+            "see",
+            "who",
+            "that",
+            "becomes",
+            "you",
+            "assigned.PCP."
+        ],
+        "imtwordshtml": [
+            "wait",
+            "and",
+            "see",
+            "who",
+            "that",
+            "becomes",
+            "you",
+            "assigned.<span class=\"sc\">pcp</span>."
+        ],
+        "imtwordstex": [
+            "wait",
+            "and",
+            "see",
+            "who",
+            "that",
+            "becomes",
+            "you",
+            "assigned.\\textsc{pcp}."
+        ],
+        "language": "115/chapters/engdahl.tex",
+        "src": "Vent og     se,   hvem   {der} {\\textbf{bliver}} {dig} {\\textbf{tildelt}}.",
+        "srcwordsbare": [
+            "Vent",
+            "og",
+            "se,",
+            "hvem",
+            "{der}",
+            "{bliver}",
+            "{dig}",
+            "{tildelt}."
+        ],
+        "srcwordshtml": [
+            "Vent",
+            "og",
+            "se,",
+            "hvem",
+            "{der}",
+            "{<span class=\"bf\">bliver</span>}",
+            "{dig}",
+            "{<span class=\"bf\">tildelt</span>}."
+        ],
+        "srcwordstex": [
+            "Vent",
+            "og",
+            "se,",
+            "hvem",
+            "{der}",
+            "{\\textbf{bliver}}",
+            "{dig}",
+            "{\\textbf{tildelt}}."
+        ],
+        "trs": "Wait and see who is asssigned to you.",
+        "wlength": 8
+    }
+]

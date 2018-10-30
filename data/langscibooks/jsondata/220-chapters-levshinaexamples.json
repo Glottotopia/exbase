@@ -1,0 +1,164 @@
+[
+    {
+        "ID": "levshina-527406",
+        "categories": [],
+        "clength": 19,
+        "filename": "220/chapters/levshina.tex",
+        "imt": "cactus      grow",
+        "imtwordsbare": [
+            "cactus",
+            "grow"
+        ],
+        "imtwordshtml": [
+            "cactus",
+            "grow"
+        ],
+        "imtwordstex": [
+            "cactus",
+            "grow"
+        ],
+        "language": "220/chapters/levshina.tex",
+        "src": "Grok         babum.",
+        "srcwordsbare": [
+            "Grok",
+            "babum."
+        ],
+        "srcwordshtml": [
+            "Grok",
+            "babum."
+        ],
+        "srcwordstex": [
+            "Grok",
+            "babum."
+        ],
+        "trs": "\u201cA grok (cactus) grows.\u201d",
+        "wlength": 2
+    },
+    {
+        "ID": "levshina--87909",
+        "categories": [],
+        "clength": 40,
+        "filename": "220/chapters/levshina.tex",
+        "imt": "Atruurian      cactus        see",
+        "imtwordsbare": [
+            "Atruurian",
+            "cactus",
+            "see"
+        ],
+        "imtwordshtml": [
+            "Atruurian",
+            "cactus",
+            "see"
+        ],
+        "imtwordstex": [
+            "Atruurian",
+            "cactus",
+            "see"
+        ],
+        "language": "220/chapters/levshina.tex",
+        "src": "Sia                 grok            hum.",
+        "srcwordsbare": [
+            "Sia",
+            "grok",
+            "hum."
+        ],
+        "srcwordshtml": [
+            "Sia",
+            "grok",
+            "hum."
+        ],
+        "srcwordstex": [
+            "Sia",
+            "grok",
+            "hum."
+        ],
+        "trs": "\u201cAn Atruurian sees a grok (cactus).\u201d",
+        "wlength": 3
+    },
+    {
+        "ID": "levshina-826618",
+        "categories": [
+            "caus"
+        ],
+        "clength": 22,
+        "filename": "220/chapters/levshina.tex",
+        "imt": "Atruurian   plant   \\textsc{caus}{}-grow",
+        "imtwordsbare": [
+            "Atruurian",
+            "plant",
+            "CAUS{}-grow"
+        ],
+        "imtwordshtml": [
+            "Atruurian",
+            "plant",
+            "<span class=\"sc\">caus</span>{}-grow"
+        ],
+        "imtwordstex": [
+            "Atruurian",
+            "plant",
+            "\\textsc{caus}{}-grow"
+        ],
+        "language": "220/chapters/levshina.tex",
+        "src": "Sia    grok  te-babum.",
+        "srcwordsbare": [
+            "Sia",
+            "grok",
+            "te-babum."
+        ],
+        "srcwordshtml": [
+            "Sia",
+            "grok",
+            "te-babum."
+        ],
+        "srcwordstex": [
+            "Sia",
+            "grok",
+            "te-babum."
+        ],
+        "trs": "\u201cThe Atruurian caused the plant to grow (by flashing with yellow light from above).\u201d",
+        "wlength": 3
+    },
+    {
+        "ID": "levshina-318931",
+        "categories": [
+            "caus"
+        ],
+        "clength": 24,
+        "filename": "220/chapters/levshina.tex",
+        "imt": "Atruurian   plant   \\textsc{caus}{}-grow",
+        "imtwordsbare": [
+            "Atruurian",
+            "plant",
+            "CAUS{}-grow"
+        ],
+        "imtwordshtml": [
+            "Atruurian",
+            "plant",
+            "<span class=\"sc\">caus</span>{}-grow"
+        ],
+        "imtwordstex": [
+            "Atruurian",
+            "plant",
+            "\\textsc{caus}{}-grow"
+        ],
+        "language": "220/chapters/levshina.tex",
+        "src": "Sia    grok  tere-babum.",
+        "srcwordsbare": [
+            "Sia",
+            "grok",
+            "tere-babum."
+        ],
+        "srcwordshtml": [
+            "Sia",
+            "grok",
+            "tere-babum."
+        ],
+        "srcwordstex": [
+            "Sia",
+            "grok",
+            "tere-babum."
+        ],
+        "trs": "\u201cThe Atruurian caused the plant to grow (by flashing with yellow light from above).\u201d",
+        "wlength": 3
+    }
+]

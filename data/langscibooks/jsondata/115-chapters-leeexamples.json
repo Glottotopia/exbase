@@ -1,0 +1,607 @@
+[
+    {
+        "ID": "lee-693006",
+        "categories": [
+            "asp",
+            "q"
+        ],
+        "clength": 33,
+        "filename": "115/chapters/lee.tex",
+        "imt": "Zhangsan see     Lisi \\textsc{asp}   \\textsc{q}",
+        "imtwordsbare": [
+            "Zhangsan",
+            "see",
+            "Lisi",
+            "ASP",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "Zhangsan",
+            "see",
+            "Lisi",
+            "<span class=\"sc\">asp</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "Zhangsan",
+            "see",
+            "Lisi",
+            "\\textsc{asp}",
+            "\\textsc{q}"
+        ],
+        "language": "115/chapters/lee.tex",
+        "src": "Zhangsan kanjian  Lisi le     ma?",
+        "srcwordsbare": [
+            "Zhangsan",
+            "kanjian",
+            "Lisi",
+            "le",
+            "ma?"
+        ],
+        "srcwordshtml": [
+            "Zhangsan",
+            "kanjian",
+            "Lisi",
+            "le",
+            "ma?"
+        ],
+        "srcwordstex": [
+            "Zhangsan",
+            "kanjian",
+            "Lisi",
+            "le",
+            "ma?"
+        ],
+        "trs": "Did Zhangsan see Lisi?",
+        "wlength": 5
+    },
+    {
+        "ID": "lee-522995",
+        "categories": [
+            "asp"
+        ],
+        "clength": 22,
+        "filename": "115/chapters/lee.tex",
+        "imt": "he see          [Lisi/him] \\textsc{asp}",
+        "imtwordsbare": [
+            "he",
+            "see",
+            "[Lisi/him]",
+            "ASP"
+        ],
+        "imtwordshtml": [
+            "he",
+            "see",
+            "[Lisi/him]",
+            "<span class=\"sc\">asp</span>"
+        ],
+        "imtwordstex": [
+            "he",
+            "see",
+            "[Lisi/him]",
+            "\\textsc{asp}"
+        ],
+        "language": "115/chapters/lee.tex",
+        "src": "Ta kanjian     e   le.",
+        "srcwordsbare": [
+            "Ta",
+            "kanjian",
+            "e",
+            "le."
+        ],
+        "srcwordshtml": [
+            "Ta",
+            "kanjian",
+            "e",
+            "le."
+        ],
+        "srcwordstex": [
+            "Ta",
+            "kanjian",
+            "e",
+            "le."
+        ],
+        "trs": "He saw (him).\u2019    (\\textsc{asp} = \\isi{aspect} marker; \\textit{e} = empty category; \\textsc{q} = question particle)",
+        "wlength": 4
+    },
+    {
+        "ID": "lee--81525",
+        "categories": [
+            "cl"
+        ],
+        "clength": 46,
+        "filename": "115/chapters/lee.tex",
+        "imt": "Zhang  want   one \\textsc{cl}  car     Mali   also   want",
+        "imtwordsbare": [
+            "Zhang",
+            "want",
+            "one",
+            "CL",
+            "car",
+            "Mali",
+            "also",
+            "want"
+        ],
+        "imtwordshtml": [
+            "Zhang",
+            "want",
+            "one",
+            "<span class=\"sc\">cl</span>",
+            "car",
+            "Mali",
+            "also",
+            "want"
+        ],
+        "imtwordstex": [
+            "Zhang",
+            "want",
+            "one",
+            "\\textsc{cl}",
+            "car",
+            "Mali",
+            "also",
+            "want"
+        ],
+        "language": "115/chapters/lee.tex",
+        "modality": "volitive",
+        "src": "Zhang  yao   yi  bu   che     Mali   ye   yao.",
+        "srcwordsbare": [
+            "Zhang",
+            "yao",
+            "yi",
+            "bu",
+            "che",
+            "Mali",
+            "ye",
+            "yao."
+        ],
+        "srcwordshtml": [
+            "Zhang",
+            "yao",
+            "yi",
+            "bu",
+            "che",
+            "Mali",
+            "ye",
+            "yao."
+        ],
+        "srcwordstex": [
+            "Zhang",
+            "yao",
+            "yi",
+            "bu",
+            "che",
+            "Mali",
+            "ye",
+            "yao."
+        ],
+        "trs": "Zhang wants a car.  Mary also wants one.'  (\\textsc{cl} = Classifier)",
+        "wlength": 8
+    },
+    {
+        "ID": "lee-876002",
+        "categories": [
+            "asp",
+            "cl"
+        ],
+        "clength": 55,
+        "filename": "115/chapters/lee.tex",
+        "imt": "Zhang   see       this \\textsc{cl}  bear \\textsc{asp}   Mali   also   see  \t",
+        "imtwordsbare": [
+            "Zhang",
+            "see",
+            "this",
+            "CL",
+            "bear",
+            "ASP",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "imtwordshtml": [
+            "Zhang",
+            "see",
+            "this",
+            "<span class=\"sc\">cl</span>",
+            "bear",
+            "<span class=\"sc\">asp</span>",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "imtwordstex": [
+            "Zhang",
+            "see",
+            "this",
+            "\\textsc{cl}",
+            "bear",
+            "\\textsc{asp}",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "language": "115/chapters/lee.tex",
+        "src": "Zhang  kanjian  zhe zhi xiong le   Mali   ye   kanjian.",
+        "srcwordsbare": [
+            "Zhang",
+            "kanjian",
+            "zhe",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "srcwordshtml": [
+            "Zhang",
+            "kanjian",
+            "zhe",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "srcwordstex": [
+            "Zhang",
+            "kanjian",
+            "zhe",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "trs": "Zhang   saw this bear.  Mary also saw it.' (The context is that they are looking at the same bear.)",
+        "wlength": 9
+    },
+    {
+        "ID": "lee-459109",
+        "categories": [
+            "asp",
+            "cl"
+        ],
+        "clength": 57,
+        "filename": "115/chapters/lee.tex",
+        "imt": "Zhang  see      one \\textsc{cl}   bear \\textsc{asp}   Mali   also   see  \t",
+        "imtwordsbare": [
+            "Zhang",
+            "see",
+            "one",
+            "CL",
+            "bear",
+            "ASP",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "imtwordshtml": [
+            "Zhang",
+            "see",
+            "one",
+            "<span class=\"sc\">cl</span>",
+            "bear",
+            "<span class=\"sc\">asp</span>",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "imtwordstex": [
+            "Zhang",
+            "see",
+            "one",
+            "\\textsc{cl}",
+            "bear",
+            "\\textsc{asp}",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "language": "115/chapters/lee.tex",
+        "src": "Zhang  kanjian   yi zhi   xiong le   Mali   ye   kanjian.",
+        "srcwordsbare": [
+            "Zhang",
+            "kanjian",
+            "yi",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "srcwordshtml": [
+            "Zhang",
+            "kanjian",
+            "yi",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "srcwordstex": [
+            "Zhang",
+            "kanjian",
+            "yi",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "trs": "Zhang saw a bear.  Mary also saw it.'   (the same bear)",
+        "wlength": 9
+    },
+    {
+        "ID": "lee-894760",
+        "categories": [
+            "asp",
+            "cl"
+        ],
+        "clength": 55,
+        "filename": "115/chapters/lee.tex",
+        "imt": "Zhang  see    one \\textsc{cl} bear \\textsc{asp}     Mali   also   see",
+        "imtwordsbare": [
+            "Zhang",
+            "see",
+            "one",
+            "CL",
+            "bear",
+            "ASP",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "imtwordshtml": [
+            "Zhang",
+            "see",
+            "one",
+            "<span class=\"sc\">cl</span>",
+            "bear",
+            "<span class=\"sc\">asp</span>",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "imtwordstex": [
+            "Zhang",
+            "see",
+            "one",
+            "\\textsc{cl}",
+            "bear",
+            "\\textsc{asp}",
+            "Mali",
+            "also",
+            "see"
+        ],
+        "language": "115/chapters/lee.tex",
+        "src": "Zhang  kanjian yi zhi xiong le     Mali   ye   kanjian.",
+        "srcwordsbare": [
+            "Zhang",
+            "kanjian",
+            "yi",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "srcwordshtml": [
+            "Zhang",
+            "kanjian",
+            "yi",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "srcwordstex": [
+            "Zhang",
+            "kanjian",
+            "yi",
+            "zhi",
+            "xiong",
+            "le",
+            "Mali",
+            "ye",
+            "kanjian."
+        ],
+        "trs": "Zhang saw a bear.  Mary also saw one.' (meaning \u2018Mary saw a bear\u2019. It can be a different bear.)",
+        "wlength": 9
+    },
+    {
+        "ID": "lee--59270",
+        "categories": [],
+        "clength": 41,
+        "filename": "115/chapters/lee.tex",
+        "imt": "Zhang  like    bear   Mali   also   like",
+        "imtwordsbare": [
+            "Zhang",
+            "like",
+            "bear",
+            "Mali",
+            "also",
+            "like"
+        ],
+        "imtwordshtml": [
+            "Zhang",
+            "like",
+            "bear",
+            "Mali",
+            "also",
+            "like"
+        ],
+        "imtwordstex": [
+            "Zhang",
+            "like",
+            "bear",
+            "Mali",
+            "also",
+            "like"
+        ],
+        "language": "115/chapters/lee.tex",
+        "src": "Zhang  xihuan xiong   Mali   ye   xihuan.",
+        "srcwordsbare": [
+            "Zhang",
+            "xihuan",
+            "xiong",
+            "Mali",
+            "ye",
+            "xihuan."
+        ],
+        "srcwordshtml": [
+            "Zhang",
+            "xihuan",
+            "xiong",
+            "Mali",
+            "ye",
+            "xihuan."
+        ],
+        "srcwordstex": [
+            "Zhang",
+            "xihuan",
+            "xiong",
+            "Mali",
+            "ye",
+            "xihuan."
+        ],
+        "trs": "Zhang likes bears.  Mary also likes them.",
+        "wlength": 6
+    },
+    {
+        "ID": "lee-282517",
+        "categories": [
+            "cl"
+        ],
+        "clength": 44,
+        "filename": "115/chapters/lee.tex",
+        "imt": "Zhang  want   one \\textsc{cl}  car   Mali   also   want  \t",
+        "imtwordsbare": [
+            "Zhang",
+            "want",
+            "one",
+            "CL",
+            "car",
+            "Mali",
+            "also",
+            "want"
+        ],
+        "imtwordshtml": [
+            "Zhang",
+            "want",
+            "one",
+            "<span class=\"sc\">cl</span>",
+            "car",
+            "Mali",
+            "also",
+            "want"
+        ],
+        "imtwordstex": [
+            "Zhang",
+            "want",
+            "one",
+            "\\textsc{cl}",
+            "car",
+            "Mali",
+            "also",
+            "want"
+        ],
+        "language": "115/chapters/lee.tex",
+        "modality": "volitive",
+        "src": "Zhang  yao   yi  bu   che   Mali   ye   yao.",
+        "srcwordsbare": [
+            "Zhang",
+            "yao",
+            "yi",
+            "bu",
+            "che",
+            "Mali",
+            "ye",
+            "yao."
+        ],
+        "srcwordshtml": [
+            "Zhang",
+            "yao",
+            "yi",
+            "bu",
+            "che",
+            "Mali",
+            "ye",
+            "yao."
+        ],
+        "srcwordstex": [
+            "Zhang",
+            "yao",
+            "yi",
+            "bu",
+            "che",
+            "Mali",
+            "ye",
+            "yao."
+        ],
+        "trs": "Zhang wants a car.  Mary also wants one.",
+        "wlength": 8
+    },
+    {
+        "ID": "lee--65461",
+        "categories": [],
+        "clength": 38,
+        "filename": "115/chapters/lee.tex",
+        "imt": "fruit,   I   most   like   banana",
+        "imtwordsbare": [
+            "fruit,",
+            "I",
+            "most",
+            "like",
+            "banana"
+        ],
+        "imtwordshtml": [
+            "fruit,",
+            "I",
+            "most",
+            "like",
+            "banana"
+        ],
+        "imtwordstex": [
+            "fruit,",
+            "I",
+            "most",
+            "like",
+            "banana"
+        ],
+        "language": "115/chapters/lee.tex",
+        "src": "shuiguo  wo   zui   xihuan   xiangjiao",
+        "srcwordsbare": [
+            "shuiguo",
+            "wo",
+            "zui",
+            "xihuan",
+            "xiangjiao"
+        ],
+        "srcwordshtml": [
+            "shuiguo",
+            "wo",
+            "zui",
+            "xihuan",
+            "xiangjiao"
+        ],
+        "srcwordstex": [
+            "shuiguo",
+            "wo",
+            "zui",
+            "xihuan",
+            "xiangjiao"
+        ],
+        "trs": "(As for) fruits, I like bananas most.",
+        "wlength": 5
+    }
+]

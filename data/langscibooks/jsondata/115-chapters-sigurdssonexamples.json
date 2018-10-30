@@ -1,0 +1,324 @@
+[
+    {
+        "ID": "sigurdsson--69602",
+        "categories": [],
+        "clength": 110,
+        "filename": "115/chapters/sigurdsson.tex",
+        "imt": "only  president.the  believes  that  all  country  love  self/him",
+        "imtwordsbare": [
+            "only",
+            "president.the",
+            "believes",
+            "that",
+            "all",
+            "country",
+            "love",
+            "self/him"
+        ],
+        "imtwordshtml": [
+            "only",
+            "president.the",
+            "believes",
+            "that",
+            "all",
+            "country",
+            "love",
+            "self/him"
+        ],
+        "imtwordstex": [
+            "only",
+            "president.the",
+            "believes",
+            "that",
+            "all",
+            "country",
+            "love",
+            "self/him"
+        ],
+        "language": "115/chapters/sigurdsson.tex",
+        "src": "A\u00f0eins  forsetinn\\textsubscript{i}  heldur  a\u00f0  \u00f6ll  \u00fej\u00f3\u00f0in  elski sig\\textsubscript{i}/hann\\textsubscript{i}.",
+        "srcwordsbare": [
+            "A\u00f0eins",
+            "forsetinni",
+            "heldur",
+            "a\u00f0",
+            "\u00f6ll",
+            "\u00fej\u00f3\u00f0in",
+            "elski",
+            "sigi/hanni."
+        ],
+        "srcwordshtml": [
+            "A\u00f0eins",
+            "forsetinn<span class=\"subscript\">i</span>",
+            "heldur",
+            "a\u00f0",
+            "\u00f6ll",
+            "\u00fej\u00f3\u00f0in",
+            "elski",
+            "sig<span class=\"subscript\">i</span>/hann<span class=\"subscript\">i</span>."
+        ],
+        "srcwordstex": [
+            "A\u00f0eins",
+            "forsetinn\\textsubscript{i}",
+            "heldur",
+            "a\u00f0",
+            "\u00f6ll",
+            "\u00fej\u00f3\u00f0in",
+            "elski",
+            "sig\\textsubscript{i}/hann\\textsubscript{i}."
+        ],
+        "trs": "Only the president believes that all the people love him.",
+        "wlength": 8
+    },
+    {
+        "ID": "sigurdsson-655533",
+        "categories": [
+            "ind"
+        ],
+        "clength": 41,
+        "filename": "115/chapters/sigurdsson.tex",
+        "imt": "I  knew  that  Mary  came.\\textsc{ind}  home",
+        "imtwordsbare": [
+            "I",
+            "knew",
+            "that",
+            "Mary",
+            "came.IND",
+            "home"
+        ],
+        "imtwordshtml": [
+            "I",
+            "knew",
+            "that",
+            "Mary",
+            "came.<span class=\"sc\">ind</span>",
+            "home"
+        ],
+        "imtwordstex": [
+            "I",
+            "knew",
+            "that",
+            "Mary",
+            "came.\\textsc{ind}",
+            "home"
+        ],
+        "language": "115/chapters/sigurdsson.tex",
+        "src": "\u00c9g  vissi  a\u00f0  Mar\u00eda  \\textbf{kom}  heim.",
+        "srcwordsbare": [
+            "\u00c9g",
+            "vissi",
+            "a\u00f0",
+            "Mar\u00eda",
+            "kom",
+            "heim."
+        ],
+        "srcwordshtml": [
+            "\u00c9g",
+            "vissi",
+            "a\u00f0",
+            "Mar\u00eda",
+            "<span class=\"bf\">kom</span>",
+            "heim."
+        ],
+        "srcwordstex": [
+            "\u00c9g",
+            "vissi",
+            "a\u00f0",
+            "Mar\u00eda",
+            "\\textbf{kom}",
+            "heim."
+        ],
+        "trs": "I knew that Mary came home.",
+        "wlength": 6
+    },
+    {
+        "ID": "sigurdsson-638254",
+        "categories": [
+            "subj"
+        ],
+        "clength": 42,
+        "filename": "115/chapters/sigurdsson.tex",
+        "imt": "I  knew  that  Mary  came.\\textsc{subj}  home",
+        "imtwordsbare": [
+            "I",
+            "knew",
+            "that",
+            "Mary",
+            "came.SUBJ",
+            "home"
+        ],
+        "imtwordshtml": [
+            "I",
+            "knew",
+            "that",
+            "Mary",
+            "came.<span class=\"sc\">subj</span>",
+            "home"
+        ],
+        "imtwordstex": [
+            "I",
+            "knew",
+            "that",
+            "Mary",
+            "came.\\textsc{subj}",
+            "home"
+        ],
+        "language": "115/chapters/sigurdsson.tex",
+        "src": "\u00c9g  vissi  a\u00f0  Mar\u00eda  \\textbf{k\u00e6mi}  heim.",
+        "srcwordsbare": [
+            "\u00c9g",
+            "vissi",
+            "a\u00f0",
+            "Mar\u00eda",
+            "k\u00e6mi",
+            "heim."
+        ],
+        "srcwordshtml": [
+            "\u00c9g",
+            "vissi",
+            "a\u00f0",
+            "Mar\u00eda",
+            "<span class=\"bf\">k\u00e6mi</span>",
+            "heim."
+        ],
+        "srcwordstex": [
+            "\u00c9g",
+            "vissi",
+            "a\u00f0",
+            "Mar\u00eda",
+            "\\textbf{k\u00e6mi}",
+            "heim."
+        ],
+        "trs": "I knew that Mary would come home.",
+        "wlength": 6
+    },
+    {
+        "ID": "sigurdsson--83976",
+        "categories": [
+            "subj"
+        ],
+        "clength": 47,
+        "filename": "115/chapters/sigurdsson.tex",
+        "imt": "Anna  tought  that  I  saw.\\textsc{subj}  SIG",
+        "imtwordsbare": [
+            "Anna",
+            "tought",
+            "that",
+            "I",
+            "saw.SUBJ",
+            "SIG"
+        ],
+        "imtwordshtml": [
+            "Anna",
+            "tought",
+            "that",
+            "I",
+            "saw.<span class=\"sc\">subj</span>",
+            "SIG"
+        ],
+        "imtwordstex": [
+            "Anna",
+            "tought",
+            "that",
+            "I",
+            "saw.\\textsc{subj}",
+            "SIG"
+        ],
+        "language": "115/chapters/sigurdsson.tex",
+        "src": "Anna  h\u00e9lt  a\u00f0  \u00e9g  \\textbf{s\u00e6i}  \\textbf{sig}.",
+        "srcwordsbare": [
+            "Anna",
+            "h\u00e9lt",
+            "a\u00f0",
+            "\u00e9g",
+            "s\u00e6i",
+            "sig."
+        ],
+        "srcwordshtml": [
+            "Anna",
+            "h\u00e9lt",
+            "a\u00f0",
+            "\u00e9g",
+            "<span class=\"bf\">s\u00e6i</span>",
+            "<span class=\"bf\">sig</span>."
+        ],
+        "srcwordstex": [
+            "Anna",
+            "h\u00e9lt",
+            "a\u00f0",
+            "\u00e9g",
+            "\\textbf{s\u00e6i}",
+            "\\textbf{sig}."
+        ],
+        "trs": "Anna thought/believed that I saw her.",
+        "wlength": 6
+    },
+    {
+        "ID": "sigurdsson--30534",
+        "categories": [
+            "ind"
+        ],
+        "clength": 53,
+        "filename": "115/chapters/sigurdsson.tex",
+        "imt": "Anna  knows  not  that  I  saw.\\textsc{ind}  her.",
+        "imtwordsbare": [
+            "Anna",
+            "knows",
+            "not",
+            "that",
+            "I",
+            "saw.IND",
+            "her."
+        ],
+        "imtwordshtml": [
+            "Anna",
+            "knows",
+            "not",
+            "that",
+            "I",
+            "saw.<span class=\"sc\">ind</span>",
+            "her."
+        ],
+        "imtwordstex": [
+            "Anna",
+            "knows",
+            "not",
+            "that",
+            "I",
+            "saw.\\textsc{ind}",
+            "her."
+        ],
+        "language": "115/chapters/sigurdsson.tex",
+        "polarity": "negative",
+        "src": "Anna  veit  ekki  a\u00f0  \u00e9g  \\textbf{s\u00e1}  \\textbf{hana}.",
+        "srcwordsbare": [
+            "Anna",
+            "veit",
+            "ekki",
+            "a\u00f0",
+            "\u00e9g",
+            "s\u00e1",
+            "hana."
+        ],
+        "srcwordshtml": [
+            "Anna",
+            "veit",
+            "ekki",
+            "a\u00f0",
+            "\u00e9g",
+            "<span class=\"bf\">s\u00e1</span>",
+            "<span class=\"bf\">hana</span>."
+        ],
+        "srcwordstex": [
+            "Anna",
+            "veit",
+            "ekki",
+            "a\u00f0",
+            "\u00e9g",
+            "\\textbf{s\u00e1}",
+            "\\textbf{hana}."
+        ],
+        "trs": "Anna does not know that I saw her.",
+        "wlength": 7
+    }
+]

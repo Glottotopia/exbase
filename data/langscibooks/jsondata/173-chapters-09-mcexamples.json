@@ -1,0 +1,2321 @@
+[
+    {
+        "ID": "09-mc--23471",
+        "categories": [
+            "acc",
+            "j",
+            "m",
+            "pst",
+            "sg"
+        ],
+        "clength": 36,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "Matthew-3\\textsc{sg.m} \\textsc{acc} money \\textsc{acc} 1\\textsc{sg} give-\\textsc{j}-\\textsc{pst}",
+        "imtwordsbare": [
+            "Matthew-3sg.m",
+            "ACC",
+            "money",
+            "ACC",
+            "1SG",
+            "give-J-PST"
+        ],
+        "imtwordshtml": [
+            "Matthew-3<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">acc</span>",
+            "money",
+            "<span class=\"sc\">acc</span>",
+            "1<span class=\"sc\">sg</span>",
+            "give-<span class=\"sc\">j</span>-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "Matthew-3\\textsc{sg.m}",
+            "\\textsc{acc}",
+            "money",
+            "\\textsc{acc}",
+            "1\\textsc{sg}",
+            "give-\\textsc{j}-\\textsc{pst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "m\u00e0t\u00ecaci-\\`{m} \u00e0 \u01c0\u2019\u00e1\u00f2 \u00e0 t\u00ed x\u00e0r\u00f3-n\u00e1-t\u00e0",
+        "srcwordsbare": [
+            "m\u00e0t\u00ecaci-\\`{m}",
+            "\u00e0",
+            "\u01c0\u2019\u00e1\u00f2",
+            "\u00e0",
+            "t\u00ed",
+            "x\u00e0r\u00f3-n\u00e1-t\u00e0"
+        ],
+        "srcwordshtml": [
+            "m\u00e0t\u00ecaci-\\`{m}",
+            "\u00e0",
+            "\u01c0\u2019\u00e1\u00f2",
+            "\u00e0",
+            "t\u00ed",
+            "x\u00e0r\u00f3-n\u00e1-t\u00e0"
+        ],
+        "srcwordstex": [
+            "m\u00e0t\u00ecaci-\\`{m}",
+            "\u00e0",
+            "\u01c0\u2019\u00e1\u00f2",
+            "\u00e0",
+            "t\u00ed",
+            "x\u00e0r\u00f3-n\u00e1-t\u00e0"
+        ],
+        "trs": "I gave money to Matthew.",
+        "wlength": 6
+    },
+    {
+        "ID": "09-mc--58823",
+        "categories": [
+            "decl",
+            "f",
+            "m",
+            "obl",
+            "pst",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "man-3\\textsc{sg.m} \\textsc{decl} woman-3\\textsc{sg.f}-\\textsc{obl} bread-3\\textsc{sg.m}-\\textsc{obl} \\textsc{pst} give",
+        "imtwordsbare": [
+            "man-3sg.m",
+            "DECL",
+            "woman-3sg.f-OBL",
+            "bread-3sg.m-OBL",
+            "PST",
+            "give"
+        ],
+        "imtwordshtml": [
+            "man-3<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">decl</span>",
+            "woman-3<span class=\"sc\">sg.f</span>-<span class=\"sc\">obl</span>",
+            "bread-3<span class=\"sc\">sg.m</span>-<span class=\"sc\">obl</span>",
+            "<span class=\"sc\">pst</span>",
+            "give"
+        ],
+        "imtwordstex": [
+            "man-3\\textsc{sg.m}",
+            "\\textsc{decl}",
+            "woman-3\\textsc{sg.f}-\\textsc{obl}",
+            "bread-3\\textsc{sg.m}-\\textsc{obl}",
+            "\\textsc{pst}",
+            "give"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u0294\u00e1o-p ke tar\u00e1-s-\u00e0 p\u00e9r\u00e9-p-a k\u00e8 m\u00e0a",
+        "srcwordsbare": [
+            "\u0294\u00e1o-p",
+            "ke",
+            "tar\u00e1-s-\u00e0",
+            "p\u00e9r\u00e9-p-a",
+            "k\u00e8",
+            "m\u00e0a"
+        ],
+        "srcwordshtml": [
+            "\u0294\u00e1o-p",
+            "ke",
+            "tar\u00e1-s-\u00e0",
+            "p\u00e9r\u00e9-p-a",
+            "k\u00e8",
+            "m\u00e0a"
+        ],
+        "srcwordstex": [
+            "\u0294\u00e1o-p",
+            "ke",
+            "tar\u00e1-s-\u00e0",
+            "p\u00e9r\u00e9-p-a",
+            "k\u00e8",
+            "m\u00e0a"
+        ],
+        "trs": "The man gave the woman bread.",
+        "wlength": 6
+    },
+    {
+        "ID": "09-mc-231721",
+        "categories": [
+            "acc",
+            "appl",
+            "sg"
+        ],
+        "clength": 19,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "1\\textsc{sg} \\textsc{acc} milk bring-\\textsc{appl}",
+        "imtwordsbare": [
+            "1SG",
+            "ACC",
+            "milk",
+            "bring-APPL"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">acc</span>",
+            "milk",
+            "bring-<span class=\"sc\">appl</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "\\textsc{acc}",
+            "milk",
+            "bring-\\textsc{appl}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "taa \u0294a pii tyana-ma",
+        "srcwordsbare": [
+            "taa",
+            "\u0294a",
+            "pii",
+            "tyana-ma"
+        ],
+        "srcwordshtml": [
+            "taa",
+            "\u0294a",
+            "pii",
+            "tyana-ma"
+        ],
+        "srcwordstex": [
+            "taa",
+            "\u0294a",
+            "pii",
+            "tyana-ma"
+        ],
+        "trs": "Bring me some milk.",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc--45681",
+        "categories": [
+            "acc",
+            "appl",
+            "c",
+            "j",
+            "pass",
+            "pl",
+            "pst"
+        ],
+        "clength": 33,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "1\\textsc{pl.c} \\textsc{acc} \\textsc{pst} meat cook-\\textsc{j}-\\textsc{appl}-\\textsc{pass}-\\textsc{pst}",
+        "imtwordsbare": [
+            "1pl.c",
+            "ACC",
+            "PST",
+            "meat",
+            "cook-J-APPL-PASS-PST"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">pl.c</span>",
+            "<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">pst</span>",
+            "meat",
+            "cook-<span class=\"sc\">j</span>-<span class=\"sc\">appl</span>-<span class=\"sc\">pass</span>-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{pl.c}",
+            "\\textsc{acc}",
+            "\\textsc{pst}",
+            "meat",
+            "cook-\\textsc{j}-\\textsc{appl}-\\textsc{pass}-\\textsc{pst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "tse: \u0294a aka k\u2019ohu ng\u01c0o:-a-ma-e-ha",
+        "srcwordsbare": [
+            "tse:",
+            "\u0294a",
+            "aka",
+            "k\u2019ohu",
+            "ng\u01c0o:-a-ma-e-ha"
+        ],
+        "srcwordshtml": [
+            "tse:",
+            "\u0294a",
+            "aka",
+            "k\u2019ohu",
+            "ng\u01c0o:-a-ma-e-ha"
+        ],
+        "srcwordstex": [
+            "tse:",
+            "\u0294a",
+            "aka",
+            "k\u2019ohu",
+            "ng\u01c0o:-a-ma-e-ha"
+        ],
+        "trs": "The meat was cooked for us.",
+        "wlength": 5
+    },
+    {
+        "ID": "09-mc-101257",
+        "categories": [
+            "cop",
+            "f",
+            "pl"
+        ],
+        "clength": 26,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "animal water-animal-3\\textsc{pl.f} \\textsc{cop}",
+        "imtwordsbare": [
+            "animal",
+            "water-animal-3pl.f",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "animal",
+            "water-animal-3<span class=\"sc\">pl.f</span>",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "animal",
+            "water-animal-3\\textsc{pl.f}",
+            "\\textsc{cop}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "kx\u2019oxu tshaa-kx\u2019oxu-dzi \u0294a",
+        "srcwordsbare": [
+            "kx\u2019oxu",
+            "tshaa-kx\u2019oxu-dzi",
+            "\u0294a"
+        ],
+        "srcwordshtml": [
+            "kx\u2019oxu",
+            "tshaa-kx\u2019oxu-dzi",
+            "\u0294a"
+        ],
+        "srcwordstex": [
+            "kx\u2019oxu",
+            "tshaa-kx\u2019oxu-dzi",
+            "\u0294a"
+        ],
+        "trs": "Water animals are edible [are meat].",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc--60572",
+        "categories": [
+            "cop",
+            "decl",
+            "m",
+            "sg"
+        ],
+        "clength": 16,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "2-2\\textsc{sg.m} \\textsc{decl} \\textsc{cop} big",
+        "imtwordsbare": [
+            "2-2sg.m",
+            "DECL",
+            "COP",
+            "big"
+        ],
+        "imtwordshtml": [
+            "2-2<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">decl</span>",
+            "<span class=\"sc\">cop</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "2-2\\textsc{sg.m}",
+            "\\textsc{decl}",
+            "\\textsc{cop}",
+            "big"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "sa\u00e1-ts ke \u0294a k\u00e1\u00ed",
+        "srcwordsbare": [
+            "sa\u00e1-ts",
+            "ke",
+            "\u0294a",
+            "k\u00e1\u00ed"
+        ],
+        "srcwordshtml": [
+            "sa\u00e1-ts",
+            "ke",
+            "\u0294a",
+            "k\u00e1\u00ed"
+        ],
+        "srcwordstex": [
+            "sa\u00e1-ts",
+            "ke",
+            "\u0294a",
+            "k\u00e1\u00ed"
+        ],
+        "trs": "You are big.",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc--82676",
+        "categories": [
+            "cop",
+            "decl",
+            "m",
+            "sg"
+        ],
+        "clength": 18,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "2-2\\textsc{sg.m} \\textsc{decl} big-2\\textsc{sg.m}-\\textsc{cop}",
+        "imtwordsbare": [
+            "2-2sg.m",
+            "DECL",
+            "big-2sg.m-COP"
+        ],
+        "imtwordshtml": [
+            "2-2<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">decl</span>",
+            "big-2<span class=\"sc\">sg.m</span>-<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "2-2\\textsc{sg.m}",
+            "\\textsc{decl}",
+            "big-2\\textsc{sg.m}-\\textsc{cop}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "sa\u00e1-ts ke k\u00e1\u00ed-ts-a",
+        "srcwordsbare": [
+            "sa\u00e1-ts",
+            "ke",
+            "k\u00e1\u00ed-ts-a"
+        ],
+        "srcwordshtml": [
+            "sa\u00e1-ts",
+            "ke",
+            "k\u00e1\u00ed-ts-a"
+        ],
+        "srcwordstex": [
+            "sa\u00e1-ts",
+            "ke",
+            "k\u00e1\u00ed-ts-a"
+        ],
+        "trs": "You are the big one.",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc--19124",
+        "categories": [
+            "cop",
+            "m",
+            "sg"
+        ],
+        "clength": 16,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "3\\textsc{sg.m} good \\textsc{cop} heart",
+        "imtwordsbare": [
+            "3sg.m",
+            "good",
+            "COP",
+            "heart"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg.m</span>",
+            "good",
+            "<span class=\"sc\">cop</span>",
+            "heart"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg.m}",
+            "good",
+            "\\textsc{cop}",
+            "heart"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u0294\u00e0b\u00ec !\u00e1i\u0342 ja \u01c2\u00e1\u00f3",
+        "srcwordsbare": [
+            "\u0294\u00e0b\u00ec",
+            "!\u00e1i\u0342",
+            "ja",
+            "\u01c2\u00e1\u00f3"
+        ],
+        "srcwordshtml": [
+            "\u0294\u00e0b\u00ec",
+            "!\u00e1i\u0342",
+            "ja",
+            "\u01c2\u00e1\u00f3"
+        ],
+        "srcwordstex": [
+            "\u0294\u00e0b\u00ec",
+            "!\u00e1i\u0342",
+            "ja",
+            "\u01c2\u00e1\u00f3"
+        ],
+        "trs": "He is good in the heart.\u2019 \\ie \u2018He is happy.",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc-274786",
+        "categories": [
+            "cop"
+        ],
+        "clength": 13,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "many Mbukushu \\textsc{cop}",
+        "imtwordsbare": [
+            "many",
+            "Mbukushu",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "many",
+            "Mbukushu",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "many",
+            "Mbukushu",
+            "\\textsc{cop}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "th\u00edy\u00e0 goava \u00e0",
+        "srcwordsbare": [
+            "th\u00edy\u00e0",
+            "goava",
+            "\u00e0"
+        ],
+        "srcwordshtml": [
+            "th\u00edy\u00e0",
+            "goava",
+            "\u00e0"
+        ],
+        "srcwordstex": [
+            "th\u00edy\u00e0",
+            "goava",
+            "\u00e0"
+        ],
+        "trs": "There are many Mbukushu.",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc-376894",
+        "categories": [
+            "cop",
+            "m",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "come.near 2\\textsc{sg.m} skin-be.rotten \\textsc{cop}",
+        "imtwordsbare": [
+            "come.near",
+            "2sg.m",
+            "skin-be.rotten",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "come.near",
+            "2<span class=\"sc\">sg.m</span>",
+            "skin-be.rotten",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "come.near",
+            "2\\textsc{sg.m}",
+            "skin-be.rotten",
+            "\\textsc{cop}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u01c1ha\u1e3f! te\u00e1 \u01c1e\u00ed-coava \u00e0!",
+        "srcwordsbare": [
+            "\u01c1ha\u1e3f!",
+            "te\u00e1",
+            "\u01c1e\u00ed-coava",
+            "\u00e0!"
+        ],
+        "srcwordshtml": [
+            "\u01c1ha\u1e3f!",
+            "te\u00e1",
+            "\u01c1e\u00ed-coava",
+            "\u00e0!"
+        ],
+        "srcwordstex": [
+            "\u01c1ha\u1e3f!",
+            "te\u00e1",
+            "\u01c1e\u00ed-coava",
+            "\u00e0!"
+        ],
+        "trs": "Come near! Here is your rotten skin [\\ie your food]!",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc-691534",
+        "categories": [
+            "f",
+            "ind",
+            "m",
+            "obl",
+            "pst",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "and-3\\textsc{sg.m} \\textsc{ind} boy-3\\textsc{sg.m}-\\textsc{obl} girl-3\\textsc{sg.f}-\\textsc{obl} gently \\textsc{pst} call",
+        "imtwordsbare": [
+            "and-3sg.m",
+            "IND",
+            "boy-3sg.m-OBL",
+            "girl-3sg.f-OBL",
+            "gently",
+            "PST",
+            "call"
+        ],
+        "imtwordshtml": [
+            "and-3<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">ind</span>",
+            "boy-3<span class=\"sc\">sg.m</span>-<span class=\"sc\">obl</span>",
+            "girl-3<span class=\"sc\">sg.f</span>-<span class=\"sc\">obl</span>",
+            "gently",
+            "<span class=\"sc\">pst</span>",
+            "call"
+        ],
+        "imtwordstex": [
+            "and-3\\textsc{sg.m}",
+            "\\textsc{ind}",
+            "boy-3\\textsc{sg.m}-\\textsc{obl}",
+            "girl-3\\textsc{sg.f}-\\textsc{obl}",
+            "gently",
+            "\\textsc{pst}",
+            "call"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "ts\u00ee-b ge axa-b-a \u01c0\u00f4a-s-a tsaurase go \u01c2ai",
+        "srcwordsbare": [
+            "ts\u00ee-b",
+            "ge",
+            "axa-b-a",
+            "\u01c0\u00f4a-s-a",
+            "tsaurase",
+            "go",
+            "\u01c2ai"
+        ],
+        "srcwordshtml": [
+            "ts\u00ee-b",
+            "ge",
+            "axa-b-a",
+            "\u01c0\u00f4a-s-a",
+            "tsaurase",
+            "go",
+            "\u01c2ai"
+        ],
+        "srcwordstex": [
+            "ts\u00ee-b",
+            "ge",
+            "axa-b-a",
+            "\u01c0\u00f4a-s-a",
+            "tsaurase",
+            "go",
+            "\u01c2ai"
+        ],
+        "trs": "And then he, the boy, gently called the girl.",
+        "wlength": 7
+    },
+    {
+        "ID": "09-mc-504759",
+        "categories": [
+            "foc",
+            "j",
+            "pst"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "eagle \\textsc{foc} fly-\\textsc{j}-\\textsc{pst}",
+        "imtwordsbare": [
+            "eagle",
+            "FOC",
+            "fly-J-PST"
+        ],
+        "imtwordshtml": [
+            "eagle",
+            "<span class=\"sc\">foc</span>",
+            "fly-<span class=\"sc\">j</span>-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "eagle",
+            "\\textsc{foc}",
+            "fly-\\textsc{j}-\\textsc{pst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "k\u00facugucugu \u00e0 \u01c1g\u00e8v\u00f9u-\u00e0-t\u00e8",
+        "srcwordsbare": [
+            "k\u00facugucugu",
+            "\u00e0",
+            "\u01c1g\u00e8v\u00f9u-\u00e0-t\u00e8"
+        ],
+        "srcwordshtml": [
+            "k\u00facugucugu",
+            "\u00e0",
+            "\u01c1g\u00e8v\u00f9u-\u00e0-t\u00e8"
+        ],
+        "srcwordstex": [
+            "k\u00facugucugu",
+            "\u00e0",
+            "\u01c1g\u00e8v\u00f9u-\u00e0-t\u00e8"
+        ],
+        "trs": "An eagle is flying.",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc-440382",
+        "categories": [
+            "f",
+            "i",
+            "loc",
+            "m",
+            "sg"
+        ],
+        "clength": 26,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "car=\\textsc{sg.f:i} village=\\textsc{sg.m:i} \\textsc{loc} be.standing",
+        "imtwordsbare": [
+            "car=sg.f:i",
+            "village=sg.m:i",
+            "LOC",
+            "be.standing"
+        ],
+        "imtwordshtml": [
+            "car=<span class=\"sc\">sg.f:i</span>",
+            "village=<span class=\"sc\">sg.m:i</span>",
+            "<span class=\"sc\">loc</span>",
+            "be.standing"
+        ],
+        "imtwordstex": [
+            "car=\\textsc{sg.f:i}",
+            "village=\\textsc{sg.m:i}",
+            "\\textsc{loc}",
+            "be.standing"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "kol\u00f3\u00ed=s\u00ed \u01c1\u0294\u00e1\u00e9=\\`{m} \u0294\u00e0 t\u00e9\u00e8",
+        "srcwordsbare": [
+            "kol\u00f3\u00ed=s\u00ed",
+            "\u01c1\u0294\u00e1\u00e9=\\`{m}",
+            "\u0294\u00e0",
+            "t\u00e9\u00e8"
+        ],
+        "srcwordshtml": [
+            "kol\u00f3\u00ed=s\u00ed",
+            "\u01c1\u0294\u00e1\u00e9=\\`{m}",
+            "\u0294\u00e0",
+            "t\u00e9\u00e8"
+        ],
+        "srcwordstex": [
+            "kol\u00f3\u00ed=s\u00ed",
+            "\u01c1\u0294\u00e1\u00e9=\\`{m}",
+            "\u0294\u00e0",
+            "t\u00e9\u00e8"
+        ],
+        "trs": "The car stands in the village.",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc-653950",
+        "categories": [
+            "atv",
+            "con",
+            "f",
+            "gen",
+            "hab",
+            "loc",
+            "m",
+            "pl",
+            "poss",
+            "sg"
+        ],
+        "clength": 70,
+        "coordination": "and",
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "then because \\textsc{loc} 2\\textsc{sg.m} water-\\textsc{gen} \\textsc{loc} lie-\\textsc{atv}-\\textsc{hab} \\textsc{con} 1\\textsc{pl.f} stay-\\textsc{atv}-\\textsc{hab} dry \\textsc{poss} sand-\\textsc{gen} \\textsc{loc}",
+        "imtwordsbare": [
+            "then",
+            "because",
+            "LOC",
+            "2sg.m",
+            "water-GEN",
+            "LOC",
+            "lie-ATV-HAB",
+            "CON",
+            "1pl.f",
+            "stay-ATV-HAB",
+            "dry",
+            "POSS",
+            "sand-GEN",
+            "LOC"
+        ],
+        "imtwordshtml": [
+            "then",
+            "because",
+            "<span class=\"sc\">loc</span>",
+            "2<span class=\"sc\">sg.m</span>",
+            "water-<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">loc</span>",
+            "lie-<span class=\"sc\">atv</span>-<span class=\"sc\">hab</span>",
+            "<span class=\"sc\">con</span>",
+            "1<span class=\"sc\">pl.f</span>",
+            "stay-<span class=\"sc\">atv</span>-<span class=\"sc\">hab</span>",
+            "dry",
+            "<span class=\"sc\">poss</span>",
+            "sand-<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">loc</span>"
+        ],
+        "imtwordstex": [
+            "then",
+            "because",
+            "\\textsc{loc}",
+            "2\\textsc{sg.m}",
+            "water-\\textsc{gen}",
+            "\\textsc{loc}",
+            "lie-\\textsc{atv}-\\textsc{hab}",
+            "\\textsc{con}",
+            "1\\textsc{pl.f}",
+            "stay-\\textsc{atv}-\\textsc{hab}",
+            "dry",
+            "\\textsc{poss}",
+            "sand-\\textsc{gen}",
+            "\\textsc{loc}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "polarity": "negative",
+        "src": "t\u00ed\u00ec k\u00f3\u00e1n\u00e1c\u00ec ki tc\u00e1 c\u00e0-\u00e1 ki \u01c1\u00f3\u00e9-\u00e8-\u01c1\u00f2\u00e8 n\u00f2 c\u00e9 t\u025b\u0301-\u025b\u0301-\u01c1\u00f2\u00e8 \u01c1x\u00f3 d\u00ec x\u00f3m\u0300-\u00e0 ki",
+        "srcwordsbare": [
+            "t\u00ed\u00ec",
+            "k\u00f3\u00e1n\u00e1c\u00ec",
+            "ki",
+            "tc\u00e1",
+            "c\u00e0-\u00e1",
+            "ki",
+            "\u01c1\u00f3\u00e9-\u00e8-\u01c1\u00f2\u00e8",
+            "n\u00f2",
+            "c\u00e9",
+            "t\u025b\u0301-\u025b\u0301-\u01c1\u00f2\u00e8",
+            "\u01c1x\u00f3",
+            "d\u00ec",
+            "x\u00f3m\u0300-\u00e0",
+            "ki"
+        ],
+        "srcwordshtml": [
+            "t\u00ed\u00ec",
+            "k\u00f3\u00e1n\u00e1c\u00ec",
+            "ki",
+            "tc\u00e1",
+            "c\u00e0-\u00e1",
+            "ki",
+            "\u01c1\u00f3\u00e9-\u00e8-\u01c1\u00f2\u00e8",
+            "n\u00f2",
+            "c\u00e9",
+            "t\u025b\u0301-\u025b\u0301-\u01c1\u00f2\u00e8",
+            "\u01c1x\u00f3",
+            "d\u00ec",
+            "x\u00f3m\u0300-\u00e0",
+            "ki"
+        ],
+        "srcwordstex": [
+            "t\u00ed\u00ec",
+            "k\u00f3\u00e1n\u00e1c\u00ec",
+            "ki",
+            "tc\u00e1",
+            "c\u00e0-\u00e1",
+            "ki",
+            "\u01c1\u00f3\u00e9-\u00e8-\u01c1\u00f2\u00e8",
+            "n\u00f2",
+            "c\u00e9",
+            "t\u025b\u0301-\u025b\u0301-\u01c1\u00f2\u00e8",
+            "\u01c1x\u00f3",
+            "d\u00ec",
+            "x\u00f3m\u0300-\u00e0",
+            "ki"
+        ],
+        "trs": "Since you are used to lying in the water, and we are used to staying in the dry sand [it is not good to come with us].",
+        "wlength": 14
+    },
+    {
+        "ID": "09-mc--58187",
+        "categories": [
+            "abl",
+            "decl",
+            "f",
+            "obl",
+            "rpst",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "dog \\textsc{decl} house-3\\textsc{sg.f}-\\textsc{obl} \\textsc{abl} \\textsc{rpst} go:away",
+        "imtwordsbare": [
+            "dog",
+            "DECL",
+            "house-3sg.f-OBL",
+            "ABL",
+            "RPST",
+            "go:away"
+        ],
+        "imtwordshtml": [
+            "dog",
+            "<span class=\"sc\">decl</span>",
+            "house-3<span class=\"sc\">sg.f</span>-<span class=\"sc\">obl</span>",
+            "<span class=\"sc\">abl</span>",
+            "<span class=\"sc\">rpst</span>",
+            "go:away"
+        ],
+        "imtwordstex": [
+            "dog",
+            "\\textsc{decl}",
+            "house-3\\textsc{sg.f}-\\textsc{obl}",
+            "\\textsc{abl}",
+            "\\textsc{rpst}",
+            "go:away"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u0294\u00e0r\u00edp ke \u0294om-s-\u00e0 xu\u00fa k\u00e8 p\u00e8\u00e9",
+        "srcwordsbare": [
+            "\u0294\u00e0r\u00edp",
+            "ke",
+            "\u0294om-s-\u00e0",
+            "xu\u00fa",
+            "k\u00e8",
+            "p\u00e8\u00e9"
+        ],
+        "srcwordshtml": [
+            "\u0294\u00e0r\u00edp",
+            "ke",
+            "\u0294om-s-\u00e0",
+            "xu\u00fa",
+            "k\u00e8",
+            "p\u00e8\u00e9"
+        ],
+        "srcwordstex": [
+            "\u0294\u00e0r\u00edp",
+            "ke",
+            "\u0294om-s-\u00e0",
+            "xu\u00fa",
+            "k\u00e8",
+            "p\u00e8\u00e9"
+        ],
+        "trs": "The dog went away from the house.",
+        "wlength": 6
+    },
+    {
+        "ID": "09-mc-152788",
+        "categories": [
+            "acc",
+            "c",
+            "dem",
+            "gen",
+            "irr",
+            "pl",
+            "sg"
+        ],
+        "clength": 44,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "1\\textsc{sg}.\\textsc{irr} 1\\textsc{sg.gen} grand:junior-with=\\textsc{pl}.\\textsc{c}.\\textsc{acc} insult \\textsc{dem}=\\textsc{pl}.\\textsc{c}.\\textsc{acc} \\textsc{acc}",
+        "imtwordsbare": [
+            "1SG.IRR",
+            "1sg.gen",
+            "grand:junior-with=PL.C.ACC",
+            "insult",
+            "DEM=PL.C.ACC",
+            "ACC"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>.<span class=\"sc\">irr</span>",
+            "1<span class=\"sc\">sg.gen</span>",
+            "grand:junior-with=<span class=\"sc\">pl</span>.<span class=\"sc\">c</span>.<span class=\"sc\">acc</span>",
+            "insult",
+            "<span class=\"sc\">dem</span>=<span class=\"sc\">pl</span>.<span class=\"sc\">c</span>.<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}.\\textsc{irr}",
+            "1\\textsc{sg.gen}",
+            "grand:junior-with=\\textsc{pl}.\\textsc{c}.\\textsc{acc}",
+            "insult",
+            "\\textsc{dem}=\\textsc{pl}.\\textsc{c}.\\textsc{acc}",
+            "\\textsc{acc}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "da ci n\u01c1oori-xa=na \u01c1\u2019ao n{\\textbar}e=na (\u0294a)",
+        "srcwordsbare": [
+            "da",
+            "ci",
+            "n\u01c1oori-xa=na",
+            "\u01c1\u2019ao",
+            "n{|}e=na",
+            "(\u0294a)"
+        ],
+        "srcwordshtml": [
+            "da",
+            "ci",
+            "n\u01c1oori-xa=na",
+            "\u01c1\u2019ao",
+            "n{|}e=na",
+            "(\u0294a)"
+        ],
+        "srcwordstex": [
+            "da",
+            "ci",
+            "n\u01c1oori-xa=na",
+            "\u01c1\u2019ao",
+            "n{\\textbar}e=na",
+            "(\u0294a)"
+        ],
+        "trs": "Let me insult my grandchildren, these ones.",
+        "wlength": 6
+    },
+    {
+        "ID": "09-mc--84038",
+        "categories": [
+            "acc",
+            "conj",
+            "dem",
+            "f",
+            "foc",
+            "gen",
+            "idtf",
+            "j",
+            "m",
+            "nom",
+            "sg"
+        ],
+        "clength": 59,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "\\textsc{dem} \\textsc{conj} child-\\textsc{foc}=\\textsc{sg}.\\textsc{f}.\\textsc{acc} \\textsc{idtf} 2\\textsc{sg}.\\textsc{m}.\\textsc{gen} woman=\\textsc{sg}.\\textsc{f}.\\textsc{nom} come strap-\\textsc{j}-sit",
+        "imtwordsbare": [
+            "DEM",
+            "CONJ",
+            "child-FOC=SG.F.ACC",
+            "IDTF",
+            "2SG.M.GEN",
+            "woman=SG.F.NOM",
+            "come",
+            "strap-J-sit"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dem</span>",
+            "<span class=\"sc\">conj</span>",
+            "child-<span class=\"sc\">foc</span>=<span class=\"sc\">sg</span>.<span class=\"sc\">f</span>.<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">idtf</span>",
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">m</span>.<span class=\"sc\">gen</span>",
+            "woman=<span class=\"sc\">sg</span>.<span class=\"sc\">f</span>.<span class=\"sc\">nom</span>",
+            "come",
+            "strap-<span class=\"sc\">j</span>-sit"
+        ],
+        "imtwordstex": [
+            "\\textsc{dem}",
+            "\\textsc{conj}",
+            "child-\\textsc{foc}=\\textsc{sg}.\\textsc{f}.\\textsc{acc}",
+            "\\textsc{idtf}",
+            "2\\textsc{sg}.\\textsc{m}.\\textsc{gen}",
+            "woman=\\textsc{sg}.\\textsc{f}.\\textsc{nom}",
+            "come",
+            "strap-\\textsc{j}-sit"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u0294a ja k{\\textbar}o\u00e3-ki=sa (\u0294a) tsa g\u01c1ae=si aaku \u0294aba-\u00f8-n\u01c2o\u1ebd",
+        "srcwordsbare": [
+            "\u0294a",
+            "ja",
+            "k{|}o\u00e3-ki=sa",
+            "(\u0294a)",
+            "tsa",
+            "g\u01c1ae=si",
+            "aaku",
+            "\u0294aba-\u00f8-n\u01c2o\u1ebd"
+        ],
+        "srcwordshtml": [
+            "\u0294a",
+            "ja",
+            "k{|}o\u00e3-ki=sa",
+            "(\u0294a)",
+            "tsa",
+            "g\u01c1ae=si",
+            "aaku",
+            "\u0294aba-\u00f8-n\u01c2o\u1ebd"
+        ],
+        "srcwordstex": [
+            "\u0294a",
+            "ja",
+            "k{\\textbar}o\u00e3-ki=sa",
+            "(\u0294a)",
+            "tsa",
+            "g\u01c1ae=si",
+            "aaku",
+            "\u0294aba-\u00f8-n\u01c2o\u1ebd"
+        ],
+        "trs": "It is the child who your wife is strapping to her back.",
+        "wlength": 8
+    },
+    {
+        "ID": "09-mc-730476",
+        "categories": [
+            "appl",
+            "comp",
+            "du",
+            "f",
+            "pass",
+            "pot",
+            "prog",
+            "prs",
+            "refl",
+            "sg"
+        ],
+        "clength": 43,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "2sg \\textsc{pot}.\\textsc{prog} see-\\textsc{appl}-\\textsc{refl} kill-\\textsc{pass} 1\\textsc{du} \\textsc{prs}.\\textsc{prog} that-3\\textsc{sg.f}-\\textsc{comp}",
+        "imtwordsbare": [
+            "2sg",
+            "POT.PROG",
+            "see-APPL-REFL",
+            "kill-PASS",
+            "1DU",
+            "PRS.PROG",
+            "that-3sg.f-COMP"
+        ],
+        "imtwordshtml": [
+            "2sg",
+            "<span class=\"sc\">pot</span>.<span class=\"sc\">prog</span>",
+            "see-<span class=\"sc\">appl</span>-<span class=\"sc\">refl</span>",
+            "kill-<span class=\"sc\">pass</span>",
+            "1<span class=\"sc\">du</span>",
+            "<span class=\"sc\">prs</span>.<span class=\"sc\">prog</span>",
+            "that-3<span class=\"sc\">sg.f</span>-<span class=\"sc\">comp</span>"
+        ],
+        "imtwordstex": [
+            "2sg",
+            "\\textsc{pot}.\\textsc{prog}",
+            "see-\\textsc{appl}-\\textsc{refl}",
+            "kill-\\textsc{pass}",
+            "1\\textsc{du}",
+            "\\textsc{prs}.\\textsc{prog}",
+            "that-3\\textsc{sg.f}-\\textsc{comp}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "ots kara m\u00fb-ba-sen \u01c3gam-he khom ra \u01c3hai-s-a",
+        "srcwordsbare": [
+            "ots",
+            "kara",
+            "m\u00fb-ba-sen",
+            "\u01c3gam-he",
+            "khom",
+            "ra",
+            "\u01c3hai-s-a"
+        ],
+        "srcwordshtml": [
+            "ots",
+            "kara",
+            "m\u00fb-ba-sen",
+            "\u01c3gam-he",
+            "khom",
+            "ra",
+            "\u01c3hai-s-a"
+        ],
+        "srcwordstex": [
+            "ots",
+            "kara",
+            "m\u00fb-ba-sen",
+            "\u01c3gam-he",
+            "khom",
+            "ra",
+            "\u01c3hai-s-a"
+        ],
+        "trs": "Then you may see for yourself that we are killed.",
+        "wlength": 7
+    },
+    {
+        "ID": "09-mc-646267",
+        "categories": [
+            "ag",
+            "cop",
+            "m",
+            "poss",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "old-\\textsc{ag}-3\\textsc{sg.m} \\textsc{poss} walking.stick \\textsc{cop}",
+        "imtwordsbare": [
+            "old-AG-3sg.m",
+            "POSS",
+            "walking.stick",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "old-<span class=\"sc\">ag</span>-3<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">poss</span>",
+            "walking.stick",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "old-\\textsc{ag}-3\\textsc{sg.m}",
+            "\\textsc{poss}",
+            "walking.stick",
+            "\\textsc{cop}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "t\u00e1-kh\u00f2-\\`{m} d\u00ec n\u01c2g\u00f3\u00e1 \u00e0",
+        "srcwordsbare": [
+            "t\u00e1-kh\u00f2-\\`{m}",
+            "d\u00ec",
+            "n\u01c2g\u00f3\u00e1",
+            "\u00e0"
+        ],
+        "srcwordshtml": [
+            "t\u00e1-kh\u00f2-\\`{m}",
+            "d\u00ec",
+            "n\u01c2g\u00f3\u00e1",
+            "\u00e0"
+        ],
+        "srcwordstex": [
+            "t\u00e1-kh\u00f2-\\`{m}",
+            "d\u00ec",
+            "n\u01c2g\u00f3\u00e1",
+            "\u00e0"
+        ],
+        "trs": "the old man\u2019s walking stick",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc-304884",
+        "categories": [
+            "acc",
+            "j",
+            "m",
+            "npst",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "Matthew-3\\textsc{sg.m} \\textsc{acc} money \\textsc{acc} 1\\textsc{sg} give-\\textsc{j}-\\textsc{npst}",
+        "imtwordsbare": [
+            "Matthew-3sg.m",
+            "ACC",
+            "money",
+            "ACC",
+            "1SG",
+            "give-J-NPST"
+        ],
+        "imtwordshtml": [
+            "Matthew-3<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">acc</span>",
+            "money",
+            "<span class=\"sc\">acc</span>",
+            "1<span class=\"sc\">sg</span>",
+            "give-<span class=\"sc\">j</span>-<span class=\"sc\">npst</span>"
+        ],
+        "imtwordstex": [
+            "Matthew-3\\textsc{sg.m}",
+            "\\textsc{acc}",
+            "money",
+            "\\textsc{acc}",
+            "1\\textsc{sg}",
+            "give-\\textsc{j}-\\textsc{npst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "m\u00e0t\u00ecaci-\\`{m} \u00e0 \u01c0\u2019\u00e1\u00f2 \u00e0 t\u00ed x\u00e0r\u00f3-\u00e1-t\u00e0",
+        "srcwordsbare": [
+            "m\u00e0t\u00ecaci-\\`{m}",
+            "\u00e0",
+            "\u01c0\u2019\u00e1\u00f2",
+            "\u00e0",
+            "t\u00ed",
+            "x\u00e0r\u00f3-\u00e1-t\u00e0"
+        ],
+        "srcwordshtml": [
+            "m\u00e0t\u00ecaci-\\`{m}",
+            "\u00e0",
+            "\u01c0\u2019\u00e1\u00f2",
+            "\u00e0",
+            "t\u00ed",
+            "x\u00e0r\u00f3-\u00e1-t\u00e0"
+        ],
+        "srcwordstex": [
+            "m\u00e0t\u00ecaci-\\`{m}",
+            "\u00e0",
+            "\u01c0\u2019\u00e1\u00f2",
+            "\u00e0",
+            "t\u00ed",
+            "x\u00e0r\u00f3-\u00e1-t\u00e0"
+        ],
+        "trs": "I gave money to Matthew.",
+        "wlength": 6
+    },
+    {
+        "ID": "09-mc--96894",
+        "categories": [
+            "acc",
+            "m",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "dog \\textsc{acc} 3\\textsc{sg.m} hit-maybe",
+        "imtwordsbare": [
+            "dog",
+            "ACC",
+            "3sg.m",
+            "hit-maybe"
+        ],
+        "imtwordshtml": [
+            "dog",
+            "<span class=\"sc\">acc</span>",
+            "3<span class=\"sc\">sg.m</span>",
+            "hit-maybe"
+        ],
+        "imtwordstex": [
+            "dog",
+            "\\textsc{acc}",
+            "3\\textsc{sg.m}",
+            "hit-maybe"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "aba: \u0294a ema \u01c1am-rekareka",
+        "srcwordsbare": [
+            "aba:",
+            "\u0294a",
+            "ema",
+            "\u01c1am-rekareka"
+        ],
+        "srcwordshtml": [
+            "aba:",
+            "\u0294a",
+            "ema",
+            "\u01c1am-rekareka"
+        ],
+        "srcwordstex": [
+            "aba:",
+            "\u0294a",
+            "ema",
+            "\u01c1am-rekareka"
+        ],
+        "trs": "Maybe he is hitting the dog.",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc--68356",
+        "categories": [
+            "acc",
+            "ipfv",
+            "neg",
+            "pst",
+            "sg"
+        ],
+        "clength": 50,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "1\\textsc{sg} \\textsc{pst} \\textsc{ipfv} truck \\textsc{acc} see 1\\textsc{sg} \\textsc{pst} donkey.cart \\textsc{acc} see-\\textsc{neg}",
+        "imtwordsbare": [
+            "1SG",
+            "PST",
+            "IPFV",
+            "truck",
+            "ACC",
+            "see",
+            "1SG",
+            "PST",
+            "donkey.cart",
+            "ACC",
+            "see-NEG"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "truck",
+            "<span class=\"sc\">acc</span>",
+            "see",
+            "1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pst</span>",
+            "donkey.cart",
+            "<span class=\"sc\">acc</span>",
+            "see-<span class=\"sc\">neg</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "\\textsc{pst}",
+            "\\textsc{ipfv}",
+            "truck",
+            "\\textsc{acc}",
+            "see",
+            "1\\textsc{sg}",
+            "\\textsc{pst}",
+            "donkey.cart",
+            "\\textsc{acc}",
+            "see-\\textsc{neg}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "polarity": "negative",
+        "src": "ta: aka ke lori \u0294a m\u0169: ta: aka sekuskara \u0294a m\u0169:-ta",
+        "srcwordsbare": [
+            "ta:",
+            "aka",
+            "ke",
+            "lori",
+            "\u0294a",
+            "m\u0169:",
+            "ta:",
+            "aka",
+            "sekuskara",
+            "\u0294a",
+            "m\u0169:-ta"
+        ],
+        "srcwordshtml": [
+            "ta:",
+            "aka",
+            "ke",
+            "lori",
+            "\u0294a",
+            "m\u0169:",
+            "ta:",
+            "aka",
+            "sekuskara",
+            "\u0294a",
+            "m\u0169:-ta"
+        ],
+        "srcwordstex": [
+            "ta:",
+            "aka",
+            "ke",
+            "lori",
+            "\u0294a",
+            "m\u0169:",
+            "ta:",
+            "aka",
+            "sekuskara",
+            "\u0294a",
+            "m\u0169:-ta"
+        ],
+        "trs": "I saw the truck, not the donkey cart.",
+        "wlength": 11
+    },
+    {
+        "ID": "09-mc--39603",
+        "categories": [
+            "acc",
+            "caus",
+            "ins",
+            "j",
+            "loc",
+            "pst"
+        ],
+        "clength": 55,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "this \\textsc{loc} rain-\\textsc{j}-\\textsc{pst} rain hail \\textsc{ins} tent \\textsc{acc} hole-\\textsc{caus}-\\textsc{j}-\\textsc{pst}",
+        "imtwordsbare": [
+            "this",
+            "LOC",
+            "rain-J-PST",
+            "rain",
+            "hail",
+            "INS",
+            "tent",
+            "ACC",
+            "hole-CAUS-J-PST"
+        ],
+        "imtwordshtml": [
+            "this",
+            "<span class=\"sc\">loc</span>",
+            "rain-<span class=\"sc\">j</span>-<span class=\"sc\">pst</span>",
+            "rain",
+            "hail",
+            "<span class=\"sc\">ins</span>",
+            "tent",
+            "<span class=\"sc\">acc</span>",
+            "hole-<span class=\"sc\">caus</span>-<span class=\"sc\">j</span>-<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "\\textsc{loc}",
+            "rain-\\textsc{j}-\\textsc{pst}",
+            "rain",
+            "hail",
+            "\\textsc{ins}",
+            "tent",
+            "\\textsc{acc}",
+            "hole-\\textsc{caus}-\\textsc{j}-\\textsc{pst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "he\u0342:xo: \u0294a tu:-a-ta tu: ka:ro ka tante \u0294a bo:ru-hu-a-ha",
+        "srcwordsbare": [
+            "he\u0342:xo:",
+            "\u0294a",
+            "tu:-a-ta",
+            "tu:",
+            "ka:ro",
+            "ka",
+            "tante",
+            "\u0294a",
+            "bo:ru-hu-a-ha"
+        ],
+        "srcwordshtml": [
+            "he\u0342:xo:",
+            "\u0294a",
+            "tu:-a-ta",
+            "tu:",
+            "ka:ro",
+            "ka",
+            "tante",
+            "\u0294a",
+            "bo:ru-hu-a-ha"
+        ],
+        "srcwordstex": [
+            "he\u0342:xo:",
+            "\u0294a",
+            "tu:-a-ta",
+            "tu:",
+            "ka:ro",
+            "ka",
+            "tante",
+            "\u0294a",
+            "bo:ru-hu-a-ha"
+        ],
+        "trs": "The rain that rained here with hail tore the tent to shreds.",
+        "wlength": 9
+    },
+    {
+        "ID": "09-mc--35123",
+        "categories": [
+            "acc",
+            "j",
+            "m",
+            "sdpst",
+            "sg"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "who \\textsc{acc} 2\\textsc{sg.m} beat-\\textsc{j}-\\textsc{sdpst}",
+        "imtwordsbare": [
+            "who",
+            "ACC",
+            "2sg.m",
+            "beat-J-SDPST"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">acc</span>",
+            "2<span class=\"sc\">sg.m</span>",
+            "beat-<span class=\"sc\">j</span>-<span class=\"sc\">sdpst</span>"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{acc}",
+            "2\\textsc{sg.m}",
+            "beat-\\textsc{j}-\\textsc{sdpst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "ma\u00e1 \u0294\u00e0 ts\u00e1 \u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0",
+        "srcwordsbare": [
+            "ma\u00e1",
+            "\u0294\u00e0",
+            "ts\u00e1",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordshtml": [
+            "ma\u00e1",
+            "\u0294\u00e0",
+            "ts\u00e1",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordstex": [
+            "ma\u00e1",
+            "\u0294\u00e0",
+            "ts\u00e1",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "trs": "Who did you beat?",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc--31766",
+        "categories": [
+            "ii",
+            "j",
+            "m",
+            "sdpst",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "boy=3\\textsc{sg}.\\textsc{m.ii} 1\\textsc{sg} beat-\\textsc{j}-\\textsc{sdpst}",
+        "imtwordsbare": [
+            "boy=3SG.m.ii",
+            "1SG",
+            "beat-J-SDPST"
+        ],
+        "imtwordshtml": [
+            "boy=3<span class=\"sc\">sg</span>.<span class=\"sc\">m.ii</span>",
+            "1<span class=\"sc\">sg</span>",
+            "beat-<span class=\"sc\">j</span>-<span class=\"sc\">sdpst</span>"
+        ],
+        "imtwordstex": [
+            "boy=3\\textsc{sg}.\\textsc{m.ii}",
+            "1\\textsc{sg}",
+            "beat-\\textsc{j}-\\textsc{sdpst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "k\u2019aro=m\u00e0 t\u00ed \u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0",
+        "srcwordsbare": [
+            "k\u2019aro=m\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordshtml": [
+            "k\u2019aro=m\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordstex": [
+            "k\u2019aro=m\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "trs": "I beat the boy.",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc-126654",
+        "categories": [
+            "ii",
+            "j",
+            "m",
+            "sdpst",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "dog=3\\textsc{sg}.\\textsc{m.ii} 2\\textsc{sg.m} beat-\\textsc{j}-\\textsc{sdpst}",
+        "imtwordsbare": [
+            "dog=3SG.m.ii",
+            "2sg.m",
+            "beat-J-SDPST"
+        ],
+        "imtwordshtml": [
+            "dog=3<span class=\"sc\">sg</span>.<span class=\"sc\">m.ii</span>",
+            "2<span class=\"sc\">sg.m</span>",
+            "beat-<span class=\"sc\">j</span>-<span class=\"sc\">sdpst</span>"
+        ],
+        "imtwordstex": [
+            "dog=3\\textsc{sg}.\\textsc{m.ii}",
+            "2\\textsc{sg.m}",
+            "beat-\\textsc{j}-\\textsc{sdpst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u0294ab\u00e1=m\u00e0 ts\u00e1 \u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0",
+        "srcwordsbare": [
+            "\u0294ab\u00e1=m\u00e0",
+            "ts\u00e1",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordshtml": [
+            "\u0294ab\u00e1=m\u00e0",
+            "ts\u00e1",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordstex": [
+            "\u0294ab\u00e1=m\u00e0",
+            "ts\u00e1",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "trs": "Did you beat the dog?",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc--28702",
+        "categories": [
+            "acc",
+            "ii",
+            "j",
+            "m",
+            "neg",
+            "sdpst",
+            "sg"
+        ],
+        "clength": 63,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "no dog=3\\textsc{sg}.\\textsc{m.ii} 1\\textsc{sg} beat-\\textsc{j}-\\textsc{sdpst} \\textsc{neg} boy=3\\textsc{sg}.\\textsc{m.ii} \\textsc{acc} 1\\textsc{sg} beat-\\textsc{j}-\\textsc{sdpst}",
+        "imtwordsbare": [
+            "no",
+            "dog=3SG.m.ii",
+            "1SG",
+            "beat-J-SDPST",
+            "NEG",
+            "boy=3SG.m.ii",
+            "ACC",
+            "1SG",
+            "beat-J-SDPST"
+        ],
+        "imtwordshtml": [
+            "no",
+            "dog=3<span class=\"sc\">sg</span>.<span class=\"sc\">m.ii</span>",
+            "1<span class=\"sc\">sg</span>",
+            "beat-<span class=\"sc\">j</span>-<span class=\"sc\">sdpst</span>",
+            "<span class=\"sc\">neg</span>",
+            "boy=3<span class=\"sc\">sg</span>.<span class=\"sc\">m.ii</span>",
+            "<span class=\"sc\">acc</span>",
+            "1<span class=\"sc\">sg</span>",
+            "beat-<span class=\"sc\">j</span>-<span class=\"sc\">sdpst</span>"
+        ],
+        "imtwordstex": [
+            "no",
+            "dog=3\\textsc{sg}.\\textsc{m.ii}",
+            "1\\textsc{sg}",
+            "beat-\\textsc{j}-\\textsc{sdpst}",
+            "\\textsc{neg}",
+            "boy=3\\textsc{sg}.\\textsc{m.ii}",
+            "\\textsc{acc}",
+            "1\\textsc{sg}",
+            "beat-\\textsc{j}-\\textsc{sdpst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "polarity": "negative",
+        "src": "\u0294\\~\\i\\~\\i, \u0294ab\u00e1=m\u00e0 t\u00ed \u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0 \u0294\u00edt\u00e9 k\u2019aro=m\u00e0 \u0294\u00e0 t\u00ed \u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0",
+        "srcwordsbare": [
+            "\u0294\\~\\i\\~\\i,",
+            "\u0294ab\u00e1=m\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0",
+            "\u0294\u00edt\u00e9",
+            "k\u2019aro=m\u00e0",
+            "\u0294\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordshtml": [
+            "\u0294\\~\\i\\~\\i,",
+            "\u0294ab\u00e1=m\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0",
+            "\u0294\u00edt\u00e9",
+            "k\u2019aro=m\u00e0",
+            "\u0294\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "srcwordstex": [
+            "\u0294\\~\\i\\~\\i,",
+            "\u0294ab\u00e1=m\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0",
+            "\u0294\u00edt\u00e9",
+            "k\u2019aro=m\u00e0",
+            "\u0294\u00e0",
+            "t\u00ed",
+            "\u01c1\u2019\u00e1\u1e3f-n\u00e0-t\u00e0"
+        ],
+        "trs": "No, I did not beat the dog, I beat the boy.",
+        "wlength": 9
+    },
+    {
+        "ID": "09-mc-383620",
+        "categories": [
+            "ii",
+            "j",
+            "m",
+            "pl",
+            "sdpst",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "lion=3\\textsc{sg}.\\textsc{m.ii} 3\\textsc{pl.m} kill-\\textsc{j}-\\textsc{sdpst}",
+        "imtwordsbare": [
+            "lion=3SG.m.ii",
+            "3pl.m",
+            "kill-J-SDPST"
+        ],
+        "imtwordshtml": [
+            "lion=3<span class=\"sc\">sg</span>.<span class=\"sc\">m.ii</span>",
+            "3<span class=\"sc\">pl.m</span>",
+            "kill-<span class=\"sc\">j</span>-<span class=\"sc\">sdpst</span>"
+        ],
+        "imtwordstex": [
+            "lion=3\\textsc{sg}.\\textsc{m.ii}",
+            "3\\textsc{pl.m}",
+            "kill-\\textsc{j}-\\textsc{sdpst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "xa\u1e3f=m\u00e0 \u0294\u00e9.\u01c1\u00f9 \u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1",
+        "srcwordsbare": [
+            "xa\u1e3f=m\u00e0",
+            "\u0294\u00e9.\u01c1\u00f9",
+            "\u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1"
+        ],
+        "srcwordshtml": [
+            "xa\u1e3f=m\u00e0",
+            "\u0294\u00e9.\u01c1\u00f9",
+            "\u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1"
+        ],
+        "srcwordstex": [
+            "xa\u1e3f=m\u00e0",
+            "\u0294\u00e9.\u01c1\u00f9",
+            "\u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1"
+        ],
+        "trs": "They killed the lion.",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc--22331",
+        "categories": [
+            "acc",
+            "ii",
+            "j",
+            "m",
+            "pl",
+            "sdpst",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "lion=3\\textsc{sg}.\\textsc{m.ii} \\textsc{acc} 3\\textsc{pl.m} kill-\\textsc{j}-\\textsc{sdpst}",
+        "imtwordsbare": [
+            "lion=3SG.m.ii",
+            "ACC",
+            "3pl.m",
+            "kill-J-SDPST"
+        ],
+        "imtwordshtml": [
+            "lion=3<span class=\"sc\">sg</span>.<span class=\"sc\">m.ii</span>",
+            "<span class=\"sc\">acc</span>",
+            "3<span class=\"sc\">pl.m</span>",
+            "kill-<span class=\"sc\">j</span>-<span class=\"sc\">sdpst</span>"
+        ],
+        "imtwordstex": [
+            "lion=3\\textsc{sg}.\\textsc{m.ii}",
+            "\\textsc{acc}",
+            "3\\textsc{pl.m}",
+            "kill-\\textsc{j}-\\textsc{sdpst}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "polarity": "negative",
+        "src": "xa\u1e3f=m\u00e0 \u0294\u00e0 \u0294\u00e9.\u01c1\u00f9 \u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1",
+        "srcwordsbare": [
+            "xa\u1e3f=m\u00e0",
+            "\u0294\u00e0",
+            "\u0294\u00e9.\u01c1\u00f9",
+            "\u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1"
+        ],
+        "srcwordshtml": [
+            "xa\u1e3f=m\u00e0",
+            "\u0294\u00e0",
+            "\u0294\u00e9.\u01c1\u00f9",
+            "\u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1"
+        ],
+        "srcwordstex": [
+            "xa\u1e3f=m\u00e0",
+            "\u0294\u00e0",
+            "\u0294\u00e9.\u01c1\u00f9",
+            "\u01c0\u2019\\~u\u1e79-\u00e1-t\u00e1"
+        ],
+        "trs": "They killed the lion (and not something else).",
+        "wlength": 4
+    },
+    {
+        "ID": "09-mc--88908",
+        "categories": [
+            "acc",
+            "adv",
+            "gn",
+            "i",
+            "ipfv",
+            "loc",
+            "m",
+            "sg"
+        ],
+        "clength": 55,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "\\textsc{gn}=3\\textsc{sg}.\\textsc{m.i} \\textsc{loc} sometimes 2\\textsc{sg.m} \\textsc{ipfv} person \\textsc{acc} hear speak \\textsc{ipfv}=\\textsc{adv}",
+        "imtwordsbare": [
+            "GN=3SG.m.i",
+            "LOC",
+            "sometimes",
+            "2sg.m",
+            "IPFV",
+            "person",
+            "ACC",
+            "hear",
+            "speak",
+            "IPFV=ADV"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">gn</span>=3<span class=\"sc\">sg</span>.<span class=\"sc\">m.i</span>",
+            "<span class=\"sc\">loc</span>",
+            "sometimes",
+            "2<span class=\"sc\">sg.m</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "person",
+            "<span class=\"sc\">acc</span>",
+            "hear",
+            "speak",
+            "<span class=\"sc\">ipfv</span>=<span class=\"sc\">adv</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{gn}=3\\textsc{sg}.\\textsc{m.i}",
+            "\\textsc{loc}",
+            "sometimes",
+            "2\\textsc{sg.m}",
+            "\\textsc{ipfv}",
+            "person",
+            "\\textsc{acc}",
+            "hear",
+            "speak",
+            "\\textsc{ipfv}=\\textsc{adv}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "g\u01c0\u00f3\u00f3x\u00e0=\\`{m} ng\u00f9\u00e0 \u01c0\u00fa.x\u00f9\u00e0 ts\u00e1 k\u00f2 khoe \u0294\u00e0 k\u00fa\u1e3f k\u2019u\u00ed  k\u00f2=s\u00e8",
+        "srcwordsbare": [
+            "g\u01c0\u00f3\u00f3x\u00e0=\\`{m}",
+            "ng\u00f9\u00e0",
+            "\u01c0\u00fa.x\u00f9\u00e0",
+            "ts\u00e1",
+            "k\u00f2",
+            "khoe",
+            "\u0294\u00e0",
+            "k\u00fa\u1e3f",
+            "k\u2019u\u00ed",
+            "k\u00f2=s\u00e8"
+        ],
+        "srcwordshtml": [
+            "g\u01c0\u00f3\u00f3x\u00e0=\\`{m}",
+            "ng\u00f9\u00e0",
+            "\u01c0\u00fa.x\u00f9\u00e0",
+            "ts\u00e1",
+            "k\u00f2",
+            "khoe",
+            "\u0294\u00e0",
+            "k\u00fa\u1e3f",
+            "k\u2019u\u00ed",
+            "k\u00f2=s\u00e8"
+        ],
+        "srcwordstex": [
+            "g\u01c0\u00f3\u00f3x\u00e0=\\`{m}",
+            "ng\u00f9\u00e0",
+            "\u01c0\u00fa.x\u00f9\u00e0",
+            "ts\u00e1",
+            "k\u00f2",
+            "khoe",
+            "\u0294\u00e0",
+            "k\u00fa\u1e3f",
+            "k\u2019u\u00ed",
+            "k\u00f2=s\u00e8"
+        ],
+        "trs": "At G\u01c0oxa-Hill, you can sometimes hear people speak.",
+        "wlength": 10
+    },
+    {
+        "ID": "09-mc-388023",
+        "categories": [
+            "acc",
+            "atv",
+            "f",
+            "pl",
+            "prs",
+            "sg"
+        ],
+        "clength": 35,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "child-3\\textsc{sg.f} thus eat-\\textsc{atv}-\\textsc{prs} bush:species-3\\textsc{pl.f} \\textsc{acc}",
+        "imtwordsbare": [
+            "child-3sg.f",
+            "thus",
+            "eat-ATV-PRS",
+            "bush:species-3pl.f",
+            "ACC"
+        ],
+        "imtwordshtml": [
+            "child-3<span class=\"sc\">sg.f</span>",
+            "thus",
+            "eat-<span class=\"sc\">atv</span>-<span class=\"sc\">prs</span>",
+            "bush:species-3<span class=\"sc\">pl.f</span>",
+            "<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "child-3\\textsc{sg.f}",
+            "thus",
+            "eat-\\textsc{atv}-\\textsc{prs}",
+            "bush:species-3\\textsc{pl.f}",
+            "\\textsc{acc}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u01c0\u00f3\u025b-h\u025b \u00e1taxa \t\u01c2\u2019u\u0303\u0301-\u00e0-t\u00e8  c\u025b-dj\u00ec  \u00e0",
+        "srcwordsbare": [
+            "\u01c0\u00f3\u025b-h\u025b",
+            "\u00e1taxa",
+            "\u01c2\u2019u\u0303\u0301-\u00e0-t\u00e8",
+            "c\u025b-dj\u00ec",
+            "\u00e0"
+        ],
+        "srcwordshtml": [
+            "\u01c0\u00f3\u025b-h\u025b",
+            "\u00e1taxa",
+            "\u01c2\u2019u\u0303\u0301-\u00e0-t\u00e8",
+            "c\u025b-dj\u00ec",
+            "\u00e0"
+        ],
+        "srcwordstex": [
+            "\u01c0\u00f3\u025b-h\u025b",
+            "\u00e1taxa",
+            "\u01c2\u2019u\u0303\u0301-\u00e0-t\u00e8",
+            "c\u025b-dj\u00ec",
+            "\u00e0"
+        ],
+        "trs": "Thus the child eats the c\u025b fruits.",
+        "wlength": 5
+    },
+    {
+        "ID": "09-mc-522965",
+        "categories": [
+            "c",
+            "dem",
+            "m",
+            "pl",
+            "prv",
+            "sg"
+        ],
+        "clength": 39,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "\\textsc{prv}-hair-person-1\\textsc{pl.c} 1\\textsc{pl.c} person-1\\textsc{pl.c} \\textsc{dem}-3\\textsc{sg.m} eat:meat",
+        "imtwordsbare": [
+            "PRV-hair-person-1pl.c",
+            "1pl.c",
+            "person-1pl.c",
+            "DEM-3sg.m",
+            "eat:meat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">prv</span>-hair-person-1<span class=\"sc\">pl.c</span>",
+            "1<span class=\"sc\">pl.c</span>",
+            "person-1<span class=\"sc\">pl.c</span>",
+            "<span class=\"sc\">dem</span>-3<span class=\"sc\">sg.m</span>",
+            "eat:meat"
+        ],
+        "imtwordstex": [
+            "\\textsc{prv}-hair-person-1\\textsc{pl.c}",
+            "1\\textsc{pl.c}",
+            "person-1\\textsc{pl.c}",
+            "\\textsc{dem}-3\\textsc{sg.m}",
+            "eat:meat"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "\u00f3-\u01c0\u2019u\u0303\u0301u\u0303-kh\u00f2\u00e8-t\u00e8 t\u00e9 kh\u00f3\u00e9-t\u00e8 x\u00e0-m\u00e1 kx\u2019\u00f3",
+        "srcwordsbare": [
+            "\u00f3-\u01c0\u2019u\u0303\u0301u\u0303-kh\u00f2\u00e8-t\u00e8",
+            "t\u00e9",
+            "kh\u00f3\u00e9-t\u00e8",
+            "x\u00e0-m\u00e1",
+            "kx\u2019\u00f3"
+        ],
+        "srcwordshtml": [
+            "\u00f3-\u01c0\u2019u\u0303\u0301u\u0303-kh\u00f2\u00e8-t\u00e8",
+            "t\u00e9",
+            "kh\u00f3\u00e9-t\u00e8",
+            "x\u00e0-m\u00e1",
+            "kx\u2019\u00f3"
+        ],
+        "srcwordstex": [
+            "\u00f3-\u01c0\u2019u\u0303\u0301u\u0303-kh\u00f2\u00e8-t\u00e8",
+            "t\u00e9",
+            "kh\u00f3\u00e9-t\u00e8",
+            "x\u00e0-m\u00e1",
+            "kx\u2019\u00f3"
+        ],
+        "trs": "He has to eat us, the ones without fur.",
+        "wlength": 5
+    },
+    {
+        "ID": "09-mc-372148",
+        "categories": [
+            "m",
+            "sg"
+        ],
+        "clength": 16,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "stand:up then 2\\textsc{sg.m} 1\\textsc{sg} bring",
+        "imtwordsbare": [
+            "stand:up",
+            "then",
+            "2sg.m",
+            "1SG",
+            "bring"
+        ],
+        "imtwordshtml": [
+            "stand:up",
+            "then",
+            "2<span class=\"sc\">sg.m</span>",
+            "1<span class=\"sc\">sg</span>",
+            "bring"
+        ],
+        "imtwordstex": [
+            "stand:up",
+            "then",
+            "2\\textsc{sg.m}",
+            "1\\textsc{sg}",
+            "bring"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "t\u00e0n t\u00ed\u00ec tc\u00e1 t\u00ed \u00fa",
+        "srcwordsbare": [
+            "t\u00e0n",
+            "t\u00ed\u00ec",
+            "tc\u00e1",
+            "t\u00ed",
+            "\u00fa"
+        ],
+        "srcwordshtml": [
+            "t\u00e0n",
+            "t\u00ed\u00ec",
+            "tc\u00e1",
+            "t\u00ed",
+            "\u00fa"
+        ],
+        "srcwordstex": [
+            "t\u00e0n",
+            "t\u00ed\u00ec",
+            "tc\u00e1",
+            "t\u00ed",
+            "\u00fa"
+        ],
+        "trs": "Stand up, then I may take you.",
+        "wlength": 5
+    },
+    {
+        "ID": "09-mc-826429",
+        "categories": [
+            "acc",
+            "atv",
+            "f",
+            "m",
+            "pl",
+            "prs",
+            "sg"
+        ],
+        "clength": 73,
+        "coordination": "and",
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "then rock:monitor-3\\textsc{sg.m}-\\textsc{acc} female-person-3\\textsc{pl.f} cook-\\textsc{atv}-\\textsc{prs} male-person-1\\textsc{pl.m} genet-3\\textsc{sg.m} cook-\\textsc{atv}-\\textsc{prs}",
+        "imtwordsbare": [
+            "then",
+            "rock:monitor-3sg.m-ACC",
+            "female-person-3pl.f",
+            "cook-ATV-PRS",
+            "male-person-1pl.m",
+            "genet-3sg.m",
+            "cook-ATV-PRS"
+        ],
+        "imtwordshtml": [
+            "then",
+            "rock:monitor-3<span class=\"sc\">sg.m</span>-<span class=\"sc\">acc</span>",
+            "female-person-3<span class=\"sc\">pl.f</span>",
+            "cook-<span class=\"sc\">atv</span>-<span class=\"sc\">prs</span>",
+            "male-person-1<span class=\"sc\">pl.m</span>",
+            "genet-3<span class=\"sc\">sg.m</span>",
+            "cook-<span class=\"sc\">atv</span>-<span class=\"sc\">prs</span>"
+        ],
+        "imtwordstex": [
+            "then",
+            "rock:monitor-3\\textsc{sg.m}-\\textsc{acc}",
+            "female-person-3\\textsc{pl.f}",
+            "cook-\\textsc{atv}-\\textsc{prs}",
+            "male-person-1\\textsc{pl.m}",
+            "genet-3\\textsc{sg.m}",
+            "cook-\\textsc{atv}-\\textsc{prs}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "t\u00edn\u00f9 c\u00f3r\u00f2-m\u00e0-\u00e0 \u01c1g\u00e0a-kh\u00f2\u00e8-dj\u00ec n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8 kx\u2019\u00e1-kh\u00f2\u00e8-\u01c1\u00e8 tc\u00e1mba-m\u00e0 n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8",
+        "srcwordsbare": [
+            "t\u00edn\u00f9",
+            "c\u00f3r\u00f2-m\u00e0-\u00e0",
+            "\u01c1g\u00e0a-kh\u00f2\u00e8-dj\u00ec",
+            "n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8",
+            "kx\u2019\u00e1-kh\u00f2\u00e8-\u01c1\u00e8",
+            "tc\u00e1mba-m\u00e0",
+            "n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8"
+        ],
+        "srcwordshtml": [
+            "t\u00edn\u00f9",
+            "c\u00f3r\u00f2-m\u00e0-\u00e0",
+            "\u01c1g\u00e0a-kh\u00f2\u00e8-dj\u00ec",
+            "n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8",
+            "kx\u2019\u00e1-kh\u00f2\u00e8-\u01c1\u00e8",
+            "tc\u00e1mba-m\u00e0",
+            "n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8"
+        ],
+        "srcwordstex": [
+            "t\u00edn\u00f9",
+            "c\u00f3r\u00f2-m\u00e0-\u00e0",
+            "\u01c1g\u00e0a-kh\u00f2\u00e8-dj\u00ec",
+            "n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8",
+            "kx\u2019\u00e1-kh\u00f2\u00e8-\u01c1\u00e8",
+            "tc\u00e1mba-m\u00e0",
+            "n\u01c0g\u00f3\u00e1-\u00e0-t\u00e8"
+        ],
+        "trs": "Then the women are cooking the rock monitor, and we men are cooking the genet.",
+        "wlength": 7
+    },
+    {
+        "ID": "09-mc--59169",
+        "categories": [
+            "cop"
+        ],
+        "clength": 8,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "tree \\textsc{cop} big",
+        "imtwordsbare": [
+            "tree",
+            "COP",
+            "big"
+        ],
+        "imtwordshtml": [
+            "tree",
+            "<span class=\"sc\">cop</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "tree",
+            "\\textsc{cop}",
+            "big"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "y\u00ec \u00e1 \u01c0\u00e9\u00fa",
+        "srcwordsbare": [
+            "y\u00ec",
+            "\u00e1",
+            "\u01c0\u00e9\u00fa"
+        ],
+        "srcwordshtml": [
+            "y\u00ec",
+            "\u00e1",
+            "\u01c0\u00e9\u00fa"
+        ],
+        "srcwordstex": [
+            "y\u00ec",
+            "\u00e1",
+            "\u01c0\u00e9\u00fa"
+        ],
+        "trs": "The tree is big.",
+        "wlength": 3
+    },
+    {
+        "ID": "09-mc-757919",
+        "categories": [
+            "cop",
+            "dem",
+            "foc"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "\\textsc{dem}{\\rmfnm} path \\textsc{foc} small path \\textsc{cop}",
+        "imtwordsbare": [
+            "DEM{\\rmfnm}",
+            "path",
+            "FOC",
+            "small",
+            "path",
+            "COP"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dem</span>{\\rmfnm}",
+            "path",
+            "<span class=\"sc\">foc</span>",
+            "small",
+            "path",
+            "<span class=\"sc\">cop</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{dem}{\\rmfnm}",
+            "path",
+            "\\textsc{foc}",
+            "small",
+            "path",
+            "\\textsc{cop}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "n\u01c0\u0129\u0129\u0301 d\u00e1\u00f3 \u00e0 \u01c2\u2019\u00f3 d\u00e1\u00f3 \u00e0",
+        "srcwordsbare": [
+            "n\u01c0\u0129\u0129\u0301",
+            "d\u00e1\u00f3",
+            "\u00e0",
+            "\u01c2\u2019\u00f3",
+            "d\u00e1\u00f3",
+            "\u00e0"
+        ],
+        "srcwordshtml": [
+            "n\u01c0\u0129\u0129\u0301",
+            "d\u00e1\u00f3",
+            "\u00e0",
+            "\u01c2\u2019\u00f3",
+            "d\u00e1\u00f3",
+            "\u00e0"
+        ],
+        "srcwordstex": [
+            "n\u01c0\u0129\u0129\u0301",
+            "d\u00e1\u00f3",
+            "\u00e0",
+            "\u01c2\u2019\u00f3",
+            "d\u00e1\u00f3",
+            "\u00e0"
+        ],
+        "trs": "This path is a small path.",
+        "wlength": 6
+    },
+    {
+        "ID": "09-mc-312896",
+        "categories": [
+            "acc",
+            "atv",
+            "cop",
+            "nmlz",
+            "prs",
+            "sg"
+        ],
+        "clength": 47,
+        "filename": "173/chapters/09-mc.tex",
+        "imt": "mum swallow-\\textsc{nmlz} \\textsc{cop} there 1\\textsc{sg} \\textsc{acc} swallow-\\textsc{atv}-\\textsc{prs}",
+        "imtwordsbare": [
+            "mum",
+            "swallow-NMLZ",
+            "COP",
+            "there",
+            "1SG",
+            "ACC",
+            "swallow-ATV-PRS"
+        ],
+        "imtwordshtml": [
+            "mum",
+            "swallow-<span class=\"sc\">nmlz</span>",
+            "<span class=\"sc\">cop</span>",
+            "there",
+            "1<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">acc</span>",
+            "swallow-<span class=\"sc\">atv</span>-<span class=\"sc\">prs</span>"
+        ],
+        "imtwordstex": [
+            "mum",
+            "swallow-\\textsc{nmlz}",
+            "\\textsc{cop}",
+            "there",
+            "1\\textsc{sg}",
+            "\\textsc{acc}",
+            "swallow-\\textsc{atv}-\\textsc{prs}"
+        ],
+        "language": "173/chapters/09-mc.tex",
+        "src": "nd\u00e9e! t\u00f3m\u0300tom-x\u00f2 \u00e0 \u014b\u0301k\u00e0 t\u00ed \u00e0 t\u00f3m\u0300-a-t\u00e8!{\\rmfnm}",
+        "srcwordsbare": [
+            "nd\u00e9e!",
+            "t\u00f3m\u0300tom-x\u00f2",
+            "\u00e0",
+            "\u014b\u0301k\u00e0",
+            "t\u00ed",
+            "\u00e0",
+            "t\u00f3m\u0300-a-t\u00e8!{\\rmfnm}"
+        ],
+        "srcwordshtml": [
+            "nd\u00e9e!",
+            "t\u00f3m\u0300tom-x\u00f2",
+            "\u00e0",
+            "\u014b\u0301k\u00e0",
+            "t\u00ed",
+            "\u00e0",
+            "t\u00f3m\u0300-a-t\u00e8!{\\rmfnm}"
+        ],
+        "srcwordstex": [
+            "nd\u00e9e!",
+            "t\u00f3m\u0300tom-x\u00f2",
+            "\u00e0",
+            "\u014b\u0301k\u00e0",
+            "t\u00ed",
+            "\u00e0",
+            "t\u00f3m\u0300-a-t\u00e8!{\\rmfnm}"
+        ],
+        "trs": "Mum, there is a swallowing thing [\\ie a python] that (wants to) swallow me!",
+        "wlength": 7
+    }
+]

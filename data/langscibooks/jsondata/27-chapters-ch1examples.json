@@ -1,0 +1,2176 @@
+[
+    {
+        "ID": "ch1--40148",
+        "categories": [
+            "acc",
+            "def",
+            "sbj"
+        ],
+        "clength": 74,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "as  v\u00e9cu  aussi  toi.\\textsc{sbj}  maintenant  comme  moi.\\textsc{acc}  (ai  v\u00e9cu)  an.\\textsc{def} dernier",
+        "imtwordsbare": [
+            "as",
+            "v\u00e9cu",
+            "aussi",
+            "toi.SBJ",
+            "maintenant",
+            "comme",
+            "moi.ACC",
+            "(ai",
+            "v\u00e9cu)",
+            "an.DEF",
+            "dernier"
+        ],
+        "imtwordshtml": [
+            "as",
+            "v\u00e9cu",
+            "aussi",
+            "toi.<span class=\"sc\">sbj</span>",
+            "maintenant",
+            "comme",
+            "moi.<span class=\"sc\">acc</span>",
+            "(ai",
+            "v\u00e9cu)",
+            "an.<span class=\"sc\">def</span>",
+            "dernier"
+        ],
+        "imtwordstex": [
+            "as",
+            "v\u00e9cu",
+            "aussi",
+            "toi.\\textsc{sbj}",
+            "maintenant",
+            "comme",
+            "moi.\\textsc{acc}",
+            "(ai",
+            "v\u00e9cu)",
+            "an.\\textsc{def}",
+            "dernier"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\ulg{Ai}{10} p\u0103\u021bit \u0219i tu acum, \\textbf{ca}  mine (*am  p\u0103\u021bit) anul trecut.",
+        "srcwordsbare": [
+            "\\ulg{Ai}{10}",
+            "p\u0103\u021bit",
+            "\u0219i",
+            "tu",
+            "acum,",
+            "ca",
+            "mine",
+            "(*am",
+            "p\u0103\u021bit)",
+            "anul",
+            "trecut."
+        ],
+        "srcwordshtml": [
+            "\\ulg{Ai}{10}",
+            "p\u0103\u021bit",
+            "\u0219i",
+            "tu",
+            "acum,",
+            "<span class=\"bf\">ca</span>",
+            "mine",
+            "(*am",
+            "p\u0103\u021bit)",
+            "anul",
+            "trecut."
+        ],
+        "srcwordstex": [
+            "\\ulg{Ai}{10}",
+            "p\u0103\u021bit",
+            "\u0219i",
+            "tu",
+            "acum,",
+            "\\textbf{ca}",
+            "mine",
+            "(*am",
+            "p\u0103\u021bit)",
+            "anul",
+            "trecut."
+        ],
+        "trs": "Il t\u2019est arriv\u00e9 maintenant ce qui m\u2019est arriv\u00e9 l\u2019an dernier.",
+        "wlength": 11
+    },
+    {
+        "ID": "ch1-387304",
+        "categories": [
+            "3",
+            "dat",
+            "def",
+            "refl"
+        ],
+        "clength": 127,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Ion  \\textsc{refl.dat.3}  aime  \u00e9pouse.\\textsc{def}  et  Dan  de m\u00eame",
+        "imtwordsbare": [
+            "Ion",
+            "refl.dat.3",
+            "aime",
+            "\u00e9pouse.DEF",
+            "et",
+            "Dan",
+            "de",
+            "m\u00eame"
+        ],
+        "imtwordshtml": [
+            "Ion",
+            "<span class=\"sc\">refl.dat.3</span>",
+            "aime",
+            "\u00e9pouse.<span class=\"sc\">def</span>",
+            "et",
+            "Dan",
+            "de",
+            "m\u00eame"
+        ],
+        "imtwordstex": [
+            "Ion",
+            "\\textsc{refl.dat.3}",
+            "aime",
+            "\u00e9pouse.\\textsc{def}",
+            "et",
+            "Dan",
+            "de",
+            "m\u00eame"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Ion\\textsubscript{i}  \\ulg{\\textbf{\u00ee\u015fi}\\textbf{\\textsubscript{i}}}{32.6} iube\u015fte so\u0163ia, iar  Dan\\textsubscript{j}  de asemenea.",
+        "srcwordsbare": [
+            "Ioni",
+            "\\ulg{\u00ee\u015fi\\textsubscript{i}}{32.6}",
+            "iube\u015fte",
+            "so\u0163ia,",
+            "iar",
+            "Danj",
+            "de",
+            "asemenea."
+        ],
+        "srcwordshtml": [
+            "Ion<span class=\"subscript\">i</span>",
+            "\\ulg{<span class=\"bf\">\u00ee\u015fi</span><span class=\"bf\">\\textsubscript{i</span>}}{32.6}",
+            "iube\u015fte",
+            "so\u0163ia,",
+            "iar",
+            "Dan<span class=\"subscript\">j</span>",
+            "de",
+            "asemenea."
+        ],
+        "srcwordstex": [
+            "Ion\\textsubscript{i}",
+            "\\ulg{\\textbf{\u00ee\u015fi}\\textbf{\\textsubscript{i}}}{32.6}",
+            "iube\u015fte",
+            "so\u0163ia,",
+            "iar",
+            "Dan\\textsubscript{j}",
+            "de",
+            "asemenea."
+        ],
+        "trs": "Ion aime sa femme et Dan aussi.",
+        "wlength": 8
+    },
+    {
+        "ID": "ch1--89828",
+        "categories": [
+            "3sg",
+            "acc",
+            "dom",
+            "m"
+        ],
+        "clength": 96,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Maria  \\textsc{acc.m.3sg}  aime  \\textsc{dom}  Ion  et  Dan  de m\u00eame",
+        "imtwordsbare": [
+            "Maria",
+            "acc.m.3sg",
+            "aime",
+            "DOM",
+            "Ion",
+            "et",
+            "Dan",
+            "de",
+            "m\u00eame"
+        ],
+        "imtwordshtml": [
+            "Maria",
+            "<span class=\"sc\">acc.m.3sg</span>",
+            "aime",
+            "<span class=\"sc\">dom</span>",
+            "Ion",
+            "et",
+            "Dan",
+            "de",
+            "m\u00eame"
+        ],
+        "imtwordstex": [
+            "Maria",
+            "\\textsc{acc.m.3sg}",
+            "aime",
+            "\\textsc{dom}",
+            "Ion",
+            "et",
+            "Dan",
+            "de",
+            "m\u00eame"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\textbf{Maria}  \\ulg{\u00eel}{39.8} iube\u015fte pe Ion,  iar  \\textbf{Dan}  de asemenea.\\label{ch1:ex19a}",
+        "srcwordsbare": [
+            "Maria",
+            "\\ulg{\u00eel}{39.8}",
+            "iube\u015fte",
+            "pe",
+            "Ion,",
+            "iar",
+            "Dan",
+            "de",
+            "asemenea.\\label{ch1:ex19a}"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Maria</span>",
+            "\\ulg{\u00eel}{39.8}",
+            "iube\u015fte",
+            "pe",
+            "Ion,",
+            "iar",
+            "<span class=\"bf\">Dan</span>",
+            "de",
+            "asemenea.\\label{ch1:ex19a}"
+        ],
+        "srcwordstex": [
+            "\\textbf{Maria}",
+            "\\ulg{\u00eel}{39.8}",
+            "iube\u015fte",
+            "pe",
+            "Ion,",
+            "iar",
+            "\\textbf{Dan}",
+            "de",
+            "asemenea.\\label{ch1:ex19a}"
+        ],
+        "trs": "Maria aime Ion, et Dan l\u2019aime aussi.",
+        "wlength": 9
+    },
+    {
+        "ID": "ch1-872369",
+        "categories": [
+            "3pl",
+            "acc",
+            "dom",
+            "m"
+        ],
+        "clength": 124,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Bob  \\textsc{acc.m.3pl}{}-a  insult\u00e9  \\textsc{dom}  invit\u00e9s  \u00e0  table  et  \\textsc{dom}  Sam  \u00e0  f\u00eate",
+        "imtwordsbare": [
+            "Bob",
+            "acc.m.3pl{}-a",
+            "insult\u00e9",
+            "DOM",
+            "invit\u00e9s",
+            "\u00e0",
+            "table",
+            "et",
+            "DOM",
+            "Sam",
+            "\u00e0",
+            "f\u00eate"
+        ],
+        "imtwordshtml": [
+            "Bob",
+            "<span class=\"sc\">acc.m.3pl</span>{}-a",
+            "insult\u00e9",
+            "<span class=\"sc\">dom</span>",
+            "invit\u00e9s",
+            "\u00e0",
+            "table",
+            "et",
+            "<span class=\"sc\">dom</span>",
+            "Sam",
+            "\u00e0",
+            "f\u00eate"
+        ],
+        "imtwordstex": [
+            "Bob",
+            "\\textsc{acc.m.3pl}{}-a",
+            "insult\u00e9",
+            "\\textsc{dom}",
+            "invit\u00e9s",
+            "\u00e0",
+            "table",
+            "et",
+            "\\textsc{dom}",
+            "Sam",
+            "\u00e0",
+            "f\u00eate"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Bob  i-a  insultat  \\textbf{pe}  \\textbf{invita\u0163i}  la  mas\u0103  \u015fi  \\textbf{pe}  \\textbf{Sam}  la  petrecere.\\label{ch1:ex20b}",
+        "srcwordsbare": [
+            "Bob",
+            "i-a",
+            "insultat",
+            "pe",
+            "invita\u0163i",
+            "la",
+            "mas\u0103",
+            "\u015fi",
+            "pe",
+            "Sam",
+            "la",
+            "petrecere.\\label{ch1:ex20b}"
+        ],
+        "srcwordshtml": [
+            "Bob",
+            "i-a",
+            "insultat",
+            "<span class=\"bf\">pe</span>",
+            "<span class=\"bf\">invita\u0163i</span>",
+            "la",
+            "mas\u0103",
+            "\u015fi",
+            "<span class=\"bf\">pe</span>",
+            "<span class=\"bf\">Sam</span>",
+            "la",
+            "petrecere.\\label{ch1:ex20b}"
+        ],
+        "srcwordstex": [
+            "Bob",
+            "i-a",
+            "insultat",
+            "\\textbf{pe}",
+            "\\textbf{invita\u0163i}",
+            "la",
+            "mas\u0103",
+            "\u015fi",
+            "\\textbf{pe}",
+            "\\textbf{Sam}",
+            "la",
+            "petrecere.\\label{ch1:ex20b}"
+        ],
+        "trs": "Bob a insult\u00e9 les invit\u00e9s pendant le repas et il a insult\u00e9 Sam pendant la f\u00eate.",
+        "wlength": 12
+    },
+    {
+        "ID": "ch1-754956",
+        "categories": [
+            "",
+            "adv",
+            "def",
+            "f"
+        ],
+        "clength": 18,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "pr\u00eat\\textsc{.adv}  (avec)  jeu\\textsc{.def.f}",
+        "imtwordsbare": [
+            "pr\u00eat.adv",
+            "(avec)",
+            "jeu.def.f"
+        ],
+        "imtwordshtml": [
+            "pr\u00eat<span class=\"sc\">.adv</span>",
+            "(avec)",
+            "jeu<span class=\"sc\">.def.f</span>"
+        ],
+        "imtwordstex": [
+            "pr\u00eat\\textsc{.adv}",
+            "(avec)",
+            "jeu\\textsc{.def.f}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Gata  (cu)  joaca!",
+        "srcwordsbare": [
+            "Gata",
+            "(cu)",
+            "joaca!"
+        ],
+        "srcwordshtml": [
+            "Gata",
+            "(cu)",
+            "joaca!"
+        ],
+        "srcwordstex": [
+            "Gata",
+            "(cu)",
+            "joaca!"
+        ],
+        "trs": "Fini de jouer !",
+        "wlength": 3
+    },
+    {
+        "ID": "ch1--46903",
+        "categories": [],
+        "clength": 20,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "\u00e0  mort  avec  vous",
+        "imtwordsbare": [
+            "\u00e0",
+            "mort",
+            "avec",
+            "vous"
+        ],
+        "imtwordshtml": [
+            "\u00e0",
+            "mort",
+            "avec",
+            "vous"
+        ],
+        "imtwordstex": [
+            "\u00e0",
+            "mort",
+            "avec",
+            "vous"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "La  moarte  cu  voi!",
+        "srcwordsbare": [
+            "La",
+            "moarte",
+            "cu",
+            "voi!"
+        ],
+        "srcwordshtml": [
+            "La",
+            "moarte",
+            "cu",
+            "voi!"
+        ],
+        "srcwordstex": [
+            "La",
+            "moarte",
+            "cu",
+            "voi!"
+        ],
+        "trs": "A mort !",
+        "wlength": 4
+    },
+    {
+        "ID": "ch1-241420",
+        "categories": [],
+        "clength": 22,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "avec  vous  \u00e0  mort",
+        "imtwordsbare": [
+            "avec",
+            "vous",
+            "\u00e0",
+            "mort"
+        ],
+        "imtwordshtml": [
+            "avec",
+            "vous",
+            "\u00e0",
+            "mort"
+        ],
+        "imtwordstex": [
+            "avec",
+            "vous",
+            "\u00e0",
+            "mort"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "??Cu  voi  la  moarte!",
+        "srcwordsbare": [
+            "??Cu",
+            "voi",
+            "la",
+            "moarte!"
+        ],
+        "srcwordshtml": [
+            "??Cu",
+            "voi",
+            "la",
+            "moarte!"
+        ],
+        "srcwordstex": [
+            "??Cu",
+            "voi",
+            "la",
+            "moarte!"
+        ],
+        "trs": "A mort !",
+        "wlength": 4
+    },
+    {
+        "ID": "ch1--12612",
+        "categories": [
+            "",
+            "def"
+        ],
+        "clength": 19,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "bas  avec  dictature\\textsc{.def}",
+        "imtwordsbare": [
+            "bas",
+            "avec",
+            "dictature.def"
+        ],
+        "imtwordshtml": [
+            "bas",
+            "avec",
+            "dictature<span class=\"sc\">.def</span>"
+        ],
+        "imtwordstex": [
+            "bas",
+            "avec",
+            "dictature\\textsc{.def}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Jos  cu  dictatura!",
+        "srcwordsbare": [
+            "Jos",
+            "cu",
+            "dictatura!"
+        ],
+        "srcwordshtml": [
+            "Jos",
+            "cu",
+            "dictatura!"
+        ],
+        "srcwordstex": [
+            "Jos",
+            "cu",
+            "dictatura!"
+        ],
+        "trs": "A bas la dictature !",
+        "wlength": 3
+    },
+    {
+        "ID": "ch1-219812",
+        "categories": [
+            "",
+            "def"
+        ],
+        "clength": 20,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "avec  dictature\\textsc{.def}  bas",
+        "imtwordsbare": [
+            "avec",
+            "dictature.def",
+            "bas"
+        ],
+        "imtwordshtml": [
+            "avec",
+            "dictature<span class=\"sc\">.def</span>",
+            "bas"
+        ],
+        "imtwordstex": [
+            "avec",
+            "dictature\\textsc{.def}",
+            "bas"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "*Cu  dictatura  jos!",
+        "srcwordsbare": [
+            "*Cu",
+            "dictatura",
+            "jos!"
+        ],
+        "srcwordshtml": [
+            "*Cu",
+            "dictatura",
+            "jos!"
+        ],
+        "srcwordstex": [
+            "*Cu",
+            "dictatura",
+            "jos!"
+        ],
+        "trs": "A bas la dictature !",
+        "wlength": 3
+    },
+    {
+        "ID": "ch1-759866",
+        "categories": [
+            "1sg",
+            "acc",
+            "prs",
+            "refl"
+        ],
+        "clength": 35,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "\\textsc{refl.acc.1sg} disputer.\\textsc{prs.1sg}  avec  Ion  en  chaque  jour",
+        "imtwordsbare": [
+            "refl.acc.1sg",
+            "disputer.prs.1sg",
+            "avec",
+            "Ion",
+            "en",
+            "chaque",
+            "jour"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">refl.acc.1sg</span>",
+            "disputer.<span class=\"sc\">prs.1sg</span>",
+            "avec",
+            "Ion",
+            "en",
+            "chaque",
+            "jour"
+        ],
+        "imtwordstex": [
+            "\\textsc{refl.acc.1sg}",
+            "disputer.\\textsc{prs.1sg}",
+            "avec",
+            "Ion",
+            "en",
+            "chaque",
+            "jour"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "M\u0103  cert  cu  Ion  \u00een  fiecare  zi.",
+        "srcwordsbare": [
+            "M\u0103",
+            "cert",
+            "cu",
+            "Ion",
+            "\u00een",
+            "fiecare",
+            "zi."
+        ],
+        "srcwordshtml": [
+            "M\u0103",
+            "cert",
+            "cu",
+            "Ion",
+            "\u00een",
+            "fiecare",
+            "zi."
+        ],
+        "srcwordstex": [
+            "M\u0103",
+            "cert",
+            "cu",
+            "Ion",
+            "\u00een",
+            "fiecare",
+            "zi."
+        ],
+        "trs": "Je me dispute tous les jours avec Ion.",
+        "wlength": 7
+    },
+    {
+        "ID": "ch1-394488",
+        "categories": [
+            "1sg",
+            "acc",
+            "prs",
+            "refl"
+        ],
+        "clength": 35,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "avec  Ion  \\textsc{refl.acc.1sg} disputer.\\textsc{prs.1sg}  en  chaque  jour",
+        "imtwordsbare": [
+            "avec",
+            "Ion",
+            "refl.acc.1sg",
+            "disputer.prs.1sg",
+            "en",
+            "chaque",
+            "jour"
+        ],
+        "imtwordshtml": [
+            "avec",
+            "Ion",
+            "<span class=\"sc\">refl.acc.1sg</span>",
+            "disputer.<span class=\"sc\">prs.1sg</span>",
+            "en",
+            "chaque",
+            "jour"
+        ],
+        "imtwordstex": [
+            "avec",
+            "Ion",
+            "\\textsc{refl.acc.1sg}",
+            "disputer.\\textsc{prs.1sg}",
+            "en",
+            "chaque",
+            "jour"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Cu  Ion  m\u0103  cert  \u00een  fiecare  zi.",
+        "srcwordsbare": [
+            "Cu",
+            "Ion",
+            "m\u0103",
+            "cert",
+            "\u00een",
+            "fiecare",
+            "zi."
+        ],
+        "srcwordshtml": [
+            "Cu",
+            "Ion",
+            "m\u0103",
+            "cert",
+            "\u00een",
+            "fiecare",
+            "zi."
+        ],
+        "srcwordstex": [
+            "Cu",
+            "Ion",
+            "m\u0103",
+            "cert",
+            "\u00een",
+            "fiecare",
+            "zi."
+        ],
+        "trs": "Avec Ion, je me dispute tous les jours.",
+        "wlength": 7
+    },
+    {
+        "ID": "ch1-907072",
+        "categories": [
+            "def",
+            "dem",
+            "f",
+            "sg"
+        ],
+        "clength": 45,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "est  tr\u00e8s   r\u00e9ussi.\\textsc{f.sg}  g\u00e2teau.\\textsc{def.f.sg}  \\textsc{dem.f.sg}",
+        "imtwordsbare": [
+            "est",
+            "tr\u00e8s",
+            "r\u00e9ussi.f.sg",
+            "g\u00e2teau.def.f.sg",
+            "dem.f.sg"
+        ],
+        "imtwordshtml": [
+            "est",
+            "tr\u00e8s",
+            "r\u00e9ussi.<span class=\"sc\">f.sg</span>",
+            "g\u00e2teau.<span class=\"sc\">def.f.sg</span>",
+            "<span class=\"sc\">dem.f.sg</span>"
+        ],
+        "imtwordstex": [
+            "est",
+            "tr\u00e8s",
+            "r\u00e9ussi.\\textsc{f.sg}",
+            "g\u00e2teau.\\textsc{def.f.sg}",
+            "\\textsc{dem.f.sg}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\textbf{E}  foarte  reu\u015fit\u0103  pr\u0103jitura  asta!",
+        "srcwordsbare": [
+            "E",
+            "foarte",
+            "reu\u015fit\u0103",
+            "pr\u0103jitura",
+            "asta!"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">E</span>",
+            "foarte",
+            "reu\u015fit\u0103",
+            "pr\u0103jitura",
+            "asta!"
+        ],
+        "srcwordstex": [
+            "\\textbf{E}",
+            "foarte",
+            "reu\u015fit\u0103",
+            "pr\u0103jitura",
+            "asta!"
+        ],
+        "trs": "Il est tr\u00e9s r\u00e9ussi, ce g\u00e2teau !",
+        "wlength": 5
+    },
+    {
+        "ID": "ch1-350215",
+        "categories": [
+            "",
+            "2sg",
+            "dat",
+            "def",
+            "f",
+            "imp",
+            "pl",
+            "poss"
+        ],
+        "clength": 53,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "transmettre.\\textsc{imp.2sg} beaucoup\\textsc{.f.pl}  salutations  amie.\\textsc{dat.def}  \\textsc{poss.dat.2sg}",
+        "imtwordsbare": [
+            "transmettre.imp.2sg",
+            "beaucoup.f.pl",
+            "salutations",
+            "amie.dat.def",
+            "poss.dat.2sg"
+        ],
+        "imtwordshtml": [
+            "transmettre.<span class=\"sc\">imp.2sg</span>",
+            "beaucoup<span class=\"sc\">.f.pl</span>",
+            "salutations",
+            "amie.<span class=\"sc\">dat.def</span>",
+            "<span class=\"sc\">poss.dat.2sg</span>"
+        ],
+        "imtwordstex": [
+            "transmettre.\\textsc{imp.2sg}",
+            "beaucoup\\textsc{.f.pl}",
+            "salutations",
+            "amie.\\textsc{dat.def}",
+            "\\textsc{poss.dat.2sg}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\textbf{Transmite}  multe  salut\u0103ri  prietenei  tale!",
+        "srcwordsbare": [
+            "Transmite",
+            "multe",
+            "salut\u0103ri",
+            "prietenei",
+            "tale!"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Transmite</span>",
+            "multe",
+            "salut\u0103ri",
+            "prietenei",
+            "tale!"
+        ],
+        "srcwordstex": [
+            "\\textbf{Transmite}",
+            "multe",
+            "salut\u0103ri",
+            "prietenei",
+            "tale!"
+        ],
+        "trs": "Transmets mes meilleures salutations \u00e0 ton amie !",
+        "wlength": 5
+    },
+    {
+        "ID": "ch1--68770",
+        "categories": [
+            "",
+            "3",
+            "def",
+            "f",
+            "sbjv",
+            "sg"
+        ],
+        "clength": 49,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "tout\\textsc{.f.sg}  monde\\textsc{.def.f}  \\textsc{sbjv}  venir.\\textsc{sbjv.3}  \u00e0  table",
+        "imtwordsbare": [
+            "tout.f.sg",
+            "monde.def.f",
+            "SBJV",
+            "venir.sbjv.3",
+            "\u00e0",
+            "table"
+        ],
+        "imtwordshtml": [
+            "tout<span class=\"sc\">.f.sg</span>",
+            "monde<span class=\"sc\">.def.f</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "venir.<span class=\"sc\">sbjv.3</span>",
+            "\u00e0",
+            "table"
+        ],
+        "imtwordstex": [
+            "tout\\textsc{.f.sg}",
+            "monde\\textsc{.def.f}",
+            "\\textsc{sbjv}",
+            "venir.\\textsc{sbjv.3}",
+            "\u00e0",
+            "table"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Toat\u0103  lumea  \\textbf{s\u0103} \\textbf{vin\u0103} la  mas\u0103!",
+        "srcwordsbare": [
+            "Toat\u0103",
+            "lumea",
+            "s\u0103",
+            "vin\u0103",
+            "la",
+            "mas\u0103!"
+        ],
+        "srcwordshtml": [
+            "Toat\u0103",
+            "lumea",
+            "<span class=\"bf\">s\u0103</span>",
+            "<span class=\"bf\">vin\u0103</span>",
+            "la",
+            "mas\u0103!"
+        ],
+        "srcwordstex": [
+            "Toat\u0103",
+            "lumea",
+            "\\textbf{s\u0103}",
+            "\\textbf{vin\u0103}",
+            "la",
+            "mas\u0103!"
+        ],
+        "trs": "Que tout le monde vienne \u00e0 table !",
+        "wlength": 6
+    },
+    {
+        "ID": "ch1--84892",
+        "categories": [
+            "",
+            "2sg",
+            "dat",
+            "def",
+            "imp"
+        ],
+        "clength": 45,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "dire.\\textsc{imp.2sg}  stop  violence\\textsc{.dat.def}  en  famille",
+        "imtwordsbare": [
+            "dire.imp.2sg",
+            "stop",
+            "violence.dat.def",
+            "en",
+            "famille"
+        ],
+        "imtwordshtml": [
+            "dire.<span class=\"sc\">imp.2sg</span>",
+            "stop",
+            "violence<span class=\"sc\">.dat.def</span>",
+            "en",
+            "famille"
+        ],
+        "imtwordstex": [
+            "dire.\\textsc{imp.2sg}",
+            "stop",
+            "violence\\textsc{.dat.def}",
+            "en",
+            "famille"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\textbf{Spune}  stop  violen\u021bei  \u00een  familie!",
+        "srcwordsbare": [
+            "Spune",
+            "stop",
+            "violen\u021bei",
+            "\u00een",
+            "familie!"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Spune</span>",
+            "stop",
+            "violen\u021bei",
+            "\u00een",
+            "familie!"
+        ],
+        "srcwordstex": [
+            "\\textbf{Spune}",
+            "stop",
+            "violen\u021bei",
+            "\u00een",
+            "familie!"
+        ],
+        "trs": "Dis stop \u00e0 la violence domestique !",
+        "wlength": 5
+    },
+    {
+        "ID": "ch1--80781",
+        "categories": [
+            "1sg",
+            "neg",
+            "prs"
+        ],
+        "clength": 59,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Ion  se  marie  mais  \\textsc{neg}  savoir.\\textsc{prs.1sg}  avec  qui",
+        "imtwordsbare": [
+            "Ion",
+            "se",
+            "marie",
+            "mais",
+            "NEG",
+            "savoir.prs.1sg",
+            "avec",
+            "qui"
+        ],
+        "imtwordshtml": [
+            "Ion",
+            "se",
+            "marie",
+            "mais",
+            "<span class=\"sc\">neg</span>",
+            "savoir.<span class=\"sc\">prs.1sg</span>",
+            "avec",
+            "qui"
+        ],
+        "imtwordstex": [
+            "Ion",
+            "se",
+            "marie",
+            "mais",
+            "\\textsc{neg}",
+            "savoir.\\textsc{prs.1sg}",
+            "avec",
+            "qui"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\ulg{Ion}{24.3} se c\u0103s\u0103tore\u015fte,  dar  nu  \u015ftiu  [cu  cine].",
+        "srcwordsbare": [
+            "\\ulg{Ion}{24.3}",
+            "se",
+            "c\u0103s\u0103tore\u015fte,",
+            "dar",
+            "nu",
+            "\u015ftiu",
+            "[cu",
+            "cine]."
+        ],
+        "srcwordshtml": [
+            "\\ulg{Ion}{24.3}",
+            "se",
+            "c\u0103s\u0103tore\u015fte,",
+            "dar",
+            "nu",
+            "\u015ftiu",
+            "[cu",
+            "cine]."
+        ],
+        "srcwordstex": [
+            "\\ulg{Ion}{24.3}",
+            "se",
+            "c\u0103s\u0103tore\u015fte,",
+            "dar",
+            "nu",
+            "\u015ftiu",
+            "[cu",
+            "cine]."
+        ],
+        "trs": "Ion se marie, mais je ne sais pas avec qui.",
+        "wlength": 8
+    },
+    {
+        "ID": "ch1-677254",
+        "categories": [
+            "neg"
+        ],
+        "clength": 57,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Ion  \\textsc{neg}  vient  \u00e0  f\u00eate  et  ni  Maria",
+        "imtwordsbare": [
+            "Ion",
+            "NEG",
+            "vient",
+            "\u00e0",
+            "f\u00eate",
+            "et",
+            "ni",
+            "Maria"
+        ],
+        "imtwordshtml": [
+            "Ion",
+            "<span class=\"sc\">neg</span>",
+            "vient",
+            "\u00e0",
+            "f\u00eate",
+            "et",
+            "ni",
+            "Maria"
+        ],
+        "imtwordstex": [
+            "Ion",
+            "\\textsc{neg}",
+            "vient",
+            "\u00e0",
+            "f\u00eate",
+            "et",
+            "ni",
+            "Maria"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Ion \\ulg{nu}{30.2} vine la petrecere,  [\u015fi  nici  Maria].",
+        "srcwordsbare": [
+            "Ion",
+            "\\ulg{nu}{30.2}",
+            "vine",
+            "la",
+            "petrecere,",
+            "[\u015fi",
+            "nici",
+            "Maria]."
+        ],
+        "srcwordshtml": [
+            "Ion",
+            "\\ulg{nu}{30.2}",
+            "vine",
+            "la",
+            "petrecere,",
+            "[\u015fi",
+            "nici",
+            "Maria]."
+        ],
+        "srcwordstex": [
+            "Ion",
+            "\\ulg{nu}{30.2}",
+            "vine",
+            "la",
+            "petrecere,",
+            "[\u015fi",
+            "nici",
+            "Maria]."
+        ],
+        "trs": "Ion ne vient pas \u00e0 la f\u00eate et Maria non plus.",
+        "wlength": 8
+    },
+    {
+        "ID": "ch1-547637",
+        "categories": [
+            "1pl",
+            "1sg",
+            "3sg",
+            "acc",
+            "def",
+            "m",
+            "poss"
+        ],
+        "clength": 64,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "grand-m\u00e8re.\\textsc{def}  \\textsc{poss.m.3sg} \\textsc{acc.1pl}  aide  beaucoup  mais  aussi  parents.\\textsc{def} \\textsc{poss.1sg}",
+        "imtwordsbare": [
+            "grand-m\u00e8re.DEF",
+            "poss.m.3sg",
+            "acc.1pl",
+            "aide",
+            "beaucoup",
+            "mais",
+            "aussi",
+            "parents.DEF",
+            "poss.1sg"
+        ],
+        "imtwordshtml": [
+            "grand-m\u00e8re.<span class=\"sc\">def</span>",
+            "<span class=\"sc\">poss.m.3sg</span>",
+            "<span class=\"sc\">acc.1pl</span>",
+            "aide",
+            "beaucoup",
+            "mais",
+            "aussi",
+            "parents.<span class=\"sc\">def</span>",
+            "<span class=\"sc\">poss.1sg</span>"
+        ],
+        "imtwordstex": [
+            "grand-m\u00e8re.\\textsc{def}",
+            "\\textsc{poss.m.3sg}",
+            "\\textsc{acc.1pl}",
+            "aide",
+            "beaucoup",
+            "mais",
+            "aussi",
+            "parents.\\textsc{def}",
+            "\\textsc{poss.1sg}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Bunica  lui  \\ulg{ne}{25} ajut\u0103 mult,  [dar  \u015fi  p\u0103rin\u0163ii  mei].",
+        "srcwordsbare": [
+            "Bunica",
+            "lui",
+            "\\ulg{ne}{25}",
+            "ajut\u0103",
+            "mult,",
+            "[dar",
+            "\u015fi",
+            "p\u0103rin\u0163ii",
+            "mei]."
+        ],
+        "srcwordshtml": [
+            "Bunica",
+            "lui",
+            "\\ulg{ne}{25}",
+            "ajut\u0103",
+            "mult,",
+            "[dar",
+            "\u015fi",
+            "p\u0103rin\u0163ii",
+            "mei]."
+        ],
+        "srcwordstex": [
+            "Bunica",
+            "lui",
+            "\\ulg{ne}{25}",
+            "ajut\u0103",
+            "mult,",
+            "[dar",
+            "\u015fi",
+            "p\u0103rin\u0163ii",
+            "mei]."
+        ],
+        "trs": "Sa grand-m\u00e8re nous aide beaucoup, mais mes parents aussi (nous aident).",
+        "wlength": 9
+    },
+    {
+        "ID": "ch1-647929",
+        "categories": [
+            "3sg",
+            "def",
+            "pst"
+        ],
+        "clength": 45,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "A : - \\textsc{def}  Kim  prendre.\\textsc{pst.3sg} \\textsc{def}  livre B: - prendre.\\textsc{pst.3sg}",
+        "imtwordsbare": [
+            "A",
+            ":",
+            "-",
+            "DEF",
+            "Kim",
+            "prendre.pst.3sg",
+            "DEF",
+            "livre",
+            "B:",
+            "-",
+            "prendre.pst.3sg"
+        ],
+        "imtwordshtml": [
+            "A",
+            ":",
+            "-",
+            "<span class=\"sc\">def</span>",
+            "Kim",
+            "prendre.<span class=\"sc\">pst.3sg</span>",
+            "<span class=\"sc\">def</span>",
+            "livre",
+            "B:",
+            "-",
+            "prendre.<span class=\"sc\">pst.3sg</span>"
+        ],
+        "imtwordstex": [
+            "A",
+            ":",
+            "-",
+            "\\textsc{def}",
+            "Kim",
+            "prendre.\\textsc{pst.3sg}",
+            "\\textsc{def}",
+            "livre",
+            "B:",
+            "-",
+            "prendre.\\textsc{pst.3sg}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "A : -  O  Kim  pegou  o  livro?  B: -  Pegou.",
+        "srcwordsbare": [
+            "A",
+            ":",
+            "-",
+            "O",
+            "Kim",
+            "pegou",
+            "o",
+            "livro?",
+            "B:",
+            "-",
+            "Pegou."
+        ],
+        "srcwordshtml": [
+            "A",
+            ":",
+            "-",
+            "O",
+            "Kim",
+            "pegou",
+            "o",
+            "livro?",
+            "B:",
+            "-",
+            "Pegou."
+        ],
+        "srcwordstex": [
+            "A",
+            ":",
+            "-",
+            "O",
+            "Kim",
+            "pegou",
+            "o",
+            "livro?",
+            "B:",
+            "-",
+            "Pegou."
+        ],
+        "trs": "A : \u2018- Est-ce que Kim a pris le livre ?\u2019  B : \u2018- Oui, il l\u2019a pris.",
+        "wlength": 11
+    },
+    {
+        "ID": "ch1--34482",
+        "categories": [
+            "1sg",
+            "fut",
+            "neg",
+            "prs",
+            "sbjv"
+        ],
+        "clength": 64,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "\\textsc{neg}  savoir.\\textsc{prs.1sg}  si  \\textsc{fut.1sg}  r\u00e9ussir  \\textsc{sbjv}  finir.\\textsc{sbjv.1sg}  mais  essayer.\\textsc{prs.1sg}",
+        "imtwordsbare": [
+            "NEG",
+            "savoir.prs.1sg",
+            "si",
+            "fut.1sg",
+            "r\u00e9ussir",
+            "SBJV",
+            "finir.sbjv.1sg",
+            "mais",
+            "essayer.prs.1sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "savoir.<span class=\"sc\">prs.1sg</span>",
+            "si",
+            "<span class=\"sc\">fut.1sg</span>",
+            "r\u00e9ussir",
+            "<span class=\"sc\">sbjv</span>",
+            "finir.<span class=\"sc\">sbjv.1sg</span>",
+            "mais",
+            "essayer.<span class=\"sc\">prs.1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "savoir.\\textsc{prs.1sg}",
+            "si",
+            "\\textsc{fut.1sg}",
+            "r\u00e9ussir",
+            "\\textsc{sbjv}",
+            "finir.\\textsc{sbjv.1sg}",
+            "mais",
+            "essayer.\\textsc{prs.1sg}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Nu  \u015ftiu  dac\u0103  voi  reu\u015fi  \\ulg{s\u0103}{15} termin,  [dar  \u00eencerc].",
+        "srcwordsbare": [
+            "Nu",
+            "\u015ftiu",
+            "dac\u0103",
+            "voi",
+            "reu\u015fi",
+            "\\ulg{s\u0103}{15}",
+            "termin,",
+            "[dar",
+            "\u00eencerc]."
+        ],
+        "srcwordshtml": [
+            "Nu",
+            "\u015ftiu",
+            "dac\u0103",
+            "voi",
+            "reu\u015fi",
+            "\\ulg{s\u0103}{15}",
+            "termin,",
+            "[dar",
+            "\u00eencerc]."
+        ],
+        "srcwordstex": [
+            "Nu",
+            "\u015ftiu",
+            "dac\u0103",
+            "voi",
+            "reu\u015fi",
+            "\\ulg{s\u0103}{15}",
+            "termin,",
+            "[dar",
+            "\u00eencerc]."
+        ],
+        "trs": "Je ne sais pas si j\u2019arrive \u00e0 finir, mais j\u2019essaie.",
+        "wlength": 9
+    },
+    {
+        "ID": "ch1-285861",
+        "categories": [
+            "3",
+            "3sg",
+            "neg",
+            "prs",
+            "sbjv"
+        ],
+        "clength": 71,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Dan  peut  \\textsc{sbjv}  manger.\\textsc{sbjv.3}  concombres  mais  tomates  \\textsc{neg}  pouvoir.\\textsc{prs.3sg}",
+        "imtwordsbare": [
+            "Dan",
+            "peut",
+            "SBJV",
+            "manger.sbjv.3",
+            "concombres",
+            "mais",
+            "tomates",
+            "NEG",
+            "pouvoir.prs.3sg"
+        ],
+        "imtwordshtml": [
+            "Dan",
+            "peut",
+            "<span class=\"sc\">sbjv</span>",
+            "manger.<span class=\"sc\">sbjv.3</span>",
+            "concombres",
+            "mais",
+            "tomates",
+            "<span class=\"sc\">neg</span>",
+            "pouvoir.<span class=\"sc\">prs.3sg</span>"
+        ],
+        "imtwordstex": [
+            "Dan",
+            "peut",
+            "\\textsc{sbjv}",
+            "manger.\\textsc{sbjv.3}",
+            "concombres",
+            "mais",
+            "tomates",
+            "\\textsc{neg}",
+            "pouvoir.\\textsc{prs.3sg}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Dan  poate \\ulg{s\u0103}{18.5} m\u0103n\u00e2nce  castrave\u021bi,  dar  ro\u0219ii,  nu  poate.",
+        "srcwordsbare": [
+            "Dan",
+            "poate",
+            "\\ulg{s\u0103}{18.5}",
+            "m\u0103n\u00e2nce",
+            "castrave\u021bi,",
+            "dar",
+            "ro\u0219ii,",
+            "nu",
+            "poate."
+        ],
+        "srcwordshtml": [
+            "Dan",
+            "poate",
+            "\\ulg{s\u0103}{18.5}",
+            "m\u0103n\u00e2nce",
+            "castrave\u021bi,",
+            "dar",
+            "ro\u0219ii,",
+            "nu",
+            "poate."
+        ],
+        "srcwordstex": [
+            "Dan",
+            "poate",
+            "\\ulg{s\u0103}{18.5}",
+            "m\u0103n\u00e2nce",
+            "castrave\u021bi,",
+            "dar",
+            "ro\u0219ii,",
+            "nu",
+            "poate."
+        ],
+        "trs": "Dan peut manger des concombres, mais des tomates, il ne peut pas.",
+        "wlength": 9
+    },
+    {
+        "ID": "ch1--54287",
+        "categories": [
+            "3",
+            "3sg",
+            "neg",
+            "prs",
+            "sbjv"
+        ],
+        "clength": 71,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Dan  peut  \\textsc{sbjv}  manger.\\textsc{sbjv.3}  concombres  mais  \\textsc{neg}  pouvoir.\\textsc{prs.3sg}  tomates",
+        "imtwordsbare": [
+            "Dan",
+            "peut",
+            "SBJV",
+            "manger.sbjv.3",
+            "concombres",
+            "mais",
+            "NEG",
+            "pouvoir.prs.3sg",
+            "tomates"
+        ],
+        "imtwordshtml": [
+            "Dan",
+            "peut",
+            "<span class=\"sc\">sbjv</span>",
+            "manger.<span class=\"sc\">sbjv.3</span>",
+            "concombres",
+            "mais",
+            "<span class=\"sc\">neg</span>",
+            "pouvoir.<span class=\"sc\">prs.3sg</span>",
+            "tomates"
+        ],
+        "imtwordstex": [
+            "Dan",
+            "peut",
+            "\\textsc{sbjv}",
+            "manger.\\textsc{sbjv.3}",
+            "concombres",
+            "mais",
+            "\\textsc{neg}",
+            "pouvoir.\\textsc{prs.3sg}",
+            "tomates"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "??Dan  poate \\ulg{s\u0103}{18.5} m\u0103n\u00e2nce castrave\u021bi,  dar  nu  poate  ro\u0219ii.",
+        "srcwordsbare": [
+            "??Dan",
+            "poate",
+            "\\ulg{s\u0103}{18.5}",
+            "m\u0103n\u00e2nce",
+            "castrave\u021bi,",
+            "dar",
+            "nu",
+            "poate",
+            "ro\u0219ii."
+        ],
+        "srcwordshtml": [
+            "??Dan",
+            "poate",
+            "\\ulg{s\u0103}{18.5}",
+            "m\u0103n\u00e2nce",
+            "castrave\u021bi,",
+            "dar",
+            "nu",
+            "poate",
+            "ro\u0219ii."
+        ],
+        "srcwordstex": [
+            "??Dan",
+            "poate",
+            "\\ulg{s\u0103}{18.5}",
+            "m\u0103n\u00e2nce",
+            "castrave\u021bi,",
+            "dar",
+            "nu",
+            "poate",
+            "ro\u0219ii."
+        ],
+        "trs": "'Dan peut manger des concombres, mais il ne peut pas manger de tomates.",
+        "wlength": 9
+    },
+    {
+        "ID": "ch1--79344",
+        "categories": [
+            "",
+            "3",
+            "3pl",
+            "def",
+            "fut",
+            "gen",
+            "poss",
+            "sbjv"
+        ],
+        "clength": 98,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "parents.\\textsc{def}  affectueux  ont  \u00e9t\u00e9  toujours  et  \\textsc{fut.3pl}  continuer  \\textsc{sbjv}  \u00eatre.\\textsc{sbjv.3} \u00e0\\_c\u00f4t\u00e9  de  enfants\\textsc{.def}  \\textsc{poss.gen.3pl}",
+        "imtwordsbare": [
+            "parents.DEF",
+            "affectueux",
+            "ont",
+            "\u00e9t\u00e9",
+            "toujours",
+            "et",
+            "fut.3pl",
+            "continuer",
+            "SBJV",
+            "\u00eatre.sbjv.3",
+            "\u00e0_c\u00f4t\u00e9",
+            "de",
+            "enfants.def",
+            "poss.gen.3pl"
+        ],
+        "imtwordshtml": [
+            "parents.<span class=\"sc\">def</span>",
+            "affectueux",
+            "ont",
+            "\u00e9t\u00e9",
+            "toujours",
+            "et",
+            "<span class=\"sc\">fut.3pl</span>",
+            "continuer",
+            "<span class=\"sc\">sbjv</span>",
+            "\u00eatre.<span class=\"sc\">sbjv.3</span>",
+            "\u00e0_c\u00f4t\u00e9",
+            "de",
+            "enfants<span class=\"sc\">.def</span>",
+            "<span class=\"sc\">poss.gen.3pl</span>"
+        ],
+        "imtwordstex": [
+            "parents.\\textsc{def}",
+            "affectueux",
+            "ont",
+            "\u00e9t\u00e9",
+            "toujours",
+            "et",
+            "\\textsc{fut.3pl}",
+            "continuer",
+            "\\textsc{sbjv}",
+            "\u00eatre.\\textsc{sbjv.3}",
+            "\u00e0\\_c\u00f4t\u00e9",
+            "de",
+            "enfants\\textsc{.def}",
+            "\\textsc{poss.gen.3pl}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "P\u0103rin\u0163ii  iubitori  [au  fost  mereu]  \u0219i  vor  continua  s\u0103  fie \\ulg{al\u0103turi}{31} de copiii lor.",
+        "srcwordsbare": [
+            "P\u0103rin\u0163ii",
+            "iubitori",
+            "[au",
+            "fost",
+            "mereu]",
+            "\u0219i",
+            "vor",
+            "continua",
+            "s\u0103",
+            "fie",
+            "\\ulg{al\u0103turi}{31}",
+            "de",
+            "copiii",
+            "lor."
+        ],
+        "srcwordshtml": [
+            "P\u0103rin\u0163ii",
+            "iubitori",
+            "[au",
+            "fost",
+            "mereu]",
+            "\u0219i",
+            "vor",
+            "continua",
+            "s\u0103",
+            "fie",
+            "\\ulg{al\u0103turi}{31}",
+            "de",
+            "copiii",
+            "lor."
+        ],
+        "srcwordstex": [
+            "P\u0103rin\u0163ii",
+            "iubitori",
+            "[au",
+            "fost",
+            "mereu]",
+            "\u0219i",
+            "vor",
+            "continua",
+            "s\u0103",
+            "fie",
+            "\\ulg{al\u0103turi}{31}",
+            "de",
+            "copiii",
+            "lor."
+        ],
+        "trs": "Les parents affectueux ont toujours \u00e9t\u00e9 et continueront d\u2019\u00eatre aux c\u00f4t\u00e9s de leurs enfants.",
+        "wlength": 14
+    },
+    {
+        "ID": "ch1-894930",
+        "categories": [],
+        "clength": 42,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "Vanja  eau  a-bu  et  Masha  vin",
+        "imtwordsbare": [
+            "Vanja",
+            "eau",
+            "a-bu",
+            "et",
+            "Masha",
+            "vin"
+        ],
+        "imtwordshtml": [
+            "Vanja",
+            "eau",
+            "a-bu",
+            "et",
+            "Masha",
+            "vin"
+        ],
+        "imtwordstex": [
+            "Vanja",
+            "eau",
+            "a-bu",
+            "et",
+            "Masha",
+            "vin"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Vanja  vodu  \\uline{pil},  a  Masha  vino.",
+        "srcwordsbare": [
+            "Vanja",
+            "vodu",
+            "\\uline{pil},",
+            "a",
+            "Masha",
+            "vino."
+        ],
+        "srcwordshtml": [
+            "Vanja",
+            "vodu",
+            "\\uline{pil},",
+            "a",
+            "Masha",
+            "vino."
+        ],
+        "srcwordstex": [
+            "Vanja",
+            "vodu",
+            "\\uline{pil},",
+            "a",
+            "Masha",
+            "vino."
+        ],
+        "trs": "Vanja a bu de l\u2019eau et Masha du vin.",
+        "wlength": 6
+    },
+    {
+        "ID": "ch1-178570",
+        "categories": [],
+        "clength": 50,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "aime  Julia  Romeo  et  Kleopatra  Caesar",
+        "imtwordsbare": [
+            "aime",
+            "Julia",
+            "Romeo",
+            "et",
+            "Kleopatra",
+            "Caesar"
+        ],
+        "imtwordshtml": [
+            "aime",
+            "Julia",
+            "Romeo",
+            "et",
+            "Kleopatra",
+            "Caesar"
+        ],
+        "imtwordstex": [
+            "aime",
+            "Julia",
+            "Romeo",
+            "et",
+            "Kleopatra",
+            "Caesar"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\uline{Liebt} Julia  Romeo  und  Kleopatra  C\u00e4sar?",
+        "srcwordsbare": [
+            "\\uline{Liebt}",
+            "Julia",
+            "Romeo",
+            "und",
+            "Kleopatra",
+            "C\u00e4sar?"
+        ],
+        "srcwordshtml": [
+            "\\uline{Liebt}",
+            "Julia",
+            "Romeo",
+            "und",
+            "Kleopatra",
+            "C\u00e4sar?"
+        ],
+        "srcwordstex": [
+            "\\uline{Liebt}",
+            "Julia",
+            "Romeo",
+            "und",
+            "Kleopatra",
+            "C\u00e4sar?"
+        ],
+        "trs": "Est-ce que Juliette aime Rom\u00e9o et Cl\u00e9op\u00e2tre C\u00e9sar ?",
+        "wlength": 6
+    },
+    {
+        "ID": "ch1-274890",
+        "categories": [],
+        "clength": 67,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "je  crois  que  Peter  pommes-de-terre  et  Maria  pain  a-mang\u00e9",
+        "imtwordsbare": [
+            "je",
+            "crois",
+            "que",
+            "Peter",
+            "pommes-de-terre",
+            "et",
+            "Maria",
+            "pain",
+            "a-mang\u00e9"
+        ],
+        "imtwordshtml": [
+            "je",
+            "crois",
+            "que",
+            "Peter",
+            "pommes-de-terre",
+            "et",
+            "Maria",
+            "pain",
+            "a-mang\u00e9"
+        ],
+        "imtwordstex": [
+            "je",
+            "crois",
+            "que",
+            "Peter",
+            "pommes-de-terre",
+            "et",
+            "Maria",
+            "pain",
+            "a-mang\u00e9"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Ich  glaube  dass  Peter  Kartoffeln  und  Maria  Brod  \\uline{a\u00df}.",
+        "srcwordsbare": [
+            "Ich",
+            "glaube",
+            "dass",
+            "Peter",
+            "Kartoffeln",
+            "und",
+            "Maria",
+            "Brod",
+            "\\uline{a\u00df}."
+        ],
+        "srcwordshtml": [
+            "Ich",
+            "glaube",
+            "dass",
+            "Peter",
+            "Kartoffeln",
+            "und",
+            "Maria",
+            "Brod",
+            "\\uline{a\u00df}."
+        ],
+        "srcwordstex": [
+            "Ich",
+            "glaube",
+            "dass",
+            "Peter",
+            "Kartoffeln",
+            "und",
+            "Maria",
+            "Brod",
+            "\\uline{a\u00df}."
+        ],
+        "trs": "Je crois que Peter a mang\u00e9 des pommes de terre et Maria du pain.",
+        "wlength": 9
+    },
+    {
+        "ID": "ch1-125003",
+        "categories": [
+            "acc",
+            "decl",
+            "nom",
+            "past"
+        ],
+        "clength": 59,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "gar\u00e7on-\\textsc{nom}  carriole-\\textsc{acc}  tirer-et  fille-\\textsc{nom}  pousser-\\textsc{past-decl}",
+        "imtwordsbare": [
+            "gar\u00e7on-NOM",
+            "carriole-ACC",
+            "tirer-et",
+            "fille-NOM",
+            "pousser-past-decl"
+        ],
+        "imtwordshtml": [
+            "gar\u00e7on-<span class=\"sc\">nom</span>",
+            "carriole-<span class=\"sc\">acc</span>",
+            "tirer-et",
+            "fille-<span class=\"sc\">nom</span>",
+            "pousser-<span class=\"sc\">past-decl</span>"
+        ],
+        "imtwordstex": [
+            "gar\u00e7on-\\textsc{nom}",
+            "carriole-\\textsc{acc}",
+            "tirer-et",
+            "fille-\\textsc{nom}",
+            "pousser-\\textsc{past-decl}"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Sonyen-i  \\uline{swuley-lul}  kul-ko  sonye-ka  mile-ss-ta.",
+        "srcwordsbare": [
+            "Sonyen-i",
+            "\\uline{swuley-lul}",
+            "kul-ko",
+            "sonye-ka",
+            "mile-ss-ta."
+        ],
+        "srcwordshtml": [
+            "Sonyen-i",
+            "\\uline{swuley-lul}",
+            "kul-ko",
+            "sonye-ka",
+            "mile-ss-ta."
+        ],
+        "srcwordstex": [
+            "Sonyen-i",
+            "\\uline{swuley-lul}",
+            "kul-ko",
+            "sonye-ka",
+            "mile-ss-ta."
+        ],
+        "trs": "Le gar\u00e7on a tir\u00e9, et la fille a pouss\u00e9 la carriole.",
+        "wlength": 5
+    },
+    {
+        "ID": "ch1-105308",
+        "categories": [],
+        "clength": 57,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "livre  Ramu  a-achet\u00e9  mais  Krishnan  a-lu",
+        "imtwordsbare": [
+            "livre",
+            "Ramu",
+            "a-achet\u00e9",
+            "mais",
+            "Krishnan",
+            "a-lu"
+        ],
+        "imtwordshtml": [
+            "livre",
+            "Ramu",
+            "a-achet\u00e9",
+            "mais",
+            "Krishnan",
+            "a-lu"
+        ],
+        "imtwordstex": [
+            "livre",
+            "Ramu",
+            "a-achet\u00e9",
+            "mais",
+            "Krishnan",
+            "a-lu"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\uline{Pustakam}  Raamu  vaa\u014b\u014bi  pak\u1e63e  K\u1e5b\u1e63\u1e47an  vaayiccu.",
+        "srcwordsbare": [
+            "\\uline{Pustakam}",
+            "Raamu",
+            "vaa\u014b\u014bi",
+            "pak\u1e63e",
+            "K\u1e5b\u1e63\u1e47an",
+            "vaayiccu."
+        ],
+        "srcwordshtml": [
+            "\\uline{Pustakam}",
+            "Raamu",
+            "vaa\u014b\u014bi",
+            "pak\u1e63e",
+            "K\u1e5b\u1e63\u1e47an",
+            "vaayiccu."
+        ],
+        "srcwordstex": [
+            "\\uline{Pustakam}",
+            "Raamu",
+            "vaa\u014b\u014bi",
+            "pak\u1e63e",
+            "K\u1e5b\u1e63\u1e47an",
+            "vaayiccu."
+        ],
+        "trs": "Ramu a achet\u00e9, mais Krishnan a lu le livre.",
+        "wlength": 6
+    },
+    {
+        "ID": "ch1--79021",
+        "categories": [
+            "def"
+        ],
+        "clength": 66,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "\\textsc{def}  livre  a-achet\u00e9  mon  p\u00e8re  et  a-lu  ma  m\u00e8re",
+        "imtwordsbare": [
+            "DEF",
+            "livre",
+            "a-achet\u00e9",
+            "mon",
+            "p\u00e8re",
+            "et",
+            "a-lu",
+            "ma",
+            "m\u00e8re"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "livre",
+            "a-achet\u00e9",
+            "mon",
+            "p\u00e8re",
+            "et",
+            "a-lu",
+            "ma",
+            "m\u00e8re"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "livre",
+            "a-achet\u00e9",
+            "mon",
+            "p\u00e8re",
+            "et",
+            "a-lu",
+            "ma",
+            "m\u00e8re"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "\\ulg{Das}{10.6} Buch kaufte  mein  Vater  und  las  meine  Mutter.",
+        "srcwordsbare": [
+            "\\ulg{Das}{10.6}",
+            "Buch",
+            "kaufte",
+            "mein",
+            "Vater",
+            "und",
+            "las",
+            "meine",
+            "Mutter."
+        ],
+        "srcwordshtml": [
+            "\\ulg{Das}{10.6}",
+            "Buch",
+            "kaufte",
+            "mein",
+            "Vater",
+            "und",
+            "las",
+            "meine",
+            "Mutter."
+        ],
+        "srcwordstex": [
+            "\\ulg{Das}{10.6}",
+            "Buch",
+            "kaufte",
+            "mein",
+            "Vater",
+            "und",
+            "las",
+            "meine",
+            "Mutter."
+        ],
+        "trs": "Le livre a \u00e9t\u00e9 achet\u00e9 par mon p\u00e8re et lu par ma m\u00e8re.",
+        "wlength": 9
+    },
+    {
+        "ID": "ch1--25665",
+        "categories": [
+            "def"
+        ],
+        "clength": 55,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "a-vu  Gwen  et  a-averti  Ifor \\textsc{def} homme",
+        "imtwordsbare": [
+            "a-vu",
+            "Gwen",
+            "et",
+            "a-averti",
+            "Ifor",
+            "DEF",
+            "homme"
+        ],
+        "imtwordshtml": [
+            "a-vu",
+            "Gwen",
+            "et",
+            "a-averti",
+            "Ifor",
+            "<span class=\"sc\">def</span>",
+            "homme"
+        ],
+        "imtwordstex": [
+            "a-vu",
+            "Gwen",
+            "et",
+            "a-averti",
+            "Ifor",
+            "\\textsc{def}",
+            "homme"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Gwelodd  Gwen,  a  rhybuddiodd  Ifor,  \\ulg{y}{11} dyn.",
+        "srcwordsbare": [
+            "Gwelodd",
+            "Gwen,",
+            "a",
+            "rhybuddiodd",
+            "Ifor,",
+            "\\ulg{y}{11}",
+            "dyn."
+        ],
+        "srcwordshtml": [
+            "Gwelodd",
+            "Gwen,",
+            "a",
+            "rhybuddiodd",
+            "Ifor,",
+            "\\ulg{y}{11}",
+            "dyn."
+        ],
+        "srcwordstex": [
+            "Gwelodd",
+            "Gwen,",
+            "a",
+            "rhybuddiodd",
+            "Ifor,",
+            "\\ulg{y}{11}",
+            "dyn."
+        ],
+        "trs": "Gwen a vu, et Ifor a averti l\u2019homme.",
+        "wlength": 7
+    },
+    {
+        "ID": "ch1--15645",
+        "categories": [
+            "acc"
+        ],
+        "clength": 57,
+        "filename": "27/chapters/ch1.tex",
+        "imt": "cela  rappelle  moi  \u00e0  mon.\\textsc{acc}  p\u00e8re",
+        "imtwordsbare": [
+            "cela",
+            "rappelle",
+            "moi",
+            "\u00e0",
+            "mon.ACC",
+            "p\u00e8re"
+        ],
+        "imtwordshtml": [
+            "cela",
+            "rappelle",
+            "moi",
+            "\u00e0",
+            "mon.<span class=\"sc\">acc</span>",
+            "p\u00e8re"
+        ],
+        "imtwordstex": [
+            "cela",
+            "rappelle",
+            "moi",
+            "\u00e0",
+            "mon.\\textsc{acc}",
+            "p\u00e8re"
+        ],
+        "language": "27/chapters/ch1.tex",
+        "src": "Das  erinnert  mich  an  meinen  Vater.\\label{ch1:ex135c}",
+        "srcwordsbare": [
+            "Das",
+            "erinnert",
+            "mich",
+            "an",
+            "meinen",
+            "Vater.\\label{ch1:ex135c}"
+        ],
+        "srcwordshtml": [
+            "Das",
+            "erinnert",
+            "mich",
+            "an",
+            "meinen",
+            "Vater.\\label{ch1:ex135c}"
+        ],
+        "srcwordstex": [
+            "Das",
+            "erinnert",
+            "mich",
+            "an",
+            "meinen",
+            "Vater.\\label{ch1:ex135c}"
+        ],
+        "trs": "Cela me rappelle mon p\u00e8re.",
+        "wlength": 6
+    }
+]

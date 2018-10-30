@@ -1,0 +1,631 @@
+[
+    {
+        "ID": "chap-interface--72004",
+        "categories": [
+            "def",
+            "m",
+            "sg"
+        ],
+        "clength": 6,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "boy(\\textsc{m})=\\textsc{def:m.sg}",
+        "imtwordsbare": [
+            "boy(M)=def:m.sg"
+        ],
+        "imtwordshtml": [
+            "boy(<span class=\"sc\">m</span>)=<span class=\"sc\">def:m.sg</span>"
+        ],
+        "imtwordstex": [
+            "boy(\\textsc{m})=\\textsc{def:m.sg}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "djal=i",
+        "srcwordsbare": [
+            "djal=i"
+        ],
+        "srcwordshtml": [
+            "djal=i"
+        ],
+        "srcwordstex": [
+            "djal=i"
+        ],
+        "trs": "the boy",
+        "wlength": 1
+    },
+    {
+        "ID": "chap-interface--75390",
+        "categories": [
+            "attr",
+            "def",
+            "m",
+            "sg"
+        ],
+        "clength": 20,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "boy(\\textsc{m})=\\textsc{def:m.sg} \t\\textsc{attr:def.m.sg}\tgood.\\textsc{m.sg}",
+        "imtwordsbare": [
+            "boy(M)=def:m.sg",
+            "attr:def.m.sg",
+            "good.m.sg"
+        ],
+        "imtwordshtml": [
+            "boy(<span class=\"sc\">m</span>)=<span class=\"sc\">def:m.sg</span>",
+            "<span class=\"sc\">attr:def.m.sg</span>",
+            "good.<span class=\"sc\">m.sg</span>"
+        ],
+        "imtwordstex": [
+            "boy(\\textsc{m})=\\textsc{def:m.sg}",
+            "\\textsc{attr:def.m.sg}",
+            "good.\\textsc{m.sg}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "djal=i \t\t\t\ti \t\t\tmire",
+        "srcwordsbare": [
+            "djal=i",
+            "i",
+            "mire"
+        ],
+        "srcwordshtml": [
+            "djal=i",
+            "i",
+            "mire"
+        ],
+        "srcwordstex": [
+            "djal=i",
+            "i",
+            "mire"
+        ],
+        "trs": "the good boy",
+        "wlength": 3
+    },
+    {
+        "ID": "chap-interface--17377",
+        "categories": [
+            "attr",
+            "def",
+            "m",
+            "sg"
+        ],
+        "clength": 19,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "\\textsc{attr:def.m.sg} \tgood=\\textsc{def:m.sg} \tboy(\\textsc{m})",
+        "imtwordsbare": [
+            "attr:def.m.sg",
+            "good=def:m.sg",
+            "boy(M)"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">attr:def.m.sg</span>",
+            "good=<span class=\"sc\">def:m.sg</span>",
+            "boy(<span class=\"sc\">m</span>)"
+        ],
+        "imtwordstex": [
+            "\\textsc{attr:def.m.sg}",
+            "good=\\textsc{def:m.sg}",
+            "boy(\\textsc{m})"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "i \t\t\tmir=i \t\t\tdjal\u00eb",
+        "srcwordsbare": [
+            "i",
+            "mir=i",
+            "djal\u00eb"
+        ],
+        "srcwordshtml": [
+            "i",
+            "mir=i",
+            "djal\u00eb"
+        ],
+        "srcwordstex": [
+            "i",
+            "mir=i",
+            "djal\u00eb"
+        ],
+        "trs": "the \\textsc{good} boy",
+        "wlength": 3
+    },
+    {
+        "ID": "chap-interface--31337",
+        "categories": [
+            "def",
+            "m",
+            "sg"
+        ],
+        "clength": 8,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "boy(\\textsc{m})=\\textsc{def.m.sg}",
+        "imtwordsbare": [
+            "boy(M)=def.m.sg"
+        ],
+        "imtwordshtml": [
+            "boy(<span class=\"sc\">m</span>)=<span class=\"sc\">def.m.sg</span>"
+        ],
+        "imtwordstex": [
+            "boy(\\textsc{m})=\\textsc{def.m.sg}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "b\u0103iat=ul",
+        "srcwordsbare": [
+            "b\u0103iat=ul"
+        ],
+        "srcwordshtml": [
+            "b\u0103iat=ul"
+        ],
+        "srcwordstex": [
+            "b\u0103iat=ul"
+        ],
+        "trs": "the boy",
+        "wlength": 1
+    },
+    {
+        "ID": "chap-interface--59674",
+        "categories": [
+            "def",
+            "m",
+            "sg"
+        ],
+        "clength": 16,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "boy(\\textsc{m})=\\textsc{def.m.sg} \tgood.\\textsc{m.sg}",
+        "imtwordsbare": [
+            "boy(M)=def.m.sg",
+            "good.m.sg"
+        ],
+        "imtwordshtml": [
+            "boy(<span class=\"sc\">m</span>)=<span class=\"sc\">def.m.sg</span>",
+            "good.<span class=\"sc\">m.sg</span>"
+        ],
+        "imtwordstex": [
+            "boy(\\textsc{m})=\\textsc{def.m.sg}",
+            "good.\\textsc{m.sg}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "b\u0103iat=ul \t\t\t\tbun",
+        "srcwordsbare": [
+            "b\u0103iat=ul",
+            "bun"
+        ],
+        "srcwordshtml": [
+            "b\u0103iat=ul",
+            "bun"
+        ],
+        "srcwordstex": [
+            "b\u0103iat=ul",
+            "bun"
+        ],
+        "trs": "the good boy",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface-877034",
+        "categories": [
+            "def",
+            "m",
+            "sg"
+        ],
+        "clength": 16,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "good=\\textsc{def.m.sg} \tboy(\\textsc{m})",
+        "imtwordsbare": [
+            "good=def.m.sg",
+            "boy(M)"
+        ],
+        "imtwordshtml": [
+            "good=<span class=\"sc\">def.m.sg</span>",
+            "boy(<span class=\"sc\">m</span>)"
+        ],
+        "imtwordstex": [
+            "good=\\textsc{def.m.sg}",
+            "boy(\\textsc{m})"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "bun=ul \t\t\t\tb\u0103iat",
+        "srcwordsbare": [
+            "bun=ul",
+            "b\u0103iat"
+        ],
+        "srcwordshtml": [
+            "bun=ul",
+            "b\u0103iat"
+        ],
+        "srcwordstex": [
+            "bun=ul",
+            "b\u0103iat"
+        ],
+        "trs": "the \\textsc{good} boy",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface--43834",
+        "categories": [
+            "def",
+            "n",
+            "sg"
+        ],
+        "clength": 8,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "boy(\\textsc{n})=\\textsc{def.n.sg}",
+        "imtwordsbare": [
+            "boy(N)=def.n.sg"
+        ],
+        "imtwordshtml": [
+            "boy(<span class=\"sc\">n</span>)=<span class=\"sc\">def.n.sg</span>"
+        ],
+        "imtwordstex": [
+            "boy(\\textsc{n})=\\textsc{def.n.sg}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "mom\u010de=to",
+        "srcwordsbare": [
+            "mom\u010de=to"
+        ],
+        "srcwordshtml": [
+            "mom\u010de=to"
+        ],
+        "srcwordstex": [
+            "mom\u010de=to"
+        ],
+        "trs": "the boy",
+        "wlength": 1
+    },
+    {
+        "ID": "chap-interface-912995",
+        "categories": [
+            "def",
+            "m",
+            "n",
+            "sg"
+        ],
+        "clength": 16,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "good=\\textsc{def.m.sg}\tboy(\\textsc{n})",
+        "imtwordsbare": [
+            "good=def.m.sg",
+            "boy(N)"
+        ],
+        "imtwordshtml": [
+            "good=<span class=\"sc\">def.m.sg</span>",
+            "boy(<span class=\"sc\">n</span>)"
+        ],
+        "imtwordstex": [
+            "good=\\textsc{def.m.sg}",
+            "boy(\\textsc{n})"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "dobro=to \t\tmom\u010de",
+        "srcwordsbare": [
+            "dobro=to",
+            "mom\u010de"
+        ],
+        "srcwordshtml": [
+            "dobro=to",
+            "mom\u010de"
+        ],
+        "srcwordstex": [
+            "dobro=to",
+            "mom\u010de"
+        ],
+        "trs": "the good boy",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface-495775",
+        "categories": [
+            "construct"
+        ],
+        "clength": 14,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "house-\\textsc{construct} big",
+        "imtwordsbare": [
+            "house-CONSTRUCT",
+            "big"
+        ],
+        "imtwordshtml": [
+            "house-<span class=\"sc\">construct</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "house-\\textsc{construct}",
+            "big"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "x\u00e2ne-ye bozorg",
+        "srcwordsbare": [
+            "x\u00e2ne-ye",
+            "bozorg"
+        ],
+        "srcwordshtml": [
+            "x\u00e2ne-ye",
+            "bozorg"
+        ],
+        "srcwordstex": [
+            "x\u00e2ne-ye",
+            "bozorg"
+        ],
+        "trs": "big house",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface--81122",
+        "categories": [
+            "absolute",
+            "dem"
+        ],
+        "clength": 18,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "\\textsc{dem} house(\\textsc{absolute}) big is",
+        "imtwordsbare": [
+            "DEM",
+            "house(ABSOLUTE)",
+            "big",
+            "is"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dem</span>",
+            "house(<span class=\"sc\">absolute</span>)",
+            "big",
+            "is"
+        ],
+        "imtwordstex": [
+            "\\textsc{dem}",
+            "house(\\textsc{absolute})",
+            "big",
+            "is"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "in x\u00e2ne bozorg ast",
+        "srcwordsbare": [
+            "in",
+            "x\u00e2ne",
+            "bozorg",
+            "ast"
+        ],
+        "srcwordshtml": [
+            "in",
+            "x\u00e2ne",
+            "bozorg",
+            "ast"
+        ],
+        "srcwordstex": [
+            "in",
+            "x\u00e2ne",
+            "bozorg",
+            "ast"
+        ],
+        "trs": "the house is big",
+        "wlength": 4
+    },
+    {
+        "ID": "chap-interface-769303",
+        "categories": [
+            "(m)",
+            "construct"
+        ],
+        "clength": 11,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "two\tchair{\\textsc{(m)-construct}}",
+        "imtwordsbare": [
+            "two",
+            "chair{(m)-construct}"
+        ],
+        "imtwordshtml": [
+            "two",
+            "chair{<span class=\"sc\">(m)-construct</span>}"
+        ],
+        "imtwordstex": [
+            "two",
+            "chair{\\textsc{(m)-construct}}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "dva \tstol-a",
+        "srcwordsbare": [
+            "dva",
+            "stol-a"
+        ],
+        "srcwordshtml": [
+            "dva",
+            "stol-a"
+        ],
+        "srcwordstex": [
+            "dva",
+            "stol-a"
+        ],
+        "trs": "two chairs",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface-643574",
+        "categories": [
+            "gen"
+        ],
+        "clength": 11,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "chair\\textbackslash\\textsc{gen}\ton",
+        "imtwordsbare": [
+            "chair\\\\GEN",
+            "on"
+        ],
+        "imtwordshtml": [
+            "chair<span class=\"backslash\\textsc\">gen</span>",
+            "on"
+        ],
+        "imtwordstex": [
+            "chair\\textbackslash\\textsc{gen}",
+            "on"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "tuel'\t\tal'n",
+        "srcwordsbare": [
+            "tuel'",
+            "al'n"
+        ],
+        "srcwordshtml": [
+            "tuel'",
+            "al'n"
+        ],
+        "srcwordstex": [
+            "tuel'",
+            "al'n"
+        ],
+        "trs": "on the chair",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface--38978",
+        "categories": [
+            "attr"
+        ],
+        "clength": 15,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "white-\\textsc{attr}\treindeer",
+        "imtwordsbare": [
+            "white-ATTR",
+            "reindeer"
+        ],
+        "imtwordshtml": [
+            "white-<span class=\"sc\">attr</span>",
+            "reindeer"
+        ],
+        "imtwordstex": [
+            "white-\\textsc{attr}",
+            "reindeer"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "v\u012bl'k-es'\t\tpuaz",
+        "srcwordsbare": [
+            "v\u012bl'k-es'",
+            "puaz"
+        ],
+        "srcwordshtml": [
+            "v\u012bl'k-es'",
+            "puaz"
+        ],
+        "srcwordstex": [
+            "v\u012bl'k-es'",
+            "puaz"
+        ],
+        "trs": "white reindeer",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface-602279",
+        "categories": [
+            "pred"
+        ],
+        "clength": 16,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "reindeer is white-\\textsc{pred}",
+        "imtwordsbare": [
+            "reindeer",
+            "is",
+            "white-PRED"
+        ],
+        "imtwordshtml": [
+            "reindeer",
+            "is",
+            "white-<span class=\"sc\">pred</span>"
+        ],
+        "imtwordstex": [
+            "reindeer",
+            "is",
+            "white-\\textsc{pred}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "puaz l\u012b v\u012bll'k-e",
+        "srcwordsbare": [
+            "puaz",
+            "l\u012b",
+            "v\u012bll'k-e"
+        ],
+        "srcwordshtml": [
+            "puaz",
+            "l\u012b",
+            "v\u012bll'k-e"
+        ],
+        "srcwordstex": [
+            "puaz",
+            "l\u012b",
+            "v\u012bll'k-e"
+        ],
+        "trs": "the reindeer is white",
+        "wlength": 3
+    },
+    {
+        "ID": "chap-interface-295897",
+        "categories": [
+            "attr",
+            "m",
+            "sg"
+        ],
+        "clength": 11,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "white:\\textsc{attr:m.sg}\tdeer",
+        "imtwordsbare": [
+            "white:attr:m.sg",
+            "deer"
+        ],
+        "imtwordshtml": [
+            "white:<span class=\"sc\">attr:m.sg</span>",
+            "deer"
+        ],
+        "imtwordstex": [
+            "white:\\textsc{attr:m.sg}",
+            "deer"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "belyj\tolen'",
+        "srcwordsbare": [
+            "belyj",
+            "olen'"
+        ],
+        "srcwordshtml": [
+            "belyj",
+            "olen'"
+        ],
+        "srcwordstex": [
+            "belyj",
+            "olen'"
+        ],
+        "trs": "the white (rein)deer",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-interface-903281",
+        "categories": [
+            "m",
+            "pred",
+            "sg"
+        ],
+        "clength": 9,
+        "filename": "19/chapters/chap-interface.tex",
+        "imt": "deer white:\\textsc{pred:m.sg}",
+        "imtwordsbare": [
+            "deer",
+            "white:pred:m.sg"
+        ],
+        "imtwordshtml": [
+            "deer",
+            "white:<span class=\"sc\">pred:m.sg</span>"
+        ],
+        "imtwordstex": [
+            "deer",
+            "white:\\textsc{pred:m.sg}"
+        ],
+        "language": "19/chapters/chap-interface.tex",
+        "src": "olen' bel",
+        "srcwordsbare": [
+            "olen'",
+            "bel"
+        ],
+        "srcwordshtml": [
+            "olen'",
+            "bel"
+        ],
+        "srcwordstex": [
+            "olen'",
+            "bel"
+        ],
+        "trs": "the (rein)deer is white",
+        "wlength": 2
+    }
+]

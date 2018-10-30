@@ -1,0 +1,195 @@
+[
+    {
+        "ID": "ch5--37058",
+        "categories": [
+            "3f",
+            "bs",
+            "f",
+            "int",
+            "sg"
+        ],
+        "clength": 24,
+        "filename": "137/chapters/ch5.tex",
+        "imt": "\\textsc{int=3f.sg}-bought \\textsc{f}-child.\\textsc{bs-f.sg} record",
+        "imtwordsbare": [
+            "int=3f.sg-bought",
+            "F-child.bs-f.sg",
+            "record"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">int=3f.sg</span>-bought",
+            "<span class=\"sc\">f</span>-child.<span class=\"sc\">bs-f.sg</span>",
+            "record"
+        ],
+        "imtwordstex": [
+            "\\textsc{int=3f.sg}-bought",
+            "\\textsc{f}-child.\\textsc{bs-f.sg}",
+            "record"
+        ],
+        "language": "137/chapters/ch5.tex",
+        "src": "is=t-s\u0281a t-fru\u03c7-t ddisk?",
+        "srcwordsbare": [
+            "is=t-s\u0281a",
+            "t-fru\u03c7-t",
+            "ddisk?"
+        ],
+        "srcwordshtml": [
+            "is=t-s\u0281a",
+            "t-fru\u03c7-t",
+            "ddisk?"
+        ],
+        "srcwordstex": [
+            "is=t-s\u0281a",
+            "t-fru\u03c7-t",
+            "ddisk?"
+        ],
+        "trs": "Did the girl buy a record?",
+        "wlength": 3
+    },
+    {
+        "ID": "ch5-569699",
+        "categories": [
+            "3f",
+            "bs",
+            "f",
+            "sg"
+        ],
+        "clength": 20,
+        "coordination": "or",
+        "filename": "137/chapters/ch5.tex",
+        "imt": "\\textsc{3f.sg}-bought \\textsc{f}-child.\\textsc{bs-f.sg}\trecord",
+        "imtwordsbare": [
+            "3f.sg-bought",
+            "F-child.bs-f.sg",
+            "record"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3f.sg</span>-bought",
+            "<span class=\"sc\">f</span>-child.<span class=\"sc\">bs-f.sg</span>",
+            "record"
+        ],
+        "imtwordstex": [
+            "\\textsc{3f.sg}-bought",
+            "\\textsc{f}-child.\\textsc{bs-f.sg}",
+            "record"
+        ],
+        "language": "137/chapters/ch5.tex",
+        "src": "t-s\u0281a\tt-fru\u03c7-t ddisk",
+        "srcwordsbare": [
+            "t-s\u0281a",
+            "t-fru\u03c7-t",
+            "ddisk"
+        ],
+        "srcwordshtml": [
+            "t-s\u0281a",
+            "t-fru\u03c7-t",
+            "ddisk"
+        ],
+        "srcwordstex": [
+            "t-s\u0281a",
+            "t-fru\u03c7-t",
+            "ddisk"
+        ],
+        "trs": "The girl bought a record.\u2019 or \u2018The girl bought a record?",
+        "wlength": 3
+    },
+    {
+        "ID": "ch5-423741",
+        "categories": [
+            "3f",
+            "bs",
+            "f",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "137/chapters/ch5.tex",
+        "imt": "record \\textsc{3f.sg}-bought=it \\textsc{f}-child.\\textsc{bs-f.sg}",
+        "imtwordsbare": [
+            "record",
+            "3f.sg-bought=it",
+            "F-child.bs-f.sg"
+        ],
+        "imtwordshtml": [
+            "record",
+            "<span class=\"sc\">3f.sg</span>-bought=it",
+            "<span class=\"sc\">f</span>-child.<span class=\"sc\">bs-f.sg</span>"
+        ],
+        "imtwordstex": [
+            "record",
+            "\\textsc{3f.sg}-bought=it",
+            "\\textsc{f}-child.\\textsc{bs-f.sg}"
+        ],
+        "language": "137/chapters/ch5.tex",
+        "src": "ddisk\tt-s\u0281a=t\tt-fru\u03c7-t",
+        "srcwordsbare": [
+            "ddisk",
+            "t-s\u0281a=t",
+            "t-fru\u03c7-t"
+        ],
+        "srcwordshtml": [
+            "ddisk",
+            "t-s\u0281a=t",
+            "t-fru\u03c7-t"
+        ],
+        "srcwordstex": [
+            "ddisk",
+            "t-s\u0281a=t",
+            "t-fru\u03c7-t"
+        ],
+        "trs": "A record, the girl bought it.",
+        "wlength": 3
+    },
+    {
+        "ID": "ch5-224166",
+        "categories": [
+            "3f",
+            "ad",
+            "bs",
+            "f",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "137/chapters/ch5.tex",
+        "imt": "record \\textsc{ad} \\textsc{3f.sg}-bought \\textsc{f}-child.\\textsc{bs-f.sg}",
+        "imtwordsbare": [
+            "record",
+            "AD",
+            "3f.sg-bought",
+            "F-child.bs-f.sg"
+        ],
+        "imtwordshtml": [
+            "record",
+            "<span class=\"sc\">ad</span>",
+            "<span class=\"sc\">3f.sg</span>-bought",
+            "<span class=\"sc\">f</span>-child.<span class=\"sc\">bs-f.sg</span>"
+        ],
+        "imtwordstex": [
+            "record",
+            "\\textsc{ad}",
+            "\\textsc{3f.sg}-bought",
+            "\\textsc{f}-child.\\textsc{bs-f.sg}"
+        ],
+        "language": "137/chapters/ch5.tex",
+        "src": "ddisk ad t-s\u0281a t-fru\u03c7-t",
+        "srcwordsbare": [
+            "ddisk",
+            "ad",
+            "t-s\u0281a",
+            "t-fru\u03c7-t"
+        ],
+        "srcwordshtml": [
+            "ddisk",
+            "ad",
+            "t-s\u0281a",
+            "t-fru\u03c7-t"
+        ],
+        "srcwordstex": [
+            "ddisk",
+            "ad",
+            "t-s\u0281a",
+            "t-fru\u03c7-t"
+        ],
+        "trs": "It is a record that the girl bought.",
+        "wlength": 4
+    }
+]

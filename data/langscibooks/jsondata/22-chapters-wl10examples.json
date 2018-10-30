@@ -1,0 +1,596 @@
+[
+    {
+        "ID": "wl10-447309",
+        "categories": [
+            "sg"
+        ],
+        "clength": 8,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "3\\textsc{sg}  climb",
+        "imtwordsbare": [
+            "3SG",
+            "climb"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg</span>",
+            "climb"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg}",
+            "climb"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "A   her.",
+        "srcwordsbare": [
+            "A",
+            "her."
+        ],
+        "srcwordshtml": [
+            "A",
+            "her."
+        ],
+        "srcwordstex": [
+            "A",
+            "her."
+        ],
+        "trs": "He climbs up.",
+        "wlength": 2
+    },
+    {
+        "ID": "wl10--25602",
+        "categories": [
+            "spec"
+        ],
+        "clength": 19,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "people=\\textsc{spec} dance.lego-lego",
+        "imtwordsbare": [
+            "people=SPEC",
+            "dance.lego-lego"
+        ],
+        "imtwordshtml": [
+            "people=<span class=\"sc\">spec</span>",
+            "dance.lego-lego"
+        ],
+        "imtwordstex": [
+            "people=\\textsc{spec}",
+            "dance.lego-lego"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Almakang=a   pilan.",
+        "srcwordsbare": [
+            "Almakang=a",
+            "pilan."
+        ],
+        "srcwordshtml": [
+            "Almakang=a",
+            "pilan."
+        ],
+        "srcwordstex": [
+            "Almakang=a",
+            "pilan."
+        ],
+        "trs": "The people are dancing a \\textit{lego-lego} (traditional dance).",
+        "wlength": 2
+    },
+    {
+        "ID": "wl10--79935",
+        "categories": [
+            "contr\\_foc",
+            "gen",
+            "pat"
+        ],
+        "clength": 38,
+        "coordination": "and",
+        "filename": "22/chapters/wl10.tex",
+        "imt": "[{\\dots}]  3.\\textsc{gen}{}-father-\\textsc{contr\\_foc} arrive  3.\\textsc{pat}{}-wake\\_up",
+        "imtwordsbare": [
+            "[{\\dots}]",
+            "3.GEN{}-father-contr_foc",
+            "arrive",
+            "3.PAT{}-wake_up"
+        ],
+        "imtwordshtml": [
+            "[{\\dots}]",
+            "3.<span class=\"sc\">gen</span>{}-father-<span class=\"sc\">contr_foc</span>",
+            "arrive",
+            "3.<span class=\"sc\">pat</span>{}-wake_up"
+        ],
+        "imtwordstex": [
+            "[{\\dots}]",
+            "3.\\textsc{gen}{}-father-\\textsc{contr\\_foc}",
+            "arrive",
+            "3.\\textsc{pat}{}-wake\\_up"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "{\\ob}\\dots{\\cb}  ge-pa-l  sue  ga-tan.",
+        "srcwordsbare": [
+            "[\\dots]",
+            "ge-pa-l",
+            "sue",
+            "ga-tan."
+        ],
+        "srcwordshtml": [
+            "[\\dots]",
+            "ge-pa-l",
+            "sue",
+            "ga-tan."
+        ],
+        "srcwordstex": [
+            "{\\ob}\\dots{\\cb}",
+            "ge-pa-l",
+            "sue",
+            "ga-tan."
+        ],
+        "trs": "[{\\dots}] his father comes and wakes him.",
+        "wlength": 4
+    },
+    {
+        "ID": "wl10--73705",
+        "categories": [
+            "pat",
+            "pfv"
+        ],
+        "clength": 33,
+        "coordination": "and",
+        "filename": "22/chapters/wl10.tex",
+        "imt": "child  male  3.\\textsc{pat}{}-stand.up-\\textsc{pfv} and  leave-\\textsc{pfv}",
+        "imtwordsbare": [
+            "child",
+            "male",
+            "3.PAT{}-stand.up-PFV",
+            "and",
+            "leave-PFV"
+        ],
+        "imtwordshtml": [
+            "child",
+            "male",
+            "3.<span class=\"sc\">pat</span>{}-stand.up-<span class=\"sc\">pfv</span>",
+            "and",
+            "leave-<span class=\"sc\">pfv</span>"
+        ],
+        "imtwordstex": [
+            "child",
+            "male",
+            "3.\\textsc{pat}{}-stand.up-\\textsc{pfv}",
+            "and",
+            "leave-\\textsc{pfv}"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Wil  neng  da-ruid-i  ba  laak-i.",
+        "srcwordsbare": [
+            "Wil",
+            "neng",
+            "da-ruid-i",
+            "ba",
+            "laak-i."
+        ],
+        "srcwordshtml": [
+            "Wil",
+            "neng",
+            "da-ruid-i",
+            "ba",
+            "laak-i."
+        ],
+        "srcwordstex": [
+            "Wil",
+            "neng",
+            "da-ruid-i",
+            "ba",
+            "laak-i."
+        ],
+        "trs": "The guy stands up and leaves.' [\u03b1-type prefix: \\textit{da-}]",
+        "wlength": 5
+    },
+    {
+        "ID": "wl10--12432",
+        "categories": [
+            "3agt",
+            "loc",
+            "spec"
+        ],
+        "clength": 21,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "\\textsc{3agt} tree=\\textsc{spec} 3.\\textsc{loc}{}-shake.back.and.forth",
+        "imtwordsbare": [
+            "3AGT",
+            "tree=SPEC",
+            "3.LOC{}-shake.back.and.forth"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3agt</span>",
+            "tree=<span class=\"sc\">spec</span>",
+            "3.<span class=\"sc\">loc</span>{}-shake.back.and.forth"
+        ],
+        "imtwordstex": [
+            "\\textsc{3agt}",
+            "tree=\\textsc{spec}",
+            "3.\\textsc{loc}{}-shake.back.and.forth"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Ga  bong=a  wo-gaook.",
+        "srcwordsbare": [
+            "Ga",
+            "bong=a",
+            "wo-gaook."
+        ],
+        "srcwordshtml": [
+            "Ga",
+            "bong=a",
+            "wo-gaook."
+        ],
+        "srcwordstex": [
+            "Ga",
+            "bong=a",
+            "wo-gaook."
+        ],
+        "trs": "He shook the tree.",
+        "wlength": 3
+    },
+    {
+        "ID": "wl10--79147",
+        "categories": [
+            "",
+            "loc"
+        ],
+        "clength": 19,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "palm.rib  one  3\\textsc{.loc-}burn",
+        "imtwordsbare": [
+            "palm.rib",
+            "one",
+            "3.loc-burn"
+        ],
+        "imtwordshtml": [
+            "palm.rib",
+            "one",
+            "3<span class=\"sc\">.loc-</span>burn"
+        ],
+        "imtwordstex": [
+            "palm.rib",
+            "one",
+            "3\\textsc{.loc-}burn"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Kik  nok  wo-saara.",
+        "srcwordsbare": [
+            "Kik",
+            "nok",
+            "wo-saara."
+        ],
+        "srcwordshtml": [
+            "Kik",
+            "nok",
+            "wo-saara."
+        ],
+        "srcwordstex": [
+            "Kik",
+            "nok",
+            "wo-saara."
+        ],
+        "trs": "A palm rib burns down/on (i.e., is consumed over time).",
+        "wlength": 3
+    },
+    {
+        "ID": "wl10-287388",
+        "categories": [],
+        "clength": 16,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "palm.rib  one  burn",
+        "imtwordsbare": [
+            "palm.rib",
+            "one",
+            "burn"
+        ],
+        "imtwordshtml": [
+            "palm.rib",
+            "one",
+            "burn"
+        ],
+        "imtwordstex": [
+            "palm.rib",
+            "one",
+            "burn"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Kik  nok  saara.",
+        "srcwordsbare": [
+            "Kik",
+            "nok",
+            "saara."
+        ],
+        "srcwordshtml": [
+            "Kik",
+            "nok",
+            "saara."
+        ],
+        "srcwordstex": [
+            "Kik",
+            "nok",
+            "saara."
+        ],
+        "trs": "A palm rib burns.",
+        "wlength": 3
+    },
+    {
+        "ID": "wl10--62846",
+        "categories": [
+            "sg"
+        ],
+        "clength": 70,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "{}  2\\textsc{sg} go    bamboo\\_sp.  dry  one  3-search  hold  arrive",
+        "imtwordsbare": [
+            "{}",
+            "2SG",
+            "go",
+            "bamboo_sp.",
+            "dry",
+            "one",
+            "3-search",
+            "hold",
+            "arrive"
+        ],
+        "imtwordshtml": [
+            "{}",
+            "2<span class=\"sc\">sg</span>",
+            "go",
+            "bamboo_sp.",
+            "dry",
+            "one",
+            "3-search",
+            "hold",
+            "arrive"
+        ],
+        "imtwordstex": [
+            "{}",
+            "2\\textsc{sg}",
+            "go",
+            "bamboo\\_sp.",
+            "dry",
+            "one",
+            "3-search",
+            "hold",
+            "arrive"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "{\\dots}  ha        gi    ya'          siis nuk  ga-uyan   pin   aria'.",
+        "srcwordsbare": [
+            "{\\dots}",
+            "ha",
+            "gi",
+            "ya'",
+            "siis",
+            "nuk",
+            "ga-uyan",
+            "pin",
+            "aria'."
+        ],
+        "srcwordshtml": [
+            "{\\dots}",
+            "ha",
+            "gi",
+            "ya'",
+            "siis",
+            "nuk",
+            "ga-uyan",
+            "pin",
+            "aria'."
+        ],
+        "srcwordstex": [
+            "{\\dots}",
+            "ha",
+            "gi",
+            "ya'",
+            "siis",
+            "nuk",
+            "ga-uyan",
+            "pin",
+            "aria'."
+        ],
+        "trs": "[{\\dots}] You go look for dry bamboo to bring here.",
+        "wlength": 9
+    },
+    {
+        "ID": "wl10-920879",
+        "categories": [],
+        "clength": 32,
+        "coordination": "and",
+        "filename": "22/chapters/wl10.tex",
+        "imt": "old\\_man  one  walk  go  tree  bump",
+        "imtwordsbare": [
+            "old_man",
+            "one",
+            "walk",
+            "go",
+            "tree",
+            "bump"
+        ],
+        "imtwordshtml": [
+            "old_man",
+            "one",
+            "walk",
+            "go",
+            "tree",
+            "bump"
+        ],
+        "imtwordstex": [
+            "old\\_man",
+            "one",
+            "walk",
+            "go",
+            "tree",
+            "bump"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Kri  nuk  tewar  wa  tei  tumah.",
+        "srcwordsbare": [
+            "Kri",
+            "nuk",
+            "tewar",
+            "wa",
+            "tei",
+            "tumah."
+        ],
+        "srcwordshtml": [
+            "Kri",
+            "nuk",
+            "tewar",
+            "wa",
+            "tei",
+            "tumah."
+        ],
+        "srcwordstex": [
+            "Kri",
+            "nuk",
+            "tewar",
+            "wa",
+            "tei",
+            "tumah."
+        ],
+        "trs": "An old man walks and bumps into a tree.",
+        "wlength": 6
+    },
+    {
+        "ID": "wl10-674564",
+        "categories": [
+            "real"
+        ],
+        "clength": 36,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "old\\_man  one  3-child  3-cradle-\\textsc{real} stand-\\textsc{real}",
+        "imtwordsbare": [
+            "old_man",
+            "one",
+            "3-child",
+            "3-cradle-REAL",
+            "stand-REAL"
+        ],
+        "imtwordshtml": [
+            "old_man",
+            "one",
+            "3-child",
+            "3-cradle-<span class=\"sc\">real</span>",
+            "stand-<span class=\"sc\">real</span>"
+        ],
+        "imtwordstex": [
+            "old\\_man",
+            "one",
+            "3-child",
+            "3-cradle-\\textsc{real}",
+            "stand-\\textsc{real}"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Kri  nuk  g-oqai  g-u'an-an  tas-an.",
+        "srcwordsbare": [
+            "Kri",
+            "nuk",
+            "g-oqai",
+            "g-u'an-an",
+            "tas-an."
+        ],
+        "srcwordshtml": [
+            "Kri",
+            "nuk",
+            "g-oqai",
+            "g-u'an-an",
+            "tas-an."
+        ],
+        "srcwordstex": [
+            "Kri",
+            "nuk",
+            "g-oqai",
+            "g-u'an-an",
+            "tas-an."
+        ],
+        "trs": "An old man is standing cradling his child.",
+        "wlength": 5
+    },
+    {
+        "ID": "wl10-807202",
+        "categories": [
+            "an",
+            "sg"
+        ],
+        "clength": 18,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "2\\textsc{sg} go  3.\\textsc{an}-talk",
+        "imtwordsbare": [
+            "2SG",
+            "go",
+            "3.AN-talk"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "go",
+            "3.<span class=\"sc\">an</span>-talk"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "go",
+            "3.\\textsc{an}-talk"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Ha  gi  ga'-wulul.",
+        "srcwordsbare": [
+            "Ha",
+            "gi",
+            "ga'-wulul."
+        ],
+        "srcwordshtml": [
+            "Ha",
+            "gi",
+            "ga'-wulul."
+        ],
+        "srcwordstex": [
+            "Ha",
+            "gi",
+            "ga'-wulul."
+        ],
+        "trs": "You go tell him.",
+        "wlength": 3
+    },
+    {
+        "ID": "wl10--83654",
+        "categories": [
+            "sg"
+        ],
+        "clength": 17,
+        "filename": "22/chapters/wl10.tex",
+        "imt": "2\\textsc{sg} go  3-talk",
+        "imtwordsbare": [
+            "2SG",
+            "go",
+            "3-talk"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "go",
+            "3-talk"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "go",
+            "3-talk"
+        ],
+        "language": "22/chapters/wl10.tex",
+        "src": "Ha  gi  ga-wulul.",
+        "srcwordsbare": [
+            "Ha",
+            "gi",
+            "ga-wulul."
+        ],
+        "srcwordshtml": [
+            "Ha",
+            "gi",
+            "ga-wulul."
+        ],
+        "srcwordstex": [
+            "Ha",
+            "gi",
+            "ga-wulul."
+        ],
+        "trs": "You go tell it (i.e., some proposition)!",
+        "wlength": 3
+    }
+]

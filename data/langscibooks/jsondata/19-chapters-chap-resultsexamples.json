@@ -1,0 +1,532 @@
+[
+    {
+        "ID": "chap-results--52101",
+        "categories": [
+            "mod"
+        ],
+        "clength": 14,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "house-\\textsc{mod} big",
+        "imtwordsbare": [
+            "house-MOD",
+            "big"
+        ],
+        "imtwordshtml": [
+            "house-<span class=\"sc\">mod</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "house-\\textsc{mod}",
+            "big"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "xane-ye bozorg",
+        "srcwordsbare": [
+            "xane-ye",
+            "bozorg"
+        ],
+        "srcwordshtml": [
+            "xane-ye",
+            "bozorg"
+        ],
+        "srcwordstex": [
+            "xane-ye",
+            "bozorg"
+        ],
+        "trs": "a/the big house",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-results-834315",
+        "categories": [
+            "mod"
+        ],
+        "clength": 19,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "high-\\textsc{mod}\thouse",
+        "imtwordsbare": [
+            "high-MOD",
+            "house"
+        ],
+        "imtwordshtml": [
+            "high-<span class=\"sc\">mod</span>",
+            "house"
+        ],
+        "imtwordstex": [
+            "high-\\textsc{mod}",
+            "house"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "\u0113l'l'-es' \t\tp\u0113rrht.",
+        "srcwordsbare": [
+            "\u0113l'l'-es'",
+            "p\u0113rrht."
+        ],
+        "srcwordshtml": [
+            "\u0113l'l'-es'",
+            "p\u0113rrht."
+        ],
+        "srcwordstex": [
+            "\u0113l'l'-es'",
+            "p\u0113rrht."
+        ],
+        "trs": "a/the high house",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-results--26054",
+        "categories": [
+            "attr",
+            "mod"
+        ],
+        "clength": 35,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "beautiful-\\textsc{mod} house {} house \\textsc{attr} beautiful",
+        "imtwordsbare": [
+            "beautiful-MOD",
+            "house",
+            "{}",
+            "house",
+            "ATTR",
+            "beautiful"
+        ],
+        "imtwordshtml": [
+            "beautiful-<span class=\"sc\">mod</span>",
+            "house",
+            "{}",
+            "house",
+            "<span class=\"sc\">attr</span>",
+            "beautiful"
+        ],
+        "imtwordstex": [
+            "beautiful-\\textsc{mod}",
+            "house",
+            "{}",
+            "house",
+            "\\textsc{attr}",
+            "beautiful"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "maganda-ng bahay / bahay na maganda",
+        "srcwordsbare": [
+            "maganda-ng",
+            "bahay",
+            "/",
+            "bahay",
+            "na",
+            "maganda"
+        ],
+        "srcwordshtml": [
+            "maganda-ng",
+            "bahay",
+            "/",
+            "bahay",
+            "na",
+            "maganda"
+        ],
+        "srcwordstex": [
+            "maganda-ng",
+            "bahay",
+            "/",
+            "bahay",
+            "na",
+            "maganda"
+        ],
+        "trs": "a/the beautiful house",
+        "wlength": 6
+    },
+    {
+        "ID": "chap-results-315386",
+        "categories": [
+            "mod"
+        ],
+        "clength": 11,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "house\\textbackslash\\textsc{mod}\ton",
+        "imtwordsbare": [
+            "house\\\\MOD",
+            "on"
+        ],
+        "imtwordshtml": [
+            "house<span class=\"backslash\\textsc\">mod</span>",
+            "on"
+        ],
+        "imtwordstex": [
+            "house\\textbackslash\\textsc{mod}",
+            "on"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "p\u0113rht\t\tal'n",
+        "srcwordsbare": [
+            "p\u0113rht",
+            "al'n"
+        ],
+        "srcwordshtml": [
+            "p\u0113rht",
+            "al'n"
+        ],
+        "srcwordstex": [
+            "p\u0113rht",
+            "al'n"
+        ],
+        "trs": "on a/the house",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-results-342392",
+        "categories": [
+            "nmlz"
+        ],
+        "clength": 24,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "[\\textsubscript{NP} \t[\\textsubscript{NP'} \\textsubscript{A}big-\\textsc{nmlz}] \\textsubscript{N}house]",
+        "imtwordsbare": [
+            "[NP",
+            "[NP'",
+            "Abig-NMLZ]",
+            "Nhouse]"
+        ],
+        "imtwordshtml": [
+            "[<span class=\"subscript\">NP</span>",
+            "[<span class=\"subscript\">NP'</span>",
+            "<span class=\"subscript\">A</span>big-<span class=\"sc\">nmlz</span>]",
+            "<span class=\"subscript\">N</span>house]"
+        ],
+        "imtwordstex": [
+            "[\\textsubscript{NP}",
+            "[\\textsubscript{NP'}",
+            "\\textsubscript{A}big-\\textsc{nmlz}]",
+            "\\textsubscript{N}house]"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "{}\t\t{}\t\tbad\u01ef\u0301ym-e\u0307z gurt",
+        "srcwordsbare": [
+            "{}",
+            "{}",
+            "bad\u01ef\u0301ym-e\u0307z",
+            "gurt"
+        ],
+        "srcwordshtml": [
+            "{}",
+            "{}",
+            "bad\u01ef\u0301ym-e\u0307z",
+            "gurt"
+        ],
+        "srcwordstex": [
+            "{}",
+            "{}",
+            "bad\u01ef\u0301ym-e\u0307z",
+            "gurt"
+        ],
+        "trs": "a/the \\textsc{big} house",
+        "wlength": 4
+    },
+    {
+        "ID": "chap-results--50076",
+        "categories": [],
+        "clength": 18,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "papaya Kairil buy",
+        "imtwordsbare": [
+            "papaya",
+            "Kairil",
+            "buy"
+        ],
+        "imtwordshtml": [
+            "papaya",
+            "Kairil",
+            "buy"
+        ],
+        "imtwordstex": [
+            "papaya",
+            "Kairil",
+            "buy"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "batiak Kairil bali",
+        "srcwordsbare": [
+            "batiak",
+            "Kairil",
+            "bali"
+        ],
+        "srcwordshtml": [
+            "batiak",
+            "Kairil",
+            "bali"
+        ],
+        "srcwordstex": [
+            "batiak",
+            "Kairil",
+            "bali"
+        ],
+        "trs": "the papaya Kairil bought",
+        "wlength": 3
+    },
+    {
+        "ID": "chap-results--45369",
+        "categories": [
+            "pl"
+        ],
+        "clength": 14,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "big\t\ttown-\\textsc{pl}",
+        "imtwordsbare": [
+            "big",
+            "town-PL"
+        ],
+        "imtwordshtml": [
+            "big",
+            "town-<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "big",
+            "town-\\textsc{pl}"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "\u0268d\u017e\u0268d\t\tkar-jas",
+        "srcwordsbare": [
+            "\u0268d\u017e\u0268d",
+            "kar-jas"
+        ],
+        "srcwordshtml": [
+            "\u0268d\u017e\u0268d",
+            "kar-jas"
+        ],
+        "srcwordstex": [
+            "\u0268d\u017e\u0268d",
+            "kar-jas"
+        ],
+        "trs": "big towns",
+        "wlength": 2
+    },
+    {
+        "ID": "chap-results-363849",
+        "categories": [],
+        "clength": 11,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "Pelle-apple",
+        "imtwordsbare": [
+            "Pelle-apple"
+        ],
+        "imtwordshtml": [
+            "Pelle-apple"
+        ],
+        "imtwordstex": [
+            "Pelle-apple"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "Pelle-\u00e4pple",
+        "srcwordsbare": [
+            "Pelle-\u00e4pple"
+        ],
+        "srcwordshtml": [
+            "Pelle-\u00e4pple"
+        ],
+        "srcwordstex": [
+            "Pelle-\u00e4pple"
+        ],
+        "trs": "Pelle's apple",
+        "wlength": 1
+    },
+    {
+        "ID": "chap-results-571334",
+        "categories": [],
+        "clength": 16,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "[\\textsubscript{NP} \\textsubscript{A}big \\textsubscript{N}house]",
+        "imtwordsbare": [
+            "[NP",
+            "Abig",
+            "Nhouse]"
+        ],
+        "imtwordshtml": [
+            "[<span class=\"subscript\">NP</span>",
+            "<span class=\"subscript\">A</span>big",
+            "<span class=\"subscript\">N</span>house]"
+        ],
+        "imtwordstex": [
+            "[\\textsubscript{NP}",
+            "\\textsubscript{A}big",
+            "\\textsubscript{N}house]"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "{}\t\tbad\u01ef\u0301ym gurt",
+        "srcwordsbare": [
+            "{}",
+            "bad\u01ef\u0301ym",
+            "gurt"
+        ],
+        "srcwordshtml": [
+            "{}",
+            "bad\u01ef\u0301ym",
+            "gurt"
+        ],
+        "srcwordstex": [
+            "{}",
+            "bad\u01ef\u0301ym",
+            "gurt"
+        ],
+        "trs": "a/the big house",
+        "wlength": 3
+    },
+    {
+        "ID": "chap-results-153565",
+        "categories": [
+            "nmlz"
+        ],
+        "clength": 25,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "[\\textsubscript{NP} [\\textsubscript{NP'} \\textsubscript{A}big-\\textsc{nmlz}] \\textsubscript{N}house]",
+        "imtwordsbare": [
+            "[NP",
+            "[NP'",
+            "Abig-NMLZ]",
+            "Nhouse]"
+        ],
+        "imtwordshtml": [
+            "[<span class=\"subscript\">NP</span>",
+            "[<span class=\"subscript\">NP'</span>",
+            "<span class=\"subscript\">A</span>big-<span class=\"sc\">nmlz</span>]",
+            "<span class=\"subscript\">N</span>house]"
+        ],
+        "imtwordstex": [
+            "[\\textsubscript{NP}",
+            "[\\textsubscript{NP'}",
+            "\\textsubscript{A}big-\\textsc{nmlz}]",
+            "\\textsubscript{N}house]"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "{}\t\t{}\t\t\tbad\u01ef\u0301ym-e\u0307z gurt",
+        "srcwordsbare": [
+            "{}",
+            "{}",
+            "bad\u01ef\u0301ym-e\u0307z",
+            "gurt"
+        ],
+        "srcwordshtml": [
+            "{}",
+            "{}",
+            "bad\u01ef\u0301ym-e\u0307z",
+            "gurt"
+        ],
+        "srcwordstex": [
+            "{}",
+            "{}",
+            "bad\u01ef\u0301ym-e\u0307z",
+            "gurt"
+        ],
+        "trs": "a/the \\textsc{big} house",
+        "wlength": 4
+    },
+    {
+        "ID": "chap-results--75670",
+        "categories": [
+            "1sg",
+            "3sg",
+            "m",
+            "poss",
+            "real",
+            "sg"
+        ],
+        "clength": 41,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "with  go:\\textsc{sg}  \\textsc{1sg:real-3sg.m}\t\\textsc{real}  black    \\textsc{poss:3sg.m}\tcotton-\\textsc{poss:1sg}",
+        "imtwordsbare": [
+            "with",
+            "go:SG",
+            "1sg:real-3sg.m",
+            "REAL",
+            "black",
+            "poss:3sg.m",
+            "cotton-poss:1sg"
+        ],
+        "imtwordshtml": [
+            "with",
+            "go:<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">1sg:real-3sg.m</span>",
+            "<span class=\"sc\">real</span>",
+            "black",
+            "<span class=\"sc\">poss:3sg.m</span>",
+            "cotton-<span class=\"sc\">poss:1sg</span>"
+        ],
+        "imtwordstex": [
+            "with",
+            "go:\\textsc{sg}",
+            "\\textsc{1sg:real-3sg.m}",
+            "\\textsc{real}",
+            "black",
+            "\\textsc{poss:3sg.m}",
+            "cotton-\\textsc{poss:1sg}"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "mam mao 'in-on\t\tca\t    mixem  pucun\twom-u",
+        "srcwordsbare": [
+            "mam",
+            "mao",
+            "'in-on",
+            "ca",
+            "mixem",
+            "pucun",
+            "wom-u"
+        ],
+        "srcwordshtml": [
+            "mam",
+            "mao",
+            "'in-on",
+            "ca",
+            "mixem",
+            "pucun",
+            "wom-u"
+        ],
+        "srcwordstex": [
+            "mam",
+            "mao",
+            "'in-on",
+            "ca",
+            "mixem",
+            "pucun",
+            "wom-u"
+        ],
+        "trs": "I went with my dirty clothes\u2019 (lit.~\u2018with my cotton's blackness\u2019)",
+        "wlength": 7
+    },
+    {
+        "ID": "chap-results--42476",
+        "categories": [
+            "gen",
+            "m",
+            "sg"
+        ],
+        "clength": 13,
+        "filename": "19/chapters/chap-results.tex",
+        "imt": "three\t\tboy-\\textsc{gen.sg.m}",
+        "imtwordsbare": [
+            "three",
+            "boy-gen.sg.m"
+        ],
+        "imtwordshtml": [
+            "three",
+            "boy-<span class=\"sc\">gen.sg.m</span>"
+        ],
+        "imtwordstex": [
+            "three",
+            "boy-\\textsc{gen.sg.m}"
+        ],
+        "language": "19/chapters/chap-results.tex",
+        "src": "tri mal'\u010dik-a",
+        "srcwordsbare": [
+            "tri",
+            "mal'\u010dik-a"
+        ],
+        "srcwordshtml": [
+            "tri",
+            "mal'\u010dik-a"
+        ],
+        "srcwordstex": [
+            "tri",
+            "mal'\u010dik-a"
+        ],
+        "trs": "three boys",
+        "wlength": 2
+    }
+]

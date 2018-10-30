@@ -1,0 +1,4527 @@
+[
+    {
+        "ID": "tsukida--73019",
+        "categories": [
+            "<av>",
+            "sbj"
+        ],
+        "clength": 100,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{<av>}cut sweet.potato \\textsc{sbj} old.woman",
+        "imtwordsbare": [
+            "<AV>cut",
+            "sweet.potato",
+            "SBJ",
+            "old.woman"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\"><av></span>cut",
+            "sweet.potato",
+            "<span class=\"sc\">sbj</span>",
+            "old.woman"
+        ],
+        "imtwordstex": [
+            "\\textsc{<av>}cut",
+            "sweet.potato",
+            "\\textsc{sbj}",
+            "old.woman"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{K}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut} \\textit{bunga} \\textit{ka} \\textit{payi}.",
+        "srcwordsbare": [
+            "K{\\USSmaller}em{\\USGreater}erut",
+            "bunga",
+            "ka",
+            "payi."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">K</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">erut</span>",
+            "<span class=\"it\">bunga</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">payi</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{K}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}",
+            "\\textit{bunga}",
+            "\\textit{ka}",
+            "\\textit{payi}."
+        ],
+        "trs": "The old woman cuts sweet potato.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-655532",
+        "categories": [
+            "",
+            "1sg",
+            "<av>",
+            "nom",
+            "sbj"
+        ],
+        "clength": 135,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{<av>}cut\\textsc{=1sg.nom} sweet.potato \\phantom{(}\\textsc{sbj}  \\textsc{1sg}",
+        "imtwordsbare": [
+            "<AV>cut=1sg.nom",
+            "sweet.potato",
+            "\\phantom{(}SBJ",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\"><av></span>cut<span class=\"sc\">=1sg.nom</span>",
+            "sweet.potato",
+            "\\phantom{(}<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{<av>}cut\\textsc{=1sg.nom}",
+            "sweet.potato",
+            "\\phantom{(}\\textsc{sbj}",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{K}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}=\\textit{ku} \\textit{bunga} {\\USOParen}\\textit{ka}  \\textit{yaku}{\\USCParen}.",
+        "srcwordsbare": [
+            "K{\\USSmaller}em{\\USGreater}erut=ku",
+            "bunga",
+            "{\\USOParen}ka",
+            "yaku{\\USCParen}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">K</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">erut</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">bunga</span>",
+            "{\\USOParen}<span class=\"it\">ka</span>",
+            "<span class=\"it\">yaku</span>{\\USCParen}."
+        ],
+        "srcwordstex": [
+            "\\textit{K}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}=\\textit{ku}",
+            "\\textit{bunga}",
+            "{\\USOParen}\\textit{ka}",
+            "\\textit{yaku}{\\USCParen}."
+        ],
+        "trs": "I cut sweet potato.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-354348",
+        "categories": [
+            "3sg",
+            "<av>",
+            "prt",
+            "sbj"
+        ],
+        "clength": 150,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "old.woman \\textsc{prt} \\textsc{<av>}cut sweet.potato \\phantom{(}\\textsc{sbj} \\textsc{3sg}",
+        "imtwordsbare": [
+            "old.woman",
+            "PRT",
+            "<AV>cut",
+            "sweet.potato",
+            "\\phantom{(}SBJ",
+            "3SG"
+        ],
+        "imtwordshtml": [
+            "old.woman",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\"><av></span>cut",
+            "sweet.potato",
+            "\\phantom{(}<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "old.woman",
+            "\\textsc{prt}",
+            "\\textsc{<av>}cut",
+            "sweet.potato",
+            "\\phantom{(}\\textsc{sbj}",
+            "\\textsc{3sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Payi} \\textit{'u}, \\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut} \\textit{bunga} {\\USOParen}\\textit{ka}  \\textit{hiya}{\\USCParen}.",
+        "srcwordsbare": [
+            "Payi",
+            "'u,",
+            "k{\\USSmaller}em{\\USGreater}erut",
+            "bunga",
+            "{\\USOParen}ka",
+            "hiya{\\USCParen}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Payi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">k</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">erut</span>",
+            "<span class=\"it\">bunga</span>",
+            "{\\USOParen}<span class=\"it\">ka</span>",
+            "<span class=\"it\">hiya</span>{\\USCParen}."
+        ],
+        "srcwordstex": [
+            "\\textit{Payi}",
+            "\\textit{'u},",
+            "\\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}",
+            "\\textit{bunga}",
+            "{\\USOParen}\\textit{ka}",
+            "\\textit{hiya}{\\USCParen}."
+        ],
+        "trs": "The old woman, she cuts sweet potato.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida--86237",
+        "categories": [
+            "gv1",
+            "sbj"
+        ],
+        "clength": 68,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "cut-\\textsc{gv1} old.woman \\textsc{sbj} sweet.potato",
+        "imtwordsbare": [
+            "cut-GV1",
+            "old.woman",
+            "SBJ",
+            "sweet.potato"
+        ],
+        "imtwordshtml": [
+            "cut-<span class=\"sc\">gv1</span>",
+            "old.woman",
+            "<span class=\"sc\">sbj</span>",
+            "sweet.potato"
+        ],
+        "imtwordstex": [
+            "cut-\\textsc{gv1}",
+            "old.woman",
+            "\\textsc{sbj}",
+            "sweet.potato"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Kerut}-\\textit{un} \\textit{payi} \\textit{ka} \\textit{bunga}.",
+        "srcwordsbare": [
+            "Kerut-un",
+            "payi",
+            "ka",
+            "bunga."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Kerut</span>-<span class=\"it\">un</span>",
+            "<span class=\"it\">payi</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">bunga</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Kerut}-\\textit{un}",
+            "\\textit{payi}",
+            "\\textit{ka}",
+            "\\textit{bunga}."
+        ],
+        "trs": "The/An old woman will cut the sweet potato.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-374647",
+        "categories": [
+            "cv",
+            "sbj"
+        ],
+        "clength": 82,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{cv}-cut sweet.potato old.woman \\textsc{sbj} knife",
+        "imtwordsbare": [
+            "CV-cut",
+            "sweet.potato",
+            "old.woman",
+            "SBJ",
+            "knife"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">cv</span>-cut",
+            "sweet.potato",
+            "old.woman",
+            "<span class=\"sc\">sbj</span>",
+            "knife"
+        ],
+        "imtwordstex": [
+            "\\textsc{cv}-cut",
+            "sweet.potato",
+            "old.woman",
+            "\\textsc{sbj}",
+            "knife"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Se}-\\textit{kerut} \\textit{bunga} \\textit{payi} \\textit{ka} \\textit{yayu}.",
+        "srcwordsbare": [
+            "Se-kerut",
+            "bunga",
+            "payi",
+            "ka",
+            "yayu."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Se</span>-<span class=\"it\">kerut</span>",
+            "<span class=\"it\">bunga</span>",
+            "<span class=\"it\">payi</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yayu</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Se}-\\textit{kerut}",
+            "\\textit{bunga}",
+            "\\textit{payi}",
+            "\\textit{ka}",
+            "\\textit{yayu}."
+        ],
+        "trs": "The/An old woman cut the/a sweet potato with the knife.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--21529",
+        "categories": [
+            "3sg",
+            "gen",
+            "gv1",
+            "sbj"
+        ],
+        "clength": 66,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "cut-\\textsc{gv1}=\\textsc{3sg.gen}  \\textsc{sbj} sweet.potato",
+        "imtwordsbare": [
+            "cut-GV1=3sg.gen",
+            "SBJ",
+            "sweet.potato"
+        ],
+        "imtwordshtml": [
+            "cut-<span class=\"sc\">gv1</span>=<span class=\"sc\">3sg.gen</span>",
+            "<span class=\"sc\">sbj</span>",
+            "sweet.potato"
+        ],
+        "imtwordstex": [
+            "cut-\\textsc{gv1}=\\textsc{3sg.gen}",
+            "\\textsc{sbj}",
+            "sweet.potato"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Kerut}-\\textit{un}=\\textit{na} \\textit{ka} \\textit{bunga}.",
+        "srcwordsbare": [
+            "Kerut-un=na",
+            "ka",
+            "bunga."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Kerut</span>-<span class=\"it\">un</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">bunga</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Kerut}-\\textit{un}=\\textit{na}",
+            "\\textit{ka}",
+            "\\textit{bunga}."
+        ],
+        "trs": "He/She will cut the sweet potato.",
+        "wlength": 3
+    },
+    {
+        "ID": "tsukida--24552",
+        "categories": [
+            "3sg",
+            "cv",
+            "gen",
+            "sbj"
+        ],
+        "clength": 80,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{cv}-cut=\\textsc{3sg.gen} sweet.potato \\textsc{sbj} knife",
+        "imtwordsbare": [
+            "CV-cut=3sg.gen",
+            "sweet.potato",
+            "SBJ",
+            "knife"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">cv</span>-cut=<span class=\"sc\">3sg.gen</span>",
+            "sweet.potato",
+            "<span class=\"sc\">sbj</span>",
+            "knife"
+        ],
+        "imtwordstex": [
+            "\\textsc{cv}-cut=\\textsc{3sg.gen}",
+            "sweet.potato",
+            "\\textsc{sbj}",
+            "knife"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Se}-\\textit{kerut}=\\textit{na} \\textit{bunga} \\textit{ka} \\textit{yayu}.",
+        "srcwordsbare": [
+            "Se-kerut=na",
+            "bunga",
+            "ka",
+            "yayu."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Se</span>-<span class=\"it\">kerut</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">bunga</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yayu</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Se}-\\textit{kerut}=\\textit{na}",
+            "\\textit{bunga}",
+            "\\textit{ka}",
+            "\\textit{yayu}."
+        ],
+        "trs": "The/An old woman cut the/a sweet potato with the knife.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-815650",
+        "categories": [
+            "3sg",
+            "cv",
+            "gen",
+            "obl",
+            "prox",
+            "sbj"
+        ],
+        "clength": 107,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{cv}-cut=\\textsc{3sg.gen} person-\\textsc{obl} \\textsc{sbj} knife \\textsc{prox}",
+        "imtwordsbare": [
+            "CV-cut=3sg.gen",
+            "person-OBL",
+            "SBJ",
+            "knife",
+            "PROX"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">cv</span>-cut=<span class=\"sc\">3sg.gen</span>",
+            "person-<span class=\"sc\">obl</span>",
+            "<span class=\"sc\">sbj</span>",
+            "knife",
+            "<span class=\"sc\">prox</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{cv}-cut=\\textsc{3sg.gen}",
+            "person-\\textsc{obl}",
+            "\\textsc{sbj}",
+            "knife",
+            "\\textsc{prox}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Se}-\\textit{kerut}=\\textit{na}  \\textit{sediq}-\\textit{an} \\textit{ka} \\textit{yayu} \\textit{niyi}.",
+        "srcwordsbare": [
+            "Se-kerut=na",
+            "sediq-an",
+            "ka",
+            "yayu",
+            "niyi."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Se</span>-<span class=\"it\">kerut</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">sediq</span>-<span class=\"it\">an</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yayu</span>",
+            "<span class=\"it\">niyi</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Se}-\\textit{kerut}=\\textit{na}",
+            "\\textit{sediq}-\\textit{an}",
+            "\\textit{ka}",
+            "\\textit{yayu}",
+            "\\textit{niyi}."
+        ],
+        "trs": "He/She cuts the/a person with this knife.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--82394",
+        "categories": [
+            "1sg",
+            "2sg",
+            "av",
+            "nom",
+            "prt"
+        ],
+        "clength": 103,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{av}-come=\\textsc{2sg.nom} here \\textsc{prt}  \\textsc{av}-be.glad=\\textsc{1sg.nom}",
+        "imtwordsbare": [
+            "AV-come=2sg.nom",
+            "here",
+            "PRT",
+            "AV-be.glad=1sg.nom"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>-come=<span class=\"sc\">2sg.nom</span>",
+            "here",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">av</span>-be.glad=<span class=\"sc\">1sg.nom</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}-come=\\textsc{2sg.nom}",
+            "here",
+            "\\textsc{prt}",
+            "\\textsc{av}-be.glad=\\textsc{1sg.nom}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{M}-\\textit{iyah}=\\textit{su} \\textit{hini} \\textit{'u}, \\textit{me}-\\textit{qaras}=\\textit{ku}.",
+        "srcwordsbare": [
+            "M-iyah=su",
+            "hini",
+            "'u,",
+            "me-qaras=ku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">M</span>-<span class=\"it\">iyah</span>=<span class=\"it\">su</span>",
+            "<span class=\"it\">hini</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">me</span>-<span class=\"it\">qaras</span>=<span class=\"it\">ku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{M}-\\textit{iyah}=\\textit{su}",
+            "\\textit{hini}",
+            "\\textit{'u},",
+            "\\textit{me}-\\textit{qaras}=\\textit{ku}."
+        ],
+        "trs": "If you come, I will be glad.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida--25628",
+        "categories": [
+            "1sg",
+            "2sg",
+            "av",
+            "nom",
+            "prt"
+        ],
+        "clength": 118,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "if=\\textsc{2sg.nom}  \\textsc{av}-come  here  \\textsc{prt}  \\textsc{av}-be.glad=\\textsc{1sg}.\\textsc{nom}",
+        "imtwordsbare": [
+            "if=2sg.nom",
+            "AV-come",
+            "here",
+            "PRT",
+            "AV-be.glad=1SG.NOM"
+        ],
+        "imtwordshtml": [
+            "if=<span class=\"sc\">2sg.nom</span>",
+            "<span class=\"sc\">av</span>-come",
+            "here",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">av</span>-be.glad=<span class=\"sc\">1sg</span>.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "if=\\textsc{2sg.nom}",
+            "\\textsc{av}-come",
+            "here",
+            "\\textsc{prt}",
+            "\\textsc{av}-be.glad=\\textsc{1sg}.\\textsc{nom}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Nasi}=\\textit{su}  \\textit{m}-\\textit{iyah} \\textit{hini} \\textit{'u}, \\textit{me}-\\textit{qaras}=\\textit{ku}.",
+        "srcwordsbare": [
+            "Nasi=su",
+            "m-iyah",
+            "hini",
+            "'u,",
+            "me-qaras=ku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Nasi</span>=<span class=\"it\">su</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">iyah</span>",
+            "<span class=\"it\">hini</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">me</span>-<span class=\"it\">qaras</span>=<span class=\"it\">ku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Nasi}=\\textit{su}",
+            "\\textit{m}-\\textit{iyah}",
+            "\\textit{hini}",
+            "\\textit{'u},",
+            "\\textit{me}-\\textit{qaras}=\\textit{ku}."
+        ],
+        "trs": "If you come here, I will be glad.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida-172216",
+        "categories": [
+            "1plin",
+            "gen",
+            "neg",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 151,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{prox} \\textsc{prt} \\textsc{neg} God=\\textsc{1plin.gen} \\phantom{(}\\textsc{sbj} it",
+        "imtwordsbare": [
+            "PROX",
+            "PRT",
+            "NEG",
+            "God=1plin.gen",
+            "\\phantom{(}SBJ",
+            "it"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">neg</span>",
+            "God=<span class=\"sc\">1plin.gen</span>",
+            "\\phantom{(}<span class=\"sc\">sbj</span>",
+            "it"
+        ],
+        "imtwordstex": [
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\textsc{neg}",
+            "God=\\textsc{1plin.gen}",
+            "\\phantom{(}\\textsc{sbj}",
+            "it"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "polarity": "negative",
+        "src": "\\textit{Niyi\\textsubscript{i}} \\textit{'u}, \\textit{'adi} \\textit{'utux}=\\textit{ta} {\\USOParen}\\textit{ka}  \\textit{kiya}\\textsubscript{i}{\\USCParen}.",
+        "srcwordsbare": [
+            "Niyi\\textsubscript{i}",
+            "'u,",
+            "'adi",
+            "'utux=ta",
+            "{\\USOParen}ka",
+            "kiyai{\\USCParen}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Niyi\\textsubscript{i</span>}",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">'adi</span>",
+            "<span class=\"it\">'utux</span>=<span class=\"it\">ta</span>",
+            "{\\USOParen}<span class=\"it\">ka</span>",
+            "<span class=\"it\">kiya</span><span class=\"subscript\">i</span>{\\USCParen}."
+        ],
+        "srcwordstex": [
+            "\\textit{Niyi\\textsubscript{i}}",
+            "\\textit{'u},",
+            "\\textit{'adi}",
+            "\\textit{'utux}=\\textit{ta}",
+            "{\\USOParen}\\textit{ka}",
+            "\\textit{kiya}\\textsubscript{i}{\\USCParen}."
+        ],
+        "trs": "As for this, it is not our God.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-382376",
+        "categories": [
+            "3sg",
+            "av",
+            "prt",
+            "sbj"
+        ],
+        "clength": 151,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "old.woman \\textsc{prt}  <\\textsc{av}>cut sweet.potato \\phantom{(}\\textsc{sbj} \\textsc{3sg}",
+        "imtwordsbare": [
+            "old.woman",
+            "PRT",
+            "<AV>cut",
+            "sweet.potato",
+            "\\phantom{(}SBJ",
+            "3SG"
+        ],
+        "imtwordshtml": [
+            "old.woman",
+            "<span class=\"sc\">prt</span>",
+            "<<span class=\"sc\">av</span>>cut",
+            "sweet.potato",
+            "\\phantom{(}<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "old.woman",
+            "\\textsc{prt}",
+            "<\\textsc{av}>cut",
+            "sweet.potato",
+            "\\phantom{(}\\textsc{sbj}",
+            "\\textsc{3sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Payi} \\textit{'u},  \\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut} \\textit{bunga} {\\USOParen}\\textit{ka}  \\textit{hiya}{\\USCParen}.",
+        "srcwordsbare": [
+            "Payi",
+            "'u,",
+            "k{\\USSmaller}em{\\USGreater}erut",
+            "bunga",
+            "{\\USOParen}ka",
+            "hiya{\\USCParen}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Payi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">k</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">erut</span>",
+            "<span class=\"it\">bunga</span>",
+            "{\\USOParen}<span class=\"it\">ka</span>",
+            "<span class=\"it\">hiya</span>{\\USCParen}."
+        ],
+        "srcwordstex": [
+            "\\textit{Payi}",
+            "\\textit{'u},",
+            "\\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}",
+            "\\textit{bunga}",
+            "{\\USOParen}\\textit{ka}",
+            "\\textit{hiya}{\\USCParen}."
+        ],
+        "trs": "The old woman, she cuts sweet potato.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida--51413",
+        "categories": [
+            "av",
+            "prt",
+            "sbj"
+        ],
+        "clength": 122,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\phantom{*}sweet.potato \\textsc{prt} <\\textsc{av}>cut \\textsc{sbj} old.woman",
+        "imtwordsbare": [
+            "\\phantom{*}sweet.potato",
+            "PRT",
+            "<AV>cut",
+            "SBJ",
+            "old.woman"
+        ],
+        "imtwordshtml": [
+            "\\phantom{*}sweet.potato",
+            "<span class=\"sc\">prt</span>",
+            "<<span class=\"sc\">av</span>>cut",
+            "<span class=\"sc\">sbj</span>",
+            "old.woman"
+        ],
+        "imtwordstex": [
+            "\\phantom{*}sweet.potato",
+            "\\textsc{prt}",
+            "<\\textsc{av}>cut",
+            "\\textsc{sbj}",
+            "old.woman"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "{\\USStar}\\textit{Bunga} \\textit{'u}, \\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut} \\textit{ka} \\textit{payi}.",
+        "srcwordsbare": [
+            "{\\USStar}Bunga",
+            "'u,",
+            "k{\\USSmaller}em{\\USGreater}erut",
+            "ka",
+            "payi."
+        ],
+        "srcwordshtml": [
+            "{\\USStar}<span class=\"it\">Bunga</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">k</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">erut</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">payi</span>."
+        ],
+        "srcwordstex": [
+            "{\\USStar}\\textit{Bunga}",
+            "\\textit{'u},",
+            "\\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}",
+            "\\textit{ka}",
+            "\\textit{payi}."
+        ],
+        "trs": "The old woman cuts sweet potato.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--44205",
+        "categories": [
+            "gv1",
+            "prt",
+            "sbj"
+        ],
+        "clength": 117,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "sweet.potato \\textsc{prt} cut-\\textsc{gv1} old.woman \\phantom{(}\\textsc{sbj} sweet.potato",
+        "imtwordsbare": [
+            "sweet.potato",
+            "PRT",
+            "cut-GV1",
+            "old.woman",
+            "\\phantom{(}SBJ",
+            "sweet.potato"
+        ],
+        "imtwordshtml": [
+            "sweet.potato",
+            "<span class=\"sc\">prt</span>",
+            "cut-<span class=\"sc\">gv1</span>",
+            "old.woman",
+            "\\phantom{(}<span class=\"sc\">sbj</span>",
+            "sweet.potato"
+        ],
+        "imtwordstex": [
+            "sweet.potato",
+            "\\textsc{prt}",
+            "cut-\\textsc{gv1}",
+            "old.woman",
+            "\\phantom{(}\\textsc{sbj}",
+            "sweet.potato"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Bunga} \\textit{'u} \\textit{kerut}-\\textit{un} \\textit{payi} {\\USOParen}\\textit{ka} \\textit{bunga}{\\USCParen}.",
+        "srcwordsbare": [
+            "Bunga",
+            "'u",
+            "kerut-un",
+            "payi",
+            "{\\USOParen}ka",
+            "bunga{\\USCParen}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Bunga</span>",
+            "<span class=\"it\">'u</span>",
+            "<span class=\"it\">kerut</span>-<span class=\"it\">un</span>",
+            "<span class=\"it\">payi</span>",
+            "{\\USOParen}<span class=\"it\">ka</span>",
+            "<span class=\"it\">bunga</span>{\\USCParen}."
+        ],
+        "srcwordstex": [
+            "\\textit{Bunga}",
+            "\\textit{'u}",
+            "\\textit{kerut}-\\textit{un}",
+            "\\textit{payi}",
+            "{\\USOParen}\\textit{ka}",
+            "\\textit{bunga}{\\USCParen}."
+        ],
+        "trs": "The/An old woman will cut the sweet potato.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-726574",
+        "categories": [
+            "1sg",
+            "av",
+            "nom",
+            "prt",
+            "sbj"
+        ],
+        "clength": 163,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{1sg} \\textsc{prt} <\\textsc{av}>cut=\\textsc{1sg.nom} sweet.potato \\phantom{(}\\textsc{sbj} \\textsc{1sg}",
+        "imtwordsbare": [
+            "1SG",
+            "PRT",
+            "<AV>cut=1sg.nom",
+            "sweet.potato",
+            "\\phantom{(}SBJ",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">prt</span>",
+            "<<span class=\"sc\">av</span>>cut=<span class=\"sc\">1sg.nom</span>",
+            "sweet.potato",
+            "\\phantom{(}<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "\\textsc{prt}",
+            "<\\textsc{av}>cut=\\textsc{1sg.nom}",
+            "sweet.potato",
+            "\\phantom{(}\\textsc{sbj}",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Yaku} \\textit{'u}, \\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}=\\textit{ku} \\textit{bunga}  {\\USOParen}\\textit{ka}  \\textit{yaku}{\\USCParen}.",
+        "srcwordsbare": [
+            "Yaku",
+            "'u,",
+            "k{\\USSmaller}em{\\USGreater}erut=ku",
+            "bunga",
+            "{\\USOParen}ka",
+            "yaku{\\USCParen}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Yaku</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">k</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">erut</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">bunga</span>",
+            "{\\USOParen}<span class=\"it\">ka</span>",
+            "<span class=\"it\">yaku</span>{\\USCParen}."
+        ],
+        "srcwordstex": [
+            "\\textit{Yaku}",
+            "\\textit{'u},",
+            "\\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{erut}=\\textit{ku}",
+            "\\textit{bunga}",
+            "{\\USOParen}\\textit{ka}",
+            "\\textit{yaku}{\\USCParen}."
+        ],
+        "trs": "As for me, I cut sweet potato.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-453247",
+        "categories": [
+            "3sg",
+            "av",
+            "lnk",
+            "neg",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 227,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "then \\textsc{lnk} Karaw Wacih \\textsc{prox} \\textsc{prt} \\textsc{neg} \\textsc{lnk} really=really \\textsc{av}.believe Jesus Christ \\textsc{sbj} \\textsc{3sg} yet",
+        "imtwordsbare": [
+            "then",
+            "LNK",
+            "Karaw",
+            "Wacih",
+            "PROX",
+            "PRT",
+            "NEG",
+            "LNK",
+            "really=really",
+            "AV.believe",
+            "Jesus",
+            "Christ",
+            "SBJ",
+            "3SG",
+            "yet"
+        ],
+        "imtwordshtml": [
+            "then",
+            "<span class=\"sc\">lnk</span>",
+            "Karaw",
+            "Wacih",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">lnk</span>",
+            "really=really",
+            "<span class=\"sc\">av</span>.believe",
+            "Jesus",
+            "Christ",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">3sg</span>",
+            "yet"
+        ],
+        "imtwordstex": [
+            "then",
+            "\\textsc{lnk}",
+            "Karaw",
+            "Wacih",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\textsc{neg}",
+            "\\textsc{lnk}",
+            "really=really",
+            "\\textsc{av}.believe",
+            "Jesus",
+            "Christ",
+            "\\textsc{sbj}",
+            "\\textsc{3sg}",
+            "yet"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "polarity": "negative",
+        "src": "\\textit{Si'ida} \\textit{ka} \\textit{Karaw} \\textit{Watih} \\textit{niyi} \\textit{'u} \\textit{adi} \\textit{ka} \\textit{balay}=\\textit{bi} \\textit{senehiyi} \\textit{Yisu} \\textit{Kiristu} \\textit{ka} \\textit{hiya} \\textit{niyana}.",
+        "srcwordsbare": [
+            "Si'ida",
+            "ka",
+            "Karaw",
+            "Watih",
+            "niyi",
+            "'u",
+            "adi",
+            "ka",
+            "balay=bi",
+            "senehiyi",
+            "Yisu",
+            "Kiristu",
+            "ka",
+            "hiya",
+            "niyana."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Si'ida</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">Karaw</span>",
+            "<span class=\"it\">Watih</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>",
+            "<span class=\"it\">adi</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">balay</span>=<span class=\"it\">bi</span>",
+            "<span class=\"it\">senehiyi</span>",
+            "<span class=\"it\">Yisu</span>",
+            "<span class=\"it\">Kiristu</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">hiya</span>",
+            "<span class=\"it\">niyana</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Si'ida}",
+            "\\textit{ka}",
+            "\\textit{Karaw}",
+            "\\textit{Watih}",
+            "\\textit{niyi}",
+            "\\textit{'u}",
+            "\\textit{adi}",
+            "\\textit{ka}",
+            "\\textit{balay}=\\textit{bi}",
+            "\\textit{senehiyi}",
+            "\\textit{Yisu}",
+            "\\textit{Kiristu}",
+            "\\textit{ka}",
+            "\\textit{hiya}",
+            "\\textit{niyana}."
+        ],
+        "trs": "At that time Karaw Wacih, he did not really believed in Gospel yet.",
+        "wlength": 15
+    },
+    {
+        "ID": "tsukida-817143",
+        "categories": [
+            "3sg",
+            "cv",
+            "gen",
+            "prt",
+            "sbj"
+        ],
+        "clength": 107,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "old.woman \\textsc{prt}  \\textsc{cv}-cut=\\textsc{3sg.gen} sweet.potato \\textsc{sbj} knife",
+        "imtwordsbare": [
+            "old.woman",
+            "PRT",
+            "CV-cut=3sg.gen",
+            "sweet.potato",
+            "SBJ",
+            "knife"
+        ],
+        "imtwordshtml": [
+            "old.woman",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">cv</span>-cut=<span class=\"sc\">3sg.gen</span>",
+            "sweet.potato",
+            "<span class=\"sc\">sbj</span>",
+            "knife"
+        ],
+        "imtwordstex": [
+            "old.woman",
+            "\\textsc{prt}",
+            "\\textsc{cv}-cut=\\textsc{3sg.gen}",
+            "sweet.potato",
+            "\\textsc{sbj}",
+            "knife"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Payi} \\textit{'u}, \\textit{se}-\\textit{kerut}=\\textit{na} \\textit{bunga} \\textit{ka} \\textit{yayu}.",
+        "srcwordsbare": [
+            "Payi",
+            "'u,",
+            "se-kerut=na",
+            "bunga",
+            "ka",
+            "yayu."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Payi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">se</span>-<span class=\"it\">kerut</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">bunga</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yayu</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Payi}",
+            "\\textit{'u},",
+            "\\textit{se}-\\textit{kerut}=\\textit{na}",
+            "\\textit{bunga}",
+            "\\textit{ka}",
+            "\\textit{yayu}."
+        ],
+        "trs": "As for the old woman, she will cut the/a sweet potato with the knife.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida--67966",
+        "categories": [
+            "cv",
+            "prf",
+            "prox",
+            "sbj"
+        ],
+        "clength": 114,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "<\\textsc{cv.prf}>buy  Kumu  \\textsc{sbj} book \\textsc{prox}",
+        "imtwordsbare": [
+            "<cv.prf>buy",
+            "Kumu",
+            "SBJ",
+            "book",
+            "PROX"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">cv.prf</span>>buy",
+            "Kumu",
+            "<span class=\"sc\">sbj</span>",
+            "book",
+            "<span class=\"sc\">prox</span>"
+        ],
+        "imtwordstex": [
+            "<\\textsc{cv.prf}>buy",
+            "Kumu",
+            "\\textsc{sbj}",
+            "book",
+            "\\textsc{prox}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{B}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{arig} \\textit{Kumu} \\textit{ka} \\textit{patas} \\textit{niyi}.",
+        "srcwordsbare": [
+            "B{\\USSmaller}en{\\USGreater}arig",
+            "Kumu",
+            "ka",
+            "patas",
+            "niyi."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">B</span>{\\USSmaller}<span class=\"it\">en</span>{\\USGreater}<span class=\"it\">arig</span>",
+            "<span class=\"it\">Kumu</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">patas</span>",
+            "<span class=\"it\">niyi</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{B}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{arig}",
+            "\\textit{Kumu}",
+            "\\textit{ka}",
+            "\\textit{patas}",
+            "\\textit{niyi}."
+        ],
+        "trs": "Kumu bought this book.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--33849",
+        "categories": [
+            "3sg",
+            "cv",
+            "gen",
+            "prf",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 154,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\phantom{*}kumu  \\textsc{prt} <\\textsc{cv.prf}>buy=\\textsc{3sg.gen} \\textsc{sbj} book \\textsc{prox}",
+        "imtwordsbare": [
+            "\\phantom{*}kumu",
+            "PRT",
+            "<cv.prf>buy=3sg.gen",
+            "SBJ",
+            "book",
+            "PROX"
+        ],
+        "imtwordshtml": [
+            "\\phantom{*}kumu",
+            "<span class=\"sc\">prt</span>",
+            "<<span class=\"sc\">cv.prf</span>>buy=<span class=\"sc\">3sg.gen</span>",
+            "<span class=\"sc\">sbj</span>",
+            "book",
+            "<span class=\"sc\">prox</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{*}kumu",
+            "\\textsc{prt}",
+            "<\\textsc{cv.prf}>buy=\\textsc{3sg.gen}",
+            "\\textsc{sbj}",
+            "book",
+            "\\textsc{prox}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "{\\USStar}\\textit{Kumu} \\textit{'u},  \\textit{b}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{arig}=\\textit{na} \\textit{ka}    \\textit{patas}   \\textit{niyi}.",
+        "srcwordsbare": [
+            "{\\USStar}Kumu",
+            "'u,",
+            "b{\\USSmaller}en{\\USGreater}arig=na",
+            "ka",
+            "patas",
+            "niyi."
+        ],
+        "srcwordshtml": [
+            "{\\USStar}<span class=\"it\">Kumu</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">b</span>{\\USSmaller}<span class=\"it\">en</span>{\\USGreater}<span class=\"it\">arig</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">patas</span>",
+            "<span class=\"it\">niyi</span>."
+        ],
+        "srcwordstex": [
+            "{\\USStar}\\textit{Kumu}",
+            "\\textit{'u},",
+            "\\textit{b}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{arig}=\\textit{na}",
+            "\\textit{ka}",
+            "\\textit{patas}",
+            "\\textit{niyi}."
+        ],
+        "trs": "As for Kumu, she bought this book./As for Kumu, this book was bought by her.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-315954",
+        "categories": [
+            "3sg",
+            "cv",
+            "gen",
+            "prf",
+            "prt",
+            "sbj"
+        ],
+        "clength": 165,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\phantom{*}Kumu  \\textsc{prt} <\\textsc{cv.prf}>buy=\\textsc{3sg.gen} yesterday \\textsc{sbj} book  this",
+        "imtwordsbare": [
+            "\\phantom{*}Kumu",
+            "PRT",
+            "<cv.prf>buy=3sg.gen",
+            "yesterday",
+            "SBJ",
+            "book",
+            "this"
+        ],
+        "imtwordshtml": [
+            "\\phantom{*}Kumu",
+            "<span class=\"sc\">prt</span>",
+            "<<span class=\"sc\">cv.prf</span>>buy=<span class=\"sc\">3sg.gen</span>",
+            "yesterday",
+            "<span class=\"sc\">sbj</span>",
+            "book",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\phantom{*}Kumu",
+            "\\textsc{prt}",
+            "<\\textsc{cv.prf}>buy=\\textsc{3sg.gen}",
+            "yesterday",
+            "\\textsc{sbj}",
+            "book",
+            "this"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "{\\USStar}\\textit{Kumu} \\textit{'u}, \\textit{b}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{arig}=\\textit{na} \\textit{sehiga}  \\textit{ka} \\textit{patas} \\textit{niyi}.",
+        "srcwordsbare": [
+            "{\\USStar}Kumu",
+            "'u,",
+            "b{\\USSmaller}en{\\USGreater}arig=na",
+            "sehiga",
+            "ka",
+            "patas",
+            "niyi."
+        ],
+        "srcwordshtml": [
+            "{\\USStar}<span class=\"it\">Kumu</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">b</span>{\\USSmaller}<span class=\"it\">en</span>{\\USGreater}<span class=\"it\">arig</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">sehiga</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">patas</span>",
+            "<span class=\"it\">niyi</span>."
+        ],
+        "srcwordstex": [
+            "{\\USStar}\\textit{Kumu}",
+            "\\textit{'u},",
+            "\\textit{b}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{arig}=\\textit{na}",
+            "\\textit{sehiga}",
+            "\\textit{ka}",
+            "\\textit{patas}",
+            "\\textit{niyi}."
+        ],
+        "trs": "As for Kumu, she bought this book yesterday.",
+        "wlength": 7
+    },
+    {
+        "ID": "tsukida--57115",
+        "categories": [
+            "av",
+            "sbj"
+        ],
+        "clength": 77,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{av}-be.broken   \\textsc{sbj} car Masaw",
+        "imtwordsbare": [
+            "AV-be.broken",
+            "SBJ",
+            "car",
+            "Masaw"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>-be.broken",
+            "<span class=\"sc\">sbj</span>",
+            "car",
+            "Masaw"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}-be.broken",
+            "\\textsc{sbj}",
+            "car",
+            "Masaw"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Me}-\\textit{gerung}  \\textit{ka}   \\textit{tederuy}   \\textit{Masaw}.",
+        "srcwordsbare": [
+            "Me-gerung",
+            "ka",
+            "tederuy",
+            "Masaw."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Me</span>-<span class=\"it\">gerung</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">tederuy</span>",
+            "<span class=\"it\">Masaw</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Me}-\\textit{gerung}",
+            "\\textit{ka}",
+            "\\textit{tederuy}",
+            "\\textit{Masaw}."
+        ],
+        "trs": "Masaw\u2019s car is broken.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-734338",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "prt",
+            "sbj"
+        ],
+        "clength": 98,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "Masaw  \\textsc{prt} \\textsc{av}-be.broken  \\textsc{sbj} car=\\textsc{3sg.gen}",
+        "imtwordsbare": [
+            "Masaw",
+            "PRT",
+            "AV-be.broken",
+            "SBJ",
+            "car=3sg.gen"
+        ],
+        "imtwordshtml": [
+            "Masaw",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">av</span>-be.broken",
+            "<span class=\"sc\">sbj</span>",
+            "car=<span class=\"sc\">3sg.gen</span>"
+        ],
+        "imtwordstex": [
+            "Masaw",
+            "\\textsc{prt}",
+            "\\textsc{av}-be.broken",
+            "\\textsc{sbj}",
+            "car=\\textsc{3sg.gen}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Masaw}  \\textit{'u}, \\textit{me}-\\textit{gerung} \\textit{ka} \\textit{tederuy}=\\textit{na}.",
+        "srcwordsbare": [
+            "Masaw",
+            "'u,",
+            "me-gerung",
+            "ka",
+            "tederuy=na."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Masaw</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">me</span>-<span class=\"it\">gerung</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">tederuy</span>=<span class=\"it\">na</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Masaw}",
+            "\\textit{'u},",
+            "\\textit{me}-\\textit{gerung}",
+            "\\textit{ka}",
+            "\\textit{tederuy}=\\textit{na}."
+        ],
+        "trs": "As for Masaw, his car is broken.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--52797",
+        "categories": [
+            "av",
+            "prt",
+            "reason",
+            "sbj"
+        ],
+        "clength": 259,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "because day:time \\textsc{prt} \\textsc{av}-come  <\\textsc{av}>hang:about\t<\\textsc{av}>hit  \\textsc{sbj}  ship sky America  \\textsc{reason}",
+        "imtwordsbare": [
+            "because",
+            "day:time",
+            "PRT",
+            "AV-come",
+            "<AV>hang:about",
+            "<AV>hit",
+            "SBJ",
+            "ship",
+            "sky",
+            "America",
+            "REASON"
+        ],
+        "imtwordshtml": [
+            "because",
+            "day:time",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">av</span>-come",
+            "<<span class=\"sc\">av</span>>hang:about",
+            "<<span class=\"sc\">av</span>>hit",
+            "<span class=\"sc\">sbj</span>",
+            "ship",
+            "sky",
+            "America",
+            "<span class=\"sc\">reason</span>"
+        ],
+        "imtwordstex": [
+            "because",
+            "day:time",
+            "\\textsc{prt}",
+            "\\textsc{av}-come",
+            "<\\textsc{av}>hang:about",
+            "<\\textsc{av}>hit",
+            "\\textsc{sbj}",
+            "ship",
+            "sky",
+            "America",
+            "\\textsc{reason}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Ya'asa} \\textit{diyan} \\textit{'u}, \\textit{m}-\\textit{iyah} \\textit{r}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{igaw} \\textit{s}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{bu} \\textit{ka} \\textit{'asu} \\textit{sekiya} \\textit{'Amirika} \\textit{heki}.",
+        "srcwordsbare": [
+            "Ya'asa",
+            "diyan",
+            "'u,",
+            "m-iyah",
+            "r{\\USSmaller}em{\\USGreater}igaw",
+            "s{\\USSmaller}em{\\USGreater}bu",
+            "ka",
+            "'asu",
+            "sekiya",
+            "'Amirika",
+            "heki."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Ya'asa</span>",
+            "<span class=\"it\">diyan</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">m</span>-<span class=\"it\">iyah</span>",
+            "<span class=\"it\">r</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">igaw</span>",
+            "<span class=\"it\">s</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">bu</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">'asu</span>",
+            "<span class=\"it\">sekiya</span>",
+            "<span class=\"it\">'Amirika</span>",
+            "<span class=\"it\">heki</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Ya'asa}",
+            "\\textit{diyan}",
+            "\\textit{'u},",
+            "\\textit{m}-\\textit{iyah}",
+            "\\textit{r}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{igaw}",
+            "\\textit{s}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{bu}",
+            "\\textit{ka}",
+            "\\textit{'asu}",
+            "\\textit{sekiya}",
+            "\\textit{'Amirika}",
+            "\\textit{heki}."
+        ],
+        "trs": "Because in the daytime, American airplanes come to make an air raid.",
+        "wlength": 11
+    },
+    {
+        "ID": "tsukida-565029",
+        "categories": [
+            "2sg",
+            "gen",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 105,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "two \\textsc{prox} \\textsc{prt} who \\textsc{sbj} younger:sibling=\\textsc{2sg}.\\textsc{gen}",
+        "imtwordsbare": [
+            "two",
+            "PROX",
+            "PRT",
+            "who",
+            "SBJ",
+            "younger:sibling=2SG.GEN"
+        ],
+        "imtwordshtml": [
+            "two",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "who",
+            "<span class=\"sc\">sbj</span>",
+            "younger:sibling=<span class=\"sc\">2sg</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "two",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "who",
+            "\\textsc{sbj}",
+            "younger:sibling=\\textsc{2sg}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Deha} \\textit{niyi} \\textit{'u}, \\textit{'ima}  \\textit{ka} \\textit{sewayi}=\\textit{su}{\\USQMark}",
+        "srcwordsbare": [
+            "Deha",
+            "niyi",
+            "'u,",
+            "'ima",
+            "ka",
+            "sewayi=su{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Deha</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">'ima</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">sewayi</span>=<span class=\"it\">su</span>{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "\\textit{Deha}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{'ima}",
+            "\\textit{ka}",
+            "\\textit{sewayi}=\\textit{su}{\\USQMark}"
+        ],
+        "trs": "Between these two, who is your younger sibling?",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-330515",
+        "categories": [
+            "av",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 118,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "like   \\textsc{prox} \\textsc{prt}   already \\textsc{av}-know   \\textsc{sbj} Japan",
+        "imtwordsbare": [
+            "like",
+            "PROX",
+            "PRT",
+            "already",
+            "AV-know",
+            "SBJ",
+            "Japan"
+        ],
+        "imtwordshtml": [
+            "like",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "already",
+            "<span class=\"sc\">av</span>-know",
+            "<span class=\"sc\">sbj</span>",
+            "Japan"
+        ],
+        "imtwordstex": [
+            "like",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "already",
+            "\\textsc{av}-know",
+            "\\textsc{sbj}",
+            "Japan"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Saw}   \\textit{niyi}  \\textit{'u},  \\textit{dima}  \\textit{me}-\\textit{kela}     \\textit{ka}  \\textit{nihung}.",
+        "srcwordsbare": [
+            "Saw",
+            "niyi",
+            "'u,",
+            "dima",
+            "me-kela",
+            "ka",
+            "nihung."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Saw</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">dima</span>",
+            "<span class=\"it\">me</span>-<span class=\"it\">kela</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">nihung</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Saw}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{dima}",
+            "\\textit{me}-\\textit{kela}",
+            "\\textit{ka}",
+            "\\textit{nihung}."
+        ],
+        "trs": "As for such things, Japan already knew.",
+        "wlength": 7
+    },
+    {
+        "ID": "tsukida-554364",
+        "categories": [
+            "1sg",
+            "av",
+            "nom",
+            "sbj"
+        ],
+        "clength": 112,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "<\\textsc{av}>see=\\textsc{1sg.nom} woman \\textsc{sbj} \\textsc{1sg}",
+        "imtwordsbare": [
+            "<AV>see=1sg.nom",
+            "woman",
+            "SBJ",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av</span>>see=<span class=\"sc\">1sg.nom</span>",
+            "woman",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av}>see=\\textsc{1sg.nom}",
+            "woman",
+            "\\textsc{sbj}",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku} \\textit{kuyuh}  \\textit{ka} \\textit{yaku}.",
+        "srcwordsbare": [
+            "Q{\\USSmaller}em{\\USGreater}ita=ku",
+            "kuyuh",
+            "ka",
+            "yaku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Q</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">ita</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">kuyuh</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yaku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku}",
+            "\\textit{kuyuh}",
+            "\\textit{ka}",
+            "\\textit{yaku}."
+        ],
+        "trs": "I saw a/the woman.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-215073",
+        "categories": [
+            "av",
+            "dist",
+            "sbj"
+        ],
+        "clength": 55,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{av}-be:broken \\textsc{sbj} \\textsc{dist}",
+        "imtwordsbare": [
+            "AV-be:broken",
+            "SBJ",
+            "DIST"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>-be:broken",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">dist</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}-be:broken",
+            "\\textsc{sbj}",
+            "\\textsc{dist}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Me}-\\textit{gerung} \\textit{ka}  \\textit{gaga}.",
+        "srcwordsbare": [
+            "Me-gerung",
+            "ka",
+            "gaga."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Me</span>-<span class=\"it\">gerung</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">gaga</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Me}-\\textit{gerung}",
+            "\\textit{ka}",
+            "\\textit{gaga}."
+        ],
+        "trs": "That is broken.",
+        "wlength": 3
+    },
+    {
+        "ID": "tsukida--83295",
+        "categories": [
+            "1sg",
+            "av",
+            "fut",
+            "nom",
+            "sbj"
+        ],
+        "clength": 141,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "<\\textsc{av}>see=\\textsc{1sg.nom} \\textsc{av}.\\textsc{fut}-teach language \\textsc{sbj} \\textsc{1sg}",
+        "imtwordsbare": [
+            "<AV>see=1sg.nom",
+            "AV.FUT-teach",
+            "language",
+            "SBJ",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av</span>>see=<span class=\"sc\">1sg.nom</span>",
+            "<span class=\"sc\">av</span>.<span class=\"sc\">fut</span>-teach",
+            "language",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av}>see=\\textsc{1sg.nom}",
+            "\\textsc{av}.\\textsc{fut}-teach",
+            "language",
+            "\\textsc{sbj}",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku}  \\textit{mpe}-\\textit{tegesa} \\textit{kari} \\textit{ka}  \\textit{yaku}.",
+        "srcwordsbare": [
+            "Q{\\USSmaller}em{\\USGreater}ita=ku",
+            "mpe-tegesa",
+            "kari",
+            "ka",
+            "yaku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Q</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">ita</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">mpe</span>-<span class=\"it\">tegesa</span>",
+            "<span class=\"it\">kari</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yaku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku}",
+            "\\textit{mpe}-\\textit{tegesa}",
+            "\\textit{kari}",
+            "\\textit{ka}",
+            "\\textit{yaku}."
+        ],
+        "trs": "I saw the language teacher.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida-739856",
+        "categories": [
+            "1sg",
+            "av",
+            "dist",
+            "nom",
+            "sbj"
+        ],
+        "clength": 126,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "<\\textsc{av}>see=\\textsc{1sg.nom} woman \\textsc{dist} \\textsc{sbj} \\textsc{1sg}",
+        "imtwordsbare": [
+            "<AV>see=1sg.nom",
+            "woman",
+            "DIST",
+            "SBJ",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av</span>>see=<span class=\"sc\">1sg.nom</span>",
+            "woman",
+            "<span class=\"sc\">dist</span>",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av}>see=\\textsc{1sg.nom}",
+            "woman",
+            "\\textsc{dist}",
+            "\\textsc{sbj}",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku}  \\textit{kuyuh} \\textit{gaga} \\textit{ka} \\textit{yaku}.",
+        "srcwordsbare": [
+            "Q{\\USSmaller}em{\\USGreater}ita=ku",
+            "kuyuh",
+            "gaga",
+            "ka",
+            "yaku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Q</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">ita</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">kuyuh</span>",
+            "<span class=\"it\">gaga</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yaku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku}",
+            "\\textit{kuyuh}",
+            "\\textit{gaga}",
+            "\\textit{ka}",
+            "\\textit{yaku}."
+        ],
+        "trs": "I saw that woman.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--67252",
+        "categories": [
+            "av",
+            "sbj"
+        ],
+        "clength": 72,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{av}-be:broken \\textsc{sbj} three car",
+        "imtwordsbare": [
+            "AV-be:broken",
+            "SBJ",
+            "three",
+            "car"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>-be:broken",
+            "<span class=\"sc\">sbj</span>",
+            "three",
+            "car"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}-be:broken",
+            "\\textsc{sbj}",
+            "three",
+            "car"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Me}-\\textit{gerung} \\textit{ka}  \\textit{teru} \\textit{tederuy}.",
+        "srcwordsbare": [
+            "Me-gerung",
+            "ka",
+            "teru",
+            "tederuy."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Me</span>-<span class=\"it\">gerung</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">teru</span>",
+            "<span class=\"it\">tederuy</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Me}-\\textit{gerung}",
+            "\\textit{ka}",
+            "\\textit{teru}",
+            "\\textit{tederuy}."
+        ],
+        "trs": "The three cars are broken.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida--19426",
+        "categories": [
+            "1sg",
+            "3sg",
+            "av",
+            "gen",
+            "nom",
+            "sbj"
+        ],
+        "clength": 123,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "<\\textsc{av}>see=\\textsc{1sg.nom} wife=\\textsc{3sg}.\\textsc{gen} \\textsc{sbj} \\textsc{1sg}",
+        "imtwordsbare": [
+            "<AV>see=1sg.nom",
+            "wife=3SG.GEN",
+            "SBJ",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av</span>>see=<span class=\"sc\">1sg.nom</span>",
+            "wife=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av}>see=\\textsc{1sg.nom}",
+            "wife=\\textsc{3sg}.\\textsc{gen}",
+            "\\textsc{sbj}",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku} \\textit{kuyuh}=\\textit{na} \\textit{ka} \\textit{yaku}.",
+        "srcwordsbare": [
+            "Q{\\USSmaller}em{\\USGreater}ita=ku",
+            "kuyuh=na",
+            "ka",
+            "yaku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Q</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">ita</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">kuyuh</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yaku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku}",
+            "\\textit{kuyuh}=\\textit{na}",
+            "\\textit{ka}",
+            "\\textit{yaku}."
+        ],
+        "trs": "I saw his wife.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-919420",
+        "categories": [
+            "av",
+            "sbj"
+        ],
+        "clength": 74,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{av}-be:broken \\textsc{sbj} house  wood",
+        "imtwordsbare": [
+            "AV-be:broken",
+            "SBJ",
+            "house",
+            "wood"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>-be:broken",
+            "<span class=\"sc\">sbj</span>",
+            "house",
+            "wood"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}-be:broken",
+            "\\textsc{sbj}",
+            "house",
+            "wood"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Me}-\\textit{gerung} \\textit{ka}  \\textit{sapah}   \\textit{qehuni}.",
+        "srcwordsbare": [
+            "Me-gerung",
+            "ka",
+            "sapah",
+            "qehuni."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Me</span>-<span class=\"it\">gerung</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">sapah</span>",
+            "<span class=\"it\">qehuni</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Me}-\\textit{gerung}",
+            "\\textit{ka}",
+            "\\textit{sapah}",
+            "\\textit{qehuni}."
+        ],
+        "trs": "The wooden house is broken.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-210579",
+        "categories": [
+            "1sg",
+            "av",
+            "fut",
+            "nom",
+            "sbj"
+        ],
+        "clength": 173,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "<\\textsc{av}>see=\\textsc{1sg.nom} woman \\textsc{av}.\\textsc{fut}-teach  language \\textsc{sbj} \\textsc{1sg}",
+        "imtwordsbare": [
+            "<AV>see=1sg.nom",
+            "woman",
+            "AV.FUT-teach",
+            "language",
+            "SBJ",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av</span>>see=<span class=\"sc\">1sg.nom</span>",
+            "woman",
+            "<span class=\"sc\">av</span>.<span class=\"sc\">fut</span>-teach",
+            "language",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av}>see=\\textsc{1sg.nom}",
+            "woman",
+            "\\textsc{av}.\\textsc{fut}-teach",
+            "language",
+            "\\textsc{sbj}",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku} \\textit{kuyuh} \\textbf{\\textit{mpe}}-\\textbf{\\textit{tegesa}} \\textit{kari} \\textit{ka}  \\textit{yaku}.",
+        "srcwordsbare": [
+            "Q{\\USSmaller}em{\\USGreater}ita=ku",
+            "kuyuh",
+            "\\textit{mpe}-\\textit{tegesa}",
+            "kari",
+            "ka",
+            "yaku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Q</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">ita</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">kuyuh</span>",
+            "<span class=\"bf\">\\textit{mpe</span>}-<span class=\"bf\">\\textit{tegesa</span>}",
+            "<span class=\"it\">kari</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yaku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Q}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ita}=\\textit{ku}",
+            "\\textit{kuyuh}",
+            "\\textbf{\\textit{mpe}}-\\textbf{\\textit{tegesa}}",
+            "\\textit{kari}",
+            "\\textit{ka}",
+            "\\textit{yaku}."
+        ],
+        "trs": "I saw the woman who will teach language.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-838510",
+        "categories": [
+            "3sg",
+            "fut",
+            "gen",
+            "gv1",
+            "prt",
+            "sbj",
+            "uncertn"
+        ],
+        "clength": 183,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{3sg} \\textsc{prt} \\textsc{uncertn}=really   three  month \\textsc{sbj} \\textsc{fut}-live-\\textsc{gv1}=\\textsc{3sg}.\\textsc{gen} there  and",
+        "imtwordsbare": [
+            "3SG",
+            "PRT",
+            "UNCERTN=really",
+            "three",
+            "month",
+            "SBJ",
+            "FUT-live-GV1=3SG.GEN",
+            "there",
+            "and"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">uncertn</span>=really",
+            "three",
+            "month",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">fut</span>-live-<span class=\"sc\">gv1</span>=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>",
+            "there",
+            "and"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "\\textsc{prt}",
+            "\\textsc{uncertn}=really",
+            "three",
+            "month",
+            "\\textsc{sbj}",
+            "\\textsc{fut}-live-\\textsc{gv1}=\\textsc{3sg}.\\textsc{gen}",
+            "there",
+            "and"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Hiya}  \\textit{'u},  \\textit{ya'a}=\\textit{bi}       \\textit{teru} \\textit{'idas}  \\textit{ka}  \\textit{ne}-\\textit{niq}-\\textit{un}=\\textit{na}    \\textit{hiya}   \\textit{ni}",
+        "srcwordsbare": [
+            "Hiya",
+            "'u,",
+            "ya'a=bi",
+            "teru",
+            "'idas",
+            "ka",
+            "ne-niq-un=na",
+            "hiya",
+            "ni"
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Hiya</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">ya'a</span>=<span class=\"it\">bi</span>",
+            "<span class=\"it\">teru</span>",
+            "<span class=\"it\">'idas</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">ne</span>-<span class=\"it\">niq</span>-<span class=\"it\">un</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">hiya</span>",
+            "<span class=\"it\">ni</span>"
+        ],
+        "srcwordstex": [
+            "\\textit{Hiya}",
+            "\\textit{'u},",
+            "\\textit{ya'a}=\\textit{bi}",
+            "\\textit{teru}",
+            "\\textit{'idas}",
+            "\\textit{ka}",
+            "\\textit{ne}-\\textit{niq}-\\textit{un}=\\textit{na}",
+            "\\textit{hiya}",
+            "\\textit{ni}"
+        ],
+        "trs": "Then she, it was about three months that she would live there, and \u2026.",
+        "wlength": 9
+    },
+    {
+        "ID": "tsukida-515294",
+        "categories": [
+            "1pi",
+            "gen",
+            "neg",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 99,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{prox}   \\textsc{prt}   \\textsc{neg} God=\\textsc{1pi.gen}  \\textsc{sbj}  \\textsc{prox}",
+        "imtwordsbare": [
+            "PROX",
+            "PRT",
+            "NEG",
+            "God=1pi.gen",
+            "SBJ",
+            "PROX"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">neg</span>",
+            "God=<span class=\"sc\">1pi.gen</span>",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">prox</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\textsc{neg}",
+            "God=\\textsc{1pi.gen}",
+            "\\textsc{sbj}",
+            "\\textsc{prox}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "polarity": "negative",
+        "src": "\\textit{Niyi}  \\textit{'u},   \\textit{'adi}   \\textit{'utux}=\\textit{ta} \\textit{ka} \\textit{niyi}.",
+        "srcwordsbare": [
+            "Niyi",
+            "'u,",
+            "'adi",
+            "'utux=ta",
+            "ka",
+            "niyi."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">'adi</span>",
+            "<span class=\"it\">'utux</span>=<span class=\"it\">ta</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">niyi</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Niyi}",
+            "\\textit{'u},",
+            "\\textit{'adi}",
+            "\\textit{'utux}=\\textit{ta}",
+            "\\textit{ka}",
+            "\\textit{niyi}."
+        ],
+        "trs": "This, this is not our God.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-327999",
+        "categories": [
+            "av",
+            "pn",
+            "prt"
+        ],
+        "clength": 119,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "then \\textsc{prt}{\\textbackslash} \\textsc{av}-gather outside house \\textsc{pn} \\textsc{pn}",
+        "imtwordsbare": [
+            "then",
+            "PRT{\\\\}",
+            "AV-gather",
+            "outside",
+            "house",
+            "PN",
+            "PN"
+        ],
+        "imtwordshtml": [
+            "then",
+            "<span class=\"sc\">prt</span>{\\\\}",
+            "<span class=\"sc\">av</span>-gather",
+            "outside",
+            "house",
+            "<span class=\"sc\">pn</span>",
+            "<span class=\"sc\">pn</span>"
+        ],
+        "imtwordstex": [
+            "then",
+            "\\textsc{prt}{\\textbackslash}",
+            "\\textsc{av}-gather",
+            "outside",
+            "house",
+            "\\textsc{pn}",
+            "\\textsc{pn}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Si'ida} \\textit{'u},   \\textit{me-seseli}   \\textit{ngangut}   \\textit{sapah}   \\textit{'Umih}   \\textit{Yadu}.",
+        "srcwordsbare": [
+            "Si'ida",
+            "'u,",
+            "me-seseli",
+            "ngangut",
+            "sapah",
+            "'Umih",
+            "Yadu."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Si'ida</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">me-seseli</span>",
+            "<span class=\"it\">ngangut</span>",
+            "<span class=\"it\">sapah</span>",
+            "<span class=\"it\">'Umih</span>",
+            "<span class=\"it\">Yadu</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Si'ida}",
+            "\\textit{'u},",
+            "\\textit{me-seseli}",
+            "\\textit{ngangut}",
+            "\\textit{sapah}",
+            "\\textit{'Umih}",
+            "\\textit{Yadu}."
+        ],
+        "trs": "At that time, they gathered outside of the house of Umih Yadu.",
+        "wlength": 7
+    },
+    {
+        "ID": "tsukida--79206",
+        "categories": [
+            "av",
+            "prf",
+            "prox",
+            "prt"
+        ],
+        "clength": 134,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "because Ciwang \\textsc{prox} \\textsc{prt} \\textsc{av}-\\textsc{prf}-live  mountain Qawgan",
+        "imtwordsbare": [
+            "because",
+            "Ciwang",
+            "PROX",
+            "PRT",
+            "AV-PRF-live",
+            "mountain",
+            "Qawgan"
+        ],
+        "imtwordshtml": [
+            "because",
+            "Ciwang",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">av</span>-<span class=\"sc\">prf</span>-live",
+            "mountain",
+            "Qawgan"
+        ],
+        "imtwordstex": [
+            "because",
+            "Ciwang",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\textsc{av}-\\textsc{prf}-live",
+            "mountain",
+            "Qawgan"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Ya'asa} \\textit{Tiwang} \\textit{niyi}  \\textit{'u},   \\textit{m}-\\textit{en}-\\textit{niq}  \\textit{degiyaq}   \\textit{qawgan}.",
+        "srcwordsbare": [
+            "Ya'asa",
+            "Tiwang",
+            "niyi",
+            "'u,",
+            "m-en-niq",
+            "degiyaq",
+            "qawgan."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Ya'asa</span>",
+            "<span class=\"it\">Tiwang</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">m</span>-<span class=\"it\">en</span>-<span class=\"it\">niq</span>",
+            "<span class=\"it\">degiyaq</span>",
+            "<span class=\"it\">qawgan</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Ya'asa}",
+            "\\textit{Tiwang}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{m}-\\textit{en}-\\textit{niq}",
+            "\\textit{degiyaq}",
+            "\\textit{qawgan}."
+        ],
+        "trs": "Because this Ciwang, she was a \\ili{Teruku}, and she had lived at Mt. Qawgan.",
+        "wlength": 7
+    },
+    {
+        "ID": "tsukida--39305",
+        "categories": [
+            "1sg",
+            "ben",
+            "cv",
+            "fut",
+            "gen",
+            "gentle",
+            "gv",
+            "nfin",
+            "nom",
+            "pn",
+            "prox",
+            "prt"
+        ],
+        "clength": 207,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "bamboo \\textsc{fut}-\\textsc{cv}.write=\\textsc{1sg}.\\textsc{gen} \\textsc{prox} \\textsc{prt} give-\\textsc{gv.nfin}=\\textsc{1sg}.\\textsc{nom} \\textsc{ben} wife=\\textsc{1sg}.\\textsc{gen} \\textsc{pn} \\textsc{pn} \\textsc{gentle}",
+        "imtwordsbare": [
+            "bamboo",
+            "FUT-CV.write=1SG.GEN",
+            "PROX",
+            "PRT",
+            "give-gv.nfin=1SG.NOM",
+            "BEN",
+            "wife=1SG.GEN",
+            "PN",
+            "PN",
+            "GENTLE"
+        ],
+        "imtwordshtml": [
+            "bamboo",
+            "<span class=\"sc\">fut</span>-<span class=\"sc\">cv</span>.write=<span class=\"sc\">1sg</span>.<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "give-<span class=\"sc\">gv.nfin</span>=<span class=\"sc\">1sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">ben</span>",
+            "wife=<span class=\"sc\">1sg</span>.<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">pn</span>",
+            "<span class=\"sc\">pn</span>",
+            "<span class=\"sc\">gentle</span>"
+        ],
+        "imtwordstex": [
+            "bamboo",
+            "\\textsc{fut}-\\textsc{cv}.write=\\textsc{1sg}.\\textsc{gen}",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "give-\\textsc{gv.nfin}=\\textsc{1sg}.\\textsc{nom}",
+            "\\textsc{ben}",
+            "wife=\\textsc{1sg}.\\textsc{gen}",
+            "\\textsc{pn}",
+            "\\textsc{pn}",
+            "\\textsc{gentle}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Budi} \\textit{pe}-\\textit{patas}=\\textit{mu} \\textit{niyi} \\textit{'u}, \\textit{biq}-\\textit{i}=\\textit{ku} \\textit{haya}   \\textit{kuyuh}=\\textit{mu}   \\textit{rubiq}   \\textit{wilang}  \\textit{ha}.",
+        "srcwordsbare": [
+            "Budi",
+            "pe-patas=mu",
+            "niyi",
+            "'u,",
+            "biq-i=ku",
+            "haya",
+            "kuyuh=mu",
+            "rubiq",
+            "wilang",
+            "ha."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Budi</span>",
+            "<span class=\"it\">pe</span>-<span class=\"it\">patas</span>=<span class=\"it\">mu</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">biq</span>-<span class=\"it\">i</span>=<span class=\"it\">ku</span>",
+            "<span class=\"it\">haya</span>",
+            "<span class=\"it\">kuyuh</span>=<span class=\"it\">mu</span>",
+            "<span class=\"it\">rubiq</span>",
+            "<span class=\"it\">wilang</span>",
+            "<span class=\"it\">ha</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Budi}",
+            "\\textit{pe}-\\textit{patas}=\\textit{mu}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{biq}-\\textit{i}=\\textit{ku}",
+            "\\textit{haya}",
+            "\\textit{kuyuh}=\\textit{mu}",
+            "\\textit{rubiq}",
+            "\\textit{wilang}",
+            "\\textit{ha}."
+        ],
+        "trs": "As for this fountain pen, please give it to my wife Rubiq Wilang.",
+        "wlength": 10
+    },
+    {
+        "ID": "tsukida--71119",
+        "categories": [
+            "av",
+            "prt"
+        ],
+        "clength": 323,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "so \\textsc{prt} Japan \\textsc{prt} year 1914 \\textsc{av}-bring many=really soldier and police \\textsc{av}-come  <\\textsc{av}>invade land  \\ili{Teruku}",
+        "imtwordsbare": [
+            "so",
+            "PRT",
+            "Japan",
+            "PRT",
+            "year",
+            "1914",
+            "AV-bring",
+            "many=really",
+            "soldier",
+            "and",
+            "police",
+            "AV-come",
+            "<AV>invade",
+            "land",
+            "\\ili{Teruku}"
+        ],
+        "imtwordshtml": [
+            "so",
+            "<span class=\"sc\">prt</span>",
+            "Japan",
+            "<span class=\"sc\">prt</span>",
+            "year",
+            "1914",
+            "<span class=\"sc\">av</span>-bring",
+            "many=really",
+            "soldier",
+            "and",
+            "police",
+            "<span class=\"sc\">av</span>-come",
+            "<<span class=\"sc\">av</span>>invade",
+            "land",
+            "\\ili{Teruku}"
+        ],
+        "imtwordstex": [
+            "so",
+            "\\textsc{prt}",
+            "Japan",
+            "\\textsc{prt}",
+            "year",
+            "1914",
+            "\\textsc{av}-bring",
+            "many=really",
+            "soldier",
+            "and",
+            "police",
+            "\\textsc{av}-come",
+            "<\\textsc{av}>invade",
+            "land",
+            "\\ili{Teruku}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Kiya} \\textit{de'u},  \\textit{nihung}  \\textit{'u}, \\textit{hengkawas}  \\textit{19,14}   \\textit{m}-\\textit{adas}  \\textit{hebaraw}=\\textit{bi} \\textit{merata}  \\textit{ni}  \\textit{kensat}  \\textit{m}-\\textit{iyah}    \\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{eremux}  \\textit{dexegal}  \\textit{Teruku}.",
+        "srcwordsbare": [
+            "Kiya",
+            "de'u,",
+            "nihung",
+            "'u,",
+            "hengkawas",
+            "19,14",
+            "m-adas",
+            "hebaraw=bi",
+            "merata",
+            "ni",
+            "kensat",
+            "m-iyah",
+            "k{\\USSmaller}em{\\USGreater}eremux",
+            "dexegal",
+            "Teruku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Kiya</span>",
+            "<span class=\"it\">de'u</span>,",
+            "<span class=\"it\">nihung</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">hengkawas</span>",
+            "<span class=\"it\">19,14</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">adas</span>",
+            "<span class=\"it\">hebaraw</span>=<span class=\"it\">bi</span>",
+            "<span class=\"it\">merata</span>",
+            "<span class=\"it\">ni</span>",
+            "<span class=\"it\">kensat</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">iyah</span>",
+            "<span class=\"it\">k</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">eremux</span>",
+            "<span class=\"it\">dexegal</span>",
+            "<span class=\"it\">Teruku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Kiya}",
+            "\\textit{de'u},",
+            "\\textit{nihung}",
+            "\\textit{'u},",
+            "\\textit{hengkawas}",
+            "\\textit{19,14}",
+            "\\textit{m}-\\textit{adas}",
+            "\\textit{hebaraw}=\\textit{bi}",
+            "\\textit{merata}",
+            "\\textit{ni}",
+            "\\textit{kensat}",
+            "\\textit{m}-\\textit{iyah}",
+            "\\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{eremux}",
+            "\\textit{dexegal}",
+            "\\textit{Teruku}."
+        ],
+        "trs": "Then, Japan, in 1914, brought soldiers and police and came to invade the Truku territory.",
+        "wlength": 15
+    },
+    {
+        "ID": "tsukida--42081",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "ns",
+            "prt"
+        ],
+        "clength": 98,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "mother=\\textsc{3sg}.\\textsc{gen} \\textsc{prt} be:gone \\textsc{av}-buy  bun \\textsc{ns}",
+        "imtwordsbare": [
+            "mother=3SG.GEN",
+            "PRT",
+            "be:gone",
+            "AV-buy",
+            "bun",
+            "NS"
+        ],
+        "imtwordshtml": [
+            "mother=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">prt</span>",
+            "be:gone",
+            "<span class=\"sc\">av</span>-buy",
+            "bun",
+            "<span class=\"sc\">ns</span>"
+        ],
+        "imtwordstex": [
+            "mother=\\textsc{3sg}.\\textsc{gen}",
+            "\\textsc{prt}",
+            "be:gone",
+            "\\textsc{av}-buy",
+            "bun",
+            "\\textsc{ns}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Bubu=na} \\textit{'u}, \\textit{wada} \\textit{m}-\\textit{arig}  \\textit{bawa}   \\textit{da}.",
+        "srcwordsbare": [
+            "Bubu=na",
+            "'u,",
+            "wada",
+            "m-arig",
+            "bawa",
+            "da."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Bubu=na</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">wada</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">arig</span>",
+            "<span class=\"it\">bawa</span>",
+            "<span class=\"it\">da</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Bubu=na}",
+            "\\textit{'u},",
+            "\\textit{wada}",
+            "\\textit{m}-\\textit{arig}",
+            "\\textit{bawa}",
+            "\\textit{da}."
+        ],
+        "trs": "His/Her mother went to buy a bun.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-200059",
+        "categories": [
+            "av",
+            "lnk",
+            "pl",
+            "prt"
+        ],
+        "clength": 198,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "all \\textsc{lnk} brother \\textsc{pl}-believer  also \\textsc{prt} \\textsc{av}.hide \\textsc{av}-go \\textsc{av}-gather \\textsc{av}.worship",
+        "imtwordsbare": [
+            "all",
+            "LNK",
+            "brother",
+            "PL-believer",
+            "also",
+            "PRT",
+            "AV.hide",
+            "AV-go",
+            "AV-gather",
+            "AV.worship"
+        ],
+        "imtwordshtml": [
+            "all",
+            "<span class=\"sc\">lnk</span>",
+            "brother",
+            "<span class=\"sc\">pl</span>-believer",
+            "also",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">av</span>.hide",
+            "<span class=\"sc\">av</span>-go",
+            "<span class=\"sc\">av</span>-gather",
+            "<span class=\"sc\">av</span>.worship"
+        ],
+        "imtwordstex": [
+            "all",
+            "\\textsc{lnk}",
+            "brother",
+            "\\textsc{pl}-believer",
+            "also",
+            "\\textsc{prt}",
+            "\\textsc{av}.hide",
+            "\\textsc{av}-go",
+            "\\textsc{av}-gather",
+            "\\textsc{av}.worship"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Kana} \\textit{ka} \\textit{mensewayi} \\textit{de}-\\textit{senehiyi} \\textit{'uri} \\textit{'u}, \\textit{tetegeli'ing}   \\textit{m}-\\textit{usa}   \\textit{me}-\\textit{seseli} \\textit{tehemuku}.",
+        "srcwordsbare": [
+            "Kana",
+            "ka",
+            "mensewayi",
+            "de-senehiyi",
+            "'uri",
+            "'u,",
+            "tetegeli'ing",
+            "m-usa",
+            "me-seseli",
+            "tehemuku."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Kana</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">mensewayi</span>",
+            "<span class=\"it\">de</span>-<span class=\"it\">senehiyi</span>",
+            "<span class=\"it\">'uri</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">tetegeli'ing</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">usa</span>",
+            "<span class=\"it\">me</span>-<span class=\"it\">seseli</span>",
+            "<span class=\"it\">tehemuku</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Kana}",
+            "\\textit{ka}",
+            "\\textit{mensewayi}",
+            "\\textit{de}-\\textit{senehiyi}",
+            "\\textit{'uri}",
+            "\\textit{'u},",
+            "\\textit{tetegeli'ing}",
+            "\\textit{m}-\\textit{usa}",
+            "\\textit{me}-\\textit{seseli}",
+            "\\textit{tehemuku}."
+        ],
+        "trs": "The brothers and sisters of believers went together hiding to worship as well.",
+        "wlength": 10
+    },
+    {
+        "ID": "tsukida-684557",
+        "categories": [
+            "av",
+            "prt"
+        ],
+        "clength": 200,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "police Japan \\textsc{av}-live Sekadang \\textsc{prt} Matsudo-Mr. and Motoyoshi-teacher  two  body",
+        "imtwordsbare": [
+            "police",
+            "Japan",
+            "AV-live",
+            "Sekadang",
+            "PRT",
+            "Matsudo-Mr.",
+            "and",
+            "Motoyoshi-teacher",
+            "two",
+            "body"
+        ],
+        "imtwordshtml": [
+            "police",
+            "Japan",
+            "<span class=\"sc\">av</span>-live",
+            "Sekadang",
+            "<span class=\"sc\">prt</span>",
+            "Matsudo-Mr.",
+            "and",
+            "Motoyoshi-teacher",
+            "two",
+            "body"
+        ],
+        "imtwordstex": [
+            "police",
+            "Japan",
+            "\\textsc{av}-live",
+            "Sekadang",
+            "\\textsc{prt}",
+            "Matsudo-Mr.",
+            "and",
+            "Motoyoshi-teacher",
+            "two",
+            "body"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Kensat} \\textit{nihung} \\textit{m}-\\textit{eniq}  \\textit{Sekadang}  \\textit{'u},  \\textit{Matsudo}-\\textit{sang}   \\textit{ni}  \\textit{Motoyoshi}-\\textit{singsi}  \\textit{2}   \\textit{hiyi}.",
+        "srcwordsbare": [
+            "Kensat",
+            "nihung",
+            "m-eniq",
+            "Sekadang",
+            "'u,",
+            "Matsudo-sang",
+            "ni",
+            "Motoyoshi-singsi",
+            "2",
+            "hiyi."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Kensat</span>",
+            "<span class=\"it\">nihung</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">eniq</span>",
+            "<span class=\"it\">Sekadang</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">Matsudo</span>-<span class=\"it\">sang</span>",
+            "<span class=\"it\">ni</span>",
+            "<span class=\"it\">Motoyoshi</span>-<span class=\"it\">singsi</span>",
+            "<span class=\"it\">2</span>",
+            "<span class=\"it\">hiyi</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Kensat}",
+            "\\textit{nihung}",
+            "\\textit{m}-\\textit{eniq}",
+            "\\textit{Sekadang}",
+            "\\textit{'u},",
+            "\\textit{Matsudo}-\\textit{sang}",
+            "\\textit{ni}",
+            "\\textit{Motoyoshi}-\\textit{singsi}",
+            "\\textit{2}",
+            "\\textit{hiyi}."
+        ],
+        "trs": "The \\ili{Japanese} police who were at Skadang, they were Mr. Matsudo and Teacher Motoyoshi, two people.",
+        "wlength": 10
+    },
+    {
+        "ID": "tsukida-336998",
+        "categories": [
+            "3pl",
+            "av",
+            "gen",
+            "prt",
+            "sbj"
+        ],
+        "clength": 226,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "night \\textsc{prt} in:the:darkness  one:by:one \\textsc{av}-go  stream  upwards  village=\\textsc{3pl}.\\textsc{gen} \\textsc{sbj} person \\textsc{av}-believe  Christ",
+        "imtwordsbare": [
+            "night",
+            "PRT",
+            "in:the:darkness",
+            "one:by:one",
+            "AV-go",
+            "stream",
+            "upwards",
+            "village=3PL.GEN",
+            "SBJ",
+            "person",
+            "AV-believe",
+            "Christ"
+        ],
+        "imtwordshtml": [
+            "night",
+            "<span class=\"sc\">prt</span>",
+            "in:the:darkness",
+            "one:by:one",
+            "<span class=\"sc\">av</span>-go",
+            "stream",
+            "upwards",
+            "village=<span class=\"sc\">3pl</span>.<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">sbj</span>",
+            "person",
+            "<span class=\"sc\">av</span>-believe",
+            "Christ"
+        ],
+        "imtwordstex": [
+            "night",
+            "\\textsc{prt}",
+            "in:the:darkness",
+            "one:by:one",
+            "\\textsc{av}-go",
+            "stream",
+            "upwards",
+            "village=\\textsc{3pl}.\\textsc{gen}",
+            "\\textsc{sbj}",
+            "person",
+            "\\textsc{av}-believe",
+            "Christ"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Ke'man} \\textit{'u}, \\textit{pengkeku'ung} \\textit{sengkekingal} \\textit{m}-\\textit{usa}  \\textit{'ayug}  \\textit{daya}  \\textit{'alang}=\\textit{deha}  \\textit{ka}  \\textit{se'diq}  \\textit{senehiyi}  \\textit{Kiristu}.",
+        "srcwordsbare": [
+            "Ke'man",
+            "'u,",
+            "pengkeku'ung",
+            "sengkekingal",
+            "m-usa",
+            "'ayug",
+            "daya",
+            "'alang=deha",
+            "ka",
+            "se'diq",
+            "senehiyi",
+            "Kiristu."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Ke'man</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">pengkeku'ung</span>",
+            "<span class=\"it\">sengkekingal</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">usa</span>",
+            "<span class=\"it\">'ayug</span>",
+            "<span class=\"it\">daya</span>",
+            "<span class=\"it\">'alang</span>=<span class=\"it\">deha</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">se'diq</span>",
+            "<span class=\"it\">senehiyi</span>",
+            "<span class=\"it\">Kiristu</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Ke'man}",
+            "\\textit{'u},",
+            "\\textit{pengkeku'ung}",
+            "\\textit{sengkekingal}",
+            "\\textit{m}-\\textit{usa}",
+            "\\textit{'ayug}",
+            "\\textit{daya}",
+            "\\textit{'alang}=\\textit{deha}",
+            "\\textit{ka}",
+            "\\textit{se'diq}",
+            "\\textit{senehiyi}",
+            "\\textit{Kiristu}."
+        ],
+        "trs": "At night, people who believed in Christ went to the upper stream of their village, in the darkness, one by one.",
+        "wlength": 12
+    },
+    {
+        "ID": "tsukida--50682",
+        "categories": [
+            "3pl",
+            "gen",
+            "gv1",
+            "gv2",
+            "lnk",
+            "prt"
+        ],
+        "clength": 178,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "like \\textsc{lnk} thing wild:animal \\textsc{prt} bring-\\textsc{gv1}=\\textsc{3pl}.\\textsc{gen} plain:land  sell-\\textsc{gv2} \\ili{Taiwanese}",
+        "imtwordsbare": [
+            "like",
+            "LNK",
+            "thing",
+            "wild:animal",
+            "PRT",
+            "bring-GV1=3PL.GEN",
+            "plain:land",
+            "sell-GV2",
+            "\\ili{Taiwanese}"
+        ],
+        "imtwordshtml": [
+            "like",
+            "<span class=\"sc\">lnk</span>",
+            "thing",
+            "wild:animal",
+            "<span class=\"sc\">prt</span>",
+            "bring-<span class=\"sc\">gv1</span>=<span class=\"sc\">3pl</span>.<span class=\"sc\">gen</span>",
+            "plain:land",
+            "sell-<span class=\"sc\">gv2</span>",
+            "\\ili{Taiwanese}"
+        ],
+        "imtwordstex": [
+            "like",
+            "\\textsc{lnk}",
+            "thing",
+            "wild:animal",
+            "\\textsc{prt}",
+            "bring-\\textsc{gv1}=\\textsc{3pl}.\\textsc{gen}",
+            "plain:land",
+            "sell-\\textsc{gv2}",
+            "\\ili{Taiwanese}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Saw} \\textit{ka}  \\textit{qaya}  \\textit{samat} \\textit{'u}, \\textit{des}-\\textit{un}=\\textit{deha}  \\textit{be'nux},   \\textit{seberig}-\\textit{an}   \\textit{kelemukan}.",
+        "srcwordsbare": [
+            "Saw",
+            "ka",
+            "qaya",
+            "samat",
+            "'u,",
+            "des-un=deha",
+            "be'nux,",
+            "seberig-an",
+            "kelemukan."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Saw</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">qaya</span>",
+            "<span class=\"it\">samat</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">des</span>-<span class=\"it\">un</span>=<span class=\"it\">deha</span>",
+            "<span class=\"it\">be'nux</span>,",
+            "<span class=\"it\">seberig</span>-<span class=\"it\">an</span>",
+            "<span class=\"it\">kelemukan</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Saw}",
+            "\\textit{ka}",
+            "\\textit{qaya}",
+            "\\textit{samat}",
+            "\\textit{'u},",
+            "\\textit{des}-\\textit{un}=\\textit{deha}",
+            "\\textit{be'nux},",
+            "\\textit{seberig}-\\textit{an}",
+            "\\textit{kelemukan}."
+        ],
+        "trs": "As for things concerning wild animals (animal skins, bones, horns, and the like), they brought them to the plains and sold them to \\ili{Taiwanese}.",
+        "wlength": 9
+    },
+    {
+        "ID": "tsukida-482929",
+        "categories": [
+            "1sg",
+            "av",
+            "cv",
+            "gen",
+            "prf",
+            "sbj"
+        ],
+        "clength": 97,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{av}-be:broken \\textsc{sbj} \\textsc{cv}.\\textsc{prf}-buy=\\textsc{1sg}.\\textsc{gen} yesterday",
+        "imtwordsbare": [
+            "AV-be:broken",
+            "SBJ",
+            "CV.PRF-buy=1SG.GEN",
+            "yesterday"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>-be:broken",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">cv</span>.<span class=\"sc\">prf</span>-buy=<span class=\"sc\">1sg</span>.<span class=\"sc\">gen</span>",
+            "yesterday"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}-be:broken",
+            "\\textsc{sbj}",
+            "\\textsc{cv}.\\textsc{prf}-buy=\\textsc{1sg}.\\textsc{gen}",
+            "yesterday"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Me}-\\textit{gerung}   \\textit{ka}   \\textit{n}-\\textit{arig}=\\textit{mu} \\textit{sehiga}.",
+        "srcwordsbare": [
+            "Me-gerung",
+            "ka",
+            "n-arig=mu",
+            "sehiga."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Me</span>-<span class=\"it\">gerung</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">n</span>-<span class=\"it\">arig</span>=<span class=\"it\">mu</span>",
+            "<span class=\"it\">sehiga</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Me}-\\textit{gerung}",
+            "\\textit{ka}",
+            "\\textit{n}-\\textit{arig}=\\textit{mu}",
+            "\\textit{sehiga}."
+        ],
+        "time": "past",
+        "trs": "What I bought yesterday is broken.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida-778562",
+        "categories": [
+            "av",
+            "neg",
+            "nfin",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 180,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "like \\textsc{prox} \\textsc{prt} before \\textsc{neg} \\textsc{av}.\\textsc{nfin}.come  land  Taiwan  here \\textsc{sbj} Japan  temporarily",
+        "imtwordsbare": [
+            "like",
+            "PROX",
+            "PRT",
+            "before",
+            "NEG",
+            "AV.NFIN.come",
+            "land",
+            "Taiwan",
+            "here",
+            "SBJ",
+            "Japan",
+            "temporarily"
+        ],
+        "imtwordshtml": [
+            "like",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "before",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">av</span>.<span class=\"sc\">nfin</span>.come",
+            "land",
+            "Taiwan",
+            "here",
+            "<span class=\"sc\">sbj</span>",
+            "Japan",
+            "temporarily"
+        ],
+        "imtwordstex": [
+            "like",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "before",
+            "\\textsc{neg}",
+            "\\textsc{av}.\\textsc{nfin}.come",
+            "land",
+            "Taiwan",
+            "here",
+            "\\textsc{sbj}",
+            "Japan",
+            "temporarily"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Saw} \\textit{niyi} \\textit{'u}, \\textit{berah} \\textit{'ini} \\textit{'iyah} \\textit{dexegal} \\textit{Taywan}   \\textit{hini}   \\textit{ka}   \\textit{Nihung}   \\textit{han}.",
+        "srcwordsbare": [
+            "Saw",
+            "niyi",
+            "'u,",
+            "berah",
+            "'ini",
+            "'iyah",
+            "dexegal",
+            "Taywan",
+            "hini",
+            "ka",
+            "Nihung",
+            "han."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Saw</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">berah</span>",
+            "<span class=\"it\">'ini</span>",
+            "<span class=\"it\">'iyah</span>",
+            "<span class=\"it\">dexegal</span>",
+            "<span class=\"it\">Taywan</span>",
+            "<span class=\"it\">hini</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">Nihung</span>",
+            "<span class=\"it\">han</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Saw}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{berah}",
+            "\\textit{'ini}",
+            "\\textit{'iyah}",
+            "\\textit{dexegal}",
+            "\\textit{Taywan}",
+            "\\textit{hini}",
+            "\\textit{ka}",
+            "\\textit{Nihung}",
+            "\\textit{han}."
+        ],
+        "trs": "As for such things, it was before Japan came here to the land of Taiwan.",
+        "wlength": 12
+    },
+    {
+        "ID": "tsukida--72741",
+        "categories": [
+            "1plex",
+            "anger",
+            "av",
+            "hearsay",
+            "neg",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 250,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "like \\textsc{prox} \\textsc{prt} \\textsc{neg}=\\textsc{1plex} <\\textsc{av}>teach \\textsc{sbj}  \\textsc{1plex} police  Japan  also \\textsc{anger}  \\textsc{hearsay}",
+        "imtwordsbare": [
+            "like",
+            "PROX",
+            "PRT",
+            "NEG=1PLEX",
+            "<AV>teach",
+            "SBJ",
+            "1PLEX",
+            "police",
+            "Japan",
+            "also",
+            "ANGER",
+            "HEARSAY"
+        ],
+        "imtwordshtml": [
+            "like",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">neg</span>=<span class=\"sc\">1plex</span>",
+            "<<span class=\"sc\">av</span>>teach",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">1plex</span>",
+            "police",
+            "Japan",
+            "also",
+            "<span class=\"sc\">anger</span>",
+            "<span class=\"sc\">hearsay</span>"
+        ],
+        "imtwordstex": [
+            "like",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\textsc{neg}=\\textsc{1plex}",
+            "<\\textsc{av}>teach",
+            "\\textsc{sbj}",
+            "\\textsc{1plex}",
+            "police",
+            "Japan",
+            "also",
+            "\\textsc{anger}",
+            "\\textsc{hearsay}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "polarity": "negative",
+        "src": "\\textit{Saw}   \\textit{niyi}   \\textit{'u},   \\textit{'adi}=\\textit{nami}   \\textit{t}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{egesa}   \\textit{ka}   \\textit{yami}   \\textit{kensat}   \\textit{Nihung}  \\textit{'uri}   \\textit{pini},   \\textit{mesa}.",
+        "srcwordsbare": [
+            "Saw",
+            "niyi",
+            "'u,",
+            "'adi=nami",
+            "t{\\USSmaller}em{\\USGreater}egesa",
+            "ka",
+            "yami",
+            "kensat",
+            "Nihung",
+            "'uri",
+            "pini,",
+            "mesa."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Saw</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">'adi</span>=<span class=\"it\">nami</span>",
+            "<span class=\"it\">t</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">egesa</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">yami</span>",
+            "<span class=\"it\">kensat</span>",
+            "<span class=\"it\">Nihung</span>",
+            "<span class=\"it\">'uri</span>",
+            "<span class=\"it\">pini</span>,",
+            "<span class=\"it\">mesa</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Saw}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{'adi}=\\textit{nami}",
+            "\\textit{t}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{egesa}",
+            "\\textit{ka}",
+            "\\textit{yami}",
+            "\\textit{kensat}",
+            "\\textit{Nihung}",
+            "\\textit{'uri}",
+            "\\textit{pini},",
+            "\\textit{mesa}."
+        ],
+        "trs": "As for such things, we \\ili{Japanese} police do not teach, they say.",
+        "wlength": 12
+    },
+    {
+        "ID": "tsukida--66074",
+        "categories": [
+            "3sg",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 92,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "Ciwang  \\textsc{prox}  \\textsc{prt} \\ili{Teruku} \\textsc{sbj}  \\textsc{3sg}",
+        "imtwordsbare": [
+            "Ciwang",
+            "PROX",
+            "PRT",
+            "\\ili{Teruku}",
+            "SBJ",
+            "3SG"
+        ],
+        "imtwordshtml": [
+            "Ciwang",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "\\ili{Teruku}",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "Ciwang",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\ili{Teruku}",
+            "\\textsc{sbj}",
+            "\\textsc{3sg}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Tiwang}  \\textit{niyi}  \\textit{'u},  \\textit{Teruku}   \\textit{ka}   \\textit{hiya}.",
+        "srcwordsbare": [
+            "Tiwang",
+            "niyi",
+            "'u,",
+            "Teruku",
+            "ka",
+            "hiya."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Tiwang</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">Teruku</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">hiya</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Tiwang}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{Teruku}",
+            "\\textit{ka}",
+            "\\textit{hiya}."
+        ],
+        "trs": "This Ciwang, she was a \\ili{Teruku} person.",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida-699304",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "prf",
+            "sbj"
+        ],
+        "clength": 166,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "child=\\textsc{3sg}.\\textsc{gen} Ipay Yudaw \\textsc{sbj} <\\textsc{av}><\\textsc{prf}>see",
+        "imtwordsbare": [
+            "child=3SG.GEN",
+            "Ipay",
+            "Yudaw",
+            "SBJ",
+            "<AV><PRF>see"
+        ],
+        "imtwordshtml": [
+            "child=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>",
+            "Ipay",
+            "Yudaw",
+            "<span class=\"sc\">sbj</span>",
+            "<<span class=\"sc\">av</span>><<span class=\"sc\">prf</span>>see"
+        ],
+        "imtwordstex": [
+            "child=\\textsc{3sg}.\\textsc{gen}",
+            "Ipay",
+            "Yudaw",
+            "\\textsc{sbj}",
+            "<\\textsc{av}><\\textsc{prf}>see"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Laqi}=\\textit{na} \\textit{'Ipay}   \\textit{Yudaw}  \\textit{ka}   \\textit{q}{\\USSmaller}\\textit{em}{\\USGreater}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{ita}.",
+        "srcwordsbare": [
+            "Laqi=na",
+            "'Ipay",
+            "Yudaw",
+            "ka",
+            "q{\\USSmaller}em{\\USGreater}{\\USSmaller}en{\\USGreater}ita."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Laqi</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">'Ipay</span>",
+            "<span class=\"it\">Yudaw</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">q</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}{\\USSmaller}<span class=\"it\">en</span>{\\USGreater}<span class=\"it\">ita</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Laqi}=\\textit{na}",
+            "\\textit{'Ipay}",
+            "\\textit{Yudaw}",
+            "\\textit{ka}",
+            "\\textit{q}{\\USSmaller}\\textit{em}{\\USGreater}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{ita}."
+        ],
+        "trs": "The one who saw it was her child Ipay Yudaw.",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--57380",
+        "categories": [
+            "av",
+            "lnk",
+            "prf",
+            "prt"
+        ],
+        "clength": 225,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "<\\textsc{av.prf}>first=really \\textsc{av}.believe   word   Christ \\textsc{lnk} village Besuring \\textsc{prt} Talug Payab",
+        "imtwordsbare": [
+            "<av.prf>first=really",
+            "AV.believe",
+            "word",
+            "Christ",
+            "LNK",
+            "village",
+            "Besuring",
+            "PRT",
+            "Talug",
+            "Payab"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av.prf</span>>first=really",
+            "<span class=\"sc\">av</span>.believe",
+            "word",
+            "Christ",
+            "<span class=\"sc\">lnk</span>",
+            "village",
+            "Besuring",
+            "<span class=\"sc\">prt</span>",
+            "Talug",
+            "Payab"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av.prf}>first=really",
+            "\\textsc{av}.believe",
+            "word",
+            "Christ",
+            "\\textsc{lnk}",
+            "village",
+            "Besuring",
+            "\\textsc{prt}",
+            "Talug",
+            "Payab"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{P}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{le'alay}=\\textit{bi}   \\textit{senehiyi}   \\textit{kari}   \\textit{Kiristu}  \\textit{ka}  \\textit{'alang}  \\textit{Besuring}  \\textit{'u},  \\textit{Talug}   \\textit{Payan}.",
+        "srcwordsbare": [
+            "P{\\USSmaller}en{\\USGreater}le'alay=bi",
+            "senehiyi",
+            "kari",
+            "Kiristu",
+            "ka",
+            "'alang",
+            "Besuring",
+            "'u,",
+            "Talug",
+            "Payan."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">P</span>{\\USSmaller}<span class=\"it\">en</span>{\\USGreater}<span class=\"it\">le'alay</span>=<span class=\"it\">bi</span>",
+            "<span class=\"it\">senehiyi</span>",
+            "<span class=\"it\">kari</span>",
+            "<span class=\"it\">Kiristu</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">'alang</span>",
+            "<span class=\"it\">Besuring</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">Talug</span>",
+            "<span class=\"it\">Payan</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{P}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{le'alay}=\\textit{bi}",
+            "\\textit{senehiyi}",
+            "\\textit{kari}",
+            "\\textit{Kiristu}",
+            "\\textit{ka}",
+            "\\textit{'alang}",
+            "\\textit{Besuring}",
+            "\\textit{'u},",
+            "\\textit{Talug}",
+            "\\textit{Payan}."
+        ],
+        "trs": "As for the first one to believe the gospel of Christ in the village of Besuring, it was Talug Payan.",
+        "wlength": 10
+    },
+    {
+        "ID": "tsukida-625554",
+        "categories": [
+            "3pl",
+            "gen",
+            "gv1",
+            "gv2",
+            "lnk",
+            "prt"
+        ],
+        "clength": 212,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "like \\textsc{lnk} thing wild:animal \\textsc{prt} bring-\\textsc{gv1}=\\textsc{3pl}.\\textsc{gen} plain:land  sell-\\textsc{gv2} \\ili{Taiwanese}",
+        "imtwordsbare": [
+            "like",
+            "LNK",
+            "thing",
+            "wild:animal",
+            "PRT",
+            "bring-GV1=3PL.GEN",
+            "plain:land",
+            "sell-GV2",
+            "\\ili{Taiwanese}"
+        ],
+        "imtwordshtml": [
+            "like",
+            "<span class=\"sc\">lnk</span>",
+            "thing",
+            "wild:animal",
+            "<span class=\"sc\">prt</span>",
+            "bring-<span class=\"sc\">gv1</span>=<span class=\"sc\">3pl</span>.<span class=\"sc\">gen</span>",
+            "plain:land",
+            "sell-<span class=\"sc\">gv2</span>",
+            "\\ili{Taiwanese}"
+        ],
+        "imtwordstex": [
+            "like",
+            "\\textsc{lnk}",
+            "thing",
+            "wild:animal",
+            "\\textsc{prt}",
+            "bring-\\textsc{gv1}=\\textsc{3pl}.\\textsc{gen}",
+            "plain:land",
+            "sell-\\textsc{gv2}",
+            "\\ili{Taiwanese}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textbf{\\textit{Saw}} \\textbf{\\textit{ka}} \\textbf{\\textit{qaya}} \\textbf{\\textit{samat}} \\textit{'u},  \\textit{des}-\\textit{un}=\\textit{deha} \\textit{be'nux},   \\textit{seberig}-\\textit{an}   \\textit{kelemukan}.",
+        "srcwordsbare": [
+            "\\textit{Saw}",
+            "\\textit{ka}",
+            "\\textit{qaya}",
+            "\\textit{samat}",
+            "'u,",
+            "des-un=deha",
+            "be'nux,",
+            "seberig-an",
+            "kelemukan."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">\\textit{Saw</span>}",
+            "<span class=\"bf\">\\textit{ka</span>}",
+            "<span class=\"bf\">\\textit{qaya</span>}",
+            "<span class=\"bf\">\\textit{samat</span>}",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">des</span>-<span class=\"it\">un</span>=<span class=\"it\">deha</span>",
+            "<span class=\"it\">be'nux</span>,",
+            "<span class=\"it\">seberig</span>-<span class=\"it\">an</span>",
+            "<span class=\"it\">kelemukan</span>."
+        ],
+        "srcwordstex": [
+            "\\textbf{\\textit{Saw}}",
+            "\\textbf{\\textit{ka}}",
+            "\\textbf{\\textit{qaya}}",
+            "\\textbf{\\textit{samat}}",
+            "\\textit{'u},",
+            "\\textit{des}-\\textit{un}=\\textit{deha}",
+            "\\textit{be'nux},",
+            "\\textit{seberig}-\\textit{an}",
+            "\\textit{kelemukan}."
+        ],
+        "trs": "As for those things concerning wild animals (animal skins, bones, horns, and the like), they brought them to the plain and sold them to \\ili{Taiwanese}.",
+        "wlength": 9
+    },
+    {
+        "ID": "tsukida--27676",
+        "categories": [
+            "3pl",
+            "av",
+            "obl"
+        ],
+        "clength": 139,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "until   like \\textsc{av}-wash   snake \\textsc{av}.torture \\textsc{3pl}.\\textsc{obl}",
+        "imtwordsbare": [
+            "until",
+            "like",
+            "AV-wash",
+            "snake",
+            "AV.torture",
+            "3PL.OBL"
+        ],
+        "imtwordshtml": [
+            "until",
+            "like",
+            "<span class=\"sc\">av</span>-wash",
+            "snake",
+            "<span class=\"sc\">av</span>.torture",
+            "<span class=\"sc\">3pl</span>.<span class=\"sc\">obl</span>"
+        ],
+        "imtwordstex": [
+            "until",
+            "like",
+            "\\textsc{av}-wash",
+            "snake",
+            "\\textsc{av}.torture",
+            "\\textsc{3pl}.\\textsc{obl}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Bitaq} \\textit{saw}    \\textit{m}-\\textit{ahu}     \\textit{quyu}  \\textit{peqeraqil}  \\textit{dehiya'an}\\textit{\\textsubscript{i}}.",
+        "srcwordsbare": [
+            "Bitaq",
+            "saw",
+            "m-ahu",
+            "quyu",
+            "peqeraqil",
+            "dehiya'an\\textsubscript{i}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Bitaq</span>",
+            "<span class=\"it\">saw</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">ahu</span>",
+            "<span class=\"it\">quyu</span>",
+            "<span class=\"it\">peqeraqil</span>",
+            "<span class=\"it\">dehiya'an</span><span class=\"it\">\\textsubscript{i</span>}."
+        ],
+        "srcwordstex": [
+            "\\textit{Bitaq}",
+            "\\textit{saw}",
+            "\\textit{m}-\\textit{ahu}",
+            "\\textit{quyu}",
+            "\\textit{peqeraqil}",
+            "\\textit{dehiya'an}\\textit{\\textsubscript{i}}."
+        ],
+        "trs": "They tortured them up to hitting snake (=expression of harshness).",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida--45848",
+        "categories": [
+            "3pl",
+            "av",
+            "gen",
+            "gv1",
+            "prt"
+        ],
+        "clength": 149,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "some \\textsc{prt} put-\\textsc{gv1}=\\textsc{3pl}.\\textsc{gen} box \\textsc{av}-red",
+        "imtwordsbare": [
+            "some",
+            "PRT",
+            "put-GV1=3PL.GEN",
+            "box",
+            "AV-red"
+        ],
+        "imtwordshtml": [
+            "some",
+            "<span class=\"sc\">prt</span>",
+            "put-<span class=\"sc\">gv1</span>=<span class=\"sc\">3pl</span>.<span class=\"sc\">gen</span>",
+            "box",
+            "<span class=\"sc\">av</span>-red"
+        ],
+        "imtwordstex": [
+            "some",
+            "\\textsc{prt}",
+            "put-\\textsc{gv1}=\\textsc{3pl}.\\textsc{gen}",
+            "box",
+            "\\textsc{av}-red"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textbf{\\textit{Duma}}\\textit{\\textsubscript{i}} \\textit{'u},   \\textit{pesa}-\\textit{'un}=\\textit{deha}    \\textit{kulu}  \\textit{m}-\\textit{banah}.",
+        "srcwordsbare": [
+            "\\textit{Duma}\\textsubscript{i}",
+            "'u,",
+            "pesa-'un=deha",
+            "kulu",
+            "m-banah."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">\\textit{Duma</span>}<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">pesa</span>-<span class=\"it\">'un</span>=<span class=\"it\">deha</span>",
+            "<span class=\"it\">kulu</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">banah</span>."
+        ],
+        "srcwordstex": [
+            "\\textbf{\\textit{Duma}}\\textit{\\textsubscript{i}}",
+            "\\textit{'u},",
+            "\\textit{pesa}-\\textit{'un}=\\textit{deha}",
+            "\\textit{kulu}",
+            "\\textit{m}-\\textit{banah}."
+        ],
+        "trs": "Some were put into prison (=red box).",
+        "wlength": 5
+    },
+    {
+        "ID": "tsukida--26225",
+        "categories": [
+            "av",
+            "neg",
+            "nfin",
+            "prt",
+            "sbj"
+        ],
+        "clength": 228,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "like   this \\textsc{prt} before \\textsc{neg} \\textsc{av}.\\textsc{nfin}.come  land Taiwan  here \\textsc{sbj} Japan temporarily",
+        "imtwordsbare": [
+            "like",
+            "this",
+            "PRT",
+            "before",
+            "NEG",
+            "AV.NFIN.come",
+            "land",
+            "Taiwan",
+            "here",
+            "SBJ",
+            "Japan",
+            "temporarily"
+        ],
+        "imtwordshtml": [
+            "like",
+            "this",
+            "<span class=\"sc\">prt</span>",
+            "before",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">av</span>.<span class=\"sc\">nfin</span>.come",
+            "land",
+            "Taiwan",
+            "here",
+            "<span class=\"sc\">sbj</span>",
+            "Japan",
+            "temporarily"
+        ],
+        "imtwordstex": [
+            "like",
+            "this",
+            "\\textsc{prt}",
+            "before",
+            "\\textsc{neg}",
+            "\\textsc{av}.\\textsc{nfin}.come",
+            "land",
+            "Taiwan",
+            "here",
+            "\\textsc{sbj}",
+            "Japan",
+            "temporarily"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Saw}   \\textit{niyi}  \\textit{'u},   \\textit{berah}  \\textit{'ini}   \\textit{'iyah} \\textbf{\\textit{dexegal}}  \\textbf{\\textit{Taywan}}\\textit{\\textsubscript{i}} \\textit{hini}  \\textit{ka}  \\textit{Nihung}  \\textit{han}.",
+        "srcwordsbare": [
+            "Saw",
+            "niyi",
+            "'u,",
+            "berah",
+            "'ini",
+            "'iyah",
+            "\\textit{dexegal}",
+            "\\textit{Taywan}\\textsubscript{i}",
+            "hini",
+            "ka",
+            "Nihung",
+            "han."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Saw</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">berah</span>",
+            "<span class=\"it\">'ini</span>",
+            "<span class=\"it\">'iyah</span>",
+            "<span class=\"bf\">\\textit{dexegal</span>}",
+            "<span class=\"bf\">\\textit{Taywan</span>}<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">hini</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">Nihung</span>",
+            "<span class=\"it\">han</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Saw}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{berah}",
+            "\\textit{'ini}",
+            "\\textit{'iyah}",
+            "\\textbf{\\textit{dexegal}}",
+            "\\textbf{\\textit{Taywan}}\\textit{\\textsubscript{i}}",
+            "\\textit{hini}",
+            "\\textit{ka}",
+            "\\textit{Nihung}",
+            "\\textit{han}."
+        ],
+        "trs": "Things like these, it was before Japan came here to Taiwan.",
+        "wlength": 12
+    },
+    {
+        "ID": "tsukida-904844",
+        "categories": [
+            "av",
+            "gv1",
+            "prt"
+        ],
+        "clength": 297,
+        "coordination": "and",
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "so     and   from    year       1895   then    land       Taiwan \\textsc{prt} have-\\textsc{gv1} <\\textsc{av}>govern   Japan",
+        "imtwordsbare": [
+            "so",
+            "and",
+            "from",
+            "year",
+            "1895",
+            "then",
+            "land",
+            "Taiwan",
+            "PRT",
+            "have-GV1",
+            "<AV>govern",
+            "Japan"
+        ],
+        "imtwordshtml": [
+            "so",
+            "and",
+            "from",
+            "year",
+            "1895",
+            "then",
+            "land",
+            "Taiwan",
+            "<span class=\"sc\">prt</span>",
+            "have-<span class=\"sc\">gv1</span>",
+            "<<span class=\"sc\">av</span>>govern",
+            "Japan"
+        ],
+        "imtwordstex": [
+            "so",
+            "and",
+            "from",
+            "year",
+            "1895",
+            "then",
+            "land",
+            "Taiwan",
+            "\\textsc{prt}",
+            "have-\\textsc{gv1}",
+            "<\\textsc{av}>govern",
+            "Japan"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Kiya}  \\textit{ni}  \\textit{pa'ah}  \\textit{hengkawas}  \\textit{1895}  \\textit{siida}, \\textbf{\\textit{dexegal}}   \\textbf{\\textit{Taywan}}\\textit{\\textsubscript{i}} \\textit{'u}     \\textit{diy}-\\textit{un}      \\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{elawa}  \\textit{Nihung}.",
+        "srcwordsbare": [
+            "Kiya",
+            "ni",
+            "pa'ah",
+            "hengkawas",
+            "1895",
+            "siida,",
+            "\\textit{dexegal}",
+            "\\textit{Taywan}\\textsubscript{i}",
+            "'u",
+            "diy-un",
+            "k{\\USSmaller}em{\\USGreater}elawa",
+            "Nihung."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Kiya</span>",
+            "<span class=\"it\">ni</span>",
+            "<span class=\"it\">pa'ah</span>",
+            "<span class=\"it\">hengkawas</span>",
+            "<span class=\"it\">1895</span>",
+            "<span class=\"it\">siida</span>,",
+            "<span class=\"bf\">\\textit{dexegal</span>}",
+            "<span class=\"bf\">\\textit{Taywan</span>}<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">'u</span>",
+            "<span class=\"it\">diy</span>-<span class=\"it\">un</span>",
+            "<span class=\"it\">k</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">elawa</span>",
+            "<span class=\"it\">Nihung</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Kiya}",
+            "\\textit{ni}",
+            "\\textit{pa'ah}",
+            "\\textit{hengkawas}",
+            "\\textit{1895}",
+            "\\textit{siida},",
+            "\\textbf{\\textit{dexegal}}",
+            "\\textbf{\\textit{Taywan}}\\textit{\\textsubscript{i}}",
+            "\\textit{'u}",
+            "\\textit{diy}-\\textit{un}",
+            "\\textit{k}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{elawa}",
+            "\\textit{Nihung}."
+        ],
+        "trs": "Then, from 1895, the land of Taiwan was owned and governed by Japan.",
+        "wlength": 12
+    },
+    {
+        "ID": "tsukida--26684",
+        "categories": [
+            "3sg",
+            "av",
+            "ns",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 146,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "Ciwang \\textsc{prox} \\textsc{prt} already \\textsc{av}.have words Christ \\textsc{sbj} \\textsc{3sg} \\textsc{ns}",
+        "imtwordsbare": [
+            "Ciwang",
+            "PROX",
+            "PRT",
+            "already",
+            "AV.have",
+            "words",
+            "Christ",
+            "SBJ",
+            "3SG",
+            "NS"
+        ],
+        "imtwordshtml": [
+            "Ciwang",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "already",
+            "<span class=\"sc\">av</span>.have",
+            "words",
+            "Christ",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">ns</span>"
+        ],
+        "imtwordstex": [
+            "Ciwang",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "already",
+            "\\textsc{av}.have",
+            "words",
+            "Christ",
+            "\\textsc{sbj}",
+            "\\textsc{3sg}",
+            "\\textsc{ns}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Tiwang}   \\textit{niyi}  \\textit{'u}, \\textit{dima} \\textit{sedu'uy} \\textit{kari} \\textit{Kiristu} \\textit{ka} \\textit{hiya} \\textit{da}.",
+        "srcwordsbare": [
+            "Tiwang",
+            "niyi",
+            "'u,",
+            "dima",
+            "sedu'uy",
+            "kari",
+            "Kiristu",
+            "ka",
+            "hiya",
+            "da."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Tiwang</span>",
+            "<span class=\"it\">niyi</span>",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">dima</span>",
+            "<span class=\"it\">sedu'uy</span>",
+            "<span class=\"it\">kari</span>",
+            "<span class=\"it\">Kiristu</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">hiya</span>",
+            "<span class=\"it\">da</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Tiwang}",
+            "\\textit{niyi}",
+            "\\textit{'u},",
+            "\\textit{dima}",
+            "\\textit{sedu'uy}",
+            "\\textit{kari}",
+            "\\textit{Kiristu}",
+            "\\textit{ka}",
+            "\\textit{hiya}",
+            "\\textit{da}."
+        ],
+        "trs": "This Ciwang, she was already a Christian.",
+        "wlength": 10
+    },
+    {
+        "ID": "tsukida-786668",
+        "categories": [
+            "3sg",
+            "gen",
+            "gv",
+            "prf",
+            "prt",
+            "sbj"
+        ],
+        "clength": 169,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "from <\\textsc{prf}>arive-\\textsc{gv}=\\textsc{3sg}.\\textsc{gen} Ekedusan \\textsc{sbj} Bakan Hagay \\textsc{prt}",
+        "imtwordsbare": [
+            "from",
+            "<PRF>arive-GV=3SG.GEN",
+            "Ekedusan",
+            "SBJ",
+            "Bakan",
+            "Hagay",
+            "PRT"
+        ],
+        "imtwordshtml": [
+            "from",
+            "<<span class=\"sc\">prf</span>>arive-<span class=\"sc\">gv</span>=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>",
+            "Ekedusan",
+            "<span class=\"sc\">sbj</span>",
+            "Bakan",
+            "Hagay",
+            "<span class=\"sc\">prt</span>"
+        ],
+        "imtwordstex": [
+            "from",
+            "<\\textsc{prf}>arive-\\textsc{gv}=\\textsc{3sg}.\\textsc{gen}",
+            "Ekedusan",
+            "\\textsc{sbj}",
+            "Bakan",
+            "Hagay",
+            "\\textsc{prt}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Pa'ah} \\textit{d}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{ehuq}-\\textit{an}=\\textit{na} \\textit{Ekedusan} \\textit{ka} \\textit{Bakan} \\textit{Hagay} \\textit{'u}",
+        "srcwordsbare": [
+            "Pa'ah",
+            "d{\\USSmaller}en{\\USGreater}ehuq-an=na",
+            "Ekedusan",
+            "ka",
+            "Bakan",
+            "Hagay",
+            "'u"
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Pa'ah</span>",
+            "<span class=\"it\">d</span>{\\USSmaller}<span class=\"it\">en</span>{\\USGreater}<span class=\"it\">ehuq</span>-<span class=\"it\">an</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">Ekedusan</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">Bakan</span>",
+            "<span class=\"it\">Hagay</span>",
+            "<span class=\"it\">'u</span>"
+        ],
+        "srcwordstex": [
+            "\\textit{Pa'ah}",
+            "\\textit{d}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{ehuq}-\\textit{an}=\\textit{na}",
+            "\\textit{Ekedusan}",
+            "\\textit{ka}",
+            "\\textit{Bakan}",
+            "\\textit{Hagay}",
+            "\\textit{'u}"
+        ],
+        "trs": "Since Bakan Hagay arrived at Ekedusan,",
+        "wlength": 7
+    },
+    {
+        "ID": "tsukida-555953",
+        "categories": [
+            "3sg",
+            "av",
+            "gen"
+        ],
+        "clength": 232,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "surely <\\textsc{av}>like=really \\textsc{av}-sing song  God   Heaven  with Karaw  Wacih husband=\\textsc{3sg}.\\textsc{gen}",
+        "imtwordsbare": [
+            "surely",
+            "<AV>like=really",
+            "AV-sing",
+            "song",
+            "God",
+            "Heaven",
+            "with",
+            "Karaw",
+            "Wacih",
+            "husband=3SG.GEN"
+        ],
+        "imtwordshtml": [
+            "surely",
+            "<<span class=\"sc\">av</span>>like=really",
+            "<span class=\"sc\">av</span>-sing",
+            "song",
+            "God",
+            "Heaven",
+            "with",
+            "Karaw",
+            "Wacih",
+            "husband=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "surely",
+            "<\\textsc{av}>like=really",
+            "\\textsc{av}-sing",
+            "song",
+            "God",
+            "Heaven",
+            "with",
+            "Karaw",
+            "Wacih",
+            "husband=\\textsc{3sg}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{'ida} \\textit{s}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ekuxul}=\\textit{bi} \\textit{m}-\\textit{uyas} \\textit{'uyas} \\textit{'Utux} \\textit{Baraw} \\textit{deha}     \\textit{Karaw} \\textit{Watih} \\textit{senaw}=\\textit{na}.",
+        "srcwordsbare": [
+            "'ida",
+            "s{\\USSmaller}em{\\USGreater}ekuxul=bi",
+            "m-uyas",
+            "'uyas",
+            "'Utux",
+            "Baraw",
+            "deha",
+            "Karaw",
+            "Watih",
+            "senaw=na."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">'ida</span>",
+            "<span class=\"it\">s</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">ekuxul</span>=<span class=\"it\">bi</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">uyas</span>",
+            "<span class=\"it\">'uyas</span>",
+            "<span class=\"it\">'Utux</span>",
+            "<span class=\"it\">Baraw</span>",
+            "<span class=\"it\">deha</span>",
+            "<span class=\"it\">Karaw</span>",
+            "<span class=\"it\">Watih</span>",
+            "<span class=\"it\">senaw</span>=<span class=\"it\">na</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{'ida}",
+            "\\textit{s}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{ekuxul}=\\textit{bi}",
+            "\\textit{m}-\\textit{uyas}",
+            "\\textit{'uyas}",
+            "\\textit{'Utux}",
+            "\\textit{Baraw}",
+            "\\textit{deha}",
+            "\\textit{Karaw}",
+            "\\textit{Watih}",
+            "\\textit{senaw}=\\textit{na}."
+        ],
+        "trs": "she liked singing songs about God in heaven with her husband Karaw Wacih.",
+        "wlength": 10
+    },
+    {
+        "ID": "tsukida-796125",
+        "categories": [
+            "3sg",
+            "av",
+            "lnk",
+            "prt",
+            "sbj"
+        ],
+        "clength": 220,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "then \\textsc{lnk} Lebak Yudaw \\textsc{prt} \\textsc{av}-assistant  house  police \\textsc{sbj} \\textsc{3sg} and",
+        "imtwordsbare": [
+            "then",
+            "LNK",
+            "Lebak",
+            "Yudaw",
+            "PRT",
+            "AV-assistant",
+            "house",
+            "police",
+            "SBJ",
+            "3SG",
+            "and"
+        ],
+        "imtwordshtml": [
+            "then",
+            "<span class=\"sc\">lnk</span>",
+            "Lebak",
+            "Yudaw",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">av</span>-assistant",
+            "house",
+            "police",
+            "<span class=\"sc\">sbj</span>",
+            "<span class=\"sc\">3sg</span>",
+            "and"
+        ],
+        "imtwordstex": [
+            "then",
+            "\\textsc{lnk}",
+            "Lebak",
+            "Yudaw",
+            "\\textsc{prt}",
+            "\\textsc{av}-assistant",
+            "house",
+            "police",
+            "\\textsc{sbj}",
+            "\\textsc{3sg}",
+            "and"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Si'ida}  \\textit{ka} \\textbf{\\textit{Lebak}}  \\textbf{\\textit{Yudaw}}\\textit{\\textsubscript{i}} \\textit{'u},  \\textit{me}-\\textit{'ayung}  \\textit{sapah}  \\textit{kensat}  \\textit{ka}  \\textit{hiya}   \\textit{ni}",
+        "srcwordsbare": [
+            "Si'ida",
+            "ka",
+            "\\textit{Lebak}",
+            "\\textit{Yudaw}\\textsubscript{i}",
+            "'u,",
+            "me-'ayung",
+            "sapah",
+            "kensat",
+            "ka",
+            "hiya",
+            "ni"
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Si'ida</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"bf\">\\textit{Lebak</span>}",
+            "<span class=\"bf\">\\textit{Yudaw</span>}<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">me</span>-<span class=\"it\">'ayung</span>",
+            "<span class=\"it\">sapah</span>",
+            "<span class=\"it\">kensat</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">hiya</span>",
+            "<span class=\"it\">ni</span>"
+        ],
+        "srcwordstex": [
+            "\\textit{Si'ida}",
+            "\\textit{ka}",
+            "\\textbf{\\textit{Lebak}}",
+            "\\textbf{\\textit{Yudaw}}\\textit{\\textsubscript{i}}",
+            "\\textit{'u},",
+            "\\textit{me}-\\textit{'ayung}",
+            "\\textit{sapah}",
+            "\\textit{kensat}",
+            "\\textit{ka}",
+            "\\textit{hiya}",
+            "\\textit{ni}"
+        ],
+        "trs": "At that time, Lebak Yudaw was an assistant at the police station and,",
+        "wlength": 11
+    },
+    {
+        "ID": "tsukida-242621",
+        "categories": [
+            "av",
+            "cv",
+            "prf",
+            "prox",
+            "sbj"
+        ],
+        "clength": 243,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{av}-listen story about <\\textsc{cv}>\\textsc{prf}.teach Christ \\textsc{sbj}   Lebak  \\textsc{prox} also",
+        "imtwordsbare": [
+            "AV-listen",
+            "story",
+            "about",
+            "<CV>PRF.teach",
+            "Christ",
+            "SBJ",
+            "Lebak",
+            "PROX",
+            "also"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>-listen",
+            "story",
+            "about",
+            "<<span class=\"sc\">cv</span>><span class=\"sc\">prf</span>.teach",
+            "Christ",
+            "<span class=\"sc\">sbj</span>",
+            "Lebak",
+            "<span class=\"sc\">prox</span>",
+            "also"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}-listen",
+            "story",
+            "about",
+            "<\\textsc{cv}>\\textsc{prf}.teach",
+            "Christ",
+            "\\textsc{sbj}",
+            "Lebak",
+            "\\textsc{prox}",
+            "also"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{m}-\\textit{bahang}   \\textit{kari}  \\textit{quri}  \\textit{t}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{egesa}       \\textit{Kiristu}  \\textit{ka} \\textbf{\\textit{Lebak}}  \\textbf{\\textit{niyi}}\\textit{\\textsubscript{i}} \\textit{'uri},",
+        "srcwordsbare": [
+            "m-bahang",
+            "kari",
+            "quri",
+            "t{\\USSmaller}en{\\USGreater}egesa",
+            "Kiristu",
+            "ka",
+            "\\textit{Lebak}",
+            "\\textit{niyi}\\textsubscript{i}",
+            "'uri,"
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">m</span>-<span class=\"it\">bahang</span>",
+            "<span class=\"it\">kari</span>",
+            "<span class=\"it\">quri</span>",
+            "<span class=\"it\">t</span>{\\USSmaller}<span class=\"it\">en</span>{\\USGreater}<span class=\"it\">egesa</span>",
+            "<span class=\"it\">Kiristu</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"bf\">\\textit{Lebak</span>}",
+            "<span class=\"bf\">\\textit{niyi</span>}<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">'uri</span>,"
+        ],
+        "srcwordstex": [
+            "\\textit{m}-\\textit{bahang}",
+            "\\textit{kari}",
+            "\\textit{quri}",
+            "\\textit{t}{\\USSmaller}\\textit{en}{\\USGreater}\\textit{egesa}",
+            "\\textit{Kiristu}",
+            "\\textit{ka}",
+            "\\textbf{\\textit{Lebak}}",
+            "\\textbf{\\textit{niyi}}\\textit{\\textsubscript{i}}",
+            "\\textit{'uri},"
+        ],
+        "trs": "this Lebak also heard the story about what Christ taught.",
+        "wlength": 9
+    },
+    {
+        "ID": "tsukida-141029",
+        "categories": [
+            "1pi",
+            "gen",
+            "neg",
+            "prox",
+            "prt",
+            "sbj"
+        ],
+        "clength": 164,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "\\textsc{prox} \\textsc{prt} \\textsc{neg} God=\\textsc{1pi.gen} \\textsc{sbj} it",
+        "imtwordsbare": [
+            "PROX",
+            "PRT",
+            "NEG",
+            "God=1pi.gen",
+            "SBJ",
+            "it"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">neg</span>",
+            "God=<span class=\"sc\">1pi.gen</span>",
+            "<span class=\"sc\">sbj</span>",
+            "it"
+        ],
+        "imtwordstex": [
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\textsc{neg}",
+            "God=\\textsc{1pi.gen}",
+            "\\textsc{sbj}",
+            "it"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "polarity": "negative",
+        "src": "\\textbf{\\textit{Niyi}}\\textit{\\textsubscript{i}} \\textit{'u},  \\textit{'adi}  \\textit{'utux}=\\textit{ta}       \\textit{ka}  \\textit{kiya}\\textit{\\textsubscript{i}},",
+        "srcwordsbare": [
+            "\\textit{Niyi}\\textsubscript{i}",
+            "'u,",
+            "'adi",
+            "'utux=ta",
+            "ka",
+            "kiya\\textsubscript{i},"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">\\textit{Niyi</span>}<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">'adi</span>",
+            "<span class=\"it\">'utux</span>=<span class=\"it\">ta</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">kiya</span><span class=\"it\">\\textsubscript{i</span>},"
+        ],
+        "srcwordstex": [
+            "\\textbf{\\textit{Niyi}}\\textit{\\textsubscript{i}}",
+            "\\textit{'u},",
+            "\\textit{'adi}",
+            "\\textit{'utux}=\\textit{ta}",
+            "\\textit{ka}",
+            "\\textit{kiya}\\textit{\\textsubscript{i}},"
+        ],
+        "trs": "This, it is not our God,",
+        "wlength": 6
+    },
+    {
+        "ID": "tsukida--29566",
+        "categories": [
+            "sbj"
+        ],
+        "clength": 101,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "God    America \\textsc{sbj} it",
+        "imtwordsbare": [
+            "God",
+            "America",
+            "SBJ",
+            "it"
+        ],
+        "imtwordshtml": [
+            "God",
+            "America",
+            "<span class=\"sc\">sbj</span>",
+            "it"
+        ],
+        "imtwordstex": [
+            "God",
+            "America",
+            "\\textsc{sbj}",
+            "it"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{'utux}  \\textit{'amirika}       \\textit{ka} \\textbf{\\textit{kiya}}\\textit{\\textsubscript{i}}.",
+        "srcwordsbare": [
+            "'utux",
+            "'amirika",
+            "ka",
+            "\\textit{kiya}\\textsubscript{i}."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">'utux</span>",
+            "<span class=\"it\">'amirika</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"bf\">\\textit{kiya</span>}<span class=\"it\">\\textsubscript{i</span>}."
+        ],
+        "srcwordstex": [
+            "\\textit{'utux}",
+            "\\textit{'amirika}",
+            "\\textit{ka}",
+            "\\textbf{\\textit{kiya}}\\textit{\\textsubscript{i}}."
+        ],
+        "trs": "it is the American God.",
+        "wlength": 4
+    },
+    {
+        "ID": "tsukida--15831",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "gv",
+            "prf",
+            "prox",
+            "prt"
+        ],
+        "clength": 226,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "story \\textsc{prox} \\textsc{prt} \\textsc{prf}-come-\\textsc{gv}=\\textsc{3sg.gen} \\textsc{av}-take   from   village Besuring",
+        "imtwordsbare": [
+            "story",
+            "PROX",
+            "PRT",
+            "PRF-come-GV=3sg.gen",
+            "AV-take",
+            "from",
+            "village",
+            "Besuring"
+        ],
+        "imtwordshtml": [
+            "story",
+            "<span class=\"sc\">prox</span>",
+            "<span class=\"sc\">prt</span>",
+            "<span class=\"sc\">prf</span>-come-<span class=\"sc\">gv</span>=<span class=\"sc\">3sg.gen</span>",
+            "<span class=\"sc\">av</span>-take",
+            "from",
+            "village",
+            "Besuring"
+        ],
+        "imtwordstex": [
+            "story",
+            "\\textsc{prox}",
+            "\\textsc{prt}",
+            "\\textsc{prf}-come-\\textsc{gv}=\\textsc{3sg.gen}",
+            "\\textsc{av}-take",
+            "from",
+            "village",
+            "Besuring"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textbf{\\textit{Kari}}    \\textbf{\\textit{niyi}}\\textit{\\textsubscript{i}} \\textit{'u},   \\textit{n}-\\textit{eyah}-\\textit{an}=\\textit{na}         \\textit{m}-\\textit{angal}  \\textit{pa'ah}  \\textit{'alang}   \\textit{Besuring}.",
+        "srcwordsbare": [
+            "\\textit{Kari}",
+            "\\textit{niyi}\\textsubscript{i}",
+            "'u,",
+            "n-eyah-an=na",
+            "m-angal",
+            "pa'ah",
+            "'alang",
+            "Besuring."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">\\textit{Kari</span>}",
+            "<span class=\"bf\">\\textit{niyi</span>}<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">'u</span>,",
+            "<span class=\"it\">n</span>-<span class=\"it\">eyah</span>-<span class=\"it\">an</span>=<span class=\"it\">na</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">angal</span>",
+            "<span class=\"it\">pa'ah</span>",
+            "<span class=\"it\">'alang</span>",
+            "<span class=\"it\">Besuring</span>."
+        ],
+        "srcwordstex": [
+            "\\textbf{\\textit{Kari}}",
+            "\\textbf{\\textit{niyi}}\\textit{\\textsubscript{i}}",
+            "\\textit{'u},",
+            "\\textit{n}-\\textit{eyah}-\\textit{an}=\\textit{na}",
+            "\\textit{m}-\\textit{angal}",
+            "\\textit{pa'ah}",
+            "\\textit{'alang}",
+            "\\textit{Besuring}."
+        ],
+        "trs": "As for this story [=the gospel], it was taken from Besuring village.",
+        "wlength": 8
+    },
+    {
+        "ID": "tsukida-806683",
+        "categories": [
+            "av",
+            "sbj"
+        ],
+        "clength": 197,
+        "filename": "201/chapters/tsukida.tex",
+        "imt": "just \\textsc{av}-come   <\\textsc{av}>teach {} there \\textsc{sbj} Ciwang Iwal",
+        "imtwordsbare": [
+            "just",
+            "AV-come",
+            "<AV>teach",
+            "{}",
+            "there",
+            "SBJ",
+            "Ciwang",
+            "Iwal"
+        ],
+        "imtwordshtml": [
+            "just",
+            "<span class=\"sc\">av</span>-come",
+            "<<span class=\"sc\">av</span>>teach",
+            "{}",
+            "there",
+            "<span class=\"sc\">sbj</span>",
+            "Ciwang",
+            "Iwal"
+        ],
+        "imtwordstex": [
+            "just",
+            "\\textsc{av}-come",
+            "<\\textsc{av}>teach",
+            "{}",
+            "there",
+            "\\textsc{sbj}",
+            "Ciwang",
+            "Iwal"
+        ],
+        "language": "201/chapters/tsukida.tex",
+        "src": "\\textit{Pekelug}   \\textit{m}-\\textit{iyah}    \\textit{t}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{gesa} \\_\\_\\textit{\\textsubscript{i}} \\textit{hiya}  \\textit{ka}  \\textit{Tiwang}  \\textit{'Iwal}.",
+        "srcwordsbare": [
+            "Pekelug",
+            "m-iyah",
+            "t{\\USSmaller}em{\\USGreater}gesa",
+            "__\\textsubscript{i}",
+            "hiya",
+            "ka",
+            "Tiwang",
+            "'Iwal."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Pekelug</span>",
+            "<span class=\"it\">m</span>-<span class=\"it\">iyah</span>",
+            "<span class=\"it\">t</span>{\\USSmaller}<span class=\"it\">em</span>{\\USGreater}<span class=\"it\">gesa</span>",
+            "__<span class=\"it\">\\textsubscript{i</span>}",
+            "<span class=\"it\">hiya</span>",
+            "<span class=\"it\">ka</span>",
+            "<span class=\"it\">Tiwang</span>",
+            "<span class=\"it\">'Iwal</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Pekelug}",
+            "\\textit{m}-\\textit{iyah}",
+            "\\textit{t}{\\USSmaller}\\textit{em}{\\USGreater}\\textit{gesa}",
+            "\\_\\_\\textit{\\textsubscript{i}}",
+            "\\textit{hiya}",
+            "\\textit{ka}",
+            "\\textit{Tiwang}",
+            "\\textit{'Iwal}."
+        ],
+        "trs": "Ciwang Iwal came to teach it just then.",
+        "wlength": 8
+    }
+]

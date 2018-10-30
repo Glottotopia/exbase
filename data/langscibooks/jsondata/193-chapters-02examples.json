@@ -1,0 +1,781 @@
+[
+    {
+        "ID": "02--65708",
+        "categories": [
+            "acc",
+            "f",
+            "m",
+            "ptcp"
+        ],
+        "clength": 76,
+        "filename": "193/chapters/02.tex",
+        "imt": "since Hans a.\\textsc{f.acc} \\phantom{} of her.\\textsc{m.acc} dog proud.\\textsc{f.acc} woman meet.\\textsc{ptcp} has",
+        "imtwordsbare": [
+            "since",
+            "Hans",
+            "a.f.acc",
+            "\\phantom{}",
+            "of",
+            "her.m.acc",
+            "dog",
+            "proud.f.acc",
+            "woman",
+            "meet.PTCP",
+            "has"
+        ],
+        "imtwordshtml": [
+            "since",
+            "Hans",
+            "a.<span class=\"sc\">f.acc</span>",
+            "\\phantom{}",
+            "of",
+            "her.<span class=\"sc\">m.acc</span>",
+            "dog",
+            "proud.<span class=\"sc\">f.acc</span>",
+            "woman",
+            "meet.<span class=\"sc\">ptcp</span>",
+            "has"
+        ],
+        "imtwordstex": [
+            "since",
+            "Hans",
+            "a.\\textsc{f.acc}",
+            "\\phantom{}",
+            "of",
+            "her.\\textsc{m.acc}",
+            "dog",
+            "proud.\\textsc{f.acc}",
+            "woman",
+            "meet.\\textsc{ptcp}",
+            "has"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "weil Hans eine [\\textsubscript{PP} auf ihren Hund] stolze Frau getroffen hat",
+        "srcwordsbare": [
+            "weil",
+            "Hans",
+            "eine",
+            "[PP",
+            "auf",
+            "ihren",
+            "Hund]",
+            "stolze",
+            "Frau",
+            "getroffen",
+            "hat"
+        ],
+        "srcwordshtml": [
+            "weil",
+            "Hans",
+            "eine",
+            "[<span class=\"subscript\">PP</span>",
+            "auf",
+            "ihren",
+            "Hund]",
+            "stolze",
+            "Frau",
+            "getroffen",
+            "hat"
+        ],
+        "srcwordstex": [
+            "weil",
+            "Hans",
+            "eine",
+            "[\\textsubscript{PP}",
+            "auf",
+            "ihren",
+            "Hund]",
+            "stolze",
+            "Frau",
+            "getroffen",
+            "hat"
+        ],
+        "trs": "since Hans met a woman proud of her dog'}",
+        "wlength": 11
+    },
+    {
+        "ID": "02-848690",
+        "categories": [
+            "m"
+        ],
+        "clength": 53,
+        "filename": "193/chapters/02.tex",
+        "imt": "Ralph\tis more tall.\\textsc{m} {} that Alexander",
+        "imtwordsbare": [
+            "Ralph",
+            "is",
+            "more",
+            "tall.M",
+            "{}",
+            "that",
+            "Alexander"
+        ],
+        "imtwordshtml": [
+            "Ralph",
+            "is",
+            "more",
+            "tall.<span class=\"sc\">m</span>",
+            "{}",
+            "that",
+            "Alexander"
+        ],
+        "imtwordstex": [
+            "Ralph",
+            "is",
+            "more",
+            "tall.\\textsc{m}",
+            "{}",
+            "that",
+            "Alexander"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Raulo \u00e8 pi\u00f9 alto [\\textsubscript{CP} che Alessandro].",
+        "srcwordsbare": [
+            "Raulo",
+            "\u00e8",
+            "pi\u00f9",
+            "alto",
+            "[CP",
+            "che",
+            "Alessandro]."
+        ],
+        "srcwordshtml": [
+            "Raulo",
+            "\u00e8",
+            "pi\u00f9",
+            "alto",
+            "[<span class=\"subscript\">CP</span>",
+            "che",
+            "Alessandro]."
+        ],
+        "srcwordstex": [
+            "Raulo",
+            "\u00e8",
+            "pi\u00f9",
+            "alto",
+            "[\\textsubscript{CP}",
+            "che",
+            "Alessandro]."
+        ],
+        "trs": "Ralph is taller than Alexander.",
+        "wlength": 7
+    },
+    {
+        "ID": "02--81321",
+        "categories": [
+            "m"
+        ],
+        "clength": 52,
+        "filename": "193/chapters/02.tex",
+        "imt": "Ralph is more tall.\\textsc{m} {} of Alexander",
+        "imtwordsbare": [
+            "Ralph",
+            "is",
+            "more",
+            "tall.M",
+            "{}",
+            "of",
+            "Alexander"
+        ],
+        "imtwordshtml": [
+            "Ralph",
+            "is",
+            "more",
+            "tall.<span class=\"sc\">m</span>",
+            "{}",
+            "of",
+            "Alexander"
+        ],
+        "imtwordstex": [
+            "Ralph",
+            "is",
+            "more",
+            "tall.\\textsc{m}",
+            "{}",
+            "of",
+            "Alexander"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Raulo \u00e8 pi\u00f9 alto [\\textsubscript{PP} di Alessandro].",
+        "srcwordsbare": [
+            "Raulo",
+            "\u00e8",
+            "pi\u00f9",
+            "alto",
+            "[PP",
+            "di",
+            "Alessandro]."
+        ],
+        "srcwordshtml": [
+            "Raulo",
+            "\u00e8",
+            "pi\u00f9",
+            "alto",
+            "[<span class=\"subscript\">PP</span>",
+            "di",
+            "Alessandro]."
+        ],
+        "srcwordstex": [
+            "Raulo",
+            "\u00e8",
+            "pi\u00f9",
+            "alto",
+            "[\\textsubscript{PP}",
+            "di",
+            "Alessandro]."
+        ],
+        "trs": "Ralph is taller than Alexander.",
+        "wlength": 7
+    },
+    {
+        "ID": "02--91998",
+        "categories": [
+            "3sg"
+        ],
+        "clength": 52,
+        "filename": "193/chapters/02.tex",
+        "imt": "Louise taller was.\\textsc{3sg} \\phantom{} than Mary",
+        "imtwordsbare": [
+            "Louise",
+            "taller",
+            "was.3SG",
+            "\\phantom{}",
+            "than",
+            "Mary"
+        ],
+        "imtwordshtml": [
+            "Louise",
+            "taller",
+            "was.<span class=\"sc\">3sg</span>",
+            "\\phantom{}",
+            "than",
+            "Mary"
+        ],
+        "imtwordstex": [
+            "Louise",
+            "taller",
+            "was.\\textsc{3sg}",
+            "\\phantom{}",
+            "than",
+            "Mary"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Lujza magasabb volt, [\\textsubscript{CP} mint Mari].",
+        "srcwordsbare": [
+            "Lujza",
+            "magasabb",
+            "volt,",
+            "[CP",
+            "mint",
+            "Mari]."
+        ],
+        "srcwordshtml": [
+            "Lujza",
+            "magasabb",
+            "volt,",
+            "[<span class=\"subscript\">CP</span>",
+            "mint",
+            "Mari]."
+        ],
+        "srcwordstex": [
+            "Lujza",
+            "magasabb",
+            "volt,",
+            "[\\textsubscript{CP}",
+            "mint",
+            "Mari]."
+        ],
+        "trs": "Louise was taller than Mary.",
+        "wlength": 6
+    },
+    {
+        "ID": "02--16833",
+        "categories": [
+            "3sg",
+            "ade"
+        ],
+        "clength": 49,
+        "filename": "193/chapters/02.tex",
+        "imt": "Louise taller was.\\textsc{3sg} {} Mary.\\textsc{ade}",
+        "imtwordsbare": [
+            "Louise",
+            "taller",
+            "was.3SG",
+            "{}",
+            "Mary.ADE"
+        ],
+        "imtwordshtml": [
+            "Louise",
+            "taller",
+            "was.<span class=\"sc\">3sg</span>",
+            "{}",
+            "Mary.<span class=\"sc\">ade</span>"
+        ],
+        "imtwordstex": [
+            "Louise",
+            "taller",
+            "was.\\textsc{3sg}",
+            "{}",
+            "Mary.\\textsc{ade}"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Lujza magasabb volt [\\textsubscript{DP}\tMarin\u00e1l].",
+        "srcwordsbare": [
+            "Lujza",
+            "magasabb",
+            "volt",
+            "[DP",
+            "Marin\u00e1l]."
+        ],
+        "srcwordshtml": [
+            "Lujza",
+            "magasabb",
+            "volt",
+            "[<span class=\"subscript\">DP</span>",
+            "Marin\u00e1l]."
+        ],
+        "srcwordstex": [
+            "Lujza",
+            "magasabb",
+            "volt",
+            "[\\textsubscript{DP}",
+            "Marin\u00e1l]."
+        ],
+        "trs": "Louise was taller than Mary.",
+        "wlength": 5
+    },
+    {
+        "ID": "02-140306",
+        "categories": [
+            "nom"
+        ],
+        "clength": 51,
+        "filename": "193/chapters/02.tex",
+        "imt": "she\ttaller {} than her classmates.\\textsc{nom}",
+        "imtwordsbare": [
+            "she",
+            "taller",
+            "{}",
+            "than",
+            "her",
+            "classmates.NOM"
+        ],
+        "imtwordshtml": [
+            "she",
+            "taller",
+            "{}",
+            "than",
+            "her",
+            "classmates.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "she",
+            "taller",
+            "{}",
+            "than",
+            "her",
+            "classmates.\\textsc{nom}"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Ona vy\u0161e\t[\\textsubscript{CP} \u010dem e\u00eb odnoklassniki].",
+        "srcwordsbare": [
+            "Ona",
+            "vy\u0161e",
+            "[CP",
+            "\u010dem",
+            "e\u00eb",
+            "odnoklassniki]."
+        ],
+        "srcwordshtml": [
+            "Ona",
+            "vy\u0161e",
+            "[<span class=\"subscript\">CP</span>",
+            "\u010dem",
+            "e\u00eb",
+            "odnoklassniki]."
+        ],
+        "srcwordstex": [
+            "Ona",
+            "vy\u0161e",
+            "[\\textsubscript{CP}",
+            "\u010dem",
+            "e\u00eb",
+            "odnoklassniki]."
+        ],
+        "trs": "She is taller than her classmates.",
+        "wlength": 6
+    },
+    {
+        "ID": "02--90622",
+        "categories": [
+            "f"
+        ],
+        "clength": 62,
+        "filename": "193/chapters/02.tex",
+        "imt": "she\tmore tall.\\textsc{f} {} than\ther\tclassmates",
+        "imtwordsbare": [
+            "she",
+            "more",
+            "tall.F",
+            "{}",
+            "than",
+            "her",
+            "classmates"
+        ],
+        "imtwordshtml": [
+            "she",
+            "more",
+            "tall.<span class=\"sc\">f</span>",
+            "{}",
+            "than",
+            "her",
+            "classmates"
+        ],
+        "imtwordstex": [
+            "she",
+            "more",
+            "tall.\\textsc{f}",
+            "{}",
+            "than",
+            "her",
+            "classmates"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Ona\tboleje vysokaja\t[\\textsubscript{CP}\t\u010dem\te\u00eb odnoklassniki].",
+        "srcwordsbare": [
+            "Ona",
+            "boleje",
+            "vysokaja",
+            "[CP",
+            "\u010dem",
+            "e\u00eb",
+            "odnoklassniki]."
+        ],
+        "srcwordshtml": [
+            "Ona",
+            "boleje",
+            "vysokaja",
+            "[<span class=\"subscript\">CP</span>",
+            "\u010dem",
+            "e\u00eb",
+            "odnoklassniki]."
+        ],
+        "srcwordstex": [
+            "Ona",
+            "boleje",
+            "vysokaja",
+            "[\\textsubscript{CP}",
+            "\u010dem",
+            "e\u00eb",
+            "odnoklassniki]."
+        ],
+        "trs": "She is taller than her classmates.'}",
+        "wlength": 7
+    },
+    {
+        "ID": "02--79972",
+        "categories": [
+            "1sg"
+        ],
+        "clength": 48,
+        "filename": "193/chapters/02.tex",
+        "imt": "{} than Peter was.\\textsc{1sg} I\ttaller",
+        "imtwordsbare": [
+            "{}",
+            "than",
+            "Peter",
+            "was.1SG",
+            "I",
+            "taller"
+        ],
+        "imtwordshtml": [
+            "{}",
+            "than",
+            "Peter",
+            "was.<span class=\"sc\">1sg</span>",
+            "I",
+            "taller"
+        ],
+        "imtwordstex": [
+            "{}",
+            "than",
+            "Peter",
+            "was.\\textsc{1sg}",
+            "I",
+            "taller"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "{[}\\textsubscript{CP} Als\tPeter] war ich gr\u00f6\u00dfer.",
+        "srcwordsbare": [
+            "{[}CP",
+            "Als",
+            "Peter]",
+            "war",
+            "ich",
+            "gr\u00f6\u00dfer."
+        ],
+        "srcwordshtml": [
+            "{[}<span class=\"subscript\">CP</span>",
+            "Als",
+            "Peter]",
+            "war",
+            "ich",
+            "gr\u00f6\u00dfer."
+        ],
+        "srcwordstex": [
+            "{[}\\textsubscript{CP}",
+            "Als",
+            "Peter]",
+            "war",
+            "ich",
+            "gr\u00f6\u00dfer."
+        ],
+        "trs": "I was taller than Peter.",
+        "wlength": 6
+    },
+    {
+        "ID": "02--91545",
+        "categories": [
+            "n"
+        ],
+        "clength": 28,
+        "filename": "193/chapters/02.tex",
+        "imt": "this.\\textsc{n} main railway.station",
+        "imtwordsbare": [
+            "this.N",
+            "main",
+            "railway.station"
+        ],
+        "imtwordshtml": [
+            "this.<span class=\"sc\">n</span>",
+            "main",
+            "railway.station"
+        ],
+        "imtwordstex": [
+            "this.\\textsc{n}",
+            "main",
+            "railway.station"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Eto \\textbf{glavnyj} vokzal.",
+        "srcwordsbare": [
+            "Eto",
+            "glavnyj",
+            "vokzal."
+        ],
+        "srcwordshtml": [
+            "Eto",
+            "<span class=\"bf\">glavnyj</span>",
+            "vokzal."
+        ],
+        "srcwordstex": [
+            "Eto",
+            "\\textbf{glavnyj}",
+            "vokzal."
+        ],
+        "trs": "This is the main railway station.",
+        "wlength": 3
+    },
+    {
+        "ID": "02--71254",
+        "categories": [
+            "m"
+        ],
+        "clength": 29,
+        "filename": "193/chapters/02.tex",
+        "imt": "this.\\textsc{m} railway.station main",
+        "imtwordsbare": [
+            "this.M",
+            "railway.station",
+            "main"
+        ],
+        "imtwordshtml": [
+            "this.<span class=\"sc\">m</span>",
+            "railway.station",
+            "main"
+        ],
+        "imtwordstex": [
+            "this.\\textsc{m}",
+            "railway.station",
+            "main"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Etot vokzal\t\\textbf{glavnyj}.",
+        "srcwordsbare": [
+            "Etot",
+            "vokzal",
+            "glavnyj."
+        ],
+        "srcwordshtml": [
+            "Etot",
+            "vokzal",
+            "<span class=\"bf\">glavnyj</span>."
+        ],
+        "srcwordstex": [
+            "Etot",
+            "vokzal",
+            "\\textbf{glavnyj}."
+        ],
+        "trs": "This railway station is the main one.",
+        "wlength": 3
+    },
+    {
+        "ID": "02-504138",
+        "categories": [],
+        "clength": 37,
+        "filename": "193/chapters/02.tex",
+        "imt": "this the\ttheory the\tgood",
+        "imtwordsbare": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "good"
+        ],
+        "imtwordshtml": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "good"
+        ],
+        "imtwordstex": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "good"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Ez\taz\telm\u00e9let\t\\textbf{a}\t\\textbf{j\u00f3}.",
+        "srcwordsbare": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "a",
+            "j\u00f3."
+        ],
+        "srcwordshtml": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "<span class=\"bf\">a</span>",
+            "<span class=\"bf\">j\u00f3</span>."
+        ],
+        "srcwordstex": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "\\textbf{a}",
+            "\\textbf{j\u00f3}."
+        ],
+        "trs": "This theory is the good one.",
+        "wlength": 5
+    },
+    {
+        "ID": "02-740028",
+        "categories": [],
+        "clength": 39,
+        "filename": "193/chapters/02.tex",
+        "imt": "this the theory\tthe\tbetter",
+        "imtwordsbare": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "better"
+        ],
+        "imtwordshtml": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "better"
+        ],
+        "imtwordstex": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "better"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Ez\taz\telm\u00e9let\t\\textbf{a}\t\\textbf{jobb}.",
+        "srcwordsbare": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "a",
+            "jobb."
+        ],
+        "srcwordshtml": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "<span class=\"bf\">a</span>",
+            "<span class=\"bf\">jobb</span>."
+        ],
+        "srcwordstex": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "\\textbf{a}",
+            "\\textbf{jobb}."
+        ],
+        "trs": "This theory is the better one.",
+        "wlength": 5
+    },
+    {
+        "ID": "02--78439",
+        "categories": [],
+        "clength": 42,
+        "filename": "193/chapters/02.tex",
+        "imt": "this the theory\tthe\tbest",
+        "imtwordsbare": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "best"
+        ],
+        "imtwordshtml": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "best"
+        ],
+        "imtwordstex": [
+            "this",
+            "the",
+            "theory",
+            "the",
+            "best"
+        ],
+        "language": "193/chapters/02.tex",
+        "src": "Ez az\telm\u00e9let\t\\textbf{a}\t\\textbf{legjobb}.",
+        "srcwordsbare": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "a",
+            "legjobb."
+        ],
+        "srcwordshtml": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "<span class=\"bf\">a</span>",
+            "<span class=\"bf\">legjobb</span>."
+        ],
+        "srcwordstex": [
+            "Ez",
+            "az",
+            "elm\u00e9let",
+            "\\textbf{a}",
+            "\\textbf{legjobb}."
+        ],
+        "trs": "This theory is the best one.",
+        "wlength": 5
+    }
+]

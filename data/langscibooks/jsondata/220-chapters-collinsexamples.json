@@ -1,0 +1,99 @@
+[
+    {
+        "ID": "collins--61987",
+        "categories": [
+            "",
+            "1sg",
+            "poss/obj",
+            "sg"
+        ],
+        "clength": 26,
+        "filename": "220/chapters/collins.tex",
+        "imt": "\\textsc{1sg}.-be.at  3\\textsc{sg.poss/obj-}see   surface/on",
+        "imtwordsbare": [
+            "1SG.-be.at",
+            "3sg.poss/obj-see",
+            "surface/on"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>.-be.at",
+            "3<span class=\"sc\">sg.poss/obj-</span>see",
+            "surface/on"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}.-be.at",
+            "3\\textsc{sg.poss/obj-}see",
+            "surface/on"
+        ],
+        "language": "220/chapters/collins.tex",
+        "src": "Me-le       \u00e9-kp\u0254     dz\u00ed.",
+        "srcwordsbare": [
+            "Me-le",
+            "\u00e9-kp\u0254",
+            "dz\u00ed."
+        ],
+        "srcwordshtml": [
+            "Me-le",
+            "\u00e9-kp\u0254",
+            "dz\u00ed."
+        ],
+        "srcwordstex": [
+            "Me-le",
+            "\u00e9-kp\u0254",
+            "dz\u00ed."
+        ],
+        "trs": "I am seeing him.\u2019 (lit. \u2018I am on his seeing.\u2019).",
+        "wlength": 3
+    },
+    {
+        "ID": "collins--65252",
+        "categories": [
+            "",
+            "poss"
+        ],
+        "clength": 28,
+        "filename": "220/chapters/collins.tex",
+        "imt": "Musa   want   harvest   \\textsc{poss-}corn",
+        "imtwordsbare": [
+            "Musa",
+            "want",
+            "harvest",
+            "poss-corn"
+        ],
+        "imtwordshtml": [
+            "Musa",
+            "want",
+            "harvest",
+            "<span class=\"sc\">poss-</span>corn"
+        ],
+        "imtwordstex": [
+            "Musa",
+            "want",
+            "harvest",
+            "\\textsc{poss-}corn"
+        ],
+        "language": "220/chapters/collins.tex",
+        "modality": "volitive",
+        "src": "Musa   rot   dyip   k\u0259-shwe.",
+        "srcwordsbare": [
+            "Musa",
+            "rot",
+            "dyip",
+            "k\u0259-shwe."
+        ],
+        "srcwordshtml": [
+            "Musa",
+            "rot",
+            "dyip",
+            "k\u0259-shwe."
+        ],
+        "srcwordstex": [
+            "Musa",
+            "rot",
+            "dyip",
+            "k\u0259-shwe."
+        ],
+        "trs": "Musa wants to harvest corn.\u2019 (lit. \u2018Musa wants the harvesting of the corn.\u2019)",
+        "wlength": 4
+    }
+]

@@ -1,0 +1,833 @@
+[
+    {
+        "ID": "18-802368",
+        "categories": [
+            "1sg",
+            "acc",
+            "aux"
+        ],
+        "clength": 68,
+        "filename": "144/chapters/18.tex",
+        "imt": "\\textsc{1sg}  \\textsc{aux}  the.\\textsc{acc}  bus  missed  because  \\textsc{1sg}  late  there  was",
+        "imtwordsbare": [
+            "1SG",
+            "AUX",
+            "the.ACC",
+            "bus",
+            "missed",
+            "because",
+            "1SG",
+            "late",
+            "there",
+            "was"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">aux</span>",
+            "the.<span class=\"sc\">acc</span>",
+            "bus",
+            "missed",
+            "because",
+            "<span class=\"sc\">1sg</span>",
+            "late",
+            "there",
+            "was"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "\\textsc{aux}",
+            "the.\\textsc{acc}",
+            "bus",
+            "missed",
+            "because",
+            "\\textsc{1sg}",
+            "late",
+            "there",
+            "was"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Ich  habe  den  Bus  verpasst,  \\textit{weil}  ich  sp\u00e4t  dran  war.",
+        "srcwordsbare": [
+            "Ich",
+            "habe",
+            "den",
+            "Bus",
+            "verpasst,",
+            "weil",
+            "ich",
+            "sp\u00e4t",
+            "dran",
+            "war."
+        ],
+        "srcwordshtml": [
+            "Ich",
+            "habe",
+            "den",
+            "Bus",
+            "verpasst,",
+            "<span class=\"it\">weil</span>",
+            "ich",
+            "sp\u00e4t",
+            "dran",
+            "war."
+        ],
+        "srcwordstex": [
+            "Ich",
+            "habe",
+            "den",
+            "Bus",
+            "verpasst,",
+            "\\textit{weil}",
+            "ich",
+            "sp\u00e4t",
+            "dran",
+            "war."
+        ],
+        "trs": "I missed the bus because I got there late.\u2019 \\\\",
+        "wlength": 10
+    },
+    {
+        "ID": "18-639875",
+        "categories": [
+            "aux",
+            "nom"
+        ],
+        "clength": 63,
+        "filename": "144/chapters/18.tex",
+        "imt": "the.\\textsc{nom}  street  is  all  wet  because  it  rained  \\textsc{aux}",
+        "imtwordsbare": [
+            "the.NOM",
+            "street",
+            "is",
+            "all",
+            "wet",
+            "because",
+            "it",
+            "rained",
+            "AUX"
+        ],
+        "imtwordshtml": [
+            "the.<span class=\"sc\">nom</span>",
+            "street",
+            "is",
+            "all",
+            "wet",
+            "because",
+            "it",
+            "rained",
+            "<span class=\"sc\">aux</span>"
+        ],
+        "imtwordstex": [
+            "the.\\textsc{nom}",
+            "street",
+            "is",
+            "all",
+            "wet",
+            "because",
+            "it",
+            "rained",
+            "\\textsc{aux}"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Die  Stra\u00dfe  ist  ganz  na\u00df,  \\textit{weil}  es  geregnet  hat.",
+        "srcwordsbare": [
+            "Die",
+            "Stra\u00dfe",
+            "ist",
+            "ganz",
+            "na\u00df,",
+            "weil",
+            "es",
+            "geregnet",
+            "hat."
+        ],
+        "srcwordshtml": [
+            "Die",
+            "Stra\u00dfe",
+            "ist",
+            "ganz",
+            "na\u00df,",
+            "<span class=\"it\">weil</span>",
+            "es",
+            "geregnet",
+            "hat."
+        ],
+        "srcwordstex": [
+            "Die",
+            "Stra\u00dfe",
+            "ist",
+            "ganz",
+            "na\u00df,",
+            "\\textit{weil}",
+            "es",
+            "geregnet",
+            "hat."
+        ],
+        "trs": "The street is wet because it rained.\u2019 \\\\",
+        "wlength": 9
+    },
+    {
+        "ID": "18--39362",
+        "categories": [
+            "nom"
+        ],
+        "clength": 55,
+        "filename": "144/chapters/18.tex",
+        "imt": "it  has rained because the.\\textsc{nom}  street  is  all  wet",
+        "imtwordsbare": [
+            "it",
+            "has",
+            "rained",
+            "because",
+            "the.NOM",
+            "street",
+            "is",
+            "all",
+            "wet"
+        ],
+        "imtwordshtml": [
+            "it",
+            "has",
+            "rained",
+            "because",
+            "the.<span class=\"sc\">nom</span>",
+            "street",
+            "is",
+            "all",
+            "wet"
+        ],
+        "imtwordstex": [
+            "it",
+            "has",
+            "rained",
+            "because",
+            "the.\\textsc{nom}",
+            "street",
+            "is",
+            "all",
+            "wet"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Es hat geregnet, \\textit{denn} die Stra\u00dfe ist ganz na\u00df.",
+        "srcwordsbare": [
+            "Es",
+            "hat",
+            "geregnet,",
+            "denn",
+            "die",
+            "Stra\u00dfe",
+            "ist",
+            "ganz",
+            "na\u00df."
+        ],
+        "srcwordshtml": [
+            "Es",
+            "hat",
+            "geregnet,",
+            "<span class=\"it\">denn</span>",
+            "die",
+            "Stra\u00dfe",
+            "ist",
+            "ganz",
+            "na\u00df."
+        ],
+        "srcwordstex": [
+            "Es",
+            "hat",
+            "geregnet,",
+            "\\textit{denn}",
+            "die",
+            "Stra\u00dfe",
+            "ist",
+            "ganz",
+            "na\u00df."
+        ],
+        "trs": "It was raining, because the street is wet.\u2019 \\\\",
+        "wlength": 9
+    },
+    {
+        "ID": "18--61530",
+        "categories": [
+            "1sg"
+        ],
+        "clength": 48,
+        "filename": "144/chapters/18.tex",
+        "imt": "because  \\textsc{1sg}  have  already  again  hunger",
+        "imtwordsbare": [
+            "because",
+            "1SG",
+            "have",
+            "already",
+            "again",
+            "hunger"
+        ],
+        "imtwordshtml": [
+            "because",
+            "<span class=\"sc\">1sg</span>",
+            "have",
+            "already",
+            "again",
+            "hunger"
+        ],
+        "imtwordstex": [
+            "because",
+            "\\textsc{1sg}",
+            "have",
+            "already",
+            "again",
+            "hunger"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "\\textit{Denn}  ich  habe  schon  wieder  Hunger.",
+        "srcwordsbare": [
+            "Denn",
+            "ich",
+            "habe",
+            "schon",
+            "wieder",
+            "Hunger."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Denn</span>",
+            "ich",
+            "habe",
+            "schon",
+            "wieder",
+            "Hunger."
+        ],
+        "srcwordstex": [
+            "\\textit{Denn}",
+            "ich",
+            "habe",
+            "schon",
+            "wieder",
+            "Hunger."
+        ],
+        "trs": "Is there anything left over from lunch? Because I\u2019m already hungry again.\u2019 \\\\",
+        "wlength": 6
+    },
+    {
+        "ID": "18-595715",
+        "categories": [
+            "1sg",
+            "nom",
+            "ptcp"
+        ],
+        "clength": 41,
+        "filename": "144/chapters/18.tex",
+        "imt": "\\textsc{1sg}.\\textsc{nom}  have  two  dogs  bought.\\textsc{ptcp}",
+        "imtwordsbare": [
+            "1SG.NOM",
+            "have",
+            "two",
+            "dogs",
+            "bought.PTCP"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>.<span class=\"sc\">nom</span>",
+            "have",
+            "two",
+            "dogs",
+            "bought.<span class=\"sc\">ptcp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}.\\textsc{nom}",
+            "have",
+            "two",
+            "dogs",
+            "bought.\\textsc{ptcp}"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Ich  \\textit{habe}  zwei  Hunde  gekauft.",
+        "srcwordsbare": [
+            "Ich",
+            "habe",
+            "zwei",
+            "Hunde",
+            "gekauft."
+        ],
+        "srcwordshtml": [
+            "Ich",
+            "<span class=\"it\">habe</span>",
+            "zwei",
+            "Hunde",
+            "gekauft."
+        ],
+        "srcwordstex": [
+            "Ich",
+            "\\textit{habe}",
+            "zwei",
+            "Hunde",
+            "gekauft."
+        ],
+        "trs": "I have bought two dogs.",
+        "wlength": 5
+    },
+    {
+        "ID": "18-826702",
+        "categories": [
+            "3sg",
+            "acc",
+            "f",
+            "m",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 59,
+        "filename": "144/chapters/18.tex",
+        "imt": "\\textsc{3sg}.\\textsc{f}.\\textsc{nom}  says  that  \\textsc{3sg}.\\textsc{m}.\\textsc{nom}  this.\\textsc{acc}  book  read  have.\\textsc{sbjv}",
+        "imtwordsbare": [
+            "3SG.F.NOM",
+            "says",
+            "that",
+            "3SG.M.NOM",
+            "this.ACC",
+            "book",
+            "read",
+            "have.SBJV"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>.<span class=\"sc\">f</span>.<span class=\"sc\">nom</span>",
+            "says",
+            "that",
+            "<span class=\"sc\">3sg</span>.<span class=\"sc\">m</span>.<span class=\"sc\">nom</span>",
+            "this.<span class=\"sc\">acc</span>",
+            "book",
+            "read",
+            "have.<span class=\"sc\">sbjv</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}.\\textsc{f}.\\textsc{nom}",
+            "says",
+            "that",
+            "\\textsc{3sg}.\\textsc{m}.\\textsc{nom}",
+            "this.\\textsc{acc}",
+            "book",
+            "read",
+            "have.\\textsc{sbjv}"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Sie  sagt,  da\u00df  er  dieses  Buch  gelesen  \\textit{h\u00e4tte}.",
+        "srcwordsbare": [
+            "Sie",
+            "sagt,",
+            "da\u00df",
+            "er",
+            "dieses",
+            "Buch",
+            "gelesen",
+            "h\u00e4tte."
+        ],
+        "srcwordshtml": [
+            "Sie",
+            "sagt,",
+            "da\u00df",
+            "er",
+            "dieses",
+            "Buch",
+            "gelesen",
+            "<span class=\"it\">h\u00e4tte</span>."
+        ],
+        "srcwordstex": [
+            "Sie",
+            "sagt,",
+            "da\u00df",
+            "er",
+            "dieses",
+            "Buch",
+            "gelesen",
+            "\\textit{h\u00e4tte}."
+        ],
+        "trs": "She says that he has read this book.",
+        "wlength": 8
+    },
+    {
+        "ID": "18--23555",
+        "categories": [],
+        "clength": 38,
+        "filename": "144/chapters/18.tex",
+        "imt": "\u2014  because  she  a  mouse  saw",
+        "imtwordsbare": [
+            "\u2014",
+            "because",
+            "she",
+            "a",
+            "mouse",
+            "saw"
+        ],
+        "imtwordshtml": [
+            "\u2014",
+            "because",
+            "she",
+            "a",
+            "mouse",
+            "saw"
+        ],
+        "imtwordstex": [
+            "\u2014",
+            "because",
+            "she",
+            "a",
+            "mouse",
+            "saw"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "\u2014 \\textit{Weil}  sie  eine  Maus  sah.",
+        "srcwordsbare": [
+            "\u2014",
+            "Weil",
+            "sie",
+            "eine",
+            "Maus",
+            "sah."
+        ],
+        "srcwordshtml": [
+            "\u2014",
+            "<span class=\"it\">Weil</span>",
+            "sie",
+            "eine",
+            "Maus",
+            "sah."
+        ],
+        "srcwordstex": [
+            "\u2014",
+            "\\textit{Weil}",
+            "sie",
+            "eine",
+            "Maus",
+            "sah."
+        ],
+        "trs": "Why did the cat jump? \u2014 Because it saw a mouse.\u2019 \\\\",
+        "wlength": 6
+    },
+    {
+        "ID": "18--25122",
+        "categories": [],
+        "clength": 38,
+        "filename": "144/chapters/18.tex",
+        "imt": "rather  he  had  still  to  do",
+        "imtwordsbare": [
+            "rather",
+            "he",
+            "had",
+            "still",
+            "to",
+            "do"
+        ],
+        "imtwordshtml": [
+            "rather",
+            "he",
+            "had",
+            "still",
+            "to",
+            "do"
+        ],
+        "imtwordstex": [
+            "rather",
+            "he",
+            "had",
+            "still",
+            "to",
+            "do"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "{}[Sondern  er  hatte  noch  zu  tun.]",
+        "srcwordsbare": [
+            "{}[Sondern",
+            "er",
+            "hatte",
+            "noch",
+            "zu",
+            "tun.]"
+        ],
+        "srcwordshtml": [
+            "{}[Sondern",
+            "er",
+            "hatte",
+            "noch",
+            "zu",
+            "tun.]"
+        ],
+        "srcwordstex": [
+            "{}[Sondern",
+            "er",
+            "hatte",
+            "noch",
+            "zu",
+            "tun.]"
+        ],
+        "trs": "Paul wasn\u2019t late because he missed the bus. [But rather, because he still had work to do.]\u2019 \\\\",
+        "wlength": 6
+    },
+    {
+        "ID": "18--58137",
+        "categories": [],
+        "clength": 54,
+        "filename": "144/chapters/18.tex",
+        "imt": "who  came  too  late  because  he the bus missed has",
+        "imtwordsbare": [
+            "who",
+            "came",
+            "too",
+            "late",
+            "because",
+            "he",
+            "the",
+            "bus",
+            "missed",
+            "has"
+        ],
+        "imtwordshtml": [
+            "who",
+            "came",
+            "too",
+            "late",
+            "because",
+            "he",
+            "the",
+            "bus",
+            "missed",
+            "has"
+        ],
+        "imtwordstex": [
+            "who",
+            "came",
+            "too",
+            "late",
+            "because",
+            "he",
+            "the",
+            "bus",
+            "missed",
+            "has"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Wer kam zu sp\u00e4t, \\textit{weil} er den Bus verpa\u00dft hat?",
+        "srcwordsbare": [
+            "Wer",
+            "kam",
+            "zu",
+            "sp\u00e4t,",
+            "weil",
+            "er",
+            "den",
+            "Bus",
+            "verpa\u00dft",
+            "hat?"
+        ],
+        "srcwordshtml": [
+            "Wer",
+            "kam",
+            "zu",
+            "sp\u00e4t,",
+            "<span class=\"it\">weil</span>",
+            "er",
+            "den",
+            "Bus",
+            "verpa\u00dft",
+            "hat?"
+        ],
+        "srcwordstex": [
+            "Wer",
+            "kam",
+            "zu",
+            "sp\u00e4t,",
+            "\\textit{weil}",
+            "er",
+            "den",
+            "Bus",
+            "verpa\u00dft",
+            "hat?"
+        ],
+        "trs": "Who was late because he missed the bus?\u2019 \\\\",
+        "wlength": 10
+    },
+    {
+        "ID": "18-607749",
+        "categories": [
+            "1sg",
+            "comp",
+            "neg"
+        ],
+        "clength": 91,
+        "filename": "144/chapters/18.tex",
+        "imt": "\\textsc{1sg}  believe  \\textsc{neg}  \\textsc{comp}  Peter  to  home  goes  because  he  headache  has",
+        "imtwordsbare": [
+            "1SG",
+            "believe",
+            "NEG",
+            "COMP",
+            "Peter",
+            "to",
+            "home",
+            "goes",
+            "because",
+            "he",
+            "headache",
+            "has"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "believe",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">comp</span>",
+            "Peter",
+            "to",
+            "home",
+            "goes",
+            "because",
+            "he",
+            "headache",
+            "has"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "believe",
+            "\\textsc{neg}",
+            "\\textsc{comp}",
+            "Peter",
+            "to",
+            "home",
+            "goes",
+            "because",
+            "he",
+            "headache",
+            "has"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Ich  glaube  nicht,  da\u00df  Peter  nach  Hause  geht,  \\textit{weil}  er  Kopfschmerzen  hat.",
+        "srcwordsbare": [
+            "Ich",
+            "glaube",
+            "nicht,",
+            "da\u00df",
+            "Peter",
+            "nach",
+            "Hause",
+            "geht,",
+            "weil",
+            "er",
+            "Kopfschmerzen",
+            "hat."
+        ],
+        "srcwordshtml": [
+            "Ich",
+            "glaube",
+            "nicht,",
+            "da\u00df",
+            "Peter",
+            "nach",
+            "Hause",
+            "geht,",
+            "<span class=\"it\">weil</span>",
+            "er",
+            "Kopfschmerzen",
+            "hat."
+        ],
+        "srcwordstex": [
+            "Ich",
+            "glaube",
+            "nicht,",
+            "da\u00df",
+            "Peter",
+            "nach",
+            "Hause",
+            "geht,",
+            "\\textit{weil}",
+            "er",
+            "Kopfschmerzen",
+            "hat."
+        ],
+        "trs": "I don\u2019t believe that Peter is going home because he has a headache.\u2019 \\\\",
+        "wlength": 12
+    },
+    {
+        "ID": "18--58799",
+        "categories": [],
+        "clength": 71,
+        "filename": "144/chapters/18.tex",
+        "imt": "yes the whole street stands under water because it rained has",
+        "imtwordsbare": [
+            "yes",
+            "the",
+            "whole",
+            "street",
+            "stands",
+            "under",
+            "water",
+            "because",
+            "it",
+            "rained",
+            "has"
+        ],
+        "imtwordshtml": [
+            "yes",
+            "the",
+            "whole",
+            "street",
+            "stands",
+            "under",
+            "water",
+            "because",
+            "it",
+            "rained",
+            "has"
+        ],
+        "imtwordstex": [
+            "yes",
+            "the",
+            "whole",
+            "street",
+            "stands",
+            "under",
+            "water",
+            "because",
+            "it",
+            "rained",
+            "has"
+        ],
+        "language": "144/chapters/18.tex",
+        "src": "Ja, die ganze Stra\u00dfe steht unter Wasser, \\textit{weil} es geregnet hat.",
+        "srcwordsbare": [
+            "Ja,",
+            "die",
+            "ganze",
+            "Stra\u00dfe",
+            "steht",
+            "unter",
+            "Wasser,",
+            "weil",
+            "es",
+            "geregnet",
+            "hat."
+        ],
+        "srcwordshtml": [
+            "Ja,",
+            "die",
+            "ganze",
+            "Stra\u00dfe",
+            "steht",
+            "unter",
+            "Wasser,",
+            "<span class=\"it\">weil</span>",
+            "es",
+            "geregnet",
+            "hat."
+        ],
+        "srcwordstex": [
+            "Ja,",
+            "die",
+            "ganze",
+            "Stra\u00dfe",
+            "steht",
+            "unter",
+            "Wasser,",
+            "\\textit{weil}",
+            "es",
+            "geregnet",
+            "hat."
+        ],
+        "trs": "It rained a lot today.\u2019\\\\",
+        "wlength": 11
+    }
+]

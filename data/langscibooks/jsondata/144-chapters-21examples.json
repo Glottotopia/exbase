@@ -1,0 +1,569 @@
+[
+    {
+        "ID": "21--88509",
+        "categories": [
+            "1sg",
+            "2sg",
+            "fut",
+            "past",
+            "sbjv"
+        ],
+        "clength": 34,
+        "filename": "144/chapters/21.tex",
+        "imt": "when  \\textsc{2sg}  arrive.\\textsc{fut.sbjv}  \\textsc{1sg}  already  leave.\\textsc{past}",
+        "imtwordsbare": [
+            "when",
+            "2SG",
+            "arrive.fut.sbjv",
+            "1SG",
+            "already",
+            "leave.PAST"
+        ],
+        "imtwordshtml": [
+            "when",
+            "<span class=\"sc\">2sg</span>",
+            "arrive.<span class=\"sc\">fut.sbjv</span>",
+            "<span class=\"sc\">1sg</span>",
+            "already",
+            "leave.<span class=\"sc\">past</span>"
+        ],
+        "imtwordstex": [
+            "when",
+            "\\textsc{2sg}",
+            "arrive.\\textsc{fut.sbjv}",
+            "\\textsc{1sg}",
+            "already",
+            "leave.\\textsc{past}"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "Quando  voc\u00ea  chegar, eu  j\u00e1  sa\u00ed.",
+        "srcwordsbare": [
+            "Quando",
+            "voc\u00ea",
+            "chegar,",
+            "eu",
+            "j\u00e1",
+            "sa\u00ed."
+        ],
+        "srcwordshtml": [
+            "Quando",
+            "voc\u00ea",
+            "chegar,",
+            "eu",
+            "j\u00e1",
+            "sa\u00ed."
+        ],
+        "srcwordstex": [
+            "Quando",
+            "voc\u00ea",
+            "chegar,",
+            "eu",
+            "j\u00e1",
+            "sa\u00ed."
+        ],
+        "trs": "When you arrive, I will already have left.\u2019   [{Brazilian} {Portuguese}]",
+        "wlength": 6
+    },
+    {
+        "ID": "21--79414",
+        "categories": [
+            "1subj",
+            "acc",
+            "past",
+            "pres"
+        ],
+        "clength": 42,
+        "filename": "144/chapters/21.tex",
+        "imt": "Mary  Agato-in  live-\\textsc{pres}-\\textsc{acc}  believe-\\textsc{past}-\\textsc{1subj}",
+        "imtwordsbare": [
+            "Mary",
+            "Agato-in",
+            "live-PRES-ACC",
+            "believe-PAST-1SUBJ"
+        ],
+        "imtwordshtml": [
+            "Mary",
+            "Agato-in",
+            "live-<span class=\"sc\">pres</span>-<span class=\"sc\">acc</span>",
+            "believe-<span class=\"sc\">past</span>-<span class=\"sc\">1subj</span>"
+        ],
+        "imtwordstex": [
+            "Mary",
+            "Agato-in",
+            "live-\\textsc{pres}-\\textsc{acc}",
+            "believe-\\textsc{past}-\\textsc{1subj}"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "[Marya  Agatu-pi  kawsa-j]-ta  kri-rka-ni.",
+        "srcwordsbare": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-j]-ta",
+            "kri-rka-ni."
+        ],
+        "srcwordshtml": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-j]-ta",
+            "kri-rka-ni."
+        ],
+        "srcwordstex": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-j]-ta",
+            "kri-rka-ni."
+        ],
+        "trs": "I believed that Mary was living (at that time) in Agato.",
+        "wlength": 4
+    },
+    {
+        "ID": "21-773882",
+        "categories": [
+            "1subj",
+            "acc",
+            "past"
+        ],
+        "clength": 45,
+        "filename": "144/chapters/21.tex",
+        "imt": "Mary  Agato-in  live-\\textsc{past}-\\textsc{acc}  believe-\\textsc{past}-\\textsc{1subj}",
+        "imtwordsbare": [
+            "Mary",
+            "Agato-in",
+            "live-PAST-ACC",
+            "believe-PAST-1SUBJ"
+        ],
+        "imtwordshtml": [
+            "Mary",
+            "Agato-in",
+            "live-<span class=\"sc\">past</span>-<span class=\"sc\">acc</span>",
+            "believe-<span class=\"sc\">past</span>-<span class=\"sc\">1subj</span>"
+        ],
+        "imtwordstex": [
+            "Mary",
+            "Agato-in",
+            "live-\\textsc{past}-\\textsc{acc}",
+            "believe-\\textsc{past}-\\textsc{1subj}"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "[Marya  Agatu-pi  kawsa-shka]-ta  kri-rka-ni.",
+        "srcwordsbare": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-shka]-ta",
+            "kri-rka-ni."
+        ],
+        "srcwordshtml": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-shka]-ta",
+            "kri-rka-ni."
+        ],
+        "srcwordstex": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-shka]-ta",
+            "kri-rka-ni."
+        ],
+        "trs": "I believed that Mary had lived (at some previous time) in Agato.",
+        "wlength": 4
+    },
+    {
+        "ID": "21-757339",
+        "categories": [
+            "1subj",
+            "acc",
+            "fut",
+            "past"
+        ],
+        "clength": 43,
+        "filename": "144/chapters/21.tex",
+        "imt": "Mary  Agato-in  live-\\textsc{fut}-\\textsc{acc}  believe-\\textsc{past}-\\textsc{1subj}",
+        "imtwordsbare": [
+            "Mary",
+            "Agato-in",
+            "live-FUT-ACC",
+            "believe-PAST-1SUBJ"
+        ],
+        "imtwordshtml": [
+            "Mary",
+            "Agato-in",
+            "live-<span class=\"sc\">fut</span>-<span class=\"sc\">acc</span>",
+            "believe-<span class=\"sc\">past</span>-<span class=\"sc\">1subj</span>"
+        ],
+        "imtwordstex": [
+            "Mary",
+            "Agato-in",
+            "live-\\textsc{fut}-\\textsc{acc}",
+            "believe-\\textsc{past}-\\textsc{1subj}"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "[Marya  Agatu-pi  kawsa-na]-ta  kri-rka-ni.",
+        "srcwordsbare": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-na]-ta",
+            "kri-rka-ni."
+        ],
+        "srcwordshtml": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-na]-ta",
+            "kri-rka-ni."
+        ],
+        "srcwordstex": [
+            "[Marya",
+            "Agatu-pi",
+            "kawsa-na]-ta",
+            "kri-rka-ni."
+        ],
+        "trs": "I believed that Mary would (some day) live in Agato.",
+        "wlength": 4
+    },
+    {
+        "ID": "21-140370",
+        "categories": [
+            "3",
+            "fut",
+            "neg",
+            "past",
+            "pfv",
+            "ptcp"
+        ],
+        "clength": 48,
+        "filename": "144/chapters/21.tex",
+        "imt": "cross-\\textsc{fut.ptcp}  Rhine  provisions  \\textsc{neg}  send.over-\\textsc{past.pfv.3}sg",
+        "imtwordsbare": [
+            "cross-fut.ptcp",
+            "Rhine",
+            "provisions",
+            "NEG",
+            "send.over-past.pfv.3sg"
+        ],
+        "imtwordshtml": [
+            "cross-<span class=\"sc\">fut.ptcp</span>",
+            "Rhine",
+            "provisions",
+            "<span class=\"sc\">neg</span>",
+            "send.over-<span class=\"sc\">past.pfv.3</span>sg"
+        ],
+        "imtwordstex": [
+            "cross-\\textsc{fut.ptcp}",
+            "Rhine",
+            "provisions",
+            "\\textsc{neg}",
+            "send.over-\\textsc{past.pfv.3}sg"
+        ],
+        "language": "144/chapters/21.tex",
+        "polarity": "negative",
+        "src": "Tr\u0101iect\u016brus  Rh\u0113num  comme\u0101tum  n\u014dn  tr\u0101nsm\u012bsit.",
+        "srcwordsbare": [
+            "Tr\u0101iect\u016brus",
+            "Rh\u0113num",
+            "comme\u0101tum",
+            "n\u014dn",
+            "tr\u0101nsm\u012bsit."
+        ],
+        "srcwordshtml": [
+            "Tr\u0101iect\u016brus",
+            "Rh\u0113num",
+            "comme\u0101tum",
+            "n\u014dn",
+            "tr\u0101nsm\u012bsit."
+        ],
+        "srcwordstex": [
+            "Tr\u0101iect\u016brus",
+            "Rh\u0113num",
+            "comme\u0101tum",
+            "n\u014dn",
+            "tr\u0101nsm\u012bsit."
+        ],
+        "trs": "Being about to cross the Rhine, he did not send over the provisions.\u2019\\footnote{Suetonius; cited in \\citet[61]{Comrie1985}.} \\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "21-190107",
+        "categories": [
+            "3",
+            "pl",
+            "pres",
+            "pst",
+            "ptcp"
+        ],
+        "clength": 53,
+        "filename": "144/chapters/21.tex",
+        "imt": "little.bit  delay-\\textsc{pst.ptcp}  signal.\\textsc{pl}  to.sound  order-\\textsc{pres.3}sg",
+        "imtwordsbare": [
+            "little.bit",
+            "delay-pst.ptcp",
+            "signal.PL",
+            "to.sound",
+            "order-pres.3sg"
+        ],
+        "imtwordshtml": [
+            "little.bit",
+            "delay-<span class=\"sc\">pst.ptcp</span>",
+            "signal.<span class=\"sc\">pl</span>",
+            "to.sound",
+            "order-<span class=\"sc\">pres.3</span>sg"
+        ],
+        "imtwordstex": [
+            "little.bit",
+            "delay-\\textsc{pst.ptcp}",
+            "signal.\\textsc{pl}",
+            "to.sound",
+            "order-\\textsc{pres.3}sg"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "Paululum  \\textit{commor\u0101tus},  s\u012bgna  canere  iubet.",
+        "srcwordsbare": [
+            "Paululum",
+            "commor\u0101tus,",
+            "s\u012bgna",
+            "canere",
+            "iubet."
+        ],
+        "srcwordshtml": [
+            "Paululum",
+            "<span class=\"it\">commor\u0101tus</span>,",
+            "s\u012bgna",
+            "canere",
+            "iubet."
+        ],
+        "srcwordstex": [
+            "Paululum",
+            "\\textit{commor\u0101tus},",
+            "s\u012bgna",
+            "canere",
+            "iubet."
+        ],
+        "trs": "Having delayed a little while, he orders them to give the signal.\u2019\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "21-778756",
+        "categories": [
+            "1sg"
+        ],
+        "clength": 34,
+        "filename": "144/chapters/21.tex",
+        "imt": "John  said  \\textsc{1sg}  will.leave  tomorrow",
+        "imtwordsbare": [
+            "John",
+            "said",
+            "1SG",
+            "will.leave",
+            "tomorrow"
+        ],
+        "imtwordshtml": [
+            "John",
+            "said",
+            "<span class=\"sc\">1sg</span>",
+            "will.leave",
+            "tomorrow"
+        ],
+        "imtwordstex": [
+            "John",
+            "said",
+            "\\textsc{1sg}",
+            "will.leave",
+            "tomorrow"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "D\u017eon  skazal:  \u201cJa  ujdu  zavtra.\u201d",
+        "srcwordsbare": [
+            "D\u017eon",
+            "skazal:",
+            "\u201cJa",
+            "ujdu",
+            "zavtra.\u201d"
+        ],
+        "srcwordshtml": [
+            "D\u017eon",
+            "skazal:",
+            "\u201cJa",
+            "ujdu",
+            "zavtra.\u201d"
+        ],
+        "srcwordstex": [
+            "D\u017eon",
+            "skazal:",
+            "\u201cJa",
+            "ujdu",
+            "zavtra.\u201d"
+        ],
+        "trs": "John said, \u201cI will leave tomorrow.\u201d \\hfill  [\\textsc{direct}]",
+        "wlength": 5
+    },
+    {
+        "ID": "21-960469",
+        "categories": [
+            "3sg",
+            "comp"
+        ],
+        "clength": 52,
+        "filename": "144/chapters/21.tex",
+        "imt": "John  said  \\textsc{comp}  \\textsc{3sg}  will.leave  on  next  day",
+        "imtwordsbare": [
+            "John",
+            "said",
+            "COMP",
+            "3SG",
+            "will.leave",
+            "on",
+            "next",
+            "day"
+        ],
+        "imtwordshtml": [
+            "John",
+            "said",
+            "<span class=\"sc\">comp</span>",
+            "<span class=\"sc\">3sg</span>",
+            "will.leave",
+            "on",
+            "next",
+            "day"
+        ],
+        "imtwordstex": [
+            "John",
+            "said",
+            "\\textsc{comp}",
+            "\\textsc{3sg}",
+            "will.leave",
+            "on",
+            "next",
+            "day"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "D\u017eon  skazal,  \u010dto  on  ujdet  na  sleduju\u0161\u010dij  den.",
+        "srcwordsbare": [
+            "D\u017eon",
+            "skazal,",
+            "\u010dto",
+            "on",
+            "ujdet",
+            "na",
+            "sleduju\u0161\u010dij",
+            "den."
+        ],
+        "srcwordshtml": [
+            "D\u017eon",
+            "skazal,",
+            "\u010dto",
+            "on",
+            "ujdet",
+            "na",
+            "sleduju\u0161\u010dij",
+            "den."
+        ],
+        "srcwordstex": [
+            "D\u017eon",
+            "skazal,",
+            "\u010dto",
+            "on",
+            "ujdet",
+            "na",
+            "sleduju\u0161\u010dij",
+            "den."
+        ],
+        "trs": "John said that he would leave (lit: will leave) on the following day. \\\\",
+        "wlength": 8
+    },
+    {
+        "ID": "21--52367",
+        "categories": [
+            "",
+            "1sg",
+            "past"
+        ],
+        "clength": 16,
+        "filename": "144/chapters/21.tex",
+        "imt": "work-\\textsc{1sg}\\textsc{.past}",
+        "imtwordsbare": [
+            "work-1SG.past"
+        ],
+        "imtwordshtml": [
+            "work-<span class=\"sc\">1sg</span><span class=\"sc\">.past</span>"
+        ],
+        "imtwordstex": [
+            "work-\\textsc{1sg}\\textsc{.past}"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "dirb-\\textit{au}",
+        "srcwordsbare": [
+            "dirb-au"
+        ],
+        "srcwordshtml": [
+            "dirb-<span class=\"it\">au</span>"
+        ],
+        "srcwordstex": [
+            "dirb-\\textit{au}"
+        ],
+        "trs": "I worked/ was working",
+        "wlength": 1
+    },
+    {
+        "ID": "21--11629",
+        "categories": [
+            "",
+            "1sg",
+            "present"
+        ],
+        "clength": 15,
+        "filename": "144/chapters/21.tex",
+        "imt": "work-\\textsc{1sg}\\textsc{.present}",
+        "imtwordsbare": [
+            "work-1SG.present"
+        ],
+        "imtwordshtml": [
+            "work-<span class=\"sc\">1sg</span><span class=\"sc\">.present</span>"
+        ],
+        "imtwordstex": [
+            "work-\\textsc{1sg}\\textsc{.present}"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "dirb-\\textit{u}",
+        "srcwordsbare": [
+            "dirb-u"
+        ],
+        "srcwordshtml": [
+            "dirb-<span class=\"it\">u</span>"
+        ],
+        "srcwordstex": [
+            "dirb-\\textit{u}"
+        ],
+        "trs": "I work/ am working\u2019\\\\",
+        "wlength": 1
+    },
+    {
+        "ID": "21-378103",
+        "categories": [
+            "1sg",
+            "future"
+        ],
+        "clength": 18,
+        "filename": "144/chapters/21.tex",
+        "imt": "work-\\textsc{future}-\\textsc{1sg}",
+        "imtwordsbare": [
+            "work-FUTURE-1SG"
+        ],
+        "imtwordshtml": [
+            "work-<span class=\"sc\">future</span>-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "work-\\textsc{future}-\\textsc{1sg}"
+        ],
+        "language": "144/chapters/21.tex",
+        "src": "dirb-\\textit{s}-iu",
+        "srcwordsbare": [
+            "dirb-s-iu"
+        ],
+        "srcwordshtml": [
+            "dirb-<span class=\"it\">s</span>-iu"
+        ],
+        "srcwordstex": [
+            "dirb-\\textit{s}-iu"
+        ],
+        "trs": "I will work/ will be working",
+        "wlength": 1
+    }
+]

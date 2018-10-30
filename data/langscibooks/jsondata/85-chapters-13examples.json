@@ -1,0 +1,2917 @@
+[
+    {
+        "ID": "13--30051",
+        "categories": [
+            "2sg",
+            "3sg",
+            "def",
+            "neg",
+            "obj",
+            "pot"
+        ],
+        "clength": 53,
+        "filename": "85/chapters/13.tex",
+        "imt": "because  first    \\textsc{def}  patience    \\textsc{2sg}  \\textsc{neg}  \\textsc{pot}  get=\\textsc{3sg.obj}",
+        "imtwordsbare": [
+            "because",
+            "first",
+            "DEF",
+            "patience",
+            "2SG",
+            "NEG",
+            "POT",
+            "get=3sg.obj"
+        ],
+        "imtwordshtml": [
+            "because",
+            "first",
+            "<span class=\"sc\">def</span>",
+            "patience",
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">pot</span>",
+            "get=<span class=\"sc\">3sg.obj</span>"
+        ],
+        "imtwordstex": [
+            "because",
+            "first",
+            "\\textsc{def}",
+            "patience",
+            "\\textsc{2sg}",
+            "\\textsc{neg}",
+            "\\textsc{pot}",
+            "get=\\textsc{3sg.obj}"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Porque  f\u0254\u0301s,    di  paciencia,  yu  n\u00f3  go  g\u025b\u0301t=an.",
+        "srcwordsbare": [
+            "Porque",
+            "f\u0254\u0301s,",
+            "di",
+            "paciencia,",
+            "yu",
+            "n\u00f3",
+            "go",
+            "g\u025b\u0301t=an."
+        ],
+        "srcwordshtml": [
+            "Porque",
+            "f\u0254\u0301s,",
+            "di",
+            "paciencia,",
+            "yu",
+            "n\u00f3",
+            "go",
+            "g\u025b\u0301t=an."
+        ],
+        "srcwordstex": [
+            "Porque",
+            "f\u0254\u0301s,",
+            "di",
+            "paciencia,",
+            "yu",
+            "n\u00f3",
+            "go",
+            "g\u025b\u0301t=an."
+        ],
+        "trs": "Because first, the patience, you wouldn\u2019t have it.\u2019 [fr03ft 189]",
+        "wlength": 8
+    },
+    {
+        "ID": "13--77005",
+        "categories": [
+            "2pl",
+            "def",
+            "pl"
+        ],
+        "clength": 112,
+        "filename": "85/chapters/13.tex",
+        "imt": "then  \\textsc{2pl}  buy  \\textsc{def}  bricks  \\textsc{pl}  tomorrow",
+        "imtwordsbare": [
+            "then",
+            "2PL",
+            "buy",
+            "DEF",
+            "bricks",
+            "PL",
+            "tomorrow"
+        ],
+        "imtwordshtml": [
+            "then",
+            "<span class=\"sc\">2pl</span>",
+            "buy",
+            "<span class=\"sc\">def</span>",
+            "bricks",
+            "<span class=\"sc\">pl</span>",
+            "tomorrow"
+        ],
+        "imtwordstex": [
+            "then",
+            "\\textsc{2pl}",
+            "buy",
+            "\\textsc{def}",
+            "bricks",
+            "\\textsc{pl}",
+            "tomorrow"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\\'{A}fta    una  b\u00e1y  di  \\textstylePichiexamplebold{\\textit{bloques}}  \\textstylePichiexamplebold{d\u025bn}  tum\u00e1ra.",
+        "srcwordsbare": [
+            "\\'{A}fta",
+            "una",
+            "b\u00e1y",
+            "di",
+            "\\textit{bloques}",
+            "d\u025bn",
+            "tum\u00e1ra."
+        ],
+        "srcwordshtml": [
+            "\\'{A}fta",
+            "una",
+            "b\u00e1y",
+            "di",
+            "<span class=\"stylePichiexamplebold\">\\textit{bloques</span>}",
+            "<span class=\"stylePichiexamplebold\">d\u025bn</span>",
+            "tum\u00e1ra."
+        ],
+        "srcwordstex": [
+            "\\'{A}fta",
+            "una",
+            "b\u00e1y",
+            "di",
+            "\\textstylePichiexamplebold{\\textit{bloques}}",
+            "\\textstylePichiexamplebold{d\u025bn}",
+            "tum\u00e1ra."
+        ],
+        "trs": "Then you [plural] buy the bricks tomorrow.\u2019 [fr03cd 112]",
+        "wlength": 7
+    },
+    {
+        "ID": "13-785905",
+        "categories": [
+            "1sg",
+            "3sg",
+            "indp",
+            "sbj"
+        ],
+        "clength": 82,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1sg.sbj}  grate  \\textsc{3sg.indp}  with    grater",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "grate",
+            "3sg.indp",
+            "with",
+            "grater"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "grate",
+            "<span class=\"sc\">3sg.indp</span>",
+            "with",
+            "grater"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "grate",
+            "\\textsc{3sg.indp}",
+            "with",
+            "grater"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "A    \\textit{ralla}    \u00edn    wet    \\textstylePichiexamplebold{\\textit{rallador}}.",
+        "srcwordsbare": [
+            "A",
+            "ralla",
+            "\u00edn",
+            "wet",
+            "\\textit{rallador}."
+        ],
+        "srcwordshtml": [
+            "A",
+            "<span class=\"it\">ralla</span>",
+            "\u00edn",
+            "wet",
+            "<span class=\"stylePichiexamplebold\">\\textit{rallador</span>}."
+        ],
+        "srcwordstex": [
+            "A",
+            "\\textit{ralla}",
+            "\u00edn",
+            "wet",
+            "\\textstylePichiexamplebold{\\textit{rallador}}."
+        ],
+        "trs": "I grated it with a grater.\u2019 [dj03do 004]",
+        "wlength": 5
+    },
+    {
+        "ID": "13-834136",
+        "categories": [
+            "2sg",
+            "pl",
+            "pot"
+        ],
+        "clength": 23,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{2sg}  \\textsc{pot}  get  proof-\\textsc{pl}",
+        "imtwordsbare": [
+            "2SG",
+            "POT",
+            "get",
+            "proof-PL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">pot</span>",
+            "get",
+            "proof-<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "\\textsc{pot}",
+            "get",
+            "proof-\\textsc{pl}"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Yu  go  g\u025b\u0301t  prueba-s.",
+        "srcwordsbare": [
+            "Yu",
+            "go",
+            "g\u025b\u0301t",
+            "prueba-s."
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "go",
+            "g\u025b\u0301t",
+            "prueba-s."
+        ],
+        "srcwordstex": [
+            "Yu",
+            "go",
+            "g\u025b\u0301t",
+            "prueba-s."
+        ],
+        "trs": "You will have proof.\u2019 [ma03sh 013]",
+        "wlength": 4
+    },
+    {
+        "ID": "13-884658",
+        "categories": [
+            "3sg",
+            "foc",
+            "sbj"
+        ],
+        "clength": 108,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{foc}  translation  direct  \\textsc{3sg.sbj}  make",
+        "imtwordsbare": [
+            "FOC",
+            "translation",
+            "direct",
+            "3sg.sbj",
+            "make"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">foc</span>",
+            "translation",
+            "direct",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "make"
+        ],
+        "imtwordstex": [
+            "\\textsc{foc}",
+            "translation",
+            "direct",
+            "\\textsc{3sg.sbj}",
+            "make"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Na  \\textstylePichiexamplebold{\\textit{traducci\u00f3n}}  \\textstylePichiexamplebold{\\textit{directa}}  e    m\u00e9k.",
+        "srcwordsbare": [
+            "Na",
+            "\\textit{traducci\u00f3n}",
+            "\\textit{directa}",
+            "e",
+            "m\u00e9k."
+        ],
+        "srcwordshtml": [
+            "Na",
+            "<span class=\"stylePichiexamplebold\">\\textit{traducci\u00f3n</span>}",
+            "<span class=\"stylePichiexamplebold\">\\textit{directa</span>}",
+            "e",
+            "m\u00e9k."
+        ],
+        "srcwordstex": [
+            "Na",
+            "\\textstylePichiexamplebold{\\textit{traducci\u00f3n}}",
+            "\\textstylePichiexamplebold{\\textit{directa}}",
+            "e",
+            "m\u00e9k."
+        ],
+        "trs": "It\u2019s a direct translation that she made.\u2019 [to03gm 042]",
+        "wlength": 5
+    },
+    {
+        "ID": "13-215095",
+        "categories": [
+            "2sg",
+            "cond",
+            "pfv",
+            "prf",
+            "pst"
+        ],
+        "clength": 147,
+        "filename": "85/chapters/13.tex",
+        "imt": "if  \\textsc{2sg}  \\textsc{pst}  \\textsc{pfv}  begin  last  week  \\textsc{2sg}  \\textsc{pst}  \\textsc{cond}    \\textsc{prf}  finish  today",
+        "imtwordsbare": [
+            "if",
+            "2SG",
+            "PST",
+            "PFV",
+            "begin",
+            "last",
+            "week",
+            "2SG",
+            "PST",
+            "COND",
+            "PRF",
+            "finish",
+            "today"
+        ],
+        "imtwordshtml": [
+            "if",
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">pfv</span>",
+            "begin",
+            "last",
+            "week",
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">cond</span>",
+            "<span class=\"sc\">prf</span>",
+            "finish",
+            "today"
+        ],
+        "imtwordstex": [
+            "if",
+            "\\textsc{2sg}",
+            "\\textsc{pst}",
+            "\\textsc{pfv}",
+            "begin",
+            "last",
+            "week",
+            "\\textsc{2sg}",
+            "\\textsc{pst}",
+            "\\textsc{cond}",
+            "\\textsc{prf}",
+            "finish",
+            "today"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\u0190f  yu  bin  k\u00e1n  big\u00edn  \\textstylePichiexamplebold{\\textit{las}}  \\textstylePichiexamplebold{\\textit{semana}}  yu  bin  f\u0254    d\u0254\u0301n  f\u00ednis    tid\u00e9.",
+        "srcwordsbare": [
+            "\u0190f",
+            "yu",
+            "bin",
+            "k\u00e1n",
+            "big\u00edn",
+            "\\textit{las}",
+            "\\textit{semana}",
+            "yu",
+            "bin",
+            "f\u0254",
+            "d\u0254\u0301n",
+            "f\u00ednis",
+            "tid\u00e9."
+        ],
+        "srcwordshtml": [
+            "\u0190f",
+            "yu",
+            "bin",
+            "k\u00e1n",
+            "big\u00edn",
+            "<span class=\"stylePichiexamplebold\">\\textit{las</span>}",
+            "<span class=\"stylePichiexamplebold\">\\textit{semana</span>}",
+            "yu",
+            "bin",
+            "f\u0254",
+            "d\u0254\u0301n",
+            "f\u00ednis",
+            "tid\u00e9."
+        ],
+        "srcwordstex": [
+            "\u0190f",
+            "yu",
+            "bin",
+            "k\u00e1n",
+            "big\u00edn",
+            "\\textstylePichiexamplebold{\\textit{las}}",
+            "\\textstylePichiexamplebold{\\textit{semana}}",
+            "yu",
+            "bin",
+            "f\u0254",
+            "d\u0254\u0301n",
+            "f\u00ednis",
+            "tid\u00e9."
+        ],
+        "trs": "If you had begun last week you would have been finished today.\u2019 [dj05ae 057]",
+        "wlength": 13
+    },
+    {
+        "ID": "13--11777",
+        "categories": [
+            "pot"
+        ],
+        "clength": 101,
+        "filename": "85/chapters/13.tex",
+        "imt": "this  one    \\textsc{pot}  turn    trouble  serious",
+        "imtwordsbare": [
+            "this",
+            "one",
+            "POT",
+            "turn",
+            "trouble",
+            "serious"
+        ],
+        "imtwordshtml": [
+            "this",
+            "one",
+            "<span class=\"sc\">pot</span>",
+            "turn",
+            "trouble",
+            "serious"
+        ],
+        "imtwordstex": [
+            "this",
+            "one",
+            "\\textsc{pot}",
+            "turn",
+            "trouble",
+            "serious"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "D\u00ed  w\u00e1n    go  t\u0254\u0301n    \\textstylePichiexamplebold{pl\u00e1ba}  \\textstylePichiexamplebold{\\textit{serio}}.",
+        "srcwordsbare": [
+            "D\u00ed",
+            "w\u00e1n",
+            "go",
+            "t\u0254\u0301n",
+            "pl\u00e1ba",
+            "\\textit{serio}."
+        ],
+        "srcwordshtml": [
+            "D\u00ed",
+            "w\u00e1n",
+            "go",
+            "t\u0254\u0301n",
+            "<span class=\"stylePichiexamplebold\">pl\u00e1ba</span>",
+            "<span class=\"stylePichiexamplebold\">\\textit{serio</span>}."
+        ],
+        "srcwordstex": [
+            "D\u00ed",
+            "w\u00e1n",
+            "go",
+            "t\u0254\u0301n",
+            "\\textstylePichiexamplebold{pl\u00e1ba}",
+            "\\textstylePichiexamplebold{\\textit{serio}}."
+        ],
+        "trs": "This will turn into real trouble.\u2019 [fr03wt 015]",
+        "wlength": 6
+    },
+    {
+        "ID": "13-300513",
+        "categories": [
+            "3sg",
+            "ipfv",
+            "sbj"
+        ],
+        "clength": 126,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{3sg.sbj}  \\textsc{ipfv}  give  one    round  quickly",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "IPFV",
+            "give",
+            "one",
+            "round",
+            "quickly"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "give",
+            "one",
+            "round",
+            "quickly"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "\\textsc{ipfv}",
+            "give",
+            "one",
+            "round",
+            "quickly"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "E    de  \\textstylePichiexamplebold{g\u00ed}  \\textstylePichiexamplebold{w\u00e1n}    \\textstylePichiexamplebold{\\textit{vuelta}}  kw\u00edk.",
+        "srcwordsbare": [
+            "E",
+            "de",
+            "g\u00ed",
+            "w\u00e1n",
+            "\\textit{vuelta}",
+            "kw\u00edk."
+        ],
+        "srcwordshtml": [
+            "E",
+            "de",
+            "<span class=\"stylePichiexamplebold\">g\u00ed</span>",
+            "<span class=\"stylePichiexamplebold\">w\u00e1n</span>",
+            "<span class=\"stylePichiexamplebold\">\\textit{vuelta</span>}",
+            "kw\u00edk."
+        ],
+        "srcwordstex": [
+            "E",
+            "de",
+            "\\textstylePichiexamplebold{g\u00ed}",
+            "\\textstylePichiexamplebold{w\u00e1n}",
+            "\\textstylePichiexamplebold{\\textit{vuelta}}",
+            "kw\u00edk."
+        ],
+        "trs": "She\u2019s taking a walk quickly.\u2019 [dj05be 120]",
+        "wlength": 6
+    },
+    {
+        "ID": "13-717987",
+        "categories": [
+            "3pl",
+            "def",
+            "hab",
+            "loc"
+        ],
+        "clength": 119,
+        "filename": "85/chapters/13.tex",
+        "imt": "from  \\textsc{loc}  here    like.that  \\textsc{3pl}  \\textsc{hab}  control  \\textsc{def}  woman",
+        "imtwordsbare": [
+            "from",
+            "LOC",
+            "here",
+            "like.that",
+            "3PL",
+            "HAB",
+            "control",
+            "DEF",
+            "woman"
+        ],
+        "imtwordshtml": [
+            "from",
+            "<span class=\"sc\">loc</span>",
+            "here",
+            "like.that",
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">hab</span>",
+            "control",
+            "<span class=\"sc\">def</span>",
+            "woman"
+        ],
+        "imtwordstex": [
+            "from",
+            "\\textsc{loc}",
+            "here",
+            "like.that",
+            "\\textsc{3pl}",
+            "\\textsc{hab}",
+            "control",
+            "\\textsc{def}",
+            "woman"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Fr\u0254n    na  y\u00e1    s\u00f3    d\u025bn  \\textstylePichiexamplebold{kin}  \\textstylePichiexamplebold{\\textit{controla}}  di  h\u00faman.",
+        "srcwordsbare": [
+            "Fr\u0254n",
+            "na",
+            "y\u00e1",
+            "s\u00f3",
+            "d\u025bn",
+            "kin",
+            "\\textit{controla}",
+            "di",
+            "h\u00faman."
+        ],
+        "srcwordshtml": [
+            "Fr\u0254n",
+            "na",
+            "y\u00e1",
+            "s\u00f3",
+            "d\u025bn",
+            "<span class=\"stylePichiexamplebold\">kin</span>",
+            "<span class=\"stylePichiexamplebold\">\\textit{controla</span>}",
+            "di",
+            "h\u00faman."
+        ],
+        "srcwordstex": [
+            "Fr\u0254n",
+            "na",
+            "y\u00e1",
+            "s\u00f3",
+            "d\u025bn",
+            "\\textstylePichiexamplebold{kin}",
+            "\\textstylePichiexamplebold{\\textit{controla}}",
+            "di",
+            "h\u00faman."
+        ],
+        "trs": "From here they control the woman.\u2019 [ed03sb 158]",
+        "wlength": 9
+    },
+    {
+        "ID": "13-869147",
+        "categories": [
+            "3sg",
+            "be",
+            "loc",
+            "neg",
+            "pot",
+            "sbj"
+        ],
+        "clength": 123,
+        "filename": "85/chapters/13.tex",
+        "imt": "person  \\textsc{pot}  understand  but  \\textsc{3sg.sbj}  \\textsc{neg}  \\textsc{be.loc}  good",
+        "imtwordsbare": [
+            "person",
+            "POT",
+            "understand",
+            "but",
+            "3sg.sbj",
+            "NEG",
+            "be.loc",
+            "good"
+        ],
+        "imtwordshtml": [
+            "person",
+            "<span class=\"sc\">pot</span>",
+            "understand",
+            "but",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">be.loc</span>",
+            "good"
+        ],
+        "imtwordstex": [
+            "person",
+            "\\textsc{pot}",
+            "understand",
+            "but",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{neg}",
+            "\\textsc{be.loc}",
+            "good"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "P\u0254\u0301sin  \\textstylePichiexamplebold{go}  \\textstylePichiexamplebold{\\textit{entiende}}    b\u0254t  e    n\u00f3  d\u00e9    \\textit{bien}.",
+        "srcwordsbare": [
+            "P\u0254\u0301sin",
+            "go",
+            "\\textit{entiende}",
+            "b\u0254t",
+            "e",
+            "n\u00f3",
+            "d\u00e9",
+            "bien."
+        ],
+        "srcwordshtml": [
+            "P\u0254\u0301sin",
+            "<span class=\"stylePichiexamplebold\">go</span>",
+            "<span class=\"stylePichiexamplebold\">\\textit{entiende</span>}",
+            "b\u0254t",
+            "e",
+            "n\u00f3",
+            "d\u00e9",
+            "<span class=\"it\">bien</span>."
+        ],
+        "srcwordstex": [
+            "P\u0254\u0301sin",
+            "\\textstylePichiexamplebold{go}",
+            "\\textstylePichiexamplebold{\\textit{entiende}}",
+            "b\u0254t",
+            "e",
+            "n\u00f3",
+            "d\u00e9",
+            "\\textit{bien}."
+        ],
+        "trs": "One would understand but it isn\u2019t good.\u2019 [dj05ae 043]",
+        "wlength": 8
+    },
+    {
+        "ID": "13--57251",
+        "categories": [
+            "3pl",
+            "3sg",
+            "obj",
+            "prf",
+            "sbj",
+            "sub"
+        ],
+        "clength": 60,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{3sg.sbj}  suffer  \\textsc{sub}  now  \\textsc{3pl}  \\textsc{prf}  leave=\\textsc{3sg.obj}  \\textsc{3sg.sbj}  \\textsc{prf}  close",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "suffer",
+            "SUB",
+            "now",
+            "3PL",
+            "PRF",
+            "leave=3sg.obj",
+            "3sg.sbj",
+            "PRF",
+            "close"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "suffer",
+            "<span class=\"sc\">sub</span>",
+            "now",
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">prf</span>",
+            "leave=<span class=\"sc\">3sg.obj</span>",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">prf</span>",
+            "close"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "suffer",
+            "\\textsc{sub}",
+            "now",
+            "\\textsc{3pl}",
+            "\\textsc{prf}",
+            "leave=\\textsc{3sg.obj}",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{prf}",
+            "close"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "E    sufre  w\u00e9  n\u00e1w  d\u025bn  d\u0254\u0301n  l\u025b\u0301f=an,    e    d\u0254\u0301n  kl\u00f3s.",
+        "srcwordsbare": [
+            "E",
+            "sufre",
+            "w\u00e9",
+            "n\u00e1w",
+            "d\u025bn",
+            "d\u0254\u0301n",
+            "l\u025b\u0301f=an,",
+            "e",
+            "d\u0254\u0301n",
+            "kl\u00f3s."
+        ],
+        "srcwordshtml": [
+            "E",
+            "sufre",
+            "w\u00e9",
+            "n\u00e1w",
+            "d\u025bn",
+            "d\u0254\u0301n",
+            "l\u025b\u0301f=an,",
+            "e",
+            "d\u0254\u0301n",
+            "kl\u00f3s."
+        ],
+        "srcwordstex": [
+            "E",
+            "sufre",
+            "w\u00e9",
+            "n\u00e1w",
+            "d\u025bn",
+            "d\u0254\u0301n",
+            "l\u025b\u0301f=an,",
+            "e",
+            "d\u0254\u0301n",
+            "kl\u00f3s."
+        ],
+        "time": "present",
+        "trs": "It [the building] suffered, while now they have abandoned it, it is closed.\u2019 [hi03cb 044]",
+        "wlength": 10
+    },
+    {
+        "ID": "13-740197",
+        "categories": [
+            "",
+            "1pl",
+            "1sg",
+            "cpd",
+            "ipfv",
+            "red",
+            "sbj"
+        ],
+        "clength": 175,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1sg.sbj}  begin  \\textsc{ipfv}  \\textsc{red.cpd-}cut.up  \\textsc{1pl}  fry  potato  \\textsc{1pl}  fry  plantain",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "begin",
+            "IPFV",
+            "red.cpd-cut.up",
+            "1PL",
+            "fry",
+            "potato",
+            "1PL",
+            "fry",
+            "plantain"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "begin",
+            "<span class=\"sc\">ipfv</span>",
+            "<span class=\"sc\">red.cpd-</span>cut.up",
+            "<span class=\"sc\">1pl</span>",
+            "fry",
+            "potato",
+            "<span class=\"sc\">1pl</span>",
+            "fry",
+            "plantain"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "begin",
+            "\\textsc{ipfv}",
+            "\\textsc{red.cpd-}cut.up",
+            "\\textsc{1pl}",
+            "fry",
+            "potato",
+            "\\textsc{1pl}",
+            "fry",
+            "plantain"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\\MakeUppercase{A}   big\u00edn  de  \\textstylePichiexamplebold{\\textit{pica}}\\textit{{}-}\\textstylePichiexamplebold{\\textit{p\u00edca}},    wi  fr\u00e1y  \\textit{patata},  wi  fr\u00e1y  plant\u00ed.",
+        "srcwordsbare": [
+            "\\MakeUppercase{A}",
+            "big\u00edn",
+            "de",
+            "\\textit{pica}{-}\\textit{p\u00edca},",
+            "wi",
+            "fr\u00e1y",
+            "patata,",
+            "wi",
+            "fr\u00e1y",
+            "plant\u00ed."
+        ],
+        "srcwordshtml": [
+            "\\MakeUppercase{A}",
+            "big\u00edn",
+            "de",
+            "<span class=\"stylePichiexamplebold\">\\textit{pica</span>}<span class=\"it\">{</span>-}<span class=\"stylePichiexamplebold\">\\textit{p\u00edca</span>},",
+            "wi",
+            "fr\u00e1y",
+            "<span class=\"it\">patata</span>,",
+            "wi",
+            "fr\u00e1y",
+            "plant\u00ed."
+        ],
+        "srcwordstex": [
+            "\\MakeUppercase{A}",
+            "big\u00edn",
+            "de",
+            "\\textstylePichiexamplebold{\\textit{pica}}\\textit{{}-}\\textstylePichiexamplebold{\\textit{p\u00edca}},",
+            "wi",
+            "fr\u00e1y",
+            "\\textit{patata},",
+            "wi",
+            "fr\u00e1y",
+            "plant\u00ed."
+        ],
+        "trs": "I began to (repeatedly) snip [the trimmings], we fried potatoes, we fried",
+        "wlength": 10
+    },
+    {
+        "ID": "13-222820",
+        "categories": [
+            "3sg",
+            "indp",
+            "neg"
+        ],
+        "clength": 88,
+        "filename": "85/chapters/13.tex",
+        "imt": "fever  \\textsc{neg}  go.up  \\textsc{3sg.indp}",
+        "imtwordsbare": [
+            "fever",
+            "NEG",
+            "go.up",
+            "3sg.indp"
+        ],
+        "imtwordshtml": [
+            "fever",
+            "<span class=\"sc\">neg</span>",
+            "go.up",
+            "<span class=\"sc\">3sg.indp</span>"
+        ],
+        "imtwordstex": [
+            "fever",
+            "\\textsc{neg}",
+            "go.up",
+            "\\textsc{3sg.indp}"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "F\u00edba    n\u00f3  \\textstylePichiexamplebold{\\textit{sube}}    \\textstylePichiexamplebold{\u00edn}.",
+        "srcwordsbare": [
+            "F\u00edba",
+            "n\u00f3",
+            "\\textit{sube}",
+            "\u00edn."
+        ],
+        "srcwordshtml": [
+            "F\u00edba",
+            "n\u00f3",
+            "<span class=\"stylePichiexamplebold\">\\textit{sube</span>}",
+            "<span class=\"stylePichiexamplebold\">\u00edn</span>."
+        ],
+        "srcwordstex": [
+            "F\u00edba",
+            "n\u00f3",
+            "\\textstylePichiexamplebold{\\textit{sube}}",
+            "\\textstylePichiexamplebold{\u00edn}."
+        ],
+        "trs": "The fever hasn\u2019t risen on him.\u2019 [eb07fn 171]",
+        "wlength": 4
+    },
+    {
+        "ID": "13-386328",
+        "categories": [
+            "1sg",
+            "pot",
+            "sbj"
+        ],
+        "clength": 104,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1sg.sbj}  \\textsc{pot}  continue    eat",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "POT",
+            "continue",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">pot</span>",
+            "continue",
+            "eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "\\textsc{pot}",
+            "continue",
+            "eat"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\\MakeUppercase{A}   go  \\textstylePichiexamplebold{\\textit{sigue}}    \\textstylePichiexamplebold{ch\u0254\u0301p}.",
+        "srcwordsbare": [
+            "\\MakeUppercase{A}",
+            "go",
+            "\\textit{sigue}",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordshtml": [
+            "\\MakeUppercase{A}",
+            "go",
+            "<span class=\"stylePichiexamplebold\">\\textit{sigue</span>}",
+            "<span class=\"stylePichiexamplebold\">ch\u0254\u0301p</span>."
+        ],
+        "srcwordstex": [
+            "\\MakeUppercase{A}",
+            "go",
+            "\\textstylePichiexamplebold{\\textit{sigue}}",
+            "\\textstylePichiexamplebold{ch\u0254\u0301p}."
+        ],
+        "trs": "I\u2019ll continue eating.\u2019 [be05 057]",
+        "wlength": 4
+    },
+    {
+        "ID": "13--69570",
+        "categories": [
+            "3sg",
+            "be",
+            "ipfv",
+            "loc",
+            "neg",
+            "sbj"
+        ],
+        "clength": 107,
+        "filename": "85/chapters/13.tex",
+        "imt": "one    eye  \\textsc{be.loc}  white  \\textsc{3sg.sbj}  \\textsc{neg}  \\textsc{ipfv}  see",
+        "imtwordsbare": [
+            "one",
+            "eye",
+            "be.loc",
+            "white",
+            "3sg.sbj",
+            "NEG",
+            "IPFV",
+            "see"
+        ],
+        "imtwordshtml": [
+            "one",
+            "eye",
+            "<span class=\"sc\">be.loc</span>",
+            "white",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "see"
+        ],
+        "imtwordstex": [
+            "one",
+            "eye",
+            "\\textsc{be.loc}",
+            "white",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{neg}",
+            "\\textsc{ipfv}",
+            "see"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "W\u00e1n    y\u00e1y  \\textstylePichiexamplebold{d\u00e9}    \\textstylePichiexamplebold{\\textit{blanco}}  e    n\u00f3  de  s\u00ed.",
+        "srcwordsbare": [
+            "W\u00e1n",
+            "y\u00e1y",
+            "d\u00e9",
+            "\\textit{blanco}",
+            "e",
+            "n\u00f3",
+            "de",
+            "s\u00ed."
+        ],
+        "srcwordshtml": [
+            "W\u00e1n",
+            "y\u00e1y",
+            "<span class=\"stylePichiexamplebold\">d\u00e9</span>",
+            "<span class=\"stylePichiexamplebold\">\\textit{blanco</span>}",
+            "e",
+            "n\u00f3",
+            "de",
+            "s\u00ed."
+        ],
+        "srcwordstex": [
+            "W\u00e1n",
+            "y\u00e1y",
+            "\\textstylePichiexamplebold{d\u00e9}",
+            "\\textstylePichiexamplebold{\\textit{blanco}}",
+            "e",
+            "n\u00f3",
+            "de",
+            "s\u00ed."
+        ],
+        "trs": "One eye is white, it doesn\u2019t see.\u2019 [ye03cd 106]",
+        "wlength": 8
+    },
+    {
+        "ID": "13--62179",
+        "categories": [
+            "1sg",
+            "adj",
+            "be",
+            "loc",
+            "sbj"
+        ],
+        "clength": 153,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1sg.sbj}  want  \\textsc{be.loc}  turned.on-\\textsc{adj}    all  hour  all  hour",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "want",
+            "be.loc",
+            "turned.on-ADJ",
+            "all",
+            "hour",
+            "all",
+            "hour"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "want",
+            "<span class=\"sc\">be.loc</span>",
+            "turned.on-<span class=\"sc\">adj</span>",
+            "all",
+            "hour",
+            "all",
+            "hour"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "want",
+            "\\textsc{be.loc}",
+            "turned.on-\\textsc{adj}",
+            "all",
+            "hour",
+            "all",
+            "hour"
+        ],
+        "language": "85/chapters/13.tex",
+        "modality": "volitive",
+        "src": "\\MakeUppercase{A}   w\u00e1nt  d\u00e9    \\textstylePichiexamplebold{\\textit{flipa}}\\textit{{}-}\\textstylePichiexamplebold{\\textit{do}}      \u0254\u0301l  \u00e1wa,    \u0254\u0301l  \u00e1wa.",
+        "srcwordsbare": [
+            "\\MakeUppercase{A}",
+            "w\u00e1nt",
+            "d\u00e9",
+            "\\textit{flipa}{-}\\textit{do}",
+            "\u0254\u0301l",
+            "\u00e1wa,",
+            "\u0254\u0301l",
+            "\u00e1wa."
+        ],
+        "srcwordshtml": [
+            "\\MakeUppercase{A}",
+            "w\u00e1nt",
+            "d\u00e9",
+            "<span class=\"stylePichiexamplebold\">\\textit{flipa</span>}<span class=\"it\">{</span>-}<span class=\"stylePichiexamplebold\">\\textit{do</span>}",
+            "\u0254\u0301l",
+            "\u00e1wa,",
+            "\u0254\u0301l",
+            "\u00e1wa."
+        ],
+        "srcwordstex": [
+            "\\MakeUppercase{A}",
+            "w\u00e1nt",
+            "d\u00e9",
+            "\\textstylePichiexamplebold{\\textit{flipa}}\\textit{{}-}\\textstylePichiexamplebold{\\textit{do}}",
+            "\u0254\u0301l",
+            "\u00e1wa,",
+            "\u0254\u0301l",
+            "\u00e1wa."
+        ],
+        "trs": "I want to be turned on all the time, all the time.\u2019 [ye07ga 012]",
+        "wlength": 8
+    },
+    {
+        "ID": "13-450205",
+        "categories": [
+            "3pl",
+            "pl"
+        ],
+        "clength": 58,
+        "filename": "85/chapters/13.tex",
+        "imt": "some  mother  \\textsc{pl}    \\textsc{3pl}  be.bad",
+        "imtwordsbare": [
+            "some",
+            "mother",
+            "PL",
+            "3PL",
+            "be.bad"
+        ],
+        "imtwordshtml": [
+            "some",
+            "mother",
+            "<span class=\"sc\">pl</span>",
+            "<span class=\"sc\">3pl</span>",
+            "be.bad"
+        ],
+        "imtwordstex": [
+            "some",
+            "mother",
+            "\\textsc{pl}",
+            "\\textsc{3pl}",
+            "be.bad"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "S\u0254n    mam\u00e1  d\u025bn,    d\u025bn  \\textstylePichiexamplebold{b\u00e1d.}",
+        "srcwordsbare": [
+            "S\u0254n",
+            "mam\u00e1",
+            "d\u025bn,",
+            "d\u025bn",
+            "b\u00e1d."
+        ],
+        "srcwordshtml": [
+            "S\u0254n",
+            "mam\u00e1",
+            "d\u025bn,",
+            "d\u025bn",
+            "<span class=\"stylePichiexamplebold\">b\u00e1d.</span>"
+        ],
+        "srcwordstex": [
+            "S\u0254n",
+            "mam\u00e1",
+            "d\u025bn,",
+            "d\u025bn",
+            "\\textstylePichiexamplebold{b\u00e1d.}"
+        ],
+        "trs": "Some mothers, they are bad.\u2019 [ab03ay 109]",
+        "wlength": 5
+    },
+    {
+        "ID": "13--36899",
+        "categories": [
+            "3sg",
+            "be",
+            "ipfv",
+            "loc",
+            "quot",
+            "sbj"
+        ],
+        "clength": 104,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{3sg.sbj}  \\textsc{be.loc}  bad    mean  \\textsc{quot}    \\textsc{3sg.sbj}  \\textsc{ipfv}  be.sick",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "be.loc",
+            "bad",
+            "mean",
+            "QUOT",
+            "3sg.sbj",
+            "IPFV",
+            "be.sick"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">be.loc</span>",
+            "bad",
+            "mean",
+            "<span class=\"sc\">quot</span>",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "be.sick"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "\\textsc{be.loc}",
+            "bad",
+            "mean",
+            "\\textsc{quot}",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{ipfv}",
+            "be.sick"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\u2018E    \\textstylePichiexamplebold{d\u00e9}    \\textstylePichiexamplebold{bad}\u2019    min    s\u00e9    \u2018e    de  s\u00edk\u2019.",
+        "srcwordsbare": [
+            "\u2018E",
+            "d\u00e9",
+            "bad\u2019",
+            "min",
+            "s\u00e9",
+            "\u2018e",
+            "de",
+            "s\u00edk\u2019."
+        ],
+        "srcwordshtml": [
+            "\u2018E",
+            "<span class=\"stylePichiexamplebold\">d\u00e9</span>",
+            "<span class=\"stylePichiexamplebold\">bad</span>\u2019",
+            "min",
+            "s\u00e9",
+            "\u2018e",
+            "de",
+            "s\u00edk\u2019."
+        ],
+        "srcwordstex": [
+            "\u2018E",
+            "\\textstylePichiexamplebold{d\u00e9}",
+            "\\textstylePichiexamplebold{bad}\u2019",
+            "min",
+            "s\u00e9",
+            "\u2018e",
+            "de",
+            "s\u00edk\u2019."
+        ],
+        "trs": "\u201cE d\u00e9 bad\u201d means \u201che\u2019s sick\u201d.\u2019 [ye07je 046]",
+        "wlength": 8
+    },
+    {
+        "ID": "13-676369",
+        "categories": [],
+        "clength": 11,
+        "filename": "85/chapters/13.tex",
+        "imt": "He.is  bad",
+        "imtwordsbare": [
+            "He.is",
+            "bad"
+        ],
+        "imtwordshtml": [
+            "He.is",
+            "bad"
+        ],
+        "imtwordstex": [
+            "He.is",
+            "bad"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Es    malo.",
+        "srcwordsbare": [
+            "Es",
+            "malo."
+        ],
+        "srcwordshtml": [
+            "Es",
+            "malo."
+        ],
+        "srcwordstex": [
+            "Es",
+            "malo."
+        ],
+        "trs": "He is bad.",
+        "wlength": 2
+    },
+    {
+        "ID": "13-598739",
+        "categories": [],
+        "clength": 17,
+        "filename": "85/chapters/13.tex",
+        "imt": "You.are  bad  today",
+        "imtwordsbare": [
+            "You.are",
+            "bad",
+            "today"
+        ],
+        "imtwordshtml": [
+            "You.are",
+            "bad",
+            "today"
+        ],
+        "imtwordstex": [
+            "You.are",
+            "bad",
+            "today"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\u00bfEst\u00e1s  mal  hoy?",
+        "srcwordsbare": [
+            "\u00bfEst\u00e1s",
+            "mal",
+            "hoy?"
+        ],
+        "srcwordshtml": [
+            "\u00bfEst\u00e1s",
+            "mal",
+            "hoy?"
+        ],
+        "srcwordstex": [
+            "\u00bfEst\u00e1s",
+            "mal",
+            "hoy?"
+        ],
+        "trs": "Do you feel bad today?",
+        "wlength": 3
+    },
+    {
+        "ID": "13-704534",
+        "categories": [
+            "def"
+        ],
+        "clength": 44,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{def}  man    be.white",
+        "imtwordsbare": [
+            "DEF",
+            "man",
+            "be.white"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "man",
+            "be.white"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "man",
+            "be.white"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Di  m\u00e1n    \\textstylePichiexamplebold{w\u00e1yt}.",
+        "srcwordsbare": [
+            "Di",
+            "m\u00e1n",
+            "w\u00e1yt."
+        ],
+        "srcwordshtml": [
+            "Di",
+            "m\u00e1n",
+            "<span class=\"stylePichiexamplebold\">w\u00e1yt</span>."
+        ],
+        "srcwordstex": [
+            "Di",
+            "m\u00e1n",
+            "\\textstylePichiexamplebold{w\u00e1yt}."
+        ],
+        "trs": "The man is white.\u2019 [ed05fn 077]",
+        "wlength": 3
+    },
+    {
+        "ID": "13-831054",
+        "categories": [
+            "2sg",
+            "neg",
+            "prf"
+        ],
+        "clength": 51,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{2sg}  \\textsc{neg}.\\textsc{prf}  get  child  because  \\textsc{2sg}  \\textsc{neg}.\\textsc{prf}  marry",
+        "imtwordsbare": [
+            "2SG",
+            "NEG.PRF",
+            "get",
+            "child",
+            "because",
+            "2SG",
+            "NEG.PRF",
+            "marry"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">neg</span>.<span class=\"sc\">prf</span>",
+            "get",
+            "child",
+            "because",
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">neg</span>.<span class=\"sc\">prf</span>",
+            "marry"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "\\textsc{neg}.\\textsc{prf}",
+            "get",
+            "child",
+            "because",
+            "\\textsc{2sg}",
+            "\\textsc{neg}.\\textsc{prf}",
+            "marry"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Yu  n\u025b\u0301a    g\u025b\u0301t  pik\u00edn  porque  yu  n\u025b\u0301a    m\u00e1red.",
+        "srcwordsbare": [
+            "Yu",
+            "n\u025b\u0301a",
+            "g\u025b\u0301t",
+            "pik\u00edn",
+            "porque",
+            "yu",
+            "n\u025b\u0301a",
+            "m\u00e1red."
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "n\u025b\u0301a",
+            "g\u025b\u0301t",
+            "pik\u00edn",
+            "porque",
+            "yu",
+            "n\u025b\u0301a",
+            "m\u00e1red."
+        ],
+        "srcwordstex": [
+            "Yu",
+            "n\u025b\u0301a",
+            "g\u025b\u0301t",
+            "pik\u00edn",
+            "porque",
+            "yu",
+            "n\u025b\u0301a",
+            "m\u00e1red."
+        ],
+        "trs": "You don\u2019t yet have a child, because you aren\u2019t yet married.\u2019 [ab03ab 204]",
+        "wlength": 8
+    },
+    {
+        "ID": "13-630026",
+        "categories": [
+            "3pl",
+            "3sg",
+            "indp",
+            "neg",
+            "poss"
+        ],
+        "clength": 147,
+        "filename": "85/chapters/13.tex",
+        "imt": "neither  \\textsc{3sg.indp}  neither  \\textsc{3sg.poss}  brother  \\textsc{3pl}  \\textsc{neg}  learn",
+        "imtwordsbare": [
+            "neither",
+            "3sg.indp",
+            "neither",
+            "3sg.poss",
+            "brother",
+            "3PL",
+            "NEG",
+            "learn"
+        ],
+        "imtwordshtml": [
+            "neither",
+            "<span class=\"sc\">3sg.indp</span>",
+            "neither",
+            "<span class=\"sc\">3sg.poss</span>",
+            "brother",
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">neg</span>",
+            "learn"
+        ],
+        "imtwordstex": [
+            "neither",
+            "\\textsc{3sg.indp}",
+            "neither",
+            "\\textsc{3sg.poss}",
+            "brother",
+            "\\textsc{3pl}",
+            "\\textsc{neg}",
+            "learn"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\\textstylePichiexamplebold{\\textit{Ni}}    \u00edn    \\textstylePichiexamplebold{\\textit{ni}}    in    br\u0254\u0301da  d\u025bn  \\textstylePichiexamplebold{n\u00f3}  l\u00e1n.",
+        "srcwordsbare": [
+            "\\textit{Ni}",
+            "\u00edn",
+            "\\textit{ni}",
+            "in",
+            "br\u0254\u0301da",
+            "d\u025bn",
+            "n\u00f3",
+            "l\u00e1n."
+        ],
+        "srcwordshtml": [
+            "<span class=\"stylePichiexamplebold\">\\textit{Ni</span>}",
+            "\u00edn",
+            "<span class=\"stylePichiexamplebold\">\\textit{ni</span>}",
+            "in",
+            "br\u0254\u0301da",
+            "d\u025bn",
+            "<span class=\"stylePichiexamplebold\">n\u00f3</span>",
+            "l\u00e1n."
+        ],
+        "srcwordstex": [
+            "\\textstylePichiexamplebold{\\textit{Ni}}",
+            "\u00edn",
+            "\\textstylePichiexamplebold{\\textit{ni}}",
+            "in",
+            "br\u0254\u0301da",
+            "d\u025bn",
+            "\\textstylePichiexamplebold{n\u00f3}",
+            "l\u00e1n."
+        ],
+        "trs": "Neither him nor his brother studied.\u2019 [ro05de 145]",
+        "wlength": 8
+    },
+    {
+        "ID": "13-247070",
+        "categories": [
+            "1sg",
+            "pl",
+            "pot",
+            "sbj"
+        ],
+        "clength": 72,
+        "coordination": "or",
+        "filename": "85/chapters/13.tex",
+        "imt": "tomorrow  morning  time    one  the.\\textsc{pl}  seven  like.that  \\textsc{1sg.sbj}  \\textsc{pot}  go  there",
+        "imtwordsbare": [
+            "tomorrow",
+            "morning",
+            "time",
+            "one",
+            "the.PL",
+            "seven",
+            "like.that",
+            "1sg.sbj",
+            "POT",
+            "go",
+            "there"
+        ],
+        "imtwordshtml": [
+            "tomorrow",
+            "morning",
+            "time",
+            "one",
+            "the.<span class=\"sc\">pl</span>",
+            "seven",
+            "like.that",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">pot</span>",
+            "go",
+            "there"
+        ],
+        "imtwordstex": [
+            "tomorrow",
+            "morning",
+            "time",
+            "one",
+            "the.\\textsc{pl}",
+            "seven",
+            "like.that",
+            "\\textsc{1sg.sbj}",
+            "\\textsc{pot}",
+            "go",
+            "there"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Tum\u0254\u0301ro    m\u0254\u0301nin  t\u025b\u0301n,    w\u00e1n  las    siete    s\u00f3,    a    go  g\u00f3  d\u00e9.",
+        "srcwordsbare": [
+            "Tum\u0254\u0301ro",
+            "m\u0254\u0301nin",
+            "t\u025b\u0301n,",
+            "w\u00e1n",
+            "las",
+            "siete",
+            "s\u00f3,",
+            "a",
+            "go",
+            "g\u00f3",
+            "d\u00e9."
+        ],
+        "srcwordshtml": [
+            "Tum\u0254\u0301ro",
+            "m\u0254\u0301nin",
+            "t\u025b\u0301n,",
+            "w\u00e1n",
+            "las",
+            "siete",
+            "s\u00f3,",
+            "a",
+            "go",
+            "g\u00f3",
+            "d\u00e9."
+        ],
+        "srcwordstex": [
+            "Tum\u0254\u0301ro",
+            "m\u0254\u0301nin",
+            "t\u025b\u0301n,",
+            "w\u00e1n",
+            "las",
+            "siete",
+            "s\u00f3,",
+            "a",
+            "go",
+            "g\u00f3",
+            "d\u00e9."
+        ],
+        "trs": "Tomorrow in the morning, around seven or so, I will go there.\u2019 [ye03cd 011]",
+        "wlength": 11
+    },
+    {
+        "ID": "13-176742",
+        "categories": [
+            "pl"
+        ],
+        "clength": 70,
+        "filename": "85/chapters/13.tex",
+        "imt": "Me  they.lack    one.\\textsc{pl}  two  thousand  franc.\\textsc{pl}",
+        "imtwordsbare": [
+            "Me",
+            "they.lack",
+            "one.PL",
+            "two",
+            "thousand",
+            "franc.PL"
+        ],
+        "imtwordshtml": [
+            "Me",
+            "they.lack",
+            "one.<span class=\"sc\">pl</span>",
+            "two",
+            "thousand",
+            "franc.<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "Me",
+            "they.lack",
+            "one.\\textsc{pl}",
+            "two",
+            "thousand",
+            "franc.\\textsc{pl}"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Me  faltan    \\textstylePichiexamplebold{unos}  dos  mil      francos.",
+        "srcwordsbare": [
+            "Me",
+            "faltan",
+            "unos",
+            "dos",
+            "mil",
+            "francos."
+        ],
+        "srcwordshtml": [
+            "Me",
+            "faltan",
+            "<span class=\"stylePichiexamplebold\">unos</span>",
+            "dos",
+            "mil",
+            "francos."
+        ],
+        "srcwordstex": [
+            "Me",
+            "faltan",
+            "\\textstylePichiexamplebold{unos}",
+            "dos",
+            "mil",
+            "francos."
+        ],
+        "trs": "I am short of some 2000 francs (CFA).",
+        "wlength": 6
+    },
+    {
+        "ID": "13--81600",
+        "categories": [
+            "1sg",
+            "3sg",
+            "foc",
+            "indp",
+            "pfv",
+            "quot",
+            "sbj"
+        ],
+        "clength": 49,
+        "filename": "85/chapters/13.tex",
+        "imt": "well    so  \\textsc{3sg.sbj}  \\textsc{pfv}  tell  \\textsc{1sg.indp}  \\textsc{quot}    \\textsc{foc}  today",
+        "imtwordsbare": [
+            "well",
+            "so",
+            "3sg.sbj",
+            "PFV",
+            "tell",
+            "1sg.indp",
+            "QUOT",
+            "FOC",
+            "today"
+        ],
+        "imtwordshtml": [
+            "well",
+            "so",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">pfv</span>",
+            "tell",
+            "<span class=\"sc\">1sg.indp</span>",
+            "<span class=\"sc\">quot</span>",
+            "<span class=\"sc\">foc</span>",
+            "today"
+        ],
+        "imtwordstex": [
+            "well",
+            "so",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{pfv}",
+            "tell",
+            "\\textsc{1sg.indp}",
+            "\\textsc{quot}",
+            "\\textsc{foc}",
+            "today"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Bueno,  so  e    k\u00e1n  t\u025b\u0301l  m\u00ed    s\u00e9    na  tid\u00e9.",
+        "srcwordsbare": [
+            "Bueno,",
+            "so",
+            "e",
+            "k\u00e1n",
+            "t\u025b\u0301l",
+            "m\u00ed",
+            "s\u00e9",
+            "na",
+            "tid\u00e9."
+        ],
+        "srcwordshtml": [
+            "Bueno,",
+            "so",
+            "e",
+            "k\u00e1n",
+            "t\u025b\u0301l",
+            "m\u00ed",
+            "s\u00e9",
+            "na",
+            "tid\u00e9."
+        ],
+        "srcwordstex": [
+            "Bueno,",
+            "so",
+            "e",
+            "k\u00e1n",
+            "t\u025b\u0301l",
+            "m\u00ed",
+            "s\u00e9",
+            "na",
+            "tid\u00e9."
+        ],
+        "trs": "Well, so she told me that it was today.\u2019 [ed03sb 005]",
+        "wlength": 9
+    },
+    {
+        "ID": "13-338647",
+        "categories": [
+            "3sg",
+            "q",
+            "rep",
+            "sbj"
+        ],
+        "clength": 108,
+        "filename": "85/chapters/13.tex",
+        "imt": "shit    \\textsc{rep}    \\textsc{q}=side  \\textsc{3sg.sbj}  pass",
+        "imtwordsbare": [
+            "shit",
+            "REP",
+            "Q=side",
+            "3sg.sbj",
+            "pass"
+        ],
+        "imtwordshtml": [
+            "shit",
+            "<span class=\"sc\">rep</span>",
+            "<span class=\"sc\">q</span>=side",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "pass"
+        ],
+        "imtwordstex": [
+            "shit",
+            "\\textsc{rep}",
+            "\\textsc{q}=side",
+            "\\textsc{3sg.sbj}",
+            "pass"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\\textstylePichiexamplebold{\\textit{Mierda}}  \\textstylePichiexamplebold{\\textit{mierda}},  \u00fas=s\u00e1y  e    p\u00e1s?",
+        "srcwordsbare": [
+            "\\textit{Mierda}",
+            "\\textit{mierda},",
+            "\u00fas=s\u00e1y",
+            "e",
+            "p\u00e1s?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"stylePichiexamplebold\">\\textit{Mierda</span>}",
+            "<span class=\"stylePichiexamplebold\">\\textit{mierda</span>},",
+            "\u00fas=s\u00e1y",
+            "e",
+            "p\u00e1s?"
+        ],
+        "srcwordstex": [
+            "\\textstylePichiexamplebold{\\textit{Mierda}}",
+            "\\textstylePichiexamplebold{\\textit{mierda}},",
+            "\u00fas=s\u00e1y",
+            "e",
+            "p\u00e1s?"
+        ],
+        "trs": "Shit, shit, which way did she go?\u2019 [ro05rt 002]",
+        "wlength": 5
+    },
+    {
+        "ID": "13-259995",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 89,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1sg.sbj}  can  hold  that  money  during  one  month  entire",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "can",
+            "hold",
+            "that",
+            "money",
+            "during",
+            "one",
+            "month",
+            "entire"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "can",
+            "hold",
+            "that",
+            "money",
+            "during",
+            "one",
+            "month",
+            "entire"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "can",
+            "hold",
+            "that",
+            "money",
+            "during",
+            "one",
+            "month",
+            "entire"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "A    f\u00edt  h\u00f3l  d\u00e1n  m\u0254n\u00ed  \\textbf{durante}  \\textbf{un}  \\textbf{mes}    \\textbf{entero}.",
+        "srcwordsbare": [
+            "A",
+            "f\u00edt",
+            "h\u00f3l",
+            "d\u00e1n",
+            "m\u0254n\u00ed",
+            "durante",
+            "un",
+            "mes",
+            "entero."
+        ],
+        "srcwordshtml": [
+            "A",
+            "f\u00edt",
+            "h\u00f3l",
+            "d\u00e1n",
+            "m\u0254n\u00ed",
+            "<span class=\"bf\">durante</span>",
+            "<span class=\"bf\">un</span>",
+            "<span class=\"bf\">mes</span>",
+            "<span class=\"bf\">entero</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "f\u00edt",
+            "h\u00f3l",
+            "d\u00e1n",
+            "m\u0254n\u00ed",
+            "\\textbf{durante}",
+            "\\textbf{un}",
+            "\\textbf{mes}",
+            "\\textbf{entero}."
+        ],
+        "trs": "I can keep that money during an entire month.\u2019 [ro05rt 049]",
+        "wlength": 9
+    },
+    {
+        "ID": "13-551301",
+        "categories": [
+            "",
+            "3sg",
+            "obj",
+            "pl",
+            "sbj",
+            "sbjv"
+        ],
+        "clength": 52,
+        "filename": "85/chapters/13.tex",
+        "imt": "leave=\\textsc{3sg.obj}  \\textsc{sbjv}  \\textsc{3sg.sbj}  reach  to  the\\textsc{.pl}  fifteen  year.\\textsc{pl}",
+        "imtwordsbare": [
+            "leave=3sg.obj",
+            "SBJV",
+            "3sg.sbj",
+            "reach",
+            "to",
+            "the.pl",
+            "fifteen",
+            "year.PL"
+        ],
+        "imtwordshtml": [
+            "leave=<span class=\"sc\">3sg.obj</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "reach",
+            "to",
+            "the<span class=\"sc\">.pl</span>",
+            "fifteen",
+            "year.<span class=\"sc\">pl</span>"
+        ],
+        "imtwordstex": [
+            "leave=\\textsc{3sg.obj}",
+            "\\textsc{sbjv}",
+            "\\textsc{3sg.sbj}",
+            "reach",
+            "to",
+            "the\\textsc{.pl}",
+            "fifteen",
+            "year.\\textsc{pl}"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "L\u025b\u0301f=an    m\u00e9k  e    r\u00edch    a  los    quince  a\u00f1os.",
+        "srcwordsbare": [
+            "L\u025b\u0301f=an",
+            "m\u00e9k",
+            "e",
+            "r\u00edch",
+            "a",
+            "los",
+            "quince",
+            "a\u00f1os."
+        ],
+        "srcwordshtml": [
+            "L\u025b\u0301f=an",
+            "m\u00e9k",
+            "e",
+            "r\u00edch",
+            "a",
+            "los",
+            "quince",
+            "a\u00f1os."
+        ],
+        "srcwordstex": [
+            "L\u025b\u0301f=an",
+            "m\u00e9k",
+            "e",
+            "r\u00edch",
+            "a",
+            "los",
+            "quince",
+            "a\u00f1os."
+        ],
+        "trs": "Leave her, let her reach [the age of] fifteen years.\u2019 [ab03ay 138]\\is{cardinal numerals}",
+        "wlength": 8
+    },
+    {
+        "ID": "13-831385",
+        "categories": [
+            "1pl",
+            "be",
+            "loc",
+            "pl"
+        ],
+        "clength": 70,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1pl}  \\textsc{be.loc}  the.\\textsc{pl}  four    and  half",
+        "imtwordsbare": [
+            "1PL",
+            "be.loc",
+            "the.PL",
+            "four",
+            "and",
+            "half"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1pl</span>",
+            "<span class=\"sc\">be.loc</span>",
+            "the.<span class=\"sc\">pl</span>",
+            "four",
+            "and",
+            "half"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pl}",
+            "\\textsc{be.loc}",
+            "the.\\textsc{pl}",
+            "four",
+            "and",
+            "half"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Wi  d\u00e9    \\textbf{las}    \\textbf{cuatro}  \\textbf{y}  \\textbf{media}.",
+        "srcwordsbare": [
+            "Wi",
+            "d\u00e9",
+            "las",
+            "cuatro",
+            "y",
+            "media."
+        ],
+        "srcwordshtml": [
+            "Wi",
+            "d\u00e9",
+            "<span class=\"bf\">las</span>",
+            "<span class=\"bf\">cuatro</span>",
+            "<span class=\"bf\">y</span>",
+            "<span class=\"bf\">media</span>."
+        ],
+        "srcwordstex": [
+            "Wi",
+            "d\u00e9",
+            "\\textbf{las}",
+            "\\textbf{cuatro}",
+            "\\textbf{y}",
+            "\\textbf{media}."
+        ],
+        "trs": "It\u2019s four thirty.\u2019 [nn07fn 483]",
+        "wlength": 6
+    },
+    {
+        "ID": "13-165959",
+        "categories": [
+            "pl"
+        ],
+        "clength": 181,
+        "filename": "85/chapters/13.tex",
+        "imt": "They.are   the.\\textsc{pl}   four    and  half",
+        "imtwordsbare": [
+            "They.are",
+            "the.PL",
+            "four",
+            "and",
+            "half"
+        ],
+        "imtwordshtml": [
+            "They.are",
+            "the.<span class=\"sc\">pl</span>",
+            "four",
+            "and",
+            "half"
+        ],
+        "imtwordstex": [
+            "They.are",
+            "the.\\textsc{pl}",
+            "four",
+            "and",
+            "half"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Son      \\textstylePichiexamplebold{\\textit{las}}    \\textstylePichiexamplebold{\\textit{cuatro}}  \\textstylePichiexamplebold{\\textit{y}}  \\textstylePichiexamplebold{\\textit{media.}}",
+        "srcwordsbare": [
+            "Son",
+            "\\textit{las}",
+            "\\textit{cuatro}",
+            "\\textit{y}",
+            "\\textit{media.}"
+        ],
+        "srcwordshtml": [
+            "Son",
+            "<span class=\"stylePichiexamplebold\">\\textit{las</span>}",
+            "<span class=\"stylePichiexamplebold\">\\textit{cuatro</span>}",
+            "<span class=\"stylePichiexamplebold\">\\textit{y</span>}",
+            "<span class=\"stylePichiexamplebold\">\\textit{media.</span>}"
+        ],
+        "srcwordstex": [
+            "Son",
+            "\\textstylePichiexamplebold{\\textit{las}}",
+            "\\textstylePichiexamplebold{\\textit{cuatro}}",
+            "\\textstylePichiexamplebold{\\textit{y}}",
+            "\\textstylePichiexamplebold{\\textit{media.}}"
+        ],
+        "trs": "It\u2019s four thirty.",
+        "wlength": 5
+    },
+    {
+        "ID": "13--61909",
+        "categories": [
+            "1sg",
+            "3sg",
+            "loc",
+            "poss",
+            "pot",
+            "sbj"
+        ],
+        "clength": 104,
+        "filename": "85/chapters/13.tex",
+        "imt": "the  ten  of  August  by  God  \\textsc{3sg.poss}  power  \\textsc{1sg.sbj}  \\textsc{pot}  pass  \\textsc{loc}  here",
+        "imtwordsbare": [
+            "the",
+            "ten",
+            "of",
+            "August",
+            "by",
+            "God",
+            "3sg.poss",
+            "power",
+            "1sg.sbj",
+            "POT",
+            "pass",
+            "LOC",
+            "here"
+        ],
+        "imtwordshtml": [
+            "the",
+            "ten",
+            "of",
+            "August",
+            "by",
+            "God",
+            "<span class=\"sc\">3sg.poss</span>",
+            "power",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">pot</span>",
+            "pass",
+            "<span class=\"sc\">loc</span>",
+            "here"
+        ],
+        "imtwordstex": [
+            "the",
+            "ten",
+            "of",
+            "August",
+            "by",
+            "God",
+            "\\textsc{3sg.poss}",
+            "power",
+            "\\textsc{1sg.sbj}",
+            "\\textsc{pot}",
+            "pass",
+            "\\textsc{loc}",
+            "here"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\\textbf{El}  \\textbf{diez}  \\textbf{de}  \\textbf{agosto},  bay  g\u0254\u0301d  in    p\u00e1wa,  a    go  p\u00e1s  na  y\u00e1.",
+        "srcwordsbare": [
+            "El",
+            "diez",
+            "de",
+            "agosto,",
+            "bay",
+            "g\u0254\u0301d",
+            "in",
+            "p\u00e1wa,",
+            "a",
+            "go",
+            "p\u00e1s",
+            "na",
+            "y\u00e1."
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">El</span>",
+            "<span class=\"bf\">diez</span>",
+            "<span class=\"bf\">de</span>",
+            "<span class=\"bf\">agosto</span>,",
+            "bay",
+            "g\u0254\u0301d",
+            "in",
+            "p\u00e1wa,",
+            "a",
+            "go",
+            "p\u00e1s",
+            "na",
+            "y\u00e1."
+        ],
+        "srcwordstex": [
+            "\\textbf{El}",
+            "\\textbf{diez}",
+            "\\textbf{de}",
+            "\\textbf{agosto},",
+            "bay",
+            "g\u0254\u0301d",
+            "in",
+            "p\u00e1wa,",
+            "a",
+            "go",
+            "p\u00e1s",
+            "na",
+            "y\u00e1."
+        ],
+        "trs": "(On) the tenth of August, by the grace of God, I\u2019ll pass by this place.\u2019 [ab07fn 113]",
+        "wlength": 13
+    },
+    {
+        "ID": "13--36346",
+        "categories": [
+            "1sg",
+            "ipfv",
+            "place",
+            "sbj"
+        ],
+        "clength": 70,
+        "filename": "85/chapters/13.tex",
+        "imt": "this  Wednesday  \\textsc{1sg.sbj}  \\textsc{ipfv}  go  \\textsc{place}.\u2019",
+        "imtwordsbare": [
+            "this",
+            "Wednesday",
+            "1sg.sbj",
+            "IPFV",
+            "go",
+            "PLACE.\u2019"
+        ],
+        "imtwordshtml": [
+            "this",
+            "Wednesday",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "go",
+            "<span class=\"sc\">place</span>.\u2019"
+        ],
+        "imtwordstex": [
+            "this",
+            "Wednesday",
+            "\\textsc{1sg.sbj}",
+            "\\textsc{ipfv}",
+            "go",
+            "\\textsc{place}.\u2019"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "D\u00ed  \\textstylePichiexamplebold{\\textit{mi\u00e9rcoles}}  a    de  g\u00f3  Lub\u00e1.",
+        "srcwordsbare": [
+            "D\u00ed",
+            "\\textit{mi\u00e9rcoles}",
+            "a",
+            "de",
+            "g\u00f3",
+            "Lub\u00e1."
+        ],
+        "srcwordshtml": [
+            "D\u00ed",
+            "<span class=\"stylePichiexamplebold\">\\textit{mi\u00e9rcoles</span>}",
+            "a",
+            "de",
+            "g\u00f3",
+            "Lub\u00e1."
+        ],
+        "srcwordstex": [
+            "D\u00ed",
+            "\\textstylePichiexamplebold{\\textit{mi\u00e9rcoles}}",
+            "a",
+            "de",
+            "g\u00f3",
+            "Lub\u00e1."
+        ],
+        "trs": "This Wednesday, I am going to Luba.\u2019 [ro05ee 119]",
+        "wlength": 6
+    },
+    {
+        "ID": "13--13279",
+        "categories": [
+            "foc",
+            "sub"
+        ],
+        "clength": 135,
+        "filename": "85/chapters/13.tex",
+        "imt": "monday  \\textsc{foc}  Monday  tuesday  \\textsc{sub}  \\textsc{foc}  tuesday",
+        "imtwordsbare": [
+            "monday",
+            "FOC",
+            "Monday",
+            "tuesday",
+            "SUB",
+            "FOC",
+            "tuesday"
+        ],
+        "imtwordshtml": [
+            "monday",
+            "<span class=\"sc\">foc</span>",
+            "Monday",
+            "tuesday",
+            "<span class=\"sc\">sub</span>",
+            "<span class=\"sc\">foc</span>",
+            "tuesday"
+        ],
+        "imtwordstex": [
+            "monday",
+            "\\textsc{foc}",
+            "Monday",
+            "tuesday",
+            "\\textsc{sub}",
+            "\\textsc{foc}",
+            "tuesday"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "\\textit{Lunes}  na  \\textstylePichiexamplebold{\\textit{m\u0254\u0301nde}},  \\textstylePichiexamplebold{\\textit{ty\u00fasde}}  w\u00e9  na  \\textit{martes}.",
+        "srcwordsbare": [
+            "Lunes",
+            "na",
+            "\\textit{m\u0254\u0301nde},",
+            "\\textit{ty\u00fasde}",
+            "w\u00e9",
+            "na",
+            "martes."
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">Lunes</span>",
+            "na",
+            "<span class=\"stylePichiexamplebold\">\\textit{m\u0254\u0301nde</span>},",
+            "<span class=\"stylePichiexamplebold\">\\textit{ty\u00fasde</span>}",
+            "w\u00e9",
+            "na",
+            "<span class=\"it\">martes</span>."
+        ],
+        "srcwordstex": [
+            "\\textit{Lunes}",
+            "na",
+            "\\textstylePichiexamplebold{\\textit{m\u0254\u0301nde}},",
+            "\\textstylePichiexamplebold{\\textit{ty\u00fasde}}",
+            "w\u00e9",
+            "na",
+            "\\textit{martes}."
+        ],
+        "trs": "\u201cLunes\u201d is Monday. Tuesday that\u2019s \u201cmartes\u201d.\u2019 [ro05ee 121]",
+        "wlength": 7
+    },
+    {
+        "ID": "13-492908",
+        "categories": [
+            "cpd",
+            "pl",
+            "pot"
+        ],
+        "clength": 95,
+        "filename": "85/chapters/13.tex",
+        "imt": "this  day  \\textsc{pl}  rainy.\\textsc{cpd}{}-season  \\textsc{pot}  begin",
+        "imtwordsbare": [
+            "this",
+            "day",
+            "PL",
+            "rainy.CPD{}-season",
+            "POT",
+            "begin"
+        ],
+        "imtwordshtml": [
+            "this",
+            "day",
+            "<span class=\"sc\">pl</span>",
+            "rainy.<span class=\"sc\">cpd</span>{}-season",
+            "<span class=\"sc\">pot</span>",
+            "begin"
+        ],
+        "imtwordstex": [
+            "this",
+            "day",
+            "\\textsc{pl}",
+            "rainy.\\textsc{cpd}{}-season",
+            "\\textsc{pot}",
+            "begin"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "D\u00eds  d\u00e9  d\u025bn  \\textstylePichiexamplebold{ren}{}-\\textstylePichiexamplebold{s\u00edsin}    go  big\u00edn.",
+        "srcwordsbare": [
+            "D\u00eds",
+            "d\u00e9",
+            "d\u025bn",
+            "ren{}-s\u00edsin",
+            "go",
+            "big\u00edn."
+        ],
+        "srcwordshtml": [
+            "D\u00eds",
+            "d\u00e9",
+            "d\u025bn",
+            "<span class=\"stylePichiexamplebold\">ren</span>{}-<span class=\"stylePichiexamplebold\">s\u00edsin</span>",
+            "go",
+            "big\u00edn."
+        ],
+        "srcwordstex": [
+            "D\u00eds",
+            "d\u00e9",
+            "d\u025bn",
+            "\\textstylePichiexamplebold{ren}{}-\\textstylePichiexamplebold{s\u00edsin}",
+            "go",
+            "big\u00edn."
+        ],
+        "trs": "These days, the rainy season should begin.\u2019 [dj05ce 059]",
+        "wlength": 6
+    },
+    {
+        "ID": "13-904189",
+        "categories": [
+            "def",
+            "name"
+        ],
+        "clength": 33,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{def}  boy  be.yellow  like  \\textsc{name}",
+        "imtwordsbare": [
+            "DEF",
+            "boy",
+            "be.yellow",
+            "like",
+            "NAME"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "boy",
+            "be.yellow",
+            "like",
+            "<span class=\"sc\">name</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "boy",
+            "be.yellow",
+            "like",
+            "\\textsc{name}"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Di  b\u0254\u0301y  y\u025b\u0301lo      l\u025bk\u025b  Chici.",
+        "srcwordsbare": [
+            "Di",
+            "b\u0254\u0301y",
+            "y\u025b\u0301lo",
+            "l\u025bk\u025b",
+            "Chici."
+        ],
+        "srcwordshtml": [
+            "Di",
+            "b\u0254\u0301y",
+            "y\u025b\u0301lo",
+            "l\u025bk\u025b",
+            "Chici."
+        ],
+        "srcwordstex": [
+            "Di",
+            "b\u0254\u0301y",
+            "y\u025b\u0301lo",
+            "l\u025bk\u025b",
+            "Chici."
+        ],
+        "trs": "The guy is yellow like [the guy called] Chici.\u2019 [i.e. He has a light brown skin colour]",
+        "wlength": 5
+    },
+    {
+        "ID": "13-458523",
+        "categories": [],
+        "clength": 35,
+        "filename": "85/chapters/13.tex",
+        "imt": "that  thing  be.yellow  like  banana",
+        "imtwordsbare": [
+            "that",
+            "thing",
+            "be.yellow",
+            "like",
+            "banana"
+        ],
+        "imtwordshtml": [
+            "that",
+            "thing",
+            "be.yellow",
+            "like",
+            "banana"
+        ],
+        "imtwordstex": [
+            "that",
+            "thing",
+            "be.yellow",
+            "like",
+            "banana"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "D\u00e1n  t\u00edn    y\u025b\u0301lo      l\u025bk  ban\u00e1na.",
+        "srcwordsbare": [
+            "D\u00e1n",
+            "t\u00edn",
+            "y\u025b\u0301lo",
+            "l\u025bk",
+            "ban\u00e1na."
+        ],
+        "srcwordshtml": [
+            "D\u00e1n",
+            "t\u00edn",
+            "y\u025b\u0301lo",
+            "l\u025bk",
+            "ban\u00e1na."
+        ],
+        "srcwordstex": [
+            "D\u00e1n",
+            "t\u00edn",
+            "y\u025b\u0301lo",
+            "l\u025bk",
+            "ban\u00e1na."
+        ],
+        "trs": "That thing is yellow like a banana.\u2019 [i.e. It has a bright yellow colour]",
+        "wlength": 5
+    },
+    {
+        "ID": "13-803026",
+        "categories": [
+            "1sg",
+            "foc",
+            "neg",
+            "pl",
+            "quot",
+            "sbj"
+        ],
+        "clength": 133,
+        "coordination": "or",
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1sg.sbj}  think  \\textsc{quot}    \\textsc{foc}  bean.\\textsc{pl}  white.\\textsc{pl}  or  \\textsc{neg}  I.know",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "think",
+            "QUOT",
+            "FOC",
+            "bean.PL",
+            "white.PL",
+            "or",
+            "NEG",
+            "I.know"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "think",
+            "<span class=\"sc\">quot</span>",
+            "<span class=\"sc\">foc</span>",
+            "bean.<span class=\"sc\">pl</span>",
+            "white.<span class=\"sc\">pl</span>",
+            "or",
+            "<span class=\"sc\">neg</span>",
+            "I.know"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "think",
+            "\\textsc{quot}",
+            "\\textsc{foc}",
+            "bean.\\textsc{pl}",
+            "white.\\textsc{pl}",
+            "or",
+            "\\textsc{neg}",
+            "I.know"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "A    t\u00ednk    s\u00e9    na  \\textstylePichiexamplebold{jud\u00edas}  \\textstylePichiexamplebold{blancas}  \\textbf{o}  \\textbf{no}  \\textbf{s\u00e9}.",
+        "srcwordsbare": [
+            "A",
+            "t\u00ednk",
+            "s\u00e9",
+            "na",
+            "jud\u00edas",
+            "blancas",
+            "o",
+            "no",
+            "s\u00e9."
+        ],
+        "srcwordshtml": [
+            "A",
+            "t\u00ednk",
+            "s\u00e9",
+            "na",
+            "<span class=\"stylePichiexamplebold\">jud\u00edas</span>",
+            "<span class=\"stylePichiexamplebold\">blancas</span>",
+            "<span class=\"bf\">o</span>",
+            "<span class=\"bf\">no</span>",
+            "<span class=\"bf\">s\u00e9</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "t\u00ednk",
+            "s\u00e9",
+            "na",
+            "\\textstylePichiexamplebold{jud\u00edas}",
+            "\\textstylePichiexamplebold{blancas}",
+            "\\textbf{o}",
+            "\\textbf{no}",
+            "\\textbf{s\u00e9}."
+        ],
+        "trs": "I think they\u2019re white beans or so.\u2019 [eb03sp 122]\\is{borrowing}",
+        "wlength": 9
+    },
+    {
+        "ID": "13-179606",
+        "categories": [
+            "3pl"
+        ],
+        "clength": 41,
+        "filename": "85/chapters/13.tex",
+        "imt": "Cameroonians  yes  \\textsc{3pl}  be.plenty  here",
+        "imtwordsbare": [
+            "Cameroonians",
+            "yes",
+            "3PL",
+            "be.plenty",
+            "here"
+        ],
+        "imtwordshtml": [
+            "Cameroonians",
+            "yes",
+            "<span class=\"sc\">3pl</span>",
+            "be.plenty",
+            "here"
+        ],
+        "imtwordstex": [
+            "Cameroonians",
+            "yes",
+            "\\textsc{3pl}",
+            "be.plenty",
+            "here"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Cameruneses,    y\u025b\u0301s  d\u025bn  pl\u025b\u0301nte    y\u00e1.",
+        "srcwordsbare": [
+            "Cameruneses,",
+            "y\u025b\u0301s",
+            "d\u025bn",
+            "pl\u025b\u0301nte",
+            "y\u00e1."
+        ],
+        "srcwordshtml": [
+            "Cameruneses,",
+            "y\u025b\u0301s",
+            "d\u025bn",
+            "pl\u025b\u0301nte",
+            "y\u00e1."
+        ],
+        "srcwordstex": [
+            "Cameruneses,",
+            "y\u025b\u0301s",
+            "d\u025bn",
+            "pl\u025b\u0301nte",
+            "y\u00e1."
+        ],
+        "trs": "Cameroonians, yes they are many here.\u2019 [ma07fn 607]",
+        "wlength": 5
+    },
+    {
+        "ID": "13-205312",
+        "categories": [
+            "3sg",
+            "be",
+            "ipfv",
+            "loc",
+            "prep",
+            "sbj",
+            "sub"
+        ],
+        "clength": 110,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{3sg.sbj}  \\textsc{ipfv}  go  \\textsc{prep}  some  school  \\textsc{sub}  \\textsc{be.loc}  \\textsc{prep}  government",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "IPFV",
+            "go",
+            "PREP",
+            "some",
+            "school",
+            "SUB",
+            "be.loc",
+            "PREP",
+            "government"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "go",
+            "<span class=\"sc\">prep</span>",
+            "some",
+            "school",
+            "<span class=\"sc\">sub</span>",
+            "<span class=\"sc\">be.loc</span>",
+            "<span class=\"sc\">prep</span>",
+            "government"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "\\textsc{ipfv}",
+            "go",
+            "\\textsc{prep}",
+            "some",
+            "school",
+            "\\textsc{sub}",
+            "\\textsc{be.loc}",
+            "\\textsc{prep}",
+            "government"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "E    de  g\u00f3  f\u0254,  s\u0254n    \\textstylePichiexamplebold{sk\u00fal}    w\u00e9  d\u00e9    f\u0254  \\textstylePichiexamplebold{g\u0254\u0301bna}.",
+        "srcwordsbare": [
+            "E",
+            "de",
+            "g\u00f3",
+            "f\u0254,",
+            "s\u0254n",
+            "sk\u00fal",
+            "w\u00e9",
+            "d\u00e9",
+            "f\u0254",
+            "g\u0254\u0301bna."
+        ],
+        "srcwordshtml": [
+            "E",
+            "de",
+            "g\u00f3",
+            "f\u0254,",
+            "s\u0254n",
+            "<span class=\"stylePichiexamplebold\">sk\u00fal</span>",
+            "w\u00e9",
+            "d\u00e9",
+            "f\u0254",
+            "<span class=\"stylePichiexamplebold\">g\u0254\u0301bna</span>."
+        ],
+        "srcwordstex": [
+            "E",
+            "de",
+            "g\u00f3",
+            "f\u0254,",
+            "s\u0254n",
+            "\\textstylePichiexamplebold{sk\u00fal}",
+            "w\u00e9",
+            "d\u00e9",
+            "f\u0254",
+            "\\textstylePichiexamplebold{g\u0254\u0301bna}."
+        ],
+        "trs": "She goes to a school that belongs to government.\u2019 [ma03hm 028]",
+        "wlength": 10
+    },
+    {
+        "ID": "13--38981",
+        "categories": [
+            "def",
+            "foc"
+        ],
+        "clength": 38,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{def}  teacher    \\textsc{foc}  very.good  teacher",
+        "imtwordsbare": [
+            "DEF",
+            "teacher",
+            "FOC",
+            "very.good",
+            "teacher"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "teacher",
+            "<span class=\"sc\">foc</span>",
+            "very.good",
+            "teacher"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "teacher",
+            "\\textsc{foc}",
+            "very.good",
+            "teacher"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "Di  profesor,    na  b\u025b\u0301ta      profe.",
+        "srcwordsbare": [
+            "Di",
+            "profesor,",
+            "na",
+            "b\u025b\u0301ta",
+            "profe."
+        ],
+        "srcwordshtml": [
+            "Di",
+            "profesor,",
+            "na",
+            "b\u025b\u0301ta",
+            "profe."
+        ],
+        "srcwordstex": [
+            "Di",
+            "profesor,",
+            "na",
+            "b\u025b\u0301ta",
+            "profe."
+        ],
+        "trs": "The (secondary school) teacher is a very good teacher.\u2019 [dj05be 172]",
+        "wlength": 5
+    },
+    {
+        "ID": "13-311785",
+        "categories": [
+            "1sg",
+            "3pl",
+            "3sg",
+            "foc",
+            "poss",
+            "quot",
+            "sbj"
+        ],
+        "clength": 95,
+        "filename": "85/chapters/13.tex",
+        "imt": "\\textsc{1sg.sbj}  think  \\textsc{quot}    \\textsc{3pl}  father  \\textsc{foc}  \\textsc{1sg.poss}  mother  \\textsc{3sg.poss}  cousin",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "think",
+            "QUOT",
+            "3PL",
+            "father",
+            "FOC",
+            "1sg.poss",
+            "mother",
+            "3sg.poss",
+            "cousin"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "think",
+            "<span class=\"sc\">quot</span>",
+            "<span class=\"sc\">3pl</span>",
+            "father",
+            "<span class=\"sc\">foc</span>",
+            "<span class=\"sc\">1sg.poss</span>",
+            "mother",
+            "<span class=\"sc\">3sg.poss</span>",
+            "cousin"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "think",
+            "\\textsc{quot}",
+            "\\textsc{3pl}",
+            "father",
+            "\\textsc{foc}",
+            "\\textsc{1sg.poss}",
+            "mother",
+            "\\textsc{3sg.poss}",
+            "cousin"
+        ],
+        "language": "85/chapters/13.tex",
+        "src": "A    t\u00ednk    s\u00e9    d\u025bn  pap\u00e1  na  mi    mam\u00e1  in    \\textstylePichiexamplebold{\\textit{primo}}.",
+        "srcwordsbare": [
+            "A",
+            "t\u00ednk",
+            "s\u00e9",
+            "d\u025bn",
+            "pap\u00e1",
+            "na",
+            "mi",
+            "mam\u00e1",
+            "in",
+            "\\textit{primo}."
+        ],
+        "srcwordshtml": [
+            "A",
+            "t\u00ednk",
+            "s\u00e9",
+            "d\u025bn",
+            "pap\u00e1",
+            "na",
+            "mi",
+            "mam\u00e1",
+            "in",
+            "<span class=\"stylePichiexamplebold\">\\textit{primo</span>}."
+        ],
+        "srcwordstex": [
+            "A",
+            "t\u00ednk",
+            "s\u00e9",
+            "d\u025bn",
+            "pap\u00e1",
+            "na",
+            "mi",
+            "mam\u00e1",
+            "in",
+            "\\textstylePichiexamplebold{\\textit{primo}}."
+        ],
+        "trs": "I think that their father is my mother\u2019s cousin.\u2019 [fr03ft 059]",
+        "wlength": 10
+    }
+]

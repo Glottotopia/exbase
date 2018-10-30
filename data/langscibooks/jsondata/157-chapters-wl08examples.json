@@ -1,0 +1,797 @@
+[
+    {
+        "ID": "wl08-602024",
+        "categories": [],
+        "clength": 62,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "house      it.(place)   empty",
+        "imtwordsbare": [
+            "house",
+            "it.(place)",
+            "empty"
+        ],
+        "imtwordshtml": [
+            "house",
+            "it.(place)",
+            "empty"
+        ],
+        "imtwordstex": [
+            "house",
+            "it.(place)",
+            "empty"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Yaf {\\ob}i     hasak{\\cb}\\textsubscript{\\upshape\\textsc{pred}}",
+        "srcwordsbare": [
+            "Yaf",
+            "[i",
+            "hasak]\\upshape\\textsc{pred}"
+        ],
+        "srcwordshtml": [
+            "Yaf",
+            "[i",
+            "hasak]<span class=\"subscript\">\\upshape\\textsc{pred</span>}"
+        ],
+        "srcwordstex": [
+            "Yaf",
+            "{\\ob}i",
+            "hasak{\\cb}\\textsubscript{\\upshape\\textsc{pred}}"
+        ],
+        "trs": "No / zero people",
+        "wlength": 3
+    },
+    {
+        "ID": "wl08--76292",
+        "categories": [
+            "",
+            "ord",
+            "poss"
+        ],
+        "clength": 24,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "person    3\\textsc{.poss}   \\textsc{ord} one",
+        "imtwordsbare": [
+            "person",
+            "3.poss",
+            "ORD",
+            "one"
+        ],
+        "imtwordshtml": [
+            "person",
+            "3<span class=\"sc\">.poss</span>",
+            "<span class=\"sc\">ord</span>",
+            "one"
+        ],
+        "imtwordstex": [
+            "person",
+            "3\\textsc{.poss}",
+            "\\textsc{ord}",
+            "one"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "aname    gai  maing   ye",
+        "srcwordsbare": [
+            "aname",
+            "gai",
+            "maing",
+            "ye"
+        ],
+        "srcwordshtml": [
+            "aname",
+            "gai",
+            "maing",
+            "ye"
+        ],
+        "srcwordstex": [
+            "aname",
+            "gai",
+            "maing",
+            "ye"
+        ],
+        "trs": "first person",
+        "wlength": 4
+    },
+    {
+        "ID": "wl08--28723",
+        "categories": [
+            "3sg",
+            "sim"
+        ],
+        "clength": 38,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "three  come  three  add  \\textsc{sim}  \\textsc{3sg} six",
+        "imtwordsbare": [
+            "three",
+            "come",
+            "three",
+            "add",
+            "SIM",
+            "3SG",
+            "six"
+        ],
+        "imtwordshtml": [
+            "three",
+            "come",
+            "three",
+            "add",
+            "<span class=\"sc\">sim</span>",
+            "<span class=\"sc\">3sg</span>",
+            "six"
+        ],
+        "imtwordstex": [
+            "three",
+            "come",
+            "three",
+            "add",
+            "\\textsc{sim}",
+            "\\textsc{3sg}",
+            "six"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Yerig  ma  yerig  taxa'   si  a  tiaam",
+        "srcwordsbare": [
+            "Yerig",
+            "ma",
+            "yerig",
+            "taxa'",
+            "si",
+            "a",
+            "tiaam"
+        ],
+        "srcwordshtml": [
+            "Yerig",
+            "ma",
+            "yerig",
+            "taxa'",
+            "si",
+            "a",
+            "tiaam"
+        ],
+        "srcwordstex": [
+            "Yerig",
+            "ma",
+            "yerig",
+            "taxa'",
+            "si",
+            "a",
+            "tiaam"
+        ],
+        "trs": "Add three with three so (it's) six.",
+        "wlength": 7
+    },
+    {
+        "ID": "wl08--47417",
+        "categories": [],
+        "clength": 28,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "three   take   three   add   six",
+        "imtwordsbare": [
+            "three",
+            "take",
+            "three",
+            "add",
+            "six"
+        ],
+        "imtwordshtml": [
+            "three",
+            "take",
+            "three",
+            "add",
+            "six"
+        ],
+        "imtwordstex": [
+            "three",
+            "take",
+            "three",
+            "add",
+            "six"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Towo  med  towo  ta  talang.",
+        "srcwordsbare": [
+            "Towo",
+            "med",
+            "towo",
+            "ta",
+            "talang."
+        ],
+        "srcwordshtml": [
+            "Towo",
+            "med",
+            "towo",
+            "ta",
+            "talang."
+        ],
+        "srcwordstex": [
+            "Towo",
+            "med",
+            "towo",
+            "ta",
+            "talang."
+        ],
+        "trs": "Take three add three (it's) six.",
+        "wlength": 5
+    },
+    {
+        "ID": "wl08-387816",
+        "categories": [
+            "3",
+            "pat",
+            "see"
+        ],
+        "clength": 37,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "three  take  three-\\textsc{see}  \\textsc{3.pat}{}-add.to  if  six",
+        "imtwordsbare": [
+            "three",
+            "take",
+            "three-SEE",
+            "3.pat{}-add.to",
+            "if",
+            "six"
+        ],
+        "imtwordshtml": [
+            "three",
+            "take",
+            "three-<span class=\"sc\">see</span>",
+            "<span class=\"sc\">3.pat</span>{}-add.to",
+            "if",
+            "six"
+        ],
+        "imtwordstex": [
+            "three",
+            "take",
+            "three-\\textsc{see}",
+            "\\textsc{3.pat}{}-add.to",
+            "if",
+            "six"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Sua  mi  sua-ng  h-ai  maiye  talaama",
+        "srcwordsbare": [
+            "Sua",
+            "mi",
+            "sua-ng",
+            "h-ai",
+            "maiye",
+            "talaama"
+        ],
+        "srcwordshtml": [
+            "Sua",
+            "mi",
+            "sua-ng",
+            "h-ai",
+            "maiye",
+            "talaama"
+        ],
+        "srcwordstex": [
+            "Sua",
+            "mi",
+            "sua-ng",
+            "h-ai",
+            "maiye",
+            "talaama"
+        ],
+        "trs": "If you add three to three, (it's) six.",
+        "wlength": 6
+    },
+    {
+        "ID": "wl08-723666",
+        "categories": [
+            "",
+            "3sg",
+            "clf",
+            "sim"
+        ],
+        "clength": 89,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "banana  \\textsc{clf}  five   two  come  \\textsc{3sg-}split.off  save  then  \\textsc{sim}  \\textsc{clf} three  only",
+        "imtwordsbare": [
+            "banana",
+            "CLF",
+            "five",
+            "two",
+            "come",
+            "3sg-split.off",
+            "save",
+            "then",
+            "SIM",
+            "CLF",
+            "three",
+            "only"
+        ],
+        "imtwordshtml": [
+            "banana",
+            "<span class=\"sc\">clf</span>",
+            "five",
+            "two",
+            "come",
+            "<span class=\"sc\">3sg-</span>split.off",
+            "save",
+            "then",
+            "<span class=\"sc\">sim</span>",
+            "<span class=\"sc\">clf</span>",
+            "three",
+            "only"
+        ],
+        "imtwordstex": [
+            "banana",
+            "\\textsc{clf}",
+            "five",
+            "two",
+            "come",
+            "\\textsc{3sg-}split.off",
+            "save",
+            "then",
+            "\\textsc{sim}",
+            "\\textsc{clf}",
+            "three",
+            "only"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Muxui  kam  yusan,     haraq  ma  ga-fa'   mai   ha  si,{\\hspace{2cm}}  kam  yerig   qai.",
+        "srcwordsbare": [
+            "Muxui",
+            "kam",
+            "yusan,",
+            "haraq",
+            "ma",
+            "ga-fa'",
+            "mai",
+            "ha",
+            "si,{\\hspace{2cm}}",
+            "kam",
+            "yerig",
+            "qai."
+        ],
+        "srcwordshtml": [
+            "Muxui",
+            "kam",
+            "yusan,",
+            "haraq",
+            "ma",
+            "ga-fa'",
+            "mai",
+            "ha",
+            "si,{\\hspace{2cm}}",
+            "kam",
+            "yerig",
+            "qai."
+        ],
+        "srcwordstex": [
+            "Muxui",
+            "kam",
+            "yusan,",
+            "haraq",
+            "ma",
+            "ga-fa'",
+            "mai",
+            "ha",
+            "si,{\\hspace{2cm}}",
+            "kam",
+            "yerig",
+            "qai."
+        ],
+        "trs": "Five bananas,    split off two [to] save then only three [are left].",
+        "wlength": 12
+    },
+    {
+        "ID": "wl08-477132",
+        "categories": [
+            "caus"
+        ],
+        "clength": 34,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "five  \\textsc{caus}{}-affect  less  two  three",
+        "imtwordsbare": [
+            "five",
+            "CAUS{}-affect",
+            "less",
+            "two",
+            "three"
+        ],
+        "imtwordshtml": [
+            "five",
+            "<span class=\"sc\">caus</span>{}-affect",
+            "less",
+            "two",
+            "three"
+        ],
+        "imtwordstex": [
+            "five",
+            "\\textsc{caus}{}-affect",
+            "less",
+            "two",
+            "three"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Iwihing  a-no'   kurung  alu  towo",
+        "srcwordsbare": [
+            "Iwihing",
+            "a-no'",
+            "kurung",
+            "alu",
+            "towo"
+        ],
+        "srcwordshtml": [
+            "Iwihing",
+            "a-no'",
+            "kurung",
+            "alu",
+            "towo"
+        ],
+        "srcwordstex": [
+            "Iwihing",
+            "a-no'",
+            "kurung",
+            "alu",
+            "towo"
+        ],
+        "trs": "Five minus two is three.",
+        "wlength": 5
+    },
+    {
+        "ID": "wl08--98392",
+        "categories": [
+            "3",
+            "alien\\is{alienability",
+            "loc",
+            "pat",
+            "spec"
+        ],
+        "clength": 48,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "five  \\textsc{spec}   two=\\textsc{loc} 3.\\textsc{pat}{}-subtract  if  \\textsc{3.alien\\is{alienability}}{}-remainder  three",
+        "imtwordsbare": [
+            "five",
+            "SPEC",
+            "two=LOC",
+            "3.PAT{}-subtract",
+            "if",
+            "3.alien\\is{alienability}{}-remainder",
+            "three"
+        ],
+        "imtwordshtml": [
+            "five",
+            "<span class=\"sc\">spec</span>",
+            "two=<span class=\"sc\">loc</span>",
+            "3.<span class=\"sc\">pat</span>{}-subtract",
+            "if",
+            "<span class=\"sc\">3.alien\\is{alienability</span>}{}-remainder",
+            "three"
+        ],
+        "imtwordstex": [
+            "five",
+            "\\textsc{spec}",
+            "two=\\textsc{loc}",
+            "3.\\textsc{pat}{}-subtract",
+            "if",
+            "\\textsc{3.alien\\is{alienability}}{}-remainder",
+            "three"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Yeting  nu  ayoku=ng  ha-bel  maiye  he-pot  sua",
+        "srcwordsbare": [
+            "Yeting",
+            "nu",
+            "ayoku=ng",
+            "ha-bel",
+            "maiye",
+            "he-pot",
+            "sua"
+        ],
+        "srcwordshtml": [
+            "Yeting",
+            "nu",
+            "ayoku=ng",
+            "ha-bel",
+            "maiye",
+            "he-pot",
+            "sua"
+        ],
+        "srcwordstex": [
+            "Yeting",
+            "nu",
+            "ayoku=ng",
+            "ha-bel",
+            "maiye",
+            "he-pot",
+            "sua"
+        ],
+        "trs": "If two is subtracted from five, the remainder is three.",
+        "wlength": 7
+    },
+    {
+        "ID": "wl08--81793",
+        "categories": [
+            "3",
+            "cont",
+            "pat",
+            "rdp",
+            "spec"
+        ],
+        "clength": 62,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "\\textsc{rdp}{\\Tilde}group.of.four  \\textsc{3.pat}-count.\\textsc{cont}  \\textsc{spec}  about  five.times  if  ten two",
+        "imtwordsbare": [
+            "RDP{\\Tilde}group.of.four",
+            "3.pat-count.CONT",
+            "SPEC",
+            "about",
+            "five.times",
+            "if",
+            "ten",
+            "two"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">rdp</span>{\\Tilde}group.of.four",
+            "<span class=\"sc\">3.pat</span>-count.<span class=\"sc\">cont</span>",
+            "<span class=\"sc\">spec</span>",
+            "about",
+            "five.times",
+            "if",
+            "ten",
+            "two"
+        ],
+        "imtwordstex": [
+            "\\textsc{rdp}{\\Tilde}group.of.four",
+            "\\textsc{3.pat}-count.\\textsc{cont}",
+            "\\textsc{spec}",
+            "about",
+            "five.times",
+            "if",
+            "ten",
+            "two"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Buk{\\Tilde}bukna  ha-lakda  nu  ming  yekna  maiye  kar ayoku.",
+        "srcwordsbare": [
+            "Buk{\\Tilde}bukna",
+            "ha-lakda",
+            "nu",
+            "ming",
+            "yekna",
+            "maiye",
+            "kar",
+            "ayoku."
+        ],
+        "srcwordshtml": [
+            "Buk{\\Tilde}bukna",
+            "ha-lakda",
+            "nu",
+            "ming",
+            "yekna",
+            "maiye",
+            "kar",
+            "ayoku."
+        ],
+        "srcwordstex": [
+            "Buk{\\Tilde}bukna",
+            "ha-lakda",
+            "nu",
+            "ming",
+            "yekna",
+            "maiye",
+            "kar",
+            "ayoku."
+        ],
+        "trs": "If a group of four is counted five times, it is twenty.",
+        "wlength": 8
+    },
+    {
+        "ID": "wl08-145092",
+        "categories": [
+            "sim"
+        ],
+        "clength": 41,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "ten  one  divide  3sg-eye  two  \\textsc{sim}  five",
+        "imtwordsbare": [
+            "ten",
+            "one",
+            "divide",
+            "3sg-eye",
+            "two",
+            "SIM",
+            "five"
+        ],
+        "imtwordshtml": [
+            "ten",
+            "one",
+            "divide",
+            "3sg-eye",
+            "two",
+            "<span class=\"sc\">sim</span>",
+            "five"
+        ],
+        "imtwordstex": [
+            "ten",
+            "one",
+            "divide",
+            "3sg-eye",
+            "two",
+            "\\textsc{sim}",
+            "five"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Qaar  nuk  paxai  g-et  haraq  si  yusan.",
+        "srcwordsbare": [
+            "Qaar",
+            "nuk",
+            "paxai",
+            "g-et",
+            "haraq",
+            "si",
+            "yusan."
+        ],
+        "srcwordshtml": [
+            "Qaar",
+            "nuk",
+            "paxai",
+            "g-et",
+            "haraq",
+            "si",
+            "yusan."
+        ],
+        "srcwordstex": [
+            "Qaar",
+            "nuk",
+            "paxai",
+            "g-et",
+            "haraq",
+            "si",
+            "yusan."
+        ],
+        "trs": "Ten divided in two parts (lit. eyes), then (it's) five.",
+        "wlength": 7
+    },
+    {
+        "ID": "wl08-209855",
+        "categories": [
+            "3",
+            "conj",
+            "loc",
+            "spec"
+        ],
+        "clength": 38,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "ten  one=\\textsc{spec}  \\textsc{3.loc}-two  thus-set=\\textsc{conj}  five",
+        "imtwordsbare": [
+            "ten",
+            "one=SPEC",
+            "3.loc-two",
+            "thus-set=CONJ",
+            "five"
+        ],
+        "imtwordshtml": [
+            "ten",
+            "one=<span class=\"sc\">spec</span>",
+            "<span class=\"sc\">3.loc</span>-two",
+            "thus-set=<span class=\"sc\">conj</span>",
+            "five"
+        ],
+        "imtwordstex": [
+            "ten",
+            "one=\\textsc{spec}",
+            "\\textsc{3.loc}-two",
+            "thus-set=\\textsc{conj}",
+            "five"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Ataak  nok=a  wo-ok  an-ing=bo  wesing",
+        "srcwordsbare": [
+            "Ataak",
+            "nok=a",
+            "wo-ok",
+            "an-ing=bo",
+            "wesing"
+        ],
+        "srcwordshtml": [
+            "Ataak",
+            "nok=a",
+            "wo-ok",
+            "an-ing=bo",
+            "wesing"
+        ],
+        "srcwordstex": [
+            "Ataak",
+            "nok=a",
+            "wo-ok",
+            "an-ing=bo",
+            "wesing"
+        ],
+        "trs": "Ten divided into two makes five.",
+        "wlength": 5
+    },
+    {
+        "ID": "wl08--87520",
+        "categories": [
+            "poss"
+        ],
+        "clength": 33,
+        "filename": "157/chapters/wl08.tex",
+        "imt": "one  divide  \\textsc{poss}{}-four",
+        "imtwordsbare": [
+            "one",
+            "divide",
+            "POSS{}-four"
+        ],
+        "imtwordshtml": [
+            "one",
+            "divide",
+            "<span class=\"sc\">poss</span>{}-four"
+        ],
+        "imtwordstex": [
+            "one",
+            "divide",
+            "\\textsc{poss}{}-four"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Nu  'aba'ang  {\\textglotstop}o-ut",
+        "srcwordsbare": [
+            "Nu",
+            "'aba'ang",
+            "{\\textglotstop}o-ut"
+        ],
+        "srcwordshtml": [
+            "Nu",
+            "'aba'ang",
+            "{\\textglotstop}o-ut"
+        ],
+        "srcwordstex": [
+            "Nu",
+            "'aba'ang",
+            "{\\textglotstop}o-ut"
+        ],
+        "trs": "one fourth",
+        "wlength": 3
+    },
+    {
+        "ID": "wl08--70286",
+        "categories": [],
+        "clength": 27,
+        "coordination": "and",
+        "filename": "157/chapters/wl08.tex",
+        "imt": "cooked.rice  plate  one  half",
+        "imtwordsbare": [
+            "cooked.rice",
+            "plate",
+            "one",
+            "half"
+        ],
+        "imtwordshtml": [
+            "cooked.rice",
+            "plate",
+            "one",
+            "half"
+        ],
+        "imtwordstex": [
+            "cooked.rice",
+            "plate",
+            "one",
+            "half"
+        ],
+        "language": "157/chapters/wl08.tex",
+        "src": "Nalama  pingai  nuku  ahama",
+        "srcwordsbare": [
+            "Nalama",
+            "pingai",
+            "nuku",
+            "ahama"
+        ],
+        "srcwordshtml": [
+            "Nalama",
+            "pingai",
+            "nuku",
+            "ahama"
+        ],
+        "srcwordstex": [
+            "Nalama",
+            "pingai",
+            "nuku",
+            "ahama"
+        ],
+        "trs": "One and a half plates of rice",
+        "wlength": 4
+    }
+]

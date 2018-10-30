@@ -1,0 +1,2926 @@
+[
+    {
+        "ID": "02-169965",
+        "categories": [
+            "1sg",
+            "3sg",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 58,
+        "filename": "215/chapters/02.tex",
+        "imt": "the    Peter.\\textsc{nom}/I  know-\\textsc{3sg}/-\\textsc{1sg}    \\textsc{sbjv}  swim-\\textsc{3sg}/-\\textsc{1sg}",
+        "imtwordsbare": [
+            "the",
+            "Peter.NOM/I",
+            "know-3SG/-1SG",
+            "SBJV",
+            "swim-3SG/-1SG"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Peter.<span class=\"sc\">nom</span>/I",
+            "know-<span class=\"sc\">3sg</span>/-<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "swim-<span class=\"sc\">3sg</span>/-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Peter.\\textsc{nom}/I",
+            "know-\\textsc{3sg}/-\\textsc{1sg}",
+            "\\textsc{sbjv}",
+            "swim-\\textsc{3sg}/-\\textsc{1sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "O  Petros/ego  kser-i/-o        \\textbf{na}    koliba-i/-o",
+        "srcwordsbare": [
+            "O",
+            "Petros/ego",
+            "kser-i/-o",
+            "na",
+            "koliba-i/-o"
+        ],
+        "srcwordshtml": [
+            "O",
+            "Petros/ego",
+            "kser-i/-o",
+            "<span class=\"bf\">na</span>",
+            "koliba-i/-o"
+        ],
+        "srcwordstex": [
+            "O",
+            "Petros/ego",
+            "kser-i/-o",
+            "\\textbf{na}",
+            "koliba-i/-o"
+        ],
+        "trs": "Peter/I knows/know how to swim.",
+        "wlength": 5
+    },
+    {
+        "ID": "02-390796",
+        "categories": [
+            "1",
+            "nom",
+            "sbjv",
+            "sg"
+        ],
+        "clength": 46,
+        "filename": "215/chapters/02.tex",
+        "imt": "the Peter.\\textsc{nom}   knows  \\textsc{sbjv}   swim.\\textbf{\\textsc{1}}\\textsc{sg}",
+        "imtwordsbare": [
+            "the",
+            "Peter.1{nom}",
+            "knows",
+            "1{sbjv}",
+            "swim.1{1}1{sg}"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Peter.<span class=\"sc\">nom</span>",
+            "knows",
+            "<span class=\"sc\">sbjv</span>",
+            "swim.<span class=\"bf\">\\textsc{1</span>}<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Peter.\\textsc{nom}",
+            "knows",
+            "\\textsc{sbjv}",
+            "swim.\\textbf{\\textsc{1}}\\textsc{sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "o Petros      kseri     na   \\textbf{kolimbao}",
+        "srcwordsbare": [
+            "o",
+            "Petros",
+            "kseri",
+            "na",
+            "kolimbao"
+        ],
+        "srcwordshtml": [
+            "o",
+            "Petros",
+            "kseri",
+            "na",
+            "<span class=\"bf\">kolimbao</span>"
+        ],
+        "srcwordstex": [
+            "o",
+            "Petros",
+            "kseri",
+            "na",
+            "\\textbf{kolimbao}"
+        ],
+        "trs": "Lit. \u2018Peter knows how I swim.\u2019}",
+        "wlength": 5
+    },
+    {
+        "ID": "02-761091",
+        "categories": [
+            "3",
+            "nom",
+            "sbjv",
+            "sg"
+        ],
+        "clength": 57,
+        "filename": "215/chapters/02.tex",
+        "imt": "the Peter.\\textsc{nom}  knows  \\textsc{sbjv}   swim.\\textbf{\\textsc{3}}\\textsc{sg} the   Mary.\\textsc{nom}",
+        "imtwordsbare": [
+            "the",
+            "Peter.NOM",
+            "knows",
+            "SBJV",
+            "swim.\\textsc{3}SG",
+            "the",
+            "Mary.NOM"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Peter.<span class=\"sc\">nom</span>",
+            "knows",
+            "<span class=\"sc\">sbjv</span>",
+            "swim.<span class=\"bf\">\\textsc{3</span>}<span class=\"sc\">sg</span>",
+            "the",
+            "Mary.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Peter.\\textsc{nom}",
+            "knows",
+            "\\textsc{sbjv}",
+            "swim.\\textbf{\\textsc{3}}\\textsc{sg}",
+            "the",
+            "Mary.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "o  Petros    kseri    na   \\textbf{kolimbai}   I    Maria",
+        "srcwordsbare": [
+            "o",
+            "Petros",
+            "kseri",
+            "na",
+            "kolimbai",
+            "I",
+            "Maria"
+        ],
+        "srcwordshtml": [
+            "o",
+            "Petros",
+            "kseri",
+            "na",
+            "<span class=\"bf\">kolimbai</span>",
+            "I",
+            "Maria"
+        ],
+        "srcwordstex": [
+            "o",
+            "Petros",
+            "kseri",
+            "na",
+            "\\textbf{kolimbai}",
+            "I",
+            "Maria"
+        ],
+        "trs": "Lit. \u2018Peter knows how Mary swims.\u2019}",
+        "wlength": 7
+    },
+    {
+        "ID": "02-141506",
+        "categories": [
+            "3pl",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 48,
+        "filename": "215/chapters/02.tex",
+        "imt": "the    Peter.\\textsc{nom} expects  \\textsc{sbjv}  come.\\textsc{3pl}",
+        "imtwordsbare": [
+            "the",
+            "Peter.NOM",
+            "expects",
+            "SBJV",
+            "come.3PL"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Peter.<span class=\"sc\">nom</span>",
+            "expects",
+            "<span class=\"sc\">sbjv</span>",
+            "come.<span class=\"sc\">3pl</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Peter.\\textsc{nom}",
+            "expects",
+            "\\textsc{sbjv}",
+            "come.\\textsc{3pl}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "O    Petros      perimeni  na    \\textbf{erthun}",
+        "srcwordsbare": [
+            "O",
+            "Petros",
+            "perimeni",
+            "na",
+            "erthun"
+        ],
+        "srcwordshtml": [
+            "O",
+            "Petros",
+            "perimeni",
+            "na",
+            "<span class=\"bf\">erthun</span>"
+        ],
+        "srcwordstex": [
+            "O",
+            "Petros",
+            "perimeni",
+            "na",
+            "\\textbf{erthun}"
+        ],
+        "trs": "Peter expects that they come.",
+        "wlength": 5
+    },
+    {
+        "ID": "02-568752",
+        "categories": [
+            "3sg",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 59,
+        "filename": "215/chapters/02.tex",
+        "imt": "the    Peter.\\textsc{nom}   hopes  \\textsc{sbjv}  go.\\textsc{3sg}  the    Mary.\\textsc{nom}",
+        "imtwordsbare": [
+            "the",
+            "Peter.NOM",
+            "hopes",
+            "SBJV",
+            "go.3SG",
+            "the",
+            "Mary.NOM"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Peter.<span class=\"sc\">nom</span>",
+            "hopes",
+            "<span class=\"sc\">sbjv</span>",
+            "go.<span class=\"sc\">3sg</span>",
+            "the",
+            "Mary.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Peter.\\textsc{nom}",
+            "hopes",
+            "\\textsc{sbjv}",
+            "go.\\textsc{3sg}",
+            "the",
+            "Mary.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "o     Petros    elpizi  na    figi     i     \\textbf{Maria}",
+        "srcwordsbare": [
+            "o",
+            "Petros",
+            "elpizi",
+            "na",
+            "figi",
+            "i",
+            "Maria"
+        ],
+        "srcwordshtml": [
+            "o",
+            "Petros",
+            "elpizi",
+            "na",
+            "figi",
+            "i",
+            "<span class=\"bf\">Maria</span>"
+        ],
+        "srcwordstex": [
+            "o",
+            "Petros",
+            "elpizi",
+            "na",
+            "figi",
+            "i",
+            "\\textbf{Maria}"
+        ],
+        "trs": "Peter hopes that Mary goes.",
+        "wlength": 7
+    },
+    {
+        "ID": "02--43783",
+        "categories": [
+            "3sg",
+            "nom",
+            "nom sbjv"
+        ],
+        "clength": 99,
+        "filename": "215/chapters/02.tex",
+        "imt": "the John.\\textsc{nom} learned.\\textsc{3sg} the John.\\textsc{nom sbjv} play.\\textsc{3sg} the John.\\textsc{nom} guitar the John.\\textsc{nom}",
+        "imtwordsbare": [
+            "the",
+            "John.NOM",
+            "learned.3SG",
+            "the",
+            "John.\\textsc{nom",
+            "sbjv}",
+            "play.3SG",
+            "the",
+            "John.NOM",
+            "guitar",
+            "the",
+            "John.NOM"
+        ],
+        "imtwordshtml": [
+            "the",
+            "John.<span class=\"sc\">nom</span>",
+            "learned.<span class=\"sc\">3sg</span>",
+            "the",
+            "John.\\textsc{nom",
+            "sbjv}",
+            "play.<span class=\"sc\">3sg</span>",
+            "the",
+            "John.<span class=\"sc\">nom</span>",
+            "guitar",
+            "the",
+            "John.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "John.\\textsc{nom}",
+            "learned.\\textsc{3sg}",
+            "the",
+            "John.\\textsc{nom",
+            "sbjv}",
+            "play.\\textsc{3sg}",
+            "the",
+            "John.\\textsc{nom}",
+            "guitar",
+            "the",
+            "John.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "(O \\textbf{Janis}) emathe (o \\textbf{Janis}) na pezi  (o \\textbf{Janis}) kithara (o \\textbf{Janis})",
+        "srcwordsbare": [
+            "(O",
+            "Janis)",
+            "emathe",
+            "(o",
+            "Janis)",
+            "na",
+            "pezi",
+            "(o",
+            "Janis)",
+            "kithara",
+            "(o",
+            "Janis)"
+        ],
+        "srcwordshtml": [
+            "(O",
+            "<span class=\"bf\">Janis</span>)",
+            "emathe",
+            "(o",
+            "<span class=\"bf\">Janis</span>)",
+            "na",
+            "pezi",
+            "(o",
+            "<span class=\"bf\">Janis</span>)",
+            "kithara",
+            "(o",
+            "<span class=\"bf\">Janis</span>)"
+        ],
+        "srcwordstex": [
+            "(O",
+            "\\textbf{Janis})",
+            "emathe",
+            "(o",
+            "\\textbf{Janis})",
+            "na",
+            "pezi",
+            "(o",
+            "\\textbf{Janis})",
+            "kithara",
+            "(o",
+            "\\textbf{Janis})"
+        ],
+        "trs": "John learned to play the guitar.",
+        "wlength": 12
+    },
+    {
+        "ID": "02-523631",
+        "categories": [
+            "3sg",
+            "3sg  sbjv",
+            "nom"
+        ],
+        "clength": 51,
+        "filename": "215/chapters/02.tex",
+        "imt": "not   learned.\\textsc{3sg  sbjv}  cook.\\textsc{3sg}    the    John.\\textsc{nom}",
+        "imtwordsbare": [
+            "not",
+            "learned.\\textsc{3sg",
+            "sbjv}",
+            "cook.3SG",
+            "the",
+            "John.NOM"
+        ],
+        "imtwordshtml": [
+            "not",
+            "learned.\\textsc{3sg",
+            "sbjv}",
+            "cook.<span class=\"sc\">3sg</span>",
+            "the",
+            "John.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "not",
+            "learned.\\textsc{3sg",
+            "sbjv}",
+            "cook.\\textsc{3sg}",
+            "the",
+            "John.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "\\textbf{Den}  emathe    na    magirevi   o    Janis",
+        "srcwordsbare": [
+            "Den",
+            "emathe",
+            "na",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Den</span>",
+            "emathe",
+            "na",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "srcwordstex": [
+            "\\textbf{Den}",
+            "emathe",
+            "na",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "trs": "John didn\u2019t learn to cook.",
+        "wlength": 6
+    },
+    {
+        "ID": "02-827468",
+        "categories": [
+            "3sg",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 53,
+        "filename": "215/chapters/02.tex",
+        "imt": "learned.\\textsc{3sg}  \\textsc{sbjv} not  cook.\\textsc{3sg} the   John.\\textsc{nom}",
+        "imtwordsbare": [
+            "learned.3SG",
+            "SBJV",
+            "not",
+            "cook.3SG",
+            "the",
+            "John.NOM"
+        ],
+        "imtwordshtml": [
+            "learned.<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "not",
+            "cook.<span class=\"sc\">3sg</span>",
+            "the",
+            "John.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "learned.\\textsc{3sg}",
+            "\\textsc{sbjv}",
+            "not",
+            "cook.\\textsc{3sg}",
+            "the",
+            "John.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "Emathe     na   \\textbf{min}   magirevi    o    Janis",
+        "srcwordsbare": [
+            "Emathe",
+            "na",
+            "min",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "srcwordshtml": [
+            "Emathe",
+            "na",
+            "<span class=\"bf\">min</span>",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "srcwordstex": [
+            "Emathe",
+            "na",
+            "\\textbf{min}",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "trs": "John learned not to cook (i.e. \u2018John got into the habit of not cooking\u2019).",
+        "wlength": 6
+    },
+    {
+        "ID": "02--10543",
+        "categories": [
+            "3sg",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 65,
+        "filename": "215/chapters/02.tex",
+        "imt": "not  learned.\\textsc{3sg}  \\textsc{sbjv} not  cook.\\textsc{3sg}    the   John.\\textsc{nom}",
+        "imtwordsbare": [
+            "not",
+            "learned.3SG",
+            "SBJV",
+            "not",
+            "cook.3SG",
+            "the",
+            "John.NOM"
+        ],
+        "imtwordshtml": [
+            "not",
+            "learned.<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "not",
+            "cook.<span class=\"sc\">3sg</span>",
+            "the",
+            "John.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "not",
+            "learned.\\textsc{3sg}",
+            "\\textsc{sbjv}",
+            "not",
+            "cook.\\textsc{3sg}",
+            "the",
+            "John.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "\\textbf{Den}   emathe    na   \\textbf{min} magirevi    o    Janis",
+        "srcwordsbare": [
+            "Den",
+            "emathe",
+            "na",
+            "min",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Den</span>",
+            "emathe",
+            "na",
+            "<span class=\"bf\">min</span>",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "srcwordstex": [
+            "\\textbf{Den}",
+            "emathe",
+            "na",
+            "\\textbf{min}",
+            "magirevi",
+            "o",
+            "Janis"
+        ],
+        "trs": "John didn\u2019t learn not to cook (i.e. \u2018John still has the habit of cooking\u2019).",
+        "wlength": 7
+    },
+    {
+        "ID": "02-367729",
+        "categories": [
+            "3sg",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 80,
+        "filename": "215/chapters/02.tex",
+        "imt": "this.year dared.\\textsc{3sg}  four    times  \\textsc{sbjv} shoot.\\textsc{3sg}   the  John.\\textsc{nom}",
+        "imtwordsbare": [
+            "this.year",
+            "dared.3SG",
+            "four",
+            "times",
+            "SBJV",
+            "shoot.3SG",
+            "the",
+            "John.NOM"
+        ],
+        "imtwordshtml": [
+            "this.year",
+            "dared.<span class=\"sc\">3sg</span>",
+            "four",
+            "times",
+            "<span class=\"sc\">sbjv</span>",
+            "shoot.<span class=\"sc\">3sg</span>",
+            "the",
+            "John.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "this.year",
+            "dared.\\textsc{3sg}",
+            "four",
+            "times",
+            "\\textsc{sbjv}",
+            "shoot.\\textsc{3sg}",
+            "the",
+            "John.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "Fetos  tolmise     \\textbf{tesseris}  \\textbf{fores} na   pirovolisi  o    Janis",
+        "srcwordsbare": [
+            "Fetos",
+            "tolmise",
+            "tesseris",
+            "fores",
+            "na",
+            "pirovolisi",
+            "o",
+            "Janis"
+        ],
+        "srcwordshtml": [
+            "Fetos",
+            "tolmise",
+            "<span class=\"bf\">tesseris</span>",
+            "<span class=\"bf\">fores</span>",
+            "na",
+            "pirovolisi",
+            "o",
+            "Janis"
+        ],
+        "srcwordstex": [
+            "Fetos",
+            "tolmise",
+            "\\textbf{tesseris}",
+            "\\textbf{fores}",
+            "na",
+            "pirovolisi",
+            "o",
+            "Janis"
+        ],
+        "trs": "This year there were four times that John dared to shoot.",
+        "wlength": 8
+    },
+    {
+        "ID": "02-486323",
+        "categories": [
+            "3sg",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 78,
+        "filename": "215/chapters/02.tex",
+        "imt": "this.year  dared.\\textsc{3sg}  \\textsc{sbjv} shoot.\\textsc{3sg}   four  times  the  John.\\textsc{nom}",
+        "imtwordsbare": [
+            "this.year",
+            "dared.3SG",
+            "SBJV",
+            "shoot.3SG",
+            "four",
+            "times",
+            "the",
+            "John.NOM"
+        ],
+        "imtwordshtml": [
+            "this.year",
+            "dared.<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "shoot.<span class=\"sc\">3sg</span>",
+            "four",
+            "times",
+            "the",
+            "John.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "this.year",
+            "dared.\\textsc{3sg}",
+            "\\textsc{sbjv}",
+            "shoot.\\textsc{3sg}",
+            "four",
+            "times",
+            "the",
+            "John.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "Fetos  tolmise  na    pirovolisi  \\textbf{tesseris}  \\textbf{fores} o    Janis",
+        "srcwordsbare": [
+            "Fetos",
+            "tolmise",
+            "na",
+            "pirovolisi",
+            "tesseris",
+            "fores",
+            "o",
+            "Janis"
+        ],
+        "srcwordshtml": [
+            "Fetos",
+            "tolmise",
+            "na",
+            "pirovolisi",
+            "<span class=\"bf\">tesseris</span>",
+            "<span class=\"bf\">fores</span>",
+            "o",
+            "Janis"
+        ],
+        "srcwordstex": [
+            "Fetos",
+            "tolmise",
+            "na",
+            "pirovolisi",
+            "\\textbf{tesseris}",
+            "\\textbf{fores}",
+            "o",
+            "Janis"
+        ],
+        "trs": "This year John dared to shoot four times (in a row).",
+        "wlength": 8
+    },
+    {
+        "ID": "02--40899",
+        "categories": [
+            "nom",
+            "sbjv"
+        ],
+        "clength": 90,
+        "filename": "215/chapters/02.tex",
+        "imt": "forgot   \\textsc{sbjv} rinse   the  John.\\textsc{nom} the  shirt        four     times",
+        "imtwordsbare": [
+            "forgot",
+            "SBJV",
+            "rinse",
+            "the",
+            "John.NOM",
+            "the",
+            "shirt",
+            "four",
+            "times"
+        ],
+        "imtwordshtml": [
+            "forgot",
+            "<span class=\"sc\">sbjv</span>",
+            "rinse",
+            "the",
+            "John.<span class=\"sc\">nom</span>",
+            "the",
+            "shirt",
+            "four",
+            "times"
+        ],
+        "imtwordstex": [
+            "forgot",
+            "\\textsc{sbjv}",
+            "rinse",
+            "the",
+            "John.\\textsc{nom}",
+            "the",
+            "shirt",
+            "four",
+            "times"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "ksehase  na    ksevgali  o    Janis       to    pukamiso  \\textbf{teseris}  \\textbf{fores}",
+        "srcwordsbare": [
+            "ksehase",
+            "na",
+            "ksevgali",
+            "o",
+            "Janis",
+            "to",
+            "pukamiso",
+            "teseris",
+            "fores"
+        ],
+        "srcwordshtml": [
+            "ksehase",
+            "na",
+            "ksevgali",
+            "o",
+            "Janis",
+            "to",
+            "pukamiso",
+            "<span class=\"bf\">teseris</span>",
+            "<span class=\"bf\">fores</span>"
+        ],
+        "srcwordstex": [
+            "ksehase",
+            "na",
+            "ksevgali",
+            "o",
+            "Janis",
+            "to",
+            "pukamiso",
+            "\\textbf{teseris}",
+            "\\textbf{fores}"
+        ],
+        "trs": "John forgot to rinse the shirt four times.\u2019 (\\textit{four rinsings/forgettings})",
+        "wlength": 9
+    },
+    {
+        "ID": "02-601451",
+        "categories": [
+            "nom",
+            "sbjv"
+        ],
+        "clength": 84,
+        "filename": "215/chapters/02.tex",
+        "imt": "forgot  four   times  \\textsc{sbjv}  rinse  the  John.\\textsc{nom} the  shirt",
+        "imtwordsbare": [
+            "forgot",
+            "four",
+            "times",
+            "SBJV",
+            "rinse",
+            "the",
+            "John.NOM",
+            "the",
+            "shirt"
+        ],
+        "imtwordshtml": [
+            "forgot",
+            "four",
+            "times",
+            "<span class=\"sc\">sbjv</span>",
+            "rinse",
+            "the",
+            "John.<span class=\"sc\">nom</span>",
+            "the",
+            "shirt"
+        ],
+        "imtwordstex": [
+            "forgot",
+            "four",
+            "times",
+            "\\textsc{sbjv}",
+            "rinse",
+            "the",
+            "John.\\textsc{nom}",
+            "the",
+            "shirt"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "ksehase  \\textbf{teseris}  \\textbf{fores} na  ksevgali  o    Janis      to  pukamiso",
+        "srcwordsbare": [
+            "ksehase",
+            "teseris",
+            "fores",
+            "na",
+            "ksevgali",
+            "o",
+            "Janis",
+            "to",
+            "pukamiso"
+        ],
+        "srcwordshtml": [
+            "ksehase",
+            "<span class=\"bf\">teseris</span>",
+            "<span class=\"bf\">fores</span>",
+            "na",
+            "ksevgali",
+            "o",
+            "Janis",
+            "to",
+            "pukamiso"
+        ],
+        "srcwordstex": [
+            "ksehase",
+            "\\textbf{teseris}",
+            "\\textbf{fores}",
+            "na",
+            "ksevgali",
+            "o",
+            "Janis",
+            "to",
+            "pukamiso"
+        ],
+        "trs": "John forgot four times to rinse the shirt.\u2019 (\\textit{four forgettings})",
+        "wlength": 9
+    },
+    {
+        "ID": "02--56285",
+        "categories": [
+            "nom",
+            "sbjv"
+        ],
+        "clength": 78,
+        "filename": "215/chapters/02.tex",
+        "imt": "the  Peter.\\textsc{nom} ordered  \\textsc{sbjv} not   was.fired  nobody.\\textsc{nom}",
+        "imtwordsbare": [
+            "the",
+            "Peter.NOM",
+            "ordered",
+            "SBJV",
+            "not",
+            "was.fired",
+            "nobody.NOM"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Peter.<span class=\"sc\">nom</span>",
+            "ordered",
+            "<span class=\"sc\">sbjv</span>",
+            "not",
+            "was.fired",
+            "nobody.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Peter.\\textsc{nom}",
+            "ordered",
+            "\\textsc{sbjv}",
+            "not",
+            "was.fired",
+            "nobody.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "O  Petros     dietakse  \\textit{na}   \\textbf{min} apolithi     \\textbf{kanis}",
+        "srcwordsbare": [
+            "O",
+            "Petros",
+            "dietakse",
+            "na",
+            "min",
+            "apolithi",
+            "kanis"
+        ],
+        "srcwordshtml": [
+            "O",
+            "Petros",
+            "dietakse",
+            "<span class=\"it\">na</span>",
+            "<span class=\"bf\">min</span>",
+            "apolithi",
+            "<span class=\"bf\">kanis</span>"
+        ],
+        "srcwordstex": [
+            "O",
+            "Petros",
+            "dietakse",
+            "\\textit{na}",
+            "\\textbf{min}",
+            "apolithi",
+            "\\textbf{kanis}"
+        ],
+        "trs": "Peter ordered that nobody was fired.\u2019\\label{ex:alexiadou:11a}}",
+        "wlength": 7
+    },
+    {
+        "ID": "02--30055",
+        "categories": [
+            "nom",
+            "sbjv"
+        ],
+        "clength": 70,
+        "filename": "215/chapters/02.tex",
+        "imt": "the  Peter.\\textsc{nom} not  ordered  \\textsc{sbjv}  was.fired  nobody.\\textsc{nom}",
+        "imtwordsbare": [
+            "the",
+            "Peter.NOM",
+            "not",
+            "ordered",
+            "SBJV",
+            "was.fired",
+            "nobody.NOM"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Peter.<span class=\"sc\">nom</span>",
+            "not",
+            "ordered",
+            "<span class=\"sc\">sbjv</span>",
+            "was.fired",
+            "nobody.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "Peter.\\textsc{nom}",
+            "not",
+            "ordered",
+            "\\textsc{sbjv}",
+            "was.fired",
+            "nobody.\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "O  Petros \\textbf{den} dietakse  \\textit{na} apolithi   \\textbf{kanis}",
+        "srcwordsbare": [
+            "O",
+            "Petros",
+            "den",
+            "dietakse",
+            "na",
+            "apolithi",
+            "kanis"
+        ],
+        "srcwordshtml": [
+            "O",
+            "Petros",
+            "<span class=\"bf\">den</span>",
+            "dietakse",
+            "<span class=\"it\">na</span>",
+            "apolithi",
+            "<span class=\"bf\">kanis</span>"
+        ],
+        "srcwordstex": [
+            "O",
+            "Petros",
+            "\\textbf{den}",
+            "dietakse",
+            "\\textit{na}",
+            "apolithi",
+            "\\textbf{kanis}"
+        ],
+        "trs": "Peter did not order that anybody was fired.\u2019\\label{ex:alexiadou:11b}}",
+        "wlength": 7
+    },
+    {
+        "ID": "02-249495",
+        "categories": [
+            "3sg",
+            "3sg  sbjv",
+            "acc",
+            "nom"
+        ],
+        "clength": 74,
+        "filename": "215/chapters/02.tex",
+        "imt": "nobody.\\textsc{nom}  not   dared.\\textsc{3sg  sbjv}  eat.\\textsc{3sg} the   cheese.\\textsc{acc}",
+        "imtwordsbare": [
+            "nobody.NOM",
+            "not",
+            "dared.\\textsc{3sg",
+            "sbjv}",
+            "eat.3SG",
+            "the",
+            "cheese.ACC"
+        ],
+        "imtwordshtml": [
+            "nobody.<span class=\"sc\">nom</span>",
+            "not",
+            "dared.\\textsc{3sg",
+            "sbjv}",
+            "eat.<span class=\"sc\">3sg</span>",
+            "the",
+            "cheese.<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "nobody.\\textsc{nom}",
+            "not",
+            "dared.\\textsc{3sg",
+            "sbjv}",
+            "eat.\\textsc{3sg}",
+            "the",
+            "cheese.\\textsc{acc}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "\\textbf{Kanis}   \\textbf{den} tolmise      \\textit{na} fai      to    tiri",
+        "srcwordsbare": [
+            "Kanis",
+            "den",
+            "tolmise",
+            "na",
+            "fai",
+            "to",
+            "tiri"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Kanis</span>",
+            "<span class=\"bf\">den</span>",
+            "tolmise",
+            "<span class=\"it\">na</span>",
+            "fai",
+            "to",
+            "tiri"
+        ],
+        "srcwordstex": [
+            "\\textbf{Kanis}",
+            "\\textbf{den}",
+            "tolmise",
+            "\\textit{na}",
+            "fai",
+            "to",
+            "tiri"
+        ],
+        "trs": "Nobody dared to eat the cheese.\u2019}",
+        "wlength": 7
+    },
+    {
+        "ID": "02--72501",
+        "categories": [
+            "3sg",
+            "3sg  sbjv"
+        ],
+        "clength": 71,
+        "filename": "215/chapters/02.tex",
+        "imt": "not  dared.\\textsc{3sg  sbjv}  eat.\\textsc{3sg} nobody  the    cheese",
+        "imtwordsbare": [
+            "not",
+            "dared.\\textsc{3sg",
+            "sbjv}",
+            "eat.3SG",
+            "nobody",
+            "the",
+            "cheese"
+        ],
+        "imtwordshtml": [
+            "not",
+            "dared.\\textsc{3sg",
+            "sbjv}",
+            "eat.<span class=\"sc\">3sg</span>",
+            "nobody",
+            "the",
+            "cheese"
+        ],
+        "imtwordstex": [
+            "not",
+            "dared.\\textsc{3sg",
+            "sbjv}",
+            "eat.\\textsc{3sg}",
+            "nobody",
+            "the",
+            "cheese"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "\\textbf{Den}  tolmise    \\textit{na} fai       \\textbf{kanis} to   tiri",
+        "srcwordsbare": [
+            "Den",
+            "tolmise",
+            "na",
+            "fai",
+            "kanis",
+            "to",
+            "tiri"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Den</span>",
+            "tolmise",
+            "<span class=\"it\">na</span>",
+            "fai",
+            "<span class=\"bf\">kanis</span>",
+            "to",
+            "tiri"
+        ],
+        "srcwordstex": [
+            "\\textbf{Den}",
+            "tolmise",
+            "\\textit{na}",
+            "fai",
+            "\\textbf{kanis}",
+            "to",
+            "tiri"
+        ],
+        "trs": "Nobody dared to eat the cheese.\u2019}",
+        "wlength": 7
+    },
+    {
+        "ID": "02-678948",
+        "categories": [
+            "3sg",
+            "acc",
+            "cl",
+            "neg",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 57,
+        "filename": "215/chapters/02.tex",
+        "imt": "manage-\\textsc{3sg} \\textsc{sbjv}  \\textsc{neg}  \\textsc{cl-acc} worry-\\textsc{3sg} the financial crisis-\\textsc{nom}",
+        "imtwordsbare": [
+            "manage-3SG",
+            "SBJV",
+            "NEG",
+            "cl-acc",
+            "worry-3SG",
+            "the",
+            "financial",
+            "crisis-NOM"
+        ],
+        "imtwordshtml": [
+            "manage-<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">cl-acc</span>",
+            "worry-<span class=\"sc\">3sg</span>",
+            "the",
+            "financial",
+            "crisis-<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "manage-\\textsc{3sg}",
+            "\\textsc{sbjv}",
+            "\\textsc{neg}",
+            "\\textsc{cl-acc}",
+            "worry-\\textsc{3sg}",
+            "the",
+            "financial",
+            "crisis-\\textsc{nom}"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "Katafere   na   min   tin   apasholi    i ikonomiki krisi",
+        "srcwordsbare": [
+            "Katafere",
+            "na",
+            "min",
+            "tin",
+            "apasholi",
+            "i",
+            "ikonomiki",
+            "krisi"
+        ],
+        "srcwordshtml": [
+            "Katafere",
+            "na",
+            "min",
+            "tin",
+            "apasholi",
+            "i",
+            "ikonomiki",
+            "krisi"
+        ],
+        "srcwordstex": [
+            "Katafere",
+            "na",
+            "min",
+            "tin",
+            "apasholi",
+            "i",
+            "ikonomiki",
+            "krisi"
+        ],
+        "trs": "She managed not to feel anxious about the financial crisis.",
+        "wlength": 8
+    },
+    {
+        "ID": "02--53933",
+        "categories": [
+            "3pl",
+            "acc",
+            "gen",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 105,
+        "filename": "215/chapters/02.tex",
+        "imt": "promised-\\textsc{3pl}    Maria-\\textsc{gen} \\textsc{sbjv} give-\\textsc{3pl} the judges-\\textsc{nom}   amnesty-\\textsc{acc} to the imprisoned husband hers",
+        "imtwordsbare": [
+            "promised-3PL",
+            "Maria-GEN",
+            "SBJV",
+            "give-3PL",
+            "the",
+            "judges-NOM",
+            "amnesty-ACC",
+            "to",
+            "the",
+            "imprisoned",
+            "husband",
+            "hers"
+        ],
+        "imtwordshtml": [
+            "promised-<span class=\"sc\">3pl</span>",
+            "Maria-<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "give-<span class=\"sc\">3pl</span>",
+            "the",
+            "judges-<span class=\"sc\">nom</span>",
+            "amnesty-<span class=\"sc\">acc</span>",
+            "to",
+            "the",
+            "imprisoned",
+            "husband",
+            "hers"
+        ],
+        "imtwordstex": [
+            "promised-\\textsc{3pl}",
+            "Maria-\\textsc{gen}",
+            "\\textsc{sbjv}",
+            "give-\\textsc{3pl}",
+            "the",
+            "judges-\\textsc{nom}",
+            "amnesty-\\textsc{acc}",
+            "to",
+            "the",
+            "imprisoned",
+            "husband",
+            "hers"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "iposhethikan     tis Marias  na  dosun       i dikastes     amnistia   sto filakismeno      andra     tis",
+        "srcwordsbare": [
+            "iposhethikan",
+            "tis",
+            "Marias",
+            "na",
+            "dosun",
+            "i",
+            "dikastes",
+            "amnistia",
+            "sto",
+            "filakismeno",
+            "andra",
+            "tis"
+        ],
+        "srcwordshtml": [
+            "iposhethikan",
+            "tis",
+            "Marias",
+            "na",
+            "dosun",
+            "i",
+            "dikastes",
+            "amnistia",
+            "sto",
+            "filakismeno",
+            "andra",
+            "tis"
+        ],
+        "srcwordstex": [
+            "iposhethikan",
+            "tis",
+            "Marias",
+            "na",
+            "dosun",
+            "i",
+            "dikastes",
+            "amnistia",
+            "sto",
+            "filakismeno",
+            "andra",
+            "tis"
+        ],
+        "trs": "The judges promised Mary to give amnesty to her imprisoned husband.",
+        "wlength": 12
+    },
+    {
+        "ID": "02-410057",
+        "categories": [
+            "acc/nom",
+            "comp",
+            "decl",
+            "past",
+            "top"
+        ],
+        "clength": 73,
+        "filename": "215/chapters/02.tex",
+        "imt": "Cheolsu-\\textsc{top}     Yeonghi-\\textsc{acc/nom}   store-to  go-\\textsc{comp}   persuade-\\textsc{past-decl}",
+        "imtwordsbare": [
+            "Cheolsu-TOP",
+            "Yeonghi-ACC/NOM",
+            "store-to",
+            "go-COMP",
+            "persuade-past-decl"
+        ],
+        "imtwordshtml": [
+            "Cheolsu-<span class=\"sc\">top</span>",
+            "Yeonghi-<span class=\"sc\">acc/nom</span>",
+            "store-to",
+            "go-<span class=\"sc\">comp</span>",
+            "persuade-<span class=\"sc\">past-decl</span>"
+        ],
+        "imtwordstex": [
+            "Cheolsu-\\textsc{top}",
+            "Yeonghi-\\textsc{acc/nom}",
+            "store-to",
+            "go-\\textsc{comp}",
+            "persuade-\\textsc{past-decl}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "Cheolsu-neun  Yeonghi-leul/ka     kake-e    ka-tolok   seolteukha-eoss-ta",
+        "srcwordsbare": [
+            "Cheolsu-neun",
+            "Yeonghi-leul/ka",
+            "kake-e",
+            "ka-tolok",
+            "seolteukha-eoss-ta"
+        ],
+        "srcwordshtml": [
+            "Cheolsu-neun",
+            "Yeonghi-leul/ka",
+            "kake-e",
+            "ka-tolok",
+            "seolteukha-eoss-ta"
+        ],
+        "srcwordstex": [
+            "Cheolsu-neun",
+            "Yeonghi-leul/ka",
+            "kake-e",
+            "ka-tolok",
+            "seolteukha-eoss-ta"
+        ],
+        "trs": "Cheolsu persuaded Yeonghi to go to the store.",
+        "wlength": 5
+    },
+    {
+        "ID": "02-432189",
+        "categories": [
+            "acc",
+            "comp",
+            "decl",
+            "past",
+            "top"
+        ],
+        "clength": 120,
+        "filename": "215/chapters/02.tex",
+        "imt": "Cheolsu-\\textsc{top}    Yeonghi-\\textsc{acc}    {}      store-to   go-\\textsc{comp}   persuade-\\textsc{past-decl}",
+        "imtwordsbare": [
+            "Cheolsu-TOP",
+            "Yeonghi-ACC",
+            "{}",
+            "store-to",
+            "go-COMP",
+            "persuade-past-decl"
+        ],
+        "imtwordshtml": [
+            "Cheolsu-<span class=\"sc\">top</span>",
+            "Yeonghi-<span class=\"sc\">acc</span>",
+            "{}",
+            "store-to",
+            "go-<span class=\"sc\">comp</span>",
+            "persuade-<span class=\"sc\">past-decl</span>"
+        ],
+        "imtwordstex": [
+            "Cheolsu-\\textsc{top}",
+            "Yeonghi-\\textsc{acc}",
+            "{}",
+            "store-to",
+            "go-\\textsc{comp}",
+            "persuade-\\textsc{past-decl}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "Cheolsu-neun Yeonghi-leul\\textsubscript{i} [${\\bigtriangleup}$\\textsubscript{i} kake-e     ka-tolok]  seolteukha-eoss-ta",
+        "srcwordsbare": [
+            "Cheolsu-neun",
+            "Yeonghi-leuli",
+            "[${\\bigtriangleup}$i",
+            "kake-e",
+            "ka-tolok]",
+            "seolteukha-eoss-ta"
+        ],
+        "srcwordshtml": [
+            "Cheolsu-neun",
+            "Yeonghi-leul<span class=\"subscript\">i</span>",
+            "[${\\bigtriangleup}$<span class=\"subscript\">i</span>",
+            "kake-e",
+            "ka-tolok]",
+            "seolteukha-eoss-ta"
+        ],
+        "srcwordstex": [
+            "Cheolsu-neun",
+            "Yeonghi-leul\\textsubscript{i}",
+            "[${\\bigtriangleup}$\\textsubscript{i}",
+            "kake-e",
+            "ka-tolok]",
+            "seolteukha-eoss-ta"
+        ],
+        "trs": "Cheolsu persuaded Yeonghi to go to the store.",
+        "wlength": 6
+    },
+    {
+        "ID": "02-107093",
+        "categories": [
+            "comp",
+            "decl",
+            "nom",
+            "past",
+            "top"
+        ],
+        "clength": 120,
+        "filename": "215/chapters/02.tex",
+        "imt": "Cheolsu-\\textsc{top}  {}       Yeonghi-\\textsc{nom}    store-to  go-\\textsc{comp}      persuade-\\textsc{past-decl}",
+        "imtwordsbare": [
+            "Cheolsu-TOP",
+            "{}",
+            "Yeonghi-NOM",
+            "store-to",
+            "go-COMP",
+            "persuade-past-decl"
+        ],
+        "imtwordshtml": [
+            "Cheolsu-<span class=\"sc\">top</span>",
+            "{}",
+            "Yeonghi-<span class=\"sc\">nom</span>",
+            "store-to",
+            "go-<span class=\"sc\">comp</span>",
+            "persuade-<span class=\"sc\">past-decl</span>"
+        ],
+        "imtwordstex": [
+            "Cheolsu-\\textsc{top}",
+            "{}",
+            "Yeonghi-\\textsc{nom}",
+            "store-to",
+            "go-\\textsc{comp}",
+            "persuade-\\textsc{past-decl}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "Cheolsu-neun ${\\bigtriangleup}$\\textsubscript{i} [Yeonghi-ka\\textsubscript{i}    kake-e    ka-tolok]  seolteukha-eoss-ta",
+        "srcwordsbare": [
+            "Cheolsu-neun",
+            "${\\bigtriangleup}$i",
+            "[Yeonghi-kai",
+            "kake-e",
+            "ka-tolok]",
+            "seolteukha-eoss-ta"
+        ],
+        "srcwordshtml": [
+            "Cheolsu-neun",
+            "${\\bigtriangleup}$<span class=\"subscript\">i</span>",
+            "[Yeonghi-ka<span class=\"subscript\">i</span>",
+            "kake-e",
+            "ka-tolok]",
+            "seolteukha-eoss-ta"
+        ],
+        "srcwordstex": [
+            "Cheolsu-neun",
+            "${\\bigtriangleup}$\\textsubscript{i}",
+            "[Yeonghi-ka\\textsubscript{i}",
+            "kake-e",
+            "ka-tolok]",
+            "seolteukha-eoss-ta"
+        ],
+        "trs": "Cheolsu persuaded Yeonghi to go to the store.",
+        "wlength": 6
+    },
+    {
+        "ID": "02--62935",
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "sbjv"
+        ],
+        "clength": 64,
+        "filename": "215/chapters/02.tex",
+        "imt": "saw{}-\\textsc{1sg}  the   Peter{}-\\textsc{acc}  \\textsc{sbjv} talk-\\textsc{3sg} with  the Ilektra",
+        "imtwordsbare": [
+            "saw{}-1SG",
+            "the",
+            "Peter{}-ACC",
+            "SBJV",
+            "talk-3SG",
+            "with",
+            "the",
+            "Ilektra"
+        ],
+        "imtwordshtml": [
+            "saw{}-<span class=\"sc\">1sg</span>",
+            "the",
+            "Peter{}-<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "talk-<span class=\"sc\">3sg</span>",
+            "with",
+            "the",
+            "Ilektra"
+        ],
+        "imtwordstex": [
+            "saw{}-\\textsc{1sg}",
+            "the",
+            "Peter{}-\\textsc{acc}",
+            "\\textsc{sbjv}",
+            "talk-\\textsc{3sg}",
+            "with",
+            "the",
+            "Ilektra"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "ida          ton  Petro         na    milai     me   tin Ilektra",
+        "srcwordsbare": [
+            "ida",
+            "ton",
+            "Petro",
+            "na",
+            "milai",
+            "me",
+            "tin",
+            "Ilektra"
+        ],
+        "srcwordshtml": [
+            "ida",
+            "ton",
+            "Petro",
+            "na",
+            "milai",
+            "me",
+            "tin",
+            "Ilektra"
+        ],
+        "srcwordstex": [
+            "ida",
+            "ton",
+            "Petro",
+            "na",
+            "milai",
+            "me",
+            "tin",
+            "Ilektra"
+        ],
+        "trs": "I saw Peter talking with Ilektra.",
+        "wlength": 8
+    },
+    {
+        "ID": "02--50059",
+        "categories": [
+            "1sg",
+            "nom"
+        ],
+        "clength": 74,
+        "filename": "215/chapters/02.tex",
+        "imt": "saw{}-\\textsc{1sg}  that  the Peter{}-\\textsc{nom}   finishes  the  dissertation his",
+        "imtwordsbare": [
+            "saw{}-1SG",
+            "that",
+            "the",
+            "Peter{}-NOM",
+            "finishes",
+            "the",
+            "dissertation",
+            "his"
+        ],
+        "imtwordshtml": [
+            "saw{}-<span class=\"sc\">1sg</span>",
+            "that",
+            "the",
+            "Peter{}-<span class=\"sc\">nom</span>",
+            "finishes",
+            "the",
+            "dissertation",
+            "his"
+        ],
+        "imtwordstex": [
+            "saw{}-\\textsc{1sg}",
+            "that",
+            "the",
+            "Peter{}-\\textsc{nom}",
+            "finishes",
+            "the",
+            "dissertation",
+            "his"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "Ida          oti   o    Petros         telioni   ti      diatrivi       tu",
+        "srcwordsbare": [
+            "Ida",
+            "oti",
+            "o",
+            "Petros",
+            "telioni",
+            "ti",
+            "diatrivi",
+            "tu"
+        ],
+        "srcwordshtml": [
+            "Ida",
+            "oti",
+            "o",
+            "Petros",
+            "telioni",
+            "ti",
+            "diatrivi",
+            "tu"
+        ],
+        "srcwordstex": [
+            "Ida",
+            "oti",
+            "o",
+            "Petros",
+            "telioni",
+            "ti",
+            "diatrivi",
+            "tu"
+        ],
+        "trs": "I saw that Peter is finishing his dissertation.",
+        "wlength": 8
+    },
+    {
+        "ID": "02--77677",
+        "categories": [
+            "1sg",
+            "acc",
+            "sbjv"
+        ],
+        "clength": 70,
+        "filename": "215/chapters/02.tex",
+        "imt": "saw{}-\\textsc{1sg}  the  Peter{}-\\textsc{acc} \\textsc{sbjv} finishes the  dissertation his",
+        "imtwordsbare": [
+            "saw{}-1SG",
+            "the",
+            "Peter{}-ACC",
+            "SBJV",
+            "finishes",
+            "the",
+            "dissertation",
+            "his"
+        ],
+        "imtwordshtml": [
+            "saw{}-<span class=\"sc\">1sg</span>",
+            "the",
+            "Peter{}-<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "finishes",
+            "the",
+            "dissertation",
+            "his"
+        ],
+        "imtwordstex": [
+            "saw{}-\\textsc{1sg}",
+            "the",
+            "Peter{}-\\textsc{acc}",
+            "\\textsc{sbjv}",
+            "finishes",
+            "the",
+            "dissertation",
+            "his"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "ida          ton  Petro      na     telioni   ti    diatrivi        tu",
+        "srcwordsbare": [
+            "ida",
+            "ton",
+            "Petro",
+            "na",
+            "telioni",
+            "ti",
+            "diatrivi",
+            "tu"
+        ],
+        "srcwordshtml": [
+            "ida",
+            "ton",
+            "Petro",
+            "na",
+            "telioni",
+            "ti",
+            "diatrivi",
+            "tu"
+        ],
+        "srcwordstex": [
+            "ida",
+            "ton",
+            "Petro",
+            "na",
+            "telioni",
+            "ti",
+            "diatrivi",
+            "tu"
+        ],
+        "trs": "I saw Peter finishing his dissertation.",
+        "wlength": 8
+    },
+    {
+        "ID": "02--42822",
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "sbjv"
+        ],
+        "clength": 72,
+        "filename": "215/chapters/02.tex",
+        "imt": "saw{}-\\textsc{1sg}/heard{}-\\textsc{1sg}  the  Peter{}-\\textsc{acc}  \\textsc{sbjv} deliver-\\textsc{3sg} the  speech",
+        "imtwordsbare": [
+            "saw{}-1SG/heard{}-1SG",
+            "the",
+            "Peter{}-ACC",
+            "SBJV",
+            "deliver-3SG",
+            "the",
+            "speech"
+        ],
+        "imtwordshtml": [
+            "saw{}-<span class=\"sc\">1sg</span>/heard{}-<span class=\"sc\">1sg</span>",
+            "the",
+            "Peter{}-<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "deliver-<span class=\"sc\">3sg</span>",
+            "the",
+            "speech"
+        ],
+        "imtwordstex": [
+            "saw{}-\\textsc{1sg}/heard{}-\\textsc{1sg}",
+            "the",
+            "Peter{}-\\textsc{acc}",
+            "\\textsc{sbjv}",
+            "deliver-\\textsc{3sg}",
+            "the",
+            "speech"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "ida/akusa                to   Petro        na    ekfoni        to   logo",
+        "srcwordsbare": [
+            "ida/akusa",
+            "to",
+            "Petro",
+            "na",
+            "ekfoni",
+            "to",
+            "logo"
+        ],
+        "srcwordshtml": [
+            "ida/akusa",
+            "to",
+            "Petro",
+            "na",
+            "ekfoni",
+            "to",
+            "logo"
+        ],
+        "srcwordstex": [
+            "ida/akusa",
+            "to",
+            "Petro",
+            "na",
+            "ekfoni",
+            "to",
+            "logo"
+        ],
+        "trs": "I saw/heard Peter delivering the speech.\u2019}",
+        "wlength": 7
+    },
+    {
+        "ID": "02--90463",
+        "categories": [
+            "1sg",
+            "acc",
+            "cl",
+            "nom  neg"
+        ],
+        "clength": 54,
+        "filename": "215/chapters/02.tex",
+        "imt": "that  came the  Peter-\\textsc{nom  neg}  \\textsc{cl-acc} expected{}-\\textsc{1sg}",
+        "imtwordsbare": [
+            "that",
+            "came",
+            "the",
+            "Peter-\\textsc{nom",
+            "neg}",
+            "cl-acc",
+            "expected{}-1SG"
+        ],
+        "imtwordshtml": [
+            "that",
+            "came",
+            "the",
+            "Peter-\\textsc{nom",
+            "neg}",
+            "<span class=\"sc\">cl-acc</span>",
+            "expected{}-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "that",
+            "came",
+            "the",
+            "Peter-\\textsc{nom",
+            "neg}",
+            "\\textsc{cl-acc}",
+            "expected{}-\\textsc{1sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "oti   irthe   o     Petros      den  to       perimena",
+        "srcwordsbare": [
+            "oti",
+            "irthe",
+            "o",
+            "Petros",
+            "den",
+            "to",
+            "perimena"
+        ],
+        "srcwordshtml": [
+            "oti",
+            "irthe",
+            "o",
+            "Petros",
+            "den",
+            "to",
+            "perimena"
+        ],
+        "srcwordstex": [
+            "oti",
+            "irthe",
+            "o",
+            "Petros",
+            "den",
+            "to",
+            "perimena"
+        ],
+        "trs": "That Peter came, I didn't expect it.",
+        "wlength": 7
+    },
+    {
+        "ID": "02-186208",
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "cl",
+            "nom  neg",
+            "sbjv"
+        ],
+        "clength": 56,
+        "filename": "215/chapters/02.tex",
+        "imt": "\\textsc{sbjv} come{}-\\textsc{3sg} the Peter-\\textsc{nom  neg}  \\textsc{cl-acc} see{}-\\textsc{1sg}",
+        "imtwordsbare": [
+            "SBJV",
+            "come{}-3SG",
+            "the",
+            "Peter-\\textsc{nom",
+            "neg}",
+            "cl-acc",
+            "see{}-1SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">sbjv</span>",
+            "come{}-<span class=\"sc\">3sg</span>",
+            "the",
+            "Peter-\\textsc{nom",
+            "neg}",
+            "<span class=\"sc\">cl-acc</span>",
+            "see{}-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{sbjv}",
+            "come{}-\\textsc{3sg}",
+            "the",
+            "Peter-\\textsc{nom",
+            "neg}",
+            "\\textsc{cl-acc}",
+            "see{}-\\textsc{1sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "na    erthi         o   Petros       den   to      vlepo",
+        "srcwordsbare": [
+            "na",
+            "erthi",
+            "o",
+            "Petros",
+            "den",
+            "to",
+            "vlepo"
+        ],
+        "srcwordshtml": [
+            "na",
+            "erthi",
+            "o",
+            "Petros",
+            "den",
+            "to",
+            "vlepo"
+        ],
+        "srcwordstex": [
+            "na",
+            "erthi",
+            "o",
+            "Petros",
+            "den",
+            "to",
+            "vlepo"
+        ],
+        "trs": "Lit. \u2018I do not see it that Peter will come.",
+        "wlength": 7
+    },
+    {
+        "ID": "02--13823",
+        "categories": [
+            "1sg",
+            "neg",
+            "sbjv"
+        ],
+        "clength": 95,
+        "filename": "215/chapters/02.tex",
+        "imt": "the  speech    \\textsc{sbjv} be delivered  \\textsc{neg}  him heard{}-\\textsc{1sg}",
+        "imtwordsbare": [
+            "the",
+            "speech",
+            "SBJV",
+            "be",
+            "delivered",
+            "NEG",
+            "him",
+            "heard{}-1SG"
+        ],
+        "imtwordshtml": [
+            "the",
+            "speech",
+            "<span class=\"sc\">sbjv</span>",
+            "be",
+            "delivered",
+            "<span class=\"sc\">neg</span>",
+            "him",
+            "heard{}-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "the",
+            "speech",
+            "\\textsc{sbjv}",
+            "be",
+            "delivered",
+            "\\textsc{neg}",
+            "him",
+            "heard{}-\\textsc{1sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "\\relax [ton logo]\\textsubscript{i}     na       ekfonite        den  ton\\textsubscript{i} akusa",
+        "srcwordsbare": [
+            "\\relax",
+            "[ton",
+            "logo]i",
+            "na",
+            "ekfonite",
+            "den",
+            "toni",
+            "akusa"
+        ],
+        "srcwordshtml": [
+            "\\relax",
+            "[ton",
+            "logo]<span class=\"subscript\">i</span>",
+            "na",
+            "ekfonite",
+            "den",
+            "ton<span class=\"subscript\">i</span>",
+            "akusa"
+        ],
+        "srcwordstex": [
+            "\\relax",
+            "[ton",
+            "logo]\\textsubscript{i}",
+            "na",
+            "ekfonite",
+            "den",
+            "ton\\textsubscript{i}",
+            "akusa"
+        ],
+        "trs": "The speech being delivered, I did not hear it.\u2019}",
+        "wlength": 8
+    },
+    {
+        "ID": "02--46259",
+        "categories": [
+            "2sg",
+            "3sg",
+            "sbjv",
+            "{"
+        ],
+        "clength": 70,
+        "filename": "215/chapters/02.tex",
+        "imt": "who\\textsc{{}-acc} wanted{}-\\textsc{2sg} the  prime-minister\\textsc{{}-acc} \\textsc{sbjv} impress{}-\\textsc{3sg}",
+        "imtwordsbare": [
+            "who{-acc}",
+            "wanted{}-2SG",
+            "the",
+            "prime-minister{-acc}",
+            "SBJV",
+            "impress{}-3SG"
+        ],
+        "imtwordshtml": [
+            "who<span class=\"sc\">{</span>-acc}",
+            "wanted{}-<span class=\"sc\">2sg</span>",
+            "the",
+            "prime-minister<span class=\"sc\">{</span>-acc}",
+            "<span class=\"sc\">sbjv</span>",
+            "impress{}-<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "who\\textsc{{}-acc}",
+            "wanted{}-\\textsc{2sg}",
+            "the",
+            "prime-minister\\textsc{{}-acc}",
+            "\\textsc{sbjv}",
+            "impress{}-\\textsc{3sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "modality": "volitive",
+        "src": "pjon    itheles         ton  prothipurgho           na    entiposiasi?",
+        "srcwordsbare": [
+            "pjon",
+            "itheles",
+            "ton",
+            "prothipurgho",
+            "na",
+            "entiposiasi?"
+        ],
+        "srcwordshtml": [
+            "pjon",
+            "itheles",
+            "ton",
+            "prothipurgho",
+            "na",
+            "entiposiasi?"
+        ],
+        "srcwordstex": [
+            "pjon",
+            "itheles",
+            "ton",
+            "prothipurgho",
+            "na",
+            "entiposiasi?"
+        ],
+        "trs": "Who did you want the prime minister to impress?\u2019}",
+        "wlength": 6
+    },
+    {
+        "ID": "02--28641",
+        "categories": [
+            "2sg",
+            "3sg",
+            "sbjv",
+            "{"
+        ],
+        "clength": 79,
+        "filename": "215/chapters/02.tex",
+        "imt": "who\\textsc{{}-acc}  persuaded{}-\\textsc{2sg}  the  prime-minister\\textsc{{}-acc} \\textsc{sbjv} impress{}-\\textsc{3sg}",
+        "imtwordsbare": [
+            "who{-acc}",
+            "persuaded{}-2SG",
+            "the",
+            "prime-minister{-acc}",
+            "SBJV",
+            "impress{}-3SG"
+        ],
+        "imtwordshtml": [
+            "who<span class=\"sc\">{</span>-acc}",
+            "persuaded{}-<span class=\"sc\">2sg</span>",
+            "the",
+            "prime-minister<span class=\"sc\">{</span>-acc}",
+            "<span class=\"sc\">sbjv</span>",
+            "impress{}-<span class=\"sc\">3sg</span>"
+        ],
+        "imtwordstex": [
+            "who\\textsc{{}-acc}",
+            "persuaded{}-\\textsc{2sg}",
+            "the",
+            "prime-minister\\textsc{{}-acc}",
+            "\\textsc{sbjv}",
+            "impress{}-\\textsc{3sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "pjon        epises               ton  prothipurgho           na    entiposiasi?",
+        "srcwordsbare": [
+            "pjon",
+            "epises",
+            "ton",
+            "prothipurgho",
+            "na",
+            "entiposiasi?"
+        ],
+        "srcwordshtml": [
+            "pjon",
+            "epises",
+            "ton",
+            "prothipurgho",
+            "na",
+            "entiposiasi?"
+        ],
+        "srcwordstex": [
+            "pjon",
+            "epises",
+            "ton",
+            "prothipurgho",
+            "na",
+            "entiposiasi?"
+        ],
+        "trs": "Who did you persuade the prime minister to impress?\u2019}",
+        "wlength": 6
+    },
+    {
+        "ID": "02-285505",
+        "categories": [
+            "1sg",
+            "sbjv",
+            "{"
+        ],
+        "clength": 77,
+        "filename": "215/chapters/02.tex",
+        "imt": "expected{}-\\textsc{1sg} the John\\textsc{{}-acc} \\textsc{sbjv} be sick\\textsc{{}-nom}/*\\textsc{{}-acc}",
+        "imtwordsbare": [
+            "expected{}-1SG",
+            "the",
+            "John{-acc}",
+            "SBJV",
+            "be",
+            "sick{-nom}/*{-acc}"
+        ],
+        "imtwordshtml": [
+            "expected{}-<span class=\"sc\">1sg</span>",
+            "the",
+            "John<span class=\"sc\">{</span>-acc}",
+            "<span class=\"sc\">sbjv</span>",
+            "be",
+            "sick<span class=\"sc\">{</span>-nom}/*<span class=\"sc\">{</span>-acc}"
+        ],
+        "imtwordstex": [
+            "expected{}-\\textsc{1sg}",
+            "the",
+            "John\\textsc{{}-acc}",
+            "\\textsc{sbjv}",
+            "be",
+            "sick\\textsc{{}-nom}/*\\textsc{{}-acc}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "perimena        to Jani           na    ine arostos/\\textsuperscript{*}arosto",
+        "srcwordsbare": [
+            "perimena",
+            "to",
+            "Jani",
+            "na",
+            "ine",
+            "arostos/*arosto"
+        ],
+        "srcwordshtml": [
+            "perimena",
+            "to",
+            "Jani",
+            "na",
+            "ine",
+            "arostos/<span class=\"superscript\">*</span>arosto"
+        ],
+        "srcwordstex": [
+            "perimena",
+            "to",
+            "Jani",
+            "na",
+            "ine",
+            "arostos/\\textsuperscript{*}arosto"
+        ],
+        "trs": "I expected John to be sick.",
+        "wlength": 6
+    },
+    {
+        "ID": "02--67976",
+        "categories": [
+            "acc",
+            "sbjv",
+            "{"
+        ],
+        "clength": 63,
+        "filename": "215/chapters/02.tex",
+        "imt": "the Mary  persuaded  the John-\\textsc{acc}  \\textsc{sbjv} smile\\textsc{{}-3sg}",
+        "imtwordsbare": [
+            "the",
+            "Mary",
+            "persuaded",
+            "the",
+            "John-ACC",
+            "SBJV",
+            "smile{-3sg}"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Mary",
+            "persuaded",
+            "the",
+            "John-<span class=\"sc\">acc</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "smile<span class=\"sc\">{</span>-3sg}"
+        ],
+        "imtwordstex": [
+            "the",
+            "Mary",
+            "persuaded",
+            "the",
+            "John-\\textsc{acc}",
+            "\\textsc{sbjv}",
+            "smile\\textsc{{}-3sg}"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "I     Maria  epise         to   Jani          na     hamogelasi",
+        "srcwordsbare": [
+            "I",
+            "Maria",
+            "epise",
+            "to",
+            "Jani",
+            "na",
+            "hamogelasi"
+        ],
+        "srcwordshtml": [
+            "I",
+            "Maria",
+            "epise",
+            "to",
+            "Jani",
+            "na",
+            "hamogelasi"
+        ],
+        "srcwordstex": [
+            "I",
+            "Maria",
+            "epise",
+            "to",
+            "Jani",
+            "na",
+            "hamogelasi"
+        ],
+        "trs": "Mary persuaded John to smile.\u2019}",
+        "wlength": 7
+    },
+    {
+        "ID": "02--83681",
+        "categories": [
+            "sbjv",
+            "{"
+        ],
+        "clength": 74,
+        "filename": "215/chapters/02.tex",
+        "imt": "the Mary\\textsc{{}-nom}  helped   the  John \\textsc{sbjv} tidy.up\\textsc{{}-3sg}  the room      his",
+        "imtwordsbare": [
+            "the",
+            "Mary{-nom}",
+            "helped",
+            "the",
+            "John",
+            "SBJV",
+            "tidy.up{-3sg}",
+            "the",
+            "room",
+            "his"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Mary<span class=\"sc\">{</span>-nom}",
+            "helped",
+            "the",
+            "John",
+            "<span class=\"sc\">sbjv</span>",
+            "tidy.up<span class=\"sc\">{</span>-3sg}",
+            "the",
+            "room",
+            "his"
+        ],
+        "imtwordstex": [
+            "the",
+            "Mary\\textsc{{}-nom}",
+            "helped",
+            "the",
+            "John",
+            "\\textsc{sbjv}",
+            "tidy.up\\textsc{{}-3sg}",
+            "the",
+            "room",
+            "his"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "I     Maria         voithise to    Jani   na   simazepsi   to   domatio tu",
+        "srcwordsbare": [
+            "I",
+            "Maria",
+            "voithise",
+            "to",
+            "Jani",
+            "na",
+            "simazepsi",
+            "to",
+            "domatio",
+            "tu"
+        ],
+        "srcwordshtml": [
+            "I",
+            "Maria",
+            "voithise",
+            "to",
+            "Jani",
+            "na",
+            "simazepsi",
+            "to",
+            "domatio",
+            "tu"
+        ],
+        "srcwordstex": [
+            "I",
+            "Maria",
+            "voithise",
+            "to",
+            "Jani",
+            "na",
+            "simazepsi",
+            "to",
+            "domatio",
+            "tu"
+        ],
+        "trs": "Mary helped John to tidy up his room.\u2019}",
+        "wlength": 10
+    },
+    {
+        "ID": "02-862854",
+        "categories": [
+            "sbjv",
+            "{"
+        ],
+        "clength": 79,
+        "filename": "215/chapters/02.tex",
+        "imt": "the Mary\\textsc{{}-nom}  helped    \\textsc{sbjv} tidy.up\\textsc{{}-3sg} the John\\textsc{{}-nom} the room     his",
+        "imtwordsbare": [
+            "the",
+            "Mary{-nom}",
+            "helped",
+            "SBJV",
+            "tidy.up{-3sg}",
+            "the",
+            "John{-nom}",
+            "the",
+            "room",
+            "his"
+        ],
+        "imtwordshtml": [
+            "the",
+            "Mary<span class=\"sc\">{</span>-nom}",
+            "helped",
+            "<span class=\"sc\">sbjv</span>",
+            "tidy.up<span class=\"sc\">{</span>-3sg}",
+            "the",
+            "John<span class=\"sc\">{</span>-nom}",
+            "the",
+            "room",
+            "his"
+        ],
+        "imtwordstex": [
+            "the",
+            "Mary\\textsc{{}-nom}",
+            "helped",
+            "\\textsc{sbjv}",
+            "tidy.up\\textsc{{}-3sg}",
+            "the",
+            "John\\textsc{{}-nom}",
+            "the",
+            "room",
+            "his"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "I      Maria        voithise  na    simazepsi  o    Janis        to  domatio tu",
+        "srcwordsbare": [
+            "I",
+            "Maria",
+            "voithise",
+            "na",
+            "simazepsi",
+            "o",
+            "Janis",
+            "to",
+            "domatio",
+            "tu"
+        ],
+        "srcwordshtml": [
+            "I",
+            "Maria",
+            "voithise",
+            "na",
+            "simazepsi",
+            "o",
+            "Janis",
+            "to",
+            "domatio",
+            "tu"
+        ],
+        "srcwordstex": [
+            "I",
+            "Maria",
+            "voithise",
+            "na",
+            "simazepsi",
+            "o",
+            "Janis",
+            "to",
+            "domatio",
+            "tu"
+        ],
+        "trs": "[\\textit{good but not on the reading where she helped John}]}",
+        "wlength": 10
+    },
+    {
+        "ID": "02-115181",
+        "categories": [
+            "acc",
+            "cl",
+            "gen",
+            "nom",
+            "sbjv"
+        ],
+        "clength": 115,
+        "filename": "215/chapters/02.tex",
+        "imt": "the John-\\textsc{nom} \\textsc{cl-gen}  imposed/\\textsc{cl-acc} managed  \\textsc{sbjv} \\textsc{cl-acc}  please the Kostas-\\textsc{gen} the opera",
+        "imtwordsbare": [
+            "the",
+            "John-NOM",
+            "cl-gen",
+            "imposed/cl-acc",
+            "managed",
+            "SBJV",
+            "cl-acc",
+            "please",
+            "the",
+            "Kostas-GEN",
+            "the",
+            "opera"
+        ],
+        "imtwordshtml": [
+            "the",
+            "John-<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">cl-gen</span>",
+            "imposed/<span class=\"sc\">cl-acc</span>",
+            "managed",
+            "<span class=\"sc\">sbjv</span>",
+            "<span class=\"sc\">cl-acc</span>",
+            "please",
+            "the",
+            "Kostas-<span class=\"sc\">gen</span>",
+            "the",
+            "opera"
+        ],
+        "imtwordstex": [
+            "the",
+            "John-\\textsc{nom}",
+            "\\textsc{cl-gen}",
+            "imposed/\\textsc{cl-acc}",
+            "managed",
+            "\\textsc{sbjv}",
+            "\\textsc{cl-acc}",
+            "please",
+            "the",
+            "Kostas-\\textsc{gen}",
+            "the",
+            "opera"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "O    Janis    \\textbf{tu}  epevale/ton katafere   na   \\textbf{ton} efxaristi  \\textbf{ton  Kosta}         i opera.",
+        "srcwordsbare": [
+            "O",
+            "Janis",
+            "tu",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "ton",
+            "efxaristi",
+            "\\textbf{ton",
+            "Kosta}",
+            "i",
+            "opera."
+        ],
+        "srcwordshtml": [
+            "O",
+            "Janis",
+            "<span class=\"bf\">tu</span>",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "<span class=\"bf\">ton</span>",
+            "efxaristi",
+            "\\textbf{ton",
+            "Kosta}",
+            "i",
+            "opera."
+        ],
+        "srcwordstex": [
+            "O",
+            "Janis",
+            "\\textbf{tu}",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "\\textbf{ton}",
+            "efxaristi",
+            "\\textbf{ton",
+            "Kosta}",
+            "i",
+            "opera."
+        ],
+        "trs": "John imposed on Kostas to like the opera/convinced Kostas to like the opera.",
+        "wlength": 12
+    },
+    {
+        "ID": "02--15286",
+        "categories": [
+            "acc",
+            "cl",
+            "gen",
+            "nact",
+            "nom",
+            "nom  cl",
+            "sbjv"
+        ],
+        "clength": 116,
+        "filename": "215/chapters/02.tex",
+        "imt": "the John{}-\\textsc{nom  cl-gen}  imposed/\\textsc{cl-acc} managed \\textsc{sbjv} please-\\textsc{nact}   the Kostas{}-\\textsc{nom} with the opera",
+        "imtwordsbare": [
+            "the",
+            "John{}-\\textsc{nom",
+            "cl-gen}",
+            "imposed/cl-acc",
+            "managed",
+            "SBJV",
+            "please-NACT",
+            "the",
+            "Kostas{}-NOM",
+            "with",
+            "the",
+            "opera"
+        ],
+        "imtwordshtml": [
+            "the",
+            "John{}-\\textsc{nom",
+            "cl-gen}",
+            "imposed/<span class=\"sc\">cl-acc</span>",
+            "managed",
+            "<span class=\"sc\">sbjv</span>",
+            "please-<span class=\"sc\">nact</span>",
+            "the",
+            "Kostas{}-<span class=\"sc\">nom</span>",
+            "with",
+            "the",
+            "opera"
+        ],
+        "imtwordstex": [
+            "the",
+            "John{}-\\textsc{nom",
+            "cl-gen}",
+            "imposed/\\textsc{cl-acc}",
+            "managed",
+            "\\textsc{sbjv}",
+            "please-\\textsc{nact}",
+            "the",
+            "Kostas{}-\\textsc{nom}",
+            "with",
+            "the",
+            "opera"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "O    Janis    \\textbf{tu}  epevale/ton katafere   na   \\textbf{efxaristiete}  \\textbf{o  Kostas}   me tin     opera.",
+        "srcwordsbare": [
+            "O",
+            "Janis",
+            "tu",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "efxaristiete",
+            "\\textbf{o",
+            "Kostas}",
+            "me",
+            "tin",
+            "opera."
+        ],
+        "srcwordshtml": [
+            "O",
+            "Janis",
+            "<span class=\"bf\">tu</span>",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "<span class=\"bf\">efxaristiete</span>",
+            "\\textbf{o",
+            "Kostas}",
+            "me",
+            "tin",
+            "opera."
+        ],
+        "srcwordstex": [
+            "O",
+            "Janis",
+            "\\textbf{tu}",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "\\textbf{efxaristiete}",
+            "\\textbf{o",
+            "Kostas}",
+            "me",
+            "tin",
+            "opera."
+        ],
+        "trs": "John imposed on Kostas to like the opera/convinced Kostas to like the opera.\u2019}",
+        "wlength": 12
+    },
+    {
+        "ID": "02--36629",
+        "categories": [
+            "acc",
+            "cl",
+            "gen",
+            "nact",
+            "nom",
+            "sbjv cl"
+        ],
+        "clength": 113,
+        "filename": "215/chapters/02.tex",
+        "imt": "the John{}-\\textsc{nom} \\textsc{cl-gen} imposed/\\textsc{cl-acc} managed \\textsc{sbjv cl-gen} give-\\textsc{nact} the Kostas{}-\\textsc{gen} the loan",
+        "imtwordsbare": [
+            "the",
+            "John{}-NOM",
+            "cl-gen",
+            "imposed/cl-acc",
+            "managed",
+            "\\textsc{sbjv",
+            "cl-gen}",
+            "give-NACT",
+            "the",
+            "Kostas{}-GEN",
+            "the",
+            "loan"
+        ],
+        "imtwordshtml": [
+            "the",
+            "John{}-<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">cl-gen</span>",
+            "imposed/<span class=\"sc\">cl-acc</span>",
+            "managed",
+            "\\textsc{sbjv",
+            "cl-gen}",
+            "give-<span class=\"sc\">nact</span>",
+            "the",
+            "Kostas{}-<span class=\"sc\">gen</span>",
+            "the",
+            "loan"
+        ],
+        "imtwordstex": [
+            "the",
+            "John{}-\\textsc{nom}",
+            "\\textsc{cl-gen}",
+            "imposed/\\textsc{cl-acc}",
+            "managed",
+            "\\textsc{sbjv",
+            "cl-gen}",
+            "give-\\textsc{nact}",
+            "the",
+            "Kostas{}-\\textsc{gen}",
+            "the",
+            "loan"
+        ],
+        "language": "215/chapters/02.tex",
+        "src": "O    Janis    \\textbf{tu}  epevale/ton katafere       na   \\textbf{tu} dothi \\textbf{tu  Kosta}         to danio.",
+        "srcwordsbare": [
+            "O",
+            "Janis",
+            "tu",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "tu",
+            "dothi",
+            "\\textbf{tu",
+            "Kosta}",
+            "to",
+            "danio."
+        ],
+        "srcwordshtml": [
+            "O",
+            "Janis",
+            "<span class=\"bf\">tu</span>",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "<span class=\"bf\">tu</span>",
+            "dothi",
+            "\\textbf{tu",
+            "Kosta}",
+            "to",
+            "danio."
+        ],
+        "srcwordstex": [
+            "O",
+            "Janis",
+            "\\textbf{tu}",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "\\textbf{tu}",
+            "dothi",
+            "\\textbf{tu",
+            "Kosta}",
+            "to",
+            "danio."
+        ],
+        "trs": "John imposed on him for a loan to be given to Kostas.\u2019}",
+        "wlength": 12
+    },
+    {
+        "ID": "02--69043",
+        "categories": [
+            "acc",
+            "cl",
+            "gen",
+            "nom",
+            "sbjv neg cl"
+        ],
+        "clength": 107,
+        "filename": "215/chapters/02.tex",
+        "imt": "the John{}-\\textsc{nom}   \\textsc{cl-gen}  imposed/\\textsc{cl-acc} managed  \\textsc{sbjv neg cl-gen}  fall   the Kostas{}-\\textsc{gen} the vase\u2019",
+        "imtwordsbare": [
+            "the",
+            "John{}-NOM",
+            "cl-gen",
+            "imposed/cl-acc",
+            "managed",
+            "\\textsc{sbjv",
+            "neg",
+            "cl-gen}",
+            "fall",
+            "the",
+            "Kostas{}-GEN",
+            "the",
+            "vase\u2019"
+        ],
+        "imtwordshtml": [
+            "the",
+            "John{}-<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">cl-gen</span>",
+            "imposed/<span class=\"sc\">cl-acc</span>",
+            "managed",
+            "\\textsc{sbjv",
+            "neg",
+            "cl-gen}",
+            "fall",
+            "the",
+            "Kostas{}-<span class=\"sc\">gen</span>",
+            "the",
+            "vase\u2019"
+        ],
+        "imtwordstex": [
+            "the",
+            "John{}-\\textsc{nom}",
+            "\\textsc{cl-gen}",
+            "imposed/\\textsc{cl-acc}",
+            "managed",
+            "\\textsc{sbjv",
+            "neg",
+            "cl-gen}",
+            "fall",
+            "the",
+            "Kostas{}-\\textsc{gen}",
+            "the",
+            "vase\u2019"
+        ],
+        "language": "215/chapters/02.tex",
+        "polarity": "negative",
+        "src": "O    Janis    \\textbf{tu}  epevale/ton katafere   na min  \\textbf{tu} pesi  \\textbf{tu  Kosta}     to vazo.",
+        "srcwordsbare": [
+            "O",
+            "Janis",
+            "tu",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "min",
+            "tu",
+            "pesi",
+            "\\textbf{tu",
+            "Kosta}",
+            "to",
+            "vazo."
+        ],
+        "srcwordshtml": [
+            "O",
+            "Janis",
+            "<span class=\"bf\">tu</span>",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "min",
+            "<span class=\"bf\">tu</span>",
+            "pesi",
+            "\\textbf{tu",
+            "Kosta}",
+            "to",
+            "vazo."
+        ],
+        "srcwordstex": [
+            "O",
+            "Janis",
+            "\\textbf{tu}",
+            "epevale/ton",
+            "katafere",
+            "na",
+            "min",
+            "\\textbf{tu}",
+            "pesi",
+            "\\textbf{tu",
+            "Kosta}",
+            "to",
+            "vazo."
+        ],
+        "trs": "John imposed on Kostas not to drop the vase.\u2019   }",
+        "wlength": 13
+    }
+]

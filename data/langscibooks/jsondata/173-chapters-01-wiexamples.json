@@ -1,0 +1,1905 @@
+[
+    {
+        "ID": "01-wi--29546",
+        "categories": [
+            "1sg",
+            "2sg",
+            "acc",
+            "neg"
+        ],
+        "clength": 33,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{neg}\t\tunderstand-\\textsc{1sg}-do\t\\textsc{2sg}-\\textsc{acc}",
+        "imtwordsbare": [
+            "NEG",
+            "understand-1SG-do",
+            "2SG-ACC"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "understand-<span class=\"sc\">1sg</span>-do",
+            "<span class=\"sc\">2sg</span>-<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "understand-\\textsc{1sg}-do",
+            "\\textsc{2sg}-\\textsc{acc}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Angkurla\tlarrinka-nga-ju\tngank-u.",
+        "srcwordsbare": [
+            "Angkurla",
+            "larrinka-nga-ju",
+            "ngank-u."
+        ],
+        "srcwordshtml": [
+            "Angkurla",
+            "larrinka-nga-ju",
+            "ngank-u."
+        ],
+        "srcwordstex": [
+            "Angkurla",
+            "larrinka-nga-ju",
+            "ngank-u."
+        ],
+        "trs": "I didn't understand you.\u2019 % (Pensalfini 1997: 247)",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-893520",
+        "categories": [
+            "1pl",
+            "2du",
+            "2obj",
+            "acc",
+            "excl"
+        ],
+        "clength": 29,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "see-\\textsc{1pl.excl}-\\textsc{2obj}-did\t\\textsc{2du.acc}",
+        "imtwordsbare": [
+            "see-1pl.excl-2OBJ-did",
+            "2du.acc"
+        ],
+        "imtwordshtml": [
+            "see-<span class=\"sc\">1pl.excl</span>-<span class=\"sc\">2obj</span>-did",
+            "<span class=\"sc\">2du.acc</span>"
+        ],
+        "imtwordstex": [
+            "see-\\textsc{1pl.excl}-\\textsc{2obj}-did",
+            "\\textsc{2du.acc}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ngiji-ngirri-nyu-nu\t\tkunyaku.",
+        "srcwordsbare": [
+            "Ngiji-ngirri-nyu-nu",
+            "kunyaku."
+        ],
+        "srcwordshtml": [
+            "Ngiji-ngirri-nyu-nu",
+            "kunyaku."
+        ],
+        "srcwordstex": [
+            "Ngiji-ngirri-nyu-nu",
+            "kunyaku."
+        ],
+        "trs": "We saw you two.\u2019 % (Pensalfini 1997: 102)",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi--85790",
+        "categories": [
+            "1sg",
+            "acc",
+            "irr"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "wait-\\textsc{irr}\t\\textsc{1sg}-\\textsc{acc}",
+        "imtwordsbare": [
+            "wait-IRR",
+            "1SG-ACC"
+        ],
+        "imtwordshtml": [
+            "wait-<span class=\"sc\">irr</span>",
+            "<span class=\"sc\">1sg</span>-<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "wait-\\textsc{irr}",
+            "\\textsc{1sg}-\\textsc{acc}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Jaja-mi\tngarr-u!\t",
+        "srcwordsbare": [
+            "Jaja-mi",
+            "ngarr-u!"
+        ],
+        "srcwordshtml": [
+            "Jaja-mi",
+            "ngarr-u!"
+        ],
+        "srcwordstex": [
+            "Jaja-mi",
+            "ngarr-u!"
+        ],
+        "trs": "Wait for me!\u2019 %(Pensalfini 1997: 160)\\\\",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi--67896",
+        "categories": [
+            "1sg"
+        ],
+        "clength": 23,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "wild.rice\tsee-\\textsc{1sg}-do",
+        "imtwordsbare": [
+            "wild.rice",
+            "see-1SG-do"
+        ],
+        "imtwordshtml": [
+            "wild.rice",
+            "see-<span class=\"sc\">1sg</span>-do"
+        ],
+        "imtwordstex": [
+            "wild.rice",
+            "see-\\textsc{1sg}-do"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ngangarra\tngaja-nga-ju.",
+        "srcwordsbare": [
+            "Ngangarra",
+            "ngaja-nga-ju."
+        ],
+        "srcwordshtml": [
+            "Ngangarra",
+            "ngaja-nga-ju."
+        ],
+        "srcwordstex": [
+            "Ngangarra",
+            "ngaja-nga-ju."
+        ],
+        "trs": "I can see wild rice.\u2019%(Pensalfini 1997: 100)",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-462040",
+        "categories": [
+            "2sg",
+            "foc",
+            "nom",
+            "q"
+        ],
+        "clength": 30,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{q}\tcloud.\\textsc{nom}-\\textsc{foc}\tsee-\\textsc{2sg}-do",
+        "imtwordsbare": [
+            "Q",
+            "cloud.NOM-FOC",
+            "see-2SG-do"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "cloud.<span class=\"sc\">nom</span>-<span class=\"sc\">foc</span>",
+            "see-<span class=\"sc\">2sg</span>-do"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "cloud.\\textsc{nom}-\\textsc{foc}",
+            "see-\\textsc{2sg}-do"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Jani\tmadayi-rni\t\tngaja-nya-ju?",
+        "srcwordsbare": [
+            "Jani",
+            "madayi-rni",
+            "ngaja-nya-ju?"
+        ],
+        "srcwordshtml": [
+            "Jani",
+            "madayi-rni",
+            "ngaja-nya-ju?"
+        ],
+        "srcwordstex": [
+            "Jani",
+            "madayi-rni",
+            "ngaja-nya-ju?"
+        ],
+        "trs": "Can you see the cloud?\u2019 %(Pensalfini 1997: 198)",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-178701",
+        "categories": [
+            "erg",
+            "nom",
+            "pl"
+        ],
+        "clength": 34,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "girl-\\textsc{pl}-\\textsc{erg}\t\tdog.\\textsc{nom} \tsee-do",
+        "imtwordsbare": [
+            "girl-PL-ERG",
+            "dog.NOM",
+            "see-do"
+        ],
+        "imtwordshtml": [
+            "girl-<span class=\"sc\">pl</span>-<span class=\"sc\">erg</span>",
+            "dog.<span class=\"sc\">nom</span>",
+            "see-do"
+        ],
+        "imtwordstex": [
+            "girl-\\textsc{pl}-\\textsc{erg}",
+            "dog.\\textsc{nom}",
+            "see-do"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Wiwimi-darra-rni\twarlaku\tngaja-ju.",
+        "srcwordsbare": [
+            "Wiwimi-darra-rni",
+            "warlaku",
+            "ngaja-ju."
+        ],
+        "srcwordshtml": [
+            "Wiwimi-darra-rni",
+            "warlaku",
+            "ngaja-ju."
+        ],
+        "srcwordstex": [
+            "Wiwimi-darra-rni",
+            "warlaku",
+            "ngaja-ju."
+        ],
+        "trs": "The girls see the dog.\u2019 %(Pensalfini 1997: 275)",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-623542",
+        "categories": [
+            "1sg",
+            "3sg",
+            "f",
+            "gen",
+            "nom"
+        ],
+        "clength": 32,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "see-\\textsc{1sg}-do\t\\textsc{3sg.gen}-\\textsc{f}\twoman.\\textsc{nom}",
+        "imtwordsbare": [
+            "see-1SG-do",
+            "3sg.gen-F",
+            "woman.NOM"
+        ],
+        "imtwordshtml": [
+            "see-<span class=\"sc\">1sg</span>-do",
+            "<span class=\"sc\">3sg.gen</span>-<span class=\"sc\">f</span>",
+            "woman.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "see-\\textsc{1sg}-do",
+            "\\textsc{3sg.gen}-\\textsc{f}",
+            "woman.\\textsc{nom}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ngaja-nga-ju\tniyi-rnini\tnayurni.",
+        "srcwordsbare": [
+            "Ngaja-nga-ju",
+            "niyi-rnini",
+            "nayurni."
+        ],
+        "srcwordshtml": [
+            "Ngaja-nga-ju",
+            "niyi-rnini",
+            "nayurni."
+        ],
+        "srcwordstex": [
+            "Ngaja-nga-ju",
+            "niyi-rnini",
+            "nayurni."
+        ],
+        "trs": "I can see his wife.\u2019 %(Pensalfini 1997: 249)\\\\",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi--72784",
+        "categories": [
+            "\\textbf{erg",
+            "acc",
+            "fut",
+            "nom",
+            "obl",
+            "pst",
+            "tr"
+        ],
+        "clength": 104,
+        "coordination": "and",
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "this\t\tjump\t3min\\textsc{nom}-say-\\textsc{pst}-3min\\textsc{obl}\tthis\tlater\tbig\twoman 1min\\textsc{nom}-\\textsc{tr}-\\textsc{fut}-get-3min\\textsc{acc}\t3min\\textsc{nom}-say-\\textsc{pst}\tthis-\\textsc{\\textbf{erg}}\tsmall",
+        "imtwordsbare": [
+            "this",
+            "jump",
+            "3minNOM-say-PST-3minOBL",
+            "this",
+            "later",
+            "big",
+            "woman",
+            "1minNOM-TR-FUT-get-3minACC",
+            "3minNOM-say-PST",
+            "this-\\textbf{erg}",
+            "small"
+        ],
+        "imtwordshtml": [
+            "this",
+            "jump",
+            "3min<span class=\"sc\">nom</span>-say-<span class=\"sc\">pst</span>-3min<span class=\"sc\">obl</span>",
+            "this",
+            "later",
+            "big",
+            "woman",
+            "1min<span class=\"sc\">nom</span>-<span class=\"sc\">tr</span>-<span class=\"sc\">fut</span>-get-3min<span class=\"sc\">acc</span>",
+            "3min<span class=\"sc\">nom</span>-say-<span class=\"sc\">pst</span>",
+            "this-<span class=\"sc\">\\textbf{erg</span>}",
+            "small"
+        ],
+        "imtwordstex": [
+            "this",
+            "jump",
+            "3min\\textsc{nom}-say-\\textsc{pst}-3min\\textsc{obl}",
+            "this",
+            "later",
+            "big",
+            "woman",
+            "1min\\textsc{nom}-\\textsc{tr}-\\textsc{fut}-get-3min\\textsc{acc}",
+            "3min\\textsc{nom}-say-\\textsc{pst}",
+            "this-\\textsc{\\textbf{erg}}",
+            "small"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "nyinka\tjurrb\t\u00f8-ji-na-yina\t\t\tkinya\twanyji\tkwiina\tiri ka-na-ngka-ndi-\u00f8\t\t\t\u00f8-ji-na,\t\tkinya-\\textbf{na}\twuba,",
+        "srcwordsbare": [
+            "nyinka",
+            "jurrb",
+            "\u00f8-ji-na-yina",
+            "kinya",
+            "wanyji",
+            "kwiina",
+            "iri",
+            "ka-na-ngka-ndi-\u00f8",
+            "\u00f8-ji-na,",
+            "kinya-na",
+            "wuba,"
+        ],
+        "srcwordshtml": [
+            "nyinka",
+            "jurrb",
+            "\u00f8-ji-na-yina",
+            "kinya",
+            "wanyji",
+            "kwiina",
+            "iri",
+            "ka-na-ngka-ndi-\u00f8",
+            "\u00f8-ji-na,",
+            "kinya-<span class=\"bf\">na</span>",
+            "wuba,"
+        ],
+        "srcwordstex": [
+            "nyinka",
+            "jurrb",
+            "\u00f8-ji-na-yina",
+            "kinya",
+            "wanyji",
+            "kwiina",
+            "iri",
+            "ka-na-ngka-ndi-\u00f8",
+            "\u00f8-ji-na,",
+            "kinya-\\textbf{na}",
+            "wuba,"
+        ],
+        "trs": "The little one jumped at her then, at the big woman, and tried to get her.",
+        "wlength": 11
+    },
+    {
+        "ID": "01-wi--59793",
+        "categories": [
+            "acc",
+            "erg",
+            "nom",
+            "pst"
+        ],
+        "clength": 90,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "this big-\\textbf{f\\textsc{erg}} woman\tnot throw 3min\\textsc{nom}-say-\\textsc{pst}-3min\\textsc{acc} this\tlittle \tthrow \tnot \tthrow\t3min\\textsc{nom}-say-\\textsc{pst}-3min\\textsc{acc}",
+        "imtwordsbare": [
+            "this",
+            "big-fERG",
+            "woman",
+            "not",
+            "throw",
+            "3minNOM-say-PST-3minACC",
+            "this",
+            "little",
+            "throw",
+            "not",
+            "throw",
+            "3minNOM-say-PST-3minACC"
+        ],
+        "imtwordshtml": [
+            "this",
+            "big-<span class=\"bf\">f\\textsc{erg</span>}",
+            "woman",
+            "not",
+            "throw",
+            "3min<span class=\"sc\">nom</span>-say-<span class=\"sc\">pst</span>-3min<span class=\"sc\">acc</span>",
+            "this",
+            "little",
+            "throw",
+            "not",
+            "throw",
+            "3min<span class=\"sc\">nom</span>-say-<span class=\"sc\">pst</span>-3min<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "this",
+            "big-\\textbf{f\\textsc{erg}}",
+            "woman",
+            "not",
+            "throw",
+            "3min\\textsc{nom}-say-\\textsc{pst}-3min\\textsc{acc}",
+            "this",
+            "little",
+            "throw",
+            "not",
+            "throw",
+            "3min\\textsc{nom}-say-\\textsc{pst}-3min\\textsc{acc}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "kinya\tkwiina-\\textbf{nma}\tiri\t\tmarlu\tlaj\t\u00f8-ji-na-\u00f8 kinya\twuba,\tlaj, \tmarlu\tlaj \t\u00f8-ji-na-\u00f8,",
+        "srcwordsbare": [
+            "kinya",
+            "kwiina-nma",
+            "iri",
+            "marlu",
+            "laj",
+            "\u00f8-ji-na-\u00f8",
+            "kinya",
+            "wuba,",
+            "laj,",
+            "marlu",
+            "laj",
+            "\u00f8-ji-na-\u00f8,"
+        ],
+        "srcwordshtml": [
+            "kinya",
+            "kwiina-<span class=\"bf\">nma</span>",
+            "iri",
+            "marlu",
+            "laj",
+            "\u00f8-ji-na-\u00f8",
+            "kinya",
+            "wuba,",
+            "laj,",
+            "marlu",
+            "laj",
+            "\u00f8-ji-na-\u00f8,"
+        ],
+        "srcwordstex": [
+            "kinya",
+            "kwiina-\\textbf{nma}",
+            "iri",
+            "marlu",
+            "laj",
+            "\u00f8-ji-na-\u00f8",
+            "kinya",
+            "wuba,",
+            "laj,",
+            "marlu",
+            "laj",
+            "\u00f8-ji-na-\u00f8,"
+        ],
+        "trs": "But no, the big woman threw the little man away.",
+        "wlength": 12
+    },
+    {
+        "ID": "01-wi--33507",
+        "categories": [
+            "1pl",
+            "hiaf",
+            "int",
+            "neg",
+            "nom",
+            "poss",
+            "pst",
+            "rec"
+        ],
+        "clength": 33,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "dog.\\textsc{nom}\t\\textsc{1pl}-\\textsc{poss}\tkill.\\textsc{hiaf}-\\textsc{neg}-\\textsc{rec.pst}-\\textsc{int}-2sg\\textsc{pst}",
+        "imtwordsbare": [
+            "dog.NOM",
+            "1PL-POSS",
+            "kill.HIAF-NEG-rec.pst-INT-2sgPST"
+        ],
+        "imtwordshtml": [
+            "dog.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">1pl</span>-<span class=\"sc\">poss</span>",
+            "kill.<span class=\"sc\">hiaf</span>-<span class=\"sc\">neg</span>-<span class=\"sc\">rec.pst</span>-<span class=\"sc\">int</span>-2sg<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "dog.\\textsc{nom}",
+            "\\textsc{1pl}-\\textsc{poss}",
+            "kill.\\textsc{hiaf}-\\textsc{neg}-\\textsc{rec.pst}-\\textsc{int}-2sg\\textsc{pst}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Yawa\u00e3\t\tii-nau\t\tmaa-t\u0283a-ma-ka-um\u0268?",
+        "srcwordsbare": [
+            "Yawa\u00e3",
+            "ii-nau",
+            "maa-t\u0283a-ma-ka-um\u0268?"
+        ],
+        "srcwordshtml": [
+            "Yawa\u00e3",
+            "ii-nau",
+            "maa-t\u0283a-ma-ka-um\u0268?"
+        ],
+        "srcwordstex": [
+            "Yawa\u00e3",
+            "ii-nau",
+            "maa-t\u0283a-ma-ka-um\u0268?"
+        ],
+        "trs": "Have you killed our dog?\u2019 %(Overall 2007: 155)",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi--84641",
+        "categories": [
+            "3sg",
+            "imp",
+            "nom",
+            "pfv"
+        ],
+        "clength": 12,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{3sg.nom}\tcarry.\\textsc{pfv}-\\textsc{imp}",
+        "imtwordsbare": [
+            "3sg.nom",
+            "carry.PFV-IMP"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.nom</span>",
+            "carry.<span class=\"sc\">pfv</span>-<span class=\"sc\">imp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.nom}",
+            "carry.\\textsc{pfv}-\\textsc{imp}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "N\u0129\t\t\u0268\u0268ma-ta.",
+        "srcwordsbare": [
+            "N\u0129",
+            "\u0268\u0268ma-ta."
+        ],
+        "srcwordshtml": [
+            "N\u0129",
+            "\u0268\u0268ma-ta."
+        ],
+        "srcwordstex": [
+            "N\u0129",
+            "\u0268\u0268ma-ta."
+        ],
+        "trs": "You(sg.) carry him!\u2019 %(Overall 2007: 443)",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-705607",
+        "categories": [
+            "1pl",
+            "2pl",
+            "decl",
+            "ipfv",
+            "nom",
+            "obj",
+            "pl",
+            "sap"
+        ],
+        "clength": 43,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{1pl.nom}\t\\textsc{pl}-\\textsc{sap}\t2\\textsc{pl.nom}\tsee-\\textsc{1pl.obj}-\\textsc{pl.ipfv}-\\textsc{2pl}-\\textsc{decl}",
+        "imtwordsbare": [
+            "1pl.nom",
+            "PL-SAP",
+            "2pl.nom",
+            "see-1pl.obj-pl.ipfv-2PL-DECL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1pl.nom</span>",
+            "<span class=\"sc\">pl</span>-<span class=\"sc\">sap</span>",
+            "2<span class=\"sc\">pl.nom</span>",
+            "see-<span class=\"sc\">1pl.obj</span>-<span class=\"sc\">pl.ipfv</span>-<span class=\"sc\">2pl</span>-<span class=\"sc\">decl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pl.nom}",
+            "\\textsc{pl}-\\textsc{sap}",
+            "2\\textsc{pl.nom}",
+            "see-\\textsc{1pl.obj}-\\textsc{pl.ipfv}-\\textsc{2pl}-\\textsc{decl}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Hutii\t\tainau-ti\tatum\u0268\t\twai-hatu-ina-hum\u0268-i.",
+        "srcwordsbare": [
+            "Hutii",
+            "ainau-ti",
+            "atum\u0268",
+            "wai-hatu-ina-hum\u0268-i."
+        ],
+        "srcwordshtml": [
+            "Hutii",
+            "ainau-ti",
+            "atum\u0268",
+            "wai-hatu-ina-hum\u0268-i."
+        ],
+        "srcwordstex": [
+            "Hutii",
+            "ainau-ti",
+            "atum\u0268",
+            "wai-hatu-ina-hum\u0268-i."
+        ],
+        "trs": "You(pl.) see us.\u2019 %(Overall 2007: 444)",
+        "wlength": 4
+    },
+    {
+        "ID": "01-wi--39231",
+        "categories": [
+            "1sg",
+            "acc",
+            "decl",
+            "hiaf",
+            "intens",
+            "pst",
+            "rec",
+            "restr"
+        ],
+        "clength": 31,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{intens}\tbean-\\textsc{acc}-\\textsc{restr}\teat-\\textsc{hiaf}-\\textsc{rec.pst}-\\textsc{1sg}-\\textsc{decl}",
+        "imtwordsbare": [
+            "INTENS",
+            "bean-ACC-RESTR",
+            "eat-HIAF-rec.pst-1SG-DECL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">intens</span>",
+            "bean-<span class=\"sc\">acc</span>-<span class=\"sc\">restr</span>",
+            "eat-<span class=\"sc\">hiaf</span>-<span class=\"sc\">rec.pst</span>-<span class=\"sc\">1sg</span>-<span class=\"sc\">decl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{intens}",
+            "bean-\\textsc{acc}-\\textsc{restr}",
+            "eat-\\textsc{hiaf}-\\textsc{rec.pst}-\\textsc{1sg}-\\textsc{decl}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ima\t\tbiika-na-k\u0268\t\tyu-a-ma-ha-i.",
+        "srcwordsbare": [
+            "Ima",
+            "biika-na-k\u0268",
+            "yu-a-ma-ha-i."
+        ],
+        "srcwordshtml": [
+            "Ima",
+            "biika-na-k\u0268",
+            "yu-a-ma-ha-i."
+        ],
+        "srcwordstex": [
+            "Ima",
+            "biika-na-k\u0268",
+            "yu-a-ma-ha-i."
+        ],
+        "trs": "I only ate beans.\u2019 %(Overall 2007: 146)",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-608033",
+        "categories": [
+            "1pl",
+            "3",
+            "3sg",
+            "acc",
+            "appl",
+            "decl",
+            "fut",
+            "intens",
+            "nom",
+            "obj",
+            "pl"
+        ],
+        "clength": 41,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{3sg.nom}\t\\textsc{1pl}-\\textsc{acc}\tlisten-\\textsc{appl}-\\textsc{1pl.obj}-\\textsc{intens}-\\textsc{pl}-\\textsc{fut}-\\textsc{3}-\\textsc{decl}",
+        "imtwordsbare": [
+            "3sg.nom",
+            "1PL-ACC",
+            "listen-APPL-1pl.obj-INTENS-PL-FUT-3-DECL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.nom</span>",
+            "<span class=\"sc\">1pl</span>-<span class=\"sc\">acc</span>",
+            "listen-<span class=\"sc\">appl</span>-<span class=\"sc\">1pl.obj</span>-<span class=\"sc\">intens</span>-<span class=\"sc\">pl</span>-<span class=\"sc\">fut</span>-<span class=\"sc\">3</span>-<span class=\"sc\">decl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.nom}",
+            "\\textsc{1pl}-\\textsc{acc}",
+            "listen-\\textsc{appl}-\\textsc{1pl.obj}-\\textsc{intens}-\\textsc{pl}-\\textsc{fut}-\\textsc{3}-\\textsc{decl}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "N\u0129\t\tii-na\t\tantu-hu-tama-ka-aha-tata-wa-i.",
+        "srcwordsbare": [
+            "N\u0129",
+            "ii-na",
+            "antu-hu-tama-ka-aha-tata-wa-i."
+        ],
+        "srcwordshtml": [
+            "N\u0129",
+            "ii-na",
+            "antu-hu-tama-ka-aha-tata-wa-i."
+        ],
+        "srcwordstex": [
+            "N\u0129",
+            "ii-na",
+            "antu-hu-tama-ka-aha-tata-wa-i."
+        ],
+        "trs": "He will listen to us.\u2019 %(Overall 2007: 326)",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi--51226",
+        "categories": [
+            "1pl",
+            "1sg",
+            "2sg",
+            "acc",
+            "att",
+            "cop",
+            "decl",
+            "fut",
+            "ippfv",
+            "nom",
+            "obj",
+            "pl",
+            "rel",
+            "sap"
+        ],
+        "clength": 48,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{1pl.nom}\t\\textsc{cop}-\\textsc{pl.ippfv}-\\textsc{rel}-\\textsc{sap}\twait-\\textsc{att}-\\textsc{fut}-\\textsc{1sg}>\\textsc{2sg.obj}-\\textsc{decl} \\textsc{2sg}-\\textsc{acc}",
+        "imtwordsbare": [
+            "1pl.nom",
+            "COP-pl.ippfv-REL-SAP",
+            "wait-ATT-FUT-1SG>2sg.obj-DECL",
+            "2SG-ACC"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1pl.nom</span>",
+            "<span class=\"sc\">cop</span>-<span class=\"sc\">pl.ippfv</span>-<span class=\"sc\">rel</span>-<span class=\"sc\">sap</span>",
+            "wait-<span class=\"sc\">att</span>-<span class=\"sc\">fut</span>-<span class=\"sc\">1sg</span>><span class=\"sc\">2sg.obj</span>-<span class=\"sc\">decl</span>",
+            "<span class=\"sc\">2sg</span>-<span class=\"sc\">acc</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1pl.nom}",
+            "\\textsc{cop}-\\textsc{pl.ippfv}-\\textsc{rel}-\\textsc{sap}",
+            "wait-\\textsc{att}-\\textsc{fut}-\\textsc{1sg}>\\textsc{2sg.obj}-\\textsc{decl}",
+            "\\textsc{2sg}-\\textsc{acc}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Hutii\t\ta-ina-u-ti\t\t\tdaka-sa-tata-ham\u0268-i \tami-na.",
+        "srcwordsbare": [
+            "Hutii",
+            "a-ina-u-ti",
+            "daka-sa-tata-ham\u0268-i",
+            "ami-na."
+        ],
+        "srcwordshtml": [
+            "Hutii",
+            "a-ina-u-ti",
+            "daka-sa-tata-ham\u0268-i",
+            "ami-na."
+        ],
+        "srcwordstex": [
+            "Hutii",
+            "a-ina-u-ti",
+            "daka-sa-tata-ham\u0268-i",
+            "ami-na."
+        ],
+        "trs": "We will wait for you.\u2019 %(Overall 2007: 444)",
+        "wlength": 4
+    },
+    {
+        "ID": "01-wi-556384",
+        "categories": [
+            "aor",
+            "erg"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "1s\\textsc{erg}\tfall-\\textsc{aor}-1s\\textsc{erg}",
+        "imtwordsbare": [
+            "1sERG",
+            "fall-AOR-1sERG"
+        ],
+        "imtwordshtml": [
+            "1s<span class=\"sc\">erg</span>",
+            "fall-<span class=\"sc\">aor</span>-1s<span class=\"sc\">erg</span>"
+        ],
+        "imtwordstex": [
+            "1s\\textsc{erg}",
+            "fall-\\textsc{aor}-1s\\textsc{erg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "(As) \t\tvui\u017e-n-as.",
+        "srcwordsbare": [
+            "(As)",
+            "vui\u017e-n-as."
+        ],
+        "srcwordshtml": [
+            "(As)",
+            "vui\u017e-n-as."
+        ],
+        "srcwordstex": [
+            "(As)",
+            "vui\u017e-n-as."
+        ],
+        "trs": "I fell. (It was my own fault that I fell down.)",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-117392",
+        "categories": [
+            "aor",
+            "nom"
+        ],
+        "clength": 16,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "1s\\textsc{nom}\tfall-\\textsc{aor}-1s\\textsc{nom}",
+        "imtwordsbare": [
+            "1sNOM",
+            "fall-AOR-1sNOM"
+        ],
+        "imtwordshtml": [
+            "1s<span class=\"sc\">nom</span>",
+            "fall-<span class=\"sc\">aor</span>-1s<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "1s\\textsc{nom}",
+            "fall-\\textsc{aor}-1s\\textsc{nom}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "(So)\t\tvo\u017e-en-sO.",
+        "srcwordsbare": [
+            "(So)",
+            "vo\u017e-en-sO."
+        ],
+        "srcwordshtml": [
+            "(So)",
+            "vo\u017e-en-sO."
+        ],
+        "srcwordstex": [
+            "(So)",
+            "vo\u017e-en-sO."
+        ],
+        "trs": "I fell down, by accident.",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-386207",
+        "categories": [
+            "1sg",
+            "acc",
+            "nom",
+            "pst"
+        ],
+        "clength": 28,
+        "coordination": "and",
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "I.\\textsc{nom}\tfinger-\\textsc{acc}\tfully\tget.cold-\\textsc{pst}-\\textsc{1sg}",
+        "imtwordsbare": [
+            "I.NOM",
+            "finger-ACC",
+            "fully",
+            "get.cold-PST-1SG"
+        ],
+        "imtwordshtml": [
+            "I.<span class=\"sc\">nom</span>",
+            "finger-<span class=\"sc\">acc</span>",
+            "fully",
+            "get.cold-<span class=\"sc\">pst</span>-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "I.\\textsc{nom}",
+            "finger-\\textsc{acc}",
+            "fully",
+            "get.cold-\\textsc{pst}-\\textsc{1sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "*a\u0161\tpir\u0161t-\u0105\t\tvisai\tat\u0161al-a-u",
+        "srcwordsbare": [
+            "*a\u0161",
+            "pir\u0161t-\u0105",
+            "visai",
+            "at\u0161al-a-u"
+        ],
+        "srcwordshtml": [
+            "*a\u0161",
+            "pir\u0161t-\u0105",
+            "visai",
+            "at\u0161al-a-u"
+        ],
+        "srcwordstex": [
+            "*a\u0161",
+            "pir\u0161t-\u0105",
+            "visai",
+            "at\u0161al-a-u"
+        ],
+        "trs": "The doctor put ice on [my] aching finger and after 10 minutes my finger got cold (lit. to me the finger got cold).\u2019 [Elicited]",
+        "wlength": 4
+    },
+    {
+        "ID": "01-wi-577408",
+        "categories": [
+            "3pst",
+            "acc",
+            "sg",
+            "telic"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "he \\textsc{telic}-drink.\\textsc{3pst}\twater-\\textsc{acc.sg}",
+        "imtwordsbare": [
+            "he",
+            "TELIC-drink.3PST",
+            "water-acc.sg"
+        ],
+        "imtwordshtml": [
+            "he",
+            "<span class=\"sc\">telic</span>-drink.<span class=\"sc\">3pst</span>",
+            "water-<span class=\"sc\">acc.sg</span>"
+        ],
+        "imtwordstex": [
+            "he",
+            "\\textsc{telic}-drink.\\textsc{3pst}",
+            "water-\\textsc{acc.sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Jis i\u0161-g\u0117r\u0117\tvanden-\u012f.",
+        "srcwordsbare": [
+            "Jis",
+            "i\u0161-g\u0117r\u0117",
+            "vanden-\u012f."
+        ],
+        "srcwordshtml": [
+            "Jis",
+            "i\u0161-g\u0117r\u0117",
+            "vanden-\u012f."
+        ],
+        "srcwordstex": [
+            "Jis",
+            "i\u0161-g\u0117r\u0117",
+            "vanden-\u012f."
+        ],
+        "trs": "He drank (up) (the/some) water.",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi--68082",
+        "categories": [
+            "3pst",
+            "gen",
+            "sg",
+            "telic"
+        ],
+        "clength": 23,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "he\t\\textsc{telic}-drink.\\textsc{3pst}\twater-\\textsc{gen.sg}",
+        "imtwordsbare": [
+            "he",
+            "TELIC-drink.3PST",
+            "water-gen.sg"
+        ],
+        "imtwordshtml": [
+            "he",
+            "<span class=\"sc\">telic</span>-drink.<span class=\"sc\">3pst</span>",
+            "water-<span class=\"sc\">gen.sg</span>"
+        ],
+        "imtwordstex": [
+            "he",
+            "\\textsc{telic}-drink.\\textsc{3pst}",
+            "water-\\textsc{gen.sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Jis\ti\u0161-g\u0117r\u0117 \t\tvanden-s.",
+        "srcwordsbare": [
+            "Jis",
+            "i\u0161-g\u0117r\u0117",
+            "vanden-s."
+        ],
+        "srcwordshtml": [
+            "Jis",
+            "i\u0161-g\u0117r\u0117",
+            "vanden-s."
+        ],
+        "srcwordstex": [
+            "Jis",
+            "i\u0161-g\u0117r\u0117",
+            "vanden-s."
+        ],
+        "trs": "He drank (*the/some) water.",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-312584",
+        "categories": [
+            "3sg",
+            "acc",
+            "pst",
+            "sg"
+        ],
+        "clength": 19,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "he\topen.\\textsc{3sg.pst}\twindow.\\textsc{acc.sg}",
+        "imtwordsbare": [
+            "he",
+            "open.3sg.pst",
+            "window.acc.sg"
+        ],
+        "imtwordshtml": [
+            "he",
+            "open.<span class=\"sc\">3sg.pst</span>",
+            "window.<span class=\"sc\">acc.sg</span>"
+        ],
+        "imtwordstex": [
+            "he",
+            "open.\\textsc{3sg.pst}",
+            "window.\\textsc{acc.sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "H\u00e4n\tavasi\t\tikkunan.",
+        "srcwordsbare": [
+            "H\u00e4n",
+            "avasi",
+            "ikkunan."
+        ],
+        "srcwordshtml": [
+            "H\u00e4n",
+            "avasi",
+            "ikkunan."
+        ],
+        "srcwordstex": [
+            "H\u00e4n",
+            "avasi",
+            "ikkunan."
+        ],
+        "trs": "He opened the window.",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-343931",
+        "categories": [
+            "3sg",
+            "part",
+            "pst",
+            "sg"
+        ],
+        "clength": 19,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "he\topen.\\textsc{3sg.pst}\twindow.\\textsc{part.sg}",
+        "imtwordsbare": [
+            "he",
+            "open.3sg.pst",
+            "window.part.sg"
+        ],
+        "imtwordshtml": [
+            "he",
+            "open.<span class=\"sc\">3sg.pst</span>",
+            "window.<span class=\"sc\">part.sg</span>"
+        ],
+        "imtwordstex": [
+            "he",
+            "open.\\textsc{3sg.pst}",
+            "window.\\textsc{part.sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "H\u00e4n\tavasi\t\tikkunaa.",
+        "srcwordsbare": [
+            "H\u00e4n",
+            "avasi",
+            "ikkunaa."
+        ],
+        "srcwordshtml": [
+            "H\u00e4n",
+            "avasi",
+            "ikkunaa."
+        ],
+        "srcwordstex": [
+            "H\u00e4n",
+            "avasi",
+            "ikkunaa."
+        ],
+        "trs": "(i) \u2018He was opening the window.\u2019\\\\",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-424157",
+        "categories": [
+            "nom",
+            "pst",
+            "rem"
+        ],
+        "clength": 14,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "3h\\textsc{rem.nom}\tlaugh-\\textsc{pst}-3h\\textsc{nom}",
+        "imtwordsbare": [
+            "3hrem.nom",
+            "laugh-PST-3hNOM"
+        ],
+        "imtwordshtml": [
+            "3h<span class=\"sc\">rem.nom</span>",
+            "laugh-<span class=\"sc\">pst</span>-3h<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "3h\\textsc{rem.nom}",
+            "laugh-\\textsc{pst}-3h\\textsc{nom}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "O\t\th\u00e3s-l-aith.",
+        "srcwordsbare": [
+            "O",
+            "h\u00e3s-l-aith."
+        ],
+        "srcwordshtml": [
+            "O",
+            "h\u00e3s-l-aith."
+        ],
+        "srcwordstex": [
+            "O",
+            "h\u00e3s-l-aith."
+        ],
+        "trs": "He(h\\textsc{rem}) laughed.\u2019 %(Bickel & Y\u0101dava 2000: 346)",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-310356",
+        "categories": [
+            "aux",
+            "dat",
+            "ipfv",
+            "nom",
+            "ptcp",
+            "rem"
+        ],
+        "clength": 28,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "3h\\textsc{rem}\t3nh\\textsc{rem.dat}\tlike-\\textsc{ipfv.ptcp}\t\\textsc{aux}-3h\\textsc{nom}",
+        "imtwordsbare": [
+            "3hREM",
+            "3nhrem.dat",
+            "like-ipfv.ptcp",
+            "AUX-3hNOM"
+        ],
+        "imtwordshtml": [
+            "3h<span class=\"sc\">rem</span>",
+            "3nh<span class=\"sc\">rem.dat</span>",
+            "like-<span class=\"sc\">ipfv.ptcp</span>",
+            "<span class=\"sc\">aux</span>-3h<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "3h\\textsc{rem}",
+            "3nh\\textsc{rem.dat}",
+            "like-\\textsc{ipfv.ptcp}",
+            "\\textsc{aux}-3h\\textsc{nom}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "O\t\tokra\t\t\tc\u0101h-ait\t\t\tch-aith.",
+        "srcwordsbare": [
+            "O",
+            "okra",
+            "c\u0101h-ait",
+            "ch-aith."
+        ],
+        "srcwordshtml": [
+            "O",
+            "okra",
+            "c\u0101h-ait",
+            "ch-aith."
+        ],
+        "srcwordstex": [
+            "O",
+            "okra",
+            "c\u0101h-ait",
+            "ch-aith."
+        ],
+        "trs": "S/he(h\\textsc{rem}) likes him/her(nh.\\textsc{rem}).\u2019 %(Bickel & Y\u0101dava 2000: 347)",
+        "wlength": 4
+    },
+    {
+        "ID": "01-wi-279152",
+        "categories": [
+            "1dat",
+            "1nom",
+            "cvb",
+            "fut",
+            "nom"
+        ],
+        "clength": 51,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{1dat}\t\t\\textsc{1nom}\t home\tcome-\\textsc{cvb}\tfather-h\\textsc{nom}\thappy\tbe(come)-\\textsc{fut}-3h\\textsc{nom}",
+        "imtwordsbare": [
+            "1DAT",
+            "1NOM",
+            "home",
+            "come-CVB",
+            "father-hNOM",
+            "happy",
+            "be(come)-FUT-3hNOM"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1dat</span>",
+            "<span class=\"sc\">1nom</span>",
+            "home",
+            "come-<span class=\"sc\">cvb</span>",
+            "father-h<span class=\"sc\">nom</span>",
+            "happy",
+            "be(come)-<span class=\"sc\">fut</span>-3h<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1dat}",
+            "\\textsc{1nom}",
+            "home",
+            "come-\\textsc{cvb}",
+            "father-h\\textsc{nom}",
+            "happy",
+            "be(come)-\\textsc{fut}-3h\\textsc{nom}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "[Hamr\u0101\t(*ham)\t ghar\t\u0101ib-k\u1ebd]\tpit\u0101-j\u012b\t\tkhu\u015b\u012b\the-t-\u0101h.",
+        "srcwordsbare": [
+            "[Hamr\u0101",
+            "(*ham)",
+            "ghar",
+            "\u0101ib-k\u1ebd]",
+            "pit\u0101-j\u012b",
+            "khu\u015b\u012b",
+            "he-t-\u0101h."
+        ],
+        "srcwordshtml": [
+            "[Hamr\u0101",
+            "(*ham)",
+            "ghar",
+            "\u0101ib-k\u1ebd]",
+            "pit\u0101-j\u012b",
+            "khu\u015b\u012b",
+            "he-t-\u0101h."
+        ],
+        "srcwordstex": [
+            "[Hamr\u0101",
+            "(*ham)",
+            "ghar",
+            "\u0101ib-k\u1ebd]",
+            "pit\u0101-j\u012b",
+            "khu\u015b\u012b",
+            "he-t-\u0101h."
+        ],
+        "trs": "When I come home, father will be happy.\u2019 %(Bickel & Y\u0101dava 2000: 353)",
+        "wlength": 7
+    },
+    {
+        "ID": "01-wi-111638",
+        "categories": [
+            "aor",
+            "gen",
+            "narr",
+            "nom"
+        ],
+        "clength": 33,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "mother-\\textsc{narr}\tshe.bathed.him.\\textsc{aor}\tself.\\textsc{gen}-\\textsc{nom}\tchild-\\textsc{nom}",
+        "imtwordsbare": [
+            "mother-NARR",
+            "she.bathed.him.AOR",
+            "self.GEN-NOM",
+            "child-NOM"
+        ],
+        "imtwordshtml": [
+            "mother-<span class=\"sc\">narr</span>",
+            "she.bathed.him.<span class=\"sc\">aor</span>",
+            "self.<span class=\"sc\">gen</span>-<span class=\"sc\">nom</span>",
+            "child-<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "mother-\\textsc{narr}",
+            "she.bathed.him.\\textsc{aor}",
+            "self.\\textsc{gen}-\\textsc{nom}",
+            "child-\\textsc{nom}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Deda-m\t\tdabana\t\ttavis-i\t\t\t\u0161vil-i.",
+        "srcwordsbare": [
+            "Deda-m",
+            "dabana",
+            "tavis-i",
+            "\u0161vil-i."
+        ],
+        "srcwordshtml": [
+            "Deda-m",
+            "dabana",
+            "tavis-i",
+            "\u0161vil-i."
+        ],
+        "srcwordstex": [
+            "Deda-m",
+            "dabana",
+            "tavis-i",
+            "\u0161vil-i."
+        ],
+        "trs": "The mother bathed her child.",
+        "wlength": 4
+    },
+    {
+        "ID": "01-wi--40876",
+        "categories": [
+            "acc",
+            "ipfv",
+            "part"
+        ],
+        "clength": 24,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "eat.1s\\textsc{ipfv}\tapple-\\textsc{acc}\t/\tapple-\\textsc{part}",
+        "imtwordsbare": [
+            "eat.1sIPFV",
+            "apple-ACC",
+            "/",
+            "apple-PART"
+        ],
+        "imtwordshtml": [
+            "eat.1s<span class=\"sc\">ipfv</span>",
+            "apple-<span class=\"sc\">acc</span>",
+            "/",
+            "apple-<span class=\"sc\">part</span>"
+        ],
+        "imtwordstex": [
+            "eat.1s\\textsc{ipfv}",
+            "apple-\\textsc{acc}",
+            "/",
+            "apple-\\textsc{part}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "S\u00f6in\t\tomena-n\t/\tomena-a.",
+        "srcwordsbare": [
+            "S\u00f6in",
+            "omena-n",
+            "/",
+            "omena-a."
+        ],
+        "srcwordshtml": [
+            "S\u00f6in",
+            "omena-n",
+            "/",
+            "omena-a."
+        ],
+        "srcwordstex": [
+            "S\u00f6in",
+            "omena-n",
+            "/",
+            "omena-a."
+        ],
+        "trs": "I ate/was eating an apple.",
+        "wlength": 4
+    },
+    {
+        "ID": "01-wi-443180",
+        "categories": [
+            "2ptcp",
+            "neg",
+            "part"
+        ],
+        "clength": 20,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{neg}-1s\teat-\\textsc{2ptcp}\tapple-\\textsc{part}",
+        "imtwordsbare": [
+            "NEG-1s",
+            "eat-2PTCP",
+            "apple-PART"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>-1s",
+            "eat-<span class=\"sc\">2ptcp</span>",
+            "apple-<span class=\"sc\">part</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}-1s",
+            "eat-\\textsc{2ptcp}",
+            "apple-\\textsc{part}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "polarity": "negative",
+        "src": "En\t\tsy\u00f6nyt\t\tomena-a.",
+        "srcwordsbare": [
+            "En",
+            "sy\u00f6nyt",
+            "omena-a."
+        ],
+        "srcwordshtml": [
+            "En",
+            "sy\u00f6nyt",
+            "omena-a."
+        ],
+        "srcwordstex": [
+            "En",
+            "sy\u00f6nyt",
+            "omena-a."
+        ],
+        "trs": "I didn\u2019t eat/was not eating an apple.",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi--60014",
+        "categories": [
+            "3sg",
+            "f",
+            "nom",
+            "pvs"
+        ],
+        "clength": 22,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "horse.\\textsc{f.nom} \t\\textsc{pvs}-\\textsc{3sg}\tdie.\\textsc{3sg.f}",
+        "imtwordsbare": [
+            "horse.f.nom",
+            "PVS-3SG",
+            "die.3sg.f"
+        ],
+        "imtwordshtml": [
+            "horse.<span class=\"sc\">f.nom</span>",
+            "<span class=\"sc\">pvs</span>-<span class=\"sc\">3sg</span>",
+            "die.<span class=\"sc\">3sg.f</span>"
+        ],
+        "imtwordstex": [
+            "horse.\\textsc{f.nom}",
+            "\\textsc{pvs}-\\textsc{3sg}",
+            "die.\\textsc{3sg.f}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Faraw\u00e9 \t\t\u0241\u00ed-y \t\tza\u0266ate",
+        "srcwordsbare": [
+            "Faraw\u00e9",
+            "\u0241\u00ed-y",
+            "za\u0266ate"
+        ],
+        "srcwordshtml": [
+            "Faraw\u00e9",
+            "\u0241\u00ed-y",
+            "za\u0266ate"
+        ],
+        "srcwordstex": [
+            "Faraw\u00e9",
+            "\u0241\u00ed-y",
+            "za\u0266ate"
+        ],
+        "trs": "(A) horse died.",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-540390",
+        "categories": [
+            "3sg",
+            "f",
+            "m",
+            "pred"
+        ],
+        "clength": 13,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "horse.\\textsc{f.pred} \tdied.\\textsc{3sg.m}",
+        "imtwordsbare": [
+            "horse.f.pred",
+            "died.3sg.m"
+        ],
+        "imtwordshtml": [
+            "horse.<span class=\"sc\">f.pred</span>",
+            "died.<span class=\"sc\">3sg.m</span>"
+        ],
+        "imtwordstex": [
+            "horse.\\textsc{f.pred}",
+            "died.\\textsc{3sg.m}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Farawa \t\tz\u00e9\u0266e",
+        "srcwordsbare": [
+            "Farawa",
+            "z\u00e9\u0266e"
+        ],
+        "srcwordshtml": [
+            "Farawa",
+            "z\u00e9\u0266e"
+        ],
+        "srcwordstex": [
+            "Farawa",
+            "z\u00e9\u0266e"
+        ],
+        "trs": "(A) \\textsc{horse} died.\u2019 (Capitals signify the narrow focus)",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-337560",
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "fn",
+            "gen",
+            "pst"
+        ],
+        "clength": 47,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "village-\\textsc{acc}\ta\trobber-\\textsc{gen}\traid-\\textsc{fn}-\\textsc{3sg}-\\textsc{acc}\thear-\\textsc{pst}-\\textsc{1sg}",
+        "imtwordsbare": [
+            "village-ACC",
+            "a",
+            "robber-GEN",
+            "raid-FN-3SG-ACC",
+            "hear-PST-1SG"
+        ],
+        "imtwordshtml": [
+            "village-<span class=\"sc\">acc</span>",
+            "a",
+            "robber-<span class=\"sc\">gen</span>",
+            "raid-<span class=\"sc\">fn</span>-<span class=\"sc\">3sg</span>-<span class=\"sc\">acc</span>",
+            "hear-<span class=\"sc\">pst</span>-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "village-\\textsc{acc}",
+            "a",
+            "robber-\\textsc{gen}",
+            "raid-\\textsc{fn}-\\textsc{3sg}-\\textsc{acc}",
+            "hear-\\textsc{pst}-\\textsc{1sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "[K\u00f6y-\u00fc \t\tbir\thaydut-un\tbas-t\u0131\u011f-\u0131n]-\u0131\t\tduy-du-m.",
+        "srcwordsbare": [
+            "[K\u00f6y-\u00fc",
+            "bir",
+            "haydut-un",
+            "bas-t\u0131\u011f-\u0131n]-\u0131",
+            "duy-du-m."
+        ],
+        "srcwordshtml": [
+            "[K\u00f6y-\u00fc",
+            "bir",
+            "haydut-un",
+            "bas-t\u0131\u011f-\u0131n]-\u0131",
+            "duy-du-m."
+        ],
+        "srcwordstex": [
+            "[K\u00f6y-\u00fc",
+            "bir",
+            "haydut-un",
+            "bas-t\u0131\u011f-\u0131n]-\u0131",
+            "duy-du-m."
+        ],
+        "trs": "I heard that a (certain) robber raided the village.\u2019 (specific) %(Kornfilt 2008: 84)",
+        "wlength": 5
+    },
+    {
+        "ID": "01-wi-369596",
+        "categories": [
+            "1sg",
+            "3sg",
+            "acc",
+            "fn",
+            "pst"
+        ],
+        "clength": 40,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "village-\\textsc{acc}\trobber\t\traid-\\textsc{fn}-\\textsc{3sg}-\\textsc{acc}\thear-\\textsc{pst}-\\textsc{1sg}",
+        "imtwordsbare": [
+            "village-ACC",
+            "robber",
+            "raid-FN-3SG-ACC",
+            "hear-PST-1SG"
+        ],
+        "imtwordshtml": [
+            "village-<span class=\"sc\">acc</span>",
+            "robber",
+            "raid-<span class=\"sc\">fn</span>-<span class=\"sc\">3sg</span>-<span class=\"sc\">acc</span>",
+            "hear-<span class=\"sc\">pst</span>-<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "village-\\textsc{acc}",
+            "robber",
+            "raid-\\textsc{fn}-\\textsc{3sg}-\\textsc{acc}",
+            "hear-\\textsc{pst}-\\textsc{1sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "[K\u00f6y-\u00fc\t\thaydut\t\tbas-t\u0131\u011f-\u0131n]-\u0131\t\tduy-du-m.",
+        "srcwordsbare": [
+            "[K\u00f6y-\u00fc",
+            "haydut",
+            "bas-t\u0131\u011f-\u0131n]-\u0131",
+            "duy-du-m."
+        ],
+        "srcwordshtml": [
+            "[K\u00f6y-\u00fc",
+            "haydut",
+            "bas-t\u0131\u011f-\u0131n]-\u0131",
+            "duy-du-m."
+        ],
+        "srcwordstex": [
+            "[K\u00f6y-\u00fc",
+            "haydut",
+            "bas-t\u0131\u011f-\u0131n]-\u0131",
+            "duy-du-m."
+        ],
+        "trs": "I heard that robbers raided the village.\u2019 (non-specific, generic) %(Kornfilt 2008: 84)",
+        "wlength": 4
+    },
+    {
+        "ID": "01-wi--29689",
+        "categories": [
+            "m",
+            "nom",
+            "prf"
+        ],
+        "clength": 12,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "Ram.\\textsc{nom}\tcough-\\textsc{prf.m}",
+        "imtwordsbare": [
+            "Ram.NOM",
+            "cough-prf.m"
+        ],
+        "imtwordshtml": [
+            "Ram.<span class=\"sc\">nom</span>",
+            "cough-<span class=\"sc\">prf.m</span>"
+        ],
+        "imtwordstex": [
+            "Ram.\\textsc{nom}",
+            "cough-\\textsc{prf.m}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ram\t\tkh\u00e3s-a.",
+        "srcwordsbare": [
+            "Ram",
+            "kh\u00e3s-a."
+        ],
+        "srcwordshtml": [
+            "Ram",
+            "kh\u00e3s-a."
+        ],
+        "srcwordstex": [
+            "Ram",
+            "kh\u00e3s-a."
+        ],
+        "trs": "Ram coughed.",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-292267",
+        "categories": [
+            "erg",
+            "m",
+            "prf"
+        ],
+        "clength": 14,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "Ram=\\textsc{erg}\tcough-\\textsc{prf.m}",
+        "imtwordsbare": [
+            "Ram=ERG",
+            "cough-prf.m"
+        ],
+        "imtwordshtml": [
+            "Ram=<span class=\"sc\">erg</span>",
+            "cough-<span class=\"sc\">prf.m</span>"
+        ],
+        "imtwordstex": [
+            "Ram=\\textsc{erg}",
+            "cough-\\textsc{prf.m}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ram=ne\tkh\u00e3s-a.",
+        "srcwordsbare": [
+            "Ram=ne",
+            "kh\u00e3s-a."
+        ],
+        "srcwordshtml": [
+            "Ram=ne",
+            "kh\u00e3s-a."
+        ],
+        "srcwordstex": [
+            "Ram=ne",
+            "kh\u00e3s-a."
+        ],
+        "trs": "Ram coughed (purposefully).\u2019\\\\",
+        "wlength": 2
+    },
+    {
+        "ID": "01-wi-544166",
+        "categories": [
+            "I",
+            "acc",
+            "nom",
+            "pst",
+            "sg"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{I.nom}\tdrink.\\textsc{sg.pst}\tcognac-\\textsc{sg.acc}",
+        "imtwordsbare": [
+            "I.nom",
+            "drink.sg.pst",
+            "cognac-sg.acc"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">I.nom</span>",
+            "drink.<span class=\"sc\">sg.pst</span>",
+            "cognac-<span class=\"sc\">sg.acc</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{I.nom}",
+            "drink.\\textsc{sg.pst}",
+            "cognac-\\textsc{sg.acc}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ja \tvypil \t\tkonjak-\u00f8.",
+        "srcwordsbare": [
+            "Ja",
+            "vypil",
+            "konjak-\u00f8."
+        ],
+        "srcwordshtml": [
+            "Ja",
+            "vypil",
+            "konjak-\u00f8."
+        ],
+        "srcwordstex": [
+            "Ja",
+            "vypil",
+            "konjak-\u00f8."
+        ],
+        "trs": "I drank up the cognac.",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-635743",
+        "categories": [
+            "I",
+            "gen",
+            "nom",
+            "pst",
+            "sg"
+        ],
+        "clength": 21,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{I.nom} drink.\\textsc{sg.pst}\tcognac-\\textsc{sg.gen}",
+        "imtwordsbare": [
+            "I.nom",
+            "drink.sg.pst",
+            "cognac-sg.gen"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">I.nom</span>",
+            "drink.<span class=\"sc\">sg.pst</span>",
+            "cognac-<span class=\"sc\">sg.gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{I.nom}",
+            "drink.\\textsc{sg.pst}",
+            "cognac-\\textsc{sg.gen}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ja \tvypil \t\tkonjak-a.",
+        "srcwordsbare": [
+            "Ja",
+            "vypil",
+            "konjak-a."
+        ],
+        "srcwordshtml": [
+            "Ja",
+            "vypil",
+            "konjak-a."
+        ],
+        "srcwordstex": [
+            "Ja",
+            "vypil",
+            "konjak-a."
+        ],
+        "trs": "I drank some/*the cognac.",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi-104797",
+        "categories": [
+            "acc",
+            "i",
+            "m",
+            "nom",
+            "pst",
+            "sg"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{i.nom}\tdrink.\\textsc{pst.m.sg}\tjuice.\\textsc{acc.sg}/\\textsc{nom.sg}",
+        "imtwordsbare": [
+            "i.nom",
+            "drink.pst.m.sg",
+            "juice.acc.sg/nom.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">i.nom</span>",
+            "drink.<span class=\"sc\">pst.m.sg</span>",
+            "juice.<span class=\"sc\">acc.sg</span>/<span class=\"sc\">nom.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{i.nom}",
+            "drink.\\textsc{pst.m.sg}",
+            "juice.\\textsc{acc.sg}/\\textsc{nom.sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ja\tvy-pil \t\t\tsok.",
+        "srcwordsbare": [
+            "Ja",
+            "vy-pil",
+            "sok."
+        ],
+        "srcwordshtml": [
+            "Ja",
+            "vy-pil",
+            "sok."
+        ],
+        "srcwordstex": [
+            "Ja",
+            "vy-pil",
+            "sok."
+        ],
+        "trs": "I drank (up) the/some juice.\u2019 [Elicited]",
+        "wlength": 3
+    },
+    {
+        "ID": "01-wi--13398",
+        "categories": [
+            "gen",
+            "i",
+            "m",
+            "nom",
+            "pst",
+            "sg"
+        ],
+        "clength": 17,
+        "filename": "173/chapters/01-wi.tex",
+        "imt": "\\textsc{i.nom}\tdrink.\\textsc{pst.m.sg}\tjuice.\\textsc{gen.sg}",
+        "imtwordsbare": [
+            "i.nom",
+            "drink.pst.m.sg",
+            "juice.gen.sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">i.nom</span>",
+            "drink.<span class=\"sc\">pst.m.sg</span>",
+            "juice.<span class=\"sc\">gen.sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{i.nom}",
+            "drink.\\textsc{pst.m.sg}",
+            "juice.\\textsc{gen.sg}"
+        ],
+        "language": "173/chapters/01-wi.tex",
+        "src": "Ja\tvypil\t\t\tsok-a.",
+        "srcwordsbare": [
+            "Ja",
+            "vypil",
+            "sok-a."
+        ],
+        "srcwordshtml": [
+            "Ja",
+            "vypil",
+            "sok-a."
+        ],
+        "srcwordstex": [
+            "Ja",
+            "vypil",
+            "sok-a."
+        ],
+        "trs": "I drank some juice.\u2019 [Elicited]",
+        "wlength": 3
+    }
+]

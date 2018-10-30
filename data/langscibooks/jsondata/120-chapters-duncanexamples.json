@@ -1,0 +1,910 @@
+[
+    {
+        "ID": "duncan--44927",
+        "categories": [
+            "pst",
+            "sg"
+        ],
+        "clength": 39,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "mother 3\\textsc{sg-pst} 3\\textsc{sg}-hug child",
+        "imtwordsbare": [
+            "mother",
+            "3sg-pst",
+            "3SG-hug",
+            "child"
+        ],
+        "imtwordshtml": [
+            "mother",
+            "3<span class=\"sc\">sg-pst</span>",
+            "3<span class=\"sc\">sg</span>-hug",
+            "child"
+        ],
+        "imtwordstex": [
+            "mother",
+            "3\\textsc{sg-pst}",
+            "3\\textsc{sg}-hug",
+            "child"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e8k\u00e0 \\textbf{\u00e1-}m\u00e0 \\textbf{\u00e1-}f\u00e1t \u00e1y\\'\u0268n",
+        "srcwordsbare": [
+            "\u00e8k\u00e0",
+            "\u00e1-m\u00e0",
+            "\u00e1-f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "srcwordshtml": [
+            "\u00e8k\u00e0",
+            "<span class=\"bf\">\u00e1-</span>m\u00e0",
+            "<span class=\"bf\">\u00e1-</span>f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "srcwordstex": [
+            "\u00e8k\u00e0",
+            "\\textbf{\u00e1-}m\u00e0",
+            "\\textbf{\u00e1-}f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "trs": "The mother hugged the child.",
+        "wlength": 4
+    },
+    {
+        "ID": "duncan-230281",
+        "categories": [
+            "1sg",
+            "3sg",
+            "pst",
+            "sg"
+        ],
+        "clength": 43,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "mother 3\\textsc{sg-pst} \\textsc{3sg-1sg}-hug 1\\textsc{sg}",
+        "imtwordsbare": [
+            "mother",
+            "3sg-pst",
+            "3sg-1sg-hug",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "mother",
+            "3<span class=\"sc\">sg-pst</span>",
+            "<span class=\"sc\">3sg-1sg</span>-hug",
+            "1<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "mother",
+            "3\\textsc{sg-pst}",
+            "\\textsc{3sg-1sg}-hug",
+            "1\\textsc{sg}"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e8k\u00e0 \\textbf{\u00e1-}m\u00e0 \\textbf{\u00e1-\\'\u0271-}f\u00e1t (m\u00ed\u00e8n)",
+        "srcwordsbare": [
+            "\u00e8k\u00e0",
+            "\u00e1-m\u00e0",
+            "\u00e1-\\'\u0271-f\u00e1t",
+            "(m\u00ed\u00e8n)"
+        ],
+        "srcwordshtml": [
+            "\u00e8k\u00e0",
+            "<span class=\"bf\">\u00e1-</span>m\u00e0",
+            "<span class=\"bf\">\u00e1-\\'\u0271-</span>f\u00e1t",
+            "(m\u00ed\u00e8n)"
+        ],
+        "srcwordstex": [
+            "\u00e8k\u00e0",
+            "\\textbf{\u00e1-}m\u00e0",
+            "\\textbf{\u00e1-\\'\u0271-}f\u00e1t",
+            "(m\u00ed\u00e8n)"
+        ],
+        "trs": "The mother hugged me.",
+        "wlength": 4
+    },
+    {
+        "ID": "duncan--92221",
+        "categories": [
+            "2sgS",
+            "cond",
+            "impf",
+            "neg",
+            "perf",
+            "sgS"
+        ],
+        "clength": 31,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "2\\textsc{sgS-cond} \\textsc{2sgS-perf} \\textsc{2sgS-impf} \\textsc{2sgS}-do.again-\\textsc{neg} 2\\textsc{sgS}-do",
+        "imtwordsbare": [
+            "2sgS-cond",
+            "2sgS-perf",
+            "2sgS-impf",
+            "2SGS-do.again-NEG",
+            "2SGS-do"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sgS-cond</span>",
+            "<span class=\"sc\">2sgS-perf</span>",
+            "<span class=\"sc\">2sgS-impf</span>",
+            "<span class=\"sc\">2sgS</span>-do.again-<span class=\"sc\">neg</span>",
+            "2<span class=\"sc\">sgS</span>-do"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sgS-cond}",
+            "\\textsc{2sgS-perf}",
+            "\\textsc{2sgS-impf}",
+            "\\textsc{2sgS}-do.again-\\textsc{neg}",
+            "2\\textsc{sgS}-do"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "polarity": "negative",
+        "src": "\u00fa-kp\u00e1 \u00fa-k\u00e9 \u00fa-s\u00e9 \u00fa-m\u00e0n\u00e1-k\u00e9 \u00fa-n\u00e1m",
+        "srcwordsbare": [
+            "\u00fa-kp\u00e1",
+            "\u00fa-k\u00e9",
+            "\u00fa-s\u00e9",
+            "\u00fa-m\u00e0n\u00e1-k\u00e9",
+            "\u00fa-n\u00e1m"
+        ],
+        "srcwordshtml": [
+            "\u00fa-kp\u00e1",
+            "\u00fa-k\u00e9",
+            "\u00fa-s\u00e9",
+            "\u00fa-m\u00e0n\u00e1-k\u00e9",
+            "\u00fa-n\u00e1m"
+        ],
+        "srcwordstex": [
+            "\u00fa-kp\u00e1",
+            "\u00fa-k\u00e9",
+            "\u00fa-s\u00e9",
+            "\u00fa-m\u00e0n\u00e1-k\u00e9",
+            "\u00fa-n\u00e1m"
+        ],
+        "trs": "You should not have been doing it again.\u2019 (\\citealt[118]{BakerWillie2010})",
+        "wlength": 5
+    },
+    {
+        "ID": "duncan--37009",
+        "categories": [
+            "neg",
+            "pl",
+            "pst",
+            "rec",
+            "see",
+            "sg"
+        ],
+        "clength": 44,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "eno \\oldstylenums{3}\\textsc{sg}-\\textsc{pst} \\oldstylenums{3}\\textsc{sg}-make they \\textsc{neg} \\oldstylenums{3}\\textsc{pl}-\\textsc{rec}-\\textsc{see}-\\textsc{rec}",
+        "imtwordsbare": [
+            "eno",
+            "\\oldstylenums{3}SG-PST",
+            "\\oldstylenums{3}SG-make",
+            "they",
+            "NEG",
+            "\\oldstylenums{3}PL-REC-SEE-REC"
+        ],
+        "imtwordshtml": [
+            "eno",
+            "\\oldstylenums{3}<span class=\"sc\">sg</span>-<span class=\"sc\">pst</span>",
+            "\\oldstylenums{3}<span class=\"sc\">sg</span>-make",
+            "they",
+            "<span class=\"sc\">neg</span>",
+            "\\oldstylenums{3}<span class=\"sc\">pl</span>-<span class=\"sc\">rec</span>-<span class=\"sc\">see</span>-<span class=\"sc\">rec</span>"
+        ],
+        "imtwordstex": [
+            "eno",
+            "\\oldstylenums{3}\\textsc{sg}-\\textsc{pst}",
+            "\\oldstylenums{3}\\textsc{sg}-make",
+            "they",
+            "\\textsc{neg}",
+            "\\oldstylenums{3}\\textsc{pl}-\\textsc{rec}-\\textsc{see}-\\textsc{rec}"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "polarity": "negative",
+        "src": "eno \u00e1-m\u00e0 \u00e1-n\u00e1m \\'{\u0254}mm\\^{\u0254} k\u00e9 \u00ed-d\u00fa-k\\`\u0268t-t\u00e8",
+        "srcwordsbare": [
+            "eno",
+            "\u00e1-m\u00e0",
+            "\u00e1-n\u00e1m",
+            "\\'{\u0254}mm\\^{\u0254}",
+            "k\u00e9",
+            "\u00ed-d\u00fa-k\\`\u0268t-t\u00e8"
+        ],
+        "srcwordshtml": [
+            "eno",
+            "\u00e1-m\u00e0",
+            "\u00e1-n\u00e1m",
+            "\\'{\u0254}mm\\^{\u0254}",
+            "k\u00e9",
+            "\u00ed-d\u00fa-k\\`\u0268t-t\u00e8"
+        ],
+        "srcwordstex": [
+            "eno",
+            "\u00e1-m\u00e0",
+            "\u00e1-n\u00e1m",
+            "\\'{\u0254}mm\\^{\u0254}",
+            "k\u00e9",
+            "\u00ed-d\u00fa-k\\`\u0268t-t\u00e8"
+        ],
+        "trs": "Eno made them not see each other.",
+        "wlength": 6
+    },
+    {
+        "ID": "duncan-856139",
+        "categories": [
+            "3sg",
+            "comp",
+            "foc",
+            "pst",
+            "sg"
+        ],
+        "clength": 44,
+        "coordination": "or",
+        "filename": "120/chapters/duncan.tex",
+        "imt": "who \\textsc{comp} 3\\textsc{sg-pst.foc} \\textsc{3sg}-hug child",
+        "imtwordsbare": [
+            "who",
+            "COMP",
+            "3sg-pst.foc",
+            "3SG-hug",
+            "child"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">comp</span>",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "<span class=\"sc\">3sg</span>-hug",
+            "child"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{comp}",
+            "3\\textsc{sg-pst.foc}",
+            "\\textsc{3sg}-hug",
+            "child"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e0n\u00ecy\u00e9 \\textbf{k\u00e9} \u00ed-\\textbf{k\u00e9} \u00ed-f\u00e1t \u00e1y\\'\u0268n",
+        "srcwordsbare": [
+            "\u00e0n\u00ecy\u00e9",
+            "k\u00e9",
+            "\u00ed-k\u00e9",
+            "\u00ed-f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "srcwordshtml": [
+            "\u00e0n\u00ecy\u00e9",
+            "<span class=\"bf\">k\u00e9</span>",
+            "\u00ed-<span class=\"bf\">k\u00e9</span>",
+            "\u00ed-f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "srcwordstex": [
+            "\u00e0n\u00ecy\u00e9",
+            "\\textbf{k\u00e9}",
+            "\u00ed-\\textbf{k\u00e9}",
+            "\u00ed-f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "trs": "(Intended: \u2018Who hugged the child?\u2019 or \u2018Who is it that hugged the child?\u2019)}",
+        "wlength": 5
+    },
+    {
+        "ID": "duncan-850304",
+        "categories": [
+            "3sg",
+            "comp",
+            "foc",
+            "pst",
+            "sg"
+        ],
+        "clength": 42,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "mother \\textsc{comp} 3\\textsc{sg-pst.foc} \\textsc{3sg}-hug child",
+        "imtwordsbare": [
+            "mother",
+            "COMP",
+            "3sg-pst.foc",
+            "3SG-hug",
+            "child"
+        ],
+        "imtwordshtml": [
+            "mother",
+            "<span class=\"sc\">comp</span>",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "<span class=\"sc\">3sg</span>-hug",
+            "child"
+        ],
+        "imtwordstex": [
+            "mother",
+            "\\textsc{comp}",
+            "3\\textsc{sg-pst.foc}",
+            "\\textsc{3sg}-hug",
+            "child"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e8k\u00e0 \\textbf{k\u00e9} \u00e1-\\textbf{k\u00e9} \u00e1-f\u00e1t \u00e1y\\'\u0268n",
+        "srcwordsbare": [
+            "\u00e8k\u00e0",
+            "k\u00e9",
+            "\u00e1-k\u00e9",
+            "\u00e1-f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "srcwordshtml": [
+            "\u00e8k\u00e0",
+            "<span class=\"bf\">k\u00e9</span>",
+            "\u00e1-<span class=\"bf\">k\u00e9</span>",
+            "\u00e1-f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "srcwordstex": [
+            "\u00e8k\u00e0",
+            "\\textbf{k\u00e9}",
+            "\u00e1-\\textbf{k\u00e9}",
+            "\u00e1-f\u00e1t",
+            "\u00e1y\\'\u0268n"
+        ],
+        "trs": "(Intended: \u2018It was the mother that hugged the child [not the father].\u2019)}",
+        "wlength": 5
+    },
+    {
+        "ID": "duncan-180620",
+        "categories": [
+            "3sg",
+            "con",
+            "foc",
+            "neg",
+            "nmlz",
+            "pst",
+            "sg"
+        ],
+        "clength": 60,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "akun 3\\textsc{sg-pst.foc} \\textsc{3sg-con.foc}-buy \\textsc{nmlz}-write 3\\textsc{sg-pst.foc} 3\\textsc{sg.con.foc}-\\textsc{neg}-steal",
+        "imtwordsbare": [
+            "akun",
+            "3sg-pst.foc",
+            "3sg-con.foc-buy",
+            "NMLZ-write",
+            "3sg-pst.foc",
+            "3sg.con.foc-NEG-steal"
+        ],
+        "imtwordshtml": [
+            "akun",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "<span class=\"sc\">3sg-con.foc</span>-buy",
+            "<span class=\"sc\">nmlz</span>-write",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "3<span class=\"sc\">sg.con.foc</span>-<span class=\"sc\">neg</span>-steal"
+        ],
+        "imtwordstex": [
+            "akun",
+            "3\\textsc{sg-pst.foc}",
+            "\\textsc{3sg-con.foc}-buy",
+            "\\textsc{nmlz}-write",
+            "3\\textsc{sg-pst.foc}",
+            "3\\textsc{sg.con.foc}-\\textsc{neg}-steal"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e1k\u00f9n \u00e1-k\u00e9 \u00e1-\\textbf{d\u00e8\u00e9-d\u00e9p} \\`{\u014b}-w\u00e8t \u00ed-k\u00e9 \u00ed-y\\`\u0268p-p\u00e9-y\\`\u0268p",
+        "srcwordsbare": [
+            "\u00e1k\u00f9n",
+            "\u00e1-k\u00e9",
+            "\u00e1-d\u00e8\u00e9-d\u00e9p",
+            "\\`{\u014b}-w\u00e8t",
+            "\u00ed-k\u00e9",
+            "\u00ed-y\\`\u0268p-p\u00e9-y\\`\u0268p"
+        ],
+        "srcwordshtml": [
+            "\u00e1k\u00f9n",
+            "\u00e1-k\u00e9",
+            "\u00e1-<span class=\"bf\">d\u00e8\u00e9-d\u00e9p</span>",
+            "\\`{\u014b}-w\u00e8t",
+            "\u00ed-k\u00e9",
+            "\u00ed-y\\`\u0268p-p\u00e9-y\\`\u0268p"
+        ],
+        "srcwordstex": [
+            "\u00e1k\u00f9n",
+            "\u00e1-k\u00e9",
+            "\u00e1-\\textbf{d\u00e8\u00e9-d\u00e9p}",
+            "\\`{\u014b}-w\u00e8t",
+            "\u00ed-k\u00e9",
+            "\u00ed-y\\`\u0268p-p\u00e9-y\\`\u0268p"
+        ],
+        "trs": "Akun BOUGHT the book, she didn\u2019t STEAL it.",
+        "wlength": 6
+    },
+    {
+        "ID": "duncan-104437",
+        "categories": [
+            "3sg",
+            "con",
+            "foc",
+            "neg",
+            "nmlz",
+            "pst",
+            "sg"
+        ],
+        "clength": 71,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "akun ~ 3\\textsc{sg-pst.foc} \\textsc{3sg-con.foc}-steal \\textsc{nmlz}-write ~ 3\\textsc{sg-pst.foc} 3\\textsc{sg}-buy-\\textsc{neg}-buy",
+        "imtwordsbare": [
+            "akun",
+            "~",
+            "3sg-pst.foc",
+            "3sg-con.foc-steal",
+            "NMLZ-write",
+            "~",
+            "3sg-pst.foc",
+            "3SG-buy-NEG-buy"
+        ],
+        "imtwordshtml": [
+            "akun",
+            "~",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "<span class=\"sc\">3sg-con.foc</span>-steal",
+            "<span class=\"sc\">nmlz</span>-write",
+            "~",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "3<span class=\"sc\">sg</span>-buy-<span class=\"sc\">neg</span>-buy"
+        ],
+        "imtwordstex": [
+            "akun",
+            "~",
+            "3\\textsc{sg-pst.foc}",
+            "\\textsc{3sg-con.foc}-steal",
+            "\\textsc{nmlz}-write",
+            "~",
+            "3\\textsc{sg-pst.foc}",
+            "3\\textsc{sg}-buy-\\textsc{neg}-buy"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e1k\u00f9n [\\textsubscript{TP} \u00e1-k\u00e9 \u00e1-y\u00e8\u00e9-y\\^\u0268p \\`{\u014b}-w\u00e8t ] \u00ed-k\u00e9 \u00ed-d\u00e9p-p\u00e9-d\u00e9p",
+        "srcwordsbare": [
+            "\u00e1k\u00f9n",
+            "[TP",
+            "\u00e1-k\u00e9",
+            "\u00e1-y\u00e8\u00e9-y\\^\u0268p",
+            "\\`{\u014b}-w\u00e8t",
+            "]",
+            "\u00ed-k\u00e9",
+            "\u00ed-d\u00e9p-p\u00e9-d\u00e9p"
+        ],
+        "srcwordshtml": [
+            "\u00e1k\u00f9n",
+            "[<span class=\"subscript\">TP</span>",
+            "\u00e1-k\u00e9",
+            "\u00e1-y\u00e8\u00e9-y\\^\u0268p",
+            "\\`{\u014b}-w\u00e8t",
+            "]",
+            "\u00ed-k\u00e9",
+            "\u00ed-d\u00e9p-p\u00e9-d\u00e9p"
+        ],
+        "srcwordstex": [
+            "\u00e1k\u00f9n",
+            "[\\textsubscript{TP}",
+            "\u00e1-k\u00e9",
+            "\u00e1-y\u00e8\u00e9-y\\^\u0268p",
+            "\\`{\u014b}-w\u00e8t",
+            "]",
+            "\u00ed-k\u00e9",
+            "\u00ed-d\u00e9p-p\u00e9-d\u00e9p"
+        ],
+        "trs": "Akun STOLE the book, she didn\u2019t BUY it.",
+        "wlength": 8
+    },
+    {
+        "ID": "duncan-337299",
+        "categories": [
+            "3sg",
+            "con",
+            "foc",
+            "pst",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "ima 3\\textsc{sg-pst} \\textsc{3sg-con.foc}-\\isi{agree}",
+        "imtwordsbare": [
+            "ima",
+            "3sg-pst",
+            "3sg-con.foc-\\isi{agree}"
+        ],
+        "imtwordshtml": [
+            "ima",
+            "3<span class=\"sc\">sg-pst</span>",
+            "<span class=\"sc\">3sg-con.foc</span>-\\isi{agree}"
+        ],
+        "imtwordstex": [
+            "ima",
+            "3\\textsc{sg-pst}",
+            "\\textsc{3sg-con.foc}-\\isi{agree}"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00edm\u00e0 \u00e1-m\u00e0 \u00e1-\u0272\u00e8\u00e9-\u0272\\'\u0268mm\u00e9",
+        "srcwordsbare": [
+            "\u00edm\u00e0",
+            "\u00e1-m\u00e0",
+            "\u00e1-\u0272\u00e8\u00e9-\u0272\\'\u0268mm\u00e9"
+        ],
+        "srcwordshtml": [
+            "\u00edm\u00e0",
+            "\u00e1-m\u00e0",
+            "\u00e1-\u0272\u00e8\u00e9-\u0272\\'\u0268mm\u00e9"
+        ],
+        "srcwordstex": [
+            "\u00edm\u00e0",
+            "\u00e1-m\u00e0",
+            "\u00e1-\u0272\u00e8\u00e9-\u0272\\'\u0268mm\u00e9"
+        ],
+        "trs": "Ima AGREED (she didn\u2019t disagree).",
+        "wlength": 3
+    },
+    {
+        "ID": "duncan-620558",
+        "categories": [
+            "3sg",
+            "con",
+            "foc",
+            "neg",
+            "nmlz",
+            "pst",
+            "sg"
+        ],
+        "clength": 54,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "3\\textsc{sg-pst.foc} \\textsc{3sg}-buy-\\textsc{neg}-buy \\textsc{nmlz}-write 3\\textsc{sg-pst.foc} \\textsc{3sg-con.foc}-steal",
+        "imtwordsbare": [
+            "3sg-pst.foc",
+            "3SG-buy-NEG-buy",
+            "NMLZ-write",
+            "3sg-pst.foc",
+            "3sg-con.foc-steal"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "<span class=\"sc\">3sg</span>-buy-<span class=\"sc\">neg</span>-buy",
+            "<span class=\"sc\">nmlz</span>-write",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "<span class=\"sc\">3sg-con.foc</span>-steal"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg-pst.foc}",
+            "\\textsc{3sg}-buy-\\textsc{neg}-buy",
+            "\\textsc{nmlz}-write",
+            "3\\textsc{sg-pst.foc}",
+            "\\textsc{3sg-con.foc}-steal"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00ed-k\u00e9 \u00ed-\\textbf{d\u00e9p-p\u00e9-d\u00e9p} \\`{\u014b}-w\u00e8t \u00e1-k\u00e9  \u00e1-y\u00e8\u00e9-y\\^\u0268p",
+        "srcwordsbare": [
+            "\u00ed-k\u00e9",
+            "\u00ed-d\u00e9p-p\u00e9-d\u00e9p",
+            "\\`{\u014b}-w\u00e8t",
+            "\u00e1-k\u00e9",
+            "\u00e1-y\u00e8\u00e9-y\\^\u0268p"
+        ],
+        "srcwordshtml": [
+            "\u00ed-k\u00e9",
+            "\u00ed-<span class=\"bf\">d\u00e9p-p\u00e9-d\u00e9p</span>",
+            "\\`{\u014b}-w\u00e8t",
+            "\u00e1-k\u00e9",
+            "\u00e1-y\u00e8\u00e9-y\\^\u0268p"
+        ],
+        "srcwordstex": [
+            "\u00ed-k\u00e9",
+            "\u00ed-\\textbf{d\u00e9p-p\u00e9-d\u00e9p}",
+            "\\`{\u014b}-w\u00e8t",
+            "\u00e1-k\u00e9",
+            "\u00e1-y\u00e8\u00e9-y\\^\u0268p"
+        ],
+        "trs": "She didn\u2019t BUY the book, she STOLE it.",
+        "wlength": 5
+    },
+    {
+        "ID": "duncan-867753",
+        "categories": [
+            "foc",
+            "nmlz",
+            "pst",
+            "rel",
+            "sg"
+        ],
+        "clength": 59,
+        "coordination": "or",
+        "filename": "120/chapters/duncan.tex",
+        "imt": "man 3\\textsc{sg-pst.foc}-buy-\\textsc{rel} bean.cake only 3\\textsc{sg-pst.foc} 3\\textsc{sg}-read \\textsc{nmlz}-write",
+        "imtwordsbare": [
+            "man",
+            "3sg-pst.foc-buy-REL",
+            "bean.cake",
+            "only",
+            "3sg-pst.foc",
+            "3SG-read",
+            "NMLZ-write"
+        ],
+        "imtwordshtml": [
+            "man",
+            "3<span class=\"sc\">sg-pst.foc</span>-buy-<span class=\"sc\">rel</span>",
+            "bean.cake",
+            "only",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "3<span class=\"sc\">sg</span>-read",
+            "<span class=\"sc\">nmlz</span>-write"
+        ],
+        "imtwordstex": [
+            "man",
+            "3\\textsc{sg-pst.foc}-buy-\\textsc{rel}",
+            "bean.cake",
+            "only",
+            "3\\textsc{sg-pst.foc}",
+            "3\\textsc{sg}-read",
+            "\\textsc{nmlz}-write"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e8t\u00e9 \u00e2-k\u00e9-d\u00e9p-p\u00e9 \u00e0k\u00e0r\u00e0 \\textbf{kp\\'{\u0254}t} \u00e1-k\u00e9 \u00e1-k\u00f3t \\`{\u014b}w\u00e8t",
+        "srcwordsbare": [
+            "\u00e8t\u00e9",
+            "\u00e2-k\u00e9-d\u00e9p-p\u00e9",
+            "\u00e0k\u00e0r\u00e0",
+            "kp\\'{\u0254t}",
+            "\u00e1-k\u00e9",
+            "\u00e1-k\u00f3t",
+            "\\`{\u014b}w\u00e8t"
+        ],
+        "srcwordshtml": [
+            "\u00e8t\u00e9",
+            "\u00e2-k\u00e9-d\u00e9p-p\u00e9",
+            "\u00e0k\u00e0r\u00e0",
+            "<span class=\"bf\">kp\\'{\u0254</span>t}",
+            "\u00e1-k\u00e9",
+            "\u00e1-k\u00f3t",
+            "\\`{\u014b}w\u00e8t"
+        ],
+        "srcwordstex": [
+            "\u00e8t\u00e9",
+            "\u00e2-k\u00e9-d\u00e9p-p\u00e9",
+            "\u00e0k\u00e0r\u00e0",
+            "\\textbf{kp\\'{\u0254}t}",
+            "\u00e1-k\u00e9",
+            "\u00e1-k\u00f3t",
+            "\\`{\u014b}w\u00e8t"
+        ],
+        "trs": "Only the man who bought the bean cake read the book (not Ima or Akun).\u2019/*\u2018The man who bought the bean cake only read the book (he didn\u2019t read the magazine/he didn\u2019t sell the book).\u2019\\footnote{An anonymous reviewer points out that this structure is ambiguous, and that it has the additional meaning \u2018The man who bought only the bean cake read the book.\u2019 We assume here that relative clauses of the form in (\\ref{ex:duncan:22}d-e) involve raising-to-C, which accounts for the appearance of the relative suffix. We take it that this additional meaning is still compatible with \\isi{movement} to a high \\isi{focus} position, since the subject and relativized \\isi{verb} also undergo \\isi{movement} to the C domain. However, we leave a more precise account of \\isi{relative clause} structures for future investigation.}",
+        "wlength": 7
+    },
+    {
+        "ID": "duncan-756977",
+        "categories": [
+            "3sg",
+            "comp",
+            "foc",
+            "pst",
+            "sg"
+        ],
+        "clength": 56,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "{} ima 3\\textsc{sg-pst.foc} \\textsc{3sg}-run race only \\textsc{comp}",
+        "imtwordsbare": [
+            "{}",
+            "ima",
+            "3sg-pst.foc",
+            "3SG-run",
+            "race",
+            "only",
+            "COMP"
+        ],
+        "imtwordshtml": [
+            "{}",
+            "ima",
+            "3<span class=\"sc\">sg-pst.foc</span>",
+            "<span class=\"sc\">3sg</span>-run",
+            "race",
+            "only",
+            "<span class=\"sc\">comp</span>"
+        ],
+        "imtwordstex": [
+            "{}",
+            "ima",
+            "3\\textsc{sg-pst.foc}",
+            "\\textsc{3sg}-run",
+            "race",
+            "only",
+            "\\textsc{comp}"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "* \u00ecm\u00e1 \u00e1-k\u00e9 \u00e1-f\u00e8\u0270\u00e9 \u00edt\\`{\u0254}k \\textbf{kp\\'{\u0254}t} \\textbf{k\u00e9}",
+        "srcwordsbare": [
+            "*",
+            "\u00ecm\u00e1",
+            "\u00e1-k\u00e9",
+            "\u00e1-f\u00e8\u0270\u00e9",
+            "\u00edt\\`{\u0254}k",
+            "kp\\'{\u0254t}",
+            "k\u00e9"
+        ],
+        "srcwordshtml": [
+            "*",
+            "\u00ecm\u00e1",
+            "\u00e1-k\u00e9",
+            "\u00e1-f\u00e8\u0270\u00e9",
+            "\u00edt\\`{\u0254}k",
+            "<span class=\"bf\">kp\\'{\u0254</span>t}",
+            "<span class=\"bf\">k\u00e9</span>"
+        ],
+        "srcwordstex": [
+            "*",
+            "\u00ecm\u00e1",
+            "\u00e1-k\u00e9",
+            "\u00e1-f\u00e8\u0270\u00e9",
+            "\u00edt\\`{\u0254}k",
+            "\\textbf{kp\\'{\u0254}t}",
+            "\\textbf{k\u00e9}"
+        ],
+        "trs": "(Intended: \u2018Ima only ran the race.\u2019)",
+        "wlength": 7
+    },
+    {
+        "ID": "duncan-493649",
+        "categories": [
+            "2sg",
+            "comp",
+            "con",
+            "foc",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "what \\textsc{comp} 2\\textsc{sg} \\textsc{2sg-con.foc}-eat",
+        "imtwordsbare": [
+            "what",
+            "COMP",
+            "2SG",
+            "2sg-con.foc-eat"
+        ],
+        "imtwordshtml": [
+            "what",
+            "<span class=\"sc\">comp</span>",
+            "2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">2sg-con.foc</span>-eat"
+        ],
+        "imtwordstex": [
+            "what",
+            "\\textsc{comp}",
+            "2\\textsc{sg}",
+            "\\textsc{2sg-con.foc}-eat"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\\textbf{\u01f9s\u01d2} k\u00e9 (\u00e0f\u00f2) \u00e0-\\textbf{d\u00ec\u00e1-d\u00ed\u00e1}",
+        "srcwordsbare": [
+            "\u01f9s\u01d2",
+            "k\u00e9",
+            "(\u00e0f\u00f2)",
+            "\u00e0-d\u00ec\u00e1-d\u00ed\u00e1"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">\u01f9s\u01d2</span>",
+            "k\u00e9",
+            "(\u00e0f\u00f2)",
+            "\u00e0-<span class=\"bf\">d\u00ec\u00e1-d\u00ed\u00e1</span>"
+        ],
+        "srcwordstex": [
+            "\\textbf{\u01f9s\u01d2}",
+            "k\u00e9",
+            "(\u00e0f\u00f2)",
+            "\u00e0-\\textbf{d\u00ec\u00e1-d\u00ed\u00e1}"
+        ],
+        "trs": "What the hell are you EATING?",
+        "wlength": 4
+    },
+    {
+        "ID": "duncan-644492",
+        "categories": [
+            "",
+            "2sg",
+            "comp",
+            "con",
+            "foc",
+            "neg",
+            "pst",
+            "sg"
+        ],
+        "clength": 52,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "what \\textsc{comp} 2\\textsc{sg} \\textit{mm\u00e9}\\textsc{-2sg-pst.foc-2sg-con.foc-neg}-eat",
+        "imtwordsbare": [
+            "what",
+            "COMP",
+            "2SG",
+            "mm\u00e9-2sg-pst.foc-2sg-con.foc-neg-eat"
+        ],
+        "imtwordshtml": [
+            "what",
+            "<span class=\"sc\">comp</span>",
+            "2<span class=\"sc\">sg</span>",
+            "<span class=\"it\">mm\u00e9</span><span class=\"sc\">-2sg-pst.foc-2sg-con.foc-neg</span>-eat"
+        ],
+        "imtwordstex": [
+            "what",
+            "\\textsc{comp}",
+            "2\\textsc{sg}",
+            "\\textit{mm\u00e9}\\textsc{-2sg-pst.foc-2sg-con.foc-neg}-eat"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\\textbf{\u01f9s\u01d2} k\u00e9 (\u00e0f\u00f2) mm\u00e9-\u00fa-k\u00e9-\u00fa-\\textbf{d\u00ec\u00e1-\u0270\u00e1-d\u00ed\u00e1}",
+        "srcwordsbare": [
+            "\u01f9s\u01d2",
+            "k\u00e9",
+            "(\u00e0f\u00f2)",
+            "mm\u00e9-\u00fa-k\u00e9-\u00fa-d\u00ec\u00e1-\u0270\u00e1-d\u00ed\u00e1"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">\u01f9s\u01d2</span>",
+            "k\u00e9",
+            "(\u00e0f\u00f2)",
+            "mm\u00e9-\u00fa-k\u00e9-\u00fa-<span class=\"bf\">d\u00ec\u00e1-\u0270\u00e1-d\u00ed\u00e1</span>"
+        ],
+        "srcwordstex": [
+            "\\textbf{\u01f9s\u01d2}",
+            "k\u00e9",
+            "(\u00e0f\u00f2)",
+            "mm\u00e9-\u00fa-k\u00e9-\u00fa-\\textbf{d\u00ec\u00e1-\u0270\u00e1-d\u00ed\u00e1}"
+        ],
+        "trs": "What the hell didn\u2019t you EAT?",
+        "wlength": 4
+    },
+    {
+        "ID": "duncan--83570",
+        "categories": [
+            "3pl",
+            "con",
+            "foc",
+            "pl",
+            "pst"
+        ],
+        "clength": 63,
+        "filename": "120/chapters/duncan.tex",
+        "imt": "3\\textsc{pl-pst.foc} \\textsc{3pl-con.foc}-borrow money only",
+        "imtwordsbare": [
+            "3pl-pst.foc",
+            "3pl-con.foc-borrow",
+            "money",
+            "only"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">pl-pst.foc</span>",
+            "<span class=\"sc\">3pl-con.foc</span>-borrow",
+            "money",
+            "only"
+        ],
+        "imtwordstex": [
+            "3\\textsc{pl-pst.foc}",
+            "\\textsc{3pl-con.foc}-borrow",
+            "money",
+            "only"
+        ],
+        "language": "120/chapters/duncan.tex",
+        "src": "\u00e9-k\u00e9 \u00e9-\\textbf{b\\`{\u0254}\\'{\u0254}-bw\\'{\u0254}t} \u00e1k\\'{\u028c}k \\textbf{kp\\'{\u0254}t}",
+        "srcwordsbare": [
+            "\u00e9-k\u00e9",
+            "\u00e9-b\\`{\u0254\\'{\u0254}-bw\\'{\u0254}t}",
+            "\u00e1k\\'{\u028c}k",
+            "kp\\'{\u0254t}"
+        ],
+        "srcwordshtml": [
+            "\u00e9-k\u00e9",
+            "\u00e9-<span class=\"bf\">b\\`{\u0254</span>\\'{\u0254}-bw\\'{\u0254}t}",
+            "\u00e1k\\'{\u028c}k",
+            "<span class=\"bf\">kp\\'{\u0254</span>t}"
+        ],
+        "srcwordstex": [
+            "\u00e9-k\u00e9",
+            "\u00e9-\\textbf{b\\`{\u0254}\\'{\u0254}-bw\\'{\u0254}t}",
+            "\u00e1k\\'{\u028c}k",
+            "\\textbf{kp\\'{\u0254}t}"
+        ],
+        "trs": "They only BORROWED money.\u2019 (Response to: \u2018Did they steal money?\u2019)",
+        "wlength": 4
+    }
+]

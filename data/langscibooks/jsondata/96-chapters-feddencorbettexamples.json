@@ -1,0 +1,569 @@
+[
+    {
+        "ID": "feddencorbett--72473",
+        "categories": [
+            "animate",
+            "b",
+            "num\\_cl",
+            "sg"
+        ],
+        "clength": 34,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "1\\textsc{sg.b}    buy    fish  two    \\textsc{num\\_cl}:\\textsc{animate}",
+        "imtwordsbare": [
+            "1sg.b",
+            "buy",
+            "fish",
+            "two",
+            "num_cl:ANIMATE"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.b</span>",
+            "buy",
+            "fish",
+            "two",
+            "<span class=\"sc\">num_cl</span>:<span class=\"sc\">animate</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.b}",
+            "buy",
+            "fish",
+            "two",
+            "\\textsc{num\\_cl}:\\textsc{animate}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "kuu3    s\u00f9\u00f94    paa3  s\u00f2\u00f2ng3  too3",
+        "srcwordsbare": [
+            "kuu3",
+            "s\u00f9\u00f94",
+            "paa3",
+            "s\u00f2\u00f2ng3",
+            "too3"
+        ],
+        "srcwordshtml": [
+            "kuu3",
+            "s\u00f9\u00f94",
+            "paa3",
+            "s\u00f2\u00f2ng3",
+            "too3"
+        ],
+        "srcwordstex": [
+            "kuu3",
+            "s\u00f9\u00f94",
+            "paa3",
+            "s\u00f2\u00f2ng3",
+            "too3"
+        ],
+        "trs": "I bought two fish.",
+        "wlength": 5
+    },
+    {
+        "ID": "feddencorbett-125712",
+        "categories": [
+            "b",
+            "num\\_cl",
+            "sg",
+            "vehicle"
+        ],
+        "clength": 35,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "1\\textsc{sg.b}    steal  vehicle  two    \\textsc{num\\_cl}:\\textsc{vehicle}",
+        "imtwordsbare": [
+            "1sg.b",
+            "steal",
+            "vehicle",
+            "two",
+            "num_cl:VEHICLE"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.b</span>",
+            "steal",
+            "vehicle",
+            "two",
+            "<span class=\"sc\">num_cl</span>:<span class=\"sc\">vehicle</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.b}",
+            "steal",
+            "vehicle",
+            "two",
+            "\\textsc{num\\_cl}:\\textsc{vehicle}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "kuu3    lak1  lot1    s\u00f2\u00f2ng3  khan2",
+        "srcwordsbare": [
+            "kuu3",
+            "lak1",
+            "lot1",
+            "s\u00f2\u00f2ng3",
+            "khan2"
+        ],
+        "srcwordshtml": [
+            "kuu3",
+            "lak1",
+            "lot1",
+            "s\u00f2\u00f2ng3",
+            "khan2"
+        ],
+        "srcwordstex": [
+            "kuu3",
+            "lak1",
+            "lot1",
+            "s\u00f2\u00f2ng3",
+            "khan2"
+        ],
+        "trs": "I stole two cars.",
+        "wlength": 5
+    },
+    {
+        "ID": "feddencorbett-592010",
+        "categories": [
+            "animate",
+            "b",
+            "num\\_cl",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "1\\textsc{sg.b}    buy    two    \\textsc{num\\_cl}:\\textsc{animate}",
+        "imtwordsbare": [
+            "1sg.b",
+            "buy",
+            "two",
+            "num_cl:ANIMATE"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.b</span>",
+            "buy",
+            "two",
+            "<span class=\"sc\">num_cl</span>:<span class=\"sc\">animate</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.b}",
+            "buy",
+            "two",
+            "\\textsc{num\\_cl}:\\textsc{animate}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "kuu3    s\u00f9\u00f94    s\u00f2\u00f2ng3  too3",
+        "srcwordsbare": [
+            "kuu3",
+            "s\u00f9\u00f94",
+            "s\u00f2\u00f2ng3",
+            "too3"
+        ],
+        "srcwordshtml": [
+            "kuu3",
+            "s\u00f9\u00f94",
+            "s\u00f2\u00f2ng3",
+            "too3"
+        ],
+        "srcwordstex": [
+            "kuu3",
+            "s\u00f9\u00f94",
+            "s\u00f2\u00f2ng3",
+            "too3"
+        ],
+        "trs": "I bought two (e.g., fish).",
+        "wlength": 4
+    },
+    {
+        "ID": "feddencorbett--44096",
+        "categories": [
+            "",
+            "b",
+            "dem",
+            "human",
+            "irr",
+            "mod\\_cl",
+            "non",
+            "sg"
+        ],
+        "clength": 34,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "1\\textsc{sg.b}    \\textsc{irr=}eat    fish  \\textsc{mod\\_cl}:\\textsc{non.human}=\\textsc{dem}",
+        "imtwordsbare": [
+            "1sg.b",
+            "irr=eat",
+            "fish",
+            "mod_cl:non.human=DEM"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.b</span>",
+            "<span class=\"sc\">irr=</span>eat",
+            "fish",
+            "<span class=\"sc\">mod_cl</span>:<span class=\"sc\">non.human</span>=<span class=\"sc\">dem</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.b}",
+            "\\textsc{irr=}eat",
+            "fish",
+            "\\textsc{mod\\_cl}:\\textsc{non.human}=\\textsc{dem}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "kuu3    si\u00f8=kin3    paa3  to\u00f8=nii4",
+        "srcwordsbare": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "to\u00f8=nii4"
+        ],
+        "srcwordshtml": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "to\u00f8=nii4"
+        ],
+        "srcwordstex": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "to\u00f8=nii4"
+        ],
+        "trs": "I\u2019m going to eat this fish.",
+        "wlength": 4
+    },
+    {
+        "ID": "feddencorbett--10606",
+        "categories": [
+            "",
+            "b",
+            "human",
+            "irr",
+            "mod\\_cl",
+            "non",
+            "sg"
+        ],
+        "clength": 37,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "1\\textsc{sg.b}    \\textsc{irr=}eat    fish  (\\textsc{mod\\_cl}:\\textsc{non.human}=)long",
+        "imtwordsbare": [
+            "1sg.b",
+            "irr=eat",
+            "fish",
+            "(mod_cl:non.human=)long"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.b</span>",
+            "<span class=\"sc\">irr=</span>eat",
+            "fish",
+            "(<span class=\"sc\">mod_cl</span>:<span class=\"sc\">non.human</span>=)long"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.b}",
+            "\\textsc{irr=}eat",
+            "fish",
+            "(\\textsc{mod\\_cl}:\\textsc{non.human}=)long"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "kuu3    si\u00f8=kin3    paa3  (to\u00f8=)\u00f1aaw2",
+        "srcwordsbare": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "(to\u00f8=)\u00f1aaw2"
+        ],
+        "srcwordshtml": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "(to\u00f8=)\u00f1aaw2"
+        ],
+        "srcwordstex": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "(to\u00f8=)\u00f1aaw2"
+        ],
+        "trs": "I\u2019m going to eat the long fish.",
+        "wlength": 4
+    },
+    {
+        "ID": "feddencorbett--47580",
+        "categories": [
+            "1sg",
+            "2sg",
+            "human",
+            "mod\\_cl",
+            "non",
+            "p"
+        ],
+        "clength": 50,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "\\textsc{1sg.p} eat    fish  (\\textsc{mod\\_cl}:\\textsc{non.human}=)\\textsc{2sg.p}    buy",
+        "imtwordsbare": [
+            "1sg.p",
+            "eat",
+            "fish",
+            "(mod_cl:non.human=)2sg.p",
+            "buy"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.p</span>",
+            "eat",
+            "fish",
+            "(<span class=\"sc\">mod_cl</span>:<span class=\"sc\">non.human</span>=)<span class=\"sc\">2sg.p</span>",
+            "buy"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.p}",
+            "eat",
+            "fish",
+            "(\\textsc{mod\\_cl}:\\textsc{non.human}=)\\textsc{2sg.p}",
+            "buy"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "kh\u00f2\u00f2j5  kin3  paa3  (to\u00f8=)caw4                s\u00f9\u00f94",
+        "srcwordsbare": [
+            "kh\u00f2\u00f2j5",
+            "kin3",
+            "paa3",
+            "(to\u00f8=)caw4",
+            "s\u00f9\u00f94"
+        ],
+        "srcwordshtml": [
+            "kh\u00f2\u00f2j5",
+            "kin3",
+            "paa3",
+            "(to\u00f8=)caw4",
+            "s\u00f9\u00f94"
+        ],
+        "srcwordstex": [
+            "kh\u00f2\u00f2j5",
+            "kin3",
+            "paa3",
+            "(to\u00f8=)caw4",
+            "s\u00f9\u00f94"
+        ],
+        "trs": "I ate the fish (the one which) you bought.",
+        "wlength": 5
+    },
+    {
+        "ID": "feddencorbett-500144",
+        "categories": [
+            "1sg",
+            "b",
+            "dem",
+            "human",
+            "irr",
+            "mod\\_cl",
+            "non"
+        ],
+        "clength": 42,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "\\textsc{1sg.b}  \\textsc{irr}=eat    fish  two    \\textsc{mod\\_cl}:\\textsc{non.human}=\\textsc{dem}",
+        "imtwordsbare": [
+            "1sg.b",
+            "IRR=eat",
+            "fish",
+            "two",
+            "mod_cl:non.human=DEM"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.b</span>",
+            "<span class=\"sc\">irr</span>=eat",
+            "fish",
+            "two",
+            "<span class=\"sc\">mod_cl</span>:<span class=\"sc\">non.human</span>=<span class=\"sc\">dem</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.b}",
+            "\\textsc{irr}=eat",
+            "fish",
+            "two",
+            "\\textsc{mod\\_cl}:\\textsc{non.human}=\\textsc{dem}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "kuu3    si\u00f8=kin3    paa3  s\u00f2\u00f2ng3  to\u00f8=nii4",
+        "srcwordsbare": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "s\u00f2\u00f2ng3",
+            "to\u00f8=nii4"
+        ],
+        "srcwordshtml": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "s\u00f2\u00f2ng3",
+            "to\u00f8=nii4"
+        ],
+        "srcwordstex": [
+            "kuu3",
+            "si\u00f8=kin3",
+            "paa3",
+            "s\u00f2\u00f2ng3",
+            "to\u00f8=nii4"
+        ],
+        "trs": "I\u2019m going to eat these two fish.",
+        "wlength": 5
+    },
+    {
+        "ID": "feddencorbett-883914",
+        "categories": [
+            "num\\_cl",
+            "object",
+            "small"
+        ],
+        "clength": 18,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "cat      three    \\textsc{num\\_cl}:\\textsc{small.object}\t",
+        "imtwordsbare": [
+            "cat",
+            "three",
+            "num_cl:small.object"
+        ],
+        "imtwordshtml": [
+            "cat",
+            "three",
+            "<span class=\"sc\">num_cl</span>:<span class=\"sc\">small.object</span>"
+        ],
+        "imtwordstex": [
+            "cat",
+            "three",
+            "\\textsc{num\\_cl}:\\textsc{small.object}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "m\u00e8\u00e8w2  saam3  qan3",
+        "srcwordsbare": [
+            "m\u00e8\u00e8w2",
+            "saam3",
+            "qan3"
+        ],
+        "srcwordshtml": [
+            "m\u00e8\u00e8w2",
+            "saam3",
+            "qan3"
+        ],
+        "srcwordstex": [
+            "m\u00e8\u00e8w2",
+            "saam3",
+            "qan3"
+        ],
+        "trs": "three toy cats",
+        "wlength": 3
+    },
+    {
+        "ID": "feddencorbett--29970",
+        "categories": [
+            "dem",
+            "inanimate",
+            "mod\\_cl"
+        ],
+        "clength": 16,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "cat      \\textsc{mod\\_cl}:\\textsc{inanimate}=\\textsc{dem}\t",
+        "imtwordsbare": [
+            "cat",
+            "mod_cl:INANIMATE=DEM"
+        ],
+        "imtwordshtml": [
+            "cat",
+            "<span class=\"sc\">mod_cl</span>:<span class=\"sc\">inanimate</span>=<span class=\"sc\">dem</span>"
+        ],
+        "imtwordstex": [
+            "cat",
+            "\\textsc{mod\\_cl}:\\textsc{inanimate}=\\textsc{dem}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "m\u00e8\u00e8w2  qan\u00f8=nii4",
+        "srcwordsbare": [
+            "m\u00e8\u00e8w2",
+            "qan\u00f8=nii4"
+        ],
+        "srcwordshtml": [
+            "m\u00e8\u00e8w2",
+            "qan\u00f8=nii4"
+        ],
+        "srcwordstex": [
+            "m\u00e8\u00e8w2",
+            "qan\u00f8=nii4"
+        ],
+        "trs": "this toy cat",
+        "wlength": 2
+    },
+    {
+        "ID": "feddencorbett-823217",
+        "categories": [
+            "lump",
+            "num\\_cl"
+        ],
+        "clength": 22,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "paper    three    \\textsc{num\\_cl}:\\textsc{lump}\t",
+        "imtwordsbare": [
+            "paper",
+            "three",
+            "num_cl:LUMP"
+        ],
+        "imtwordshtml": [
+            "paper",
+            "three",
+            "<span class=\"sc\">num_cl</span>:<span class=\"sc\">lump</span>"
+        ],
+        "imtwordstex": [
+            "paper",
+            "three",
+            "\\textsc{num\\_cl}:\\textsc{lump}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "cia4     saam3   k\u00f2\u00f2n4",
+        "srcwordsbare": [
+            "cia4",
+            "saam3",
+            "k\u00f2\u00f2n4"
+        ],
+        "srcwordshtml": [
+            "cia4",
+            "saam3",
+            "k\u00f2\u00f2n4"
+        ],
+        "srcwordstex": [
+            "cia4",
+            "saam3",
+            "k\u00f2\u00f2n4"
+        ],
+        "trs": "three crumpled pieces of paper",
+        "wlength": 3
+    },
+    {
+        "ID": "feddencorbett--69408",
+        "categories": [
+            "dem",
+            "lump",
+            "mod\\_cl"
+        ],
+        "clength": 19,
+        "filename": "96/chapters/feddencorbett.tex",
+        "imt": "paper    \\textsc{mod\\_cl}:\\textsc{lump}=\\textsc{dem}\t",
+        "imtwordsbare": [
+            "paper",
+            "mod_cl:LUMP=DEM"
+        ],
+        "imtwordshtml": [
+            "paper",
+            "<span class=\"sc\">mod_cl</span>:<span class=\"sc\">lump</span>=<span class=\"sc\">dem</span>"
+        ],
+        "imtwordstex": [
+            "paper",
+            "\\textsc{mod\\_cl}:\\textsc{lump}=\\textsc{dem}"
+        ],
+        "language": "96/chapters/feddencorbett.tex",
+        "src": "cia4     k\u00f2\u00f2n\u00f8=nii4",
+        "srcwordsbare": [
+            "cia4",
+            "k\u00f2\u00f2n\u00f8=nii4"
+        ],
+        "srcwordshtml": [
+            "cia4",
+            "k\u00f2\u00f2n\u00f8=nii4"
+        ],
+        "srcwordstex": [
+            "cia4",
+            "k\u00f2\u00f2n\u00f8=nii4"
+        ],
+        "trs": "this crumpled piece of paper",
+        "wlength": 2
+    }
+]

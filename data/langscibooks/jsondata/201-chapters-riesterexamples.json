@@ -1,0 +1,3341 @@
+[
+    {
+        "ID": "riester--34797",
+        "categories": [
+            "2sg",
+            "pst"
+        ],
+        "clength": 20,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst=2sg}=fall",
+        "imtwordsbare": [
+            "pst=2sg=fall"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst=2sg</span>=fall"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst=2sg}=fall"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=\\textbf{mu}=teri'",
+        "srcwordsbare": [
+            "ka=mu=teri'"
+        ],
+        "srcwordshtml": [
+            "ka=<span class=\"bf\">mu</span>=teri'"
+        ],
+        "srcwordstex": [
+            "ka=\\textbf{mu}=teri'"
+        ],
+        "trs": "You fell.",
+        "wlength": 1
+    },
+    {
+        "ID": "riester--10746",
+        "categories": [
+            "pst"
+        ],
+        "clength": 8,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst}=fall",
+        "imtwordsbare": [
+            "PST=fall"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>=fall"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}=fall"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=teri'",
+        "srcwordsbare": [
+            "ka=teri'"
+        ],
+        "srcwordshtml": [
+            "ka=teri'"
+        ],
+        "srcwordstex": [
+            "ka=teri'"
+        ],
+        "trs": "He/She/They fell.",
+        "wlength": 1
+    },
+    {
+        "ID": "riester-736387",
+        "categories": [
+            "1sg",
+            "pst"
+        ],
+        "clength": 19,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst=1sg}=drink",
+        "imtwordsbare": [
+            "pst=1sg=drink"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst=1sg</span>=drink"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst=1sg}=drink"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=\\textbf{ku}=inum",
+        "srcwordsbare": [
+            "ka=ku=inum"
+        ],
+        "srcwordshtml": [
+            "ka=<span class=\"bf\">ku</span>=inum"
+        ],
+        "srcwordstex": [
+            "ka=\\textbf{ku}=inum"
+        ],
+        "trs": "I drank it.\\footnote{Something the \\isi{referent} of which is clear from the context.}",
+        "wlength": 1
+    },
+    {
+        "ID": "riester--91939",
+        "categories": [
+            "2sg",
+            "pst"
+        ],
+        "clength": 19,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst=2sg}=drink",
+        "imtwordsbare": [
+            "pst=2sg=drink"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst=2sg</span>=drink"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst=2sg}=drink"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=\\textbf{mu}=inum",
+        "srcwordsbare": [
+            "ka=mu=inum"
+        ],
+        "srcwordshtml": [
+            "ka=<span class=\"bf\">mu</span>=inum"
+        ],
+        "srcwordstex": [
+            "ka=\\textbf{mu}=inum"
+        ],
+        "trs": "You drank it.",
+        "wlength": 1
+    },
+    {
+        "ID": "riester--86913",
+        "categories": [
+            "pst"
+        ],
+        "clength": 19,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst}=3=drink",
+        "imtwordsbare": [
+            "PST=3=drink"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>=3=drink"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}=3=drink"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=\\textbf{ya}=inum",
+        "srcwordsbare": [
+            "ka=ya=inum"
+        ],
+        "srcwordshtml": [
+            "ka=<span class=\"bf\">ya</span>=inum"
+        ],
+        "srcwordstex": [
+            "ka=\\textbf{ya}=inum"
+        ],
+        "trs": "He/She/They drank it.",
+        "wlength": 1
+    },
+    {
+        "ID": "riester-278974",
+        "categories": [
+            "pst"
+        ],
+        "clength": 11,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst}=3=fell",
+        "imtwordsbare": [
+            "PST=3=fell"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>=3=fell"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}=3=fell"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=ya=teri\u2019",
+        "srcwordsbare": [
+            "ka=ya=teri\u2019"
+        ],
+        "srcwordshtml": [
+            "ka=ya=teri\u2019"
+        ],
+        "srcwordstex": [
+            "ka=ya=teri\u2019"
+        ],
+        "trs": "Intended meaning: `He/She/They fell.\u2019}",
+        "wlength": 1
+    },
+    {
+        "ID": "riester-665409",
+        "categories": [
+            "1sg",
+            "2sg"
+        ],
+        "clength": 61,
+        "filename": "201/chapters/riester.tex",
+        "imt": "3=wait \\textsc{1sg} {} \\textsc{2sg} {} 3 {} person that",
+        "imtwordsbare": [
+            "3=wait",
+            "1SG",
+            "{}",
+            "2SG",
+            "{}",
+            "3",
+            "{}",
+            "person",
+            "that"
+        ],
+        "imtwordshtml": [
+            "3=wait",
+            "<span class=\"sc\">1sg</span>",
+            "{}",
+            "<span class=\"sc\">2sg</span>",
+            "{}",
+            "3",
+            "{}",
+            "person",
+            "that"
+        ],
+        "imtwordstex": [
+            "3=wait",
+            "\\textsc{1sg}",
+            "{}",
+            "\\textsc{2sg}",
+            "{}",
+            "3",
+            "{}",
+            "person",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ya=tari\taku {\\USSlash} kau {\\USSlash} nya {\\USSlash} tau\t nan",
+        "srcwordsbare": [
+            "ya=tari",
+            "aku",
+            "{\\USSlash}",
+            "kau",
+            "{\\USSlash}",
+            "nya",
+            "{\\USSlash}",
+            "tau",
+            "nan"
+        ],
+        "srcwordshtml": [
+            "ya=tari",
+            "aku",
+            "{\\USSlash}",
+            "kau",
+            "{\\USSlash}",
+            "nya",
+            "{\\USSlash}",
+            "tau",
+            "nan"
+        ],
+        "srcwordstex": [
+            "ya=tari",
+            "aku",
+            "{\\USSlash}",
+            "kau",
+            "{\\USSlash}",
+            "nya",
+            "{\\USSlash}",
+            "tau",
+            "nan"
+        ],
+        "trs": "She is waiting for me/you/him/that person.",
+        "wlength": 9
+    },
+    {
+        "ID": "riester--26330",
+        "categories": [
+            "1sg",
+            "pst"
+        ],
+        "clength": 15,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst=1sg}=fall\t\\textsc{1sg}",
+        "imtwordsbare": [
+            "pst=1sg=fall",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst=1sg</span>=fall",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst=1sg}=fall",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=ku=teri\u2019\taku",
+        "srcwordsbare": [
+            "ka=ku=teri\u2019",
+            "aku"
+        ],
+        "srcwordshtml": [
+            "ka=ku=teri\u2019",
+            "aku"
+        ],
+        "srcwordstex": [
+            "ka=ku=teri\u2019",
+            "aku"
+        ],
+        "trs": "Intended meaning: `I fell.\u2019}",
+        "wlength": 2
+    },
+    {
+        "ID": "riester--75047",
+        "categories": [
+            "2sg",
+            "pst"
+        ],
+        "clength": 15,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst=2sg}=fall\t\\textsc{2sg}",
+        "imtwordsbare": [
+            "pst=2sg=fall",
+            "2SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst=2sg</span>=fall",
+            "<span class=\"sc\">2sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst=2sg}=fall",
+            "\\textsc{2sg}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=mu=teri\u2019\tkau",
+        "srcwordsbare": [
+            "ka=mu=teri\u2019",
+            "kau"
+        ],
+        "srcwordshtml": [
+            "ka=mu=teri\u2019",
+            "kau"
+        ],
+        "srcwordstex": [
+            "ka=mu=teri\u2019",
+            "kau"
+        ],
+        "trs": "Intended meaning: `You fell.\u2019}",
+        "wlength": 2
+    },
+    {
+        "ID": "riester--23254",
+        "categories": [
+            "pst"
+        ],
+        "clength": 21,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst}=fall\tchild\tthat",
+        "imtwordsbare": [
+            "PST=fall",
+            "child",
+            "that"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>=fall",
+            "child",
+            "that"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}=fall",
+            "child",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=teri\u2019\tt\\'od\\'e\tnan",
+        "srcwordsbare": [
+            "ka=teri\u2019",
+            "t\\'od\\'e",
+            "nan"
+        ],
+        "srcwordshtml": [
+            "ka=teri\u2019",
+            "t\\'od\\'e",
+            "nan"
+        ],
+        "srcwordstex": [
+            "ka=teri\u2019",
+            "t\\'od\\'e",
+            "nan"
+        ],
+        "trs": "That child fell\u2019.",
+        "wlength": 3
+    },
+    {
+        "ID": "riester--66371",
+        "categories": [
+            "pst"
+        ],
+        "clength": 12,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst}=fall\t3",
+        "imtwordsbare": [
+            "PST=fall",
+            "3"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>=fall",
+            "3"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}=fall",
+            "3"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=teri'\tnya",
+        "srcwordsbare": [
+            "ka=teri'",
+            "nya"
+        ],
+        "srcwordshtml": [
+            "ka=teri'",
+            "nya"
+        ],
+        "srcwordstex": [
+            "ka=teri'",
+            "nya"
+        ],
+        "trs": "He/She/They fell\u2019.",
+        "wlength": 2
+    },
+    {
+        "ID": "riester--87564",
+        "categories": [
+            "1sg",
+            "pst"
+        ],
+        "clength": 28,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst=1sg}=drink coffee that by \\textsc{1sg}",
+        "imtwordsbare": [
+            "pst=1sg=drink",
+            "coffee",
+            "that",
+            "by",
+            "1SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst=1sg</span>=drink",
+            "coffee",
+            "that",
+            "by",
+            "<span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst=1sg}=drink",
+            "coffee",
+            "that",
+            "by",
+            "\\textsc{1sg}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=ku=inum kawa nan ling aku",
+        "srcwordsbare": [
+            "ka=ku=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "aku"
+        ],
+        "srcwordshtml": [
+            "ka=ku=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "aku"
+        ],
+        "srcwordstex": [
+            "ka=ku=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "aku"
+        ],
+        "trs": "I drank that coffee.",
+        "wlength": 5
+    },
+    {
+        "ID": "riester-187433",
+        "categories": [
+            "2sg",
+            "pst"
+        ],
+        "clength": 28,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst=2sg}=drink coffee that by \\textsc{2sg}",
+        "imtwordsbare": [
+            "pst=2sg=drink",
+            "coffee",
+            "that",
+            "by",
+            "2SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst=2sg</span>=drink",
+            "coffee",
+            "that",
+            "by",
+            "<span class=\"sc\">2sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst=2sg}=drink",
+            "coffee",
+            "that",
+            "by",
+            "\\textsc{2sg}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=mu=inum kawa nan ling kau",
+        "srcwordsbare": [
+            "ka=mu=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "kau"
+        ],
+        "srcwordshtml": [
+            "ka=mu=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "kau"
+        ],
+        "srcwordstex": [
+            "ka=mu=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "kau"
+        ],
+        "trs": "You drank that coffee.",
+        "wlength": 5
+    },
+    {
+        "ID": "riester-380371",
+        "categories": [
+            "pst"
+        ],
+        "clength": 35,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{pst}=3=drink\tcoffee\tthat\tby\tMr. Amin",
+        "imtwordsbare": [
+            "PST=3=drink",
+            "coffee",
+            "that",
+            "by",
+            "Mr.",
+            "Amin"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pst</span>=3=drink",
+            "coffee",
+            "that",
+            "by",
+            "Mr.",
+            "Amin"
+        ],
+        "imtwordstex": [
+            "\\textsc{pst}=3=drink",
+            "coffee",
+            "that",
+            "by",
+            "Mr.",
+            "Amin"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ka=ya=inum \tkawa \tnan\tling\tnya Amin",
+        "srcwordsbare": [
+            "ka=ya=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "nya",
+            "Amin"
+        ],
+        "srcwordshtml": [
+            "ka=ya=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "nya",
+            "Amin"
+        ],
+        "srcwordstex": [
+            "ka=ya=inum",
+            "kawa",
+            "nan",
+            "ling",
+            "nya",
+            "Amin"
+        ],
+        "trs": "Amin drank that coffee.",
+        "wlength": 6
+    },
+    {
+        "ID": "riester-701687",
+        "categories": [
+            "1sg",
+            "pst"
+        ],
+        "clength": 12,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{1sg} \\textsc{pst}=fall",
+        "imtwordsbare": [
+            "1SG",
+            "PST=fall"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">pst</span>=fall"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "\\textsc{pst}=fall"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "aku ka=teri'",
+        "srcwordsbare": [
+            "aku",
+            "ka=teri'"
+        ],
+        "srcwordshtml": [
+            "aku",
+            "ka=teri'"
+        ],
+        "srcwordstex": [
+            "aku",
+            "ka=teri'"
+        ],
+        "trs": "I fell.",
+        "wlength": 2
+    },
+    {
+        "ID": "riester--87705",
+        "categories": [
+            "pst"
+        ],
+        "clength": 21,
+        "filename": "201/chapters/riester.tex",
+        "imt": "child that \\textsc{pst}=fall",
+        "imtwordsbare": [
+            "child",
+            "that",
+            "PST=fall"
+        ],
+        "imtwordshtml": [
+            "child",
+            "that",
+            "<span class=\"sc\">pst</span>=fall"
+        ],
+        "imtwordstex": [
+            "child",
+            "that",
+            "\\textsc{pst}=fall"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "t\\'od\\'e nan ka=teri\u2019",
+        "srcwordsbare": [
+            "t\\'od\\'e",
+            "nan",
+            "ka=teri\u2019"
+        ],
+        "srcwordshtml": [
+            "t\\'od\\'e",
+            "nan",
+            "ka=teri\u2019"
+        ],
+        "srcwordstex": [
+            "t\\'od\\'e",
+            "nan",
+            "ka=teri\u2019"
+        ],
+        "trs": "That child fell.",
+        "wlength": 3
+    },
+    {
+        "ID": "riester--91964",
+        "categories": [
+            "1sg",
+            "pst"
+        ],
+        "clength": 21,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{1sg}\t\\textsc{pst}=drink\tcoffee\tthat",
+        "imtwordsbare": [
+            "1SG",
+            "PST=drink",
+            "coffee",
+            "that"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">pst</span>=drink",
+            "coffee",
+            "that"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "\\textsc{pst}=drink",
+            "coffee",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "aku\tka=inum\t\tkawa\tnan",
+        "srcwordsbare": [
+            "aku",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "srcwordshtml": [
+            "aku",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "srcwordstex": [
+            "aku",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "trs": "I drank that coffee.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester-664375",
+        "categories": [
+            "pst"
+        ],
+        "clength": 26,
+        "filename": "201/chapters/riester.tex",
+        "imt": "Mr. Amin\t\\textsc{pst}=drink\tcoffee\tthat",
+        "imtwordsbare": [
+            "Mr.",
+            "Amin",
+            "PST=drink",
+            "coffee",
+            "that"
+        ],
+        "imtwordshtml": [
+            "Mr.",
+            "Amin",
+            "<span class=\"sc\">pst</span>=drink",
+            "coffee",
+            "that"
+        ],
+        "imtwordstex": [
+            "Mr.",
+            "Amin",
+            "\\textsc{pst}=drink",
+            "coffee",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "nya Amin\tka=inum\t\tkawa\tnan",
+        "srcwordsbare": [
+            "nya",
+            "Amin",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "srcwordshtml": [
+            "nya",
+            "Amin",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "srcwordstex": [
+            "nya",
+            "Amin",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "trs": "Amin drank that coffee.",
+        "wlength": 5
+    },
+    {
+        "ID": "riester-513880",
+        "categories": [
+            "pst"
+        ],
+        "clength": 21,
+        "filename": "201/chapters/riester.tex",
+        "imt": "3\t\t\\textsc{pst}=drink\tcoffee\tthat",
+        "imtwordsbare": [
+            "3",
+            "PST=drink",
+            "coffee",
+            "that"
+        ],
+        "imtwordshtml": [
+            "3",
+            "<span class=\"sc\">pst</span>=drink",
+            "coffee",
+            "that"
+        ],
+        "imtwordstex": [
+            "3",
+            "\\textsc{pst}=drink",
+            "coffee",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "nya\tka=inum\t\tkawa\tnan",
+        "srcwordsbare": [
+            "nya",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "srcwordshtml": [
+            "nya",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "srcwordstex": [
+            "nya",
+            "ka=inum",
+            "kawa",
+            "nan"
+        ],
+        "trs": "He/She/They drank that coffee.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester--60416",
+        "categories": [
+            "pst"
+        ],
+        "clength": 33,
+        "filename": "201/chapters/riester.tex",
+        "imt": "coffee\tthat\t\\textsc{pst}=3=drink\tby\tMr. Amin",
+        "imtwordsbare": [
+            "coffee",
+            "that",
+            "PST=3=drink",
+            "by",
+            "Mr.",
+            "Amin"
+        ],
+        "imtwordshtml": [
+            "coffee",
+            "that",
+            "<span class=\"sc\">pst</span>=3=drink",
+            "by",
+            "Mr.",
+            "Amin"
+        ],
+        "imtwordstex": [
+            "coffee",
+            "that",
+            "\\textsc{pst}=3=drink",
+            "by",
+            "Mr.",
+            "Amin"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "kawa\tnan\tka=ya=inum\tling\tnya Amin",
+        "srcwordsbare": [
+            "kawa",
+            "nan",
+            "ka=ya=inum",
+            "ling",
+            "nya",
+            "Amin"
+        ],
+        "srcwordshtml": [
+            "kawa",
+            "nan",
+            "ka=ya=inum",
+            "ling",
+            "nya",
+            "Amin"
+        ],
+        "srcwordstex": [
+            "kawa",
+            "nan",
+            "ka=ya=inum",
+            "ling",
+            "nya",
+            "Amin"
+        ],
+        "trs": "Amin drank that coffee.",
+        "wlength": 6
+    },
+    {
+        "ID": "riester-671668",
+        "categories": [
+            "1sg",
+            "pst"
+        ],
+        "clength": 15,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{1sg} \\textsc{pst=1sg}=fall",
+        "imtwordsbare": [
+            "1SG",
+            "pst=1sg=fall"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">pst=1sg</span>=fall"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "\\textsc{pst=1sg}=fall"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "aku ka=ku=teri\u2019",
+        "srcwordsbare": [
+            "aku",
+            "ka=ku=teri\u2019"
+        ],
+        "srcwordshtml": [
+            "aku",
+            "ka=ku=teri\u2019"
+        ],
+        "srcwordstex": [
+            "aku",
+            "ka=ku=teri\u2019"
+        ],
+        "trs": "Intended meaning: `I fell.\u2019}",
+        "wlength": 2
+    },
+    {
+        "ID": "riester-139074",
+        "categories": [
+            "q"
+        ],
+        "clength": 16,
+        "filename": "201/chapters/riester.tex",
+        "imt": "exist \\textsc{q} chili over.there",
+        "imtwordsbare": [
+            "exist",
+            "Q",
+            "chili",
+            "over.there"
+        ],
+        "imtwordshtml": [
+            "exist",
+            "<span class=\"sc\">q</span>",
+            "chili",
+            "over.there"
+        ],
+        "imtwordstex": [
+            "exist",
+            "\\textsc{q}",
+            "chili",
+            "over.there"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ada ke cabe nana",
+        "srcwordsbare": [
+            "ada",
+            "ke",
+            "cabe",
+            "nana"
+        ],
+        "srcwordshtml": [
+            "ada",
+            "ke",
+            "cabe",
+            "nana"
+        ],
+        "srcwordstex": [
+            "ada",
+            "ke",
+            "cabe",
+            "nana"
+        ],
+        "trs": "Was there chili over there (in Japan)?",
+        "wlength": 4
+    },
+    {
+        "ID": "riester-350878",
+        "categories": [
+            "ptc"
+        ],
+        "clength": 63,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}exist \\textsc{ptc} \\hphantom{[}chili",
+        "imtwordsbare": [
+            "\\hphantom{[}exist",
+            "PTC",
+            "\\hphantom{[}chili"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}exist",
+            "<span class=\"sc\">ptc</span>",
+            "\\hphantom{[}chili"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}exist",
+            "\\textsc{ptc}",
+            "\\hphantom{[}chili"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}ada}\t{{\\ob}si{\\cb}\\focus} {{\\ob}cabe,{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[ada}",
+            "{[si]\\focus}",
+            "{[cabe,]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[ada}",
+            "{[si]\\focus}",
+            "{[cabe,]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}ada}",
+            "{{\\ob}si{\\cb}\\focus}",
+            "{{\\ob}cabe,{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "There was chili.",
+        "wlength": 3
+    },
+    {
+        "ID": "riester-683551",
+        "categories": [
+            "1pl",
+            "neg",
+            "q"
+        ],
+        "clength": 49,
+        "coordination": "or",
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{neg}\tpossible\t\\textsc{1pl}=ask\talways\t\\textsc{q}\tor\texist\ttime\t\\textsc{1pl}=ask",
+        "imtwordsbare": [
+            "NEG",
+            "possible",
+            "1PL=ask",
+            "always",
+            "Q",
+            "or",
+            "exist",
+            "time",
+            "1PL=ask"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "possible",
+            "<span class=\"sc\">1pl</span>=ask",
+            "always",
+            "<span class=\"sc\">q</span>",
+            "or",
+            "exist",
+            "time",
+            "<span class=\"sc\">1pl</span>=ask"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "possible",
+            "\\textsc{1pl}=ask",
+            "always",
+            "\\textsc{q}",
+            "or",
+            "exist",
+            "time",
+            "\\textsc{1pl}=ask"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "no\troa\ttu=satoan\ttris\tke, atau\tada\twaya\ttu=satoan",
+        "srcwordsbare": [
+            "no",
+            "roa",
+            "tu=satoan",
+            "tris",
+            "ke,",
+            "atau",
+            "ada",
+            "waya",
+            "tu=satoan"
+        ],
+        "srcwordshtml": [
+            "no",
+            "roa",
+            "tu=satoan",
+            "tris",
+            "ke,",
+            "atau",
+            "ada",
+            "waya",
+            "tu=satoan"
+        ],
+        "srcwordstex": [
+            "no",
+            "roa",
+            "tu=satoan",
+            "tris",
+            "ke,",
+            "atau",
+            "ada",
+            "waya",
+            "tu=satoan"
+        ],
+        "trs": "Can we never ask, or is there a (proper) time to ask?",
+        "wlength": 9
+    },
+    {
+        "ID": "riester-675073",
+        "categories": [
+            "1pl"
+        ],
+        "clength": 53,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}exist\ttime\t\\textsc{1pl}=ask",
+        "imtwordsbare": [
+            "\\hphantom{[[}exist",
+            "time",
+            "1PL=ask"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}exist",
+            "time",
+            "<span class=\"sc\">1pl</span>=ask"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}exist",
+            "time",
+            "\\textsc{1pl}=ask"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}Ada}\t{waya{\\cb}\\focus}\t{tu=katoan{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[Ada}",
+            "{waya]\\focus}",
+            "{tu=katoan]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[Ada}",
+            "{waya]\\focus}",
+            "{tu=katoan]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}Ada}",
+            "{waya{\\cb}\\focus}",
+            "{tu=katoan{\\cb}\\sq}"
+        ],
+        "trs": "There is a time for asking.",
+        "wlength": 3
+    },
+    {
+        "ID": "riester--40157",
+        "categories": [
+            "itj"
+        ],
+        "clength": 28,
+        "filename": "201/chapters/riester.tex",
+        "imt": "if\tclose\t\\textsc{itj}\tscared\t3",
+        "imtwordsbare": [
+            "if",
+            "close",
+            "ITJ",
+            "scared",
+            "3"
+        ],
+        "imtwordshtml": [
+            "if",
+            "close",
+            "<span class=\"sc\">itj</span>",
+            "scared",
+            "3"
+        ],
+        "imtwordstex": [
+            "if",
+            "close",
+            "\\textsc{itj}",
+            "scared",
+            "3"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "seandai\tparak\tne\tketakit\tnya",
+        "srcwordsbare": [
+            "seandai",
+            "parak",
+            "ne",
+            "ketakit",
+            "nya"
+        ],
+        "srcwordshtml": [
+            "seandai",
+            "parak",
+            "ne",
+            "ketakit",
+            "nya"
+        ],
+        "srcwordstex": [
+            "seandai",
+            "parak",
+            "ne",
+            "ketakit",
+            "nya"
+        ],
+        "trs": "If someone approaches, they get scared.",
+        "wlength": 5
+    },
+    {
+        "ID": "riester--78520",
+        "categories": [
+            "itj",
+            "rel"
+        ],
+        "clength": 50,
+        "filename": "201/chapters/riester.tex",
+        "imt": "if\texist\tperson\tforeign\t\\textsc{itj}\tscared\t3\twant\tlike \\textsc{rel}\twant",
+        "imtwordsbare": [
+            "if",
+            "exist",
+            "person",
+            "foreign",
+            "ITJ",
+            "scared",
+            "3",
+            "want",
+            "like",
+            "REL",
+            "want"
+        ],
+        "imtwordshtml": [
+            "if",
+            "exist",
+            "person",
+            "foreign",
+            "<span class=\"sc\">itj</span>",
+            "scared",
+            "3",
+            "want",
+            "like",
+            "<span class=\"sc\">rel</span>",
+            "want"
+        ],
+        "imtwordstex": [
+            "if",
+            "exist",
+            "person",
+            "foreign",
+            "\\textsc{itj}",
+            "scared",
+            "3",
+            "want",
+            "like",
+            "\\textsc{rel}",
+            "want"
+        ],
+        "language": "201/chapters/riester.tex",
+        "modality": "volitive",
+        "src": "min\tada\ttau\tasing\tne\tketakit\tnya\tsate\tyang de\tsate",
+        "srcwordsbare": [
+            "min",
+            "ada",
+            "tau",
+            "asing",
+            "ne",
+            "ketakit",
+            "nya",
+            "sate",
+            "yang",
+            "de",
+            "sate"
+        ],
+        "srcwordshtml": [
+            "min",
+            "ada",
+            "tau",
+            "asing",
+            "ne",
+            "ketakit",
+            "nya",
+            "sate",
+            "yang",
+            "de",
+            "sate"
+        ],
+        "srcwordstex": [
+            "min",
+            "ada",
+            "tau",
+            "asing",
+            "ne",
+            "ketakit",
+            "nya",
+            "sate",
+            "yang",
+            "de",
+            "sate"
+        ],
+        "trs": "If there is a foreigner, they are scared that he is after them like a\tkidnapper (lit.\\ \\textit{a wanter})",
+        "wlength": 11
+    },
+    {
+        "ID": "riester-896125",
+        "categories": [],
+        "clength": 6,
+        "filename": "201/chapters/riester.tex",
+        "imt": "run",
+        "imtwordsbare": [
+            "run"
+        ],
+        "imtwordshtml": [
+            "run"
+        ],
+        "imtwordstex": [
+            "run"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "barari",
+        "srcwordsbare": [
+            "barari"
+        ],
+        "srcwordshtml": [
+            "barari"
+        ],
+        "srcwordstex": [
+            "barari"
+        ],
+        "trs": "They run away.",
+        "wlength": 1
+    },
+    {
+        "ID": "riester-681012",
+        "categories": [],
+        "clength": 17,
+        "filename": "201/chapters/riester.tex",
+        "imt": "that\tway\tcharacter\tthat",
+        "imtwordsbare": [
+            "that",
+            "way",
+            "character",
+            "that"
+        ],
+        "imtwordshtml": [
+            "that",
+            "way",
+            "character",
+            "that"
+        ],
+        "imtwordstex": [
+            "that",
+            "way",
+            "character",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "nan\tluk\tmodel\tnan",
+        "srcwordsbare": [
+            "nan",
+            "luk",
+            "model",
+            "nan"
+        ],
+        "srcwordshtml": [
+            "nan",
+            "luk",
+            "model",
+            "nan"
+        ],
+        "srcwordstex": [
+            "nan",
+            "luk",
+            "model",
+            "nan"
+        ],
+        "trs": "That's their character.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester--16772",
+        "categories": [
+            "1pl",
+            "neg",
+            "pst"
+        ],
+        "clength": 90,
+        "filename": "201/chapters/riester.tex",
+        "imt": "yes \\hphantom{[[}if \\textsc{neg}.\\textsc{pst} \\textsc{1pl}=act.deliberately \\hphantom{[}\\textsc{neg} problem",
+        "imtwordsbare": [
+            "yes",
+            "\\hphantom{[[}if",
+            "NEG.PST",
+            "1PL=act.deliberately",
+            "\\hphantom{[}NEG",
+            "problem"
+        ],
+        "imtwordshtml": [
+            "yes",
+            "\\hphantom{[[}if",
+            "<span class=\"sc\">neg</span>.<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">1pl</span>=act.deliberately",
+            "\\hphantom{[}<span class=\"sc\">neg</span>",
+            "problem"
+        ],
+        "imtwordstex": [
+            "yes",
+            "\\hphantom{[[}if",
+            "\\textsc{neg}.\\textsc{pst}",
+            "\\textsc{1pl}=act.deliberately",
+            "\\hphantom{[}\\textsc{neg}",
+            "problem"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ya {{\\ob}{\\ob}lamin} nongka {tu=sangaja{\\cb}\\ctopic} {{\\ob}no} {sikuda{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "ya",
+            "{[[lamin}",
+            "nongka",
+            "{tu=sangaja]\\ctopic}",
+            "{[no}",
+            "{sikuda]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "ya",
+            "{[[lamin}",
+            "nongka",
+            "{tu=sangaja]\\ctopic}",
+            "{[no}",
+            "{sikuda]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "ya",
+            "{{\\ob}{\\ob}lamin}",
+            "nongka",
+            "{tu=sangaja{\\cb}\\ctopic}",
+            "{{\\ob}no}",
+            "{sikuda{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "Yes, if we didn\u2019t act deliberately, it\u2019s no problem.",
+        "wlength": 6
+    },
+    {
+        "ID": "riester-261528",
+        "categories": [
+            "1pl",
+            "neg",
+            "pst"
+        ],
+        "clength": 129,
+        "filename": "201/chapters/riester.tex",
+        "imt": "but \\hphantom{[[}if \\textsc{pst}=\\textsc{1pl}=know \\hphantom{[}you.know \\hphantom{[}\\textsc{neg} comfortable \\hphantom{[}that that",
+        "imtwordsbare": [
+            "but",
+            "\\hphantom{[[}if",
+            "PST=1PL=know",
+            "\\hphantom{[}you.know",
+            "\\hphantom{[}NEG",
+            "comfortable",
+            "\\hphantom{[}that",
+            "that"
+        ],
+        "imtwordshtml": [
+            "but",
+            "\\hphantom{[[}if",
+            "<span class=\"sc\">pst</span>=<span class=\"sc\">1pl</span>=know",
+            "\\hphantom{[}you.know",
+            "\\hphantom{[}<span class=\"sc\">neg</span>",
+            "comfortable",
+            "\\hphantom{[}that",
+            "that"
+        ],
+        "imtwordstex": [
+            "but",
+            "\\hphantom{[[}if",
+            "\\textsc{pst}=\\textsc{1pl}=know",
+            "\\hphantom{[}you.know",
+            "\\hphantom{[}\\textsc{neg}",
+            "comfortable",
+            "\\hphantom{[}that",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "polarity": "negative",
+        "src": "tapi {{\\ob}{\\ob}lamin} {ka=tu=to{\\cb}\\ctopic} {{\\ob}kan{\\cb}\\nai} {{\\ob}no} {roa{\\cb}\\focus} {{\\ob}dean} {nan{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "tapi",
+            "{[[lamin}",
+            "{ka=tu=to]\\ctopic}",
+            "{[kan]\\nai}",
+            "{[no}",
+            "{roa]\\focus}",
+            "{[dean}",
+            "{nan]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "tapi",
+            "{[[lamin}",
+            "{ka=tu=to]\\ctopic}",
+            "{[kan]\\nai}",
+            "{[no}",
+            "{roa]\\focus}",
+            "{[dean}",
+            "{nan]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "tapi",
+            "{{\\ob}{\\ob}lamin}",
+            "{ka=tu=to{\\cb}\\ctopic}",
+            "{{\\ob}kan{\\cb}\\nai}",
+            "{{\\ob}no}",
+            "{roa{\\cb}\\focus}",
+            "{{\\ob}dean}",
+            "{nan{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "but if we knew, we are not comfortable with that.",
+        "wlength": 8
+    },
+    {
+        "ID": "riester--44844",
+        "categories": [
+            "2pl",
+            "hon"
+        ],
+        "clength": 136,
+        "filename": "201/chapters/riester.tex",
+        "imt": "you.know people over.there very disciplined \\textsc{2pl.hon}",
+        "imtwordsbare": [
+            "you.know",
+            "people",
+            "over.there",
+            "very",
+            "disciplined",
+            "2pl.hon"
+        ],
+        "imtwordshtml": [
+            "you.know",
+            "people",
+            "over.there",
+            "very",
+            "disciplined",
+            "<span class=\"sc\">2pl.hon</span>"
+        ],
+        "imtwordstex": [
+            "you.know",
+            "people",
+            "over.there",
+            "very",
+            "disciplined",
+            "\\textsc{2pl.hon}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}\\textbf{maklum}{\\cb}\\nai} {{\\ob}tau} {{\\ob}ana{\\cb}\\ctopic} {{\\ob}mega} {disiplin{\\cb}\\focus{\\cb}\\sq} {{\\ob}\\textbf{sia}{\\cb}\\nai}",
+        "srcwordsbare": [
+            "{[maklum]\\nai}",
+            "{[tau}",
+            "{[ana]\\ctopic}",
+            "{[mega}",
+            "{disiplin]\\focus]\\sq}",
+            "{[sia]\\nai}"
+        ],
+        "srcwordshtml": [
+            "{[<span class=\"bf\">maklum</span>]\\nai}",
+            "{[tau}",
+            "{[ana]\\ctopic}",
+            "{[mega}",
+            "{disiplin]\\focus]\\sq}",
+            "{[<span class=\"bf\">sia</span>]\\nai}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}\\textbf{maklum}{\\cb}\\nai}",
+            "{{\\ob}tau}",
+            "{{\\ob}ana{\\cb}\\ctopic}",
+            "{{\\ob}mega}",
+            "{disiplin{\\cb}\\focus{\\cb}\\sq}",
+            "{{\\ob}\\textbf{sia}{\\cb}\\nai}"
+        ],
+        "trs": "\\textbf{You know, my friend,} people over there are very disciplined.",
+        "wlength": 6
+    },
+    {
+        "ID": "riester-866796",
+        "categories": [],
+        "clength": 33,
+        "filename": "201/chapters/riester.tex",
+        "imt": "Toyama this very unsocial person",
+        "imtwordsbare": [
+            "Toyama",
+            "this",
+            "very",
+            "unsocial",
+            "person"
+        ],
+        "imtwordshtml": [
+            "Toyama",
+            "this",
+            "very",
+            "unsocial",
+            "person"
+        ],
+        "imtwordstex": [
+            "Toyama",
+            "this",
+            "very",
+            "unsocial",
+            "person"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{Toyama} {ta} mega tertutup {tau}",
+        "srcwordsbare": [
+            "{Toyama}",
+            "{ta}",
+            "mega",
+            "tertutup",
+            "{tau}"
+        ],
+        "srcwordshtml": [
+            "{Toyama}",
+            "{ta}",
+            "mega",
+            "tertutup",
+            "{tau}"
+        ],
+        "srcwordstex": [
+            "{Toyama}",
+            "{ta}",
+            "mega",
+            "tertutup",
+            "{tau}"
+        ],
+        "trs": "In Toyama people are very unsocial.",
+        "wlength": 5
+    },
+    {
+        "ID": "riester-171860",
+        "categories": [
+            "itj"
+        ],
+        "clength": 95,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}for.example close \\textsc{itj} \\hphantom{[[}scared 3",
+        "imtwordsbare": [
+            "\\hphantom{[}for.example",
+            "close",
+            "ITJ",
+            "\\hphantom{[[}scared",
+            "3"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}for.example",
+            "close",
+            "<span class=\"sc\">itj</span>",
+            "\\hphantom{[[}scared",
+            "3"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}for.example",
+            "close",
+            "\\textsc{itj}",
+            "\\hphantom{[[}scared",
+            "3"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}seandai} {parak{\\cb}\\nai} ne {{\\ob}{\\ob}ketakit{\\cb}\\focus} {{\\ob}nya{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[seandai}",
+            "{parak]\\nai}",
+            "ne",
+            "{[[ketakit]\\focus}",
+            "{[nya]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[seandai}",
+            "{parak]\\nai}",
+            "ne",
+            "{[[ketakit]\\focus}",
+            "{[nya]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}seandai}",
+            "{parak{\\cb}\\nai}",
+            "ne",
+            "{{\\ob}{\\ob}ketakit{\\cb}\\focus}",
+            "{{\\ob}nya{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "For instance, if someone approaches, they get scared.",
+        "wlength": 5
+    },
+    {
+        "ID": "riester-862522",
+        "categories": [],
+        "clength": 46,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}run",
+        "imtwordsbare": [
+            "\\hphantom{[[}run"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}run"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}run"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}\\textbf{barari}{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[barari]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[<span class=\"bf\">barari</span>]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}\\textbf{barari}{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "They run away.",
+        "wlength": 1
+    },
+    {
+        "ID": "riester--91498",
+        "categories": [],
+        "clength": 55,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}withered\tall\twhat\tleaf",
+        "imtwordsbare": [
+            "\\hphantom{[[}withered",
+            "all",
+            "what",
+            "leaf"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}withered",
+            "all",
+            "what",
+            "leaf"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}withered",
+            "all",
+            "what",
+            "leaf"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}kukir}\tsarea\tapa\t{godong{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[kukir}",
+            "sarea",
+            "apa",
+            "{godong]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[kukir}",
+            "sarea",
+            "apa",
+            "{godong]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}kukir}",
+            "sarea",
+            "apa",
+            "{godong{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "All leaves are withered.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester--33690",
+        "categories": [
+            "pst",
+            "ptc"
+        ],
+        "clength": 25,
+        "filename": "201/chapters/riester.tex",
+        "imt": "child\tthat\t\\textsc{ptc}\t\\textsc{pst}=fell",
+        "imtwordsbare": [
+            "child",
+            "that",
+            "PTC",
+            "PST=fell"
+        ],
+        "imtwordshtml": [
+            "child",
+            "that",
+            "<span class=\"sc\">ptc</span>",
+            "<span class=\"sc\">pst</span>=fell"
+        ],
+        "imtwordstex": [
+            "child",
+            "that",
+            "\\textsc{ptc}",
+            "\\textsc{pst}=fell"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "t\\'od\\'e \tnan\tsi\tka=teri\u2019",
+        "srcwordsbare": [
+            "t\\'od\\'e",
+            "nan",
+            "si",
+            "ka=teri\u2019"
+        ],
+        "srcwordshtml": [
+            "t\\'od\\'e",
+            "nan",
+            "si",
+            "ka=teri\u2019"
+        ],
+        "srcwordstex": [
+            "t\\'od\\'e",
+            "nan",
+            "si",
+            "ka=teri\u2019"
+        ],
+        "trs": "That child fell.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester--57195",
+        "categories": [
+            "1pl",
+            "neg",
+            "rel"
+        ],
+        "clength": 82,
+        "filename": "201/chapters/riester.tex",
+        "imt": "or \\hphantom{[[}what \\textsc{rel} related with pig that \\textsc{neg} \\textsc{1pl}=can eat",
+        "imtwordsbare": [
+            "or",
+            "\\hphantom{[[}what",
+            "REL",
+            "related",
+            "with",
+            "pig",
+            "that",
+            "NEG",
+            "1PL=can",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "or",
+            "\\hphantom{[[}what",
+            "<span class=\"sc\">rel</span>",
+            "related",
+            "with",
+            "pig",
+            "that",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">1pl</span>=can",
+            "eat"
+        ],
+        "imtwordstex": [
+            "or",
+            "\\hphantom{[[}what",
+            "\\textsc{rel}",
+            "related",
+            "with",
+            "pig",
+            "that",
+            "\\textsc{neg}",
+            "\\textsc{1pl}=can",
+            "eat"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "atau {{\\ob}{\\ob}apa} de terkait ke bawi {nan{\\cb}\\focus} no tu=bau {kakan{\\cb}\\sq}",
+        "srcwordsbare": [
+            "atau",
+            "{[[apa}",
+            "de",
+            "terkait",
+            "ke",
+            "bawi",
+            "{nan]\\focus}",
+            "no",
+            "tu=bau",
+            "{kakan]\\sq}"
+        ],
+        "srcwordshtml": [
+            "atau",
+            "{[[apa}",
+            "de",
+            "terkait",
+            "ke",
+            "bawi",
+            "{nan]\\focus}",
+            "no",
+            "tu=bau",
+            "{kakan]\\sq}"
+        ],
+        "srcwordstex": [
+            "atau",
+            "{{\\ob}{\\ob}apa}",
+            "de",
+            "terkait",
+            "ke",
+            "bawi",
+            "{nan{\\cb}\\focus}",
+            "no",
+            "tu=bau",
+            "{kakan{\\cb}\\sq}"
+        ],
+        "trs": "also we cannot eat whatever is related to the pig.",
+        "wlength": 10
+    },
+    {
+        "ID": "riester-607133",
+        "categories": [],
+        "clength": 59,
+        "filename": "201/chapters/riester.tex",
+        "imt": "{\\hphantom{[}for.example} \\hphantom{[[}age",
+        "imtwordsbare": [
+            "{\\hphantom{[}for.example}",
+            "\\hphantom{[[}age"
+        ],
+        "imtwordshtml": [
+            "{\\hphantom{[}for.example}",
+            "\\hphantom{[[}age"
+        ],
+        "imtwordstex": [
+            "{\\hphantom{[}for.example}",
+            "\\hphantom{[[}age"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}umpama{\\cb}\\nai} {{\\ob}{\\ob}umir,{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[umpama]\\nai}",
+            "{[[umir,]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[umpama]\\nai}",
+            "{[[umir,]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}umpama{\\cb}\\nai}",
+            "{{\\ob}{\\ob}umir,{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "For example, about the age,",
+        "wlength": 2
+    },
+    {
+        "ID": "riester--85903",
+        "categories": [
+            "hearsay",
+            "imp",
+            "neg"
+        ],
+        "clength": 84,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}age that \\textsc{neg.imp} try ask \\hphantom{[}\\textsc{hearsay}",
+        "imtwordsbare": [
+            "\\hphantom{[[}age",
+            "that",
+            "neg.imp",
+            "try",
+            "ask",
+            "\\hphantom{[}HEARSAY"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}age",
+            "that",
+            "<span class=\"sc\">neg.imp</span>",
+            "try",
+            "ask",
+            "\\hphantom{[}<span class=\"sc\">hearsay</span>"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}age",
+            "that",
+            "\\textsc{neg.imp}",
+            "try",
+            "ask",
+            "\\hphantom{[}\\textsc{hearsay}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}umir} {nan{\\cb}\\focus} na coba-coba {katoan{\\cb}\\sq} {{\\ob}ling{\\cb}\\nai}",
+        "srcwordsbare": [
+            "{[[umir}",
+            "{nan]\\focus}",
+            "na",
+            "coba-coba",
+            "{katoan]\\sq}",
+            "{[ling]\\nai}"
+        ],
+        "srcwordshtml": [
+            "{[[umir}",
+            "{nan]\\focus}",
+            "na",
+            "coba-coba",
+            "{katoan]\\sq}",
+            "{[ling]\\nai}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}umir}",
+            "{nan{\\cb}\\focus}",
+            "na",
+            "coba-coba",
+            "{katoan{\\cb}\\sq}",
+            "{{\\ob}ling{\\cb}\\nai}"
+        ],
+        "trs": "don't try to ask about the age, he said.",
+        "wlength": 6
+    },
+    {
+        "ID": "riester--78975",
+        "categories": [
+            "1pl",
+            "neg"
+        ],
+        "clength": 58,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{neg} possible \\textsc{1pl}=ask age person Japan this",
+        "imtwordsbare": [
+            "NEG",
+            "possible",
+            "1PL=ask",
+            "age",
+            "person",
+            "Japan",
+            "this"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "possible",
+            "<span class=\"sc\">1pl</span>=ask",
+            "age",
+            "person",
+            "Japan",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "possible",
+            "\\textsc{1pl}=ask",
+            "age",
+            "person",
+            "Japan",
+            "this"
+        ],
+        "language": "201/chapters/riester.tex",
+        "polarity": "negative",
+        "src": "{No} roa \\textbf{tu=katoan} \\textbf{umir} tau jepang {ta,}",
+        "srcwordsbare": [
+            "{No}",
+            "roa",
+            "tu=katoan",
+            "umir",
+            "tau",
+            "jepang",
+            "{ta,}"
+        ],
+        "srcwordshtml": [
+            "{No}",
+            "roa",
+            "<span class=\"bf\">tu=katoan</span>",
+            "<span class=\"bf\">umir</span>",
+            "tau",
+            "jepang",
+            "{ta,}"
+        ],
+        "srcwordstex": [
+            "{No}",
+            "roa",
+            "\\textbf{tu=katoan}",
+            "\\textbf{umir}",
+            "tau",
+            "jepang",
+            "{ta,}"
+        ],
+        "trs": "It is not possible that we ask about the age of a \\ili{Japanese} person",
+        "wlength": 7
+    },
+    {
+        "ID": "riester-785009",
+        "categories": [
+            "1pl",
+            "neg"
+        ],
+        "clength": 69,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}\\textsc{neg} possible \\textsc{1pl}=ask age person Japan this",
+        "imtwordsbare": [
+            "\\hphantom{[[}NEG",
+            "possible",
+            "1PL=ask",
+            "age",
+            "person",
+            "Japan",
+            "this"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}<span class=\"sc\">neg</span>",
+            "possible",
+            "<span class=\"sc\">1pl</span>=ask",
+            "age",
+            "person",
+            "Japan",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}\\textsc{neg}",
+            "possible",
+            "\\textsc{1pl}=ask",
+            "age",
+            "person",
+            "Japan",
+            "this"
+        ],
+        "language": "201/chapters/riester.tex",
+        "polarity": "negative",
+        "src": "{{\\ob}{\\ob}No} roa tu=katoan umir tau jepang {ta,{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[No}",
+            "roa",
+            "tu=katoan",
+            "umir",
+            "tau",
+            "jepang",
+            "{ta,]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[No}",
+            "roa",
+            "tu=katoan",
+            "umir",
+            "tau",
+            "jepang",
+            "{ta,]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}No}",
+            "roa",
+            "tu=katoan",
+            "umir",
+            "tau",
+            "jepang",
+            "{ta,{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "It is not possible that we ask the age of a \\ili{Japanese} person",
+        "wlength": 7
+    },
+    {
+        "ID": "riester-560343",
+        "categories": [],
+        "clength": 69,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}light light work",
+        "imtwordsbare": [
+            "\\hphantom{[[}light",
+            "light",
+            "work"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}light",
+            "light",
+            "work"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}light",
+            "light",
+            "work"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}mogang} {mogang{\\cb}\\focus} {{\\ob}boat{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[mogang}",
+            "{mogang]\\focus}",
+            "{[boat]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[mogang}",
+            "{mogang]\\focus}",
+            "{[boat]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}mogang}",
+            "{mogang{\\cb}\\focus}",
+            "{{\\ob}boat{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "The work is easy, so easy.",
+        "wlength": 3
+    },
+    {
+        "ID": "riester-587609",
+        "categories": [
+            "itj",
+            "q"
+        ],
+        "clength": 82,
+        "filename": "201/chapters/riester.tex",
+        "imt": "{} time get.up sleep what time exist \\textsc{q} 3=determine from over.there \\textsc{itj}",
+        "imtwordsbare": [
+            "{}",
+            "time",
+            "get.up",
+            "sleep",
+            "what",
+            "time",
+            "exist",
+            "Q",
+            "3=determine",
+            "from",
+            "over.there",
+            "ITJ"
+        ],
+        "imtwordshtml": [
+            "{}",
+            "time",
+            "get.up",
+            "sleep",
+            "what",
+            "time",
+            "exist",
+            "<span class=\"sc\">q</span>",
+            "3=determine",
+            "from",
+            "over.there",
+            "<span class=\"sc\">itj</span>"
+        ],
+        "imtwordstex": [
+            "{}",
+            "time",
+            "get.up",
+            "sleep",
+            "what",
+            "time",
+            "exist",
+            "\\textsc{q}",
+            "3=determine",
+            "from",
+            "over.there",
+            "\\textsc{itj}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}\\dots{\\cb}} waya mleng tunung apa waya, ada ke ya=tentukan kalis-kalis ana e",
+        "srcwordsbare": [
+            "{[\\dots]}",
+            "waya",
+            "mleng",
+            "tunung",
+            "apa",
+            "waya,",
+            "ada",
+            "ke",
+            "ya=tentukan",
+            "kalis-kalis",
+            "ana",
+            "e"
+        ],
+        "srcwordshtml": [
+            "{[\\dots]}",
+            "waya",
+            "mleng",
+            "tunung",
+            "apa",
+            "waya,",
+            "ada",
+            "ke",
+            "ya=tentukan",
+            "kalis-kalis",
+            "ana",
+            "e"
+        ],
+        "srcwordstex": [
+            "{{\\ob}\\dots{\\cb}}",
+            "waya",
+            "mleng",
+            "tunung",
+            "apa",
+            "waya,",
+            "ada",
+            "ke",
+            "ya=tentukan",
+            "kalis-kalis",
+            "ana",
+            "e"
+        ],
+        "trs": "Is there a regulation when to get up from sleep over there?",
+        "wlength": 12
+    },
+    {
+        "ID": "riester--74223",
+        "categories": [
+            "neg",
+            "pst"
+        ],
+        "clength": 86,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}as.for that \\textsc{neg.pst} 3=determine",
+        "imtwordsbare": [
+            "\\hphantom{[}as.for",
+            "that",
+            "neg.pst",
+            "3=determine"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}as.for",
+            "that",
+            "<span class=\"sc\">neg.pst</span>",
+            "3=determine"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}as.for",
+            "that",
+            "\\textsc{neg.pst}",
+            "3=determine"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}Lamin} {{\\ob}denan{\\cb}\\ctopic} {{\\ob}no=soka{\\cb}\\focus} {ya=tentukan,{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[Lamin}",
+            "{[denan]\\ctopic}",
+            "{[no=soka]\\focus}",
+            "{ya=tentukan,]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[Lamin}",
+            "{[denan]\\ctopic}",
+            "{[no=soka]\\focus}",
+            "{ya=tentukan,]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}Lamin}",
+            "{{\\ob}denan{\\cb}\\ctopic}",
+            "{{\\ob}no=soka{\\cb}\\focus}",
+            "{ya=tentukan,{\\cb}\\sq}"
+        ],
+        "trs": "As for that, they didn\u2019t prescribe it.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester-139074",
+        "categories": [
+            "q"
+        ],
+        "clength": 16,
+        "filename": "201/chapters/riester.tex",
+        "imt": "exist \\textsc{q} chili over.there",
+        "imtwordsbare": [
+            "exist",
+            "Q",
+            "chili",
+            "over.there"
+        ],
+        "imtwordshtml": [
+            "exist",
+            "<span class=\"sc\">q</span>",
+            "chili",
+            "over.there"
+        ],
+        "imtwordstex": [
+            "exist",
+            "\\textsc{q}",
+            "chili",
+            "over.there"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ada ke cabe nana",
+        "srcwordsbare": [
+            "ada",
+            "ke",
+            "cabe",
+            "nana"
+        ],
+        "srcwordshtml": [
+            "ada",
+            "ke",
+            "cabe",
+            "nana"
+        ],
+        "srcwordstex": [
+            "ada",
+            "ke",
+            "cabe",
+            "nana"
+        ],
+        "trs": "Was there chili over there (in Japan)?",
+        "wlength": 4
+    },
+    {
+        "ID": "riester-350878",
+        "categories": [
+            "ptc"
+        ],
+        "clength": 63,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}exist \\textsc{ptc} \\hphantom{[}chili",
+        "imtwordsbare": [
+            "\\hphantom{[}exist",
+            "PTC",
+            "\\hphantom{[}chili"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}exist",
+            "<span class=\"sc\">ptc</span>",
+            "\\hphantom{[}chili"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}exist",
+            "\\textsc{ptc}",
+            "\\hphantom{[}chili"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}ada}\t{{\\ob}si{\\cb}\\focus} {{\\ob}cabe,{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[ada}",
+            "{[si]\\focus}",
+            "{[cabe,]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[ada}",
+            "{[si]\\focus}",
+            "{[cabe,]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}ada}",
+            "{{\\ob}si{\\cb}\\focus}",
+            "{{\\ob}cabe,{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "There was chili.",
+        "wlength": 3
+    },
+    {
+        "ID": "riester-727367",
+        "categories": [
+            "neg",
+            "pst"
+        ],
+        "clength": 44,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\textsc{neg.pst} ever see chili in Japan over.there",
+        "imtwordsbare": [
+            "neg.pst",
+            "ever",
+            "see",
+            "chili",
+            "in",
+            "Japan",
+            "over.there"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg.pst</span>",
+            "ever",
+            "see",
+            "chili",
+            "in",
+            "Japan",
+            "over.there"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg.pst}",
+            "ever",
+            "see",
+            "chili",
+            "in",
+            "Japan",
+            "over.there"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "nka kadu gita cabe pang Jepang ana{\\USQMark}",
+        "srcwordsbare": [
+            "nka",
+            "kadu",
+            "gita",
+            "cabe",
+            "pang",
+            "Jepang",
+            "ana{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "nka",
+            "kadu",
+            "gita",
+            "cabe",
+            "pang",
+            "Jepang",
+            "ana{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "nka",
+            "kadu",
+            "gita",
+            "cabe",
+            "pang",
+            "Jepang",
+            "ana{\\USQMark}"
+        ],
+        "trs": "Have you never seen chili over there in Japan?",
+        "wlength": 7
+    },
+    {
+        "ID": "riester--68622",
+        "categories": [],
+        "clength": 19,
+        "filename": "201/chapters/riester.tex",
+        "imt": "then exist how.many room",
+        "imtwordsbare": [
+            "then",
+            "exist",
+            "how.many",
+            "room"
+        ],
+        "imtwordshtml": [
+            "then",
+            "exist",
+            "how.many",
+            "room"
+        ],
+        "imtwordstex": [
+            "then",
+            "exist",
+            "how.many",
+            "room"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "jadi ada pida kamar",
+        "srcwordsbare": [
+            "jadi",
+            "ada",
+            "pida",
+            "kamar"
+        ],
+        "srcwordshtml": [
+            "jadi",
+            "ada",
+            "pida",
+            "kamar"
+        ],
+        "srcwordstex": [
+            "jadi",
+            "ada",
+            "pida",
+            "kamar"
+        ],
+        "trs": "Then, how many rooms were there?",
+        "wlength": 4
+    },
+    {
+        "ID": "riester--76272",
+        "categories": [
+            "neg"
+        ],
+        "clength": 75,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}five room \\hphantom{[}if \\textsc{neg} wrong",
+        "imtwordsbare": [
+            "\\hphantom{[[}five",
+            "room",
+            "\\hphantom{[}if",
+            "NEG",
+            "wrong"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}five",
+            "room",
+            "\\hphantom{[}if",
+            "<span class=\"sc\">neg</span>",
+            "wrong"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}five",
+            "room",
+            "\\hphantom{[}if",
+            "\\textsc{neg}",
+            "wrong"
+        ],
+        "language": "201/chapters/riester.tex",
+        "polarity": "negative",
+        "src": "{{\\ob}{\\ob}lima{\\cb}\\focus} {kamar{\\cb}\\sq} {{\\ob}amen} no {salah{\\cb}\\nai}",
+        "srcwordsbare": [
+            "{[[lima]\\focus}",
+            "{kamar]\\sq}",
+            "{[amen}",
+            "no",
+            "{salah]\\nai}"
+        ],
+        "srcwordshtml": [
+            "{[[lima]\\focus}",
+            "{kamar]\\sq}",
+            "{[amen}",
+            "no",
+            "{salah]\\nai}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}lima{\\cb}\\focus}",
+            "{kamar{\\cb}\\sq}",
+            "{{\\ob}amen}",
+            "no",
+            "{salah{\\cb}\\nai}"
+        ],
+        "trs": "There were five rooms, if I am not wrong.",
+        "wlength": 5
+    },
+    {
+        "ID": "riester-628124",
+        "categories": [
+            "itj",
+            "pst",
+            "rel"
+        ],
+        "clength": 106,
+        "filename": "201/chapters/riester.tex",
+        "imt": "only \\hphantom{[}\\textsc{rel} \\textsc{pst} many chili \\textsc{itj} chili \\hphantom{[}instant",
+        "imtwordsbare": [
+            "only",
+            "\\hphantom{[}REL",
+            "PST",
+            "many",
+            "chili",
+            "ITJ",
+            "chili",
+            "\\hphantom{[}instant"
+        ],
+        "imtwordshtml": [
+            "only",
+            "\\hphantom{[}<span class=\"sc\">rel</span>",
+            "<span class=\"sc\">pst</span>",
+            "many",
+            "chili",
+            "<span class=\"sc\">itj</span>",
+            "chili",
+            "\\hphantom{[}instant"
+        ],
+        "imtwordstex": [
+            "only",
+            "\\hphantom{[}\\textsc{rel}",
+            "\\textsc{pst}",
+            "many",
+            "chili",
+            "\\textsc{itj}",
+            "chili",
+            "\\hphantom{[}instant"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "cuma {{\\ob}de} ka {{\\ob}peno{\\cb}\\ctopic} cabe ne, \\textbf{cabe} {{\\ob}\\textbf{instan}{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "cuma",
+            "{[de}",
+            "ka",
+            "{[peno]\\ctopic}",
+            "cabe",
+            "ne,",
+            "cabe",
+            "{[instan]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "cuma",
+            "{[de}",
+            "ka",
+            "{[peno]\\ctopic}",
+            "cabe",
+            "ne,",
+            "<span class=\"bf\">cabe</span>",
+            "{[<span class=\"bf\">instan</span>]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "cuma",
+            "{{\\ob}de}",
+            "ka",
+            "{{\\ob}peno{\\cb}\\ctopic}",
+            "cabe",
+            "ne,",
+            "\\textbf{cabe}",
+            "{{\\ob}\\textbf{instan}{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "It is just that a lot of chili was instant chili.",
+        "wlength": 8
+    },
+    {
+        "ID": "riester--35135",
+        "categories": [
+            "1pl"
+        ],
+        "clength": 154,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}if want approach with person woman beautiful {} \\hphantom{[}have.to \\hphantom{[}\\textsc{1pl}=control emotion",
+        "imtwordsbare": [
+            "\\hphantom{[}if",
+            "want",
+            "approach",
+            "with",
+            "person",
+            "woman",
+            "beautiful",
+            "{}",
+            "\\hphantom{[}have.to",
+            "\\hphantom{[}1PL=control",
+            "emotion"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}if",
+            "want",
+            "approach",
+            "with",
+            "person",
+            "woman",
+            "beautiful",
+            "{}",
+            "\\hphantom{[}have.to",
+            "\\hphantom{[}<span class=\"sc\">1pl</span>=control",
+            "emotion"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}if",
+            "want",
+            "approach",
+            "with",
+            "person",
+            "woman",
+            "beautiful",
+            "{}",
+            "\\hphantom{[}have.to",
+            "\\hphantom{[}\\textsc{1pl}=control",
+            "emotion"
+        ],
+        "language": "201/chapters/riester.tex",
+        "modality": "volitive",
+        "src": "{{\\ob}min} sate parak ke \\textbf{tau} \\textbf{sowai} {\\textbf{gera}{\\cb}\\nai} {{\\ob}\\dots{\\cb}} {{\\ob}harus} {{\\ob}tu=tahan} {rasa-ate{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[min}",
+            "sate",
+            "parak",
+            "ke",
+            "tau",
+            "sowai",
+            "{gera]\\nai}",
+            "{[\\dots]}",
+            "{[harus}",
+            "{[tu=tahan}",
+            "{rasa-ate]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[min}",
+            "sate",
+            "parak",
+            "ke",
+            "<span class=\"bf\">tau</span>",
+            "<span class=\"bf\">sowai</span>",
+            "{<span class=\"bf\">gera</span>]\\nai}",
+            "{[\\dots]}",
+            "{[harus}",
+            "{[tu=tahan}",
+            "{rasa-ate]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}min}",
+            "sate",
+            "parak",
+            "ke",
+            "\\textbf{tau}",
+            "\\textbf{sowai}",
+            "{\\textbf{gera}{\\cb}\\nai}",
+            "{{\\ob}\\dots{\\cb}}",
+            "{{\\ob}harus}",
+            "{{\\ob}tu=tahan}",
+            "{rasa-ate{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "If we want to approach a beautiful woman, we need to control our emotions.",
+        "wlength": 11
+    },
+    {
+        "ID": "riester-278817",
+        "categories": [
+            "1pl",
+            "itj"
+        ],
+        "clength": 88,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}have.to \\hphantom{[}\\textsc{1pl}=patient \\hphantom{[}really \\textsc{itj}",
+        "imtwordsbare": [
+            "\\hphantom{[}have.to",
+            "\\hphantom{[}1PL=patient",
+            "\\hphantom{[}really",
+            "ITJ"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}have.to",
+            "\\hphantom{[}<span class=\"sc\">1pl</span>=patient",
+            "\\hphantom{[}really",
+            "<span class=\"sc\">itj</span>"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}have.to",
+            "\\hphantom{[}\\textsc{1pl}=patient",
+            "\\hphantom{[}really",
+            "\\textsc{itj}"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}harus} {{\\ob}\\textbf{tu}=bersabar} {benar{\\cb}\\focus{\\cb}\\sq} {{\\ob}ampa{\\cb}\\nai}",
+        "srcwordsbare": [
+            "{[harus}",
+            "{[tu=bersabar}",
+            "{benar]\\focus]\\sq}",
+            "{[ampa]\\nai}"
+        ],
+        "srcwordshtml": [
+            "{[harus}",
+            "{[<span class=\"bf\">tu</span>=bersabar}",
+            "{benar]\\focus]\\sq}",
+            "{[ampa]\\nai}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}harus}",
+            "{{\\ob}\\textbf{tu}=bersabar}",
+            "{benar{\\cb}\\focus{\\cb}\\sq}",
+            "{{\\ob}ampa{\\cb}\\nai}"
+        ],
+        "trs": "We need to be really patient.'\\\\",
+        "wlength": 4
+    },
+    {
+        "ID": "riester-765859",
+        "categories": [
+            "1pl",
+            "incl"
+        ],
+        "clength": 136,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}you.know \\hphantom{[[}\\textsc{1pl.incl} \\hphantom{[}\\textsc{1pl}=do.early-morning-prayer \\hphantom{[}before",
+        "imtwordsbare": [
+            "\\hphantom{[}you.know",
+            "\\hphantom{[[}1pl.incl",
+            "\\hphantom{[}1PL=do.early-morning-prayer",
+            "\\hphantom{[}before"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}you.know",
+            "\\hphantom{[[}<span class=\"sc\">1pl.incl</span>",
+            "\\hphantom{[}<span class=\"sc\">1pl</span>=do.early-morning-prayer",
+            "\\hphantom{[}before"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}you.know",
+            "\\hphantom{[[}\\textsc{1pl.incl}",
+            "\\hphantom{[}\\textsc{1pl}=do.early-morning-prayer",
+            "\\hphantom{[}before"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}kan{\\cb}\\nai} {{\\ob}{\\ob}\\textbf{kita}{\\cb}\\ctopic} {{\\ob}\\textbf{tu}=sembayang-subu{\\cb}\\focus} {{\\ob}dunung,{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[kan]\\nai}",
+            "{[[kita]\\ctopic}",
+            "{[tu=sembayang-subu]\\focus}",
+            "{[dunung,]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[kan]\\nai}",
+            "{[[<span class=\"bf\">kita</span>]\\ctopic}",
+            "{[<span class=\"bf\">tu</span>=sembayang-subu]\\focus}",
+            "{[dunung,]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}kan{\\cb}\\nai}",
+            "{{\\ob}{\\ob}\\textbf{kita}{\\cb}\\ctopic}",
+            "{{\\ob}\\textbf{tu}=sembayang-subu{\\cb}\\focus}",
+            "{{\\ob}dunung,{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "As you know, we first do the early morning prayer.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester--41699",
+        "categories": [
+            "rel"
+        ],
+        "clength": 92,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}maybe \\hphantom{[}ugly really \\hphantom{[}\\textsc{rel} come this",
+        "imtwordsbare": [
+            "\\hphantom{[}maybe",
+            "\\hphantom{[}ugly",
+            "really",
+            "\\hphantom{[}REL",
+            "come",
+            "this"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}maybe",
+            "\\hphantom{[}ugly",
+            "really",
+            "\\hphantom{[}<span class=\"sc\">rel</span>",
+            "come",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}maybe",
+            "\\hphantom{[}ugly",
+            "really",
+            "\\hphantom{[}\\textsc{rel}",
+            "come",
+            "this"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}barangkali,} {lenge} {benar{\\cb}\\focus} {{\\ob}ade} datang {ta{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[barangkali,}",
+            "{lenge}",
+            "{benar]\\focus}",
+            "{[ade}",
+            "datang",
+            "{ta]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[barangkali,}",
+            "{lenge}",
+            "{benar]\\focus}",
+            "{[ade}",
+            "datang",
+            "{ta]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}barangkali,}",
+            "{lenge}",
+            "{benar{\\cb}\\focus}",
+            "{{\\ob}ade}",
+            "datang",
+            "{ta{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "Maybe the person who came was really ugly.",
+        "wlength": 6
+    },
+    {
+        "ID": "riester--71953",
+        "categories": [],
+        "clength": 47,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}disciplined really",
+        "imtwordsbare": [
+            "\\hphantom{[[}disciplined",
+            "really"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}disciplined",
+            "really"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}disciplined",
+            "really"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}disiplin} {benar{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[disiplin}",
+            "{benar]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[disiplin}",
+            "{benar]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}disiplin}",
+            "{benar{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "It was really disciplined.",
+        "wlength": 2
+    },
+    {
+        "ID": "riester--39666",
+        "categories": [
+            "itj",
+            "pst",
+            "ptc"
+        ],
+        "clength": 142,
+        "filename": "201/chapters/riester.tex",
+        "imt": "3=give \\textsc{ptc} by Salam to teacher; when \\textsc{pst}=3=eat \\textsc{ptc} by teacher {} \\textsc{itj} delicious shit dog small",
+        "imtwordsbare": [
+            "3=give",
+            "PTC",
+            "by",
+            "Salam",
+            "to",
+            "teacher;",
+            "when",
+            "PST=3=eat",
+            "PTC",
+            "by",
+            "teacher",
+            "{}",
+            "ITJ",
+            "delicious",
+            "shit",
+            "dog",
+            "small"
+        ],
+        "imtwordshtml": [
+            "3=give",
+            "<span class=\"sc\">ptc</span>",
+            "by",
+            "Salam",
+            "to",
+            "teacher;",
+            "when",
+            "<span class=\"sc\">pst</span>=3=eat",
+            "<span class=\"sc\">ptc</span>",
+            "by",
+            "teacher",
+            "{}",
+            "<span class=\"sc\">itj</span>",
+            "delicious",
+            "shit",
+            "dog",
+            "small"
+        ],
+        "imtwordstex": [
+            "3=give",
+            "\\textsc{ptc}",
+            "by",
+            "Salam",
+            "to",
+            "teacher;",
+            "when",
+            "\\textsc{pst}=3=eat",
+            "\\textsc{ptc}",
+            "by",
+            "teacher",
+            "{}",
+            "\\textsc{itj}",
+            "delicious",
+            "shit",
+            "dog",
+            "small"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "ya=beang mo \\textbf{ling} \\textbf{Salam} lako guru; meng ka=ya=kakan mo \\textbf{ling} \\textbf{guru}: \\hspace{3em} {``e,} nyaman tai asu {ode\"}",
+        "srcwordsbare": [
+            "ya=beang",
+            "mo",
+            "ling",
+            "Salam",
+            "lako",
+            "guru;",
+            "meng",
+            "ka=ya=kakan",
+            "mo",
+            "ling",
+            "guru:",
+            "\\hspace{3em}",
+            "{``e,}",
+            "nyaman",
+            "tai",
+            "asu",
+            "{ode\"}"
+        ],
+        "srcwordshtml": [
+            "ya=beang",
+            "mo",
+            "<span class=\"bf\">ling</span>",
+            "<span class=\"bf\">Salam</span>",
+            "lako",
+            "guru;",
+            "meng",
+            "ka=ya=kakan",
+            "mo",
+            "<span class=\"bf\">ling</span>",
+            "<span class=\"bf\">guru</span>:",
+            "\\hspace{3em}",
+            "{``e,}",
+            "nyaman",
+            "tai",
+            "asu",
+            "{ode\"}"
+        ],
+        "srcwordstex": [
+            "ya=beang",
+            "mo",
+            "\\textbf{ling}",
+            "\\textbf{Salam}",
+            "lako",
+            "guru;",
+            "meng",
+            "ka=ya=kakan",
+            "mo",
+            "\\textbf{ling}",
+            "\\textbf{guru}:",
+            "\\hspace{3em}",
+            "{``e,}",
+            "nyaman",
+            "tai",
+            "asu",
+            "{ode\"}"
+        ],
+        "trs": "Salam gave (it) to the teacher. When the teacher ate (it), (he said): ``Ah, the shit of the small dog is delicious.\"",
+        "wlength": 17
+    },
+    {
+        "ID": "riester-919485",
+        "categories": [
+            "1pl",
+            "incl",
+            "neg"
+        ],
+        "clength": 105,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}have.to \\textsc{1pl}=tell 3 that \\textsc{1pl.incl} \\textsc{neg} can eat that",
+        "imtwordsbare": [
+            "\\hphantom{[[}have.to",
+            "1PL=tell",
+            "3",
+            "that",
+            "1pl.incl",
+            "NEG",
+            "can",
+            "eat",
+            "that"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}have.to",
+            "<span class=\"sc\">1pl</span>=tell",
+            "3",
+            "that",
+            "<span class=\"sc\">1pl.incl</span>",
+            "<span class=\"sc\">neg</span>",
+            "can",
+            "eat",
+            "that"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}have.to",
+            "\\textsc{1pl}=tell",
+            "3",
+            "that",
+            "\\textsc{1pl.incl}",
+            "\\textsc{neg}",
+            "can",
+            "eat",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}harus} {{\\ob}tu=bada{\\cb}\\focus} {{\\ob}nya{\\cb}\\topic} luk \\textbf{kita} no bau kakan {nan{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[harus}",
+            "{[tu=bada]\\focus}",
+            "{[nya]\\topic}",
+            "luk",
+            "kita",
+            "no",
+            "bau",
+            "kakan",
+            "{nan]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[harus}",
+            "{[tu=bada]\\focus}",
+            "{[nya]\\topic}",
+            "luk",
+            "<span class=\"bf\">kita</span>",
+            "no",
+            "bau",
+            "kakan",
+            "{nan]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}harus}",
+            "{{\\ob}tu=bada{\\cb}\\focus}",
+            "{{\\ob}nya{\\cb}\\topic}",
+            "luk",
+            "\\textbf{kita}",
+            "no",
+            "bau",
+            "kakan",
+            "{nan{\\cb}\\sq}"
+        ],
+        "trs": "We must tell them that we can't eat that.",
+        "wlength": 9
+    },
+    {
+        "ID": "riester-867998",
+        "categories": [],
+        "clength": 80,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[[}rarely see chili \\hphantom{[}red",
+        "imtwordsbare": [
+            "\\hphantom{[[}rarely",
+            "see",
+            "chili",
+            "\\hphantom{[}red"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[[}rarely",
+            "see",
+            "chili",
+            "\\hphantom{[}red"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[[}rarely",
+            "see",
+            "chili",
+            "\\hphantom{[}red"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}jarang{\\cb}\\ctopic} \\textbf{gita} cabe {{\\ob}mira{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[jarang]\\ctopic}",
+            "gita",
+            "cabe",
+            "{[mira]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[jarang]\\ctopic}",
+            "<span class=\"bf\">gita</span>",
+            "cabe",
+            "{[mira]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}jarang{\\cb}\\ctopic}",
+            "\\textbf{gita}",
+            "cabe",
+            "{{\\ob}mira{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "I rarely saw red chili.",
+        "wlength": 4
+    },
+    {
+        "ID": "riester-776396",
+        "categories": [],
+        "clength": 140,
+        "filename": "201/chapters/riester.tex",
+        "imt": "\\hphantom{[}then person \\hphantom{[}over.there make \\hphantom{[}like word person over.there make \\hphantom{[}tool parts elevator",
+        "imtwordsbare": [
+            "\\hphantom{[}then",
+            "person",
+            "\\hphantom{[}over.there",
+            "make",
+            "\\hphantom{[}like",
+            "word",
+            "person",
+            "over.there",
+            "make",
+            "\\hphantom{[}tool",
+            "parts",
+            "elevator"
+        ],
+        "imtwordshtml": [
+            "\\hphantom{[}then",
+            "person",
+            "\\hphantom{[}over.there",
+            "make",
+            "\\hphantom{[}like",
+            "word",
+            "person",
+            "over.there",
+            "make",
+            "\\hphantom{[}tool",
+            "parts",
+            "elevator"
+        ],
+        "imtwordstex": [
+            "\\hphantom{[}then",
+            "person",
+            "\\hphantom{[}over.there",
+            "make",
+            "\\hphantom{[}like",
+            "word",
+            "person",
+            "over.there",
+            "make",
+            "\\hphantom{[}tool",
+            "parts",
+            "elevator"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}Jadi} tau {{\\ob}ana{\\cb}\\ctopic} pina, {{\\ob}mara} leng tau {nana,{\\cb}\\nai} pina {{\\ob}peralatan} untuk {elepator{\\cb}\\focus{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[Jadi}",
+            "tau",
+            "{[ana]\\ctopic}",
+            "pina,",
+            "{[mara}",
+            "leng",
+            "tau",
+            "{nana,]\\nai}",
+            "pina",
+            "{[peralatan}",
+            "untuk",
+            "{elepator]\\focus]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[Jadi}",
+            "tau",
+            "{[ana]\\ctopic}",
+            "pina,",
+            "{[mara}",
+            "leng",
+            "tau",
+            "{nana,]\\nai}",
+            "pina",
+            "{[peralatan}",
+            "untuk",
+            "{elepator]\\focus]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}Jadi}",
+            "tau",
+            "{{\\ob}ana{\\cb}\\ctopic}",
+            "pina,",
+            "{{\\ob}mara}",
+            "leng",
+            "tau",
+            "{nana,{\\cb}\\nai}",
+            "pina",
+            "{{\\ob}peralatan}",
+            "untuk",
+            "{elepator{\\cb}\\focus{\\cb}\\sq}"
+        ],
+        "trs": "At the time, people there, as they said, were making parts for an elevator.",
+        "wlength": 12
+    },
+    {
+        "ID": "riester-132133",
+        "categories": [],
+        "clength": 63,
+        "filename": "201/chapters/riester.tex",
+        "imt": "put.in place that",
+        "imtwordsbare": [
+            "put.in",
+            "place",
+            "that"
+        ],
+        "imtwordshtml": [
+            "put.in",
+            "place",
+            "that"
+        ],
+        "imtwordstex": [
+            "put.in",
+            "place",
+            "that"
+        ],
+        "language": "201/chapters/riester.tex",
+        "src": "{{\\ob}{\\ob}olo{\\cb}\\focus} {{\\ob}pang} {nan{\\cb}\\topic{\\cb}\\sq}",
+        "srcwordsbare": [
+            "{[[olo]\\focus}",
+            "{[pang}",
+            "{nan]\\topic]\\sq}"
+        ],
+        "srcwordshtml": [
+            "{[[olo]\\focus}",
+            "{[pang}",
+            "{nan]\\topic]\\sq}"
+        ],
+        "srcwordstex": [
+            "{{\\ob}{\\ob}olo{\\cb}\\focus}",
+            "{{\\ob}pang}",
+            "{nan{\\cb}\\topic{\\cb}\\sq}"
+        ],
+        "trs": "(They) put  \\textbf{(us)} in that place.",
+        "wlength": 3
+    }
+]

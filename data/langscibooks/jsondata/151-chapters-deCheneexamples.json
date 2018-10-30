@@ -1,0 +1,132 @@
+[
+    {
+        "ID": "deChene--80110",
+        "categories": [
+            "acc",
+            "cj",
+            "dat",
+            "pf"
+        ],
+        "clength": 37,
+        "coordination": "and",
+        "filename": "151/chapters/deChene.tex",
+        "imt": "shopping.district \\textsc{acc} pass.through-\\textsc{cj} station \\textsc{dat} return-\\textsc{pf}",
+        "imtwordsbare": [
+            "shopping.district",
+            "ACC",
+            "pass.through-CJ",
+            "station",
+            "DAT",
+            "return-PF"
+        ],
+        "imtwordshtml": [
+            "shopping.district",
+            "<span class=\"sc\">acc</span>",
+            "pass.through-<span class=\"sc\">cj</span>",
+            "station",
+            "<span class=\"sc\">dat</span>",
+            "return-<span class=\"sc\">pf</span>"
+        ],
+        "imtwordstex": [
+            "shopping.district",
+            "\\textsc{acc}",
+            "pass.through-\\textsc{cj}",
+            "station",
+            "\\textsc{dat}",
+            "return-\\textsc{pf}"
+        ],
+        "language": "151/chapters/deChene.tex",
+        "src": "Syootengai o toot-te eki ni modot-ta.",
+        "srcwordsbare": [
+            "Syootengai",
+            "o",
+            "toot-te",
+            "eki",
+            "ni",
+            "modot-ta."
+        ],
+        "srcwordshtml": [
+            "Syootengai",
+            "o",
+            "toot-te",
+            "eki",
+            "ni",
+            "modot-ta."
+        ],
+        "srcwordstex": [
+            "Syootengai",
+            "o",
+            "toot-te",
+            "eki",
+            "ni",
+            "modot-ta."
+        ],
+        "trs": "I passed through the shopping district and returned to the station.",
+        "wlength": 6
+    },
+    {
+        "ID": "deChene-805516",
+        "categories": [
+            "acc",
+            "cj",
+            "dat",
+            "pf"
+        ],
+        "clength": 33,
+        "coordination": "and",
+        "filename": "151/chapters/deChene.tex",
+        "imt": "barrier \\textsc{acc} step.over-\\textsc{cj} sidewalk \\textsc{dat} enter-\\textsc{pf}",
+        "imtwordsbare": [
+            "barrier",
+            "ACC",
+            "step.over-CJ",
+            "sidewalk",
+            "DAT",
+            "enter-PF"
+        ],
+        "imtwordshtml": [
+            "barrier",
+            "<span class=\"sc\">acc</span>",
+            "step.over-<span class=\"sc\">cj</span>",
+            "sidewalk",
+            "<span class=\"sc\">dat</span>",
+            "enter-<span class=\"sc\">pf</span>"
+        ],
+        "imtwordstex": [
+            "barrier",
+            "\\textsc{acc}",
+            "step.over-\\textsc{cj}",
+            "sidewalk",
+            "\\textsc{dat}",
+            "enter-\\textsc{pf}"
+        ],
+        "language": "151/chapters/deChene.tex",
+        "src": "Saku o matai-de hodoo ni hait-ta.",
+        "srcwordsbare": [
+            "Saku",
+            "o",
+            "matai-de",
+            "hodoo",
+            "ni",
+            "hait-ta."
+        ],
+        "srcwordshtml": [
+            "Saku",
+            "o",
+            "matai-de",
+            "hodoo",
+            "ni",
+            "hait-ta."
+        ],
+        "srcwordstex": [
+            "Saku",
+            "o",
+            "matai-de",
+            "hodoo",
+            "ni",
+            "hait-ta."
+        ],
+        "trs": "I stepped over the barrier and onto the sidewalk.",
+        "wlength": 6
+    }
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "ID": "schmidtkebode--16765",
+        "categories": [
+            "3sg",
+            "det",
+            "obj",
+            "t/a"
+        ],
+        "clength": 21,
+        "filename": "220/chapters/schmidtkebode.tex",
+        "imt": "\\textsc{t/a}   see \\textsc{3sg}   \\textsc{obj}   \\textsc{det}   house",
+        "imtwordsbare": [
+            "T/A",
+            "see",
+            "3SG",
+            "OBJ",
+            "DET",
+            "house"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">t/a</span>",
+            "see",
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">obj</span>",
+            "<span class=\"sc\">det</span>",
+            "house"
+        ],
+        "imtwordstex": [
+            "\\textsc{t/a}",
+            "see",
+            "\\textsc{3sg}",
+            "\\textsc{obj}",
+            "\\textsc{det}",
+            "house"
+        ],
+        "language": "220/chapters/schmidtkebode.tex",
+        "src": "I kite ia i te whare.",
+        "srcwordsbare": [
+            "I",
+            "kite",
+            "ia",
+            "i",
+            "te",
+            "whare."
+        ],
+        "srcwordshtml": [
+            "I",
+            "kite",
+            "ia",
+            "i",
+            "te",
+            "whare."
+        ],
+        "srcwordstex": [
+            "I",
+            "kite",
+            "ia",
+            "i",
+            "te",
+            "whare."
+        ],
+        "trs": "She saw the house.",
+        "wlength": 6
+    },
+    {
+        "ID": "schmidtkebode-590096",
+        "categories": [
+            "aor",
+            "dat"
+        ],
+        "clength": 24,
+        "filename": "220/chapters/schmidtkebode.tex",
+        "imt": "he-\\textsc{dat}   horse     see-\\textsc{aor}",
+        "imtwordsbare": [
+            "he-DAT",
+            "horse",
+            "see-AOR"
+        ],
+        "imtwordshtml": [
+            "he-<span class=\"sc\">dat</span>",
+            "horse",
+            "see-<span class=\"sc\">aor</span>"
+        ],
+        "imtwordstex": [
+            "he-\\textsc{dat}",
+            "horse",
+            "see-\\textsc{aor}"
+        ],
+        "language": "220/chapters/schmidtkebode.tex",
+        "src": "Ada-z  balk\u2019an   aku-na.",
+        "srcwordsbare": [
+            "Ada-z",
+            "balk\u2019an",
+            "aku-na."
+        ],
+        "srcwordshtml": [
+            "Ada-z",
+            "balk\u2019an",
+            "aku-na."
+        ],
+        "srcwordstex": [
+            "Ada-z",
+            "balk\u2019an",
+            "aku-na."
+        ],
+        "trs": "He saw the horse.",
+        "wlength": 3
+    },
+    {
+        "ID": "schmidtkebode-328272",
+        "categories": [
+            "det"
+        ],
+        "clength": 45,
+        "filename": "220/chapters/schmidtkebode.tex",
+        "imt": "\\textbf{\\textsc{det}}   man   that-3sg",
+        "imtwordsbare": [
+            "DET",
+            "man",
+            "that-3sg"
+        ],
+        "imtwordshtml": [
+            "<span class=\"bf\">\\textsc{det</span>}",
+            "man",
+            "that-3sg"
+        ],
+        "imtwordstex": [
+            "\\textbf{\\textsc{det}}",
+            "man",
+            "that-3sg"
+        ],
+        "language": "220/chapters/schmidtkebode.tex",
+        "src": "\\textbf{a}   tam\\textsuperscript{w}ata   a-\u00f1a",
+        "srcwordsbare": [
+            "a",
+            "tamwata",
+            "a-\u00f1a"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">a</span>",
+            "tam<span class=\"superscript\">w</span>ata",
+            "a-\u00f1a"
+        ],
+        "srcwordstex": [
+            "\\textbf{a}",
+            "tam\\textsuperscript{w}ata",
+            "a-\u00f1a"
+        ],
+        "trs": "that man",
+        "wlength": 3
+    },
+    {
+        "ID": "schmidtkebode--61131",
+        "categories": [],
+        "clength": 27,
+        "filename": "220/chapters/schmidtkebode.tex",
+        "imt": "Waskian   man   \\textbf{that}",
+        "imtwordsbare": [
+            "Waskian",
+            "man",
+            "that"
+        ],
+        "imtwordshtml": [
+            "Waskian",
+            "man",
+            "<span class=\"bf\">that</span>"
+        ],
+        "imtwordstex": [
+            "Waskian",
+            "man",
+            "\\textbf{that}"
+        ],
+        "language": "220/chapters/schmidtkebode.tex",
+        "src": "Waskia   tamol  \\textbf{an}",
+        "srcwordsbare": [
+            "Waskia",
+            "tamol",
+            "an"
+        ],
+        "srcwordshtml": [
+            "Waskia",
+            "tamol",
+            "<span class=\"bf\">an</span>"
+        ],
+        "srcwordstex": [
+            "Waskia",
+            "tamol",
+            "\\textbf{an}"
+        ],
+        "trs": "that Waskia man",
+        "wlength": 3
+    },
+    {
+        "ID": "schmidtkebode--28364",
+        "categories": [],
+        "clength": 27,
+        "filename": "220/chapters/schmidtkebode.tex",
+        "imt": "Waskia   man   \\textbf{that}",
+        "imtwordsbare": [
+            "Waskia",
+            "man",
+            "that"
+        ],
+        "imtwordshtml": [
+            "Waskia",
+            "man",
+            "<span class=\"bf\">that</span>"
+        ],
+        "imtwordstex": [
+            "Waskia",
+            "man",
+            "\\textbf{that}"
+        ],
+        "language": "220/chapters/schmidtkebode.tex",
+        "src": "Waskia   kadi   \\textbf{mu}",
+        "srcwordsbare": [
+            "Waskia",
+            "kadi",
+            "mu"
+        ],
+        "srcwordshtml": [
+            "Waskia",
+            "kadi",
+            "<span class=\"bf\">mu</span>"
+        ],
+        "srcwordstex": [
+            "Waskia",
+            "kadi",
+            "\\textbf{mu}"
+        ],
+        "trs": "that Waskia man",
+        "wlength": 3
+    }
+]

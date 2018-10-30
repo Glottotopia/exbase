@@ -1,0 +1,1404 @@
+[
+    {
+        "ID": "debusser--35523",
+        "categories": [
+            "2s",
+            "all",
+            "subj"
+        ],
+        "clength": 13,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{all}-where-\\textsc{2s}.\\textsc{subj}",
+        "imtwordsbare": [
+            "ALL-where-2S.SUBJ"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">all</span>-where-<span class=\"sc\">2s</span>.<span class=\"sc\">subj</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{all}-where-\\textsc{2s}.\\textsc{subj}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "mun-\u0294isaq=\u0294as",
+        "srcwordsbare": [
+            "mun-\u0294isaq=\u0294as"
+        ],
+        "srcwordshtml": [
+            "mun-\u0294isaq=\u0294as"
+        ],
+        "srcwordstex": [
+            "mun-\u0294isaq=\u0294as"
+        ],
+        "trs": "Where are you going?",
+        "wlength": 1
+    },
+    {
+        "ID": "debusser-501247",
+        "categories": [
+            "2s",
+            "all",
+            "dyn",
+            "subj"
+        ],
+        "clength": 33,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{all}-where  \\textsc{2s}.\\textsc{subj}  \\textsc{dyn}-chop  wood",
+        "imtwordsbare": [
+            "ALL-where",
+            "2S.SUBJ",
+            "DYN-chop",
+            "wood"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">all</span>-where",
+            "<span class=\"sc\">2s</span>.<span class=\"sc\">subj</span>",
+            "<span class=\"sc\">dyn</span>-chop",
+            "wood"
+        ],
+        "imtwordstex": [
+            "\\textsc{all}-where",
+            "\\textsc{2s}.\\textsc{subj}",
+            "\\textsc{dyn}-chop",
+            "wood"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "ku-\u0294isa\u0294  kasu\u0294  ma-tuktuk  lukis",
+        "srcwordsbare": [
+            "ku-\u0294isa\u0294",
+            "kasu\u0294",
+            "ma-tuktuk",
+            "lukis"
+        ],
+        "srcwordshtml": [
+            "ku-\u0294isa\u0294",
+            "kasu\u0294",
+            "ma-tuktuk",
+            "lukis"
+        ],
+        "srcwordstex": [
+            "ku-\u0294isa\u0294",
+            "kasu\u0294",
+            "ma-tuktuk",
+            "lukis"
+        ],
+        "trs": "Where do/did you go to chop wood?",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser--75367",
+        "categories": [
+            "irr"
+        ],
+        "clength": 19,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{irr}-take  thing",
+        "imtwordsbare": [
+            "IRR-take",
+            "thing"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">irr</span>-take",
+            "thing"
+        ],
+        "imtwordstex": [
+            "\\textsc{irr}-take",
+            "thing"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "na-si\u00f0a  qaima\u014bsu\u00f0.",
+        "srcwordsbare": [
+            "na-si\u00f0a",
+            "qaima\u014bsu\u00f0."
+        ],
+        "srcwordshtml": [
+            "na-si\u00f0a",
+            "qaima\u014bsu\u00f0."
+        ],
+        "srcwordstex": [
+            "na-si\u00f0a",
+            "qaima\u014bsu\u00f0."
+        ],
+        "trs": "I will pick up things.",
+        "wlength": 2
+    },
+    {
+        "ID": "debusser--84862",
+        "categories": [
+            "neg",
+            "uv"
+        ],
+        "clength": 20,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "many  \\textsc{neg}  take-\\textsc{uv}",
+        "imtwordsbare": [
+            "many",
+            "NEG",
+            "take-UV"
+        ],
+        "imtwordshtml": [
+            "many",
+            "<span class=\"sc\">neg</span>",
+            "take-<span class=\"sc\">uv</span>"
+        ],
+        "imtwordstex": [
+            "many",
+            "\\textsc{neg}",
+            "take-\\textsc{uv}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "polarity": "negative",
+        "src": "ma\u014bma\u014b  ni  si\u00f0a-un.",
+        "srcwordsbare": [
+            "ma\u014bma\u014b",
+            "ni",
+            "si\u00f0a-un."
+        ],
+        "srcwordshtml": [
+            "ma\u014bma\u014b",
+            "ni",
+            "si\u00f0a-un."
+        ],
+        "srcwordstex": [
+            "ma\u014bma\u014b",
+            "ni",
+            "si\u00f0a-un."
+        ],
+        "trs": "... a lot were not caught.",
+        "wlength": 3
+    },
+    {
+        "ID": "debusser-129851",
+        "categories": [
+            "caus",
+            "dyn",
+            "lv",
+            "prv"
+        ],
+        "clength": 35,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "can  \\textsc{caus}.\\textsc{dyn}-take-\\textsc{lv}-\\textsc{prv}  deer  wild.boar",
+        "imtwordsbare": [
+            "can",
+            "CAUS.DYN-take-LV-PRV",
+            "deer",
+            "wild.boar"
+        ],
+        "imtwordshtml": [
+            "can",
+            "<span class=\"sc\">caus</span>.<span class=\"sc\">dyn</span>-take-<span class=\"sc\">lv</span>-<span class=\"sc\">prv</span>",
+            "deer",
+            "wild.boar"
+        ],
+        "imtwordstex": [
+            "can",
+            "\\textsc{caus}.\\textsc{dyn}-take-\\textsc{lv}-\\textsc{prv}",
+            "deer",
+            "wild.boar"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "maqtu  pa-si\u00f0a-an-in  \u014babul  vanis.",
+        "srcwordsbare": [
+            "maqtu",
+            "pa-si\u00f0a-an-in",
+            "\u014babul",
+            "vanis."
+        ],
+        "srcwordshtml": [
+            "maqtu",
+            "pa-si\u00f0a-an-in",
+            "\u014babul",
+            "vanis."
+        ],
+        "srcwordstex": [
+            "maqtu",
+            "pa-si\u00f0a-an-in",
+            "\u014babul",
+            "vanis."
+        ],
+        "trs": "... and we could catch deer and wild boar.",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser-540871",
+        "categories": [
+            "dist",
+            "lv",
+            "obl",
+            "tpc",
+            "transfer"
+        ],
+        "clength": 80,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "this.here  people-\\textsc{dist}.\\textsc{obl}  leg  \\textsc{obl}  joint  \\textsc{tpc}  immediately  \\textsc{transfer}-strength-\\textsc{lv}",
+        "imtwordsbare": [
+            "this.here",
+            "people-DIST.OBL",
+            "leg",
+            "OBL",
+            "joint",
+            "TPC",
+            "immediately",
+            "TRANSFER-strength-LV"
+        ],
+        "imtwordshtml": [
+            "this.here",
+            "people-<span class=\"sc\">dist</span>.<span class=\"sc\">obl</span>",
+            "leg",
+            "<span class=\"sc\">obl</span>",
+            "joint",
+            "<span class=\"sc\">tpc</span>",
+            "immediately",
+            "<span class=\"sc\">transfer</span>-strength-<span class=\"sc\">lv</span>"
+        ],
+        "imtwordstex": [
+            "this.here",
+            "people-\\textsc{dist}.\\textsc{obl}",
+            "leg",
+            "\\textsc{obl}",
+            "joint",
+            "\\textsc{tpc}",
+            "immediately",
+            "\\textsc{transfer}-strength-\\textsc{lv}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "itu  \\textbf{bunun}-\u02a4ia  \\textbf{bantas}  mas  buhtu\u014b  hai  \u02a4insu  is-tamasa\u00f0-an",
+        "srcwordsbare": [
+            "itu",
+            "bunun-\u02a4ia",
+            "bantas",
+            "mas",
+            "buhtu\u014b",
+            "hai",
+            "\u02a4insu",
+            "is-tamasa\u00f0-an"
+        ],
+        "srcwordshtml": [
+            "itu",
+            "<span class=\"bf\">bunun</span>-\u02a4ia",
+            "<span class=\"bf\">bantas</span>",
+            "mas",
+            "buhtu\u014b",
+            "hai",
+            "\u02a4insu",
+            "is-tamasa\u00f0-an"
+        ],
+        "srcwordstex": [
+            "itu",
+            "\\textbf{bunun}-\u02a4ia",
+            "\\textbf{bantas}",
+            "mas",
+            "buhtu\u014b",
+            "hai",
+            "\u02a4insu",
+            "is-tamasa\u00f0-an"
+        ],
+        "trs": "This man here, his legs and joints immediately became powerful, \u2026",
+        "wlength": 8
+    },
+    {
+        "ID": "debusser-570156",
+        "categories": [
+            "prog"
+        ],
+        "clength": 29,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "first  \\textsc{prog}-have.prophetic.dream",
+        "imtwordsbare": [
+            "first",
+            "PROG-have.prophetic.dream"
+        ],
+        "imtwordshtml": [
+            "first",
+            "<span class=\"sc\">prog</span>-have.prophetic.dream"
+        ],
+        "imtwordstex": [
+            "first",
+            "\\textsc{prog}-have.prophetic.dream"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "ta\u014bus-a\u014b  mati-\\textbf{bahi}.",
+        "srcwordsbare": [
+            "ta\u014bus-a\u014b",
+            "mati-bahi."
+        ],
+        "srcwordshtml": [
+            "ta\u014bus-a\u014b",
+            "mati-<span class=\"bf\">bahi</span>."
+        ],
+        "srcwordstex": [
+            "ta\u014bus-a\u014b",
+            "mati-\\textbf{bahi}."
+        ],
+        "trs": "\u200e\u200e\u2026 they interpreted a prophetic dream beforehand.",
+        "wlength": 2
+    },
+    {
+        "ID": "debusser-461039",
+        "categories": [
+            "abl",
+            "compl",
+            "dem",
+            "nvis",
+            "s"
+        ],
+        "clength": 36,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{abl}-high.location  say  \\textsc{dem}.\\textsc{s}.\\textsc{nvis}  \\textsc{compl}",
+        "imtwordsbare": [
+            "ABL-high.location",
+            "say",
+            "DEM.S.NVIS",
+            "COMPL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">abl</span>-high.location",
+            "say",
+            "<span class=\"sc\">dem</span>.<span class=\"sc\">s</span>.<span class=\"sc\">nvis</span>",
+            "<span class=\"sc\">compl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{abl}-high.location",
+            "say",
+            "\\textsc{dem}.\\textsc{s}.\\textsc{nvis}",
+            "\\textsc{compl}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "mina-\\textbf{ba\u0294av}  tupa  naip  tu:",
+        "srcwordsbare": [
+            "mina-ba\u0294av",
+            "tupa",
+            "naip",
+            "tu:"
+        ],
+        "srcwordshtml": [
+            "mina-<span class=\"bf\">ba\u0294av</span>",
+            "tupa",
+            "naip",
+            "tu:"
+        ],
+        "srcwordstex": [
+            "mina-\\textbf{ba\u0294av}",
+            "tupa",
+            "naip",
+            "tu:"
+        ],
+        "trs": "\u2026 Tiang had returned, he had come back from the mountain and told us: \u2026",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser--32476",
+        "categories": [
+            "abl",
+            "compl",
+            "dem",
+            "nvis",
+            "s"
+        ],
+        "clength": 44,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{abl}-high.location  say  \\textsc{dem}.\\textsc{s}.\\textsc{nvis}  \\textsc{compl}",
+        "imtwordsbare": [
+            "ABL-high.location",
+            "say",
+            "DEM.S.NVIS",
+            "COMPL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">abl</span>-high.location",
+            "say",
+            "<span class=\"sc\">dem</span>.<span class=\"sc\">s</span>.<span class=\"sc\">nvis</span>",
+            "<span class=\"sc\">compl</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{abl}-high.location",
+            "say",
+            "\\textsc{dem}.\\textsc{s}.\\textsc{nvis}",
+            "\\textsc{compl}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "mina-\\textbf{ba\u0294av}  tupa  \\textbf{naip}  tu",
+        "srcwordsbare": [
+            "mina-ba\u0294av",
+            "tupa",
+            "naip",
+            "tu"
+        ],
+        "srcwordshtml": [
+            "mina-<span class=\"bf\">ba\u0294av</span>",
+            "tupa",
+            "<span class=\"bf\">naip</span>",
+            "tu"
+        ],
+        "srcwordstex": [
+            "mina-\\textbf{ba\u0294av}",
+            "tupa",
+            "\\textbf{naip}",
+            "tu"
+        ],
+        "trs": "But, when it wasn\u2019t really evening yet, Tiang had returned, he had come back from the mountain and told us: \u2026",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser-774820",
+        "categories": [
+            "anaph",
+            "dist",
+            "loc",
+            "lv",
+            "t",
+            "uv"
+        ],
+        "clength": 75,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "go.up-\\textsc{uv}  \\textsc{loc}{}-\\textsc{anaph}{}-\\textsc{lv}  high.location-\\textsc{t}.\\textsc{dist}  deer",
+        "imtwordsbare": [
+            "go.up-UV",
+            "LOC{}-ANAPH{}-LV",
+            "high.location-T.DIST",
+            "deer"
+        ],
+        "imtwordshtml": [
+            "go.up-<span class=\"sc\">uv</span>",
+            "<span class=\"sc\">loc</span>{}-<span class=\"sc\">anaph</span>{}-<span class=\"sc\">lv</span>",
+            "high.location-<span class=\"sc\">t</span>.<span class=\"sc\">dist</span>",
+            "deer"
+        ],
+        "imtwordstex": [
+            "go.up-\\textsc{uv}",
+            "\\textsc{loc}{}-\\textsc{anaph}{}-\\textsc{lv}",
+            "high.location-\\textsc{t}.\\textsc{dist}",
+            "deer"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "pinkaun-un  \\textbf{i-sia-an}  \\textbf{ba\u0294av}{}-\\textbf{ta}  \\textbf{\u014babul}",
+        "srcwordsbare": [
+            "pinkaun-un",
+            "i-sia-an",
+            "ba\u0294av{}-ta",
+            "\u014babul"
+        ],
+        "srcwordshtml": [
+            "pinkaun-un",
+            "<span class=\"bf\">i-sia-an</span>",
+            "<span class=\"bf\">ba\u0294av</span>{}-<span class=\"bf\">ta</span>",
+            "<span class=\"bf\">\u014babul</span>"
+        ],
+        "srcwordstex": [
+            "pinkaun-un",
+            "\\textbf{i-sia-an}",
+            "\\textbf{ba\u0294av}{}-\\textbf{ta}",
+            "\\textbf{\u014babul}"
+        ],
+        "time": "future",
+        "trs": "Well, tomorrow is possible, two of us will have to go together, and disperse when we get to this place, and we will climb upwards to the deer that is in that place above.",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser-584444",
+        "categories": [
+            "anaph",
+            "emo",
+            "neg",
+            "prt"
+        ],
+        "clength": 53,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "get.stuck-\\textsc{prt}-\\textsc{emo}  \\textsc{anaph}  \\textsc{neg}.have-\\textsc{prt}  route",
+        "imtwordsbare": [
+            "get.stuck-PRT-EMO",
+            "ANAPH",
+            "NEG.have-PRT",
+            "route"
+        ],
+        "imtwordshtml": [
+            "get.stuck-<span class=\"sc\">prt</span>-<span class=\"sc\">emo</span>",
+            "<span class=\"sc\">anaph</span>",
+            "<span class=\"sc\">neg</span>.have-<span class=\"sc\">prt</span>",
+            "route"
+        ],
+        "imtwordstex": [
+            "get.stuck-\\textsc{prt}-\\textsc{emo}",
+            "\\textsc{anaph}",
+            "\\textsc{neg}.have-\\textsc{prt}",
+            "route"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "saqnut-ai-du  \\textbf{sia}  \u0294uka-i  \\textbf{laqaiban}",
+        "srcwordsbare": [
+            "saqnut-ai-du",
+            "sia",
+            "\u0294uka-i",
+            "laqaiban"
+        ],
+        "srcwordshtml": [
+            "saqnut-ai-du",
+            "<span class=\"bf\">sia</span>",
+            "\u0294uka-i",
+            "<span class=\"bf\">laqaiban</span>"
+        ],
+        "srcwordstex": [
+            "saqnut-ai-du",
+            "\\textbf{sia}",
+            "\u0294uka-i",
+            "\\textbf{laqaiban}"
+        ],
+        "trs": "A, if he will go in that direction, he will get stuck there, without a way out.",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser-361016",
+        "categories": [
+            "lnk",
+            "prv"
+        ],
+        "clength": 28,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "thus  real  thus  say-\\textsc{prv}-\\textsc{lnk}",
+        "imtwordsbare": [
+            "thus",
+            "real",
+            "thus",
+            "say-PRV-LNK"
+        ],
+        "imtwordshtml": [
+            "thus",
+            "real",
+            "thus",
+            "say-<span class=\"sc\">prv</span>-<span class=\"sc\">lnk</span>"
+        ],
+        "imtwordstex": [
+            "thus",
+            "real",
+            "thus",
+            "say-\\textsc{prv}-\\textsc{lnk}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "aupa  tu\u00f0a  maupa  tupa-in-a",
+        "srcwordsbare": [
+            "aupa",
+            "tu\u00f0a",
+            "maupa",
+            "tupa-in-a"
+        ],
+        "srcwordshtml": [
+            "aupa",
+            "tu\u00f0a",
+            "maupa",
+            "tupa-in-a"
+        ],
+        "srcwordstex": [
+            "aupa",
+            "tu\u00f0a",
+            "maupa",
+            "tupa-in-a"
+        ],
+        "trs": "The track is coming from below, and there is no other way out, it really is like that, thus he told us.",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser-737247",
+        "categories": [
+            "3s",
+            "all",
+            "f",
+            "lnk",
+            "neg",
+            "prv",
+            "stat"
+        ],
+        "clength": 58,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{neg}-\\textsc{3s}.\\textsc{f}  \\textsc{stat}-morning-\\textsc{prv}  ?-\\textsc{all}-road-\\textsc{lnk}  embarrassed",
+        "imtwordsbare": [
+            "NEG-3S.F",
+            "STAT-morning-PRV",
+            "?-ALL-road-LNK",
+            "embarrassed"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>-<span class=\"sc\">3s</span>.<span class=\"sc\">f</span>",
+            "<span class=\"sc\">stat</span>-morning-<span class=\"sc\">prv</span>",
+            "?-<span class=\"sc\">all</span>-road-<span class=\"sc\">lnk</span>",
+            "embarrassed"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}-\\textsc{3s}.\\textsc{f}",
+            "\\textsc{stat}-morning-\\textsc{prv}",
+            "?-\\textsc{all}-road-\\textsc{lnk}",
+            "embarrassed"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "ni-\\textbf{is}  ma-\\textbf{ti\u014bmut}-in  ta-mu-dan-a  ma\u00f0\u0294av",
+        "srcwordsbare": [
+            "ni-is",
+            "ma-ti\u014bmut-in",
+            "ta-mu-dan-a",
+            "ma\u00f0\u0294av"
+        ],
+        "srcwordshtml": [
+            "ni-<span class=\"bf\">is</span>",
+            "ma-<span class=\"bf\">ti\u014bmut</span>-in",
+            "ta-mu-dan-a",
+            "ma\u00f0\u0294av"
+        ],
+        "srcwordstex": [
+            "ni-\\textbf{is}",
+            "ma-\\textbf{ti\u014bmut}-in",
+            "ta-mu-dan-a",
+            "ma\u00f0\u0294av"
+        ],
+        "trs": "But Big Atul forbade us: \u201cno, when it has become morning, we will leave, it is embarrassing.",
+        "wlength": 4
+    },
+    {
+        "ID": "debusser-592369",
+        "categories": [
+            "all",
+            "dem",
+            "dist",
+            "nvis",
+            "s"
+        ],
+        "clength": 41,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{all}-cause.to.move  \\textsc{dem}.\\textsc{s}.\\textsc{dist}.\\textsc{nvis}  night.time",
+        "imtwordsbare": [
+            "ALL-cause.to.move",
+            "DEM.S.DIST.NVIS",
+            "night.time"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">all</span>-cause.to.move",
+            "<span class=\"sc\">dem</span>.<span class=\"sc\">s</span>.<span class=\"sc\">dist</span>.<span class=\"sc\">nvis</span>",
+            "night.time"
+        ],
+        "imtwordstex": [
+            "\\textsc{all}-cause.to.move",
+            "\\textsc{dem}.\\textsc{s}.\\textsc{dist}.\\textsc{nvis}",
+            "night.time"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "polarity": "negative",
+        "src": "mu-isbai  \\textbf{naipa}  \\textbf{maqmut}",
+        "srcwordsbare": [
+            "mu-isbai",
+            "naipa",
+            "maqmut"
+        ],
+        "srcwordshtml": [
+            "mu-isbai",
+            "<span class=\"bf\">naipa</span>",
+            "<span class=\"bf\">maqmut</span>"
+        ],
+        "srcwordstex": [
+            "mu-isbai",
+            "\\textbf{naipa}",
+            "\\textbf{maqmut}"
+        ],
+        "trs": "Well, it will not be there anymore, it will be gone, it will have run away during the night.",
+        "wlength": 3
+    },
+    {
+        "ID": "debusser-414349",
+        "categories": [
+            "prog"
+        ],
+        "clength": 28,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "first  \\textsc{prog}{}-have.prophetic.dream",
+        "imtwordsbare": [
+            "first",
+            "PROG{}-have.prophetic.dream"
+        ],
+        "imtwordshtml": [
+            "first",
+            "<span class=\"sc\">prog</span>{}-have.prophetic.dream"
+        ],
+        "imtwordstex": [
+            "first",
+            "\\textsc{prog}{}-have.prophetic.dream"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "modality": "volitive",
+        "src": "ta\u014bus-a\u014b  mati-\\textbf{bahi}",
+        "srcwordsbare": [
+            "ta\u014bus-a\u014b",
+            "mati-bahi"
+        ],
+        "srcwordshtml": [
+            "ta\u014bus-a\u014b",
+            "mati-<span class=\"bf\">bahi</span>"
+        ],
+        "srcwordstex": [
+            "ta\u014bus-a\u014b",
+            "mati-\\textbf{bahi}"
+        ],
+        "trs": "\u200e\u200eIf in the old days the elders said they wanted to work on the land, they interpreted a prophetic dream beforehand.",
+        "wlength": 2
+    },
+    {
+        "ID": "debusser-448212",
+        "categories": [
+            "cv",
+            "irr",
+            "stat",
+            "uv"
+        ],
+        "clength": 28,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "be.able  \\textsc{irr}-\\textsc{stat}-good  \\textsc{cv}-eat-\\textsc{uv}",
+        "imtwordsbare": [
+            "be.able",
+            "IRR-STAT-good",
+            "CV-eat-UV"
+        ],
+        "imtwordshtml": [
+            "be.able",
+            "<span class=\"sc\">irr</span>-<span class=\"sc\">stat</span>-good",
+            "<span class=\"sc\">cv</span>-eat-<span class=\"sc\">uv</span>"
+        ],
+        "imtwordstex": [
+            "be.able",
+            "\\textsc{irr}-\\textsc{stat}-good",
+            "\\textsc{cv}-eat-\\textsc{uv}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "modality": "volitive",
+        "src": "asa  na-ma-sihal  ka-kaun-un",
+        "srcwordsbare": [
+            "asa",
+            "na-ma-sihal",
+            "ka-kaun-un"
+        ],
+        "srcwordshtml": [
+            "asa",
+            "na-ma-sihal",
+            "ka-kaun-un"
+        ],
+        "srcwordstex": [
+            "asa",
+            "na-ma-sihal",
+            "ka-kaun-un"
+        ],
+        "trs": "And when they wanted to go there to harvest (lit: when they wanted to cut off things in that place), if the dream was good, that meant in those days that if you were there, you could eat very well.",
+        "wlength": 3
+    },
+    {
+        "ID": "debusser-241339",
+        "categories": [],
+        "clength": 16,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "well  have  die",
+        "imtwordsbare": [
+            "well",
+            "have",
+            "die"
+        ],
+        "imtwordshtml": [
+            "well",
+            "have",
+            "die"
+        ],
+        "imtwordstex": [
+            "well",
+            "have",
+            "die"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "polarity": "negative",
+        "src": "na  hai\u00f0a  mata\u00f0",
+        "srcwordsbare": [
+            "na",
+            "hai\u00f0a",
+            "mata\u00f0"
+        ],
+        "srcwordshtml": [
+            "na",
+            "hai\u00f0a",
+            "mata\u00f0"
+        ],
+        "srcwordstex": [
+            "na",
+            "hai\u00f0a",
+            "mata\u00f0"
+        ],
+        "trs": "And if the dream was bad, then they said that you must not go there, because otherwise you would not eat well, if you followed the rule, but if anyone at all went back to that place to work, and there was a bad dream, people would die.",
+        "wlength": 3
+    },
+    {
+        "ID": "debusser-260764",
+        "categories": [
+            "irr",
+            "lnk",
+            "stat"
+        ],
+        "clength": 29,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{irr}-\\textsc{stat}-good-\\textsc{lnk}  people",
+        "imtwordsbare": [
+            "IRR-STAT-good-LNK",
+            "people"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">irr</span>-<span class=\"sc\">stat</span>-good-<span class=\"sc\">lnk</span>",
+            "people"
+        ],
+        "imtwordstex": [
+            "\\textsc{irr}-\\textsc{stat}-good-\\textsc{lnk}",
+            "people"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "na-ma-sihal-a  \\textbf{bunun}",
+        "srcwordsbare": [
+            "na-ma-sihal-a",
+            "bunun"
+        ],
+        "srcwordshtml": [
+            "na-ma-sihal-a",
+            "<span class=\"bf\">bunun</span>"
+        ],
+        "srcwordstex": [
+            "na-ma-sihal-a",
+            "\\textbf{bunun}"
+        ],
+        "trs": "And if they dreamt\u2026 if the elders dreamt that, if they went over there, they suddenly dreamt that they saw that the plum tree had grown so that it was full of fruits and had large fruits, then the elders would say that it was permitted for them to the land to work, and they would produce good fruits, and the people would also be fine.",
+        "wlength": 2
+    },
+    {
+        "ID": "debusser--72062",
+        "categories": [
+            "obl",
+            "tpc"
+        ],
+        "clength": 90,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "Peter  \\textsc{obl}  John  \\textsc{tpc}  use  holy  temple",
+        "imtwordsbare": [
+            "Peter",
+            "OBL",
+            "John",
+            "TPC",
+            "use",
+            "holy",
+            "temple"
+        ],
+        "imtwordshtml": [
+            "Peter",
+            "<span class=\"sc\">obl</span>",
+            "John",
+            "<span class=\"sc\">tpc</span>",
+            "use",
+            "holy",
+            "temple"
+        ],
+        "imtwordstex": [
+            "Peter",
+            "\\textsc{obl}",
+            "John",
+            "\\textsc{tpc}",
+            "use",
+            "holy",
+            "temple"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "\\textbf{Pitilu}  mas  \\textbf{Iuhani}  hai  kusia  \\textbf{masani\u014bsi\u014b} \\textbf{pisva\u014bduan}",
+        "srcwordsbare": [
+            "Pitilu",
+            "mas",
+            "Iuhani",
+            "hai",
+            "kusia",
+            "masani\u014bsi\u014b",
+            "pisva\u014bduan"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">Pitilu</span>",
+            "mas",
+            "<span class=\"bf\">Iuhani</span>",
+            "hai",
+            "kusia",
+            "<span class=\"bf\">masani\u014bsi\u014b</span>",
+            "<span class=\"bf\">pisva\u014bduan</span>"
+        ],
+        "srcwordstex": [
+            "\\textbf{Pitilu}",
+            "mas",
+            "\\textbf{Iuhani}",
+            "hai",
+            "kusia",
+            "\\textbf{masani\u014bsi\u014b}",
+            "\\textbf{pisva\u014bduan}"
+        ],
+        "trs": "There was a day, when it was three at noon, that Peter and John were using the Holy Temple.",
+        "wlength": 7
+    },
+    {
+        "ID": "debusser--57619",
+        "categories": [
+            "all",
+            "anaph",
+            "assoc",
+            "attr",
+            "dyn",
+            "irr",
+            "obl",
+            "red"
+        ],
+        "clength": 114,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{dyn}-\\textsc{red}-give  \\textsc{obl}  \\textsc{irr}-\\textsc{assoc}.\\textsc{all}-lower  \\textsc{anaph}  holy  temple  \\textsc{attr}  person",
+        "imtwordsbare": [
+            "DYN-RED-give",
+            "OBL",
+            "IRR-ASSOC.ALL-lower",
+            "ANAPH",
+            "holy",
+            "temple",
+            "ATTR",
+            "person"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">dyn</span>-<span class=\"sc\">red</span>-give",
+            "<span class=\"sc\">obl</span>",
+            "<span class=\"sc\">irr</span>-<span class=\"sc\">assoc</span>.<span class=\"sc\">all</span>-lower",
+            "<span class=\"sc\">anaph</span>",
+            "holy",
+            "temple",
+            "<span class=\"sc\">attr</span>",
+            "person"
+        ],
+        "imtwordstex": [
+            "\\textsc{dyn}-\\textsc{red}-give",
+            "\\textsc{obl}",
+            "\\textsc{irr}-\\textsc{assoc}.\\textsc{all}-lower",
+            "\\textsc{anaph}",
+            "holy",
+            "temple",
+            "\\textsc{attr}",
+            "person"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "ma-ki-kisaiv  mas  na-ku-\\textbf{\u014badah}  \\textbf{sia}  \\textbf{masani\u014bsi\u014b} \\textbf{pisva\u014bduan}  tu  \\textbf{bunun}",
+        "srcwordsbare": [
+            "ma-ki-kisaiv",
+            "mas",
+            "na-ku-\u014badah",
+            "sia",
+            "masani\u014bsi\u014b",
+            "pisva\u014bduan",
+            "tu",
+            "bunun"
+        ],
+        "srcwordshtml": [
+            "ma-ki-kisaiv",
+            "mas",
+            "na-ku-<span class=\"bf\">\u014badah</span>",
+            "<span class=\"bf\">sia</span>",
+            "<span class=\"bf\">masani\u014bsi\u014b</span>",
+            "<span class=\"bf\">pisva\u014bduan</span>",
+            "tu",
+            "<span class=\"bf\">bunun</span>"
+        ],
+        "srcwordstex": [
+            "ma-ki-kisaiv",
+            "mas",
+            "na-ku-\\textbf{\u014badah}",
+            "\\textbf{sia}",
+            "\\textbf{masani\u014bsi\u014b}",
+            "\\textbf{pisva\u014bduan}",
+            "tu",
+            "\\textbf{bunun}"
+        ],
+        "trs": "At what was called the Beautiful Gate, there was one man who was cripple from birth, and people carried him every day and put them at that door, and he begged to people that went down into the Holy Temple.",
+        "wlength": 8
+    },
+    {
+        "ID": "debusser-324601",
+        "categories": [
+            "3p",
+            "obj"
+        ],
+        "clength": 29,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "and  make.give  \\textsc{3p}.\\textsc{obj}",
+        "imtwordsbare": [
+            "and",
+            "make.give",
+            "3P.OBJ"
+        ],
+        "imtwordshtml": [
+            "and",
+            "make.give",
+            "<span class=\"sc\">3p</span>.<span class=\"sc\">obj</span>"
+        ],
+        "imtwordstex": [
+            "and",
+            "make.give",
+            "\\textsc{3p}.\\textsc{obj}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "at  makisaiv  \\textbf{nai\u02a4ia}",
+        "srcwordsbare": [
+            "at",
+            "makisaiv",
+            "nai\u02a4ia"
+        ],
+        "srcwordshtml": [
+            "at",
+            "makisaiv",
+            "<span class=\"bf\">nai\u02a4ia</span>"
+        ],
+        "srcwordstex": [
+            "at",
+            "makisaiv",
+            "\\textbf{nai\u02a4ia}"
+        ],
+        "trs": "He saw that Peter and John were about to enter the Holy Temple and made them give (money) [tried to ask them for money].",
+        "wlength": 3
+    },
+    {
+        "ID": "debusser-873476",
+        "categories": [
+            "1e",
+            "2s",
+            "dyn",
+            "lnk",
+            "nom",
+            "obl"
+        ],
+        "clength": 39,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "see-\\textsc{lnk}  \\textsc{2s}.\\textsc{nom}  \\textsc{dyn}-\\textsc{1e}.\\textsc{obl}",
+        "imtwordsbare": [
+            "see-LNK",
+            "2S.NOM",
+            "DYN-1E.OBL"
+        ],
+        "imtwordshtml": [
+            "see-<span class=\"sc\">lnk</span>",
+            "<span class=\"sc\">2s</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">dyn</span>-<span class=\"sc\">1e</span>.<span class=\"sc\">obl</span>"
+        ],
+        "imtwordstex": [
+            "see-\\textsc{lnk}",
+            "\\textsc{2s}.\\textsc{nom}",
+            "\\textsc{dyn}-\\textsc{1e}.\\textsc{obl}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "sadu-a  \\textbf{kasu}  ma-\\textbf{\u00f0ami}",
+        "srcwordsbare": [
+            "sadu-a",
+            "kasu",
+            "ma-\u00f0ami"
+        ],
+        "srcwordshtml": [
+            "sadu-a",
+            "<span class=\"bf\">kasu</span>",
+            "ma-<span class=\"bf\">\u00f0ami</span>"
+        ],
+        "srcwordstex": [
+            "sadu-a",
+            "\\textbf{kasu}",
+            "ma-\\textbf{\u00f0ami}"
+        ],
+        "trs": "They looked straight at him, and Peter said as follows: \u201cYou look at us!\u201d",
+        "wlength": 3
+    },
+    {
+        "ID": "debusser-803569",
+        "categories": [
+            "able",
+            "lv",
+            "to"
+        ],
+        "clength": 31,
+        "filename": "201/chapters/debusser.tex",
+        "imt": "want  \\textsc{able.to}-take-\\textsc{lv}  which.things",
+        "imtwordsbare": [
+            "want",
+            "able.to-take-LV",
+            "which.things"
+        ],
+        "imtwordshtml": [
+            "want",
+            "<span class=\"sc\">able.to</span>-take-<span class=\"sc\">lv</span>",
+            "which.things"
+        ],
+        "imtwordstex": [
+            "want",
+            "\\textsc{able.to}-take-\\textsc{lv}",
+            "which.things"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "modality": "volitive",
+        "src": "asa  u-si\u00f0a-an  \\textbf{ma\u00f0ma\u00f0}",
+        "srcwordsbare": [
+            "asa",
+            "u-si\u00f0a-an",
+            "ma\u00f0ma\u00f0"
+        ],
+        "srcwordshtml": [
+            "asa",
+            "u-si\u00f0a-an",
+            "<span class=\"bf\">ma\u00f0ma\u00f0</span>"
+        ],
+        "srcwordstex": [
+            "asa",
+            "u-si\u00f0a-an",
+            "\\textbf{ma\u00f0ma\u00f0}"
+        ],
+        "trs": "He looked straigth at them, he wanted to be able to get something from them.",
+        "wlength": 3
+    },
+    {
+        "ID": "debusser--70079",
+        "categories": [
+            "all",
+            "lnk"
+        ],
+        "clength": 19,
+        "coordination": "or",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "stand.up-\\textsc{lnk}  \\textsc{all}-go",
+        "imtwordsbare": [
+            "stand.up-LNK",
+            "ALL-go"
+        ],
+        "imtwordshtml": [
+            "stand.up-<span class=\"sc\">lnk</span>",
+            "<span class=\"sc\">all</span>-go"
+        ],
+        "imtwordstex": [
+            "stand.up-\\textsc{lnk}",
+            "\\textsc{all}-go"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "polarity": "negative",
+        "src": "minda\u014bka\u00f0-a  mu-dan",
+        "srcwordsbare": [
+            "minda\u014bka\u00f0-a",
+            "mu-dan"
+        ],
+        "srcwordshtml": [
+            "minda\u014bka\u00f0-a",
+            "mu-dan"
+        ],
+        "srcwordstex": [
+            "minda\u014bka\u00f0-a",
+            "mu-dan"
+        ],
+        "trs": "Peter told him: \u201cI do not have gold or money here, but I will give you everything I have here. I use the name of Jesus Christ who comes from Nazareth to tell you: stand up and walk.\u201d",
+        "wlength": 2
+    },
+    {
+        "ID": "debusser--73681",
+        "categories": [
+            "3s",
+            "obl"
+        ],
+        "clength": 26,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "?-stand  \\textsc{3s}.\\textsc{obl}",
+        "imtwordsbare": [
+            "?-stand",
+            "3S.OBL"
+        ],
+        "imtwordshtml": [
+            "?-stand",
+            "<span class=\"sc\">3s</span>.<span class=\"sc\">obl</span>"
+        ],
+        "imtwordstex": [
+            "?-stand",
+            "\\textsc{3s}.\\textsc{obl}"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "si-da\u014bka\u00f0  \\textbf{sai\u02a4ia}",
+        "srcwordsbare": [
+            "si-da\u014bka\u00f0",
+            "sai\u02a4ia"
+        ],
+        "srcwordshtml": [
+            "si-da\u014bka\u00f0",
+            "<span class=\"bf\">sai\u02a4ia</span>"
+        ],
+        "srcwordstex": [
+            "si-da\u014bka\u00f0",
+            "\\textbf{sai\u02a4ia}"
+        ],
+        "trs": "Peter led him by the right hand, and helped him to stand.",
+        "wlength": 2
+    },
+    {
+        "ID": "debusser--82011",
+        "categories": [
+            "all",
+            "red"
+        ],
+        "clength": 44,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "and  jump  stand  begin  \\textsc{all}-\\textsc{red}-road",
+        "imtwordsbare": [
+            "and",
+            "jump",
+            "stand",
+            "begin",
+            "ALL-RED-road"
+        ],
+        "imtwordshtml": [
+            "and",
+            "jump",
+            "stand",
+            "begin",
+            "<span class=\"sc\">all</span>-<span class=\"sc\">red</span>-road"
+        ],
+        "imtwordstex": [
+            "and",
+            "jump",
+            "stand",
+            "begin",
+            "\\textsc{all}-\\textsc{red}-road"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "at  mataida\u00f0a  matuduldul  kit\u014bab  mu-da-dan",
+        "srcwordsbare": [
+            "at",
+            "mataida\u00f0a",
+            "matuduldul",
+            "kit\u014bab",
+            "mu-da-dan"
+        ],
+        "srcwordshtml": [
+            "at",
+            "mataida\u00f0a",
+            "matuduldul",
+            "kit\u014bab",
+            "mu-da-dan"
+        ],
+        "srcwordstex": [
+            "at",
+            "mataida\u00f0a",
+            "matuduldul",
+            "kit\u014bab",
+            "mu-da-dan"
+        ],
+        "trs": "This man here, his legs and joints immediately became powerful, and he jumped up and stood, and he began to walk.",
+        "wlength": 5
+    },
+    {
+        "ID": "debusser-516809",
+        "categories": [
+            "3s",
+            "anaph",
+            "attr",
+            "nom",
+            "see",
+            "tpc"
+        ],
+        "clength": 160,
+        "coordination": "and",
+        "filename": "201/chapters/debusser.tex",
+        "imt": "\\textsc{3s.nom}  \\textsc{tpc}  have.origins.in-\\textsc{anaph}  holy  temple  \\textsc{attr}  beautiful  door  sit.down  \\textsc{see}{}-beg  \\textsc{attr}  person",
+        "imtwordsbare": [
+            "3s.nom",
+            "TPC",
+            "have.origins.in-ANAPH",
+            "holy",
+            "temple",
+            "ATTR",
+            "beautiful",
+            "door",
+            "sit.down",
+            "SEE{}-beg",
+            "ATTR",
+            "person"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3s.nom</span>",
+            "<span class=\"sc\">tpc</span>",
+            "have.origins.in-<span class=\"sc\">anaph</span>",
+            "holy",
+            "temple",
+            "<span class=\"sc\">attr</span>",
+            "beautiful",
+            "door",
+            "sit.down",
+            "<span class=\"sc\">see</span>{}-beg",
+            "<span class=\"sc\">attr</span>",
+            "person"
+        ],
+        "imtwordstex": [
+            "\\textsc{3s.nom}",
+            "\\textsc{tpc}",
+            "have.origins.in-\\textsc{anaph}",
+            "holy",
+            "temple",
+            "\\textsc{attr}",
+            "beautiful",
+            "door",
+            "sit.down",
+            "\\textsc{see}{}-beg",
+            "\\textsc{attr}",
+            "person"
+        ],
+        "language": "201/chapters/debusser.tex",
+        "src": "\\textbf{saia}  hai  taki-\\textbf{sia}  \\textbf{masani\u014bsi\u014b} \\textbf{pisva\u014bduan}  tu  \\textbf{manau\u0294a\u00f0} \\textbf{\u0294ilav}  mal\u0294anuhu  sa-makisaiv  tu  \\textbf{bunun}",
+        "srcwordsbare": [
+            "saia",
+            "hai",
+            "taki-sia",
+            "masani\u014bsi\u014b",
+            "pisva\u014bduan",
+            "tu",
+            "manau\u0294a\u00f0",
+            "\u0294ilav",
+            "mal\u0294anuhu",
+            "sa-makisaiv",
+            "tu",
+            "bunun"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">saia</span>",
+            "hai",
+            "taki-<span class=\"bf\">sia</span>",
+            "<span class=\"bf\">masani\u014bsi\u014b</span>",
+            "<span class=\"bf\">pisva\u014bduan</span>",
+            "tu",
+            "<span class=\"bf\">manau\u0294a\u00f0</span>",
+            "<span class=\"bf\">\u0294ilav</span>",
+            "mal\u0294anuhu",
+            "sa-makisaiv",
+            "tu",
+            "<span class=\"bf\">bunun</span>"
+        ],
+        "srcwordstex": [
+            "\\textbf{saia}",
+            "hai",
+            "taki-\\textbf{sia}",
+            "\\textbf{masani\u014bsi\u014b}",
+            "\\textbf{pisva\u014bduan}",
+            "tu",
+            "\\textbf{manau\u0294a\u00f0}",
+            "\\textbf{\u0294ilav}",
+            "mal\u0294anuhu",
+            "sa-makisaiv",
+            "tu",
+            "\\textbf{bunun}"
+        ],
+        "trs": "People saw him walk, and thank God, and they were startled, because they recognized him as the man that used to beg sitting down at the Beautiful Door that was the entrance to the Holy Temple.",
+        "wlength": 12
+    }
+]

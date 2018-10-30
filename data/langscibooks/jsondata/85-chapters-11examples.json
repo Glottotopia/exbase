@@ -1,0 +1,3662 @@
+[
+    {
+        "ID": "11--86803",
+        "categories": [
+            "2sg",
+            "3sg",
+            "neg",
+            "obj"
+        ],
+        "clength": 38,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}    carry=\\textsc{3sg.obj}  \\textsc{2sg}  \\textsc{neg}  go  hospital",
+        "imtwordsbare": [
+            "2SG",
+            "carry=3sg.obj",
+            "2SG",
+            "NEG",
+            "go",
+            "hospital"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "carry=<span class=\"sc\">3sg.obj</span>",
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">neg</span>",
+            "go",
+            "hospital"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "carry=\\textsc{3sg.obj}",
+            "\\textsc{2sg}",
+            "\\textsc{neg}",
+            "go",
+            "hospital"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu    k\u025b\u0301r=an    yu  n\u00f3  g\u00f3  hospital?",
+        "srcwordsbare": [
+            "Yu",
+            "k\u025b\u0301r=an",
+            "yu",
+            "n\u00f3",
+            "g\u00f3",
+            "hospital?"
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "k\u025b\u0301r=an",
+            "yu",
+            "n\u00f3",
+            "g\u00f3",
+            "hospital?"
+        ],
+        "srcwordstex": [
+            "Yu",
+            "k\u025b\u0301r=an",
+            "yu",
+            "n\u00f3",
+            "g\u00f3",
+            "hospital?"
+        ],
+        "trs": "*Didn\u2019t you take him to hospital? [pa07me 006]",
+        "wlength": 6
+    },
+    {
+        "ID": "11-494287",
+        "categories": [
+            "2sg",
+            "3sg",
+            "neg",
+            "obj"
+        ],
+        "clength": 32,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  \\textsc{neg}  carry=\\textsc{3sg.obj}  go  hospital",
+        "imtwordsbare": [
+            "2SG",
+            "NEG",
+            "carry=3sg.obj",
+            "go",
+            "hospital"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">neg</span>",
+            "carry=<span class=\"sc\">3sg.obj</span>",
+            "go",
+            "hospital"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "\\textsc{neg}",
+            "carry=\\textsc{3sg.obj}",
+            "go",
+            "hospital"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu  n\u00f3  k\u025b\u0301r=an    g\u00f3  hospital?",
+        "srcwordsbare": [
+            "Yu",
+            "n\u00f3",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "hospital?"
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "n\u00f3",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "hospital?"
+        ],
+        "srcwordstex": [
+            "Yu",
+            "n\u00f3",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "hospital?"
+        ],
+        "trs": "Didn\u2019t you take him to hospital?\u2019 [pa07me 005]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--31940",
+        "categories": [
+            "2sg",
+            "3sg",
+            "ipfv",
+            "neg",
+            "obj"
+        ],
+        "clength": 36,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  \\textsc{ipfv}  carry=\\textsc{3sg.obj}  \\textsc{neg}  go  hospital",
+        "imtwordsbare": [
+            "2SG",
+            "IPFV",
+            "carry=3sg.obj",
+            "NEG",
+            "go",
+            "hospital"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "carry=<span class=\"sc\">3sg.obj</span>",
+            "<span class=\"sc\">neg</span>",
+            "go",
+            "hospital"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "\\textsc{ipfv}",
+            "carry=\\textsc{3sg.obj}",
+            "\\textsc{neg}",
+            "go",
+            "hospital"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu  de  k\u025b\u0301r=an    de  g\u00f3  hospital.",
+        "srcwordsbare": [
+            "Yu",
+            "de",
+            "k\u025b\u0301r=an",
+            "de",
+            "g\u00f3",
+            "hospital."
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "de",
+            "k\u025b\u0301r=an",
+            "de",
+            "g\u00f3",
+            "hospital."
+        ],
+        "srcwordstex": [
+            "Yu",
+            "de",
+            "k\u025b\u0301r=an",
+            "de",
+            "g\u00f3",
+            "hospital."
+        ],
+        "trs": "You\u2019re carrying him while going to the hospital.\u2019 [pa07me 009]",
+        "wlength": 6
+    },
+    {
+        "ID": "11--40398",
+        "categories": [
+            "1sg",
+            "3sg",
+            "loc",
+            "obj",
+            "sbj"
+        ],
+        "clength": 34,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  carry=\\textsc{3sg.obj}    go  \\textsc{loc}  dining-room",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "carry=3sg.obj",
+            "go",
+            "LOC",
+            "dining-room"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "carry=<span class=\"sc\">3sg.obj</span>",
+            "go",
+            "<span class=\"sc\">loc</span>",
+            "dining-room"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "carry=\\textsc{3sg.obj}",
+            "go",
+            "\\textsc{loc}",
+            "dining-room"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    k\u025b\u0301r=an      g\u00f3  na  comedor.",
+        "srcwordsbare": [
+            "A",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "na",
+            "comedor."
+        ],
+        "srcwordshtml": [
+            "A",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "na",
+            "comedor."
+        ],
+        "srcwordstex": [
+            "A",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "na",
+            "comedor."
+        ],
+        "trs": "I carried him to the dining-room.\u2019 [ab03ab 091]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--36894",
+        "categories": [
+            "2sg",
+            "def",
+            "prep"
+        ],
+        "clength": 43,
+        "coordination": "and",
+        "filename": "85/chapters/11.tex",
+        "imt": "take    \\textsc{def}  car    \\textsc{2sg}  bring  come  \\textsc{prep}  here",
+        "imtwordsbare": [
+            "take",
+            "DEF",
+            "car",
+            "2SG",
+            "bring",
+            "come",
+            "PREP",
+            "here"
+        ],
+        "imtwordshtml": [
+            "take",
+            "<span class=\"sc\">def</span>",
+            "car",
+            "<span class=\"sc\">2sg</span>",
+            "bring",
+            "come",
+            "<span class=\"sc\">prep</span>",
+            "here"
+        ],
+        "imtwordstex": [
+            "take",
+            "\\textsc{def}",
+            "car",
+            "\\textsc{2sg}",
+            "bring",
+            "come",
+            "\\textsc{prep}",
+            "here"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "K\u025b\u0301r    di  mot\u00f3  yu  br\u00edng  k\u00e1n    f\u0254  y\u00e1.",
+        "srcwordsbare": [
+            "K\u025b\u0301r",
+            "di",
+            "mot\u00f3",
+            "yu",
+            "br\u00edng",
+            "k\u00e1n",
+            "f\u0254",
+            "y\u00e1."
+        ],
+        "srcwordshtml": [
+            "K\u025b\u0301r",
+            "di",
+            "mot\u00f3",
+            "yu",
+            "br\u00edng",
+            "k\u00e1n",
+            "f\u0254",
+            "y\u00e1."
+        ],
+        "srcwordstex": [
+            "K\u025b\u0301r",
+            "di",
+            "mot\u00f3",
+            "yu",
+            "br\u00edng",
+            "k\u00e1n",
+            "f\u0254",
+            "y\u00e1."
+        ],
+        "trs": "Take the car and bring it here.\u2019 [ro05de 036]",
+        "wlength": 8
+    },
+    {
+        "ID": "11-410190",
+        "categories": [
+            "3pl",
+            "loc"
+        ],
+        "clength": 51,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}  run    \\textsc{loc}  pharmacy  prescription  of  medicine",
+        "imtwordsbare": [
+            "3PL",
+            "run",
+            "LOC",
+            "pharmacy",
+            "prescription",
+            "of",
+            "medicine"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "run",
+            "<span class=\"sc\">loc</span>",
+            "pharmacy",
+            "prescription",
+            "of",
+            "medicine"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "run",
+            "\\textsc{loc}",
+            "pharmacy",
+            "prescription",
+            "of",
+            "medicine"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn  r\u0254\u0301n    na  farmacia,  receta    de  m\u025b\u0301r\u025bsin.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "r\u0254\u0301n",
+            "na",
+            "farmacia,",
+            "receta",
+            "de",
+            "m\u025b\u0301r\u025bsin."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "r\u0254\u0301n",
+            "na",
+            "farmacia,",
+            "receta",
+            "de",
+            "m\u025b\u0301r\u025bsin."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "r\u0254\u0301n",
+            "na",
+            "farmacia,",
+            "receta",
+            "de",
+            "m\u025b\u0301r\u025bsin."
+        ],
+        "trs": "They ran to the pharmacy, (to get a) prescription for medicine.\u2019 [ab03ab 123]",
+        "wlength": 7
+    },
+    {
+        "ID": "11--24569",
+        "categories": [
+            "1sg",
+            "poss",
+            "pot",
+            "sbj"
+        ],
+        "clength": 105,
+        "filename": "85/chapters/11.tex",
+        "imt": "after  tomorrow  \\textsc{1sg.sbj}  \\textsc{pot}  go  see  \\textsc{1sg.poss}  mother",
+        "imtwordsbare": [
+            "after",
+            "tomorrow",
+            "1sg.sbj",
+            "POT",
+            "go",
+            "see",
+            "1sg.poss",
+            "mother"
+        ],
+        "imtwordshtml": [
+            "after",
+            "tomorrow",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">pot</span>",
+            "go",
+            "see",
+            "<span class=\"sc\">1sg.poss</span>",
+            "mother"
+        ],
+        "imtwordstex": [
+            "after",
+            "tomorrow",
+            "\\textsc{1sg.sbj}",
+            "\\textsc{pot}",
+            "go",
+            "see",
+            "\\textsc{1sg.poss}",
+            "mother"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "\\'{A}p\u00e1s  tum\u0254\u0301ro    a    go  \\textstylePichiexamplebold{g\u00f3}  \\textstylePichiexamplebold{s\u00ed}  mi    mam\u00e1.",
+        "srcwordsbare": [
+            "\\'{A}p\u00e1s",
+            "tum\u0254\u0301ro",
+            "a",
+            "go",
+            "g\u00f3",
+            "s\u00ed",
+            "mi",
+            "mam\u00e1."
+        ],
+        "srcwordshtml": [
+            "\\'{A}p\u00e1s",
+            "tum\u0254\u0301ro",
+            "a",
+            "go",
+            "<span class=\"stylePichiexamplebold\">g\u00f3</span>",
+            "<span class=\"stylePichiexamplebold\">s\u00ed</span>",
+            "mi",
+            "mam\u00e1."
+        ],
+        "srcwordstex": [
+            "\\'{A}p\u00e1s",
+            "tum\u0254\u0301ro",
+            "a",
+            "go",
+            "\\textstylePichiexamplebold{g\u00f3}",
+            "\\textstylePichiexamplebold{s\u00ed}",
+            "mi",
+            "mam\u00e1."
+        ],
+        "trs": "After tomorrow, I will go see my mother.\u2019 [ro05ee 131]",
+        "wlength": 8
+    },
+    {
+        "ID": "11--77087",
+        "categories": [
+            "2sg",
+            "3sg",
+            "obj"
+        ],
+        "clength": 78,
+        "coordination": "and",
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  come  \\textsc{2sg}  remove=\\textsc{3sg.obj}",
+        "imtwordsbare": [
+            "2SG",
+            "come",
+            "2SG",
+            "remove=3sg.obj"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "come",
+            "<span class=\"sc\">2sg</span>",
+            "remove=<span class=\"sc\">3sg.obj</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "come",
+            "\\textsc{2sg}",
+            "remove=\\textsc{3sg.obj}"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu  \\textstylePichiexamplebold{k\u00e1n}    yu  \\textstylePichiexamplebold{p\u00fal}=an.",
+        "srcwordsbare": [
+            "Yu",
+            "k\u00e1n",
+            "yu",
+            "p\u00fal=an."
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "<span class=\"stylePichiexamplebold\">k\u00e1n</span>",
+            "yu",
+            "<span class=\"stylePichiexamplebold\">p\u00fal</span>=an."
+        ],
+        "srcwordstex": [
+            "Yu",
+            "\\textstylePichiexamplebold{k\u00e1n}",
+            "yu",
+            "\\textstylePichiexamplebold{p\u00fal}=an."
+        ],
+        "trs": "You came and removed it.\u2019 [ro05ee 094]",
+        "wlength": 4
+    },
+    {
+        "ID": "11--26148",
+        "categories": [
+            "1sg",
+            "3sg",
+            "foc",
+            "indp",
+            "ipfv",
+            "sbj"
+        ],
+        "clength": 105,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{foc}  \\textsc{3sg.indp}  \\textsc{3sg.sbj}  \\textsc{ipfv}  come  remove  \\textsc{1sg.indp}  that  story",
+        "imtwordsbare": [
+            "FOC",
+            "3sg.indp",
+            "3sg.sbj",
+            "IPFV",
+            "come",
+            "remove",
+            "1sg.indp",
+            "that",
+            "story"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">foc</span>",
+            "<span class=\"sc\">3sg.indp</span>",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "come",
+            "remove",
+            "<span class=\"sc\">1sg.indp</span>",
+            "that",
+            "story"
+        ],
+        "imtwordstex": [
+            "\\textsc{foc}",
+            "\\textsc{3sg.indp}",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{ipfv}",
+            "come",
+            "remove",
+            "\\textsc{1sg.indp}",
+            "that",
+            "story"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Na  \u00edn    e    \\textstylePichiexamplebold{de}  \\textstylePichiexamplebold{k\u00e1n}    p\u00fal    m\u00ed    d\u00e1n  tor\u00ed.",
+        "srcwordsbare": [
+            "Na",
+            "\u00edn",
+            "e",
+            "de",
+            "k\u00e1n",
+            "p\u00fal",
+            "m\u00ed",
+            "d\u00e1n",
+            "tor\u00ed."
+        ],
+        "srcwordshtml": [
+            "Na",
+            "\u00edn",
+            "e",
+            "<span class=\"stylePichiexamplebold\">de</span>",
+            "<span class=\"stylePichiexamplebold\">k\u00e1n</span>",
+            "p\u00fal",
+            "m\u00ed",
+            "d\u00e1n",
+            "tor\u00ed."
+        ],
+        "srcwordstex": [
+            "Na",
+            "\u00edn",
+            "e",
+            "\\textstylePichiexamplebold{de}",
+            "\\textstylePichiexamplebold{k\u00e1n}",
+            "p\u00fal",
+            "m\u00ed",
+            "d\u00e1n",
+            "tor\u00ed."
+        ],
+        "trs": "That\u2019s when she was coming to tell me that story.\u2019 [ab03ab 073]",
+        "wlength": 9
+    },
+    {
+        "ID": "11--96708",
+        "categories": [
+            "3sg",
+            "foc",
+            "indp",
+            "pfv",
+            "sbj"
+        ],
+        "clength": 43,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{foc}  \\textsc{3sg.indp}  \\textsc{3sg.sbj}  \\textsc{pfv}  be.angry    \\textsc{3sg.sbj}  \\textsc{pfv}  go",
+        "imtwordsbare": [
+            "FOC",
+            "3sg.indp",
+            "3sg.sbj",
+            "PFV",
+            "be.angry",
+            "3sg.sbj",
+            "PFV",
+            "go"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">foc</span>",
+            "<span class=\"sc\">3sg.indp</span>",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">pfv</span>",
+            "be.angry",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">pfv</span>",
+            "go"
+        ],
+        "imtwordstex": [
+            "\\textsc{foc}",
+            "\\textsc{3sg.indp}",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{pfv}",
+            "be.angry",
+            "\\textsc{3sg.sbj}",
+            "\\textsc{pfv}",
+            "go"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Na  \u00edn    e    k\u00e1n  v\u025b\u0301ks,    e    k\u00e1n  g\u00f3.",
+        "srcwordsbare": [
+            "Na",
+            "\u00edn",
+            "e",
+            "k\u00e1n",
+            "v\u025b\u0301ks,",
+            "e",
+            "k\u00e1n",
+            "g\u00f3."
+        ],
+        "srcwordshtml": [
+            "Na",
+            "\u00edn",
+            "e",
+            "k\u00e1n",
+            "v\u025b\u0301ks,",
+            "e",
+            "k\u00e1n",
+            "g\u00f3."
+        ],
+        "srcwordstex": [
+            "Na",
+            "\u00edn",
+            "e",
+            "k\u00e1n",
+            "v\u025b\u0301ks,",
+            "e",
+            "k\u00e1n",
+            "g\u00f3."
+        ],
+        "trs": "That\u2019s why he got angry, (and) he left.\u2019 [fr03ft 190]",
+        "wlength": 8
+    },
+    {
+        "ID": "11-837358",
+        "categories": [
+            "2sg",
+            "loc"
+        ],
+        "clength": 152,
+        "filename": "85/chapters/11.tex",
+        "imt": "if  \\textsc{2sg}  want  cut.hair  \\textsc{2sg}  want  go  \\textsc{loc}  hairdresser\u2019s  go  cut  \\textsc{2sg}  hair",
+        "imtwordsbare": [
+            "if",
+            "2SG",
+            "want",
+            "cut.hair",
+            "2SG",
+            "want",
+            "go",
+            "LOC",
+            "hairdresser\u2019s",
+            "go",
+            "cut",
+            "2SG",
+            "hair"
+        ],
+        "imtwordshtml": [
+            "if",
+            "<span class=\"sc\">2sg</span>",
+            "want",
+            "cut.hair",
+            "<span class=\"sc\">2sg</span>",
+            "want",
+            "go",
+            "<span class=\"sc\">loc</span>",
+            "hairdresser\u2019s",
+            "go",
+            "cut",
+            "<span class=\"sc\">2sg</span>",
+            "hair"
+        ],
+        "imtwordstex": [
+            "if",
+            "\\textsc{2sg}",
+            "want",
+            "cut.hair",
+            "\\textsc{2sg}",
+            "want",
+            "go",
+            "\\textsc{loc}",
+            "hairdresser\u2019s",
+            "go",
+            "cut",
+            "\\textsc{2sg}",
+            "hair"
+        ],
+        "language": "85/chapters/11.tex",
+        "modality": "volitive",
+        "src": "\u0190f  yu  w\u00e1nt b\u00e1ba,  yu  w\u00e1nt  \\textstylePichiexamplebold{g\u00f3}  na  peluquer\u00eda  \\textstylePichiexamplebold{g\u00f3}  \\textstylePichiexamplebold{k\u0254\u0301t}  yu  h\u00eda.",
+        "srcwordsbare": [
+            "\u0190f",
+            "yu",
+            "w\u00e1nt",
+            "b\u00e1ba,",
+            "yu",
+            "w\u00e1nt",
+            "g\u00f3",
+            "na",
+            "peluquer\u00eda",
+            "g\u00f3",
+            "k\u0254\u0301t",
+            "yu",
+            "h\u00eda."
+        ],
+        "srcwordshtml": [
+            "\u0190f",
+            "yu",
+            "w\u00e1nt",
+            "b\u00e1ba,",
+            "yu",
+            "w\u00e1nt",
+            "<span class=\"stylePichiexamplebold\">g\u00f3</span>",
+            "na",
+            "peluquer\u00eda",
+            "<span class=\"stylePichiexamplebold\">g\u00f3</span>",
+            "<span class=\"stylePichiexamplebold\">k\u0254\u0301t</span>",
+            "yu",
+            "h\u00eda."
+        ],
+        "srcwordstex": [
+            "\u0190f",
+            "yu",
+            "w\u00e1nt",
+            "b\u00e1ba,",
+            "yu",
+            "w\u00e1nt",
+            "\\textstylePichiexamplebold{g\u00f3}",
+            "na",
+            "peluquer\u00eda",
+            "\\textstylePichiexamplebold{g\u00f3}",
+            "\\textstylePichiexamplebold{k\u0254\u0301t}",
+            "yu",
+            "h\u00eda."
+        ],
+        "trs": "If you want to have a hair-cut, you want to go cut your hair at the hairdresser\u2019s.",
+        "wlength": 13
+    },
+    {
+        "ID": "11--63738",
+        "categories": [
+            "1sg",
+            "prep",
+            "sbj"
+        ],
+        "clength": 120,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  go  \\textsc{prep}  country  \\textsc{1sg.sbj}  go  give.birth",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "go",
+            "PREP",
+            "country",
+            "1sg.sbj",
+            "go",
+            "give.birth"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "go",
+            "<span class=\"sc\">prep</span>",
+            "country",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "go",
+            "give.birth"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "go",
+            "\\textsc{prep}",
+            "country",
+            "\\textsc{1sg.sbj}",
+            "go",
+            "give.birth"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    \\textstylePichiexamplebold{g\u00f3}  f\u0254  k\u0254\u0301ntri  a    \\textstylePichiexamplebold{g\u00f3}  \\textstylePichiexamplebold{b\u0254\u0301n}.",
+        "srcwordsbare": [
+            "A",
+            "g\u00f3",
+            "f\u0254",
+            "k\u0254\u0301ntri",
+            "a",
+            "g\u00f3",
+            "b\u0254\u0301n."
+        ],
+        "srcwordshtml": [
+            "A",
+            "<span class=\"stylePichiexamplebold\">g\u00f3</span>",
+            "f\u0254",
+            "k\u0254\u0301ntri",
+            "a",
+            "<span class=\"stylePichiexamplebold\">g\u00f3</span>",
+            "<span class=\"stylePichiexamplebold\">b\u0254\u0301n</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "\\textstylePichiexamplebold{g\u00f3}",
+            "f\u0254",
+            "k\u0254\u0301ntri",
+            "a",
+            "\\textstylePichiexamplebold{g\u00f3}",
+            "\\textstylePichiexamplebold{b\u0254\u0301n}."
+        ],
+        "trs": "I went to my home town in order to give birth.",
+        "wlength": 7
+    },
+    {
+        "ID": "11--59139",
+        "categories": [
+            "1sg",
+            "3pl",
+            "indp",
+            "loc",
+            "pfv",
+            "place",
+            "prep",
+            "sbjv"
+        ],
+        "clength": 66,
+        "coordination": "and",
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}  \\textsc{pfv}  carry  \\textsc{1sg.indp}  \\textsc{loc}  \\textsc{place}  \\textsc{prep}  \\textsc{sbjv}    \\textsc{3pl}  go  operate  \\textsc{1sg.indp}",
+        "imtwordsbare": [
+            "3PL",
+            "PFV",
+            "carry",
+            "1sg.indp",
+            "LOC",
+            "PLACE",
+            "PREP",
+            "SBJV",
+            "3PL",
+            "go",
+            "operate",
+            "1sg.indp"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">pfv</span>",
+            "carry",
+            "<span class=\"sc\">1sg.indp</span>",
+            "<span class=\"sc\">loc</span>",
+            "<span class=\"sc\">place</span>",
+            "<span class=\"sc\">prep</span>",
+            "<span class=\"sc\">sbjv</span>",
+            "<span class=\"sc\">3pl</span>",
+            "go",
+            "operate",
+            "<span class=\"sc\">1sg.indp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "\\textsc{pfv}",
+            "carry",
+            "\\textsc{1sg.indp}",
+            "\\textsc{loc}",
+            "\\textsc{place}",
+            "\\textsc{prep}",
+            "\\textsc{sbjv}",
+            "\\textsc{3pl}",
+            "go",
+            "operate",
+            "\\textsc{1sg.indp}"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn  k\u00e1n  k\u025b\u0301r    m\u00ed    na  Madrid  f\u0254  m\u00e9k    d\u025bn  g\u00f3  opera  m\u00ed.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "k\u00e1n",
+            "k\u025b\u0301r",
+            "m\u00ed",
+            "na",
+            "Madrid",
+            "f\u0254",
+            "m\u00e9k",
+            "d\u025bn",
+            "g\u00f3",
+            "opera",
+            "m\u00ed."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "k\u00e1n",
+            "k\u025b\u0301r",
+            "m\u00ed",
+            "na",
+            "Madrid",
+            "f\u0254",
+            "m\u00e9k",
+            "d\u025bn",
+            "g\u00f3",
+            "opera",
+            "m\u00ed."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "k\u00e1n",
+            "k\u025b\u0301r",
+            "m\u00ed",
+            "na",
+            "Madrid",
+            "f\u0254",
+            "m\u00e9k",
+            "d\u025bn",
+            "g\u00f3",
+            "opera",
+            "m\u00ed."
+        ],
+        "trs": "They took me to Madrid in order to go and operate me.\u2019 [fr03ft 026]",
+        "wlength": 12
+    },
+    {
+        "ID": "11-623701",
+        "categories": [
+            "2sg",
+            "3pl",
+            "3sg",
+            "be",
+            "hab",
+            "indp",
+            "loc",
+            "quot",
+            "sbj"
+        ],
+        "clength": 156,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  \\textsc{hab}  \\textsc{be.loc}  like  \\textsc{quot}    \\textsc{3pl}  take  one  black  cloth  \\textsc{3pl}  cover  \\textsc{2sg.indp}",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "HAB",
+            "be.loc",
+            "like",
+            "QUOT",
+            "3PL",
+            "take",
+            "one",
+            "black",
+            "cloth",
+            "3PL",
+            "cover",
+            "2sg.indp"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "<span class=\"sc\">hab</span>",
+            "<span class=\"sc\">be.loc</span>",
+            "like",
+            "<span class=\"sc\">quot</span>",
+            "<span class=\"sc\">3pl</span>",
+            "take",
+            "one",
+            "black",
+            "cloth",
+            "<span class=\"sc\">3pl</span>",
+            "cover",
+            "<span class=\"sc\">2sg.indp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "\\textsc{hab}",
+            "\\textsc{be.loc}",
+            "like",
+            "\\textsc{quot}",
+            "\\textsc{3pl}",
+            "take",
+            "one",
+            "black",
+            "cloth",
+            "\\textsc{3pl}",
+            "cover",
+            "\\textsc{2sg.indp}"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    kin  d\u00e9    l\u025bk  s\u00e9    d\u025bn  t\u00e9k  \\textstylePichiexamplebold{w\u00e1n}  \\textstylePichiexamplebold{bl\u00e1k}    \\textstylePichiexamplebold{lap\u00e1}   d\u025bn  k\u0254\u0301ba  y\u00fa.",
+        "srcwordsbare": [
+            "E",
+            "kin",
+            "d\u00e9",
+            "l\u025bk",
+            "s\u00e9",
+            "d\u025bn",
+            "t\u00e9k",
+            "w\u00e1n",
+            "bl\u00e1k",
+            "lap\u00e1",
+            "d\u025bn",
+            "k\u0254\u0301ba",
+            "y\u00fa."
+        ],
+        "srcwordshtml": [
+            "E",
+            "kin",
+            "d\u00e9",
+            "l\u025bk",
+            "s\u00e9",
+            "d\u025bn",
+            "t\u00e9k",
+            "<span class=\"stylePichiexamplebold\">w\u00e1n</span>",
+            "<span class=\"stylePichiexamplebold\">bl\u00e1k</span>",
+            "<span class=\"stylePichiexamplebold\">lap\u00e1</span>",
+            "d\u025bn",
+            "k\u0254\u0301ba",
+            "y\u00fa."
+        ],
+        "srcwordstex": [
+            "E",
+            "kin",
+            "d\u00e9",
+            "l\u025bk",
+            "s\u00e9",
+            "d\u025bn",
+            "t\u00e9k",
+            "\\textstylePichiexamplebold{w\u00e1n}",
+            "\\textstylePichiexamplebold{bl\u00e1k}",
+            "\\textstylePichiexamplebold{lap\u00e1}",
+            "d\u025bn",
+            "k\u0254\u0301ba",
+            "y\u00fa."
+        ],
+        "trs": "It is usually so that they cover you with a black cloth.\u2019 [ed03sb 119]",
+        "wlength": 13
+    },
+    {
+        "ID": "11-284851",
+        "categories": [
+            "1sg",
+            "3sg",
+            "obj",
+            "sbj"
+        ],
+        "clength": 32,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  take    father  God  ask=\\textsc{3sg.obj}",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "take",
+            "father",
+            "God",
+            "ask=3sg.obj"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "take",
+            "father",
+            "God",
+            "ask=<span class=\"sc\">3sg.obj</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "take",
+            "father",
+            "God",
+            "ask=\\textsc{3sg.obj}"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    t\u00e9k    pap\u00e1  g\u0254\u0301d  b\u025b\u0301g=an.",
+        "srcwordsbare": [
+            "A",
+            "t\u00e9k",
+            "pap\u00e1",
+            "g\u0254\u0301d",
+            "b\u025b\u0301g=an."
+        ],
+        "srcwordshtml": [
+            "A",
+            "t\u00e9k",
+            "pap\u00e1",
+            "g\u0254\u0301d",
+            "b\u025b\u0301g=an."
+        ],
+        "srcwordstex": [
+            "A",
+            "t\u00e9k",
+            "pap\u00e1",
+            "g\u0254\u0301d",
+            "b\u025b\u0301g=an."
+        ],
+        "trs": "I implored him in the name of God.\u2019 [sa07fn 297]",
+        "wlength": 5
+    },
+    {
+        "ID": "11-804004",
+        "categories": [
+            "2sg",
+            "3sg",
+            "def",
+            "obj"
+        ],
+        "clength": 171,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  take    \\textsc{def}  maize  \\textsc{2sg}  hold=\\textsc{3sg.obj}",
+        "imtwordsbare": [
+            "2SG",
+            "take",
+            "DEF",
+            "maize",
+            "2SG",
+            "hold=3sg.obj"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "take",
+            "<span class=\"sc\">def</span>",
+            "maize",
+            "<span class=\"sc\">2sg</span>",
+            "hold=<span class=\"sc\">3sg.obj</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "take",
+            "\\textsc{def}",
+            "maize",
+            "\\textsc{2sg}",
+            "hold=\\textsc{3sg.obj}"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "\\textstylePichiexamplebold{Yu}  t\u00e9k\\textstylePichiexamplebold{}   \\textstylePichiexamplebold{di}  \\textstylePichiexamplebold{ma\u00edz}  \\textstylePichiexamplebold{yu}  h\u00f3l=an.",
+        "srcwordsbare": [
+            "Yu",
+            "t\u00e9k",
+            "di",
+            "ma\u00edz",
+            "yu",
+            "h\u00f3l=an."
+        ],
+        "srcwordshtml": [
+            "<span class=\"stylePichiexamplebold\">Yu</span>",
+            "t\u00e9k<span class=\"stylePichiexamplebold\"></span>",
+            "<span class=\"stylePichiexamplebold\">di</span>",
+            "<span class=\"stylePichiexamplebold\">ma\u00edz</span>",
+            "<span class=\"stylePichiexamplebold\">yu</span>",
+            "h\u00f3l=an."
+        ],
+        "srcwordstex": [
+            "\\textstylePichiexamplebold{Yu}",
+            "t\u00e9k\\textstylePichiexamplebold{}",
+            "\\textstylePichiexamplebold{di}",
+            "\\textstylePichiexamplebold{ma\u00edz}",
+            "\\textstylePichiexamplebold{yu}",
+            "h\u00f3l=an."
+        ],
+        "trs": "You take the maize (and) you hold it.\u2019 [dj03do 003]",
+        "wlength": 6
+    },
+    {
+        "ID": "11-699075",
+        "categories": [
+            "3pl",
+            "def",
+            "q"
+        ],
+        "clength": 48,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{q}=kind  board  \\textsc{3pl}  take    build  \\textsc{def}  house",
+        "imtwordsbare": [
+            "Q=kind",
+            "board",
+            "3PL",
+            "take",
+            "build",
+            "DEF",
+            "house"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>=kind",
+            "board",
+            "<span class=\"sc\">3pl</span>",
+            "take",
+            "build",
+            "<span class=\"sc\">def</span>",
+            "house"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}=kind",
+            "board",
+            "\\textsc{3pl}",
+            "take",
+            "build",
+            "\\textsc{def}",
+            "house"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "\\'{U}s=k\u00e1yn  pl\u025b\u0301nk  d\u025bn  t\u00e9k    b\u00edl    di  h\u00f3s?",
+        "srcwordsbare": [
+            "\\'{U}s=k\u00e1yn",
+            "pl\u025b\u0301nk",
+            "d\u025bn",
+            "t\u00e9k",
+            "b\u00edl",
+            "di",
+            "h\u00f3s?"
+        ],
+        "srcwordshtml": [
+            "\\'{U}s=k\u00e1yn",
+            "pl\u025b\u0301nk",
+            "d\u025bn",
+            "t\u00e9k",
+            "b\u00edl",
+            "di",
+            "h\u00f3s?"
+        ],
+        "srcwordstex": [
+            "\\'{U}s=k\u00e1yn",
+            "pl\u025b\u0301nk",
+            "d\u025bn",
+            "t\u00e9k",
+            "b\u00edl",
+            "di",
+            "h\u00f3s?"
+        ],
+        "trs": "What kind of board did they build the house with?\u2019 [dj05ce 104]",
+        "wlength": 7
+    },
+    {
+        "ID": "11--77468",
+        "categories": [
+            "2sg",
+            "foc",
+            "loc",
+            "q"
+        ],
+        "clength": 129,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{foc}  \\textsc{q}=kind  style  \\textsc{2sg}  take    come  \\textsc{loc}  here",
+        "imtwordsbare": [
+            "FOC",
+            "Q=kind",
+            "style",
+            "2SG",
+            "take",
+            "come",
+            "LOC",
+            "here"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">foc</span>",
+            "<span class=\"sc\">q</span>=kind",
+            "style",
+            "<span class=\"sc\">2sg</span>",
+            "take",
+            "come",
+            "<span class=\"sc\">loc</span>",
+            "here"
+        ],
+        "imtwordstex": [
+            "\\textsc{foc}",
+            "\\textsc{q}=kind",
+            "style",
+            "\\textsc{2sg}",
+            "take",
+            "come",
+            "\\textsc{loc}",
+            "here"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Na  \u00fas=k\u00e1yn  \\textstylePichiexamplebold{st\u00e1yl}  yu  \\textstylePichiexamplebold{t\u00e9k}    \\textstylePichiexamplebold{k\u00e1n}    na  y\u00e1?",
+        "srcwordsbare": [
+            "Na",
+            "\u00fas=k\u00e1yn",
+            "st\u00e1yl",
+            "yu",
+            "t\u00e9k",
+            "k\u00e1n",
+            "na",
+            "y\u00e1?"
+        ],
+        "srcwordshtml": [
+            "Na",
+            "\u00fas=k\u00e1yn",
+            "<span class=\"stylePichiexamplebold\">st\u00e1yl</span>",
+            "yu",
+            "<span class=\"stylePichiexamplebold\">t\u00e9k</span>",
+            "<span class=\"stylePichiexamplebold\">k\u00e1n</span>",
+            "na",
+            "y\u00e1?"
+        ],
+        "srcwordstex": [
+            "Na",
+            "\u00fas=k\u00e1yn",
+            "\\textstylePichiexamplebold{st\u00e1yl}",
+            "yu",
+            "\\textstylePichiexamplebold{t\u00e9k}",
+            "\\textstylePichiexamplebold{k\u00e1n}",
+            "na",
+            "y\u00e1?"
+        ],
+        "trs": "How did you come here.\u2019 [ro05ee 005]",
+        "wlength": 8
+    },
+    {
+        "ID": "11--59549",
+        "categories": [
+            "3pl",
+            "def"
+        ],
+        "clength": 99,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}  build  \\textsc{def}  street  with    caterpillar",
+        "imtwordsbare": [
+            "3PL",
+            "build",
+            "DEF",
+            "street",
+            "with",
+            "caterpillar"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "build",
+            "<span class=\"sc\">def</span>",
+            "street",
+            "with",
+            "caterpillar"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "build",
+            "\\textsc{def}",
+            "street",
+            "with",
+            "caterpillar"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn  \\textstylePichiexamplebold{b\u00edl}   di  str\u00edt    \\textstylePichiexamplebold{wet}    caterpillar.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "b\u00edl",
+            "di",
+            "str\u00edt",
+            "wet",
+            "caterpillar."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "<span class=\"stylePichiexamplebold\">b\u00edl</span>",
+            "di",
+            "str\u00edt",
+            "<span class=\"stylePichiexamplebold\">wet</span>",
+            "caterpillar."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "\\textstylePichiexamplebold{b\u00edl}",
+            "di",
+            "str\u00edt",
+            "\\textstylePichiexamplebold{wet}",
+            "caterpillar."
+        ],
+        "trs": "The street was built with a caterpillar.\u2019 [dj05be 078]",
+        "wlength": 6
+    },
+    {
+        "ID": "11--88238",
+        "categories": [
+            "3pl",
+            "def",
+            "q"
+        ],
+        "clength": 131,
+        "filename": "85/chapters/11.tex",
+        "imt": "with    \\textsc{q}=kind  thing  \\textsc{3pl}  take  build  \\textsc{def}  house",
+        "imtwordsbare": [
+            "with",
+            "Q=kind",
+            "thing",
+            "3PL",
+            "take",
+            "build",
+            "DEF",
+            "house"
+        ],
+        "imtwordshtml": [
+            "with",
+            "<span class=\"sc\">q</span>=kind",
+            "thing",
+            "<span class=\"sc\">3pl</span>",
+            "take",
+            "build",
+            "<span class=\"sc\">def</span>",
+            "house"
+        ],
+        "imtwordstex": [
+            "with",
+            "\\textsc{q}=kind",
+            "thing",
+            "\\textsc{3pl}",
+            "take",
+            "build",
+            "\\textsc{def}",
+            "house"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "\\textstylePichiexamplebold{Wet}    \u00fas=k\u00e1yn  t\u00edn    d\u025bn  \\textstylePichiexamplebold{t\u00e9k}  \\textstylePichiexamplebold{b\u00edl}   di  h\u00f3s?",
+        "srcwordsbare": [
+            "Wet",
+            "\u00fas=k\u00e1yn",
+            "t\u00edn",
+            "d\u025bn",
+            "t\u00e9k",
+            "b\u00edl",
+            "di",
+            "h\u00f3s?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"stylePichiexamplebold\">Wet</span>",
+            "\u00fas=k\u00e1yn",
+            "t\u00edn",
+            "d\u025bn",
+            "<span class=\"stylePichiexamplebold\">t\u00e9k</span>",
+            "<span class=\"stylePichiexamplebold\">b\u00edl</span>",
+            "di",
+            "h\u00f3s?"
+        ],
+        "srcwordstex": [
+            "\\textstylePichiexamplebold{Wet}",
+            "\u00fas=k\u00e1yn",
+            "t\u00edn",
+            "d\u025bn",
+            "\\textstylePichiexamplebold{t\u00e9k}",
+            "\\textstylePichiexamplebold{b\u00edl}",
+            "di",
+            "h\u00f3s?"
+        ],
+        "trs": "(With) what did they build the house with?\u2019 [ye05ce 106]",
+        "wlength": 8
+    },
+    {
+        "ID": "11--64184",
+        "categories": [
+            "2sg",
+            "def",
+            "pst",
+            "q"
+        ],
+        "clength": 138,
+        "filename": "85/chapters/11.tex",
+        "imt": "with    \\textsc{q}=kind  wood  \\textsc{2sg}  \\textsc{pst}  take    build  \\textsc{def}  house",
+        "imtwordsbare": [
+            "with",
+            "Q=kind",
+            "wood",
+            "2SG",
+            "PST",
+            "take",
+            "build",
+            "DEF",
+            "house"
+        ],
+        "imtwordshtml": [
+            "with",
+            "<span class=\"sc\">q</span>=kind",
+            "wood",
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">pst</span>",
+            "take",
+            "build",
+            "<span class=\"sc\">def</span>",
+            "house"
+        ],
+        "imtwordstex": [
+            "with",
+            "\\textsc{q}=kind",
+            "wood",
+            "\\textsc{2sg}",
+            "\\textsc{pst}",
+            "take",
+            "build",
+            "\\textsc{def}",
+            "house"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "\\textstylePichiexamplebold{Wet}    \u00fas=k\u00e1yn  st\u00edk    yu  bin  \\textstylePichiexamplebold{t\u00e9k}    \\textstylePichiexamplebold{b\u00edl}   di  h\u00f3s?",
+        "srcwordsbare": [
+            "Wet",
+            "\u00fas=k\u00e1yn",
+            "st\u00edk",
+            "yu",
+            "bin",
+            "t\u00e9k",
+            "b\u00edl",
+            "di",
+            "h\u00f3s?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"stylePichiexamplebold\">Wet</span>",
+            "\u00fas=k\u00e1yn",
+            "st\u00edk",
+            "yu",
+            "bin",
+            "<span class=\"stylePichiexamplebold\">t\u00e9k</span>",
+            "<span class=\"stylePichiexamplebold\">b\u00edl</span>",
+            "di",
+            "h\u00f3s?"
+        ],
+        "srcwordstex": [
+            "\\textstylePichiexamplebold{Wet}",
+            "\u00fas=k\u00e1yn",
+            "st\u00edk",
+            "yu",
+            "bin",
+            "\\textstylePichiexamplebold{t\u00e9k}",
+            "\\textstylePichiexamplebold{b\u00edl}",
+            "di",
+            "h\u00f3s?"
+        ],
+        "trs": "(With) what kind of wood did you build the house with?\u2019 [ro05de 050]",
+        "wlength": 9
+    },
+    {
+        "ID": "11-436743",
+        "categories": [
+            "name"
+        ],
+        "clength": 47,
+        "filename": "85/chapters/11.tex",
+        "imt": "yes    \\textsc{name}  follow  \\textsc{name}    go  voyage",
+        "imtwordsbare": [
+            "yes",
+            "NAME",
+            "follow",
+            "NAME",
+            "go",
+            "voyage"
+        ],
+        "imtwordshtml": [
+            "yes",
+            "<span class=\"sc\">name</span>",
+            "follow",
+            "<span class=\"sc\">name</span>",
+            "go",
+            "voyage"
+        ],
+        "imtwordstex": [
+            "yes",
+            "\\textsc{name}",
+            "follow",
+            "\\textsc{name}",
+            "go",
+            "voyage"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Y\u025b\u0301s,    Concha  f\u00e1la    Princess    g\u00f3  viaje.",
+        "srcwordsbare": [
+            "Y\u025b\u0301s,",
+            "Concha",
+            "f\u00e1la",
+            "Princess",
+            "g\u00f3",
+            "viaje."
+        ],
+        "srcwordshtml": [
+            "Y\u025b\u0301s,",
+            "Concha",
+            "f\u00e1la",
+            "Princess",
+            "g\u00f3",
+            "viaje."
+        ],
+        "srcwordstex": [
+            "Y\u025b\u0301s,",
+            "Concha",
+            "f\u00e1la",
+            "Princess",
+            "g\u00f3",
+            "viaje."
+        ],
+        "trs": "Yes, Concha went on the voyage together with Princess.\u2019 [dj05be 097]",
+        "wlength": 6
+    },
+    {
+        "ID": "11-102229",
+        "categories": [
+            "1sg",
+            "name",
+            "prep",
+            "sbj"
+        ],
+        "clength": 28,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  join    \\textsc{name}  \\textsc{prep}  eat",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "join",
+            "NAME",
+            "PREP",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "join",
+            "<span class=\"sc\">name</span>",
+            "<span class=\"sc\">prep</span>",
+            "eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "join",
+            "\\textsc{name}",
+            "\\textsc{prep}",
+            "eat"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    jw\u025b\u0301n  Boy\u00e9  f\u0254  ch\u0254\u0301p.",
+        "srcwordsbare": [
+            "A",
+            "jw\u025b\u0301n",
+            "Boy\u00e9",
+            "f\u0254",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordshtml": [
+            "A",
+            "jw\u025b\u0301n",
+            "Boy\u00e9",
+            "f\u0254",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordstex": [
+            "A",
+            "jw\u025b\u0301n",
+            "Boy\u00e9",
+            "f\u0254",
+            "ch\u0254\u0301p."
+        ],
+        "trs": "I ate together with Boy\u00e9.\u2019 [ur05fn 045]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--62602",
+        "categories": [
+            "3sg",
+            "poss",
+            "sbj"
+        ],
+        "clength": 83,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  go  with    \\textsc{3sg.poss}  mother",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "go",
+            "with",
+            "3sg.poss",
+            "mother"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "go",
+            "with",
+            "<span class=\"sc\">3sg.poss</span>",
+            "mother"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "go",
+            "with",
+            "\\textsc{3sg.poss}",
+            "mother"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    \\textstylePichiexamplebold{g\u00f3}  \\textstylePichiexamplebold{wet}    in    mam\u00e1?",
+        "srcwordsbare": [
+            "E",
+            "g\u00f3",
+            "wet",
+            "in",
+            "mam\u00e1?"
+        ],
+        "srcwordshtml": [
+            "E",
+            "<span class=\"stylePichiexamplebold\">g\u00f3</span>",
+            "<span class=\"stylePichiexamplebold\">wet</span>",
+            "in",
+            "mam\u00e1?"
+        ],
+        "srcwordstex": [
+            "E",
+            "\\textstylePichiexamplebold{g\u00f3}",
+            "\\textstylePichiexamplebold{wet}",
+            "in",
+            "mam\u00e1?"
+        ],
+        "trs": "Did he go with his mother?\u2019 [fr03do 033]\\is{comitative\u201c r}",
+        "wlength": 5
+    },
+    {
+        "ID": "11--74569",
+        "categories": [
+            "1sg",
+            "indp",
+            "ipfv",
+            "name"
+        ],
+        "clength": 92,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{name}  \\textsc{ipfv}  talk    Bube  pass    \\textsc{1sg.indp}",
+        "imtwordsbare": [
+            "NAME",
+            "IPFV",
+            "talk",
+            "Bube",
+            "pass",
+            "1sg.indp"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">name</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "talk",
+            "Bube",
+            "pass",
+            "<span class=\"sc\">1sg.indp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{name}",
+            "\\textsc{ipfv}",
+            "talk",
+            "Bube",
+            "pass",
+            "\\textsc{1sg.indp}"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Lage    de  \\textstylePichiexamplebold{t\u0254\u0301k}    Bub\u025b  \\textstylePichiexamplebold{p\u00e1s}    m\u00ed.",
+        "srcwordsbare": [
+            "Lage",
+            "de",
+            "t\u0254\u0301k",
+            "Bub\u025b",
+            "p\u00e1s",
+            "m\u00ed."
+        ],
+        "srcwordshtml": [
+            "Lage",
+            "de",
+            "<span class=\"stylePichiexamplebold\">t\u0254\u0301k</span>",
+            "Bub\u025b",
+            "<span class=\"stylePichiexamplebold\">p\u00e1s</span>",
+            "m\u00ed."
+        ],
+        "srcwordstex": [
+            "Lage",
+            "de",
+            "\\textstylePichiexamplebold{t\u0254\u0301k}",
+            "Bub\u025b",
+            "\\textstylePichiexamplebold{p\u00e1s}",
+            "m\u00ed."
+        ],
+        "trs": "Lage speaks Bube better than me.\u2019 [fr03ab 012]\\is{participant-introducing SVCs\u201c r}",
+        "wlength": 6
+    },
+    {
+        "ID": "11--90064",
+        "categories": [
+            "1sg",
+            "ipfv",
+            "sbj"
+        ],
+        "clength": 175,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  see  some  white  bird    \\textsc{ipfv}  come",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "see",
+            "some",
+            "white",
+            "bird",
+            "IPFV",
+            "come"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "see",
+            "some",
+            "white",
+            "bird",
+            "<span class=\"sc\">ipfv</span>",
+            "come"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "see",
+            "some",
+            "white",
+            "bird",
+            "\\textsc{ipfv}",
+            "come"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "\\MakeUppercase{A}   \\textstylePichiexamplebold{s\u00ed}  s\u0254n    w\u00e1yt  pamb\u0254\u0301d  \\textstylePichiexamplebold{de}  \\textstylePichiexamplebold{k\u00e1n}\\textstylePichiexamplebold{\\textmd{.}}",
+        "srcwordsbare": [
+            "\\MakeUppercase{A}",
+            "s\u00ed",
+            "s\u0254n",
+            "w\u00e1yt",
+            "pamb\u0254\u0301d",
+            "de",
+            "k\u00e1n\\textmd{.}"
+        ],
+        "srcwordshtml": [
+            "\\MakeUppercase{A}",
+            "<span class=\"stylePichiexamplebold\">s\u00ed</span>",
+            "s\u0254n",
+            "w\u00e1yt",
+            "pamb\u0254\u0301d",
+            "<span class=\"stylePichiexamplebold\">de</span>",
+            "<span class=\"stylePichiexamplebold\">k\u00e1n</span><span class=\"stylePichiexamplebold\">\\textmd{.</span>}"
+        ],
+        "srcwordstex": [
+            "\\MakeUppercase{A}",
+            "\\textstylePichiexamplebold{s\u00ed}",
+            "s\u0254n",
+            "w\u00e1yt",
+            "pamb\u0254\u0301d",
+            "\\textstylePichiexamplebold{de}",
+            "\\textstylePichiexamplebold{k\u00e1n}\\textstylePichiexamplebold{\\textmd{.}}"
+        ],
+        "trs": "I saw a white bird coming.\u2019 [ed03sb 174]",
+        "wlength": 7
+    },
+    {
+        "ID": "11--89914",
+        "categories": [
+            "2sg",
+            "3sg",
+            "def",
+            "obj",
+            "prep",
+            "sbj"
+        ],
+        "clength": 135,
+        "filename": "85/chapters/11.tex",
+        "imt": "if  \\textsc{2sg}  go  \\textsc{prep}  \\textsc{def}  marry  \\textsc{2sg}  see=\\textsc{3sg.obj}  \\textsc{3sg.sbj}  be.fine",
+        "imtwordsbare": [
+            "if",
+            "2SG",
+            "go",
+            "PREP",
+            "DEF",
+            "marry",
+            "2SG",
+            "see=3sg.obj",
+            "3sg.sbj",
+            "be.fine"
+        ],
+        "imtwordshtml": [
+            "if",
+            "<span class=\"sc\">2sg</span>",
+            "go",
+            "<span class=\"sc\">prep</span>",
+            "<span class=\"sc\">def</span>",
+            "marry",
+            "<span class=\"sc\">2sg</span>",
+            "see=<span class=\"sc\">3sg.obj</span>",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "be.fine"
+        ],
+        "imtwordstex": [
+            "if",
+            "\\textsc{2sg}",
+            "go",
+            "\\textsc{prep}",
+            "\\textsc{def}",
+            "marry",
+            "\\textsc{2sg}",
+            "see=\\textsc{3sg.obj}",
+            "\\textsc{3sg.sbj}",
+            "be.fine"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "If  yu  g\u00f3  f\u0254  di  m\u00e1red,  yu  \\textstylePichiexamplebold{s\u00ed}=an    \\textstylePichiexamplebold{e}    \\textstylePichiexamplebold{f\u00e1yn}.",
+        "srcwordsbare": [
+            "If",
+            "yu",
+            "g\u00f3",
+            "f\u0254",
+            "di",
+            "m\u00e1red,",
+            "yu",
+            "s\u00ed=an",
+            "e",
+            "f\u00e1yn."
+        ],
+        "srcwordshtml": [
+            "If",
+            "yu",
+            "g\u00f3",
+            "f\u0254",
+            "di",
+            "m\u00e1red,",
+            "yu",
+            "<span class=\"stylePichiexamplebold\">s\u00ed</span>=an",
+            "<span class=\"stylePichiexamplebold\">e</span>",
+            "<span class=\"stylePichiexamplebold\">f\u00e1yn</span>."
+        ],
+        "srcwordstex": [
+            "If",
+            "yu",
+            "g\u00f3",
+            "f\u0254",
+            "di",
+            "m\u00e1red,",
+            "yu",
+            "\\textstylePichiexamplebold{s\u00ed}=an",
+            "\\textstylePichiexamplebold{e}",
+            "\\textstylePichiexamplebold{f\u00e1yn}."
+        ],
+        "trs": "If you go to the marriage, you see it (to be) nice.\u2019 [\\textit{Lit}. \u2018(\u2026) it is nice\u2019] [hi03cb 006]",
+        "wlength": 10
+    },
+    {
+        "ID": "11--21914",
+        "categories": [
+            "2sg",
+            "ipfv",
+            "neg",
+            "pl",
+            "pst",
+            "quot"
+        ],
+        "clength": 127,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  just  hear    \\textsc{quot}    person  \\textsc{pl}  \\textsc{pst}  \\textsc{ipfv}  talk  but  \\textsc{2sg}  \\textsc{neg}  listen",
+        "imtwordsbare": [
+            "2SG",
+            "just",
+            "hear",
+            "QUOT",
+            "person",
+            "PL",
+            "PST",
+            "IPFV",
+            "talk",
+            "but",
+            "2SG",
+            "NEG",
+            "listen"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "just",
+            "hear",
+            "<span class=\"sc\">quot</span>",
+            "person",
+            "<span class=\"sc\">pl</span>",
+            "<span class=\"sc\">pst</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "talk",
+            "but",
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">neg</span>",
+            "listen"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "just",
+            "hear",
+            "\\textsc{quot}",
+            "person",
+            "\\textsc{pl}",
+            "\\textsc{pst}",
+            "\\textsc{ipfv}",
+            "talk",
+            "but",
+            "\\textsc{2sg}",
+            "\\textsc{neg}",
+            "listen"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu  j\u0254\u0301s  \\textstylePichiexamplebold{h\u00eda}    \\textstylePichiexamplebold{s\u00e9}    p\u0254\u0301sin  d\u025bn  bin  de  t\u0254\u0301k  b\u0254t  yu  n\u00f3  l\u00edstin.",
+        "srcwordsbare": [
+            "Yu",
+            "j\u0254\u0301s",
+            "h\u00eda",
+            "s\u00e9",
+            "p\u0254\u0301sin",
+            "d\u025bn",
+            "bin",
+            "de",
+            "t\u0254\u0301k",
+            "b\u0254t",
+            "yu",
+            "n\u00f3",
+            "l\u00edstin."
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "j\u0254\u0301s",
+            "<span class=\"stylePichiexamplebold\">h\u00eda</span>",
+            "<span class=\"stylePichiexamplebold\">s\u00e9</span>",
+            "p\u0254\u0301sin",
+            "d\u025bn",
+            "bin",
+            "de",
+            "t\u0254\u0301k",
+            "b\u0254t",
+            "yu",
+            "n\u00f3",
+            "l\u00edstin."
+        ],
+        "srcwordstex": [
+            "Yu",
+            "j\u0254\u0301s",
+            "\\textstylePichiexamplebold{h\u00eda}",
+            "\\textstylePichiexamplebold{s\u00e9}",
+            "p\u0254\u0301sin",
+            "d\u025bn",
+            "bin",
+            "de",
+            "t\u0254\u0301k",
+            "b\u0254t",
+            "yu",
+            "n\u00f3",
+            "l\u00edstin."
+        ],
+        "trs": "You just heard that people were talking but you didn\u2019t listen.\u2019 [au07se 109]",
+        "wlength": 13
+    },
+    {
+        "ID": "11--50878",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 89,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  be.last  eat",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "be.last",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "be.last",
+            "eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "be.last",
+            "eat"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "\\MakeUppercase{A}   \\textstylePichiexamplebold{l\u00e1s}    \\textstylePichiexamplebold{ch\u0254\u0301p}.",
+        "srcwordsbare": [
+            "\\MakeUppercase{A}",
+            "l\u00e1s",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordshtml": [
+            "\\MakeUppercase{A}",
+            "<span class=\"stylePichiexamplebold\">l\u00e1s</span>",
+            "<span class=\"stylePichiexamplebold\">ch\u0254\u0301p</span>."
+        ],
+        "srcwordstex": [
+            "\\MakeUppercase{A}",
+            "\\textstylePichiexamplebold{l\u00e1s}",
+            "\\textstylePichiexamplebold{ch\u0254\u0301p}."
+        ],
+        "trs": "I was the last to eat/I ended up eating.\u2019 [eb07fn 130]",
+        "wlength": 3
+    },
+    {
+        "ID": "11-283907",
+        "categories": [
+            "1sg",
+            "foc",
+            "indp"
+        ],
+        "clength": 49,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{foc}  \\textsc{1sg.indp}  eat    last",
+        "imtwordsbare": [
+            "FOC",
+            "1sg.indp",
+            "eat",
+            "last"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">foc</span>",
+            "<span class=\"sc\">1sg.indp</span>",
+            "eat",
+            "last"
+        ],
+        "imtwordstex": [
+            "\\textsc{foc}",
+            "\\textsc{1sg.indp}",
+            "eat",
+            "last"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Na  m\u00ed    ch\u0254\u0301p  \\textstylePichiexamplebold{l\u00e1s}.",
+        "srcwordsbare": [
+            "Na",
+            "m\u00ed",
+            "ch\u0254\u0301p",
+            "l\u00e1s."
+        ],
+        "srcwordshtml": [
+            "Na",
+            "m\u00ed",
+            "ch\u0254\u0301p",
+            "<span class=\"stylePichiexamplebold\">l\u00e1s</span>."
+        ],
+        "srcwordstex": [
+            "Na",
+            "m\u00ed",
+            "ch\u0254\u0301p",
+            "\\textstylePichiexamplebold{l\u00e1s}."
+        ],
+        "trs": "*I ate last. [ra07ve 025]",
+        "wlength": 4
+    },
+    {
+        "ID": "11-426433",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 45,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  wash  first",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "wash",
+            "first"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "wash",
+            "first"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "wash",
+            "first"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    w\u00e1s    \\textstylePichiexamplebold{f\u0254\u0301s}.",
+        "srcwordsbare": [
+            "A",
+            "w\u00e1s",
+            "f\u0254\u0301s."
+        ],
+        "srcwordshtml": [
+            "A",
+            "w\u00e1s",
+            "<span class=\"stylePichiexamplebold\">f\u0254\u0301s</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "w\u00e1s",
+            "\\textstylePichiexamplebold{f\u0254\u0301s}."
+        ],
+        "trs": "I washed (myself) first.\u2019 [ra07ve 023]",
+        "wlength": 3
+    },
+    {
+        "ID": "11--98110",
+        "categories": [
+            "2sg",
+            "prf"
+        ],
+        "clength": 103,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  \\textsc{prf}  stay  come",
+        "imtwordsbare": [
+            "2SG",
+            "PRF",
+            "stay",
+            "come"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "<span class=\"sc\">prf</span>",
+            "stay",
+            "come"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "\\textsc{prf}",
+            "stay",
+            "come"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu  \\textstylePichiexamplebold{d\u0254\u0301n}  \\textstylePichiexamplebold{st\u00e9}  \\textstylePichiexamplebold{k\u00e1n}?",
+        "srcwordsbare": [
+            "Yu",
+            "d\u0254\u0301n",
+            "st\u00e9",
+            "k\u00e1n?"
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "<span class=\"stylePichiexamplebold\">d\u0254\u0301n</span>",
+            "<span class=\"stylePichiexamplebold\">st\u00e9</span>",
+            "<span class=\"stylePichiexamplebold\">k\u00e1n</span>?"
+        ],
+        "srcwordstex": [
+            "Yu",
+            "\\textstylePichiexamplebold{d\u0254\u0301n}",
+            "\\textstylePichiexamplebold{st\u00e9}",
+            "\\textstylePichiexamplebold{k\u00e1n}?"
+        ],
+        "trs": "Did you come long ago?\u2019 [ge07fn 164]",
+        "wlength": 4
+    },
+    {
+        "ID": "11-915435",
+        "categories": [
+            "1sg",
+            "neg",
+            "prf",
+            "sbj",
+            "sub"
+        ],
+        "clength": 32,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  stay  \\textsc{sub}  \\textsc{1sg.sbj}  \\textsc{neg}.\\textsc{prf}  eat",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "stay",
+            "SUB",
+            "1sg.sbj",
+            "NEG.PRF",
+            "eat"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "stay",
+            "<span class=\"sc\">sub</span>",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">neg</span>.<span class=\"sc\">prf</span>",
+            "eat"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "stay",
+            "\\textsc{sub}",
+            "\\textsc{1sg.sbj}",
+            "\\textsc{neg}.\\textsc{prf}",
+            "eat"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    st\u00e9  w\u00e9  a    n\u025b\u0301va  ch\u0254\u0301p.",
+        "srcwordsbare": [
+            "A",
+            "st\u00e9",
+            "w\u00e9",
+            "a",
+            "n\u025b\u0301va",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordshtml": [
+            "A",
+            "st\u00e9",
+            "w\u00e9",
+            "a",
+            "n\u025b\u0301va",
+            "ch\u0254\u0301p."
+        ],
+        "srcwordstex": [
+            "A",
+            "st\u00e9",
+            "w\u00e9",
+            "a",
+            "n\u025b\u0301va",
+            "ch\u0254\u0301p."
+        ],
+        "trs": "It\u2019s been long since I haven\u2019t eaten.\u2019 [au07ec 081]",
+        "wlength": 6
+    },
+    {
+        "ID": "11--40398",
+        "categories": [
+            "1sg",
+            "3sg",
+            "loc",
+            "obj",
+            "sbj"
+        ],
+        "clength": 34,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  carry=\\textsc{3sg.obj}    go  \\textsc{loc}  dining-room",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "carry=3sg.obj",
+            "go",
+            "LOC",
+            "dining-room"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "carry=<span class=\"sc\">3sg.obj</span>",
+            "go",
+            "<span class=\"sc\">loc</span>",
+            "dining-room"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "carry=\\textsc{3sg.obj}",
+            "go",
+            "\\textsc{loc}",
+            "dining-room"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    k\u025b\u0301r=an      g\u00f3  na  comedor.",
+        "srcwordsbare": [
+            "A",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "na",
+            "comedor."
+        ],
+        "srcwordshtml": [
+            "A",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "na",
+            "comedor."
+        ],
+        "srcwordstex": [
+            "A",
+            "k\u025b\u0301r=an",
+            "g\u00f3",
+            "na",
+            "comedor."
+        ],
+        "trs": "I carried him to the dining-room.\u2019 [ab03ab 091]",
+        "wlength": 5
+    },
+    {
+        "ID": "11-826009",
+        "categories": [
+            "1sg",
+            "3sg",
+            "indp",
+            "ipfv",
+            "sbj"
+        ],
+        "clength": 54,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  meet  \\textsc{1sg.indp}  \\textsc{ipfv}  cook",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "meet",
+            "1sg.indp",
+            "IPFV",
+            "cook"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "meet",
+            "<span class=\"sc\">1sg.indp</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "cook"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "meet",
+            "\\textsc{1sg.indp}",
+            "\\textsc{ipfv}",
+            "cook"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    m\u00edt    \\textstylePichiexamplebold{m\u00ed}    de  k\u00fak.",
+        "srcwordsbare": [
+            "E",
+            "m\u00edt",
+            "m\u00ed",
+            "de",
+            "k\u00fak."
+        ],
+        "srcwordshtml": [
+            "E",
+            "m\u00edt",
+            "<span class=\"stylePichiexamplebold\">m\u00ed</span>",
+            "de",
+            "k\u00fak."
+        ],
+        "srcwordstex": [
+            "E",
+            "m\u00edt",
+            "\\textstylePichiexamplebold{m\u00ed}",
+            "de",
+            "k\u00fak."
+        ],
+        "trs": "*He came across me while (I was) cooking. [pa07me 017]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--85446",
+        "categories": [
+            "1sg",
+            "3sg",
+            "emp",
+            "indp",
+            "ipfv",
+            "sbj"
+        ],
+        "clength": 39,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  meet  \\textsc{1sg.indp}  \\textsc{1sg.sbj}  \\textsc{ipfv}  cook  \\textsc{emp}",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "meet",
+            "1sg.indp",
+            "1sg.sbj",
+            "IPFV",
+            "cook",
+            "EMP"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "meet",
+            "<span class=\"sc\">1sg.indp</span>",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "cook",
+            "<span class=\"sc\">emp</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "meet",
+            "\\textsc{1sg.indp}",
+            "\\textsc{1sg.sbj}",
+            "\\textsc{ipfv}",
+            "cook",
+            "\\textsc{emp}"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    m\u00edt    m\u00ed    a    de  k\u00fak    s\u025b\u0301f.",
+        "srcwordsbare": [
+            "E",
+            "m\u00edt",
+            "m\u00ed",
+            "a",
+            "de",
+            "k\u00fak",
+            "s\u025b\u0301f."
+        ],
+        "srcwordshtml": [
+            "E",
+            "m\u00edt",
+            "m\u00ed",
+            "a",
+            "de",
+            "k\u00fak",
+            "s\u025b\u0301f."
+        ],
+        "srcwordstex": [
+            "E",
+            "m\u00edt",
+            "m\u00ed",
+            "a",
+            "de",
+            "k\u00fak",
+            "s\u025b\u0301f."
+        ],
+        "trs": "He came across me while I was actually cooking.\u2019 [ro05de 023]",
+        "wlength": 7
+    },
+    {
+        "ID": "11-788487",
+        "categories": [
+            "2sg",
+            "3pl",
+            "ipfv"
+        ],
+        "clength": 45,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  child  sit    \\textsc{ipfv}  eat    \\textsc{3pl}  two  bread",
+        "imtwordsbare": [
+            "2SG",
+            "child",
+            "sit",
+            "IPFV",
+            "eat",
+            "3PL",
+            "two",
+            "bread"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "child",
+            "sit",
+            "<span class=\"sc\">ipfv</span>",
+            "eat",
+            "<span class=\"sc\">3pl</span>",
+            "two",
+            "bread"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "child",
+            "sit",
+            "\\textsc{ipfv}",
+            "eat",
+            "\\textsc{3pl}",
+            "two",
+            "bread"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu  pik\u00edn  sid\u0254\u0301n  de  ch\u0254\u0301p  d\u025bn  t\u00fa  br\u025b\u0301d.",
+        "srcwordsbare": [
+            "Yu",
+            "pik\u00edn",
+            "sid\u0254\u0301n",
+            "de",
+            "ch\u0254\u0301p",
+            "d\u025bn",
+            "t\u00fa",
+            "br\u025b\u0301d."
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "pik\u00edn",
+            "sid\u0254\u0301n",
+            "de",
+            "ch\u0254\u0301p",
+            "d\u025bn",
+            "t\u00fa",
+            "br\u025b\u0301d."
+        ],
+        "srcwordstex": [
+            "Yu",
+            "pik\u00edn",
+            "sid\u0254\u0301n",
+            "de",
+            "ch\u0254\u0301p",
+            "d\u025bn",
+            "t\u00fa",
+            "br\u025b\u0301d."
+        ],
+        "trs": "Your child was sitting (there) eating those two loaves of bread.\u2019 [ab03ab 128]",
+        "wlength": 8
+    },
+    {
+        "ID": "11-796618",
+        "categories": [
+            "1sg",
+            "def",
+            "sbj"
+        ],
+        "clength": 30,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  leave  \\textsc{def}  door  be.open",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "leave",
+            "DEF",
+            "door",
+            "be.open"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "leave",
+            "<span class=\"sc\">def</span>",
+            "door",
+            "be.open"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "leave",
+            "\\textsc{def}",
+            "door",
+            "be.open"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    l\u025b\u0301f    di  dom\u0254\u0301t  \u00f3pin.",
+        "srcwordsbare": [
+            "A",
+            "l\u025b\u0301f",
+            "di",
+            "dom\u0254\u0301t",
+            "\u00f3pin."
+        ],
+        "srcwordshtml": [
+            "A",
+            "l\u025b\u0301f",
+            "di",
+            "dom\u0254\u0301t",
+            "\u00f3pin."
+        ],
+        "srcwordstex": [
+            "A",
+            "l\u025b\u0301f",
+            "di",
+            "dom\u0254\u0301t",
+            "\u00f3pin."
+        ],
+        "trs": "I left the door open.\u2019 [pa07me 029]",
+        "wlength": 5
+    },
+    {
+        "ID": "11-725271",
+        "categories": [
+            "3sg",
+            "def",
+            "sbj"
+        ],
+        "clength": 82,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  drink  \\textsc{def}  water  be.cold",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "drink",
+            "DEF",
+            "water",
+            "be.cold"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "drink",
+            "<span class=\"sc\">def</span>",
+            "water",
+            "be.cold"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "drink",
+            "\\textsc{def}",
+            "water",
+            "be.cold"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    \\textstylePichiexamplebold{dr\u00edng}  di  wat\u00e1  \\textstylePichiexamplebold{k\u00f3l}.",
+        "srcwordsbare": [
+            "E",
+            "dr\u00edng",
+            "di",
+            "wat\u00e1",
+            "k\u00f3l."
+        ],
+        "srcwordshtml": [
+            "E",
+            "<span class=\"stylePichiexamplebold\">dr\u00edng</span>",
+            "di",
+            "wat\u00e1",
+            "<span class=\"stylePichiexamplebold\">k\u00f3l</span>."
+        ],
+        "srcwordstex": [
+            "E",
+            "\\textstylePichiexamplebold{dr\u00edng}",
+            "di",
+            "wat\u00e1",
+            "\\textstylePichiexamplebold{k\u00f3l}."
+        ],
+        "trs": "He drank the water (and it was) cold.\u2019 [ra07ve 004]",
+        "wlength": 5
+    },
+    {
+        "ID": "11-892273",
+        "categories": [
+            "3pl",
+            "def"
+        ],
+        "clength": 85,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}  eat    \\textsc{def}  banana  be.green",
+        "imtwordsbare": [
+            "3PL",
+            "eat",
+            "DEF",
+            "banana",
+            "be.green"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "eat",
+            "<span class=\"sc\">def</span>",
+            "banana",
+            "be.green"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "eat",
+            "\\textsc{def}",
+            "banana",
+            "be.green"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn  \\textstylePichiexamplebold{ch\u0254\u0301p}  di  ban\u00e1na  \\textstylePichiexamplebold{gr\u00edn}.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "ch\u0254\u0301p",
+            "di",
+            "ban\u00e1na",
+            "gr\u00edn."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "<span class=\"stylePichiexamplebold\">ch\u0254\u0301p</span>",
+            "di",
+            "ban\u00e1na",
+            "<span class=\"stylePichiexamplebold\">gr\u00edn</span>."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "\\textstylePichiexamplebold{ch\u0254\u0301p}",
+            "di",
+            "ban\u00e1na",
+            "\\textstylePichiexamplebold{gr\u00edn}."
+        ],
+        "trs": "They ate the banana green [unripe].\u2019 [dj05be 108]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--46912",
+        "categories": [
+            "1sg",
+            "cpd",
+            "def",
+            "sbj"
+        ],
+        "clength": 36,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  carry  \\textsc{def}  bucket.\\textsc{cpd}{}-pan  be.indpty",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "carry",
+            "DEF",
+            "bucket.CPD{}-pan",
+            "be.indpty"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "carry",
+            "<span class=\"sc\">def</span>",
+            "bucket.<span class=\"sc\">cpd</span>{}-pan",
+            "be.indpty"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "carry",
+            "\\textsc{def}",
+            "bucket.\\textsc{cpd}{}-pan",
+            "be.indpty"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    k\u025b\u0301r    di  bokit-p\u00e1n    \u025b\u0301nti.",
+        "srcwordsbare": [
+            "A",
+            "k\u025b\u0301r",
+            "di",
+            "bokit-p\u00e1n",
+            "\u025b\u0301nti."
+        ],
+        "srcwordshtml": [
+            "A",
+            "k\u025b\u0301r",
+            "di",
+            "bokit-p\u00e1n",
+            "\u025b\u0301nti."
+        ],
+        "srcwordstex": [
+            "A",
+            "k\u025b\u0301r",
+            "di",
+            "bokit-p\u00e1n",
+            "\u025b\u0301nti."
+        ],
+        "trs": "I carried the bucket empty.\u2019 [pa07me 039]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--91595",
+        "categories": [
+            "3sg",
+            "loc",
+            "sbj"
+        ],
+        "clength": 86,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  go.out  \\textsc{loc}  room  be.naked",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "go.out",
+            "LOC",
+            "room",
+            "be.naked"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "go.out",
+            "<span class=\"sc\">loc</span>",
+            "room",
+            "be.naked"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "go.out",
+            "\\textsc{loc}",
+            "room",
+            "be.naked"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    \\textstylePichiexamplebold{k\u0254m\u0254\u0301t}  na  r\u00fam    \\textstylePichiexamplebold{n\u00e9k\u025bd}.",
+        "srcwordsbare": [
+            "E",
+            "k\u0254m\u0254\u0301t",
+            "na",
+            "r\u00fam",
+            "n\u00e9k\u025bd."
+        ],
+        "srcwordshtml": [
+            "E",
+            "<span class=\"stylePichiexamplebold\">k\u0254m\u0254\u0301t</span>",
+            "na",
+            "r\u00fam",
+            "<span class=\"stylePichiexamplebold\">n\u00e9k\u025bd</span>."
+        ],
+        "srcwordstex": [
+            "E",
+            "\\textstylePichiexamplebold{k\u0254m\u0254\u0301t}",
+            "na",
+            "r\u00fam",
+            "\\textstylePichiexamplebold{n\u00e9k\u025bd}."
+        ],
+        "trs": "He left the room naked.\u2019 [ra07ve 001]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--50100",
+        "categories": [
+            "3sg",
+            "loc",
+            "sbj"
+        ],
+        "clength": 122,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  go.out  \\textsc{loc}  work  with    hunger",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "go.out",
+            "LOC",
+            "work",
+            "with",
+            "hunger"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "go.out",
+            "<span class=\"sc\">loc</span>",
+            "work",
+            "with",
+            "hunger"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "go.out",
+            "\\textsc{loc}",
+            "work",
+            "with",
+            "hunger"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    \\textstylePichiexamplebold{k\u0254m\u0254\u0301t}  na  w\u00f3k    \\textstylePichiexamplebold{wet}    \\textstylePichiexamplebold{h\u00e1ngri}.",
+        "srcwordsbare": [
+            "E",
+            "k\u0254m\u0254\u0301t",
+            "na",
+            "w\u00f3k",
+            "wet",
+            "h\u00e1ngri."
+        ],
+        "srcwordshtml": [
+            "E",
+            "<span class=\"stylePichiexamplebold\">k\u0254m\u0254\u0301t</span>",
+            "na",
+            "w\u00f3k",
+            "<span class=\"stylePichiexamplebold\">wet</span>",
+            "<span class=\"stylePichiexamplebold\">h\u00e1ngri</span>."
+        ],
+        "srcwordstex": [
+            "E",
+            "\\textstylePichiexamplebold{k\u0254m\u0254\u0301t}",
+            "na",
+            "w\u00f3k",
+            "\\textstylePichiexamplebold{wet}",
+            "\\textstylePichiexamplebold{h\u00e1ngri}."
+        ],
+        "trs": "He left work hungry.\u2019 [ra07ve 073]",
+        "wlength": 6
+    },
+    {
+        "ID": "11-788487",
+        "categories": [
+            "2sg",
+            "3pl",
+            "ipfv"
+        ],
+        "clength": 45,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{2sg}  child  sit    \\textsc{ipfv}  eat    \\textsc{3pl}  two  bread",
+        "imtwordsbare": [
+            "2SG",
+            "child",
+            "sit",
+            "IPFV",
+            "eat",
+            "3PL",
+            "two",
+            "bread"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "child",
+            "sit",
+            "<span class=\"sc\">ipfv</span>",
+            "eat",
+            "<span class=\"sc\">3pl</span>",
+            "two",
+            "bread"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "child",
+            "sit",
+            "\\textsc{ipfv}",
+            "eat",
+            "\\textsc{3pl}",
+            "two",
+            "bread"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Yu  pik\u00edn  sid\u0254\u0301n  de  ch\u0254\u0301p  d\u025bn  t\u00fa  br\u025b\u0301d.",
+        "srcwordsbare": [
+            "Yu",
+            "pik\u00edn",
+            "sid\u0254\u0301n",
+            "de",
+            "ch\u0254\u0301p",
+            "d\u025bn",
+            "t\u00fa",
+            "br\u025b\u0301d."
+        ],
+        "srcwordshtml": [
+            "Yu",
+            "pik\u00edn",
+            "sid\u0254\u0301n",
+            "de",
+            "ch\u0254\u0301p",
+            "d\u025bn",
+            "t\u00fa",
+            "br\u025b\u0301d."
+        ],
+        "srcwordstex": [
+            "Yu",
+            "pik\u00edn",
+            "sid\u0254\u0301n",
+            "de",
+            "ch\u0254\u0301p",
+            "d\u025bn",
+            "t\u00fa",
+            "br\u025b\u0301d."
+        ],
+        "trs": "Your child was sitting there eating those two loaves of bread.\u2019 [ab03ab 128]",
+        "wlength": 8
+    },
+    {
+        "ID": "11--71495",
+        "categories": [
+            "be",
+            "def",
+            "ipfv",
+            "loc"
+        ],
+        "clength": 116,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{def}  child  \\textsc{be.loc}  there  \\textsc{ipfv}  cry",
+        "imtwordsbare": [
+            "DEF",
+            "child",
+            "be.loc",
+            "there",
+            "IPFV",
+            "cry"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "child",
+            "<span class=\"sc\">be.loc</span>",
+            "there",
+            "<span class=\"sc\">ipfv</span>",
+            "cry"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "child",
+            "\\textsc{be.loc}",
+            "there",
+            "\\textsc{ipfv}",
+            "cry"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Di  pik\u00edn  \\textstylePichiexamplebold{d\u00e9}    d\u00e9    \\textstylePichiexamplebold{de}  \\textstylePichiexamplebold{kr\u00e1y}.",
+        "srcwordsbare": [
+            "Di",
+            "pik\u00edn",
+            "d\u00e9",
+            "d\u00e9",
+            "de",
+            "kr\u00e1y."
+        ],
+        "srcwordshtml": [
+            "Di",
+            "pik\u00edn",
+            "<span class=\"stylePichiexamplebold\">d\u00e9</span>",
+            "d\u00e9",
+            "<span class=\"stylePichiexamplebold\">de</span>",
+            "<span class=\"stylePichiexamplebold\">kr\u00e1y</span>."
+        ],
+        "srcwordstex": [
+            "Di",
+            "pik\u00edn",
+            "\\textstylePichiexamplebold{d\u00e9}",
+            "d\u00e9",
+            "\\textstylePichiexamplebold{de}",
+            "\\textstylePichiexamplebold{kr\u00e1y}."
+        ],
+        "trs": "The child is just (standing/sitting/lying) there crying.\u2019 [pa07me 027]\\is{posture verbs}",
+        "wlength": 6
+    },
+    {
+        "ID": "11--92020",
+        "categories": [
+            "3pl",
+            "ipfv"
+        ],
+        "clength": 42,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}  \\textsc{ipfv}  follow  \\textsc{3pl}  self  \\textsc{3pl}  \\textsc{ipfv}  run",
+        "imtwordsbare": [
+            "3PL",
+            "IPFV",
+            "follow",
+            "3PL",
+            "self",
+            "3PL",
+            "IPFV",
+            "run"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "follow",
+            "<span class=\"sc\">3pl</span>",
+            "self",
+            "<span class=\"sc\">3pl</span>",
+            "<span class=\"sc\">ipfv</span>",
+            "run"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "\\textsc{ipfv}",
+            "follow",
+            "\\textsc{3pl}",
+            "self",
+            "\\textsc{3pl}",
+            "\\textsc{ipfv}",
+            "run"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn  de  f\u00e1la    d\u025bn  s\u025b\u0301f  d\u025bn  de  r\u0254\u0301n.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "de",
+            "f\u00e1la",
+            "d\u025bn",
+            "s\u025b\u0301f",
+            "d\u025bn",
+            "de",
+            "r\u0254\u0301n."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "de",
+            "f\u00e1la",
+            "d\u025bn",
+            "s\u025b\u0301f",
+            "d\u025bn",
+            "de",
+            "r\u0254\u0301n."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "de",
+            "f\u00e1la",
+            "d\u025bn",
+            "s\u025b\u0301f",
+            "d\u025bn",
+            "de",
+            "r\u0254\u0301n."
+        ],
+        "trs": "They\u2019re following each other running.\u2019 [dj07re 005]",
+        "wlength": 8
+    },
+    {
+        "ID": "11-178157",
+        "categories": [
+            "3sg",
+            "def",
+            "sbj"
+        ],
+        "clength": 83,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3sg.sbj}  paint  \\textsc{def}  house  black",
+        "imtwordsbare": [
+            "3sg.sbj",
+            "paint",
+            "DEF",
+            "house",
+            "black"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.sbj</span>",
+            "paint",
+            "<span class=\"sc\">def</span>",
+            "house",
+            "black"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.sbj}",
+            "paint",
+            "\\textsc{def}",
+            "house",
+            "black"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "E    \\textstylePichiexamplebold{p\u00e9nt}  di  h\u00f3s    \\textstylePichiexamplebold{bl\u00e1k}.",
+        "srcwordsbare": [
+            "E",
+            "p\u00e9nt",
+            "di",
+            "h\u00f3s",
+            "bl\u00e1k."
+        ],
+        "srcwordshtml": [
+            "E",
+            "<span class=\"stylePichiexamplebold\">p\u00e9nt</span>",
+            "di",
+            "h\u00f3s",
+            "<span class=\"stylePichiexamplebold\">bl\u00e1k</span>."
+        ],
+        "srcwordstex": [
+            "E",
+            "\\textstylePichiexamplebold{p\u00e9nt}",
+            "di",
+            "h\u00f3s",
+            "\\textstylePichiexamplebold{bl\u00e1k}."
+        ],
+        "trs": "He painted the house black.\u2019 [pa07me 037]",
+        "wlength": 5
+    },
+    {
+        "ID": "11-909491",
+        "categories": [
+            "3pl",
+            "3sg",
+            "def",
+            "sbj"
+        ],
+        "clength": 152,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}    make  \\textsc{def}  coffee  \\textsc{3sg.sbj}  too  be.sweet",
+        "imtwordsbare": [
+            "3PL",
+            "make",
+            "DEF",
+            "coffee",
+            "3sg.sbj",
+            "too",
+            "be.sweet"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "make",
+            "<span class=\"sc\">def</span>",
+            "coffee",
+            "<span class=\"sc\">3sg.sbj</span>",
+            "too",
+            "be.sweet"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "make",
+            "\\textsc{def}",
+            "coffee",
+            "\\textsc{3sg.sbj}",
+            "too",
+            "be.sweet"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn    \\textstylePichiexamplebold{m\u00e9k}    di  caf\u00e9    \\textstylePichiexamplebold{e}    \\textstylePichiexamplebold{t\u00fa}  \\textstylePichiexamplebold{sw\u00edt}.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "m\u00e9k",
+            "di",
+            "caf\u00e9",
+            "e",
+            "t\u00fa",
+            "sw\u00edt."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "<span class=\"stylePichiexamplebold\">m\u00e9k</span>",
+            "di",
+            "caf\u00e9",
+            "<span class=\"stylePichiexamplebold\">e</span>",
+            "<span class=\"stylePichiexamplebold\">t\u00fa</span>",
+            "<span class=\"stylePichiexamplebold\">sw\u00edt</span>."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "\\textstylePichiexamplebold{m\u00e9k}",
+            "di",
+            "caf\u00e9",
+            "\\textstylePichiexamplebold{e}",
+            "\\textstylePichiexamplebold{t\u00fa}",
+            "\\textstylePichiexamplebold{sw\u00edt}."
+        ],
+        "trs": "They prepared the coffee (it\u2019s) too sweet.\u2019 [ra07ve 064]",
+        "wlength": 7
+    },
+    {
+        "ID": "11-266946",
+        "categories": [
+            "3pl",
+            "def"
+        ],
+        "clength": 84,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}  build  \\textsc{def}  road    be.ugly",
+        "imtwordsbare": [
+            "3PL",
+            "build",
+            "DEF",
+            "road",
+            "be.ugly"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "build",
+            "<span class=\"sc\">def</span>",
+            "road",
+            "be.ugly"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "build",
+            "\\textsc{def}",
+            "road",
+            "be.ugly"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn  \\textstylePichiexamplebold{b\u00edl}   di  r\u00f3d    \\textstylePichiexamplebold{w\u0254w\u0254\u0301}.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "b\u00edl",
+            "di",
+            "r\u00f3d",
+            "w\u0254w\u0254\u0301."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "<span class=\"stylePichiexamplebold\">b\u00edl</span>",
+            "di",
+            "r\u00f3d",
+            "<span class=\"stylePichiexamplebold\">w\u0254w\u0254\u0301</span>."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "\\textstylePichiexamplebold{b\u00edl}",
+            "di",
+            "r\u00f3d",
+            "\\textstylePichiexamplebold{w\u0254w\u0254\u0301}."
+        ],
+        "trs": "They built the road (and it\u2019s) shoddy.\u2019 [ra07ve 059]",
+        "wlength": 5
+    },
+    {
+        "ID": "11--76338",
+        "categories": [
+            "3pl",
+            "3sg",
+            "obj"
+        ],
+        "clength": 112,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{3pl}  build=\\textsc{3sg.obj}  ugly    style",
+        "imtwordsbare": [
+            "3PL",
+            "build=3sg.obj",
+            "ugly",
+            "style"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3pl</span>",
+            "build=<span class=\"sc\">3sg.obj</span>",
+            "ugly",
+            "style"
+        ],
+        "imtwordstex": [
+            "\\textsc{3pl}",
+            "build=\\textsc{3sg.obj}",
+            "ugly",
+            "style"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "D\u025bn  \\textstylePichiexamplebold{b\u00edl}=an    \\textstylePichiexamplebold{w\u0254w\u0254\u0301}  \\textstylePichiexamplebold{st\u00e1yl}.",
+        "srcwordsbare": [
+            "D\u025bn",
+            "b\u00edl=an",
+            "w\u0254w\u0254\u0301",
+            "st\u00e1yl."
+        ],
+        "srcwordshtml": [
+            "D\u025bn",
+            "<span class=\"stylePichiexamplebold\">b\u00edl</span>=an",
+            "<span class=\"stylePichiexamplebold\">w\u0254w\u0254\u0301</span>",
+            "<span class=\"stylePichiexamplebold\">st\u00e1yl</span>."
+        ],
+        "srcwordstex": [
+            "D\u025bn",
+            "\\textstylePichiexamplebold{b\u00edl}=an",
+            "\\textstylePichiexamplebold{w\u0254w\u0254\u0301}",
+            "\\textstylePichiexamplebold{st\u00e1yl}."
+        ],
+        "trs": "They built it (and it\u2019s) shoddy.\u2019 \\textsc{Or} \u2018They built it shoddily.\u2019 [ra07ve 060]",
+        "wlength": 4
+    },
+    {
+        "ID": "11-470391",
+        "categories": [
+            "def"
+        ],
+        "clength": 31,
+        "coordination": "and",
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{def}  woman  cook  rice    sell",
+        "imtwordsbare": [
+            "DEF",
+            "woman",
+            "cook",
+            "rice",
+            "sell"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">def</span>",
+            "woman",
+            "cook",
+            "rice",
+            "sell"
+        ],
+        "imtwordstex": [
+            "\\textsc{def}",
+            "woman",
+            "cook",
+            "rice",
+            "sell"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "Di  w\u00fam\u00e1n  k\u00fak    r\u025b\u0301s    s\u025b\u0301l.",
+        "srcwordsbare": [
+            "Di",
+            "w\u00fam\u00e1n",
+            "k\u00fak",
+            "r\u025b\u0301s",
+            "s\u025b\u0301l."
+        ],
+        "srcwordshtml": [
+            "Di",
+            "w\u00fam\u00e1n",
+            "k\u00fak",
+            "r\u025b\u0301s",
+            "s\u025b\u0301l."
+        ],
+        "srcwordstex": [
+            "Di",
+            "w\u00fam\u00e1n",
+            "k\u00fak",
+            "r\u025b\u0301s",
+            "s\u025b\u0301l."
+        ],
+        "trs": "The woman cooked rice and sold it.\u2019 \\citep[72]{Finney2004}",
+        "wlength": 5
+    },
+    {
+        "ID": "11--77908",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 54,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  eat    be.tired",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "eat",
+            "be.tired"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "eat",
+            "be.tired"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "eat",
+            "be.tired"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    \\textbf{ch\u0254\u0301p}  \\textstylePichiexamplebold{t\u00e1ya}.",
+        "srcwordsbare": [
+            "A",
+            "ch\u0254\u0301p",
+            "t\u00e1ya."
+        ],
+        "srcwordshtml": [
+            "A",
+            "<span class=\"bf\">ch\u0254\u0301p</span>",
+            "<span class=\"stylePichiexamplebold\">t\u00e1ya</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "\\textbf{ch\u0254\u0301p}",
+            "\\textstylePichiexamplebold{t\u00e1ya}."
+        ],
+        "trs": "I ate (until I was) tired (of it).\u2019 (field data)",
+        "wlength": 3
+    },
+    {
+        "ID": "11-390361",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 56,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  eat    finish",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "eat",
+            "finish"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "eat",
+            "finish"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "eat",
+            "finish"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    \\textbf{ch\u0254\u0301p}  \\textstylePichiexamplebold{f\u00ednish}.",
+        "srcwordsbare": [
+            "A",
+            "ch\u0254\u0301p",
+            "f\u00ednish."
+        ],
+        "srcwordshtml": [
+            "A",
+            "<span class=\"bf\">ch\u0254\u0301p</span>",
+            "<span class=\"stylePichiexamplebold\">f\u00ednish</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "\\textbf{ch\u0254\u0301p}",
+            "\\textstylePichiexamplebold{f\u00ednish}."
+        ],
+        "trs": "I\u2019ve finished eating/ I\u2019m done eating.\u2019 (field data)",
+        "wlength": 3
+    },
+    {
+        "ID": "11-464158",
+        "categories": [
+            "1sg",
+            "sbj"
+        ],
+        "clength": 119,
+        "filename": "85/chapters/11.tex",
+        "imt": "\\textsc{1sg.sbj}  travel   until  be.tired",
+        "imtwordsbare": [
+            "1sg.sbj",
+            "travel",
+            "until",
+            "be.tired"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg.sbj</span>",
+            "travel",
+            "until",
+            "be.tired"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg.sbj}",
+            "travel",
+            "until",
+            "be.tired"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "A    viaja  *(\\textstylePichiexamplebold{s\u00f3t\u00e9}\\textstylePichiexamplebold{\\textmd{)}}  \\textstylePichiexamplebold{t\u00e1ya}.",
+        "srcwordsbare": [
+            "A",
+            "viaja",
+            "*(s\u00f3t\u00e9\\textmd{)}",
+            "t\u00e1ya."
+        ],
+        "srcwordshtml": [
+            "A",
+            "viaja",
+            "*(<span class=\"stylePichiexamplebold\">s\u00f3t\u00e9</span><span class=\"stylePichiexamplebold\">\\textmd{)</span>}",
+            "<span class=\"stylePichiexamplebold\">t\u00e1ya</span>."
+        ],
+        "srcwordstex": [
+            "A",
+            "viaja",
+            "*(\\textstylePichiexamplebold{s\u00f3t\u00e9}\\textstylePichiexamplebold{\\textmd{)}}",
+            "\\textstylePichiexamplebold{t\u00e1ya}."
+        ],
+        "trs": "I travelled until (I was) tired (of it).\u2019 [ju07ae 531]",
+        "wlength": 4
+    },
+    {
+        "ID": "11-824478",
+        "categories": [
+            "1pl",
+            "1sg",
+            "2sg",
+            "indp",
+            "ipfv",
+            "sbj"
+        ],
+        "clength": 113,
+        "filename": "85/chapters/11.tex",
+        "imt": "but  \\textsc{1pl}  can  \\textsc{ipfv}  play  \\textsc{1sg.sbj}  make.contact    \\textsc{2sg.indp}  \\textsc{2sg}  fall",
+        "imtwordsbare": [
+            "but",
+            "1PL",
+            "can",
+            "IPFV",
+            "play",
+            "1sg.sbj",
+            "make.contact",
+            "2sg.indp",
+            "2SG",
+            "fall"
+        ],
+        "imtwordshtml": [
+            "but",
+            "<span class=\"sc\">1pl</span>",
+            "can",
+            "<span class=\"sc\">ipfv</span>",
+            "play",
+            "<span class=\"sc\">1sg.sbj</span>",
+            "make.contact",
+            "<span class=\"sc\">2sg.indp</span>",
+            "<span class=\"sc\">2sg</span>",
+            "fall"
+        ],
+        "imtwordstex": [
+            "but",
+            "\\textsc{1pl}",
+            "can",
+            "\\textsc{ipfv}",
+            "play",
+            "\\textsc{1sg.sbj}",
+            "make.contact",
+            "\\textsc{2sg.indp}",
+            "\\textsc{2sg}",
+            "fall"
+        ],
+        "language": "85/chapters/11.tex",
+        "src": "B\u0254t  wi  f\u00edt  de  pl\u00e9,  a    \\textstylePichiexamplebold{j\u00e1m}        y\u00fa    yu  \\textstylePichiexamplebold{f\u0254d\u0254\u0301n}.",
+        "srcwordsbare": [
+            "B\u0254t",
+            "wi",
+            "f\u00edt",
+            "de",
+            "pl\u00e9,",
+            "a",
+            "j\u00e1m",
+            "y\u00fa",
+            "yu",
+            "f\u0254d\u0254\u0301n."
+        ],
+        "srcwordshtml": [
+            "B\u0254t",
+            "wi",
+            "f\u00edt",
+            "de",
+            "pl\u00e9,",
+            "a",
+            "<span class=\"stylePichiexamplebold\">j\u00e1m</span>",
+            "y\u00fa",
+            "yu",
+            "<span class=\"stylePichiexamplebold\">f\u0254d\u0254\u0301n</span>."
+        ],
+        "srcwordstex": [
+            "B\u0254t",
+            "wi",
+            "f\u00edt",
+            "de",
+            "pl\u00e9,",
+            "a",
+            "\\textstylePichiexamplebold{j\u00e1m}",
+            "y\u00fa",
+            "yu",
+            "\\textstylePichiexamplebold{f\u0254d\u0254\u0301n}."
+        ],
+        "trs": "But we could be playing, I hit you (and) you fall.\u2019 [au07se 178]\\is{resultative constructions}",
+        "wlength": 10
+    }
+]

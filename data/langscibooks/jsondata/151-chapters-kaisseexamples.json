@@ -1,0 +1,564 @@
+[
+    {
+        "ID": "kaisse--72006",
+        "categories": [
+            "2sg",
+            "imp"
+        ],
+        "clength": 16,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "buy \\squish-\\textsc{2sg.imp}",
+        "imtwordsbare": [
+            "buy",
+            "\\squish-2sg.imp"
+        ],
+        "imtwordshtml": [
+            "buy",
+            "\\squish-<span class=\"sc\">2sg.imp</span>"
+        ],
+        "imtwordstex": [
+            "buy",
+            "\\squish-\\textsc{2sg.imp}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "\u02c8kompr \\squish-\u0259",
+        "srcwordsbare": [
+            "\u02c8kompr",
+            "\\squish-\u0259"
+        ],
+        "srcwordshtml": [
+            "\u02c8kompr",
+            "\\squish-\u0259"
+        ],
+        "srcwordstex": [
+            "\u02c8kompr",
+            "\\squish-\u0259"
+        ],
+        "trs": "Buy!",
+        "wlength": 2
+    },
+    {
+        "ID": "kaisse--76609",
+        "categories": [
+            "2sg",
+            "3sg",
+            "acc",
+            "imp",
+            "m"
+        ],
+        "clength": 27,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "buy \\squish-\\textsc{2sg.imp} \\squish=\\textsc{3sg.m.acc}",
+        "imtwordsbare": [
+            "buy",
+            "\\squish-2sg.imp",
+            "\\squish=3sg.m.acc"
+        ],
+        "imtwordshtml": [
+            "buy",
+            "\\squish-<span class=\"sc\">2sg.imp</span>",
+            "\\squish=<span class=\"sc\">3sg.m.acc</span>"
+        ],
+        "imtwordstex": [
+            "buy",
+            "\\squish-\\textsc{2sg.imp}",
+            "\\squish=\\textsc{3sg.m.acc}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "kum\u02c8pr \\squish-\u0259  \\squish=l",
+        "srcwordsbare": [
+            "kum\u02c8pr",
+            "\\squish-\u0259",
+            "\\squish=l"
+        ],
+        "srcwordshtml": [
+            "kum\u02c8pr",
+            "\\squish-\u0259",
+            "\\squish=l"
+        ],
+        "srcwordstex": [
+            "kum\u02c8pr",
+            "\\squish-\u0259",
+            "\\squish=l"
+        ],
+        "trs": "Buy it/him!",
+        "wlength": 3
+    },
+    {
+        "ID": "kaisse-314955",
+        "categories": [
+            "",
+            "1sgdat",
+            "2sg",
+            "3sg",
+            "acc",
+            "f",
+            "imp"
+        ],
+        "clength": 38,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "buy \\squish\\textsc{-2sg.imp} \\squish\\textsc{=1sgdat} \\squish\\textsc{=3sg.f.acc}",
+        "imtwordsbare": [
+            "buy",
+            "\\squish-2sg.imp",
+            "\\squish=1sgdat",
+            "\\squish=3sg.f.acc"
+        ],
+        "imtwordshtml": [
+            "buy",
+            "\\squish<span class=\"sc\">-2sg.imp</span>",
+            "\\squish<span class=\"sc\">=1sgdat</span>",
+            "\\squish<span class=\"sc\">=3sg.f.acc</span>"
+        ],
+        "imtwordstex": [
+            "buy",
+            "\\squish\\textsc{-2sg.imp}",
+            "\\squish\\textsc{=1sgdat}",
+            "\\squish\\textsc{=3sg.f.acc}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "kumpr \\squish-\u0259 \\squish=\u02c8m\u0259 \\squish=l\u0259",
+        "srcwordsbare": [
+            "kumpr",
+            "\\squish-\u0259",
+            "\\squish=\u02c8m\u0259",
+            "\\squish=l\u0259"
+        ],
+        "srcwordshtml": [
+            "kumpr",
+            "\\squish-\u0259",
+            "\\squish=\u02c8m\u0259",
+            "\\squish=l\u0259"
+        ],
+        "srcwordstex": [
+            "kumpr",
+            "\\squish-\u0259",
+            "\\squish=\u02c8m\u0259",
+            "\\squish=l\u0259"
+        ],
+        "trs": "Buy it/her for me!",
+        "wlength": 4
+    },
+    {
+        "ID": "kaisse-957458",
+        "categories": [
+            "",
+            "3sg",
+            "fem",
+            "m",
+            "obj",
+            "tns"
+        ],
+        "clength": 41,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "\\textsc{3sg.m}= {\\squish kill} \\squish=\\textsc{3sg.fem.obj} \\squish\\textsc{=tns}",
+        "imtwordsbare": [
+            "3sg.m=",
+            "{\\squish",
+            "kill}",
+            "\\squish=3sg.fem.obj",
+            "\\squish=tns"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg.m</span>=",
+            "{\\squish",
+            "kill}",
+            "\\squish=<span class=\"sc\">3sg.fem.obj</span>",
+            "\\squish<span class=\"sc\">=tns</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg.m}=",
+            "{\\squish",
+            "kill}",
+            "\\squish=\\textsc{3sg.fem.obj}",
+            "\\squish\\textsc{=tns}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "o=  {\\squish \u02c8\u03b2ou\u03b2a\u025b} \\squish=k \\squish=a",
+        "srcwordsbare": [
+            "o=",
+            "{\\squish",
+            "\u02c8\u03b2ou\u03b2a\u025b}",
+            "\\squish=k",
+            "\\squish=a"
+        ],
+        "srcwordshtml": [
+            "o=",
+            "{\\squish",
+            "\u02c8\u03b2ou\u03b2a\u025b}",
+            "\\squish=k",
+            "\\squish=a"
+        ],
+        "srcwordstex": [
+            "o=",
+            "{\\squish",
+            "\u02c8\u03b2ou\u03b2a\u025b}",
+            "\\squish=k",
+            "\\squish=a"
+        ],
+        "trs": "He killed it.",
+        "wlength": 5
+    },
+    {
+        "ID": "kaisse-470421",
+        "categories": [
+            "",
+            "3sg",
+            "fem",
+            "m",
+            "obj",
+            "sg",
+            "tns"
+        ],
+        "clength": 40,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "3\\textsc{sg.m}=  {\\squish call} \\squish=\\textsc{3sg.fem.obj} \\squish\\textsc{=tns}",
+        "imtwordsbare": [
+            "3sg.m=",
+            "{\\squish",
+            "call}",
+            "\\squish=3sg.fem.obj",
+            "\\squish=tns"
+        ],
+        "imtwordshtml": [
+            "3<span class=\"sc\">sg.m</span>=",
+            "{\\squish",
+            "call}",
+            "\\squish=<span class=\"sc\">3sg.fem.obj</span>",
+            "\\squish<span class=\"sc\">=tns</span>"
+        ],
+        "imtwordstex": [
+            "3\\textsc{sg.m}=",
+            "{\\squish",
+            "call}",
+            "\\squish=\\textsc{3sg.fem.obj}",
+            "\\squish\\textsc{=tns}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "\u02c8o=  {\\squish \u02c8odi\u025b} \\squish=k \\squish=a",
+        "srcwordsbare": [
+            "\u02c8o=",
+            "{\\squish",
+            "\u02c8odi\u025b}",
+            "\\squish=k",
+            "\\squish=a"
+        ],
+        "srcwordshtml": [
+            "\u02c8o=",
+            "{\\squish",
+            "\u02c8odi\u025b}",
+            "\\squish=k",
+            "\\squish=a"
+        ],
+        "srcwordstex": [
+            "\u02c8o=",
+            "{\\squish",
+            "\u02c8odi\u025b}",
+            "\\squish=k",
+            "\\squish=a"
+        ],
+        "trs": "He called her.",
+        "wlength": 5
+    },
+    {
+        "ID": "kaisse--72006",
+        "categories": [
+            "2sg",
+            "imp"
+        ],
+        "clength": 16,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "buy \\squish-\\textsc{2sg.imp}",
+        "imtwordsbare": [
+            "buy",
+            "\\squish-2sg.imp"
+        ],
+        "imtwordshtml": [
+            "buy",
+            "\\squish-<span class=\"sc\">2sg.imp</span>"
+        ],
+        "imtwordstex": [
+            "buy",
+            "\\squish-\\textsc{2sg.imp}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "\u02c8kompr \\squish-\u0259",
+        "srcwordsbare": [
+            "\u02c8kompr",
+            "\\squish-\u0259"
+        ],
+        "srcwordshtml": [
+            "\u02c8kompr",
+            "\\squish-\u0259"
+        ],
+        "srcwordstex": [
+            "\u02c8kompr",
+            "\\squish-\u0259"
+        ],
+        "trs": "Buy!",
+        "wlength": 2
+    },
+    {
+        "ID": "kaisse-556498",
+        "categories": [
+            "",
+            "1sgdat",
+            "2sg",
+            "3sg",
+            "acc",
+            "f",
+            "imp"
+        ],
+        "clength": 40,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "buy \\squish\\textsc{-2sg.imp} \\squish\\textsc{=1sgdat} \\squish\\textsc{=3sg.f.acc}",
+        "imtwordsbare": [
+            "buy",
+            "\\squish-2sg.imp",
+            "\\squish=1sgdat",
+            "\\squish=3sg.f.acc"
+        ],
+        "imtwordshtml": [
+            "buy",
+            "\\squish<span class=\"sc\">-2sg.imp</span>",
+            "\\squish<span class=\"sc\">=1sgdat</span>",
+            "\\squish<span class=\"sc\">=3sg.f.acc</span>"
+        ],
+        "imtwordstex": [
+            "buy",
+            "\\squish\\textsc{-2sg.imp}",
+            "\\squish\\textsc{=1sgdat}",
+            "\\squish\\textsc{=3sg.f.acc}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "\u02c8kompr \\squish-\u0259  \\squish=m\u0259  \\squish=l\u0259",
+        "srcwordsbare": [
+            "\u02c8kompr",
+            "\\squish-\u0259",
+            "\\squish=m\u0259",
+            "\\squish=l\u0259"
+        ],
+        "srcwordshtml": [
+            "\u02c8kompr",
+            "\\squish-\u0259",
+            "\\squish=m\u0259",
+            "\\squish=l\u0259"
+        ],
+        "srcwordstex": [
+            "\u02c8kompr",
+            "\\squish-\u0259",
+            "\\squish=m\u0259",
+            "\\squish=l\u0259"
+        ],
+        "trs": "Buy it/her for me!",
+        "wlength": 4
+    },
+    {
+        "ID": "kaisse-825899",
+        "categories": [
+            "",
+            "1sgdat",
+            "2sg",
+            "3sg",
+            "acc",
+            "imp",
+            "m"
+        ],
+        "clength": 39,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "buy \\squish-\\textsc{2sg.imp} \\squish\\textsc{=1sgdat} \\squish\\textsc{=3sg.m.acc}",
+        "imtwordsbare": [
+            "buy",
+            "\\squish-2sg.imp",
+            "\\squish=1sgdat",
+            "\\squish=3sg.m.acc"
+        ],
+        "imtwordshtml": [
+            "buy",
+            "\\squish-<span class=\"sc\">2sg.imp</span>",
+            "\\squish<span class=\"sc\">=1sgdat</span>",
+            "\\squish<span class=\"sc\">=3sg.m.acc</span>"
+        ],
+        "imtwordstex": [
+            "buy",
+            "\\squish-\\textsc{2sg.imp}",
+            "\\squish\\textsc{=1sgdat}",
+            "\\squish\\textsc{=3sg.m.acc}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "\u02c8kompr \\squish-\u0259  \\squish=m\u0259  \\squish=l",
+        "srcwordsbare": [
+            "\u02c8kompr",
+            "\\squish-\u0259",
+            "\\squish=m\u0259",
+            "\\squish=l"
+        ],
+        "srcwordshtml": [
+            "\u02c8kompr",
+            "\\squish-\u0259",
+            "\\squish=m\u0259",
+            "\\squish=l"
+        ],
+        "srcwordstex": [
+            "\u02c8kompr",
+            "\\squish-\u0259",
+            "\\squish=m\u0259",
+            "\\squish=l"
+        ],
+        "trs": "Buy it/him for me!",
+        "wlength": 4
+    },
+    {
+        "ID": "kaisse-336917",
+        "categories": [
+            "",
+            "cmpd",
+            "n",
+            "nom",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "wolf \\squish-\\textsc{cmpd-} {\\squish dog} \\squish\\textsc{-n.sg.nom}",
+        "imtwordsbare": [
+            "wolf",
+            "\\squish-cmpd-",
+            "{\\squish",
+            "dog}",
+            "\\squish-n.sg.nom"
+        ],
+        "imtwordshtml": [
+            "wolf",
+            "\\squish-<span class=\"sc\">cmpd-</span>",
+            "{\\squish",
+            "dog}",
+            "\\squish<span class=\"sc\">-n.sg.nom</span>"
+        ],
+        "imtwordstex": [
+            "wolf",
+            "\\squish-\\textsc{cmpd-}",
+            "{\\squish",
+            "dog}",
+            "\\squish\\textsc{-n.sg.nom}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "li\u02c8k \\squish-o- {\\squish skil} \\squish-o",
+        "srcwordsbare": [
+            "li\u02c8k",
+            "\\squish-o-",
+            "{\\squish",
+            "skil}",
+            "\\squish-o"
+        ],
+        "srcwordshtml": [
+            "li\u02c8k",
+            "\\squish-o-",
+            "{\\squish",
+            "skil}",
+            "\\squish-o"
+        ],
+        "srcwordstex": [
+            "li\u02c8k",
+            "\\squish-o-",
+            "{\\squish",
+            "skil}",
+            "\\squish-o"
+        ],
+        "trs": "wolfhound",
+        "wlength": 5
+    },
+    {
+        "ID": "kaisse--25799",
+        "categories": [
+            "",
+            "cmpd",
+            "n",
+            "nom",
+            "sg"
+        ],
+        "clength": 39,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "rice \\squish\\textsc{-cmpd-} {\\squish milk} \\squish-\\textsc{n.sg.nom}",
+        "imtwordsbare": [
+            "rice",
+            "\\squish-cmpd-",
+            "{\\squish",
+            "milk}",
+            "\\squish-n.sg.nom"
+        ],
+        "imtwordshtml": [
+            "rice",
+            "\\squish<span class=\"sc\">-cmpd-</span>",
+            "{\\squish",
+            "milk}",
+            "\\squish-<span class=\"sc\">n.sg.nom</span>"
+        ],
+        "imtwordstex": [
+            "rice",
+            "\\squish\\textsc{-cmpd-}",
+            "{\\squish",
+            "milk}",
+            "\\squish-\\textsc{n.sg.nom}"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "ri\u02c8z \\squish-o- {\\squish \u0263al} \\squish-o",
+        "srcwordsbare": [
+            "ri\u02c8z",
+            "\\squish-o-",
+            "{\\squish",
+            "\u0263al}",
+            "\\squish-o"
+        ],
+        "srcwordshtml": [
+            "ri\u02c8z",
+            "\\squish-o-",
+            "{\\squish",
+            "\u0263al}",
+            "\\squish-o"
+        ],
+        "srcwordstex": [
+            "ri\u02c8z",
+            "\\squish-o-",
+            "{\\squish",
+            "\u0263al}",
+            "\\squish-o"
+        ],
+        "trs": "rice pudding",
+        "wlength": 5
+    },
+    {
+        "ID": "kaisse-205244",
+        "categories": [],
+        "clength": 11,
+        "filename": "151/chapters/kaisse.tex",
+        "imt": "near village",
+        "imtwordsbare": [
+            "near",
+            "village"
+        ],
+        "imtwordshtml": [
+            "near",
+            "village"
+        ],
+        "imtwordstex": [
+            "near",
+            "village"
+        ],
+        "language": "151/chapters/kaisse.tex",
+        "src": "oko\u02c8lu selo",
+        "srcwordsbare": [
+            "oko\u02c8lu",
+            "selo"
+        ],
+        "srcwordshtml": [
+            "oko\u02c8lu",
+            "selo"
+        ],
+        "srcwordstex": [
+            "oko\u02c8lu",
+            "selo"
+        ],
+        "trs": "near the village",
+        "wlength": 2
+    }
+]

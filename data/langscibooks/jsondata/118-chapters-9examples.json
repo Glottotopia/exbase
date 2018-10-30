@@ -1,0 +1,2761 @@
+[
+    {
+        "ID": "9-549733",
+        "categories": [
+            "s"
+        ],
+        "clength": 23,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}-slay{}-{\\CL}  goat",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S-slay{}-{\\CL}",
+            "goat"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-slay{}-{\\CL}",
+            "goat"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}-slay{}-{\\CL}",
+            "goat"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana a{}-\u026c{}-aj    awak",
+        "srcwordsbare": [
+            "Mana",
+            "a{}-\u026c{}-aj",
+            "awak"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "a{}-\u026c{}-aj",
+            "awak"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "a{}-\u026c{}-aj",
+            "awak"
+        ],
+        "trs": "Mana slays a goat.",
+        "wlength": 3
+    },
+    {
+        "ID": "9-395591",
+        "categories": [
+            "s"
+        ],
+        "clength": 34,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}-slay{}-{\\CL}      \\oldstylenums{3}\\textsc{s}.{\\DO}",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S-slay{}-{\\CL}",
+            "\\oldstylenums{3}S.{\\DO}"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-slay{}-{\\CL}",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>.{\\DO}"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}-slay{}-{\\CL}",
+            "\\oldstylenums{3}\\textsc{s}.{\\DO}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "\\textbf{a-}\u026c{}-aj      \\textbf{na}",
+        "srcwordsbare": [
+            "a-\u026c{}-aj",
+            "na"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">a-</span>\u026c{}-aj",
+            "<span class=\"bf\">na</span>"
+        ],
+        "srcwordstex": [
+            "\\textbf{a-}\u026c{}-aj",
+            "\\textbf{na}"
+        ],
+        "trs": "He slays it.",
+        "wlength": 2
+    },
+    {
+        "ID": "9-387042",
+        "categories": [
+            "s"
+        ],
+        "clength": 27,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}  {\\DAT} dog",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S-hit=\\oldstylenums{3}S.{\\IO}",
+            "{\\DAT}",
+            "dog"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-hit=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "{\\DAT}",
+            "dog"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "{\\DAT}",
+            "dog"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   a-\u0253=a\u014b    ana   k\u0259ra",
+        "srcwordsbare": [
+            "Mana",
+            "a-\u0253=a\u014b",
+            "ana",
+            "k\u0259ra"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "a-\u0253=a\u014b",
+            "ana",
+            "k\u0259ra"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "a-\u0253=a\u014b",
+            "ana",
+            "k\u0259ra"
+        ],
+        "trs": "Mana hits a dog.\u2019 (lit. he hits to him to dog)",
+        "wlength": 4
+    },
+    {
+        "ID": "9-708988",
+        "categories": [
+            "s"
+        ],
+        "clength": 6,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S-hit=\\oldstylenums{3}S.{\\IO}"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-hit=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "a-\u0253=a\u014b",
+        "srcwordsbare": [
+            "a-\u0253=a\u014b"
+        ],
+        "srcwordshtml": [
+            "a-\u0253=a\u014b"
+        ],
+        "srcwordstex": [
+            "a-\u0253=a\u014b"
+        ],
+        "trs": "He hits him.\u2019 (lit. he hits to him)",
+        "wlength": 1
+    },
+    {
+        "ID": "9--85256",
+        "categories": [
+            "s"
+        ],
+        "clength": 33,
+        "filename": "118/chapters/9.tex",
+        "imt": "Hawa  {\\oldstylenums{3}\\textsc{s}-be.located}  at  home",
+        "imtwordsbare": [
+            "Hawa",
+            "{\\oldstylenums{3}S-be.located}",
+            "at",
+            "home"
+        ],
+        "imtwordshtml": [
+            "Hawa",
+            "{\\oldstylenums{3}<span class=\"sc\">s</span>-be.located}",
+            "at",
+            "home"
+        ],
+        "imtwordstex": [
+            "Hawa",
+            "{\\oldstylenums{3}\\textsc{s}-be.located}",
+            "at",
+            "home"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Hawa \\textbf{a-ndaj}    a  m\u0254g\u02b7\u0254m",
+        "srcwordsbare": [
+            "Hawa",
+            "a-ndaj",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "srcwordshtml": [
+            "Hawa",
+            "<span class=\"bf\">a-ndaj</span>",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "srcwordstex": [
+            "Hawa",
+            "\\textbf{a-ndaj}",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "trs": "Hawa is at home.",
+        "wlength": 4
+    },
+    {
+        "ID": "9-838036",
+        "categories": [
+            "s"
+        ],
+        "clength": 27,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}-be  at  Maroua",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S-be",
+            "at",
+            "Maroua"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-be",
+            "at",
+            "Maroua"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}-be",
+            "at",
+            "Maroua"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "\\textbf{a-ndaj}   a   marva",
+        "srcwordsbare": [
+            "a-ndaj",
+            "a",
+            "marva"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">a-ndaj</span>",
+            "a",
+            "marva"
+        ],
+        "srcwordstex": [
+            "\\textbf{a-ndaj}",
+            "a",
+            "marva"
+        ],
+        "trs": "She is in Maroua.",
+        "wlength": 3
+    },
+    {
+        "ID": "9--80345",
+        "categories": [
+            "s"
+        ],
+        "clength": 36,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\PFV}-leave-{\\CL}  at  home",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\PFV}-leave-{\\CL}",
+            "at",
+            "home"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-leave-{\\CL}",
+            "at",
+            "home"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-leave-{\\CL}",
+            "at",
+            "home"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \\`{\u025b}-n\u0292-\\'{\u025b}     a   m\u0254g\u02b7\u0254m",
+        "srcwordsbare": [
+            "Mana",
+            "\\`{\u025b}-n\u0292-\\'{\u025b}",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\\`{\u025b}-n\u0292-\\'{\u025b}",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\\`{\u025b}-n\u0292-\\'{\u025b}",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "trs": "Mana went home.\u2019 (lit. Mana left to home)",
+        "wlength": 4
+    },
+    {
+        "ID": "9--47283",
+        "categories": [
+            "s"
+        ],
+        "clength": 43,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\PFV}-leave-{\\CL}  goat  at  home",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\PFV}-leave-{\\CL}",
+            "goat",
+            "at",
+            "home"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-leave-{\\CL}",
+            "goat",
+            "at",
+            "home"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-leave-{\\CL}",
+            "goat",
+            "at",
+            "home"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \\`{\u025b}-n\u0292-\\'{\u025b}     awak   a   m\u0254g\u02b7\u0254m",
+        "srcwordsbare": [
+            "Mana",
+            "\\`{\u025b}-n\u0292-\\'{\u025b}",
+            "awak",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\\`{\u025b}-n\u0292-\\'{\u025b}",
+            "awak",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\\`{\u025b}-n\u0292-\\'{\u025b}",
+            "awak",
+            "a",
+            "m\u0254g\u02b7\u0254m"
+        ],
+        "trs": "Mana took the goat home.\u2019 (lit. Mana left goat to home)",
+        "wlength": 5
+    },
+    {
+        "ID": "9--56074",
+        "categories": [
+            "p",
+            "s"
+        ],
+        "clength": 37,
+        "filename": "118/chapters/9.tex",
+        "imt": "elephant  \\oldstylenums{3}\\textsc{s}+{\\PFV}-fear=\\oldstylenums{3}\\textsc{p}.{\\IO}  {\\DAT} children=PL",
+        "imtwordsbare": [
+            "elephant",
+            "\\oldstylenums{3}S+{\\PFV}-fear=\\oldstylenums{3}P.{\\IO}",
+            "{\\DAT}",
+            "children=PL"
+        ],
+        "imtwordshtml": [
+            "elephant",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-fear=\\oldstylenums{3}<span class=\"sc\">p</span>.{\\IO}",
+            "{\\DAT}",
+            "children=PL"
+        ],
+        "imtwordstex": [
+            "elephant",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-fear=\\oldstylenums{3}\\textsc{p}.{\\IO}",
+            "{\\DAT}",
+            "children=PL"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "mb\u025bl\u025bl\u025b   \u00e0-gar=ata  ana  bab\u0259za=ahaj",
+        "srcwordsbare": [
+            "mb\u025bl\u025bl\u025b",
+            "\u00e0-gar=ata",
+            "ana",
+            "bab\u0259za=ahaj"
+        ],
+        "srcwordshtml": [
+            "mb\u025bl\u025bl\u025b",
+            "\u00e0-gar=ata",
+            "ana",
+            "bab\u0259za=ahaj"
+        ],
+        "srcwordstex": [
+            "mb\u025bl\u025bl\u025b",
+            "\u00e0-gar=ata",
+            "ana",
+            "bab\u0259za=ahaj"
+        ],
+        "trs": "The children are afraid of the elephant.",
+        "wlength": 4
+    },
+    {
+        "ID": "9-439354",
+        "categories": [
+            "s"
+        ],
+        "clength": 23,
+        "filename": "118/chapters/9.tex",
+        "imt": "Hawa    \\oldstylenums{3}\\textsc{s}+{\\IFV}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}  {\\DAT}   dog",
+        "imtwordsbare": [
+            "Hawa",
+            "\\oldstylenums{3}S+{\\IFV}-hit=\\oldstylenums{3}S.{\\IO}",
+            "{\\DAT}",
+            "dog"
+        ],
+        "imtwordshtml": [
+            "Hawa",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-hit=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "{\\DAT}",
+            "dog"
+        ],
+        "imtwordstex": [
+            "Hawa",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "{\\DAT}",
+            "dog"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Hawa  \u00e1-\u0253=a\u014b  ana  k\u0259ra",
+        "srcwordsbare": [
+            "Hawa",
+            "\u00e1-\u0253=a\u014b",
+            "ana",
+            "k\u0259ra"
+        ],
+        "srcwordshtml": [
+            "Hawa",
+            "\u00e1-\u0253=a\u014b",
+            "ana",
+            "k\u0259ra"
+        ],
+        "srcwordstex": [
+            "Hawa",
+            "\u00e1-\u0253=a\u014b",
+            "ana",
+            "k\u0259ra"
+        ],
+        "trs": "Hawa hits the dog.\u2019}",
+        "wlength": 4
+    },
+    {
+        "ID": "9--82546",
+        "categories": [
+            "s"
+        ],
+        "clength": 6,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}+{\\IFV}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S+{\\IFV}-hit=\\oldstylenums{3}S.{\\IO}"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-hit=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-hit=\\oldstylenums{3}\\textsc{s}.{\\IO}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "\u00e1-\u0253=a\u014b",
+        "srcwordsbare": [
+            "\u00e1-\u0253=a\u014b"
+        ],
+        "srcwordshtml": [
+            "\u00e1-\u0253=a\u014b"
+        ],
+        "srcwordstex": [
+            "\u00e1-\u0253=a\u014b"
+        ],
+        "trs": "She hits it.\u2019}",
+        "wlength": 1
+    },
+    {
+        "ID": "9--57692",
+        "categories": [
+            "s"
+        ],
+        "clength": 31,
+        "filename": "118/chapters/9.tex",
+        "imt": "meat    \\oldstylenums{3}\\textsc{s}+{\\IFV}-please=\\oldstylenums{3}\\textsc{s}.{\\IO}  {\\DAT}  Mana",
+        "imtwordsbare": [
+            "meat",
+            "\\oldstylenums{3}S+{\\IFV}-please=\\oldstylenums{3}S.{\\IO}",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordshtml": [
+            "meat",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-please=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordstex": [
+            "meat",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-please=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "\u0283\u025b\u0283\u025b  \u00e1-s=a\u014b         ana   Mana",
+        "srcwordsbare": [
+            "\u0283\u025b\u0283\u025b",
+            "\u00e1-s=a\u014b",
+            "ana",
+            "Mana"
+        ],
+        "srcwordshtml": [
+            "\u0283\u025b\u0283\u025b",
+            "\u00e1-s=a\u014b",
+            "ana",
+            "Mana"
+        ],
+        "srcwordstex": [
+            "\u0283\u025b\u0283\u025b",
+            "\u00e1-s=a\u014b",
+            "ana",
+            "Mana"
+        ],
+        "trs": "Meat is pleasing to Mana.",
+        "wlength": 4
+    },
+    {
+        "ID": "9--20532",
+        "categories": [
+            "s"
+        ],
+        "clength": 22,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\PFV}-open{}-{\\CL}  door",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\PFV}-open{}-{\\CL}",
+            "door"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-open{}-{\\CL}",
+            "door"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-open{}-{\\CL}",
+            "door"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \u00e0-p-aj    mahaj",
+        "srcwordsbare": [
+            "Mana",
+            "\u00e0-p-aj",
+            "mahaj"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\u00e0-p-aj",
+            "mahaj"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\u00e0-p-aj",
+            "mahaj"
+        ],
+        "trs": "He/she opened the door.",
+        "wlength": 3
+    },
+    {
+        "ID": "9--70200",
+        "categories": [
+            "s"
+        ],
+        "clength": 35,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\PFV}-open=\\oldstylenums{3}\\textsc{s}.{\\IO}  door  {\\DAT} Hawa",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\PFV}-open=\\oldstylenums{3}S.{\\IO}",
+            "door",
+            "{\\DAT}",
+            "Hawa"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-open=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "door",
+            "{\\DAT}",
+            "Hawa"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-open=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "door",
+            "{\\DAT}",
+            "Hawa"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \u00e0-p=a\u014b      mahaj  ana  Hawa",
+        "srcwordsbare": [
+            "Mana",
+            "\u00e0-p=a\u014b",
+            "mahaj",
+            "ana",
+            "Hawa"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\u00e0-p=a\u014b",
+            "mahaj",
+            "ana",
+            "Hawa"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\u00e0-p=a\u014b",
+            "mahaj",
+            "ana",
+            "Hawa"
+        ],
+        "trs": "Mana opened the door for Hawa.",
+        "wlength": 5
+    },
+    {
+        "ID": "9-871934",
+        "categories": [
+            "s"
+        ],
+        "clength": 20,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mala  \\oldstylenums{3}\\textsc{s}+{\\IFV}-see  goat",
+        "imtwordsbare": [
+            "Mala",
+            "\\oldstylenums{3}S+{\\IFV}-see",
+            "goat"
+        ],
+        "imtwordshtml": [
+            "Mala",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-see",
+            "goat"
+        ],
+        "imtwordstex": [
+            "Mala",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-see",
+            "goat"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mala \u00e1-m\u0259nzar   awak",
+        "srcwordsbare": [
+            "Mala",
+            "\u00e1-m\u0259nzar",
+            "awak"
+        ],
+        "srcwordshtml": [
+            "Mala",
+            "\u00e1-m\u0259nzar",
+            "awak"
+        ],
+        "srcwordstex": [
+            "Mala",
+            "\u00e1-m\u0259nzar",
+            "awak"
+        ],
+        "trs": "Mala sees a goat.\u2019{ }",
+        "wlength": 3
+    },
+    {
+        "ID": "9--72135",
+        "categories": [
+            "s"
+        ],
+        "clength": 45,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mala  \\oldstylenums{3}\\textsc{s}-go  \\oldstylenums{3}\\textsc{s}-see=\\oldstylenums{3}\\textsc{s}.{\\IO}  goat  {\\DAT} chief",
+        "imtwordsbare": [
+            "Mala",
+            "\\oldstylenums{3}S-go",
+            "\\oldstylenums{3}S-see=\\oldstylenums{3}S.{\\IO}",
+            "goat",
+            "{\\DAT}",
+            "chief"
+        ],
+        "imtwordshtml": [
+            "Mala",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-go",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-see=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "goat",
+            "{\\DAT}",
+            "chief"
+        ],
+        "imtwordstex": [
+            "Mala",
+            "\\oldstylenums{3}\\textsc{s}-go",
+            "\\oldstylenums{3}\\textsc{s}-see=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "goat",
+            "{\\DAT}",
+            "chief"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mala  \u0254{}-l\u0254    a-m\u0259nzar=a\u014b  awak  ana  bahaj",
+        "srcwordsbare": [
+            "Mala",
+            "\u0254{}-l\u0254",
+            "a-m\u0259nzar=a\u014b",
+            "awak",
+            "ana",
+            "bahaj"
+        ],
+        "srcwordshtml": [
+            "Mala",
+            "\u0254{}-l\u0254",
+            "a-m\u0259nzar=a\u014b",
+            "awak",
+            "ana",
+            "bahaj"
+        ],
+        "srcwordstex": [
+            "Mala",
+            "\u0254{}-l\u0254",
+            "a-m\u0259nzar=a\u014b",
+            "awak",
+            "ana",
+            "bahaj"
+        ],
+        "trs": "Mala went to see a person\u2019s goat in the chief\u2019s place.\u2019{ }",
+        "wlength": 6
+    },
+    {
+        "ID": "9-656944",
+        "categories": [
+            "s"
+        ],
+        "clength": 30,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\PFV}-say=\\oldstylenums{3}\\textsc{s}.{\\IO}  \\oldstylenums{3}\\textsc{s}.{\\DO}  {\\DAT} Hawa",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\PFV}-say=\\oldstylenums{3}S.{\\IO}",
+            "\\oldstylenums{3}S.{\\DO}",
+            "{\\DAT}",
+            "Hawa"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-say=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>.{\\DO}",
+            "{\\DAT}",
+            "Hawa"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-say=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "\\oldstylenums{3}\\textsc{s}.{\\DO}",
+            "{\\DAT}",
+            "Hawa"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \u00e0-h=a\u014b   na  ana   Hawa",
+        "srcwordsbare": [
+            "Mana",
+            "\u00e0-h=a\u014b",
+            "na",
+            "ana",
+            "Hawa"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\u00e0-h=a\u014b",
+            "na",
+            "ana",
+            "Hawa"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\u00e0-h=a\u014b",
+            "na",
+            "ana",
+            "Hawa"
+        ],
+        "trs": "Mana told it to Hawa.",
+        "wlength": 5
+    },
+    {
+        "ID": "9-882756",
+        "categories": [
+            "s"
+        ],
+        "clength": 37,
+        "filename": "118/chapters/9.tex",
+        "imt": "goat    \\oldstylenums{3}\\textsc{s}-crunch={\\oneS}.{\\IO}   \\oldstylenums{3}\\textsc{s}.{\\DO}   millet={\\PRF}",
+        "imtwordsbare": [
+            "goat",
+            "\\oldstylenums{3}S-crunch={\\oneS}.{\\IO}",
+            "\\oldstylenums{3}S.{\\DO}",
+            "millet={\\PRF}"
+        ],
+        "imtwordshtml": [
+            "goat",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-crunch={\\oneS}.{\\IO}",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>.{\\DO}",
+            "millet={\\PRF}"
+        ],
+        "imtwordstex": [
+            "goat",
+            "\\oldstylenums{3}\\textsc{s}-crunch={\\oneS}.{\\IO}",
+            "\\oldstylenums{3}\\textsc{s}.{\\DO}",
+            "millet={\\PRF}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "awak a-pa\u0257\\textbf{=aw}    na   haj=va",
+        "srcwordsbare": [
+            "awak",
+            "a-pa\u0257=aw",
+            "na",
+            "haj=va"
+        ],
+        "srcwordshtml": [
+            "awak",
+            "a-pa\u0257<span class=\"bf\">=aw</span>",
+            "na",
+            "haj=va"
+        ],
+        "srcwordstex": [
+            "awak",
+            "a-pa\u0257\\textbf{=aw}",
+            "na",
+            "haj=va"
+        ],
+        "trs": "The goat has eaten my millet.\u2019 (lit. the goat has eaten to me the millet)",
+        "wlength": 4
+    },
+    {
+        "ID": "9-115981",
+        "categories": [
+            "s"
+        ],
+        "clength": 40,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}+{\\PFV}-understand={\\oneS}.{\\IO}  =on={\\PRF}  word={\\oneS}.{\\POSS}  {\\NEG}",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S+{\\PFV}-understand={\\oneS}.{\\IO}",
+            "=on={\\PRF}",
+            "word={\\oneS}.{\\POSS}",
+            "{\\NEG}"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-understand={\\oneS}.{\\IO}",
+            "=on={\\PRF}",
+            "word={\\oneS}.{\\POSS}",
+            "{\\NEG}"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-understand={\\oneS}.{\\IO}",
+            "=on={\\PRF}",
+            "word={\\oneS}.{\\POSS}",
+            "{\\NEG}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "\u00e0-ts=aw     =aka=va     ma=uwla      baj",
+        "srcwordsbare": [
+            "\u00e0-ts=aw",
+            "=aka=va",
+            "ma=uwla",
+            "baj"
+        ],
+        "srcwordshtml": [
+            "\u00e0-ts=aw",
+            "=aka=va",
+            "ma=uwla",
+            "baj"
+        ],
+        "srcwordstex": [
+            "\u00e0-ts=aw",
+            "=aka=va",
+            "ma=uwla",
+            "baj"
+        ],
+        "trs": "He/she didn\u2019t understand my words.\u2019 (lit. he had understood on my words not)",
+        "wlength": 4
+    },
+    {
+        "ID": "9--28923",
+        "categories": [
+            "p"
+        ],
+        "clength": 12,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{p}-tell={\\twoS}.{\\IO}    mouth",
+        "imtwordsbare": [
+            "\\oldstylenums{3}P-tell={\\twoS}.{\\IO}",
+            "mouth"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-tell={\\twoS}.{\\IO}",
+            "mouth"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{p}-tell={\\twoS}.{\\IO}",
+            "mouth"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "ta-h=\u0254k\u02b7  ma",
+        "srcwordsbare": [
+            "ta-h=\u0254k\u02b7",
+            "ma"
+        ],
+        "srcwordshtml": [
+            "ta-h=\u0254k\u02b7",
+            "ma"
+        ],
+        "srcwordstex": [
+            "ta-h=\u0254k\u02b7",
+            "ma"
+        ],
+        "trs": "You are being greeted.\u2019 (lit. they are telling word to you)",
+        "wlength": 2
+    },
+    {
+        "ID": "9--29294",
+        "categories": [
+            "p",
+            "s"
+        ],
+        "clength": 18,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{p}+{\\PFV}-exit \\oldstylenums{3}\\textsc{s}.{\\DO}=to",
+        "imtwordsbare": [
+            "\\oldstylenums{3}P+{\\PFV}-exit",
+            "\\oldstylenums{3}S.{\\DO}=to"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">p</span>+{\\PFV}-exit",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>.{\\DO}=to"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{p}+{\\PFV}-exit",
+            "\\oldstylenums{3}\\textsc{s}.{\\DO}=to"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "t\u00e0-\u026e\u0259rav    na=ala",
+        "srcwordsbare": [
+            "t\u00e0-\u026e\u0259rav",
+            "na=ala"
+        ],
+        "srcwordshtml": [
+            "t\u00e0-\u026e\u0259rav",
+            "na=ala"
+        ],
+        "srcwordstex": [
+            "t\u00e0-\u026e\u0259rav",
+            "na=ala"
+        ],
+        "trs": "She was brought out [of the house].\u2019 (lit. they brought her out)",
+        "wlength": 2
+    },
+    {
+        "ID": "9--70049",
+        "categories": [
+            "s"
+        ],
+        "clength": 16,
+        "filename": "118/chapters/9.tex",
+        "imt": "Hawa  \\oldstylenums{3}\\textsc{s}+{\\PFV}-prepare-{\\CL}",
+        "imtwordsbare": [
+            "Hawa",
+            "\\oldstylenums{3}S+{\\PFV}-prepare-{\\CL}"
+        ],
+        "imtwordshtml": [
+            "Hawa",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-prepare-{\\CL}"
+        ],
+        "imtwordstex": [
+            "Hawa",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-prepare-{\\CL}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Hawa   \\`\u025b{}-d-\u025b",
+        "srcwordsbare": [
+            "Hawa",
+            "\\`\u025b{}-d-\u025b"
+        ],
+        "srcwordshtml": [
+            "Hawa",
+            "\\`\u025b{}-d-\u025b"
+        ],
+        "srcwordstex": [
+            "Hawa",
+            "\\`\u025b{}-d-\u025b"
+        ],
+        "trs": "Hawa made [something].",
+        "wlength": 2
+    },
+    {
+        "ID": "9-384715",
+        "categories": [
+            "s"
+        ],
+        "clength": 17,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\PFV}-understand",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\PFV}-understand"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-understand"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-understand"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \\`\u025b{}-t\u0283\u025b\u014b",
+        "srcwordsbare": [
+            "Mana",
+            "\\`\u025b{}-t\u0283\u025b\u014b"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\\`\u025b{}-t\u0283\u025b\u014b"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\\`\u025b{}-t\u0283\u025b\u014b"
+        ],
+        "trs": "Mana heard/understood (something).",
+        "wlength": 2
+    },
+    {
+        "ID": "9--92091",
+        "categories": [
+            "s"
+        ],
+        "clength": 14,
+        "filename": "118/chapters/9.tex",
+        "imt": "door  \\oldstylenums{3}\\textsc{s}+{\\PFV}-open{}-{\\CL}",
+        "imtwordsbare": [
+            "door",
+            "\\oldstylenums{3}S+{\\PFV}-open{}-{\\CL}"
+        ],
+        "imtwordshtml": [
+            "door",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-open{}-{\\CL}"
+        ],
+        "imtwordstex": [
+            "door",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-open{}-{\\CL}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "mahaj   \u00e0-p-aj",
+        "srcwordsbare": [
+            "mahaj",
+            "\u00e0-p-aj"
+        ],
+        "srcwordshtml": [
+            "mahaj",
+            "\u00e0-p-aj"
+        ],
+        "srcwordstex": [
+            "mahaj",
+            "\u00e0-p-aj"
+        ],
+        "trs": "The door opened.",
+        "wlength": 2
+    },
+    {
+        "ID": "9--51082",
+        "categories": [
+            "s"
+        ],
+        "clength": 12,
+        "filename": "118/chapters/9.tex",
+        "imt": "door  \\oldstylenums{3}\\textsc{s}+{\\PFV}-open{}-{\\CL}",
+        "imtwordsbare": [
+            "door",
+            "\\oldstylenums{3}S+{\\PFV}-open{}-{\\CL}"
+        ],
+        "imtwordshtml": [
+            "door",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-open{}-{\\CL}"
+        ],
+        "imtwordstex": [
+            "door",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-open{}-{\\CL}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "mahaj \u00e0-p-aj",
+        "srcwordsbare": [
+            "mahaj",
+            "\u00e0-p-aj"
+        ],
+        "srcwordshtml": [
+            "mahaj",
+            "\u00e0-p-aj"
+        ],
+        "srcwordstex": [
+            "mahaj",
+            "\u00e0-p-aj"
+        ],
+        "trs": "The door opened.",
+        "wlength": 2
+    },
+    {
+        "ID": "9--10879",
+        "categories": [
+            "s"
+        ],
+        "clength": 13,
+        "filename": "118/chapters/9.tex",
+        "imt": "water  \\oldstylenums{3}\\textsc{s}+{\\PFV}-pour",
+        "imtwordsbare": [
+            "water",
+            "\\oldstylenums{3}S+{\\PFV}-pour"
+        ],
+        "imtwordshtml": [
+            "water",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-pour"
+        ],
+        "imtwordstex": [
+            "water",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-pour"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "jam     \u00e0-bax",
+        "srcwordsbare": [
+            "jam",
+            "\u00e0-bax"
+        ],
+        "srcwordshtml": [
+            "jam",
+            "\u00e0-bax"
+        ],
+        "srcwordstex": [
+            "jam",
+            "\u00e0-bax"
+        ],
+        "trs": "Water poured.",
+        "wlength": 2
+    },
+    {
+        "ID": "9-111211",
+        "categories": [
+            "s"
+        ],
+        "clength": 14,
+        "filename": "118/chapters/9.tex",
+        "imt": "door  \\oldstylenums{3}\\textsc{s}+{\\IFV}-open{}-{\\CL}",
+        "imtwordsbare": [
+            "door",
+            "\\oldstylenums{3}S+{\\IFV}-open{}-{\\CL}"
+        ],
+        "imtwordshtml": [
+            "door",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-open{}-{\\CL}"
+        ],
+        "imtwordstex": [
+            "door",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-open{}-{\\CL}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "mahaj   \u00e1-p-aj",
+        "srcwordsbare": [
+            "mahaj",
+            "\u00e1-p-aj"
+        ],
+        "srcwordshtml": [
+            "mahaj",
+            "\u00e1-p-aj"
+        ],
+        "srcwordstex": [
+            "mahaj",
+            "\u00e1-p-aj"
+        ],
+        "trs": "The door opens.",
+        "wlength": 2
+    },
+    {
+        "ID": "9--14831",
+        "categories": [
+            "s"
+        ],
+        "clength": 15,
+        "filename": "118/chapters/9.tex",
+        "imt": "door  \\oldstylenums{3}\\textsc{s}-open={\\PRF}",
+        "imtwordsbare": [
+            "door",
+            "\\oldstylenums{3}S-open={\\PRF}"
+        ],
+        "imtwordshtml": [
+            "door",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-open={\\PRF}"
+        ],
+        "imtwordstex": [
+            "door",
+            "\\oldstylenums{3}\\textsc{s}-open={\\PRF}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "mahaj   a-pa=va",
+        "srcwordsbare": [
+            "mahaj",
+            "a-pa=va"
+        ],
+        "srcwordshtml": [
+            "mahaj",
+            "a-pa=va"
+        ],
+        "srcwordstex": [
+            "mahaj",
+            "a-pa=va"
+        ],
+        "trs": "The door is open.",
+        "wlength": 2
+    },
+    {
+        "ID": "9-384875",
+        "categories": [
+            "s"
+        ],
+        "clength": 14,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mala  \\oldstylenums{3}\\textsc{s}+{\\IFV}-see",
+        "imtwordsbare": [
+            "Mala",
+            "\\oldstylenums{3}S+{\\IFV}-see"
+        ],
+        "imtwordshtml": [
+            "Mala",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-see"
+        ],
+        "imtwordstex": [
+            "Mala",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-see"
+        ],
+        "language": "118/chapters/9.tex",
+        "polarity": "negative",
+        "src": "Mala  \u00e1-m\u0259nzar",
+        "srcwordsbare": [
+            "Mala",
+            "\u00e1-m\u0259nzar"
+        ],
+        "srcwordshtml": [
+            "Mala",
+            "\u00e1-m\u0259nzar"
+        ],
+        "srcwordstex": [
+            "Mala",
+            "\u00e1-m\u0259nzar"
+        ],
+        "trs": "Mala sees.\u2019 (i.e. he is not blind) / \u2018Mala can be seen.",
+        "wlength": 2
+    },
+    {
+        "ID": "9--18938",
+        "categories": [
+            "s"
+        ],
+        "clength": 39,
+        "filename": "118/chapters/9.tex",
+        "imt": "chief  \\oldstylenums{3}\\textsc{s}+{\\PFV}-give=\\oldstylenums{3}\\textsc{s}.{\\IO}  girl  {\\DAT} Mana",
+        "imtwordsbare": [
+            "chief",
+            "\\oldstylenums{3}S+{\\PFV}-give=\\oldstylenums{3}S.{\\IO}",
+            "girl",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordshtml": [
+            "chief",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-give=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "girl",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordstex": [
+            "chief",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-give=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "girl",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "bahaj   \u00e0-v\u0259l=a\u014b     dalaj   ana   Mana",
+        "srcwordsbare": [
+            "bahaj",
+            "\u00e0-v\u0259l=a\u014b",
+            "dalaj",
+            "ana",
+            "Mana"
+        ],
+        "srcwordshtml": [
+            "bahaj",
+            "\u00e0-v\u0259l=a\u014b",
+            "dalaj",
+            "ana",
+            "Mana"
+        ],
+        "srcwordstex": [
+            "bahaj",
+            "\u00e0-v\u0259l=a\u014b",
+            "dalaj",
+            "ana",
+            "Mana"
+        ],
+        "trs": "The chief gave the girl to Mana (in marriage).",
+        "wlength": 5
+    },
+    {
+        "ID": "9--60691",
+        "categories": [
+            "s"
+        ],
+        "clength": 25,
+        "filename": "118/chapters/9.tex",
+        "imt": "chief  \\oldstylenums{3}\\textsc{s}+{\\IFV}-give  girl",
+        "imtwordsbare": [
+            "chief",
+            "\\oldstylenums{3}S+{\\IFV}-give",
+            "girl"
+        ],
+        "imtwordshtml": [
+            "chief",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-give",
+            "girl"
+        ],
+        "imtwordstex": [
+            "chief",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-give",
+            "girl"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "bahaj    \u00e1-var      dalaj",
+        "srcwordsbare": [
+            "bahaj",
+            "\u00e1-var",
+            "dalaj"
+        ],
+        "srcwordshtml": [
+            "bahaj",
+            "\u00e1-var",
+            "dalaj"
+        ],
+        "srcwordstex": [
+            "bahaj",
+            "\u00e1-var",
+            "dalaj"
+        ],
+        "trs": "The chief is marrying off his daughter [to someone].\u2019 (lit. chief gives girl)",
+        "wlength": 3
+    },
+    {
+        "ID": "9-227374",
+        "categories": [
+            "s"
+        ],
+        "clength": 29,
+        "filename": "118/chapters/9.tex",
+        "imt": "chief  \\oldstylenums{3}\\textsc{s}+{\\PFV}-give=\\oldstylenums{3}\\textsc{s}.{\\IO}  {\\DAT} Mana",
+        "imtwordsbare": [
+            "chief",
+            "\\oldstylenums{3}S+{\\PFV}-give=\\oldstylenums{3}S.{\\IO}",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordshtml": [
+            "chief",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-give=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordstex": [
+            "chief",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-give=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "bahaj   \u00e0-v\u0259l=a\u014b   ana   Mana",
+        "srcwordsbare": [
+            "bahaj",
+            "\u00e0-v\u0259l=a\u014b",
+            "ana",
+            "Mana"
+        ],
+        "srcwordshtml": [
+            "bahaj",
+            "\u00e0-v\u0259l=a\u014b",
+            "ana",
+            "Mana"
+        ],
+        "srcwordstex": [
+            "bahaj",
+            "\u00e0-v\u0259l=a\u014b",
+            "ana",
+            "Mana"
+        ],
+        "trs": "The chief gave [something] to Mana.",
+        "wlength": 4
+    },
+    {
+        "ID": "9-767771",
+        "categories": [
+            "s"
+        ],
+        "clength": 22,
+        "filename": "118/chapters/9.tex",
+        "imt": "chief  \\oldstylenums{3}\\textsc{s}+{\\IFV}-give  {\\NEG}",
+        "imtwordsbare": [
+            "chief",
+            "\\oldstylenums{3}S+{\\IFV}-give",
+            "{\\NEG}"
+        ],
+        "imtwordshtml": [
+            "chief",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-give",
+            "{\\NEG}"
+        ],
+        "imtwordstex": [
+            "chief",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-give",
+            "{\\NEG}"
+        ],
+        "language": "118/chapters/9.tex",
+        "polarity": "negative",
+        "src": "bahaj  \u00e1-var       baj",
+        "srcwordsbare": [
+            "bahaj",
+            "\u00e1-var",
+            "baj"
+        ],
+        "srcwordshtml": [
+            "bahaj",
+            "\u00e1-var",
+            "baj"
+        ],
+        "srcwordstex": [
+            "bahaj",
+            "\u00e1-var",
+            "baj"
+        ],
+        "trs": "The chief is not the giving kind.\u2019 (lit. chief doesn\u2019t give)",
+        "wlength": 3
+    },
+    {
+        "ID": "9-112091",
+        "categories": [
+            "p",
+            "s"
+        ],
+        "clength": 48,
+        "filename": "118/chapters/9.tex",
+        "imt": "chief  \\oldstylenums{3}\\textsc{s}-learn=\\oldstylenums{3}\\textsc{p}.{\\IO}  Moloko    {\\DAT} children=Pl",
+        "imtwordsbare": [
+            "chief",
+            "\\oldstylenums{3}S-learn=\\oldstylenums{3}P.{\\IO}",
+            "Moloko",
+            "{\\DAT}",
+            "children=Pl"
+        ],
+        "imtwordshtml": [
+            "chief",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-learn=\\oldstylenums{3}<span class=\"sc\">p</span>.{\\IO}",
+            "Moloko",
+            "{\\DAT}",
+            "children=Pl"
+        ],
+        "imtwordstex": [
+            "chief",
+            "\\oldstylenums{3}\\textsc{s}-learn=\\oldstylenums{3}\\textsc{p}.{\\IO}",
+            "Moloko",
+            "{\\DAT}",
+            "children=Pl"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "bahaj a-d\u0259b\u0259n=ata   M\u028al\u0254k\u02b7\u0254    ana   bab\u0259za=ahaj",
+        "srcwordsbare": [
+            "bahaj",
+            "a-d\u0259b\u0259n=ata",
+            "M\u028al\u0254k\u02b7\u0254",
+            "ana",
+            "bab\u0259za=ahaj"
+        ],
+        "srcwordshtml": [
+            "bahaj",
+            "a-d\u0259b\u0259n=ata",
+            "M\u028al\u0254k\u02b7\u0254",
+            "ana",
+            "bab\u0259za=ahaj"
+        ],
+        "srcwordstex": [
+            "bahaj",
+            "a-d\u0259b\u0259n=ata",
+            "M\u028al\u0254k\u02b7\u0254",
+            "ana",
+            "bab\u0259za=ahaj"
+        ],
+        "trs": "The chief teaches Moloko to the children.",
+        "wlength": 5
+    },
+    {
+        "ID": "9--12809",
+        "categories": [
+            "p"
+        ],
+        "clength": 35,
+        "filename": "118/chapters/9.tex",
+        "imt": "children=Pl  \\oldstylenums{3}\\textsc{p}-learn{}-{\\CL}  Moloko",
+        "imtwordsbare": [
+            "children=Pl",
+            "\\oldstylenums{3}P-learn{}-{\\CL}",
+            "Moloko"
+        ],
+        "imtwordshtml": [
+            "children=Pl",
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-learn{}-{\\CL}",
+            "Moloko"
+        ],
+        "imtwordstex": [
+            "children=Pl",
+            "\\oldstylenums{3}\\textsc{p}-learn{}-{\\CL}",
+            "Moloko"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "bab\u0259za=ahaj   t\u0259-d\u0259b\u0259n-aj   M\u028al\u0254k\u02b7\u0254",
+        "srcwordsbare": [
+            "bab\u0259za=ahaj",
+            "t\u0259-d\u0259b\u0259n-aj",
+            "M\u028al\u0254k\u02b7\u0254"
+        ],
+        "srcwordshtml": [
+            "bab\u0259za=ahaj",
+            "t\u0259-d\u0259b\u0259n-aj",
+            "M\u028al\u0254k\u02b7\u0254"
+        ],
+        "srcwordstex": [
+            "bab\u0259za=ahaj",
+            "t\u0259-d\u0259b\u0259n-aj",
+            "M\u028al\u0254k\u02b7\u0254"
+        ],
+        "trs": "The children learn Moloko.",
+        "wlength": 3
+    },
+    {
+        "ID": "9-587086",
+        "categories": [
+            "s",
+            "{\\PSP"
+        ],
+        "clength": 33,
+        "filename": "118/chapters/9.tex",
+        "imt": "Moloko  \\oldstylenums{3}\\textsc{s}-learn={\\twoS}.{\\IO}  \\textsc{{\\PSP}}  fast",
+        "imtwordsbare": [
+            "Moloko",
+            "\\oldstylenums{3}S-learn={\\twoS}.{\\IO}",
+            "{\\PSP}",
+            "fast"
+        ],
+        "imtwordshtml": [
+            "Moloko",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-learn={\\twoS}.{\\IO}",
+            "<span class=\"sc\">{\\PSP</span>}",
+            "fast"
+        ],
+        "imtwordstex": [
+            "Moloko",
+            "\\oldstylenums{3}\\textsc{s}-learn={\\twoS}.{\\IO}",
+            "\\textsc{{\\PSP}}",
+            "fast"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "M\u028al\u0254k\u02b7\u0254  a-d\u0259b\u0259n=\u0254k\u02b7  na  dzadzak",
+        "srcwordsbare": [
+            "M\u028al\u0254k\u02b7\u0254",
+            "a-d\u0259b\u0259n=\u0254k\u02b7",
+            "na",
+            "dzadzak"
+        ],
+        "srcwordshtml": [
+            "M\u028al\u0254k\u02b7\u0254",
+            "a-d\u0259b\u0259n=\u0254k\u02b7",
+            "na",
+            "dzadzak"
+        ],
+        "srcwordstex": [
+            "M\u028al\u0254k\u02b7\u0254",
+            "a-d\u0259b\u0259n=\u0254k\u02b7",
+            "na",
+            "dzadzak"
+        ],
+        "trs": "Moloko is easy for you to learn.\u2019 (lit. Moloko learns to you quickly)",
+        "wlength": 4
+    },
+    {
+        "ID": "9--59030",
+        "categories": [
+            "s"
+        ],
+        "clength": 34,
+        "filename": "118/chapters/9.tex",
+        "imt": "{\\oneS}-buy/sell=\\oldstylenums{3}\\textsc{s}.{\\IO}    goat  {\\DAT} Mana",
+        "imtwordsbare": [
+            "{\\oneS}-buy/sell=\\oldstylenums{3}S.{\\IO}",
+            "goat",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordshtml": [
+            "{\\oneS}-buy/sell=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "goat",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "imtwordstex": [
+            "{\\oneS}-buy/sell=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "goat",
+            "{\\DAT}",
+            "Mana"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "n\u0259-s\u028ak\u02b7\u0254m=a\u014b     awak   ana   Mana",
+        "srcwordsbare": [
+            "n\u0259-s\u028ak\u02b7\u0254m=a\u014b",
+            "awak",
+            "ana",
+            "Mana"
+        ],
+        "srcwordshtml": [
+            "n\u0259-s\u028ak\u02b7\u0254m=a\u014b",
+            "awak",
+            "ana",
+            "Mana"
+        ],
+        "srcwordstex": [
+            "n\u0259-s\u028ak\u02b7\u0254m=a\u014b",
+            "awak",
+            "ana",
+            "Mana"
+        ],
+        "trs": "I sell a goat to Mana.",
+        "wlength": 4
+    },
+    {
+        "ID": "9-864349",
+        "categories": [],
+        "clength": 20,
+        "filename": "118/chapters/9.tex",
+        "imt": "{\\oneS}-buy/sell=to  goat",
+        "imtwordsbare": [
+            "{\\oneS}-buy/sell=to",
+            "goat"
+        ],
+        "imtwordshtml": [
+            "{\\oneS}-buy/sell=to",
+            "goat"
+        ],
+        "imtwordstex": [
+            "{\\oneS}-buy/sell=to",
+            "goat"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "n\u0259-s\u028ak\u02b7\u0254m=ala   awak",
+        "srcwordsbare": [
+            "n\u0259-s\u028ak\u02b7\u0254m=ala",
+            "awak"
+        ],
+        "srcwordshtml": [
+            "n\u0259-s\u028ak\u02b7\u0254m=ala",
+            "awak"
+        ],
+        "srcwordstex": [
+            "n\u0259-s\u028ak\u02b7\u0254m=ala",
+            "awak"
+        ],
+        "trs": "I bought a goat.",
+        "wlength": 2
+    },
+    {
+        "ID": "9-293225",
+        "categories": [
+            "p",
+            "s"
+        ],
+        "clength": 41,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\PFV}-speak=\\oldstylenums{3}\\textsc{p}.{\\IO}  \\oldstylenums{3}\\textsc{s}.{\\DO}={\\PRF}  {\\DAT} men=Pl",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\PFV}-speak=\\oldstylenums{3}P.{\\IO}",
+            "\\oldstylenums{3}S.{\\DO}={\\PRF}",
+            "{\\DAT}",
+            "men=Pl"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\PFV}-speak=\\oldstylenums{3}<span class=\"sc\">p</span>.{\\IO}",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>.{\\DO}={\\PRF}",
+            "{\\DAT}",
+            "men=Pl"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\PFV}-speak=\\oldstylenums{3}\\textsc{p}.{\\IO}",
+            "\\oldstylenums{3}\\textsc{s}.{\\DO}={\\PRF}",
+            "{\\DAT}",
+            "men=Pl"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \u00e0-h=ata   na=va   ana   zaw\u0259r=ahaj",
+        "srcwordsbare": [
+            "Mana",
+            "\u00e0-h=ata",
+            "na=va",
+            "ana",
+            "zaw\u0259r=ahaj"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\u00e0-h=ata",
+            "na=va",
+            "ana",
+            "zaw\u0259r=ahaj"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\u00e0-h=ata",
+            "na=va",
+            "ana",
+            "zaw\u0259r=ahaj"
+        ],
+        "trs": "Mana has already told it to the men.",
+        "wlength": 5
+    },
+    {
+        "ID": "9-503859",
+        "categories": [
+            "s"
+        ],
+        "clength": 46,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}-call=\\oldstylenums{3}\\textsc{s}.{\\IO}  =on  mouth  {\\DAT} child  again",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S-call=\\oldstylenums{3}S.{\\IO}",
+            "=on",
+            "mouth",
+            "{\\DAT}",
+            "child",
+            "again"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-call=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\IO}",
+            "=on",
+            "mouth",
+            "{\\DAT}",
+            "child",
+            "again"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}-call=\\oldstylenums{3}\\textsc{s}.{\\IO}",
+            "=on",
+            "mouth",
+            "{\\DAT}",
+            "child",
+            "again"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "a-tar=a\u014b     =aka   \\textbf{ma}  ana  war  \u025b\u0283\u025b",
+        "srcwordsbare": [
+            "a-tar=a\u014b",
+            "=aka",
+            "ma",
+            "ana",
+            "war",
+            "\u025b\u0283\u025b"
+        ],
+        "srcwordshtml": [
+            "a-tar=a\u014b",
+            "=aka",
+            "<span class=\"bf\">ma</span>",
+            "ana",
+            "war",
+            "\u025b\u0283\u025b"
+        ],
+        "srcwordstex": [
+            "a-tar=a\u014b",
+            "=aka",
+            "\\textbf{ma}",
+            "ana",
+            "war",
+            "\u025b\u0283\u025b"
+        ],
+        "trs": "He/she calls the child again.\u2019 (lit. he calls mouth to him to the child again)",
+        "wlength": 6
+    },
+    {
+        "ID": "9--38152",
+        "categories": [
+            "s"
+        ],
+        "clength": 30,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mala   \\oldstylenums{3}\\textsc{s}-see    eye",
+        "imtwordsbare": [
+            "Mala",
+            "\\oldstylenums{3}S-see",
+            "eye"
+        ],
+        "imtwordshtml": [
+            "Mala",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-see",
+            "eye"
+        ],
+        "imtwordstex": [
+            "Mala",
+            "\\oldstylenums{3}\\textsc{s}-see",
+            "eye"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mala   a-m\u0259nzar   \\textbf{\u025bl\u025b}",
+        "srcwordsbare": [
+            "Mala",
+            "a-m\u0259nzar",
+            "\u025bl\u025b"
+        ],
+        "srcwordshtml": [
+            "Mala",
+            "a-m\u0259nzar",
+            "<span class=\"bf\">\u025bl\u025b</span>"
+        ],
+        "srcwordstex": [
+            "Mala",
+            "a-m\u0259nzar",
+            "\\textbf{\u025bl\u025b}"
+        ],
+        "trs": "Mala looks around attentively.",
+        "wlength": 3
+    },
+    {
+        "ID": "9--51677",
+        "categories": [
+            "s"
+        ],
+        "clength": 51,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}-hear=on={\\PRF}  ear  {\\DAT} mother=\\oldstylenums{3}\\textsc{s}.{\\POSS}  {\\NEG}",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S-hear=on={\\PRF}",
+            "ear",
+            "{\\DAT}",
+            "mother=\\oldstylenums{3}S.{\\POSS}",
+            "{\\NEG}"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-hear=on={\\PRF}",
+            "ear",
+            "{\\DAT}",
+            "mother=\\oldstylenums{3}<span class=\"sc\">s</span>.{\\POSS}",
+            "{\\NEG}"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}-hear=on={\\PRF}",
+            "ear",
+            "{\\DAT}",
+            "mother=\\oldstylenums{3}\\textsc{s}.{\\POSS}",
+            "{\\NEG}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "a-ts=aka=va  \\textbf{\u026c\u0259maj}   ana  mama=aha\u014b    baj",
+        "srcwordsbare": [
+            "a-ts=aka=va",
+            "\u026c\u0259maj",
+            "ana",
+            "mama=aha\u014b",
+            "baj"
+        ],
+        "srcwordshtml": [
+            "a-ts=aka=va",
+            "<span class=\"bf\">\u026c\u0259maj</span>",
+            "ana",
+            "mama=aha\u014b",
+            "baj"
+        ],
+        "srcwordstex": [
+            "a-ts=aka=va",
+            "\\textbf{\u026c\u0259maj}",
+            "ana",
+            "mama=aha\u014b",
+            "baj"
+        ],
+        "trs": "He/she is disobedient to his mother.\u2019 (he disobeys his mother)\\footnote{Note that the word-final /n/ is deleted on the root /ts n\\textsuperscript{e}/when the verbal extension is attached \\sectref{sec:2.6.1}.}",
+        "wlength": 5
+    },
+    {
+        "ID": "9--84482",
+        "categories": [
+            "p"
+        ],
+        "clength": 61,
+        "coordination": "and",
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{p}-{\\PRG}   \\oldstylenums{3}\\textsc{p}-go=to  \\oldstylenums{3}\\textsc{p}-throw-{\\CL} body  {\\DAT} Moloko=Pl",
+        "imtwordsbare": [
+            "\\oldstylenums{3}P-{\\PRG}",
+            "\\oldstylenums{3}P-go=to",
+            "\\oldstylenums{3}P-throw-{\\CL}",
+            "body",
+            "{\\DAT}",
+            "Moloko=Pl"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-{\\PRG}",
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-go=to",
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-throw-{\\CL}",
+            "body",
+            "{\\DAT}",
+            "Moloko=Pl"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{p}-{\\PRG}",
+            "\\oldstylenums{3}\\textsc{p}-go=to",
+            "\\oldstylenums{3}\\textsc{p}-throw-{\\CL}",
+            "body",
+            "{\\DAT}",
+            "Moloko=Pl"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "ta-ndalaj ta-l=ala  t\u026a-\u026e\u026ag-\u025b   \\textbf{va}  ana  M\u028al\u0254k\u02b7\u0254=ahaj",
+        "srcwordsbare": [
+            "ta-ndalaj",
+            "ta-l=ala",
+            "t\u026a-\u026e\u026ag-\u025b",
+            "va",
+            "ana",
+            "M\u028al\u0254k\u02b7\u0254=ahaj"
+        ],
+        "srcwordshtml": [
+            "ta-ndalaj",
+            "ta-l=ala",
+            "t\u026a-\u026e\u026ag-\u025b",
+            "<span class=\"bf\">va</span>",
+            "ana",
+            "M\u028al\u0254k\u02b7\u0254=ahaj"
+        ],
+        "srcwordstex": [
+            "ta-ndalaj",
+            "ta-l=ala",
+            "t\u026a-\u026e\u026ag-\u025b",
+            "\\textbf{va}",
+            "ana",
+            "M\u028al\u0254k\u02b7\u0254=ahaj"
+        ],
+        "trs": "They were coming and fighting with the Molokos.\u2019 (lit. they were coming they threw body to Molokos)",
+        "wlength": 6
+    },
+    {
+        "ID": "9--35353",
+        "categories": [
+            "s"
+        ],
+        "clength": 34,
+        "filename": "118/chapters/9.tex",
+        "imt": "word={\\twoS}.{\\POSS}  \\oldstylenums{3}\\textsc{s}-catch={\\oneS}.{\\IO}  body",
+        "imtwordsbare": [
+            "word={\\twoS}.{\\POSS}",
+            "\\oldstylenums{3}S-catch={\\oneS}.{\\IO}",
+            "body"
+        ],
+        "imtwordshtml": [
+            "word={\\twoS}.{\\POSS}",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-catch={\\oneS}.{\\IO}",
+            "body"
+        ],
+        "imtwordstex": [
+            "word={\\twoS}.{\\POSS}",
+            "\\oldstylenums{3}\\textsc{s}-catch={\\oneS}.{\\IO}",
+            "body"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "ma=a\u014bg\u02b7\u0254    a-g\u0259s=aw  \\textbf{har}",
+        "srcwordsbare": [
+            "ma=a\u014bg\u02b7\u0254",
+            "a-g\u0259s=aw",
+            "har"
+        ],
+        "srcwordshtml": [
+            "ma=a\u014bg\u02b7\u0254",
+            "a-g\u0259s=aw",
+            "<span class=\"bf\">har</span>"
+        ],
+        "srcwordstex": [
+            "ma=a\u014bg\u02b7\u0254",
+            "a-g\u0259s=aw",
+            "\\textbf{har}"
+        ],
+        "trs": "It pleases me.\u2019 (lit. it catches body to me)",
+        "wlength": 3
+    },
+    {
+        "ID": "9-665260",
+        "categories": [
+            "s"
+        ],
+        "clength": 15,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}-do-{\\CL}  heart",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S-do-{\\CL}",
+            "heart"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-do-{\\CL}",
+            "heart"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}-do-{\\CL}",
+            "heart"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "\u025b{}-g-\u025b   \u0253\u0259rav",
+        "srcwordsbare": [
+            "\u025b{}-g-\u025b",
+            "\u0253\u0259rav"
+        ],
+        "srcwordshtml": [
+            "\u025b{}-g-\u025b",
+            "\u0253\u0259rav"
+        ],
+        "srcwordstex": [
+            "\u025b{}-g-\u025b",
+            "\u0253\u0259rav"
+        ],
+        "trs": "He/she is angry.\u2019 (lit. he/she does heart)",
+        "wlength": 2
+    },
+    {
+        "ID": "9-214904",
+        "categories": [],
+        "clength": 15,
+        "filename": "118/chapters/9.tex",
+        "imt": "do[{\\twoS}.{\\IMP}]-{\\CL}  brain",
+        "imtwordsbare": [
+            "do[{\\twoS}.{\\IMP}]-{\\CL}",
+            "brain"
+        ],
+        "imtwordshtml": [
+            "do[{\\twoS}.{\\IMP}]-{\\CL}",
+            "brain"
+        ],
+        "imtwordstex": [
+            "do[{\\twoS}.{\\IMP}]-{\\CL}",
+            "brain"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "g-\u025b       \u025bnd\u025b\u0253",
+        "srcwordsbare": [
+            "g-\u025b",
+            "\u025bnd\u025b\u0253"
+        ],
+        "srcwordshtml": [
+            "g-\u025b",
+            "\u025bnd\u025b\u0253"
+        ],
+        "srcwordstex": [
+            "g-\u025b",
+            "\u025bnd\u025b\u0253"
+        ],
+        "trs": "Think!\u2019 (lit. do brain)",
+        "wlength": 2
+    },
+    {
+        "ID": "9--38152",
+        "categories": [
+            "s"
+        ],
+        "clength": 30,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mala   \\oldstylenums{3}\\textsc{s}-see    eye",
+        "imtwordsbare": [
+            "Mala",
+            "\\oldstylenums{3}S-see",
+            "eye"
+        ],
+        "imtwordshtml": [
+            "Mala",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-see",
+            "eye"
+        ],
+        "imtwordstex": [
+            "Mala",
+            "\\oldstylenums{3}\\textsc{s}-see",
+            "eye"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mala   a-m\u0259nzar   \\textbf{\u025bl\u025b}",
+        "srcwordsbare": [
+            "Mala",
+            "a-m\u0259nzar",
+            "\u025bl\u025b"
+        ],
+        "srcwordshtml": [
+            "Mala",
+            "a-m\u0259nzar",
+            "<span class=\"bf\">\u025bl\u025b</span>"
+        ],
+        "srcwordstex": [
+            "Mala",
+            "a-m\u0259nzar",
+            "\\textbf{\u025bl\u025b}"
+        ],
+        "trs": "Mala looks around attentively.",
+        "wlength": 3
+    },
+    {
+        "ID": "9--56227",
+        "categories": [
+            "s"
+        ],
+        "clength": 48,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mala  \\oldstylenums{3}\\textsc{s}-go  {\\DEP}-see    eye  at  bush",
+        "imtwordsbare": [
+            "Mala",
+            "\\oldstylenums{3}S-go",
+            "{\\DEP}-see",
+            "eye",
+            "at",
+            "bush"
+        ],
+        "imtwordshtml": [
+            "Mala",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-go",
+            "{\\DEP}-see",
+            "eye",
+            "at",
+            "bush"
+        ],
+        "imtwordstex": [
+            "Mala",
+            "\\oldstylenums{3}\\textsc{s}-go",
+            "{\\DEP}-see",
+            "eye",
+            "at",
+            "bush"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mala  \u0254{}-l\u0254  am\u026a-m\u026an\u0292\u026ar\u025b  \\textbf{\u025bl\u025b}  a  l\u026ah\u025b",
+        "srcwordsbare": [
+            "Mala",
+            "\u0254{}-l\u0254",
+            "am\u026a-m\u026an\u0292\u026ar\u025b",
+            "\u025bl\u025b",
+            "a",
+            "l\u026ah\u025b"
+        ],
+        "srcwordshtml": [
+            "Mala",
+            "\u0254{}-l\u0254",
+            "am\u026a-m\u026an\u0292\u026ar\u025b",
+            "<span class=\"bf\">\u025bl\u025b</span>",
+            "a",
+            "l\u026ah\u025b"
+        ],
+        "srcwordstex": [
+            "Mala",
+            "\u0254{}-l\u0254",
+            "am\u026a-m\u026an\u0292\u026ar\u025b",
+            "\\textbf{\u025bl\u025b}",
+            "a",
+            "l\u026ah\u025b"
+        ],
+        "trs": "Mala went to see his fields.\u2019 (lit. Mala went to see in the bush)",
+        "wlength": 6
+    },
+    {
+        "ID": "9--44059",
+        "categories": [],
+        "clength": 62,
+        "filename": "118/chapters/9.tex",
+        "imt": "{\\oneS}-go  {\\oneS}-carry    eye  at  field={\\oneS}.{\\POSS}  in  all",
+        "imtwordsbare": [
+            "{\\oneS}-go",
+            "{\\oneS}-carry",
+            "eye",
+            "at",
+            "field={\\oneS}.{\\POSS}",
+            "in",
+            "all"
+        ],
+        "imtwordshtml": [
+            "{\\oneS}-go",
+            "{\\oneS}-carry",
+            "eye",
+            "at",
+            "field={\\oneS}.{\\POSS}",
+            "in",
+            "all"
+        ],
+        "imtwordstex": [
+            "{\\oneS}-go",
+            "{\\oneS}-carry",
+            "eye",
+            "at",
+            "field={\\oneS}.{\\POSS}",
+            "in",
+            "all"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "n\u0254-l\u0254  na-har     \\textbf{\u025bl\u025b}   a   g\u0259vax=uwla    ava  dzijga",
+        "srcwordsbare": [
+            "n\u0254-l\u0254",
+            "na-har",
+            "\u025bl\u025b",
+            "a",
+            "g\u0259vax=uwla",
+            "ava",
+            "dzijga"
+        ],
+        "srcwordshtml": [
+            "n\u0254-l\u0254",
+            "na-har",
+            "<span class=\"bf\">\u025bl\u025b</span>",
+            "a",
+            "g\u0259vax=uwla",
+            "ava",
+            "dzijga"
+        ],
+        "srcwordstex": [
+            "n\u0254-l\u0254",
+            "na-har",
+            "\\textbf{\u025bl\u025b}",
+            "a",
+            "g\u0259vax=uwla",
+            "ava",
+            "dzijga"
+        ],
+        "trs": "I go [and] look around my whole field.\u2019 (lit. I carry eye in my field  all)",
+        "wlength": 7
+    },
+    {
+        "ID": "9--60283",
+        "categories": [
+            "s"
+        ],
+        "clength": 25,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\IFV}-hear  {\\NEG}",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\IFV}-hear",
+            "{\\NEG}"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-hear",
+            "{\\NEG}"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-hear",
+            "{\\NEG}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana   \\'{\u025b}-t\u0283\u025b\u014b     baj",
+        "srcwordsbare": [
+            "Mana",
+            "\\'{\u025b}-t\u0283\u025b\u014b",
+            "baj"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\\'{\u025b}-t\u0283\u025b\u014b",
+            "baj"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\\'{\u025b}-t\u0283\u025b\u014b",
+            "baj"
+        ],
+        "trs": "Mana is deaf/doesn\u2019t understand.",
+        "wlength": 3
+    },
+    {
+        "ID": "9-929107",
+        "categories": [
+            "s"
+        ],
+        "clength": 41,
+        "filename": "118/chapters/9.tex",
+        "imt": "Mana  \\oldstylenums{3}\\textsc{s}+{\\IFV}-hear  ear  {\\NEG}",
+        "imtwordsbare": [
+            "Mana",
+            "\\oldstylenums{3}S+{\\IFV}-hear",
+            "ear",
+            "{\\NEG}"
+        ],
+        "imtwordshtml": [
+            "Mana",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>+{\\IFV}-hear",
+            "ear",
+            "{\\NEG}"
+        ],
+        "imtwordstex": [
+            "Mana",
+            "\\oldstylenums{3}\\textsc{s}+{\\IFV}-hear",
+            "ear",
+            "{\\NEG}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "Mana  \\'{\u025b}-t\u0283\u025b\u014b     \\textbf{\u026c\u0259maj}   baj",
+        "srcwordsbare": [
+            "Mana",
+            "\\'{\u025b}-t\u0283\u025b\u014b",
+            "\u026c\u0259maj",
+            "baj"
+        ],
+        "srcwordshtml": [
+            "Mana",
+            "\\'{\u025b}-t\u0283\u025b\u014b",
+            "<span class=\"bf\">\u026c\u0259maj</span>",
+            "baj"
+        ],
+        "srcwordstex": [
+            "Mana",
+            "\\'{\u025b}-t\u0283\u025b\u014b",
+            "\\textbf{\u026c\u0259maj}",
+            "baj"
+        ],
+        "trs": "Mana is deaf/disobedient.",
+        "wlength": 4
+    },
+    {
+        "ID": "9--62443",
+        "categories": [
+            "p"
+        ],
+        "clength": 14,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{p}-tell={\\twoS}.{\\IO}    mouth",
+        "imtwordsbare": [
+            "\\oldstylenums{3}P-tell={\\twoS}.{\\IO}",
+            "mouth"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-tell={\\twoS}.{\\IO}",
+            "mouth"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{p}-tell={\\twoS}.{\\IO}",
+            "mouth"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "ta-h=\u0254k\u02b7    ma",
+        "srcwordsbare": [
+            "ta-h=\u0254k\u02b7",
+            "ma"
+        ],
+        "srcwordshtml": [
+            "ta-h=\u0254k\u02b7",
+            "ma"
+        ],
+        "srcwordstex": [
+            "ta-h=\u0254k\u02b7",
+            "ma"
+        ],
+        "trs": "You are being greeted.\u2019 (lit. they are telling word to you)",
+        "wlength": 2
+    },
+    {
+        "ID": "9--41632",
+        "categories": [
+            "p"
+        ],
+        "clength": 64,
+        "coordination": "and",
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{p}-{\\PRG}=away   \\oldstylenums{3}\\textsc{p}-go =to  \\oldstylenums{3}\\textsc{p}-throw-{\\CL}   body  {\\DAT} Moloko=Pl",
+        "imtwordsbare": [
+            "\\oldstylenums{3}P-{\\PRG}=away",
+            "\\oldstylenums{3}P-go",
+            "=to",
+            "\\oldstylenums{3}P-throw-{\\CL}",
+            "body",
+            "{\\DAT}",
+            "Moloko=Pl"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-{\\PRG}=away",
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-go",
+            "=to",
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-throw-{\\CL}",
+            "body",
+            "{\\DAT}",
+            "Moloko=Pl"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{p}-{\\PRG}=away",
+            "\\oldstylenums{3}\\textsc{p}-go",
+            "=to",
+            "\\oldstylenums{3}\\textsc{p}-throw-{\\CL}",
+            "body",
+            "{\\DAT}",
+            "Moloko=Pl"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "ta-nd=alaj ta-l =ala  t\u026a-\u026e\u026ag-\u025b    \\textbf{va}  ana  M\u028al\u0254k\u02b7\u0254=ahaj",
+        "srcwordsbare": [
+            "ta-nd=alaj",
+            "ta-l",
+            "=ala",
+            "t\u026a-\u026e\u026ag-\u025b",
+            "va",
+            "ana",
+            "M\u028al\u0254k\u02b7\u0254=ahaj"
+        ],
+        "srcwordshtml": [
+            "ta-nd=alaj",
+            "ta-l",
+            "=ala",
+            "t\u026a-\u026e\u026ag-\u025b",
+            "<span class=\"bf\">va</span>",
+            "ana",
+            "M\u028al\u0254k\u02b7\u0254=ahaj"
+        ],
+        "srcwordstex": [
+            "ta-nd=alaj",
+            "ta-l",
+            "=ala",
+            "t\u026a-\u026e\u026ag-\u025b",
+            "\\textbf{va}",
+            "ana",
+            "M\u028al\u0254k\u02b7\u0254=ahaj"
+        ],
+        "trs": "They were coming and fighting with the Molokos.\u2019 (lit. they were coming they threw body to Molokos)",
+        "wlength": 7
+    },
+    {
+        "ID": "9--51413",
+        "categories": [],
+        "clength": 5,
+        "filename": "118/chapters/9.tex",
+        "imt": "head",
+        "imtwordsbare": [
+            "head"
+        ],
+        "imtwordshtml": [
+            "head"
+        ],
+        "imtwordstex": [
+            "head"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "d\u0259raj",
+        "srcwordsbare": [
+            "d\u0259raj"
+        ],
+        "srcwordshtml": [
+            "d\u0259raj"
+        ],
+        "srcwordstex": [
+            "d\u0259raj"
+        ],
+        "trs": "On the day that they had finished fighting each other, we separated as equals.",
+        "wlength": 1
+    },
+    {
+        "ID": "9--33009",
+        "categories": [
+            "p"
+        ],
+        "clength": 20,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{p}-kill  body",
+        "imtwordsbare": [
+            "\\oldstylenums{3}P-kill",
+            "body"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-kill",
+            "body"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{p}-kill",
+            "body"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "ta-ka\u0257   \\textbf{va}",
+        "srcwordsbare": [
+            "ta-ka\u0257",
+            "va"
+        ],
+        "srcwordshtml": [
+            "ta-ka\u0257",
+            "<span class=\"bf\">va</span>"
+        ],
+        "srcwordstex": [
+            "ta-ka\u0257",
+            "\\textbf{va}"
+        ],
+        "trs": "They kill each other.\u2019 (lit. they kill.by.clubbing body)",
+        "wlength": 2
+    },
+    {
+        "ID": "9-540366",
+        "categories": [],
+        "clength": 46,
+        "filename": "118/chapters/9.tex",
+        "imt": "{\\twoP}-need-{\\twoP}    body  at  body  in",
+        "imtwordsbare": [
+            "{\\twoP}-need-{\\twoP}",
+            "body",
+            "at",
+            "body",
+            "in"
+        ],
+        "imtwordshtml": [
+            "{\\twoP}-need-{\\twoP}",
+            "body",
+            "at",
+            "body",
+            "in"
+        ],
+        "imtwordstex": [
+            "{\\twoP}-need-{\\twoP}",
+            "body",
+            "at",
+            "body",
+            "in"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "k\u0254-nd\u0254\u0257-\u0254m    \\textbf{va}  a  \\textbf{va}  ava",
+        "srcwordsbare": [
+            "k\u0254-nd\u0254\u0257-\u0254m",
+            "va",
+            "a",
+            "va",
+            "ava"
+        ],
+        "srcwordshtml": [
+            "k\u0254-nd\u0254\u0257-\u0254m",
+            "<span class=\"bf\">va</span>",
+            "a",
+            "<span class=\"bf\">va</span>",
+            "ava"
+        ],
+        "srcwordstex": [
+            "k\u0254-nd\u0254\u0257-\u0254m",
+            "\\textbf{va}",
+            "a",
+            "\\textbf{va}",
+            "ava"
+        ],
+        "trs": "Love one another.\u2019 (lit. need body in the body)",
+        "wlength": 5
+    },
+    {
+        "ID": "9-136813",
+        "categories": [
+            "s"
+        ],
+        "clength": 46,
+        "filename": "118/chapters/9.tex",
+        "imt": "sibling={\\twoS}.{\\POSS}  \\oldstylenums{3}\\textsc{s}-take  body  with  {\\twoS}",
+        "imtwordsbare": [
+            "sibling={\\twoS}.{\\POSS}",
+            "\\oldstylenums{3}S-take",
+            "body",
+            "with",
+            "{\\twoS}"
+        ],
+        "imtwordshtml": [
+            "sibling={\\twoS}.{\\POSS}",
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-take",
+            "body",
+            "with",
+            "{\\twoS}"
+        ],
+        "imtwordstex": [
+            "sibling={\\twoS}.{\\POSS}",
+            "\\oldstylenums{3}\\textsc{s}-take",
+            "body",
+            "with",
+            "{\\twoS}"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "m\u0259lama=a\u014bg\u02b7\u0254     a-za\u0257   \\textbf{va}  n\u0259  n\u0254k\u02b7",
+        "srcwordsbare": [
+            "m\u0259lama=a\u014bg\u02b7\u0254",
+            "a-za\u0257",
+            "va",
+            "n\u0259",
+            "n\u0254k\u02b7"
+        ],
+        "srcwordshtml": [
+            "m\u0259lama=a\u014bg\u02b7\u0254",
+            "a-za\u0257",
+            "<span class=\"bf\">va</span>",
+            "n\u0259",
+            "n\u0254k\u02b7"
+        ],
+        "srcwordstex": [
+            "m\u0259lama=a\u014bg\u02b7\u0254",
+            "a-za\u0257",
+            "\\textbf{va}",
+            "n\u0259",
+            "n\u0254k\u02b7"
+        ],
+        "trs": "Your sibling resembles you.\u2019 (lit. your sibling takes body with you)",
+        "wlength": 5
+    },
+    {
+        "ID": "9-140346",
+        "categories": [
+            "p"
+        ],
+        "clength": 49,
+        "filename": "118/chapters/9.tex",
+        "imt": "sibling={\\twoS}.{\\POSS}=Pl  all  \\oldstylenums{3}\\textsc{p}-take  body",
+        "imtwordsbare": [
+            "sibling={\\twoS}.{\\POSS}=Pl",
+            "all",
+            "\\oldstylenums{3}P-take",
+            "body"
+        ],
+        "imtwordshtml": [
+            "sibling={\\twoS}.{\\POSS}=Pl",
+            "all",
+            "\\oldstylenums{3}<span class=\"sc\">p</span>-take",
+            "body"
+        ],
+        "imtwordstex": [
+            "sibling={\\twoS}.{\\POSS}=Pl",
+            "all",
+            "\\oldstylenums{3}\\textsc{p}-take",
+            "body"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "m\u0259lama=a\u014bg\u02b7\u0254=ahaj   d\u0292ijga   ta-za\u0257   \\textbf{va}",
+        "srcwordsbare": [
+            "m\u0259lama=a\u014bg\u02b7\u0254=ahaj",
+            "d\u0292ijga",
+            "ta-za\u0257",
+            "va"
+        ],
+        "srcwordshtml": [
+            "m\u0259lama=a\u014bg\u02b7\u0254=ahaj",
+            "d\u0292ijga",
+            "ta-za\u0257",
+            "<span class=\"bf\">va</span>"
+        ],
+        "srcwordstex": [
+            "m\u0259lama=a\u014bg\u02b7\u0254=ahaj",
+            "d\u0292ijga",
+            "ta-za\u0257",
+            "\\textbf{va}"
+        ],
+        "trs": "All your siblings look alike.\u2019 (lit. siblings take [each other\u2019s] body)",
+        "wlength": 4
+    },
+    {
+        "ID": "9--78013",
+        "categories": [
+            "s"
+        ],
+        "clength": 31,
+        "filename": "118/chapters/9.tex",
+        "imt": "\\oldstylenums{3}\\textsc{s}-breathe  body  on  road  on",
+        "imtwordsbare": [
+            "\\oldstylenums{3}S-breathe",
+            "body",
+            "on",
+            "road",
+            "on"
+        ],
+        "imtwordshtml": [
+            "\\oldstylenums{3}<span class=\"sc\">s</span>-breathe",
+            "body",
+            "on",
+            "road",
+            "on"
+        ],
+        "imtwordstex": [
+            "\\oldstylenums{3}\\textsc{s}-breathe",
+            "body",
+            "on",
+            "road",
+            "on"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "\u025b{}-mb\u025b\u0283\u025b\u014b  va  k\u0259  t\u0283\u026av\u025b\u0257  aka",
+        "srcwordsbare": [
+            "\u025b{}-mb\u025b\u0283\u025b\u014b",
+            "va",
+            "k\u0259",
+            "t\u0283\u026av\u025b\u0257",
+            "aka"
+        ],
+        "srcwordshtml": [
+            "\u025b{}-mb\u025b\u0283\u025b\u014b",
+            "va",
+            "k\u0259",
+            "t\u0283\u026av\u025b\u0257",
+            "aka"
+        ],
+        "srcwordstex": [
+            "\u025b{}-mb\u025b\u0283\u025b\u014b",
+            "va",
+            "k\u0259",
+            "t\u0283\u026av\u025b\u0257",
+            "aka"
+        ],
+        "trs": "He rests enroute [to somewhere].",
+        "wlength": 5
+    },
+    {
+        "ID": "9-376710",
+        "categories": [
+            "id"
+        ],
+        "clength": 17,
+        "filename": "118/chapters/9.tex",
+        "imt": "{\\NOM}{}-penetrate{}-{\\CL}      \\textsc{id}:penetrate",
+        "imtwordsbare": [
+            "{\\NOM}{}-penetrate{}-{\\CL}",
+            "ID:penetrate"
+        ],
+        "imtwordshtml": [
+            "{\\NOM}{}-penetrate{}-{\\CL}",
+            "<span class=\"sc\">id</span>:penetrate"
+        ],
+        "imtwordstex": [
+            "{\\NOM}{}-penetrate{}-{\\CL}",
+            "\\textsc{id}:penetrate"
+        ],
+        "language": "118/chapters/9.tex",
+        "src": "m\u025b-t\u0283\u025b\u026c-\u025b  mb\u0259ra\u0253",
+        "srcwordsbare": [
+            "m\u025b-t\u0283\u025b\u026c-\u025b",
+            "mb\u0259ra\u0253"
+        ],
+        "srcwordshtml": [
+            "m\u025b-t\u0283\u025b\u026c-\u025b",
+            "mb\u0259ra\u0253"
+        ],
+        "srcwordstex": [
+            "m\u025b-t\u0283\u025b\u026c-\u025b",
+            "mb\u0259ra\u0253"
+        ],
+        "trs": "It penetrated, \\textit{mb\u0259ra\u0253}!",
+        "wlength": 2
+    }
+]

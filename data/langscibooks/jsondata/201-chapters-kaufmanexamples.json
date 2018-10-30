@@ -1,0 +1,3142 @@
+[
+    {
+        "ID": "kaufman--91550",
+        "categories": [
+            "lnk",
+            "nom"
+        ],
+        "clength": 23,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{nom} tall \\textsc{lnk} girl",
+        "imtwordsbare": [
+            "NOM",
+            "tall",
+            "LNK",
+            "girl"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>",
+            "tall",
+            "<span class=\"sc\">lnk</span>",
+            "girl"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}",
+            "tall",
+            "\\textsc{lnk}",
+            "girl"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "ang matangkad na dalaga",
+        "srcwordsbare": [
+            "ang",
+            "matangkad",
+            "na",
+            "dalaga"
+        ],
+        "srcwordshtml": [
+            "ang",
+            "matangkad",
+            "na",
+            "dalaga"
+        ],
+        "srcwordstex": [
+            "ang",
+            "matangkad",
+            "na",
+            "dalaga"
+        ],
+        "trs": "the tall girl",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman-231658",
+        "categories": [
+            "nom"
+        ],
+        "clength": 21,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "tall \\textsc{nom} girl",
+        "imtwordsbare": [
+            "tall",
+            "NOM",
+            "girl"
+        ],
+        "imtwordshtml": [
+            "tall",
+            "<span class=\"sc\">nom</span>",
+            "girl"
+        ],
+        "imtwordstex": [
+            "tall",
+            "\\textsc{nom}",
+            "girl"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Matangkad ang dalaga.",
+        "srcwordsbare": [
+            "Matangkad",
+            "ang",
+            "dalaga."
+        ],
+        "srcwordshtml": [
+            "Matangkad",
+            "ang",
+            "dalaga."
+        ],
+        "srcwordstex": [
+            "Matangkad",
+            "ang",
+            "dalaga."
+        ],
+        "trs": "The girl is tall.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-188787",
+        "categories": [
+            "beg",
+            "gen",
+            "nom",
+            "pv"
+        ],
+        "clength": 52,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "<\\textsc{beg}>eat-\\textsc{pv} \\textsc{gen} Juan \\textsc{nom} tofu",
+        "imtwordsbare": [
+            "<BEG>eat-PV",
+            "GEN",
+            "Juan",
+            "NOM",
+            "tofu"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">beg</span>>eat-<span class=\"sc\">pv</span>",
+            "<span class=\"sc\">gen</span>",
+            "Juan",
+            "<span class=\"sc\">nom</span>",
+            "tofu"
+        ],
+        "imtwordstex": [
+            "<\\textsc{beg}>eat-\\textsc{pv}",
+            "\\textsc{gen}",
+            "Juan",
+            "\\textsc{nom}",
+            "tofu"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205 ni Juan ang tokwa.",
+        "srcwordsbare": [
+            "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ni",
+            "Juan",
+            "ang",
+            "tokwa."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ni",
+            "Juan",
+            "ang",
+            "tokwa."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ni",
+            "Juan",
+            "ang",
+            "tokwa."
+        ],
+        "trs": "Juan ate the tofu.",
+        "wlength": 5
+    },
+    {
+        "ID": "kaufman--42851",
+        "categories": [
+            "beg",
+            "nom",
+            "pv"
+        ],
+        "clength": 44,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "<\\textsc{beg}>eat-\\textsc{pv} \\textsc{nom} tofu",
+        "imtwordsbare": [
+            "<BEG>eat-PV",
+            "NOM",
+            "tofu"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">beg</span>>eat-<span class=\"sc\">pv</span>",
+            "<span class=\"sc\">nom</span>",
+            "tofu"
+        ],
+        "imtwordstex": [
+            "<\\textsc{beg}>eat-\\textsc{pv}",
+            "\\textsc{nom}",
+            "tofu"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205 ang tokwa.",
+        "srcwordsbare": [
+            "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ang",
+            "tokwa."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ang",
+            "tokwa."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ang",
+            "tokwa."
+        ],
+        "trs": "The tofu was eaten.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--84753",
+        "categories": [
+            "beg",
+            "gen",
+            "pv"
+        ],
+        "clength": 44,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "<\\textsc{beg}>eat-\\textsc{pv} \\textsc{gen} Juan",
+        "imtwordsbare": [
+            "<BEG>eat-PV",
+            "GEN",
+            "Juan"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">beg</span>>eat-<span class=\"sc\">pv</span>",
+            "<span class=\"sc\">gen</span>",
+            "Juan"
+        ],
+        "imtwordstex": [
+            "<\\textsc{beg}>eat-\\textsc{pv}",
+            "\\textsc{gen}",
+            "Juan"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "\\%K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205 ni Juan.",
+        "srcwordsbare": [
+            "\\%K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ni",
+            "Juan."
+        ],
+        "srcwordshtml": [
+            "\\%K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ni",
+            "Juan."
+        ],
+        "srcwordstex": [
+            "\\%K{\\USSmaller}in{\\USGreater}a\u0301in-\u2205",
+            "ni",
+            "Juan."
+        ],
+        "trs": "Juan ate (it).",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-820338",
+        "categories": [
+            "av",
+            "beg",
+            "gen",
+            "nom"
+        ],
+        "clength": 49,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "<\\textsc{av.beg}>eat \\textsc{gen} tofu \\textsc{nom} Juan",
+        "imtwordsbare": [
+            "<av.beg>eat",
+            "GEN",
+            "tofu",
+            "NOM",
+            "Juan"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av.beg</span>>eat",
+            "<span class=\"sc\">gen</span>",
+            "tofu",
+            "<span class=\"sc\">nom</span>",
+            "Juan"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av.beg}>eat",
+            "\\textsc{gen}",
+            "tofu",
+            "\\textsc{nom}",
+            "Juan"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "K{\\USSmaller}um{\\USGreater}a\u0301in ng tokwa si Juan.",
+        "srcwordsbare": [
+            "K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "ng",
+            "tokwa",
+            "si",
+            "Juan."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "ng",
+            "tokwa",
+            "si",
+            "Juan."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "ng",
+            "tokwa",
+            "si",
+            "Juan."
+        ],
+        "trs": "Juan ate tofu.",
+        "wlength": 5
+    },
+    {
+        "ID": "kaufman-828213",
+        "categories": [
+            "av",
+            "beg",
+            "gen"
+        ],
+        "clength": 43,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "<\\textsc{av.beg}>eat \\textsc{gen} tofu",
+        "imtwordsbare": [
+            "<av.beg>eat",
+            "GEN",
+            "tofu"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av.beg</span>>eat",
+            "<span class=\"sc\">gen</span>",
+            "tofu"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av.beg}>eat",
+            "\\textsc{gen}",
+            "tofu"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "\\%K{\\USSmaller}um{\\USGreater}a\u0301in ng tokwa.",
+        "srcwordsbare": [
+            "\\%K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "ng",
+            "tokwa."
+        ],
+        "srcwordshtml": [
+            "\\%K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "ng",
+            "tokwa."
+        ],
+        "srcwordstex": [
+            "\\%K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "ng",
+            "tokwa."
+        ],
+        "trs": "(S/he) ate tofu.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--89398",
+        "categories": [
+            "av",
+            "beg",
+            "nom"
+        ],
+        "clength": 40,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "<\\textsc{av.beg}>eat \\textsc{nom} Juan",
+        "imtwordsbare": [
+            "<av.beg>eat",
+            "NOM",
+            "Juan"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av.beg</span>>eat",
+            "<span class=\"sc\">nom</span>",
+            "Juan"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av.beg}>eat",
+            "\\textsc{nom}",
+            "Juan"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "K{\\USSmaller}um{\\USGreater}a\u0301in si Juan.",
+        "srcwordsbare": [
+            "K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "si",
+            "Juan."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "si",
+            "Juan."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}um{\\USGreater}a\u0301in",
+            "si",
+            "Juan."
+        ],
+        "trs": "Juan ate.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-737201",
+        "categories": [
+            "nom"
+        ],
+        "clength": 16,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "lawyer \\textsc{nom} Jojo",
+        "imtwordsbare": [
+            "lawyer",
+            "NOM",
+            "Jojo"
+        ],
+        "imtwordshtml": [
+            "lawyer",
+            "<span class=\"sc\">nom</span>",
+            "Jojo"
+        ],
+        "imtwordstex": [
+            "lawyer",
+            "\\textsc{nom}",
+            "Jojo"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Abogado si Jojo.",
+        "srcwordsbare": [
+            "Abogado",
+            "si",
+            "Jojo."
+        ],
+        "srcwordshtml": [
+            "Abogado",
+            "si",
+            "Jojo."
+        ],
+        "srcwordstex": [
+            "Abogado",
+            "si",
+            "Jojo."
+        ],
+        "trs": "Jojo is a lawyer.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--34820",
+        "categories": [
+            "<av>imprf",
+            "nom"
+        ],
+        "clength": 46,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{<av>imprf}\u223ceat  \\textsc{nom} man",
+        "imtwordsbare": [
+            "<AV>IMPRF\u223ceat",
+            "NOM",
+            "man"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\"><av>imprf</span>\u223ceat",
+            "<span class=\"sc\">nom</span>",
+            "man"
+        ],
+        "imtwordstex": [
+            "\\textsc{<av>imprf}\u223ceat",
+            "\\textsc{nom}",
+            "man"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "K{\\USSmaller}um{\\USGreater}a\u223cka\u0301in ang lal\u00e1ki.",
+        "srcwordsbare": [
+            "K{\\USSmaller}um{\\USGreater}a\u223cka\u0301in",
+            "ang",
+            "lal\u00e1ki."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}um{\\USGreater}a\u223cka\u0301in",
+            "ang",
+            "lal\u00e1ki."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}um{\\USGreater}a\u223cka\u0301in",
+            "ang",
+            "lal\u00e1ki."
+        ],
+        "trs": "The man is eating.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-156215",
+        "categories": [
+            "<av>imprf",
+            "nom"
+        ],
+        "clength": 46,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "man \\textsc{nom} \\textsc{<av>imprf}\u223ceat",
+        "imtwordsbare": [
+            "man",
+            "NOM",
+            "<AV>IMPRF\u223ceat"
+        ],
+        "imtwordshtml": [
+            "man",
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\"><av>imprf</span>\u223ceat"
+        ],
+        "imtwordstex": [
+            "man",
+            "\\textsc{nom}",
+            "\\textsc{<av>imprf}\u223ceat"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Lal\u00e1ki ang k{\\USSmaller}um{\\USGreater}a\u223cka\u0301in.",
+        "srcwordsbare": [
+            "Lal\u00e1ki",
+            "ang",
+            "k{\\USSmaller}um{\\USGreater}a\u223cka\u0301in."
+        ],
+        "srcwordshtml": [
+            "Lal\u00e1ki",
+            "ang",
+            "k{\\USSmaller}um{\\USGreater}a\u223cka\u0301in."
+        ],
+        "srcwordstex": [
+            "Lal\u00e1ki",
+            "ang",
+            "k{\\USSmaller}um{\\USGreater}a\u223cka\u0301in."
+        ],
+        "trs": "The eating one is a man.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--31311",
+        "categories": [
+            "2s",
+            "av",
+            "nom",
+            "obl",
+            "prf",
+            "qm"
+        ],
+        "clength": 86,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{[}\\textsc{obl} Manila=\\textsc{2s.nom=qm} <\\textsc{av.prf}>go",
+        "imtwordsbare": [
+            "\\phantom{[}OBL",
+            "Manila=2s.nom=qm",
+            "<av.prf>go"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}<span class=\"sc\">obl</span>",
+            "Manila=<span class=\"sc\">2s.nom=qm</span>",
+            "<<span class=\"sc\">av.prf</span>>go"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}\\textsc{obl}",
+            "Manila=\\textsc{2s.nom=qm}",
+            "<\\textsc{av.prf}>go"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "{\\ob}Sa Manila{\\cb}\\textsubscript{FOC}=ka=ba p{\\USSmaller}um{\\USGreater}unta{\\USQMark}",
+        "srcwordsbare": [
+            "[Sa",
+            "Manila]FOC=ka=ba",
+            "p{\\USSmaller}um{\\USGreater}unta{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "[Sa",
+            "Manila]<span class=\"subscript\">FOC</span>=ka=ba",
+            "p{\\USSmaller}um{\\USGreater}unta{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "{\\ob}Sa",
+            "Manila{\\cb}\\textsubscript{FOC}=ka=ba",
+            "p{\\USSmaller}um{\\USGreater}unta{\\USQMark}"
+        ],
+        "trs": "Did you go to \\textsc{Manila}?' (`Was it to Manila that you went?') \\citep[182]{Kaufman:2005}",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--91195",
+        "categories": [
+            "2s",
+            "av",
+            "nom",
+            "obl",
+            "prf",
+            "qm"
+        ],
+        "clength": 66,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{[}\\textsc{obl} Naga <\\textsc{av.prf}>go=\\textsc{2s.nom=qm}",
+        "imtwordsbare": [
+            "\\phantom{[}OBL",
+            "Naga",
+            "<av.prf>go=2s.nom=qm"
+        ],
+        "imtwordshtml": [
+            "\\phantom{[}<span class=\"sc\">obl</span>",
+            "Naga",
+            "<<span class=\"sc\">av.prf</span>>go=<span class=\"sc\">2s.nom=qm</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{[}\\textsc{obl}",
+            "Naga",
+            "<\\textsc{av.prf}>go=\\textsc{2s.nom=qm}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "{\\ob}Sa Naga{\\cb}, p{\\USSmaller}um{\\USGreater}unta=ka=ba{\\USQMark}",
+        "srcwordsbare": [
+            "[Sa",
+            "Naga],",
+            "p{\\USSmaller}um{\\USGreater}unta=ka=ba{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "[Sa",
+            "Naga],",
+            "p{\\USSmaller}um{\\USGreater}unta=ka=ba{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "{\\ob}Sa",
+            "Naga{\\cb},",
+            "p{\\USSmaller}um{\\USGreater}unta=ka=ba{\\USQMark}"
+        ],
+        "trs": "To Naga, did you go (there) already?",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-136176",
+        "categories": [
+            "",
+            "av"
+        ],
+        "clength": 74,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "president \\phantom{(*}only can \\textsc{av:}evaluate output minister",
+        "imtwordsbare": [
+            "president",
+            "\\phantom{(*}only",
+            "can",
+            "av:evaluate",
+            "output",
+            "minister"
+        ],
+        "imtwordshtml": [
+            "president",
+            "\\phantom{(*}only",
+            "can",
+            "<span class=\"sc\">av:</span>evaluate",
+            "output",
+            "minister"
+        ],
+        "imtwordstex": [
+            "president",
+            "\\phantom{(*}only",
+            "can",
+            "\\textsc{av:}evaluate",
+            "output",
+            "minister"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Presiden {\\USOParen}{\\USStar}saja{\\USCParen} bisa menilai kinerja menteri.",
+        "srcwordsbare": [
+            "Presiden",
+            "{\\USOParen}{\\USStar}saja{\\USCParen}",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri."
+        ],
+        "srcwordshtml": [
+            "Presiden",
+            "{\\USOParen}{\\USStar}saja{\\USCParen}",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri."
+        ],
+        "srcwordstex": [
+            "Presiden",
+            "{\\USOParen}{\\USStar}saja{\\USCParen}",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri."
+        ],
+        "trs": "A president can evaluate a minister's output.",
+        "wlength": 6
+    },
+    {
+        "ID": "kaufman-432422",
+        "categories": [
+            "",
+            "av",
+            "relt"
+        ],
+        "clength": 48,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "president only \\textsc{relt} can \\textsc{av:}evaluate output minister",
+        "imtwordsbare": [
+            "president",
+            "only",
+            "RELT",
+            "can",
+            "av:evaluate",
+            "output",
+            "minister"
+        ],
+        "imtwordshtml": [
+            "president",
+            "only",
+            "<span class=\"sc\">relt</span>",
+            "can",
+            "<span class=\"sc\">av:</span>evaluate",
+            "output",
+            "minister"
+        ],
+        "imtwordstex": [
+            "president",
+            "only",
+            "\\textsc{relt}",
+            "can",
+            "\\textsc{av:}evaluate",
+            "output",
+            "minister"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Presiden saja yang bisa menilai kinerja menteri.",
+        "srcwordsbare": [
+            "Presiden",
+            "saja",
+            "yang",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri."
+        ],
+        "srcwordshtml": [
+            "Presiden",
+            "saja",
+            "yang",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri."
+        ],
+        "srcwordstex": [
+            "Presiden",
+            "saja",
+            "yang",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri."
+        ],
+        "trs": "Only a president can evaluate a minister's output.",
+        "wlength": 7
+    },
+    {
+        "ID": "kaufman--69612",
+        "categories": [
+            "",
+            "av"
+        ],
+        "clength": 43,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "president can \\textsc{av:}evaluate output minister only",
+        "imtwordsbare": [
+            "president",
+            "can",
+            "av:evaluate",
+            "output",
+            "minister",
+            "only"
+        ],
+        "imtwordshtml": [
+            "president",
+            "can",
+            "<span class=\"sc\">av:</span>evaluate",
+            "output",
+            "minister",
+            "only"
+        ],
+        "imtwordstex": [
+            "president",
+            "can",
+            "\\textsc{av:}evaluate",
+            "output",
+            "minister",
+            "only"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Presiden bisa menilai kinerja menteri saja.",
+        "srcwordsbare": [
+            "Presiden",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri",
+            "saja."
+        ],
+        "srcwordshtml": [
+            "Presiden",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri",
+            "saja."
+        ],
+        "srcwordstex": [
+            "Presiden",
+            "bisa",
+            "menilai",
+            "kinerja",
+            "menteri",
+            "saja."
+        ],
+        "trs": "A president can only evaluate a minister's output.",
+        "wlength": 6
+    },
+    {
+        "ID": "kaufman--89086",
+        "categories": [
+            "2sg",
+            "av",
+            "gen",
+            "imprf\u223c",
+            "nom"
+        ],
+        "clength": 43,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{nom} Juan \\textsc{nom} \\textsc{av-imprf\u223c}carry \\textsc{gen} bag \\textsc{2sg.gen}",
+        "imtwordsbare": [
+            "NOM",
+            "Juan",
+            "NOM",
+            "av-imprf\u223ccarry",
+            "GEN",
+            "bag",
+            "2sg.gen"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>",
+            "Juan",
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">av-imprf\u223c</span>carry",
+            "<span class=\"sc\">gen</span>",
+            "bag",
+            "<span class=\"sc\">2sg.gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}",
+            "Juan",
+            "\\textsc{nom}",
+            "\\textsc{av-imprf\u223c}carry",
+            "\\textsc{gen}",
+            "bag",
+            "\\textsc{2sg.gen}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Si Juan \\textbf{ang} mag-da\u223cdala ng bag mo.",
+        "srcwordsbare": [
+            "Si",
+            "Juan",
+            "ang",
+            "mag-da\u223cdala",
+            "ng",
+            "bag",
+            "mo."
+        ],
+        "srcwordshtml": [
+            "Si",
+            "Juan",
+            "<span class=\"bf\">ang</span>",
+            "mag-da\u223cdala",
+            "ng",
+            "bag",
+            "mo."
+        ],
+        "srcwordstex": [
+            "Si",
+            "Juan",
+            "\\textbf{ang}",
+            "mag-da\u223cdala",
+            "ng",
+            "bag",
+            "mo."
+        ],
+        "trs": "\\textsc{Juan} will carry your bag.' (Lit. `Juan will be the one to carry your bag.')",
+        "wlength": 7
+    },
+    {
+        "ID": "kaufman--90796",
+        "categories": [
+            "av",
+            "beg",
+            "nom"
+        ],
+        "clength": 60,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "who \\textsc{nom} <\\textsc{av.beg}>arrive",
+        "imtwordsbare": [
+            "who",
+            "NOM",
+            "<av.beg>arrive"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">nom</span>",
+            "<<span class=\"sc\">av.beg</span>>arrive"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{nom}",
+            "<\\textsc{av.beg}>arrive"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Sino \\textbf{ang} d{\\USSmaller}um{\\USGreater}ating{\\USQMark}",
+        "srcwordsbare": [
+            "Sino",
+            "ang",
+            "d{\\USSmaller}um{\\USGreater}ating{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Sino",
+            "<span class=\"bf\">ang</span>",
+            "d{\\USSmaller}um{\\USGreater}ating{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Sino",
+            "\\textbf{ang}",
+            "d{\\USSmaller}um{\\USGreater}ating{\\USQMark}"
+        ],
+        "trs": "Who arrived?",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--73817",
+        "categories": [
+            "av",
+            "beg",
+            "nom"
+        ],
+        "clength": 51,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "<\\textsc{av.beg}>arrive \\textsc{nom} teacher",
+        "imtwordsbare": [
+            "<av.beg>arrive",
+            "NOM",
+            "teacher"
+        ],
+        "imtwordshtml": [
+            "<<span class=\"sc\">av.beg</span>>arrive",
+            "<span class=\"sc\">nom</span>",
+            "teacher"
+        ],
+        "imtwordstex": [
+            "<\\textsc{av.beg}>arrive",
+            "\\textsc{nom}",
+            "teacher"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "D{\\USSmaller}um{\\USGreater}ating \\textbf{ang} guro.",
+        "srcwordsbare": [
+            "D{\\USSmaller}um{\\USGreater}ating",
+            "ang",
+            "guro."
+        ],
+        "srcwordshtml": [
+            "D{\\USSmaller}um{\\USGreater}ating",
+            "<span class=\"bf\">ang</span>",
+            "guro."
+        ],
+        "srcwordstex": [
+            "D{\\USSmaller}um{\\USGreater}ating",
+            "\\textbf{ang}",
+            "guro."
+        ],
+        "trs": "The teacher arrived.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-674440",
+        "categories": [
+            "relt"
+        ],
+        "clength": 36,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "who \\textsc{relt} arrive",
+        "imtwordsbare": [
+            "who",
+            "RELT",
+            "arrive"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">relt</span>",
+            "arrive"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{relt}",
+            "arrive"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Siapa \\textbf{yang} datang{\\USQMark}",
+        "srcwordsbare": [
+            "Siapa",
+            "yang",
+            "datang{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Siapa",
+            "<span class=\"bf\">yang</span>",
+            "datang{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Siapa",
+            "\\textbf{yang}",
+            "datang{\\USQMark}"
+        ],
+        "trs": "Who arrived?",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-709568",
+        "categories": [
+            "3s",
+            "gen"
+        ],
+        "clength": 19,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "arrive elder.brother-\\textsc{3s.gen}",
+        "imtwordsbare": [
+            "arrive",
+            "elder.brother-3s.gen"
+        ],
+        "imtwordshtml": [
+            "arrive",
+            "elder.brother-<span class=\"sc\">3s.gen</span>"
+        ],
+        "imtwordstex": [
+            "arrive",
+            "elder.brother-\\textsc{3s.gen}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Datang abang-nya...",
+        "srcwordsbare": [
+            "Datang",
+            "abang-nya..."
+        ],
+        "srcwordshtml": [
+            "Datang",
+            "abang-nya..."
+        ],
+        "srcwordstex": [
+            "Datang",
+            "abang-nya..."
+        ],
+        "trs": "His brother arrived...' \t{(Hikayat Pahang 128:9)}",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman-101905",
+        "categories": [
+            "2s",
+            "beg",
+            "gen",
+            "imprf",
+            "nom",
+            "pv"
+        ],
+        "clength": 54,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "what \\textsc{nom} <\\textsc{beg}>\\textsc{imprf}\u223cdo.\\textsc{pv}=\\textsc{2s.gen}",
+        "imtwordsbare": [
+            "what",
+            "NOM",
+            "<BEG>IMPRF\u223cdo.PV=2s.gen"
+        ],
+        "imtwordshtml": [
+            "what",
+            "<span class=\"sc\">nom</span>",
+            "<<span class=\"sc\">beg</span>><span class=\"sc\">imprf</span>\u223cdo.<span class=\"sc\">pv</span>=<span class=\"sc\">2s.gen</span>"
+        ],
+        "imtwordstex": [
+            "what",
+            "\\textsc{nom}",
+            "<\\textsc{beg}>\\textsc{imprf}\u223cdo.\\textsc{pv}=\\textsc{2s.gen}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ano ang g{\\USSmaller}in{\\USGreater}a\u223cgawa=mo{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "ang",
+            "g{\\USSmaller}in{\\USGreater}a\u223cgawa=mo{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "ang",
+            "g{\\USSmaller}in{\\USGreater}a\u223cgawa=mo{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "ang",
+            "g{\\USSmaller}in{\\USGreater}a\u223cgawa=mo{\\USQMark}"
+        ],
+        "trs": "What are you doing?",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--20997",
+        "categories": [
+            "",
+            "1s",
+            "3s",
+            "gen",
+            "neg",
+            "nom"
+        ],
+        "clength": 74,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{neg=1s.gen=3s.nom} friend\\textsc{=1s.gen}",
+        "imtwordsbare": [
+            "neg=1s.gen=3s.nom",
+            "friend=1s.gen"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg=1s.gen=3s.nom</span>",
+            "friend<span class=\"sc\">=1s.gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg=1s.gen=3s.nom}",
+            "friend\\textsc{=1s.gen}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "polarity": "negative",
+        "src": "Hindi{\\ob}\\textbf{=ko}{\\cb}=siya kaibigan{\\ob}{\\USQMark}\\textbf{=ko}{\\cb}.",
+        "srcwordsbare": [
+            "Hindi[=ko]=siya",
+            "kaibigan[{\\USQMark}=ko]."
+        ],
+        "srcwordshtml": [
+            "Hindi[<span class=\"bf\">=ko</span>]=siya",
+            "kaibigan[{\\USQMark}<span class=\"bf\">=ko</span>]."
+        ],
+        "srcwordstex": [
+            "Hindi{\\ob}\\textbf{=ko}{\\cb}=siya",
+            "kaibigan{\\ob}{\\USQMark}\\textbf{=ko}{\\cb}."
+        ],
+        "trs": "He is not a friend of mine.",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman-896055",
+        "categories": [
+            "",
+            "1s",
+            "3s",
+            "gen",
+            "neg",
+            "nom"
+        ],
+        "clength": 77,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{neg=1s.gen} \\textsc{3s.nom} \\textsc{nom} friend\\textsc{=1s.gen}",
+        "imtwordsbare": [
+            "neg=1s.gen",
+            "3s.nom",
+            "NOM",
+            "friend=1s.gen"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg=1s.gen</span>",
+            "<span class=\"sc\">3s.nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "friend<span class=\"sc\">=1s.gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg=1s.gen}",
+            "\\textsc{3s.nom}",
+            "\\textsc{nom}",
+            "friend\\textsc{=1s.gen}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "polarity": "negative",
+        "src": "Hindi{\\ob}{\\USStar}\\textbf{=ko}{\\cb} siya ang kaibigan{\\ob}\\textbf{=ko}{\\cb}.",
+        "srcwordsbare": [
+            "Hindi[{\\USStar}=ko]",
+            "siya",
+            "ang",
+            "kaibigan[=ko]."
+        ],
+        "srcwordshtml": [
+            "Hindi[{\\USStar}<span class=\"bf\">=ko</span>]",
+            "siya",
+            "ang",
+            "kaibigan[<span class=\"bf\">=ko</span>]."
+        ],
+        "srcwordstex": [
+            "Hindi{\\ob}{\\USStar}\\textbf{=ko}{\\cb}",
+            "siya",
+            "ang",
+            "kaibigan{\\ob}\\textbf{=ko}{\\cb}."
+        ],
+        "trs": "He is not the friend of mine.",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman--87289",
+        "categories": [
+            "",
+            "1s",
+            "beg",
+            "gen",
+            "nom"
+        ],
+        "clength": 73,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{beg-}fall=\\textsc{1s.gen} \\textsc{nom} sibling=\\textsc{1s.gen}",
+        "imtwordsbare": [
+            "beg-fall=1s.gen",
+            "NOM",
+            "sibling=1s.gen"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">beg-</span>fall=<span class=\"sc\">1s.gen</span>",
+            "<span class=\"sc\">nom</span>",
+            "sibling=<span class=\"sc\">1s.gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{beg-}fall=\\textsc{1s.gen}",
+            "\\textsc{nom}",
+            "sibling=\\textsc{1s.gen}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Na-dapa{\\ob}{\\USStar}\\textbf{=ko}{\\cb} ang kapatid{\\ob}\\textbf{=ko}{\\cb}.",
+        "srcwordsbare": [
+            "Na-dapa[{\\USStar}=ko]",
+            "ang",
+            "kapatid[=ko]."
+        ],
+        "srcwordshtml": [
+            "Na-dapa[{\\USStar}<span class=\"bf\">=ko</span>]",
+            "ang",
+            "kapatid[<span class=\"bf\">=ko</span>]."
+        ],
+        "srcwordstex": [
+            "Na-dapa{\\ob}{\\USStar}\\textbf{=ko}{\\cb}",
+            "ang",
+            "kapatid{\\ob}\\textbf{=ko}{\\cb}."
+        ],
+        "trs": "My sibling fell.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--79500",
+        "categories": [
+            "relt"
+        ],
+        "clength": 38,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "house \\phantom{(}\\textsc{relt} big",
+        "imtwordsbare": [
+            "house",
+            "\\phantom{(}RELT",
+            "big"
+        ],
+        "imtwordshtml": [
+            "house",
+            "\\phantom{(}<span class=\"sc\">relt</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "house",
+            "\\phantom{(}\\textsc{relt}",
+            "big"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "rumah {\\USOParen}yang{\\USCParen} besar",
+        "srcwordsbare": [
+            "rumah",
+            "{\\USOParen}yang{\\USCParen}",
+            "besar"
+        ],
+        "srcwordshtml": [
+            "rumah",
+            "{\\USOParen}yang{\\USCParen}",
+            "besar"
+        ],
+        "srcwordstex": [
+            "rumah",
+            "{\\USOParen}yang{\\USCParen}",
+            "besar"
+        ],
+        "trs": "big house",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--42480",
+        "categories": [
+            "relt"
+        ],
+        "clength": 30,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{(}\\textsc{relt} this",
+        "imtwordsbare": [
+            "\\phantom{(}RELT",
+            "this"
+        ],
+        "imtwordshtml": [
+            "\\phantom{(}<span class=\"sc\">relt</span>",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\phantom{(}\\textsc{relt}",
+            "this"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "{\\USOParen}yang{\\USCParen} ini",
+        "srcwordsbare": [
+            "{\\USOParen}yang{\\USCParen}",
+            "ini"
+        ],
+        "srcwordshtml": [
+            "{\\USOParen}yang{\\USCParen}",
+            "ini"
+        ],
+        "srcwordstex": [
+            "{\\USOParen}yang{\\USCParen}",
+            "ini"
+        ],
+        "trs": "this one",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman-540945",
+        "categories": [
+            "lnk"
+        ],
+        "clength": 46,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "house \\phantom{*(}\\textsc{lnk} big",
+        "imtwordsbare": [
+            "house",
+            "\\phantom{*(}LNK",
+            "big"
+        ],
+        "imtwordshtml": [
+            "house",
+            "\\phantom{*(}<span class=\"sc\">lnk</span>",
+            "big"
+        ],
+        "imtwordstex": [
+            "house",
+            "\\phantom{*(}\\textsc{lnk}",
+            "big"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "bahay {\\USStar}{\\USOParen}na{\\USCParen} malaki",
+        "srcwordsbare": [
+            "bahay",
+            "{\\USStar}{\\USOParen}na{\\USCParen}",
+            "malaki"
+        ],
+        "srcwordshtml": [
+            "bahay",
+            "{\\USStar}{\\USOParen}na{\\USCParen}",
+            "malaki"
+        ],
+        "srcwordstex": [
+            "bahay",
+            "{\\USStar}{\\USOParen}na{\\USCParen}",
+            "malaki"
+        ],
+        "trs": "big house",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--66583",
+        "categories": [
+            "lnk"
+        ],
+        "clength": 37,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{(*}\\textsc{lnk} this",
+        "imtwordsbare": [
+            "\\phantom{(*}LNK",
+            "this"
+        ],
+        "imtwordshtml": [
+            "\\phantom{(*}<span class=\"sc\">lnk</span>",
+            "this"
+        ],
+        "imtwordstex": [
+            "\\phantom{(*}\\textsc{lnk}",
+            "this"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "{\\USOParen}{\\USStar}na{\\USCParen} ito",
+        "srcwordsbare": [
+            "{\\USOParen}{\\USStar}na{\\USCParen}",
+            "ito"
+        ],
+        "srcwordshtml": [
+            "{\\USOParen}{\\USStar}na{\\USCParen}",
+            "ito"
+        ],
+        "srcwordstex": [
+            "{\\USOParen}{\\USStar}na{\\USCParen}",
+            "ito"
+        ],
+        "trs": "this",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman--51032",
+        "categories": [
+            "",
+            "av",
+            "cop",
+            "relt"
+        ],
+        "clength": 45,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{relt} \\textsc{av:}evaluate output minister \\textsc{cop} president",
+        "imtwordsbare": [
+            "RELT",
+            "av:evaluate",
+            "output",
+            "minister",
+            "COP",
+            "president"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">relt</span>",
+            "<span class=\"sc\">av:</span>evaluate",
+            "output",
+            "minister",
+            "<span class=\"sc\">cop</span>",
+            "president"
+        ],
+        "imtwordstex": [
+            "\\textsc{relt}",
+            "\\textsc{av:}evaluate",
+            "output",
+            "minister",
+            "\\textsc{cop}",
+            "president"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Yang menilai kinerja menteri adalah Presiden.",
+        "srcwordsbare": [
+            "Yang",
+            "menilai",
+            "kinerja",
+            "menteri",
+            "adalah",
+            "Presiden."
+        ],
+        "srcwordshtml": [
+            "Yang",
+            "menilai",
+            "kinerja",
+            "menteri",
+            "adalah",
+            "Presiden."
+        ],
+        "srcwordstex": [
+            "Yang",
+            "menilai",
+            "kinerja",
+            "menteri",
+            "adalah",
+            "Presiden."
+        ],
+        "trs": "(The one) who evaluates the output of a minister is the president.'\\footnote{\\url{http://nasional.republika.co.id/berita/nasional/politik/16/01/06/o0iwuo354-jokowi-yang-menilai-kinerja-menteri-adalah-presiden}}",
+        "wlength": 6
+    },
+    {
+        "ID": "kaufman--90072",
+        "categories": [
+            "",
+            "3s",
+            "appl",
+            "cop",
+            "prep",
+            "pv",
+            "relt"
+        ],
+        "clength": 47,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{3s} \\textsc{cop} \\textsc{relt} \\textsc{pv-}old-\\textsc{appl} \\textsc{prep} among colleague",
+        "imtwordsbare": [
+            "3S",
+            "COP",
+            "RELT",
+            "pv-old-APPL",
+            "PREP",
+            "among",
+            "colleague"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3s</span>",
+            "<span class=\"sc\">cop</span>",
+            "<span class=\"sc\">relt</span>",
+            "<span class=\"sc\">pv-</span>old-<span class=\"sc\">appl</span>",
+            "<span class=\"sc\">prep</span>",
+            "among",
+            "colleague"
+        ],
+        "imtwordstex": [
+            "\\textsc{3s}",
+            "\\textsc{cop}",
+            "\\textsc{relt}",
+            "\\textsc{pv-}old-\\textsc{appl}",
+            "\\textsc{prep}",
+            "among",
+            "colleague"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Dia adalah yang di-tua-kan di antara sesamanya.",
+        "srcwordsbare": [
+            "Dia",
+            "adalah",
+            "yang",
+            "di-tua-kan",
+            "di",
+            "antara",
+            "sesamanya."
+        ],
+        "srcwordshtml": [
+            "Dia",
+            "adalah",
+            "yang",
+            "di-tua-kan",
+            "di",
+            "antara",
+            "sesamanya."
+        ],
+        "srcwordstex": [
+            "Dia",
+            "adalah",
+            "yang",
+            "di-tua-kan",
+            "di",
+            "antara",
+            "sesamanya."
+        ],
+        "trs": "It's him who is treated as an elder among colleagues.'\\footnote{\\url{http://nasional.kompas.com/read/2014/09/19/06431611/Artidjo.Korupsi.Kanker.yang.Gerogoti.Negara}}",
+        "wlength": 7
+    },
+    {
+        "ID": "kaufman--67607",
+        "categories": [
+            "",
+            "appl",
+            "cop",
+            "pv",
+            "relt"
+        ],
+        "clength": 60,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{relt} \\textsc{pv-}old-\\textsc{appl} \\phantom{(}\\textsc{cop} who",
+        "imtwordsbare": [
+            "RELT",
+            "pv-old-APPL",
+            "\\phantom{(}COP",
+            "who"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">relt</span>",
+            "<span class=\"sc\">pv-</span>old-<span class=\"sc\">appl</span>",
+            "\\phantom{(}<span class=\"sc\">cop</span>",
+            "who"
+        ],
+        "imtwordstex": [
+            "\\textsc{relt}",
+            "\\textsc{pv-}old-\\textsc{appl}",
+            "\\phantom{(}\\textsc{cop}",
+            "who"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Yang di-tua-kan {\\USOParen}adalah{\\USCParen} siapa{\\USQMark}",
+        "srcwordsbare": [
+            "Yang",
+            "di-tua-kan",
+            "{\\USOParen}adalah{\\USCParen}",
+            "siapa{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Yang",
+            "di-tua-kan",
+            "{\\USOParen}adalah{\\USCParen}",
+            "siapa{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Yang",
+            "di-tua-kan",
+            "{\\USOParen}adalah{\\USCParen}",
+            "siapa{\\USQMark}"
+        ],
+        "trs": "The one treated as an elder is who?",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman-564265",
+        "categories": [
+            "comp",
+            "pron",
+            "relt"
+        ],
+        "clength": 46,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "he \\textsc{relt.pron} \\textsc{comp} has the shortest shall begin",
+        "imtwordsbare": [
+            "he",
+            "relt.pron",
+            "COMP",
+            "has",
+            "the",
+            "shortest",
+            "shall",
+            "begin"
+        ],
+        "imtwordshtml": [
+            "he",
+            "<span class=\"sc\">relt.pron</span>",
+            "<span class=\"sc\">comp</span>",
+            "has",
+            "the",
+            "shortest",
+            "shall",
+            "begin"
+        ],
+        "imtwordstex": [
+            "he",
+            "\\textsc{relt.pron}",
+            "\\textsc{comp}",
+            "has",
+            "the",
+            "shortest",
+            "shall",
+            "begin"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "He which that hath the shortest shall beginne.",
+        "srcwordsbare": [
+            "He",
+            "which",
+            "that",
+            "hath",
+            "the",
+            "shortest",
+            "shall",
+            "beginne."
+        ],
+        "srcwordshtml": [
+            "He",
+            "which",
+            "that",
+            "hath",
+            "the",
+            "shortest",
+            "shall",
+            "beginne."
+        ],
+        "srcwordstex": [
+            "He",
+            "which",
+            "that",
+            "hath",
+            "the",
+            "shortest",
+            "shall",
+            "beginne."
+        ],
+        "trs": "He who has the shortest shall begin.",
+        "wlength": 8
+    },
+    {
+        "ID": "kaufman-170868",
+        "categories": [
+            "1s",
+            "2s",
+            "beg",
+            "gen",
+            "imprf",
+            "neg",
+            "nom",
+            "pv"
+        ],
+        "clength": 74,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{imprf}\u223ctake-\\textsc{pv} \\textsc{1s.gen} tomorrow \\textsc{nom} \\textsc{neg} \\textsc{2s.gen} <\\textsc{beg}>eat-\\textsc{pv} yesterday",
+        "imtwordsbare": [
+            "IMPRF\u223ctake-PV",
+            "1s.gen",
+            "tomorrow",
+            "NOM",
+            "NEG",
+            "2s.gen",
+            "<BEG>eat-PV",
+            "yesterday"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">imprf</span>\u223ctake-<span class=\"sc\">pv</span>",
+            "<span class=\"sc\">1s.gen</span>",
+            "tomorrow",
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">2s.gen</span>",
+            "<<span class=\"sc\">beg</span>>eat-<span class=\"sc\">pv</span>",
+            "yesterday"
+        ],
+        "imtwordstex": [
+            "\\textsc{imprf}\u223ctake-\\textsc{pv}",
+            "\\textsc{1s.gen}",
+            "tomorrow",
+            "\\textsc{nom}",
+            "\\textsc{neg}",
+            "\\textsc{2s.gen}",
+            "<\\textsc{beg}>eat-\\textsc{pv}",
+            "yesterday"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ku\u223ckun-in ko bukas ang hindi\u0300 mo k{\\USSmaller}in{\\USGreater}ain-\u2205 kahapon.",
+        "srcwordsbare": [
+            "Ku\u223ckun-in",
+            "ko",
+            "bukas",
+            "ang",
+            "hindi\u0300",
+            "mo",
+            "k{\\USSmaller}in{\\USGreater}ain-\u2205",
+            "kahapon."
+        ],
+        "srcwordshtml": [
+            "Ku\u223ckun-in",
+            "ko",
+            "bukas",
+            "ang",
+            "hindi\u0300",
+            "mo",
+            "k{\\USSmaller}in{\\USGreater}ain-\u2205",
+            "kahapon."
+        ],
+        "srcwordstex": [
+            "Ku\u223ckun-in",
+            "ko",
+            "bukas",
+            "ang",
+            "hindi\u0300",
+            "mo",
+            "k{\\USSmaller}in{\\USGreater}ain-\u2205",
+            "kahapon."
+        ],
+        "time": "future",
+        "trs": "I will take tomorrow what you didn't eat yesterday.",
+        "wlength": 8
+    },
+    {
+        "ID": "kaufman--15839",
+        "categories": [
+            "ext",
+            "neg",
+            "relt"
+        ],
+        "clength": 72,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{neg} \\textsc{ext} anymore chicken \\textsc{relt} can fly fast",
+        "imtwordsbare": [
+            "NEG",
+            "EXT",
+            "anymore",
+            "chicken",
+            "RELT",
+            "can",
+            "fly",
+            "fast"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">ext</span>",
+            "anymore",
+            "chicken",
+            "<span class=\"sc\">relt</span>",
+            "can",
+            "fly",
+            "fast"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "\\textsc{ext}",
+            "anymore",
+            "chicken",
+            "\\textsc{relt}",
+            "can",
+            "fly",
+            "fast"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Moal aja deui hajam \\textbf{{\\USOParen}a{\\USCParen}nu} bisa hibar lapas.",
+        "srcwordsbare": [
+            "Moal",
+            "aja",
+            "deui",
+            "hajam",
+            "{\\USOParena{\\USCParen}nu}",
+            "bisa",
+            "hibar",
+            "lapas."
+        ],
+        "srcwordshtml": [
+            "Moal",
+            "aja",
+            "deui",
+            "hajam",
+            "<span class=\"bf\">{\\USOParen</span>a{\\USCParen}nu}",
+            "bisa",
+            "hibar",
+            "lapas."
+        ],
+        "srcwordstex": [
+            "Moal",
+            "aja",
+            "deui",
+            "hajam",
+            "\\textbf{{\\USOParen}a{\\USCParen}nu}",
+            "bisa",
+            "hibar",
+            "lapas."
+        ],
+        "trs": "In no case are there anymore chickens which can fly fast.' \\citep[264]{Kahler:1974}",
+        "wlength": 8
+    },
+    {
+        "ID": "kaufman--47890",
+        "categories": [
+            "",
+            "3p",
+            "av",
+            "det",
+            "emph",
+            "lnk",
+            "pm"
+        ],
+        "clength": 71,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{pm} \\textsc{3p} what:\\textsc{lnk} \\textsc{av-}plant.rice in one.week past \\textsc{det} lucky \\textsc{emph}",
+        "imtwordsbare": [
+            "PM",
+            "3P",
+            "what:LNK",
+            "av-plant.rice",
+            "in",
+            "one.week",
+            "past",
+            "DET",
+            "lucky",
+            "EMPH"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pm</span>",
+            "<span class=\"sc\">3p</span>",
+            "what:<span class=\"sc\">lnk</span>",
+            "<span class=\"sc\">av-</span>plant.rice",
+            "in",
+            "one.week",
+            "past",
+            "<span class=\"sc\">det</span>",
+            "lucky",
+            "<span class=\"sc\">emph</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pm}",
+            "\\textsc{3p}",
+            "what:\\textsc{lnk}",
+            "\\textsc{av-}plant.rice",
+            "in",
+            "one.week",
+            "past",
+            "\\textsc{det}",
+            "lucky",
+            "\\textsc{emph}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "I sire \\textbf{apan} m\u0259m-pangasi' su s\u0259ngkamisa nal\u0323iu e, niuntung bue.",
+        "srcwordsbare": [
+            "I",
+            "sire",
+            "apan",
+            "m\u0259m-pangasi'",
+            "su",
+            "s\u0259ngkamisa",
+            "nal\u0323iu",
+            "e,",
+            "niuntung",
+            "bue."
+        ],
+        "srcwordshtml": [
+            "I",
+            "sire",
+            "<span class=\"bf\">apan</span>",
+            "m\u0259m-pangasi'",
+            "su",
+            "s\u0259ngkamisa",
+            "nal\u0323iu",
+            "e,",
+            "niuntung",
+            "bue."
+        ],
+        "srcwordstex": [
+            "I",
+            "sire",
+            "\\textbf{apan}",
+            "m\u0259m-pangasi'",
+            "su",
+            "s\u0259ngkamisa",
+            "nal\u0323iu",
+            "e,",
+            "niuntung",
+            "bue."
+        ],
+        "trs": "They who planted rice last week, are lucky.",
+        "wlength": 10
+    },
+    {
+        "ID": "kaufman--81842",
+        "categories": [
+            "",
+            "prf",
+            "qm",
+            "relt"
+        ],
+        "clength": 41,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{qm} woman \\textsc{relt} \\textsc{prf-}die",
+        "imtwordsbare": [
+            "QM",
+            "woman",
+            "RELT",
+            "prf-die"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">qm</span>",
+            "woman",
+            "<span class=\"sc\">relt</span>",
+            "<span class=\"sc\">prf-</span>die"
+        ],
+        "imtwordstex": [
+            "\\textsc{qm}",
+            "woman",
+            "\\textsc{relt}",
+            "\\textsc{prf-}die"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ba bangkele \\textbf{to} na-mate{\\USQMark}",
+        "srcwordsbare": [
+            "Ba",
+            "bangkele",
+            "to",
+            "na-mate{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ba",
+            "bangkele",
+            "<span class=\"bf\">to</span>",
+            "na-mate{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ba",
+            "bangkele",
+            "\\textbf{to}",
+            "na-mate{\\USQMark}"
+        ],
+        "trs": "Was it a woman who died?",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman--63293",
+        "categories": [
+            "1s",
+            "art",
+            "i",
+            "intr"
+        ],
+        "clength": 36,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{intr.i}-hurt very \\textsc{art} back-\\textsc{1s}",
+        "imtwordsbare": [
+            "intr.i-hurt",
+            "very",
+            "ART",
+            "back-1S"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">intr.i</span>-hurt",
+            "very",
+            "<span class=\"sc\">art</span>",
+            "back-<span class=\"sc\">1s</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{intr.i}-hurt",
+            "very",
+            "\\textsc{art}",
+            "back-\\textsc{1s}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ma-polos tuu' \\textbf{a} sengke'-ku.",
+        "srcwordsbare": [
+            "Ma-polos",
+            "tuu'",
+            "a",
+            "sengke'-ku."
+        ],
+        "srcwordshtml": [
+            "Ma-polos",
+            "tuu'",
+            "<span class=\"bf\">a</span>",
+            "sengke'-ku."
+        ],
+        "srcwordstex": [
+            "Ma-polos",
+            "tuu'",
+            "\\textbf{a}",
+            "sengke'-ku."
+        ],
+        "trs": "My back really hurts.",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman--90315",
+        "categories": [
+            "2p",
+            "app",
+            "art",
+            "i",
+            "pv"
+        ],
+        "clength": 52,
+        "coordination": "or",
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "sharpen-\\textsc{app-pv.i} \\textsc{art} knife-\\textsc{2p} or let.it.be",
+        "imtwordsbare": [
+            "sharpen-app-pv.i",
+            "ART",
+            "knife-2P",
+            "or",
+            "let.it.be"
+        ],
+        "imtwordshtml": [
+            "sharpen-<span class=\"sc\">app-pv.i</span>",
+            "<span class=\"sc\">art</span>",
+            "knife-<span class=\"sc\">2p</span>",
+            "or",
+            "let.it.be"
+        ],
+        "imtwordstex": [
+            "sharpen-\\textsc{app-pv.i}",
+            "\\textsc{art}",
+            "knife-\\textsc{2p}",
+            "or",
+            "let.it.be"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Boit-i-on \\textbf{a} piso'-muu kabai sobii{\\USQMark}",
+        "srcwordsbare": [
+            "Boit-i-on",
+            "a",
+            "piso'-muu",
+            "kabai",
+            "sobii{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Boit-i-on",
+            "<span class=\"bf\">a</span>",
+            "piso'-muu",
+            "kabai",
+            "sobii{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Boit-i-on",
+            "\\textbf{a}",
+            "piso'-muu",
+            "kabai",
+            "sobii{\\USQMark}"
+        ],
+        "trs": "Should your knife be sharpened or shall we just leave it?",
+        "wlength": 5
+    },
+    {
+        "ID": "kaufman-177609",
+        "categories": [
+            "3p",
+            "art",
+            "av",
+            "i"
+        ],
+        "clength": 32,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{...}\\textsc{3p} \\textsc{art} \\textsc{av.i}-pay",
+        "imtwordsbare": [
+            "\\phantom{...}3P",
+            "ART",
+            "av.i-pay"
+        ],
+        "imtwordshtml": [
+            "\\phantom{...}<span class=\"sc\">3p</span>",
+            "<span class=\"sc\">art</span>",
+            "<span class=\"sc\">av.i</span>-pay"
+        ],
+        "imtwordstex": [
+            "\\phantom{...}\\textsc{3p}",
+            "\\textsc{art}",
+            "\\textsc{av.i}-pay"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "...raaya'a \\textbf{a} mam-bayar.",
+        "srcwordsbare": [
+            "...raaya'a",
+            "a",
+            "mam-bayar."
+        ],
+        "srcwordshtml": [
+            "...raaya'a",
+            "<span class=\"bf\">a</span>",
+            "mam-bayar."
+        ],
+        "srcwordstex": [
+            "...raaya'a",
+            "\\textbf{a}",
+            "mam-bayar."
+        ],
+        "trs": "...they were the ones who paid.' \\citep[50]{Van-den-Berg:2012}",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-543641",
+        "categories": [
+            "art",
+            "emph",
+            "relt"
+        ],
+        "clength": 36,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{emph.art} who \\textsc{art} \\textsc{relt} go",
+        "imtwordsbare": [
+            "emph.art",
+            "who",
+            "ART",
+            "RELT",
+            "go"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">emph.art</span>",
+            "who",
+            "<span class=\"sc\">art</span>",
+            "<span class=\"sc\">relt</span>",
+            "go"
+        ],
+        "imtwordstex": [
+            "\\textsc{emph.art}",
+            "who",
+            "\\textsc{art}",
+            "\\textsc{relt}",
+            "go"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ai ime \\textbf{a} men mae'{\\USQMark}",
+        "srcwordsbare": [
+            "Ai",
+            "ime",
+            "a",
+            "men",
+            "mae'{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ai",
+            "ime",
+            "<span class=\"bf\">a</span>",
+            "men",
+            "mae'{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ai",
+            "ime",
+            "\\textbf{a}",
+            "men",
+            "mae'{\\USQMark}"
+        ],
+        "trs": "Who is going?' \\citep[50]{Van-den-Berg:2012}",
+        "wlength": 5
+    },
+    {
+        "ID": "kaufman--80463",
+        "categories": [
+            "2p",
+            "art",
+            "i",
+            "pv",
+            "red",
+            "relt"
+        ],
+        "clength": 63,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{red}-how.many liter \\textsc{art} \\textsc{relt} take-\\textsc{pv.i-2p}",
+        "imtwordsbare": [
+            "RED-how.many",
+            "liter",
+            "ART",
+            "RELT",
+            "take-pv.i-2p"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">red</span>-how.many",
+            "liter",
+            "<span class=\"sc\">art</span>",
+            "<span class=\"sc\">relt</span>",
+            "take-<span class=\"sc\">pv.i-2p</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{red}-how.many",
+            "liter",
+            "\\textsc{art}",
+            "\\textsc{relt}",
+            "take-\\textsc{pv.i-2p}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Pi-pii takalan a {\\USOParen}men{\\USCParen} ala-on-muu{\\USQMark}",
+        "srcwordsbare": [
+            "Pi-pii",
+            "takalan",
+            "a",
+            "{\\USOParen}men{\\USCParen}",
+            "ala-on-muu{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Pi-pii",
+            "takalan",
+            "a",
+            "{\\USOParen}men{\\USCParen}",
+            "ala-on-muu{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Pi-pii",
+            "takalan",
+            "a",
+            "{\\USOParen}men{\\USCParen}",
+            "ala-on-muu{\\USQMark}"
+        ],
+        "trs": "How many liters will you take?",
+        "wlength": 5
+    },
+    {
+        "ID": "kaufman-135720",
+        "categories": [
+            "2p",
+            "i",
+            "pv",
+            "red",
+            "relt"
+        ],
+        "clength": 70,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{*}\\textsc{red}-how.many liter \\textsc{relt} take-\\textsc{pv.i-2p}",
+        "imtwordsbare": [
+            "\\phantom{*}RED-how.many",
+            "liter",
+            "RELT",
+            "take-pv.i-2p"
+        ],
+        "imtwordshtml": [
+            "\\phantom{*}<span class=\"sc\">red</span>-how.many",
+            "liter",
+            "<span class=\"sc\">relt</span>",
+            "take-<span class=\"sc\">pv.i-2p</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{*}\\textsc{red}-how.many",
+            "liter",
+            "\\textsc{relt}",
+            "take-\\textsc{pv.i-2p}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "{\\USStar}Pi-pii takalan {\\USOParen}men{\\USCParen} ala-on-muu{\\USQMark}",
+        "srcwordsbare": [
+            "{\\USStar}Pi-pii",
+            "takalan",
+            "{\\USOParen}men{\\USCParen}",
+            "ala-on-muu{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "{\\USStar}Pi-pii",
+            "takalan",
+            "{\\USOParen}men{\\USCParen}",
+            "ala-on-muu{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "{\\USStar}Pi-pii",
+            "takalan",
+            "{\\USOParen}men{\\USCParen}",
+            "ala-on-muu{\\USQMark}"
+        ],
+        "trs": "How many liters will you take?",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman--33784",
+        "categories": [
+            "1s",
+            "nom"
+        ],
+        "clength": 9,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "teacher \\textsc{1s.nom}",
+        "imtwordsbare": [
+            "teacher",
+            "1s.nom"
+        ],
+        "imtwordshtml": [
+            "teacher",
+            "<span class=\"sc\">1s.nom</span>"
+        ],
+        "imtwordstex": [
+            "teacher",
+            "\\textsc{1s.nom}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Guro ako.",
+        "srcwordsbare": [
+            "Guro",
+            "ako."
+        ],
+        "srcwordshtml": [
+            "Guro",
+            "ako."
+        ],
+        "srcwordstex": [
+            "Guro",
+            "ako."
+        ],
+        "trs": "I am a teacher.",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman-786059",
+        "categories": [
+            "1s",
+            "nom"
+        ],
+        "clength": 14,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "tall \\textsc{1s.nom}",
+        "imtwordsbare": [
+            "tall",
+            "1s.nom"
+        ],
+        "imtwordshtml": [
+            "tall",
+            "<span class=\"sc\">1s.nom</span>"
+        ],
+        "imtwordstex": [
+            "tall",
+            "\\textsc{1s.nom}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Matangkad ako.",
+        "srcwordsbare": [
+            "Matangkad",
+            "ako."
+        ],
+        "srcwordshtml": [
+            "Matangkad",
+            "ako."
+        ],
+        "srcwordstex": [
+            "Matangkad",
+            "ako."
+        ],
+        "trs": "I am tall.",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman-797607",
+        "categories": [
+            "nom"
+        ],
+        "clength": 18,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "that.\\textsc{nom} \\textsc{nom} problem",
+        "imtwordsbare": [
+            "that.NOM",
+            "NOM",
+            "problem"
+        ],
+        "imtwordshtml": [
+            "that.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "problem"
+        ],
+        "imtwordstex": [
+            "that.\\textsc{nom}",
+            "\\textsc{nom}",
+            "problem"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Iyan ang problema.",
+        "srcwordsbare": [
+            "Iyan",
+            "ang",
+            "problema."
+        ],
+        "srcwordshtml": [
+            "Iyan",
+            "ang",
+            "problema."
+        ],
+        "srcwordstex": [
+            "Iyan",
+            "ang",
+            "problema."
+        ],
+        "trs": "That's the problem.' (Lit. `The problem is that.')",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--83093",
+        "categories": [
+            "1s",
+            "nom"
+        ],
+        "clength": 13,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{1s} \\textsc{nom} teacher",
+        "imtwordsbare": [
+            "1S",
+            "NOM",
+            "teacher"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1s</span>",
+            "<span class=\"sc\">nom</span>",
+            "teacher"
+        ],
+        "imtwordstex": [
+            "\\textsc{1s}",
+            "\\textsc{nom}",
+            "teacher"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ako ang guro.",
+        "srcwordsbare": [
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "srcwordshtml": [
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "srcwordstex": [
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "trs": "I am the teacher.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--87650",
+        "categories": [
+            "1s",
+            "nom"
+        ],
+        "clength": 9,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{1s.nom} that.\\textsc{nom}",
+        "imtwordsbare": [
+            "1s.nom",
+            "that.NOM"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1s.nom</span>",
+            "that.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1s.nom}",
+            "that.\\textsc{nom}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ako iyan.",
+        "srcwordsbare": [
+            "Ako",
+            "iyan."
+        ],
+        "srcwordshtml": [
+            "Ako",
+            "iyan."
+        ],
+        "srcwordstex": [
+            "Ako",
+            "iyan."
+        ],
+        "trs": "That's me.",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman--51759",
+        "categories": [
+            "3s",
+            "nom"
+        ],
+        "clength": 18,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{3s.nom} \\textsc{nom} problem",
+        "imtwordsbare": [
+            "3s.nom",
+            "NOM",
+            "problem"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3s.nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "problem"
+        ],
+        "imtwordstex": [
+            "\\textsc{3s.nom}",
+            "\\textsc{nom}",
+            "problem"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Siya ang problema.",
+        "srcwordsbare": [
+            "Siya",
+            "ang",
+            "problema."
+        ],
+        "srcwordshtml": [
+            "Siya",
+            "ang",
+            "problema."
+        ],
+        "srcwordstex": [
+            "Siya",
+            "ang",
+            "problema."
+        ],
+        "trs": "S/he's the problem.' (Lit. `The problem is s/he.')",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman--49982",
+        "categories": [
+            "1s",
+            "3s",
+            "nom"
+        ],
+        "clength": 9,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{1s.nom} \\textsc{3s.nom}",
+        "imtwordsbare": [
+            "1s.nom",
+            "3s.nom"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1s.nom</span>",
+            "<span class=\"sc\">3s.nom</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1s.nom}",
+            "\\textsc{3s.nom}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Ako siya.",
+        "srcwordsbare": [
+            "Ako",
+            "siya."
+        ],
+        "srcwordshtml": [
+            "Ako",
+            "siya."
+        ],
+        "srcwordstex": [
+            "Ako",
+            "siya."
+        ],
+        "trs": "S/he's me.",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman--31630",
+        "categories": [
+            "nom"
+        ],
+        "clength": 14,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "that.\\textsc{nom} \\textsc{nom} Boboy",
+        "imtwordsbare": [
+            "that.NOM",
+            "NOM",
+            "Boboy"
+        ],
+        "imtwordshtml": [
+            "that.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "Boboy"
+        ],
+        "imtwordstex": [
+            "that.\\textsc{nom}",
+            "\\textsc{nom}",
+            "Boboy"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Iyan si Boboy.",
+        "srcwordsbare": [
+            "Iyan",
+            "si",
+            "Boboy."
+        ],
+        "srcwordshtml": [
+            "Iyan",
+            "si",
+            "Boboy."
+        ],
+        "srcwordstex": [
+            "Iyan",
+            "si",
+            "Boboy."
+        ],
+        "trs": "That's Boboy.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-808736",
+        "categories": [
+            "nom"
+        ],
+        "clength": 14,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{nom} Boboy that.\\textsc{nom}",
+        "imtwordsbare": [
+            "NOM",
+            "Boboy",
+            "that.NOM"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>",
+            "Boboy",
+            "that.<span class=\"sc\">nom</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}",
+            "Boboy",
+            "that.\\textsc{nom}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Si Boboy iyan.",
+        "srcwordsbare": [
+            "Si",
+            "Boboy",
+            "iyan."
+        ],
+        "srcwordshtml": [
+            "Si",
+            "Boboy",
+            "iyan."
+        ],
+        "srcwordstex": [
+            "Si",
+            "Boboy",
+            "iyan."
+        ],
+        "trs": "That's Boboy.",
+        "wlength": 3
+    },
+    {
+        "ID": "kaufman-384995",
+        "categories": [
+            "gen",
+            "nom",
+            "nvol",
+            "pv"
+        ],
+        "clength": 42,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{nom} man \\textsc{nom} \\textsc{nvol.pv}-see \\textsc{gen} woman",
+        "imtwordsbare": [
+            "NOM",
+            "man",
+            "NOM",
+            "nvol.pv-see",
+            "GEN",
+            "woman"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>",
+            "man",
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">nvol.pv</span>-see",
+            "<span class=\"sc\">gen</span>",
+            "woman"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}",
+            "man",
+            "\\textsc{nom}",
+            "\\textsc{nvol.pv}-see",
+            "\\textsc{gen}",
+            "woman"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "{\\ob}Ang lalaki{\\cb} ang na-kita ng babae.",
+        "srcwordsbare": [
+            "[Ang",
+            "lalaki]",
+            "ang",
+            "na-kita",
+            "ng",
+            "babae."
+        ],
+        "srcwordshtml": [
+            "[Ang",
+            "lalaki]",
+            "ang",
+            "na-kita",
+            "ng",
+            "babae."
+        ],
+        "srcwordstex": [
+            "{\\ob}Ang",
+            "lalaki{\\cb}",
+            "ang",
+            "na-kita",
+            "ng",
+            "babae."
+        ],
+        "trs": "The man is who the woman saw.",
+        "wlength": 6
+    },
+    {
+        "ID": "kaufman-247456",
+        "categories": [
+            "gen",
+            "nom",
+            "nvol",
+            "pv"
+        ],
+        "clength": 42,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{nom} \\textsc{nvol.pv}-see \\textsc{gen} woman \\textsc{nom} man",
+        "imtwordsbare": [
+            "NOM",
+            "nvol.pv-see",
+            "GEN",
+            "woman",
+            "NOM",
+            "man"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">nvol.pv</span>-see",
+            "<span class=\"sc\">gen</span>",
+            "woman",
+            "<span class=\"sc\">nom</span>",
+            "man"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}",
+            "\\textsc{nvol.pv}-see",
+            "\\textsc{gen}",
+            "woman",
+            "\\textsc{nom}",
+            "man"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "{\\ob}Ang na-kita ng babae{\\cb} ang lalaki.",
+        "srcwordsbare": [
+            "[Ang",
+            "na-kita",
+            "ng",
+            "babae]",
+            "ang",
+            "lalaki."
+        ],
+        "srcwordshtml": [
+            "[Ang",
+            "na-kita",
+            "ng",
+            "babae]",
+            "ang",
+            "lalaki."
+        ],
+        "srcwordstex": [
+            "{\\ob}Ang",
+            "na-kita",
+            "ng",
+            "babae{\\cb}",
+            "ang",
+            "lalaki."
+        ],
+        "trs": "The man is who the woman saw.",
+        "wlength": 6
+    },
+    {
+        "ID": "kaufman-642814",
+        "categories": [
+            "nom"
+        ],
+        "clength": 26,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{A:} who.\\textsc{nom} \\textsc{nom} teacher",
+        "imtwordsbare": [
+            "\\phantom{A:}",
+            "who.NOM",
+            "NOM",
+            "teacher"
+        ],
+        "imtwordshtml": [
+            "\\phantom{A:}",
+            "who.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "teacher"
+        ],
+        "imtwordstex": [
+            "\\phantom{A:}",
+            "who.\\textsc{nom}",
+            "\\textsc{nom}",
+            "teacher"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "A: Sino ang guro{\\USQMark}",
+        "srcwordsbare": [
+            "A:",
+            "Sino",
+            "ang",
+            "guro{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "A:",
+            "Sino",
+            "ang",
+            "guro{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "A:",
+            "Sino",
+            "ang",
+            "guro{\\USQMark}"
+        ],
+        "trs": "Who is the teacher?",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman--40015",
+        "categories": [
+            "1s",
+            "nom"
+        ],
+        "clength": 16,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{B:} \\textsc{1s.nom} \\textsc{nom} teacher",
+        "imtwordsbare": [
+            "\\phantom{B:}",
+            "1s.nom",
+            "NOM",
+            "teacher"
+        ],
+        "imtwordshtml": [
+            "\\phantom{B:}",
+            "<span class=\"sc\">1s.nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "teacher"
+        ],
+        "imtwordstex": [
+            "\\phantom{B:}",
+            "\\textsc{1s.nom}",
+            "\\textsc{nom}",
+            "teacher"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "B: Ako ang guro.",
+        "srcwordsbare": [
+            "B:",
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "srcwordshtml": [
+            "B:",
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "srcwordstex": [
+            "B:",
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "trs": "\\uline{I} am the teacher.",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman--97642",
+        "categories": [
+            "2s",
+            "nom"
+        ],
+        "clength": 20,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{A:} who.\\textsc{nom=2s.nom}",
+        "imtwordsbare": [
+            "\\phantom{A:}",
+            "who.nom=2s.nom"
+        ],
+        "imtwordshtml": [
+            "\\phantom{A:}",
+            "who.<span class=\"sc\">nom=2s.nom</span>"
+        ],
+        "imtwordstex": [
+            "\\phantom{A:}",
+            "who.\\textsc{nom=2s.nom}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "A: Sino=ka{\\USQMark}",
+        "srcwordsbare": [
+            "A:",
+            "Sino=ka{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "A:",
+            "Sino=ka{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "A:",
+            "Sino=ka{\\USQMark}"
+        ],
+        "trs": "Who are you?",
+        "wlength": 2
+    },
+    {
+        "ID": "kaufman--40015",
+        "categories": [
+            "1s",
+            "nom"
+        ],
+        "clength": 16,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\phantom{B:} \\textsc{1s.nom} \\textsc{nom} teacher",
+        "imtwordsbare": [
+            "\\phantom{B:}",
+            "1s.nom",
+            "NOM",
+            "teacher"
+        ],
+        "imtwordshtml": [
+            "\\phantom{B:}",
+            "<span class=\"sc\">1s.nom</span>",
+            "<span class=\"sc\">nom</span>",
+            "teacher"
+        ],
+        "imtwordstex": [
+            "\\phantom{B:}",
+            "\\textsc{1s.nom}",
+            "\\textsc{nom}",
+            "teacher"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "B: Ako ang guro.",
+        "srcwordsbare": [
+            "B:",
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "srcwordshtml": [
+            "B:",
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "srcwordstex": [
+            "B:",
+            "Ako",
+            "ang",
+            "guro."
+        ],
+        "trs": "I am \\uline{the teacher}.",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman-328233",
+        "categories": [
+            "1s",
+            "2s",
+            "<prf>pv",
+            "gen",
+            "nom",
+            "nvol"
+        ],
+        "clength": 43,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{<prf>pv.nvol}-see=\\textsc{1s.nom}=\\textsc{2s.gen}",
+        "imtwordsbare": [
+            "<prf>pv.nvol-see=1s.nom=2s.gen"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\"><prf>pv.nvol</span>-see=<span class=\"sc\">1s.nom</span>=<span class=\"sc\">2s.gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{<prf>pv.nvol}-see=\\textsc{1s.nom}=\\textsc{2s.gen}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "M{\\USSmaller}iy{\\USGreater}a-ilay=ako=ngka.",
+        "srcwordsbare": [
+            "M{\\USSmaller}iy{\\USGreater}a-ilay=ako=ngka."
+        ],
+        "srcwordshtml": [
+            "M{\\USSmaller}iy{\\USGreater}a-ilay=ako=ngka."
+        ],
+        "srcwordstex": [
+            "M{\\USSmaller}iy{\\USGreater}a-ilay=ako=ngka."
+        ],
+        "trs": "You saw me.",
+        "wlength": 1
+    },
+    {
+        "ID": "kaufman-509574",
+        "categories": [
+            "2s",
+            "3p",
+            "<prf>pv",
+            "gen",
+            "nom",
+            "nvol"
+        ],
+        "clength": 45,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{<prf>pv.nvol}-see=\\textsc{2s.gen}=\\textsc{3p.nom}",
+        "imtwordsbare": [
+            "<prf>pv.nvol-see=2s.gen=3p.nom"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\"><prf>pv.nvol</span>-see=<span class=\"sc\">2s.gen</span>=<span class=\"sc\">3p.nom</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{<prf>pv.nvol}-see=\\textsc{2s.gen}=\\textsc{3p.nom}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "M{\\USSmaller}iy{\\USGreater}a-ilay=ngka=siran.",
+        "srcwordsbare": [
+            "M{\\USSmaller}iy{\\USGreater}a-ilay=ngka=siran."
+        ],
+        "srcwordshtml": [
+            "M{\\USSmaller}iy{\\USGreater}a-ilay=ngka=siran."
+        ],
+        "srcwordstex": [
+            "M{\\USSmaller}iy{\\USGreater}a-ilay=ngka=siran."
+        ],
+        "trs": "You saw them.",
+        "wlength": 1
+    },
+    {
+        "ID": "kaufman-749635",
+        "categories": [
+            "av"
+        ],
+        "clength": 29,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "wolf can \\textsc{av}:kill person",
+        "imtwordsbare": [
+            "wolf",
+            "can",
+            "AV:kill",
+            "person"
+        ],
+        "imtwordshtml": [
+            "wolf",
+            "can",
+            "<span class=\"sc\">av</span>:kill",
+            "person"
+        ],
+        "imtwordstex": [
+            "wolf",
+            "can",
+            "\\textsc{av}:kill",
+            "person"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Serigala bisa membunuh orang.",
+        "srcwordsbare": [
+            "Serigala",
+            "bisa",
+            "membunuh",
+            "orang."
+        ],
+        "srcwordshtml": [
+            "Serigala",
+            "bisa",
+            "membunuh",
+            "orang."
+        ],
+        "srcwordstex": [
+            "Serigala",
+            "bisa",
+            "membunuh",
+            "orang."
+        ],
+        "trs": "Wolves can kill people",
+        "wlength": 4
+    },
+    {
+        "ID": "kaufman-281716",
+        "categories": [
+            "1s",
+            "def"
+        ],
+        "clength": 13,
+        "filename": "201/chapters/kaufman.tex",
+        "imt": "\\textsc{1s} teacher-\\textsc{def}",
+        "imtwordsbare": [
+            "1S",
+            "teacher-DEF"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1s</span>",
+            "teacher-<span class=\"sc\">def</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{1s}",
+            "teacher-\\textsc{def}"
+        ],
+        "language": "201/chapters/kaufman.tex",
+        "src": "Aku guru-nya.",
+        "srcwordsbare": [
+            "Aku",
+            "guru-nya."
+        ],
+        "srcwordshtml": [
+            "Aku",
+            "guru-nya."
+        ],
+        "srcwordstex": [
+            "Aku",
+            "guru-nya."
+        ],
+        "trs": "I'm the teacher.",
+        "wlength": 2
+    }
+]

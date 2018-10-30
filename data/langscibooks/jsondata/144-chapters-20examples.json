@@ -1,0 +1,1299 @@
+[
+    {
+        "ID": "20-350782",
+        "categories": [
+            "",
+            "1sg",
+            "past"
+        ],
+        "clength": 16,
+        "filename": "144/chapters/20.tex",
+        "imt": "work-\\textsc{1sg}\\textsc{.past}",
+        "imtwordsbare": [
+            "work-1SG.past"
+        ],
+        "imtwordshtml": [
+            "work-<span class=\"sc\">1sg</span><span class=\"sc\">.past</span>"
+        ],
+        "imtwordstex": [
+            "work-\\textsc{1sg}\\textsc{.past}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "dirb-\\textit{au}",
+        "srcwordsbare": [
+            "dirb-au"
+        ],
+        "srcwordshtml": [
+            "dirb-<span class=\"it\">au</span>"
+        ],
+        "srcwordstex": [
+            "dirb-\\textit{au}"
+        ],
+        "trs": "I worked/ was working",
+        "wlength": 1
+    },
+    {
+        "ID": "20-454040",
+        "categories": [
+            "",
+            "1sg",
+            "present"
+        ],
+        "clength": 15,
+        "filename": "144/chapters/20.tex",
+        "imt": "work-\\textsc{1sg}\\textsc{.present}",
+        "imtwordsbare": [
+            "work-1SG.present"
+        ],
+        "imtwordshtml": [
+            "work-<span class=\"sc\">1sg</span><span class=\"sc\">.present</span>"
+        ],
+        "imtwordstex": [
+            "work-\\textsc{1sg}\\textsc{.present}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "dirb-\\textit{u}",
+        "srcwordsbare": [
+            "dirb-u"
+        ],
+        "srcwordshtml": [
+            "dirb-<span class=\"it\">u</span>"
+        ],
+        "srcwordstex": [
+            "dirb-\\textit{u}"
+        ],
+        "trs": "I work/ am working",
+        "wlength": 1
+    },
+    {
+        "ID": "20--65192",
+        "categories": [
+            "",
+            "1sg",
+            "future"
+        ],
+        "clength": 18,
+        "filename": "144/chapters/20.tex",
+        "imt": "work-\\textsc{future-}\\textsc{1sg}",
+        "imtwordsbare": [
+            "work-future-1SG"
+        ],
+        "imtwordshtml": [
+            "work-<span class=\"sc\">future-</span><span class=\"sc\">1sg</span>"
+        ],
+        "imtwordstex": [
+            "work-\\textsc{future-}\\textsc{1sg}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "dirb-\\textit{s}-iu",
+        "srcwordsbare": [
+            "dirb-s-iu"
+        ],
+        "srcwordshtml": [
+            "dirb-<span class=\"it\">s</span>-iu"
+        ],
+        "srcwordstex": [
+            "dirb-\\textit{s}-iu"
+        ],
+        "trs": "I will work/ will be working\u2019\\\\",
+        "wlength": 1
+    },
+    {
+        "ID": "20--50813",
+        "categories": [
+            "prog"
+        ],
+        "clength": 20,
+        "filename": "144/chapters/20.tex",
+        "imt": "Zhangsan  \\textsc{prog}  jump",
+        "imtwordsbare": [
+            "Zhangsan",
+            "PROG",
+            "jump"
+        ],
+        "imtwordshtml": [
+            "Zhangsan",
+            "<span class=\"sc\">prog</span>",
+            "jump"
+        ],
+        "imtwordstex": [
+            "Zhangsan",
+            "\\textsc{prog}",
+            "jump"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Zh\u0101ngs\u0101n  z\u00e0i  ti\u00e0o.",
+        "srcwordsbare": [
+            "Zh\u0101ngs\u0101n",
+            "z\u00e0i",
+            "ti\u00e0o."
+        ],
+        "srcwordshtml": [
+            "Zh\u0101ngs\u0101n",
+            "z\u00e0i",
+            "ti\u00e0o."
+        ],
+        "srcwordstex": [
+            "Zh\u0101ngs\u0101n",
+            "z\u00e0i",
+            "ti\u00e0o."
+        ],
+        "trs": "Zhangsan is jumping.",
+        "wlength": 3
+    },
+    {
+        "ID": "20-519312",
+        "categories": [
+            "1sg",
+            "prog"
+        ],
+        "clength": 25,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{1sg}  \\textsc{prog}  like  America",
+        "imtwordsbare": [
+            "1SG",
+            "PROG",
+            "like",
+            "America"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">1sg</span>",
+            "<span class=\"sc\">prog</span>",
+            "like",
+            "America"
+        ],
+        "imtwordstex": [
+            "\\textsc{1sg}",
+            "\\textsc{prog}",
+            "like",
+            "America"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "*Wo  z\u00e0i  x\u01d0hu\u0101n  M\u011bigu\u00f3.",
+        "srcwordsbare": [
+            "*Wo",
+            "z\u00e0i",
+            "x\u01d0hu\u0101n",
+            "M\u011bigu\u00f3."
+        ],
+        "srcwordshtml": [
+            "*Wo",
+            "z\u00e0i",
+            "x\u01d0hu\u0101n",
+            "M\u011bigu\u00f3."
+        ],
+        "srcwordstex": [
+            "*Wo",
+            "z\u00e0i",
+            "x\u01d0hu\u0101n",
+            "M\u011bigu\u00f3."
+        ],
+        "trs": "(intended: \u2018I am liking America.\u2019)  \\footnote{\\citet[90]{Sun2011}.}",
+        "wlength": 4
+    },
+    {
+        "ID": "20-901283",
+        "categories": [
+            "cont"
+        ],
+        "clength": 30,
+        "filename": "144/chapters/20.tex",
+        "imt": "car  at  outside  remain-\\textsc{cont}",
+        "imtwordsbare": [
+            "car",
+            "at",
+            "outside",
+            "remain-CONT"
+        ],
+        "imtwordshtml": [
+            "car",
+            "at",
+            "outside",
+            "remain-<span class=\"sc\">cont</span>"
+        ],
+        "imtwordstex": [
+            "car",
+            "at",
+            "outside",
+            "remain-\\textsc{cont}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Ch\u0113zi  z\u00e0i  w\u00e0imian  t\u00edng-zhe.",
+        "srcwordsbare": [
+            "Ch\u0113zi",
+            "z\u00e0i",
+            "w\u00e0imian",
+            "t\u00edng-zhe."
+        ],
+        "srcwordshtml": [
+            "Ch\u0113zi",
+            "z\u00e0i",
+            "w\u00e0imian",
+            "t\u00edng-zhe."
+        ],
+        "srcwordstex": [
+            "Ch\u0113zi",
+            "z\u00e0i",
+            "w\u00e0imian",
+            "t\u00edng-zhe."
+        ],
+        "trs": "The car is parked outside.",
+        "wlength": 4
+    },
+    {
+        "ID": "20-728306",
+        "categories": [
+            "3sg",
+            "cont"
+        ],
+        "clength": 32,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{3sg}  at  bed-on  lie-\\textsc{cont}",
+        "imtwordsbare": [
+            "3SG",
+            "at",
+            "bed-on",
+            "lie-CONT"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "at",
+            "bed-on",
+            "lie-<span class=\"sc\">cont</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "at",
+            "bed-on",
+            "lie-\\textsc{cont}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "T\u0101  z\u00e0i  chu\u00e1ng-sh\u00e0ng  t\u01ceng-zhe.",
+        "srcwordsbare": [
+            "T\u0101",
+            "z\u00e0i",
+            "chu\u00e1ng-sh\u00e0ng",
+            "t\u01ceng-zhe."
+        ],
+        "srcwordshtml": [
+            "T\u0101",
+            "z\u00e0i",
+            "chu\u00e1ng-sh\u00e0ng",
+            "t\u01ceng-zhe."
+        ],
+        "srcwordstex": [
+            "T\u0101",
+            "z\u00e0i",
+            "chu\u00e1ng-sh\u00e0ng",
+            "t\u01ceng-zhe."
+        ],
+        "trs": "He is lying on the bed.",
+        "wlength": 4
+    },
+    {
+        "ID": "20--51745",
+        "categories": [
+            "cont"
+        ],
+        "clength": 20,
+        "filename": "144/chapters/20.tex",
+        "imt": "Zhangsan  jump-\\textsc{cont}",
+        "imtwordsbare": [
+            "Zhangsan",
+            "jump-CONT"
+        ],
+        "imtwordshtml": [
+            "Zhangsan",
+            "jump-<span class=\"sc\">cont</span>"
+        ],
+        "imtwordstex": [
+            "Zhangsan",
+            "jump-\\textsc{cont}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "*Zh\u0101ngs\u0101n  ti\u00e0o-zhe.",
+        "srcwordsbare": [
+            "*Zh\u0101ngs\u0101n",
+            "ti\u00e0o-zhe."
+        ],
+        "srcwordshtml": [
+            "*Zh\u0101ngs\u0101n",
+            "ti\u00e0o-zhe."
+        ],
+        "srcwordstex": [
+            "*Zh\u0101ngs\u0101n",
+            "ti\u00e0o-zhe."
+        ],
+        "trs": "(intended: \u2018Zhangsan is jumping.\u2019)",
+        "wlength": 2
+    },
+    {
+        "ID": "20-487740",
+        "categories": [
+            "3sg",
+            "prog"
+        ],
+        "clength": 23,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{3sg}  \\textsc{prog}  wear  leather-shoe",
+        "imtwordsbare": [
+            "3SG",
+            "PROG",
+            "wear",
+            "leather-shoe"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">prog</span>",
+            "wear",
+            "leather-shoe"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "\\textsc{prog}",
+            "wear",
+            "leather-shoe"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "T\u0101  z\u00e0i  chu\u0101n  p\u00ed-xi\u00e9.",
+        "srcwordsbare": [
+            "T\u0101",
+            "z\u00e0i",
+            "chu\u0101n",
+            "p\u00ed-xi\u00e9."
+        ],
+        "srcwordshtml": [
+            "T\u0101",
+            "z\u00e0i",
+            "chu\u0101n",
+            "p\u00ed-xi\u00e9."
+        ],
+        "srcwordstex": [
+            "T\u0101",
+            "z\u00e0i",
+            "chu\u0101n",
+            "p\u00ed-xi\u00e9."
+        ],
+        "trs": "He is putting on leather shoes.",
+        "wlength": 4
+    },
+    {
+        "ID": "20--12135",
+        "categories": [
+            "3sg",
+            "cont"
+        ],
+        "clength": 22,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{3sg}  wear-\\textsc{cont}  leather-shoe",
+        "imtwordsbare": [
+            "3SG",
+            "wear-CONT",
+            "leather-shoe"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "wear-<span class=\"sc\">cont</span>",
+            "leather-shoe"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "wear-\\textsc{cont}",
+            "leather-shoe"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "T\u0101  chu\u0101n-zhe  p\u00ed-xi\u00e9.",
+        "srcwordsbare": [
+            "T\u0101",
+            "chu\u0101n-zhe",
+            "p\u00ed-xi\u00e9."
+        ],
+        "srcwordshtml": [
+            "T\u0101",
+            "chu\u0101n-zhe",
+            "p\u00ed-xi\u00e9."
+        ],
+        "srcwordstex": [
+            "T\u0101",
+            "chu\u0101n-zhe",
+            "p\u00ed-xi\u00e9."
+        ],
+        "trs": "He is wearing leather shoes.",
+        "wlength": 3
+    },
+    {
+        "ID": "20-360354",
+        "categories": [
+            "3sg",
+            "prog"
+        ],
+        "clength": 20,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{3sg}  \\textsc{prog}  hold  newspaper",
+        "imtwordsbare": [
+            "3SG",
+            "PROG",
+            "hold",
+            "newspaper"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "<span class=\"sc\">prog</span>",
+            "hold",
+            "newspaper"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "\\textsc{prog}",
+            "hold",
+            "newspaper"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "T\u0101  z\u00e0i  n\u00e1  b\u00e0ozh\u01d0.",
+        "srcwordsbare": [
+            "T\u0101",
+            "z\u00e0i",
+            "n\u00e1",
+            "b\u00e0ozh\u01d0."
+        ],
+        "srcwordshtml": [
+            "T\u0101",
+            "z\u00e0i",
+            "n\u00e1",
+            "b\u00e0ozh\u01d0."
+        ],
+        "srcwordstex": [
+            "T\u0101",
+            "z\u00e0i",
+            "n\u00e1",
+            "b\u00e0ozh\u01d0."
+        ],
+        "trs": "He is picking up a/the newspaper.",
+        "wlength": 4
+    },
+    {
+        "ID": "20-442334",
+        "categories": [
+            "3sg",
+            "cont"
+        ],
+        "clength": 19,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{3sg}  hold-\\textsc{cont}  newspaper",
+        "imtwordsbare": [
+            "3SG",
+            "hold-CONT",
+            "newspaper"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "hold-<span class=\"sc\">cont</span>",
+            "newspaper"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "hold-\\textsc{cont}",
+            "newspaper"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "T\u0101  n\u00e1-zhe  b\u00e0ozh\u01d0.",
+        "srcwordsbare": [
+            "T\u0101",
+            "n\u00e1-zhe",
+            "b\u00e0ozh\u01d0."
+        ],
+        "srcwordshtml": [
+            "T\u0101",
+            "n\u00e1-zhe",
+            "b\u00e0ozh\u01d0."
+        ],
+        "srcwordstex": [
+            "T\u0101",
+            "n\u00e1-zhe",
+            "b\u00e0ozh\u01d0."
+        ],
+        "trs": "He is holding a/the newspaper.",
+        "wlength": 3
+    },
+    {
+        "ID": "20--86821",
+        "categories": [
+            "3sg",
+            "cont"
+        ],
+        "clength": 19,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{3sg}  intelligent-\\textsc{cont}",
+        "imtwordsbare": [
+            "3SG",
+            "intelligent-CONT"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "intelligent-<span class=\"sc\">cont</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "intelligent-\\textsc{cont}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "*T\u0101  c\\=onghu\u00ec-zhe.",
+        "srcwordsbare": [
+            "*T\u0101",
+            "c\\=onghu\u00ec-zhe."
+        ],
+        "srcwordshtml": [
+            "*T\u0101",
+            "c\\=onghu\u00ec-zhe."
+        ],
+        "srcwordstex": [
+            "*T\u0101",
+            "c\\=onghu\u00ec-zhe."
+        ],
+        "trs": "(for: \u2018He is intelligent.\u2019)",
+        "wlength": 2
+    },
+    {
+        "ID": "20-482376",
+        "categories": [
+            "2sg",
+            "cont"
+        ],
+        "clength": 58,
+        "coordination": "and",
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{2sg}  then  fascinate-\\textsc{cont}  Marx  Engels  Lenin",
+        "imtwordsbare": [
+            "2SG",
+            "then",
+            "fascinate-CONT",
+            "Marx",
+            "Engels",
+            "Lenin"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">2sg</span>",
+            "then",
+            "fascinate-<span class=\"sc\">cont</span>",
+            "Marx",
+            "Engels",
+            "Lenin"
+        ],
+        "imtwordstex": [
+            "\\textsc{2sg}",
+            "then",
+            "fascinate-\\textsc{cont}",
+            "Marx",
+            "Engels",
+            "Lenin"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "N\u01d0  d\u0101ngsh\u00ed  m\u00ed-zhe  M\u01cek\u00e8s\\={\\i},  \\=Eng\u00e9s\\={\\i}  Li\u00e8n\u00edng.",
+        "srcwordsbare": [
+            "N\u01d0",
+            "d\u0101ngsh\u00ed",
+            "m\u00ed-zhe",
+            "M\u01cek\u00e8s\\={\\i},",
+            "\\=Eng\u00e9s\\={\\i}",
+            "Li\u00e8n\u00edng."
+        ],
+        "srcwordshtml": [
+            "N\u01d0",
+            "d\u0101ngsh\u00ed",
+            "m\u00ed-zhe",
+            "M\u01cek\u00e8s\\={\\i},",
+            "\\=Eng\u00e9s\\={\\i}",
+            "Li\u00e8n\u00edng."
+        ],
+        "srcwordstex": [
+            "N\u01d0",
+            "d\u0101ngsh\u00ed",
+            "m\u00ed-zhe",
+            "M\u01cek\u00e8s\\={\\i},",
+            "\\=Eng\u00e9s\\={\\i}",
+            "Li\u00e8n\u00edng."
+        ],
+        "trs": "At that time you were fascinated by Marx, Engels and Lenin.",
+        "wlength": 6
+    },
+    {
+        "ID": "20--57530",
+        "categories": [
+            "3sg",
+            "cont",
+            "cos"
+        ],
+        "clength": 36,
+        "filename": "144/chapters/20.tex",
+        "imt": "\\textsc{3sg}  cry-\\textsc{cont}  run  return  house  go  \\textsc{cos}",
+        "imtwordsbare": [
+            "3SG",
+            "cry-CONT",
+            "run",
+            "return",
+            "house",
+            "go",
+            "COS"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">3sg</span>",
+            "cry-<span class=\"sc\">cont</span>",
+            "run",
+            "return",
+            "house",
+            "go",
+            "<span class=\"sc\">cos</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{3sg}",
+            "cry-\\textsc{cont}",
+            "run",
+            "return",
+            "house",
+            "go",
+            "\\textsc{cos}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "T\u0101  k\\=u-zhe  p\u01ceo  hu\u00ed  ji\u0101  q\u00f9  le.",
+        "srcwordsbare": [
+            "T\u0101",
+            "k\\=u-zhe",
+            "p\u01ceo",
+            "hu\u00ed",
+            "ji\u0101",
+            "q\u00f9",
+            "le."
+        ],
+        "srcwordshtml": [
+            "T\u0101",
+            "k\\=u-zhe",
+            "p\u01ceo",
+            "hu\u00ed",
+            "ji\u0101",
+            "q\u00f9",
+            "le."
+        ],
+        "srcwordstex": [
+            "T\u0101",
+            "k\\=u-zhe",
+            "p\u01ceo",
+            "hu\u00ed",
+            "ji\u0101",
+            "q\u00f9",
+            "le."
+        ],
+        "trs": "He ran home crying.",
+        "wlength": 7
+    },
+    {
+        "ID": "20-745338",
+        "categories": [
+            "cont",
+            "cos"
+        ],
+        "clength": 35,
+        "filename": "144/chapters/20.tex",
+        "imt": "small  dog  shake-\\textsc{cont}  tail  run  \\textsc{cos}",
+        "imtwordsbare": [
+            "small",
+            "dog",
+            "shake-CONT",
+            "tail",
+            "run",
+            "COS"
+        ],
+        "imtwordshtml": [
+            "small",
+            "dog",
+            "shake-<span class=\"sc\">cont</span>",
+            "tail",
+            "run",
+            "<span class=\"sc\">cos</span>"
+        ],
+        "imtwordstex": [
+            "small",
+            "dog",
+            "shake-\\textsc{cont}",
+            "tail",
+            "run",
+            "\\textsc{cos}"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Xi\u01ceo  g\u01d2u  y\u00e1o-zhe  w\u011biba  p\u01ceo  le.",
+        "srcwordsbare": [
+            "Xi\u01ceo",
+            "g\u01d2u",
+            "y\u00e1o-zhe",
+            "w\u011biba",
+            "p\u01ceo",
+            "le."
+        ],
+        "srcwordshtml": [
+            "Xi\u01ceo",
+            "g\u01d2u",
+            "y\u00e1o-zhe",
+            "w\u011biba",
+            "p\u01ceo",
+            "le."
+        ],
+        "srcwordstex": [
+            "Xi\u01ceo",
+            "g\u01d2u",
+            "y\u00e1o-zhe",
+            "w\u011biba",
+            "p\u01ceo",
+            "le."
+        ],
+        "trs": "The little dog ran away wagging its tail.",
+        "wlength": 6
+    },
+    {
+        "ID": "20--86875",
+        "categories": [
+            "prog"
+        ],
+        "clength": 25,
+        "filename": "144/chapters/20.tex",
+        "imt": "Zhangsan  \\textsc{prog}  knock  door",
+        "imtwordsbare": [
+            "Zhangsan",
+            "PROG",
+            "knock",
+            "door"
+        ],
+        "imtwordshtml": [
+            "Zhangsan",
+            "<span class=\"sc\">prog</span>",
+            "knock",
+            "door"
+        ],
+        "imtwordstex": [
+            "Zhangsan",
+            "\\textsc{prog}",
+            "knock",
+            "door"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Zh\u0101ngs\u0101n  z\u00e0i  qi\u0101o  m\u00e9n.",
+        "srcwordsbare": [
+            "Zh\u0101ngs\u0101n",
+            "z\u00e0i",
+            "qi\u0101o",
+            "m\u00e9n."
+        ],
+        "srcwordshtml": [
+            "Zh\u0101ngs\u0101n",
+            "z\u00e0i",
+            "qi\u0101o",
+            "m\u00e9n."
+        ],
+        "srcwordstex": [
+            "Zh\u0101ngs\u0101n",
+            "z\u00e0i",
+            "qi\u0101o",
+            "m\u00e9n."
+        ],
+        "trs": "Zhangsan is knocking on the door.\u2019  (\\citealt{Smith1997}: 272)",
+        "wlength": 4
+    },
+    {
+        "ID": "20-888462",
+        "categories": [
+            "imp"
+        ],
+        "clength": 29,
+        "filename": "144/chapters/20.tex",
+        "imt": "Anne  was(\\textsc{imp})  sad.",
+        "imtwordsbare": [
+            "Anne",
+            "was(IMP)",
+            "sad."
+        ],
+        "imtwordshtml": [
+            "Anne",
+            "was(<span class=\"sc\">imp</span>)",
+            "sad."
+        ],
+        "imtwordstex": [
+            "Anne",
+            "was(\\textsc{imp})",
+            "sad."
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Anne  \\textit{\u00e9tait}  triste.",
+        "srcwordsbare": [
+            "Anne",
+            "\u00e9tait",
+            "triste."
+        ],
+        "srcwordshtml": [
+            "Anne",
+            "<span class=\"it\">\u00e9tait</span>",
+            "triste."
+        ],
+        "srcwordstex": [
+            "Anne",
+            "\\textit{\u00e9tait}",
+            "triste."
+        ],
+        "trs": "Anne was sad.",
+        "wlength": 3
+    },
+    {
+        "ID": "20-189200",
+        "categories": [
+            "ps"
+        ],
+        "clength": 27,
+        "filename": "144/chapters/20.tex",
+        "imt": "Anne  was(\\textsc{ps})  sad.",
+        "imtwordsbare": [
+            "Anne",
+            "was(PS)",
+            "sad."
+        ],
+        "imtwordshtml": [
+            "Anne",
+            "was(<span class=\"sc\">ps</span>)",
+            "sad."
+        ],
+        "imtwordstex": [
+            "Anne",
+            "was(\\textsc{ps})",
+            "sad."
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Anne  \\textit{fut}  triste.",
+        "srcwordsbare": [
+            "Anne",
+            "fut",
+            "triste."
+        ],
+        "srcwordshtml": [
+            "Anne",
+            "<span class=\"it\">fut</span>",
+            "triste."
+        ],
+        "srcwordstex": [
+            "Anne",
+            "\\textit{fut}",
+            "triste."
+        ],
+        "trs": "Anne became sad.\u2019 or: \u2018Anne was sad for a while.",
+        "wlength": 3
+    },
+    {
+        "ID": "20-297451",
+        "categories": [
+            "ps"
+        ],
+        "clength": 63,
+        "filename": "144/chapters/20.tex",
+        "imt": "George  announced  his  resignation.  Anne  was(\\textsc{ps})  sad.",
+        "imtwordsbare": [
+            "George",
+            "announced",
+            "his",
+            "resignation.",
+            "Anne",
+            "was(PS)",
+            "sad."
+        ],
+        "imtwordshtml": [
+            "George",
+            "announced",
+            "his",
+            "resignation.",
+            "Anne",
+            "was(<span class=\"sc\">ps</span>)",
+            "sad."
+        ],
+        "imtwordstex": [
+            "George",
+            "announced",
+            "his",
+            "resignation.",
+            "Anne",
+            "was(\\textsc{ps})",
+            "sad."
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Georges  annon\u00e7a  sa  r\u00e9signation.  Anne  \\textit{fut}  triste.",
+        "srcwordsbare": [
+            "Georges",
+            "annon\u00e7a",
+            "sa",
+            "r\u00e9signation.",
+            "Anne",
+            "fut",
+            "triste."
+        ],
+        "srcwordshtml": [
+            "Georges",
+            "annon\u00e7a",
+            "sa",
+            "r\u00e9signation.",
+            "Anne",
+            "<span class=\"it\">fut</span>",
+            "triste."
+        ],
+        "srcwordstex": [
+            "Georges",
+            "annon\u00e7a",
+            "sa",
+            "r\u00e9signation.",
+            "Anne",
+            "\\textit{fut}",
+            "triste."
+        ],
+        "trs": "George announced his resignation. Anne became sad (as a result).",
+        "wlength": 7
+    },
+    {
+        "ID": "20--44172",
+        "categories": [
+            "imp"
+        ],
+        "clength": 64,
+        "filename": "144/chapters/20.tex",
+        "imt": "George  announced  his  resignation.  Anne  was(\\textsc{imp})  sad.",
+        "imtwordsbare": [
+            "George",
+            "announced",
+            "his",
+            "resignation.",
+            "Anne",
+            "was(IMP)",
+            "sad."
+        ],
+        "imtwordshtml": [
+            "George",
+            "announced",
+            "his",
+            "resignation.",
+            "Anne",
+            "was(<span class=\"sc\">imp</span>)",
+            "sad."
+        ],
+        "imtwordstex": [
+            "George",
+            "announced",
+            "his",
+            "resignation.",
+            "Anne",
+            "was(\\textsc{imp})",
+            "sad."
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Georges  annon\u00e7a  sa  r\u00e9signation.  Anne  \\textit{\u00e9tait}  triste",
+        "srcwordsbare": [
+            "Georges",
+            "annon\u00e7a",
+            "sa",
+            "r\u00e9signation.",
+            "Anne",
+            "\u00e9tait",
+            "triste"
+        ],
+        "srcwordshtml": [
+            "Georges",
+            "annon\u00e7a",
+            "sa",
+            "r\u00e9signation.",
+            "Anne",
+            "<span class=\"it\">\u00e9tait</span>",
+            "triste"
+        ],
+        "srcwordstex": [
+            "Georges",
+            "annon\u00e7a",
+            "sa",
+            "r\u00e9signation.",
+            "Anne",
+            "\\textit{\u00e9tait}",
+            "triste"
+        ],
+        "trs": "George announced his resignation. Anne was sad (during that time).",
+        "wlength": 7
+    },
+    {
+        "ID": "20-470311",
+        "categories": [
+            "ps"
+        ],
+        "clength": 61,
+        "filename": "144/chapters/20.tex",
+        "imt": "when  she  saw  George  Anne  crossed(\\textsc{ps})  the  street",
+        "imtwordsbare": [
+            "when",
+            "she",
+            "saw",
+            "George",
+            "Anne",
+            "crossed(PS)",
+            "the",
+            "street"
+        ],
+        "imtwordshtml": [
+            "when",
+            "she",
+            "saw",
+            "George",
+            "Anne",
+            "crossed(<span class=\"sc\">ps</span>)",
+            "the",
+            "street"
+        ],
+        "imtwordstex": [
+            "when",
+            "she",
+            "saw",
+            "George",
+            "Anne",
+            "crossed(\\textsc{ps})",
+            "the",
+            "street"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Quand  elle  vit  Georges,  Anne  \\textit{traversa}  la  rue.",
+        "srcwordsbare": [
+            "Quand",
+            "elle",
+            "vit",
+            "Georges,",
+            "Anne",
+            "traversa",
+            "la",
+            "rue."
+        ],
+        "srcwordshtml": [
+            "Quand",
+            "elle",
+            "vit",
+            "Georges,",
+            "Anne",
+            "<span class=\"it\">traversa</span>",
+            "la",
+            "rue."
+        ],
+        "srcwordstex": [
+            "Quand",
+            "elle",
+            "vit",
+            "Georges,",
+            "Anne",
+            "\\textit{traversa}",
+            "la",
+            "rue."
+        ],
+        "trs": "When/after she saw George, Anne crossed the street.",
+        "wlength": 8
+    },
+    {
+        "ID": "20--65822",
+        "categories": [
+            "imp"
+        ],
+        "clength": 63,
+        "filename": "144/chapters/20.tex",
+        "imt": "when  she  saw  George  Anne  crossed(\\textsc{imp})  the  street",
+        "imtwordsbare": [
+            "when",
+            "she",
+            "saw",
+            "George",
+            "Anne",
+            "crossed(IMP)",
+            "the",
+            "street"
+        ],
+        "imtwordshtml": [
+            "when",
+            "she",
+            "saw",
+            "George",
+            "Anne",
+            "crossed(<span class=\"sc\">imp</span>)",
+            "the",
+            "street"
+        ],
+        "imtwordstex": [
+            "when",
+            "she",
+            "saw",
+            "George",
+            "Anne",
+            "crossed(\\textsc{imp})",
+            "the",
+            "street"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Quand  elle  vit  Georges,  Anne  \\textit{traversait}  la  rue.",
+        "srcwordsbare": [
+            "Quand",
+            "elle",
+            "vit",
+            "Georges,",
+            "Anne",
+            "traversait",
+            "la",
+            "rue."
+        ],
+        "srcwordshtml": [
+            "Quand",
+            "elle",
+            "vit",
+            "Georges,",
+            "Anne",
+            "<span class=\"it\">traversait</span>",
+            "la",
+            "rue."
+        ],
+        "srcwordstex": [
+            "Quand",
+            "elle",
+            "vit",
+            "Georges,",
+            "Anne",
+            "\\textit{traversait}",
+            "la",
+            "rue."
+        ],
+        "trs": "When she saw George, Anne was crossing the street.",
+        "wlength": 8
+    },
+    {
+        "ID": "20--47577",
+        "categories": [
+            "ps"
+        ],
+        "clength": 54,
+        "filename": "144/chapters/20.tex",
+        "imt": "Anne  played(\\textsc{ps})  the  piano  for  two  hours",
+        "imtwordsbare": [
+            "Anne",
+            "played(PS)",
+            "the",
+            "piano",
+            "for",
+            "two",
+            "hours"
+        ],
+        "imtwordshtml": [
+            "Anne",
+            "played(<span class=\"sc\">ps</span>)",
+            "the",
+            "piano",
+            "for",
+            "two",
+            "hours"
+        ],
+        "imtwordstex": [
+            "Anne",
+            "played(\\textsc{ps})",
+            "the",
+            "piano",
+            "for",
+            "two",
+            "hours"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Anne  \\textit{joua}  du  piano  pendant  deux  heures.",
+        "srcwordsbare": [
+            "Anne",
+            "joua",
+            "du",
+            "piano",
+            "pendant",
+            "deux",
+            "heures."
+        ],
+        "srcwordshtml": [
+            "Anne",
+            "<span class=\"it\">joua</span>",
+            "du",
+            "piano",
+            "pendant",
+            "deux",
+            "heures."
+        ],
+        "srcwordstex": [
+            "Anne",
+            "\\textit{joua}",
+            "du",
+            "piano",
+            "pendant",
+            "deux",
+            "heures."
+        ],
+        "trs": "Anne played the piano for two hours.",
+        "wlength": 7
+    },
+    {
+        "ID": "20-280387",
+        "categories": [
+            "imp"
+        ],
+        "clength": 56,
+        "filename": "144/chapters/20.tex",
+        "imt": "Anne  played(\\textsc{imp})  the  piano  for  two  hours",
+        "imtwordsbare": [
+            "Anne",
+            "played(IMP)",
+            "the",
+            "piano",
+            "for",
+            "two",
+            "hours"
+        ],
+        "imtwordshtml": [
+            "Anne",
+            "played(<span class=\"sc\">imp</span>)",
+            "the",
+            "piano",
+            "for",
+            "two",
+            "hours"
+        ],
+        "imtwordstex": [
+            "Anne",
+            "played(\\textsc{imp})",
+            "the",
+            "piano",
+            "for",
+            "two",
+            "hours"
+        ],
+        "language": "144/chapters/20.tex",
+        "src": "Anne  \\textit{jouait}  du  piano  pendant  deux  heures.",
+        "srcwordsbare": [
+            "Anne",
+            "jouait",
+            "du",
+            "piano",
+            "pendant",
+            "deux",
+            "heures."
+        ],
+        "srcwordshtml": [
+            "Anne",
+            "<span class=\"it\">jouait</span>",
+            "du",
+            "piano",
+            "pendant",
+            "deux",
+            "heures."
+        ],
+        "srcwordstex": [
+            "Anne",
+            "\\textit{jouait}",
+            "du",
+            "piano",
+            "pendant",
+            "deux",
+            "heures."
+        ],
+        "trs": "Anne used to play the piano for two hours.",
+        "wlength": 7
+    }
+]

@@ -1,0 +1,2506 @@
+[
+    {
+        "ID": "nagaya-108926",
+        "categories": [
+            "av",
+            "gen",
+            "loc",
+            "nom",
+            "p"
+        ],
+        "clength": 76,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "eat<\\textsc{av}>  \\textsc{p.nom}=Mama  \\textsc{gen}=noodles  \\textsc{loc}=  kitchen",
+        "imtwordsbare": [
+            "eat<AV>",
+            "p.nom=Mama",
+            "GEN=noodles",
+            "LOC=",
+            "kitchen"
+        ],
+        "imtwordshtml": [
+            "eat<<span class=\"sc\">av</span>>",
+            "<span class=\"sc\">p.nom</span>=Mama",
+            "<span class=\"sc\">gen</span>=noodles",
+            "<span class=\"sc\">loc</span>=",
+            "kitchen"
+        ],
+        "imtwordstex": [
+            "eat<\\textsc{av}>",
+            "\\textsc{p.nom}=Mama",
+            "\\textsc{gen}=noodles",
+            "\\textsc{loc}=",
+            "kitchen"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "K{\\USSmaller}um{\\USGreater}ain si=Mama {nang=mami\\footnotemark} sa=  kusina.",
+        "srcwordsbare": [
+            "K{\\USSmaller}um{\\USGreater}ain",
+            "si=Mama",
+            "{nang=mami\\footnotemark}",
+            "sa=",
+            "kusina."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}um{\\USGreater}ain",
+            "si=Mama",
+            "{nang=mami\\footnotemark}",
+            "sa=",
+            "kusina."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}um{\\USGreater}ain",
+            "si=Mama",
+            "{nang=mami\\footnotemark}",
+            "sa=",
+            "kusina."
+        ],
+        "trs": "Mama ate noodles in the kitchen.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-530381",
+        "categories": [
+            "av",
+            "gen",
+            "nom",
+            "p"
+        ],
+        "clength": 73,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{p.nom}=  Mama    \\textsc{nom}=eat<\\textsc{av}>  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "p.nom=",
+            "Mama",
+            "NOM=eat<AV>",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">p.nom</span>=",
+            "Mama",
+            "<span class=\"sc\">nom</span>=eat<<span class=\"sc\">av</span>>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "\\textsc{p.nom}=",
+            "Mama",
+            "\\textsc{nom}=eat<\\textsc{av}>",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Si=    Mama    ang={\\ob}k{\\USSmaller}um{\\USGreater}ain  nang=  mami{\\cb}.",
+        "srcwordsbare": [
+            "Si=",
+            "Mama",
+            "ang=[k{\\USSmaller}um{\\USGreater}ain",
+            "nang=",
+            "mami]."
+        ],
+        "srcwordshtml": [
+            "Si=",
+            "Mama",
+            "ang=[k{\\USSmaller}um{\\USGreater}ain",
+            "nang=",
+            "mami]."
+        ],
+        "srcwordstex": [
+            "Si=",
+            "Mama",
+            "ang={\\ob}k{\\USSmaller}um{\\USGreater}ain",
+            "nang=",
+            "mami{\\cb}."
+        ],
+        "trs": "The one who ate noodles is Mama.\u2019\\\\",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--40659",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 92,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{nom}=noodles  \\textsc{nom}=eat<\\textsc{pv.pfv}>  \\textsc{p.gen}=  Mama",
+        "imtwordsbare": [
+            "NOM=noodles",
+            "NOM=eat<pv.pfv>",
+            "p.gen=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">nom</span>=noodles",
+            "<span class=\"sc\">nom</span>=eat<<span class=\"sc\">pv.pfv</span>>",
+            "<span class=\"sc\">p.gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "\\textsc{nom}=noodles",
+            "\\textsc{nom}=eat<\\textsc{pv.pfv}>",
+            "\\textsc{p.gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "{\\USOParen}Ang={\\USCParen}mami    ang={\\ob}k{\\USSmaller}in{\\USGreater}ain  ni=    Mama{\\cb}.",
+        "srcwordsbare": [
+            "{\\USOParen}Ang={\\USCParen}mami",
+            "ang=[k{\\USSmaller}in{\\USGreater}ain",
+            "ni=",
+            "Mama]."
+        ],
+        "srcwordshtml": [
+            "{\\USOParen}Ang={\\USCParen}mami",
+            "ang=[k{\\USSmaller}in{\\USGreater}ain",
+            "ni=",
+            "Mama]."
+        ],
+        "srcwordstex": [
+            "{\\USOParen}Ang={\\USCParen}mami",
+            "ang={\\ob}k{\\USSmaller}in{\\USGreater}ain",
+            "ni=",
+            "Mama{\\cb}."
+        ],
+        "trs": "What Mama ate is noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--29407",
+        "categories": [
+            "",
+            "av",
+            "nom",
+            "pfv"
+        ],
+        "clength": 30,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  \\textsc{=nom}  \\textsc{av:pfv}-happen",
+        "imtwordsbare": [
+            "what",
+            "=nom",
+            "av:pfv-happen"
+        ],
+        "imtwordshtml": [
+            "what",
+            "<span class=\"sc\">=nom</span>",
+            "<span class=\"sc\">av:pfv</span>-happen"
+        ],
+        "imtwordstex": [
+            "what",
+            "\\textsc{=nom}",
+            "\\textsc{av:pfv}-happen"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  nang-yari{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "trs": "What happened?",
+        "wlength": 3
+    },
+    {
+        "ID": "nagaya--70099",
+        "categories": [
+            "av",
+            "gen",
+            "nom",
+            "p"
+        ],
+        "clength": 55,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "eat<\\textsc{av}>  \\textsc{p.nom}=Mama  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "eat<AV>",
+            "p.nom=Mama",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "eat<<span class=\"sc\">av</span>>",
+            "<span class=\"sc\">p.nom</span>=Mama",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "eat<\\textsc{av}>",
+            "\\textsc{p.nom}=Mama",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "K{\\USSmaller}um{\\USGreater}ain  si=Mama    nang=  mami.",
+        "srcwordsbare": [
+            "K{\\USSmaller}um{\\USGreater}ain",
+            "si=Mama",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}um{\\USGreater}ain",
+            "si=Mama",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}um{\\USGreater}ain",
+            "si=Mama",
+            "nang=",
+            "mami."
+        ],
+        "trs": "Mama ate noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--19420",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 64,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  do<\\textsc{pv:pfv}>  \\textsc{p.gen}=  Mama",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "do<pv:pfv>",
+            "p.gen=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "do<<span class=\"sc\">pv:pfv</span>>",
+            "<span class=\"sc\">p.gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "do<\\textsc{pv:pfv}>",
+            "\\textsc{p.gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  g{\\USSmaller}in{\\USGreater}awa  ni=    Mama{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "trs": "What did Mama do?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-674174",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 47,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "eat<\\textsc{av}>=\\textsc{3sg.nom}  \\textsc{gen}=noodles",
+        "imtwordsbare": [
+            "eat<AV>=3sg.nom",
+            "GEN=noodles"
+        ],
+        "imtwordshtml": [
+            "eat<<span class=\"sc\">av</span>>=<span class=\"sc\">3sg.nom</span>",
+            "<span class=\"sc\">gen</span>=noodles"
+        ],
+        "imtwordstex": [
+            "eat<\\textsc{av}>=\\textsc{3sg.nom}",
+            "\\textsc{gen}=noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "K{\\USSmaller}um{\\USGreater}ain=siya  nang=mami.",
+        "srcwordsbare": [
+            "K{\\USSmaller}um{\\USGreater}ain=siya",
+            "nang=mami."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}um{\\USGreater}ain=siya",
+            "nang=mami."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}um{\\USGreater}ain=siya",
+            "nang=mami."
+        ],
+        "trs": "She ate noodles.",
+        "wlength": 2
+    },
+    {
+        "ID": "nagaya-804333",
+        "categories": [
+            "av",
+            "gen",
+            "nom",
+            "p"
+        ],
+        "clength": 60,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "eat<\\textsc{av}>=hearsay  \\textsc{p.nom}=Maria  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "eat<AV>=hearsay",
+            "p.nom=Maria",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "eat<<span class=\"sc\">av</span>>=hearsay",
+            "<span class=\"sc\">p.nom</span>=Maria",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "eat<\\textsc{av}>=hearsay",
+            "\\textsc{p.nom}=Maria",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "K{\\USSmaller}um{\\USGreater}ain=daw  si=Maria    nang=  mami.",
+        "srcwordsbare": [
+            "K{\\USSmaller}um{\\USGreater}ain=daw",
+            "si=Maria",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "K{\\USSmaller}um{\\USGreater}ain=daw",
+            "si=Maria",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "K{\\USSmaller}um{\\USGreater}ain=daw",
+            "si=Maria",
+            "nang=",
+            "mami."
+        ],
+        "trs": "(They say) Maria ate noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya-509450",
+        "categories": [
+            "av",
+            "gen",
+            "neg",
+            "nom",
+            "p"
+        ],
+        "clength": 74,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{neg}  \\textsc{p.nom}=Mama \\textsc{nom}=eat<\\textsc{av}>  \\textsc{gen}= noodles",
+        "imtwordsbare": [
+            "NEG",
+            "p.nom=Mama",
+            "NOM=eat<AV>",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "<span class=\"sc\">p.nom</span>=Mama",
+            "<span class=\"sc\">nom</span>=eat<<span class=\"sc\">av</span>>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "\\textsc{p.nom}=Mama",
+            "\\textsc{nom}=eat<\\textsc{av}>",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Hindi. Si=Mama  ang={\\ob}k{\\USSmaller}um{\\USGreater}ain  nang=  mami{\\cb}.",
+        "srcwordsbare": [
+            "Hindi.",
+            "Si=Mama",
+            "ang=[k{\\USSmaller}um{\\USGreater}ain",
+            "nang=",
+            "mami]."
+        ],
+        "srcwordshtml": [
+            "Hindi.",
+            "Si=Mama",
+            "ang=[k{\\USSmaller}um{\\USGreater}ain",
+            "nang=",
+            "mami]."
+        ],
+        "srcwordstex": [
+            "Hindi.",
+            "Si=Mama",
+            "ang={\\ob}k{\\USSmaller}um{\\USGreater}ain",
+            "nang=",
+            "mami{\\cb}."
+        ],
+        "trs": "No. It is Mama (not Maria) who ate noodles.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--33472",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 80,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  \\textsc{nom}=eat<\\textsc{pv:pfv}>  \\textsc{p.gen}=  Mama",
+        "imtwordsbare": [
+            "what",
+            "NOM=eat<pv:pfv>",
+            "p.gen=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "what",
+            "<span class=\"sc\">nom</span>=eat<<span class=\"sc\">pv:pfv</span>>",
+            "<span class=\"sc\">p.gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "what",
+            "\\textsc{nom}=eat<\\textsc{pv:pfv}>",
+            "\\textsc{p.gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "\\uline{Ano}  ang={\\ob}k{\\USSmaller}in{\\USGreater}ain  ni=    Mama{\\cb}{\\USQMark}",
+        "srcwordsbare": [
+            "\\uline{Ano}",
+            "ang=[k{\\USSmaller}in{\\USGreater}ain",
+            "ni=",
+            "Mama]{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "\\uline{Ano}",
+            "ang=[k{\\USSmaller}in{\\USGreater}ain",
+            "ni=",
+            "Mama]{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "\\uline{Ano}",
+            "ang={\\ob}k{\\USSmaller}in{\\USGreater}ain",
+            "ni=",
+            "Mama{\\cb}{\\USQMark}"
+        ],
+        "trs": "\\uline{What} is it that Mama ate?",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--59508",
+        "categories": [],
+        "clength": 22,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "noodles",
+        "imtwordsbare": [
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "noodles"
+        ],
+        "imtwordstex": [
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "\\textit{\\uline{Mami}.}",
+        "srcwordsbare": [
+            "\\uline{Mami.}"
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">\\uline{Mami</span>.}"
+        ],
+        "srcwordstex": [
+            "\\textit{\\uline{Mami}.}"
+        ],
+        "trs": "\\uline{Noodles}.",
+        "wlength": 1
+    },
+    {
+        "ID": "nagaya-513827",
+        "categories": [
+            "gen",
+            "nom",
+            "pfv",
+            "pv",
+            "sg"
+        ],
+        "clength": 53,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "noodles  \\textsc{nom}=eat<\\textsc{pv:pfv}>=3\\textsc{sg.gen}",
+        "imtwordsbare": [
+            "noodles",
+            "NOM=eat<pv:pfv>=3sg.gen"
+        ],
+        "imtwordshtml": [
+            "noodles",
+            "<span class=\"sc\">nom</span>=eat<<span class=\"sc\">pv:pfv</span>>=3<span class=\"sc\">sg.gen</span>"
+        ],
+        "imtwordstex": [
+            "noodles",
+            "\\textsc{nom}=eat<\\textsc{pv:pfv}>=3\\textsc{sg.gen}"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "\\uline{Mami} ang=k{\\USSmaller}in{\\USGreater}ain=niya.",
+        "srcwordsbare": [
+            "\\uline{Mami}",
+            "ang=k{\\USSmaller}in{\\USGreater}ain=niya."
+        ],
+        "srcwordshtml": [
+            "\\uline{Mami}",
+            "ang=k{\\USSmaller}in{\\USGreater}ain=niya."
+        ],
+        "srcwordstex": [
+            "\\uline{Mami}",
+            "ang=k{\\USSmaller}in{\\USGreater}ain=niya."
+        ],
+        "trs": "What she ate is \\uline{noodles}.",
+        "wlength": 2
+    },
+    {
+        "ID": "nagaya-521923",
+        "categories": [
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 69,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "who  \\textsc{nom}=  buy<\\textsc{av}>    \\textsc{gen}=    noodles",
+        "imtwordsbare": [
+            "who",
+            "NOM=",
+            "buy<AV>",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">nom</span>=",
+            "buy<<span class=\"sc\">av</span>>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{nom}=",
+            "buy<\\textsc{av}>",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Sino  ang=  b{\\USSmaller}um{\\USGreater}ili    nang=    mami{\\USQMark}",
+        "srcwordsbare": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "trs": "Who bought noodles?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-399697",
+        "categories": [
+            "av",
+            "gen",
+            "nom",
+            "p"
+        ],
+        "clength": 57,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "buy<\\textsc{av}>  \\textsc{p.nom}= Mama  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "buy<AV>",
+            "p.nom=",
+            "Mama",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "buy<<span class=\"sc\">av</span>>",
+            "<span class=\"sc\">p.nom</span>=",
+            "Mama",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "buy<\\textsc{av}>",
+            "\\textsc{p.nom}=",
+            "Mama",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "B{\\USSmaller}um{\\USGreater}ili  si=  Mama    nang=  mami.",
+        "srcwordsbare": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami."
+        ],
+        "trs": "Mama bought noodles.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--56678",
+        "categories": [
+            "av",
+            "nom",
+            "p"
+        ],
+        "clength": 50,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{p.nom} Mama    \\textsc{nom}=  buy<\\textsc{av}>",
+        "imtwordsbare": [
+            "p.nom",
+            "Mama",
+            "NOM=",
+            "buy<AV>"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">p.nom</span>",
+            "Mama",
+            "<span class=\"sc\">nom</span>=",
+            "buy<<span class=\"sc\">av</span>>"
+        ],
+        "imtwordstex": [
+            "\\textsc{p.nom}",
+            "Mama",
+            "\\textsc{nom}=",
+            "buy<\\textsc{av}>"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Si=  Mama    ang=  b{\\USSmaller}um{\\USGreater}ili.",
+        "srcwordsbare": [
+            "Si=",
+            "Mama",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili."
+        ],
+        "srcwordshtml": [
+            "Si=",
+            "Mama",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili."
+        ],
+        "srcwordstex": [
+            "Si=",
+            "Mama",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili."
+        ],
+        "trs": "It is Mama who bought noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--29407",
+        "categories": [
+            "av",
+            "nom",
+            "pfv"
+        ],
+        "clength": 30,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  \\textsc{av:pfv}-happen",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "av:pfv-happen"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">av:pfv</span>-happen"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "\\textsc{av:pfv}-happen"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  nang-yari{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "trs": "What happened?",
+        "wlength": 3
+    },
+    {
+        "ID": "nagaya--19420",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 64,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  do<\\textsc{pv:pfv}>  \\textsc{p.gen}=  Mama",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "do<pv:pfv>",
+            "p.gen=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "do<<span class=\"sc\">pv:pfv</span>>",
+            "<span class=\"sc\">p.gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "do<\\textsc{pv:pfv}>",
+            "\\textsc{p.gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  g{\\USSmaller}in{\\USGreater}awa  ni=    Mama{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "trs": "What did Mama do?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-603476",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 84,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  \\phantom{[}buy<\\textsc{pv:pfv}>  \\textsc{p.gen}=  Mama",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "\\phantom{[}buy<pv:pfv>",
+            "p.gen=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "\\phantom{[}buy<<span class=\"sc\">pv:pfv</span>>",
+            "<span class=\"sc\">p.gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "\\phantom{[}buy<\\textsc{pv:pfv}>",
+            "\\textsc{p.gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "\\uline{Ano}  =\u2019ng  {\\ob}b{\\USSmaller}in{\\USGreater}ili    ni=    Mama{\\cb}{\\USQMark}",
+        "srcwordsbare": [
+            "\\uline{Ano}",
+            "=\u2019ng",
+            "[b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama]{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "\\uline{Ano}",
+            "=\u2019ng",
+            "[b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama]{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "\\uline{Ano}",
+            "=\u2019ng",
+            "{\\ob}b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\cb}{\\USQMark}"
+        ],
+        "trs": "\\uline{What} did Mama buy?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-542235",
+        "categories": [
+            "",
+            "av",
+            "gen",
+            "nom",
+            "p",
+            "q"
+        ],
+        "clength": 71,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "buy<\\textsc{av}>  \\textsc{=q}  \\textsc{p.nom}=  Mama  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "buy<AV>",
+            "=q",
+            "p.nom=",
+            "Mama",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "buy<<span class=\"sc\">av</span>>",
+            "<span class=\"sc\">=q</span>",
+            "<span class=\"sc\">p.nom</span>=",
+            "Mama",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "buy<\\textsc{av}>",
+            "\\textsc{=q}",
+            "\\textsc{p.nom}=",
+            "Mama",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "B{\\USSmaller}um{\\USGreater}ili  =ba  si=    Mama  nang=  mami{\\USQMark}",
+        "srcwordsbare": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=ba",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=ba",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=ba",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "trs": "Did Mama buy noodles?",
+        "wlength": 6
+    },
+    {
+        "ID": "nagaya-591247",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 58,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "yes  buy<\\textsc{av}>  =\\textsc{3sg.nom}  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "yes",
+            "buy<AV>",
+            "=3sg.nom",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "yes",
+            "buy<<span class=\"sc\">av</span>>",
+            "=<span class=\"sc\">3sg.nom</span>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "yes",
+            "buy<\\textsc{av}>",
+            "=\\textsc{3sg.nom}",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Oo,  b{\\USSmaller}um{\\USGreater}ili  =siya    nang=  mami.",
+        "srcwordsbare": [
+            "Oo,",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "Oo,",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "Oo,",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "trs": "Yes, she bought noodles.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--10827",
+        "categories": [
+            "2sg",
+            "av",
+            "nom",
+            "pros"
+        ],
+        "clength": 47,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "where  =\\textsc{2sg}.\\textsc{nom}  \\textsc{av}:\\textsc{pros}:go",
+        "imtwordsbare": [
+            "where",
+            "=2SG.NOM",
+            "AV:PROS:go"
+        ],
+        "imtwordshtml": [
+            "where",
+            "=<span class=\"sc\">2sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">av</span>:<span class=\"sc\">pros</span>:go"
+        ],
+        "imtwordstex": [
+            "where",
+            "=\\textsc{2sg}.\\textsc{nom}",
+            "\\textsc{av}:\\textsc{pros}:go"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Saan  =ka    pu{\\textasciitilde}punta{\\USQMark}",
+        "srcwordsbare": [
+            "Saan",
+            "=ka",
+            "pu{\\USQMark"
+        ],
+        "srcwordshtml": [
+            "Saan",
+            "=ka",
+            "pu{<span class=\"asciitilde}punta\">\\USQMark</span>"
+        ],
+        "srcwordstex": [
+            "Saan",
+            "=ka",
+            "pu{\\textasciitilde}punta{\\USQMark}"
+        ],
+        "trs": "Where are you going?",
+        "wlength": 3
+    },
+    {
+        "ID": "nagaya-341023",
+        "categories": [
+            "1sg",
+            "av",
+            "loc",
+            "nom",
+            "pros"
+        ],
+        "clength": 48,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{loc}=  Ministop  =\\textsc{1sg}.\\textsc{nom}  \\textsc{av}:\\textsc{pros}:go",
+        "imtwordsbare": [
+            "LOC=",
+            "Ministop",
+            "=1SG.NOM",
+            "AV:PROS:go"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">loc</span>=",
+            "Ministop",
+            "=<span class=\"sc\">1sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">av</span>:<span class=\"sc\">pros</span>:go"
+        ],
+        "imtwordstex": [
+            "\\textsc{loc}=",
+            "Ministop",
+            "=\\textsc{1sg}.\\textsc{nom}",
+            "\\textsc{av}:\\textsc{pros}:go"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Sa=  Ministop  =ako    pu{\\textasciitilde}punta.",
+        "srcwordsbare": [
+            "Sa=",
+            "Ministop",
+            "=ako",
+            "pu{~}punta."
+        ],
+        "srcwordshtml": [
+            "Sa=",
+            "Ministop",
+            "=ako",
+            "pu{~}punta."
+        ],
+        "srcwordstex": [
+            "Sa=",
+            "Ministop",
+            "=ako",
+            "pu{\\textasciitilde}punta."
+        ],
+        "trs": "I am going to a Ministop.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--22292",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 62,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom} \\textsc{pv}:\\textsc{pfv}:buy  \\textsc{p}.\\textsc{gen}= Mama",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "PV:PFV:buy",
+            "P.GEN=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:buy",
+            "<span class=\"sc\">p</span>.<span class=\"sc\">gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "\\textsc{pv}:\\textsc{pfv}:buy",
+            "\\textsc{p}.\\textsc{gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  b{\\USSmaller}in{\\USGreater}ili  ni=  Mama{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "trs": "What did Mama buy?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--43066",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 53,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{av}:buy  =\\textsc{3sg}.\\textsc{nom} \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "AV:buy",
+            "=3SG.NOM",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>:buy",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}:buy",
+            "=\\textsc{3sg}.\\textsc{nom}",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "B{\\USSmaller}um{\\USGreater}ili  =siya    nang=  mami.",
+        "srcwordsbare": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "trs": "She bought noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya-385391",
+        "categories": [
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 65,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "who  \\textsc{nom}=  \\textsc{av}:buy    \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "who",
+            "NOM=",
+            "AV:buy",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">nom</span>=",
+            "<span class=\"sc\">av</span>:buy",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{nom}=",
+            "\\textsc{av}:buy",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Sino  ang=  b{\\USSmaller}um{\\USGreater}ili  nang=  mami{\\USQMark}",
+        "srcwordsbare": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "trs": "Who bought noodles?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--16239",
+        "categories": [
+            "av",
+            "nom",
+            "p"
+        ],
+        "clength": 48,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{p}.\\textsc{nom}  Mama  \\textsc{nom}=  \\textsc{av}:buy",
+        "imtwordsbare": [
+            "P.NOM",
+            "Mama",
+            "NOM=",
+            "AV:buy"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">p</span>.<span class=\"sc\">nom</span>",
+            "Mama",
+            "<span class=\"sc\">nom</span>=",
+            "<span class=\"sc\">av</span>:buy"
+        ],
+        "imtwordstex": [
+            "\\textsc{p}.\\textsc{nom}",
+            "Mama",
+            "\\textsc{nom}=",
+            "\\textsc{av}:buy"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Si=  Mama  ang=  b{\\USSmaller}um{\\USGreater}ili.",
+        "srcwordsbare": [
+            "Si=",
+            "Mama",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili."
+        ],
+        "srcwordshtml": [
+            "Si=",
+            "Mama",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili."
+        ],
+        "srcwordstex": [
+            "Si=",
+            "Mama",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili."
+        ],
+        "trs": "It is Mama who bought noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya-310886",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 89,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =else  =\\textsc{nom}  \\textsc{pv}:\\textsc{pfv}:buy  \\textsc{p}.\\textsc{gen}=  Mama",
+        "imtwordsbare": [
+            "what",
+            "=else",
+            "=NOM",
+            "PV:PFV:buy",
+            "P.GEN=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=else",
+            "=<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:buy",
+            "<span class=\"sc\">p</span>.<span class=\"sc\">gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "what",
+            "=else",
+            "=\\textsc{nom}",
+            "\\textsc{pv}:\\textsc{pfv}:buy",
+            "\\textsc{p}.\\textsc{gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =pa  {\\USOParen}=ang{\\USCParen}  b{\\USSmaller}in{\\USGreater}ili  ni=  Mama{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=pa",
+            "{\\USOParen}=ang{\\USCParen}",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=pa",
+            "{\\USOParen}=ang{\\USCParen}",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=pa",
+            "{\\USOParen}=ang{\\USCParen}",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "trs": "What else did Mama buy?",
+        "wlength": 6
+    },
+    {
+        "ID": "nagaya--18545",
+        "categories": [
+            "3sg",
+            "gen",
+            "nom",
+            "pfv",
+            "pv"
+        ],
+        "clength": 59,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "noodles  =only  \\textsc{nom}=  \\textsc{pv}:\\textsc{pfv}:buy  =\\textsc{3sg}.\\textsc{gen}",
+        "imtwordsbare": [
+            "noodles",
+            "=only",
+            "NOM=",
+            "PV:PFV:buy",
+            "=3SG.GEN"
+        ],
+        "imtwordshtml": [
+            "noodles",
+            "=only",
+            "<span class=\"sc\">nom</span>=",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:buy",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "noodles",
+            "=only",
+            "\\textsc{nom}=",
+            "\\textsc{pv}:\\textsc{pfv}:buy",
+            "=\\textsc{3sg}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Mami    =lang  ang=  b{\\USSmaller}in{\\USGreater}ili  =niya.",
+        "srcwordsbare": [
+            "Mami",
+            "=lang",
+            "ang=",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "=niya."
+        ],
+        "srcwordshtml": [
+            "Mami",
+            "=lang",
+            "ang=",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "=niya."
+        ],
+        "srcwordstex": [
+            "Mami",
+            "=lang",
+            "ang=",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "=niya."
+        ],
+        "trs": "She bought only noodles.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--50038",
+        "categories": [
+            "2sg",
+            "av",
+            "nom"
+        ],
+        "clength": 54,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "where  =\\textsc{2sg}.\\textsc{nom}  \\textsc{av}:go",
+        "imtwordsbare": [
+            "where",
+            "=2SG.NOM",
+            "AV:go"
+        ],
+        "imtwordshtml": [
+            "where",
+            "=<span class=\"sc\">2sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">av</span>:go"
+        ],
+        "imtwordstex": [
+            "where",
+            "=\\textsc{2sg}.\\textsc{nom}",
+            "\\textsc{av}:go"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Saan  =ka    p{\\USSmaller}um{\\USGreater}unta{\\USQMark}",
+        "srcwordsbare": [
+            "Saan",
+            "=ka",
+            "p{\\USSmaller}um{\\USGreater}unta{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Saan",
+            "=ka",
+            "p{\\USSmaller}um{\\USGreater}unta{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Saan",
+            "=ka",
+            "p{\\USSmaller}um{\\USGreater}unta{\\USQMark}"
+        ],
+        "trs": "Where did you go?",
+        "wlength": 3
+    },
+    {
+        "ID": "nagaya-642650",
+        "categories": [
+            "1sg",
+            "av",
+            "loc",
+            "nom",
+            "pfv"
+        ],
+        "clength": 54,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{av}:\\textsc{pfv}:go  =\\textsc{1sg}.\\textsc{nom}  \\textsc{loc}=  Ministop",
+        "imtwordsbare": [
+            "AV:PFV:go",
+            "=1SG.NOM",
+            "LOC=",
+            "Ministop"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>:<span class=\"sc\">pfv</span>:go",
+            "=<span class=\"sc\">1sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">loc</span>=",
+            "Ministop"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}:\\textsc{pfv}:go",
+            "=\\textsc{1sg}.\\textsc{nom}",
+            "\\textsc{loc}=",
+            "Ministop"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "P{\\USSmaller}um{\\USGreater}unta  =ako    sa=  Ministop",
+        "srcwordsbare": [
+            "P{\\USSmaller}um{\\USGreater}unta",
+            "=ako",
+            "sa=",
+            "Ministop"
+        ],
+        "srcwordshtml": [
+            "P{\\USSmaller}um{\\USGreater}unta",
+            "=ako",
+            "sa=",
+            "Ministop"
+        ],
+        "srcwordstex": [
+            "P{\\USSmaller}um{\\USGreater}unta",
+            "=ako",
+            "sa=",
+            "Ministop"
+        ],
+        "trs": "I went to Ministop.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--53089",
+        "categories": [
+            "3sg",
+            "gen",
+            "nom",
+            "pfv",
+            "pv",
+            "q"
+        ],
+        "clength": 66,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "peanuts  =\\textsc{q}  \\textsc{nom}=  \\textsc{pv}:\\textsc{pfv}:eat  =\\textsc{3sg}.\\textsc{gen}",
+        "imtwordsbare": [
+            "peanuts",
+            "=Q",
+            "NOM=",
+            "PV:PFV:eat",
+            "=3SG.GEN"
+        ],
+        "imtwordshtml": [
+            "peanuts",
+            "=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">nom</span>=",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:eat",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "peanuts",
+            "=\\textsc{q}",
+            "\\textsc{nom}=",
+            "\\textsc{pv}:\\textsc{pfv}:eat",
+            "=\\textsc{3sg}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Mani    =ba  ang=  k{\\USSmaller}in{\\USGreater}ain  =niya{\\USQMark}",
+        "srcwordsbare": [
+            "Mani",
+            "=ba",
+            "ang=",
+            "k{\\USSmaller}in{\\USGreater}ain",
+            "=niya{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Mani",
+            "=ba",
+            "ang=",
+            "k{\\USSmaller}in{\\USGreater}ain",
+            "=niya{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Mani",
+            "=ba",
+            "ang=",
+            "k{\\USSmaller}in{\\USGreater}ain",
+            "=niya{\\USQMark}"
+        ],
+        "trs": "Did she eat peanuts?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-922201",
+        "categories": [
+            "3sg",
+            "gen",
+            "neg",
+            "nom",
+            "pfv",
+            "pv"
+        ],
+        "clength": 60,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{neg}  noodles  \\textsc{nom}=  \\textsc{pv}:\\textsc{pfv}:eat  =\\textsc{3sg}.\\textsc{gen}",
+        "imtwordsbare": [
+            "NEG",
+            "noodles",
+            "NOM=",
+            "PV:PFV:eat",
+            "=3SG.GEN"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg</span>",
+            "noodles",
+            "<span class=\"sc\">nom</span>=",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:eat",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg}",
+            "noodles",
+            "\\textsc{nom}=",
+            "\\textsc{pv}:\\textsc{pfv}:eat",
+            "=\\textsc{3sg}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Hindi.  Mami    ang=  k{\\USSmaller}in{\\USGreater}ain  =niya.",
+        "srcwordsbare": [
+            "Hindi.",
+            "Mami",
+            "ang=",
+            "k{\\USSmaller}in{\\USGreater}ain",
+            "=niya."
+        ],
+        "srcwordshtml": [
+            "Hindi.",
+            "Mami",
+            "ang=",
+            "k{\\USSmaller}in{\\USGreater}ain",
+            "=niya."
+        ],
+        "srcwordstex": [
+            "Hindi.",
+            "Mami",
+            "ang=",
+            "k{\\USSmaller}in{\\USGreater}ain",
+            "=niya."
+        ],
+        "trs": "No. She ate noodles.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--30816",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 68,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  \\textsc{pv}:\\textsc{pfv}:do  \\textsc{p.gen} Mama  there",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "PV:PFV:do",
+            "p.gen",
+            "Mama",
+            "there"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:do",
+            "<span class=\"sc\">p.gen</span>",
+            "Mama",
+            "there"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "\\textsc{pv}:\\textsc{pfv}:do",
+            "\\textsc{p.gen}",
+            "Mama",
+            "there"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  g{\\USSmaller}in{\\USGreater}awa  ni=  Mama  doon{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama",
+            "doon{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama",
+            "doon{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "g{\\USSmaller}in{\\USGreater}awa",
+            "ni=",
+            "Mama",
+            "doon{\\USQMark}"
+        ],
+        "trs": "What did Mama do there?",
+        "wlength": 6
+    },
+    {
+        "ID": "nagaya--43066",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 53,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{av}:buy  =\\textsc{3sg}.\\textsc{nom} \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "AV:buy",
+            "=3SG.NOM",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>:buy",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}:buy",
+            "=\\textsc{3sg}.\\textsc{nom}",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "B{\\USSmaller}um{\\USGreater}ili  =siya    nang=  mami.",
+        "srcwordsbare": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "trs": "She bought noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya-303095",
+        "categories": [
+            "2sg",
+            "gen",
+            "lk",
+            "nom"
+        ],
+        "clength": 44,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  favorite  \\textsc{2sg}.\\textsc{gen}=\\textsc{lk}  food",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "favorite",
+            "2SG.GEN=LK",
+            "food"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "favorite",
+            "<span class=\"sc\">2sg</span>.<span class=\"sc\">gen</span>=<span class=\"sc\">lk</span>",
+            "food"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "favorite",
+            "\\textsc{2sg}.\\textsc{gen}=\\textsc{lk}",
+            "food"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =ng  paborito  mo=ng  pagkian{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=ng",
+            "paborito",
+            "mo=ng",
+            "pagkian{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=ng",
+            "paborito",
+            "mo=ng",
+            "pagkian{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=ng",
+            "paborito",
+            "mo=ng",
+            "pagkian{\\USQMark}"
+        ],
+        "trs": "What is your favorite food?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-210772",
+        "categories": [
+            "1sg",
+            "gen",
+            "nom"
+        ],
+        "clength": 27,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "favorite  =\\textsc{1sg}.\\textsc{gen}  \\textsc{nom}=  noodles",
+        "imtwordsbare": [
+            "favorite",
+            "=1SG.GEN",
+            "NOM=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "favorite",
+            "=<span class=\"sc\">1sg</span>.<span class=\"sc\">gen</span>",
+            "<span class=\"sc\">nom</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "favorite",
+            "=\\textsc{1sg}.\\textsc{gen}",
+            "\\textsc{nom}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Paborito  =ko    ang=  mami",
+        "srcwordsbare": [
+            "Paborito",
+            "=ko",
+            "ang=",
+            "mami"
+        ],
+        "srcwordshtml": [
+            "Paborito",
+            "=ko",
+            "ang=",
+            "mami"
+        ],
+        "srcwordstex": [
+            "Paborito",
+            "=ko",
+            "ang=",
+            "mami"
+        ],
+        "trs": "Noodles are my favorite.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--29407",
+        "categories": [
+            "av",
+            "nom",
+            "pfv"
+        ],
+        "clength": 30,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  \\textsc{av}:\\textsc{pfv}:happen",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "AV:PFV:happen"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">av</span>:<span class=\"sc\">pfv</span>:happen"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "\\textsc{av}:\\textsc{pfv}:happen"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  nang-yari{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "nang-yari{\\USQMark}"
+        ],
+        "trs": "What happened?",
+        "wlength": 3
+    },
+    {
+        "ID": "nagaya--43066",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 53,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{av}:buy    =\\textsc{3sg}.\\textsc{nom} \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "AV:buy",
+            "=3SG.NOM",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>:buy",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}:buy",
+            "=\\textsc{3sg}.\\textsc{nom}",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "B{\\USSmaller}um{\\USGreater}ili  =siya    nang=  mami.",
+        "srcwordsbare": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "trs": "She bought noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya-385391",
+        "categories": [
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 65,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "who  \\textsc{nom}=  \\textsc{av}:buy    \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "who",
+            "NOM=",
+            "AV:buy",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "who",
+            "<span class=\"sc\">nom</span>=",
+            "<span class=\"sc\">av</span>:buy",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "who",
+            "\\textsc{nom}=",
+            "\\textsc{av}:buy",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Sino  ang=  b{\\USSmaller}um{\\USGreater}ili  nang=  mami{\\USQMark}",
+        "srcwordsbare": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Sino",
+            "ang=",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "trs": "Who bought noodles?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--20887",
+        "categories": [
+            "av",
+            "gen",
+            "nom",
+            "p"
+        ],
+        "clength": 66,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{av}:buy  \\textsc{p}.\\textsc{nom}=  Mama  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "AV:buy",
+            "P.NOM=",
+            "Mama",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>:buy",
+            "<span class=\"sc\">p</span>.<span class=\"sc\">nom</span>=",
+            "Mama",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}:buy",
+            "\\textsc{p}.\\textsc{nom}=",
+            "Mama",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "B{\\USSmaller}um{\\USGreater}ili  si=    Mama  nang=  mami{\\USQMark}",
+        "srcwordsbare": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "trs": "Mama bought noodles.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--22292",
+        "categories": [
+            "gen",
+            "nom",
+            "p",
+            "pfv",
+            "pv"
+        ],
+        "clength": 62,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "what  =\\textsc{nom}  \\textsc{pv}:\\textsc{pfv}:buy  \\textsc{p}.\\textsc{gen}=  Mama",
+        "imtwordsbare": [
+            "what",
+            "=NOM",
+            "PV:PFV:buy",
+            "P.GEN=",
+            "Mama"
+        ],
+        "imtwordshtml": [
+            "what",
+            "=<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:buy",
+            "<span class=\"sc\">p</span>.<span class=\"sc\">gen</span>=",
+            "Mama"
+        ],
+        "imtwordstex": [
+            "what",
+            "=\\textsc{nom}",
+            "\\textsc{pv}:\\textsc{pfv}:buy",
+            "\\textsc{p}.\\textsc{gen}=",
+            "Mama"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ano  =\u2019ng  b{\\USSmaller}in{\\USGreater}ili  ni=  Mama{\\USQMark}",
+        "srcwordsbare": [
+            "Ano",
+            "=\u2019ng",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ano",
+            "=\u2019ng",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ano",
+            "=\u2019ng",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "ni=",
+            "Mama{\\USQMark}"
+        ],
+        "trs": "What did Mama buy?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya--23060",
+        "categories": [
+            "3sg",
+            "gen",
+            "nom",
+            "pfv",
+            "pv"
+        ],
+        "clength": 52,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "noodles  \\textsc{nom}=  \\textsc{pv}:\\textsc{pfv}:buy  =\\textsc{3sg}.\\textsc{gen}",
+        "imtwordsbare": [
+            "noodles",
+            "NOM=",
+            "PV:PFV:buy",
+            "=3SG.GEN"
+        ],
+        "imtwordshtml": [
+            "noodles",
+            "<span class=\"sc\">nom</span>=",
+            "<span class=\"sc\">pv</span>:<span class=\"sc\">pfv</span>:buy",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "noodles",
+            "\\textsc{nom}=",
+            "\\textsc{pv}:\\textsc{pfv}:buy",
+            "=\\textsc{3sg}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Mami    ang=  b{\\USSmaller}in{\\USGreater}ili  =niya.",
+        "srcwordsbare": [
+            "Mami",
+            "ang=",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "=niya."
+        ],
+        "srcwordshtml": [
+            "Mami",
+            "ang=",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "=niya."
+        ],
+        "srcwordstex": [
+            "Mami",
+            "ang=",
+            "b{\\USSmaller}in{\\USGreater}ili",
+            "=niya."
+        ],
+        "trs": "She bought noodles.",
+        "wlength": 4
+    },
+    {
+        "ID": "nagaya--68921",
+        "categories": [
+            "3pl",
+            "adj",
+            "gen",
+            "nom",
+            "q"
+        ],
+        "clength": 44,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{adj}-delicious  =\\textsc{q}  \\textsc{nom}=  noodles  =\\textsc{3pl}.\\textsc{gen}",
+        "imtwordsbare": [
+            "ADJ-delicious",
+            "=Q",
+            "NOM=",
+            "noodles",
+            "=3PL.GEN"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">adj</span>-delicious",
+            "=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">nom</span>=",
+            "noodles",
+            "=<span class=\"sc\">3pl</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{adj}-delicious",
+            "=\\textsc{q}",
+            "\\textsc{nom}=",
+            "noodles",
+            "=\\textsc{3pl}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Ma-sarap  =ba  ang=  mami    =nila{\\USQMark}",
+        "srcwordsbare": [
+            "Ma-sarap",
+            "=ba",
+            "ang=",
+            "mami",
+            "=nila{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "Ma-sarap",
+            "=ba",
+            "ang=",
+            "mami",
+            "=nila{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "Ma-sarap",
+            "=ba",
+            "ang=",
+            "mami",
+            "=nila{\\USQMark}"
+        ],
+        "trs": "Are their noodles delicious?",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-177685",
+        "categories": [
+            "3pl",
+            "adj",
+            "gen",
+            "nom"
+        ],
+        "clength": 34,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "yes  \\textsc{adj}-delicous  \\textsc{nom}=  noodles  =\\textsc{3pl}.\\textsc{gen}",
+        "imtwordsbare": [
+            "yes",
+            "ADJ-delicous",
+            "NOM=",
+            "noodles",
+            "=3PL.GEN"
+        ],
+        "imtwordshtml": [
+            "yes",
+            "<span class=\"sc\">adj</span>-delicous",
+            "<span class=\"sc\">nom</span>=",
+            "noodles",
+            "=<span class=\"sc\">3pl</span>.<span class=\"sc\">gen</span>"
+        ],
+        "imtwordstex": [
+            "yes",
+            "\\textsc{adj}-delicous",
+            "\\textsc{nom}=",
+            "noodles",
+            "=\\textsc{3pl}.\\textsc{gen}"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Oo  Ma-sarap  ang=  mami    =nila.",
+        "srcwordsbare": [
+            "Oo",
+            "Ma-sarap",
+            "ang=",
+            "mami",
+            "=nila."
+        ],
+        "srcwordshtml": [
+            "Oo",
+            "Ma-sarap",
+            "ang=",
+            "mami",
+            "=nila."
+        ],
+        "srcwordstex": [
+            "Oo",
+            "Ma-sarap",
+            "ang=",
+            "mami",
+            "=nila."
+        ],
+        "trs": "Yes, their noodles are delicious.",
+        "wlength": 5
+    },
+    {
+        "ID": "nagaya-542235",
+        "categories": [
+            "av",
+            "gen",
+            "nom",
+            "p",
+            "q"
+        ],
+        "clength": 71,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "\\textsc{av}:buy  =\\textsc{q} \\textsc{p}.\\textsc{nom}=  Mama  \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "AV:buy",
+            "=Q",
+            "P.NOM=",
+            "Mama",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">av</span>:buy",
+            "=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">p</span>.<span class=\"sc\">nom</span>=",
+            "Mama",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "\\textsc{av}:buy",
+            "=\\textsc{q}",
+            "\\textsc{p}.\\textsc{nom}=",
+            "Mama",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "B{\\USSmaller}um{\\USGreater}ili  =ba  si=    Mama  nang=  mami{\\USQMark}",
+        "srcwordsbare": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=ba",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordshtml": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=ba",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "srcwordstex": [
+            "B{\\USSmaller}um{\\USGreater}ili",
+            "=ba",
+            "si=",
+            "Mama",
+            "nang=",
+            "mami{\\USQMark}"
+        ],
+        "trs": "Did Mama buy noodles?",
+        "wlength": 6
+    },
+    {
+        "ID": "nagaya-591247",
+        "categories": [
+            "3sg",
+            "av",
+            "gen",
+            "nom"
+        ],
+        "clength": 58,
+        "filename": "201/chapters/nagaya.tex",
+        "imt": "yes  \\textsc{av}:buy  =\\textsc{3sg}.\\textsc{nom} \\textsc{gen}=  noodles",
+        "imtwordsbare": [
+            "yes",
+            "AV:buy",
+            "=3SG.NOM",
+            "GEN=",
+            "noodles"
+        ],
+        "imtwordshtml": [
+            "yes",
+            "<span class=\"sc\">av</span>:buy",
+            "=<span class=\"sc\">3sg</span>.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">gen</span>=",
+            "noodles"
+        ],
+        "imtwordstex": [
+            "yes",
+            "\\textsc{av}:buy",
+            "=\\textsc{3sg}.\\textsc{nom}",
+            "\\textsc{gen}=",
+            "noodles"
+        ],
+        "language": "201/chapters/nagaya.tex",
+        "src": "Oo,  b{\\USSmaller}um{\\USGreater}ili  =siya    nang=  mami.",
+        "srcwordsbare": [
+            "Oo,",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordshtml": [
+            "Oo,",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "srcwordstex": [
+            "Oo,",
+            "b{\\USSmaller}um{\\USGreater}ili",
+            "=siya",
+            "nang=",
+            "mami."
+        ],
+        "trs": "Yes, she bought noodles.",
+        "wlength": 5
+    }
+]

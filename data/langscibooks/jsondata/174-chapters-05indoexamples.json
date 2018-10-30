@@ -1,0 +1,2959 @@
+[
+    {
+        "ID": "05indo-833735",
+        "categories": [
+            "acc",
+            "m",
+            "pn"
+        ],
+        "clength": 44,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{pn}  has  a.\\textsc{acc.m}  dog  bought",
+        "imtwordsbare": [
+            "PN",
+            "has",
+            "a.acc.m",
+            "dog",
+            "bought"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "has",
+            "a.<span class=\"sc\">acc.m</span>",
+            "dog",
+            "bought"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "has",
+            "a.\\textsc{acc.m}",
+            "dog",
+            "bought"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "Peter \\textbf{{hat}} einen    Hund  gekauft.",
+        "srcwordsbare": [
+            "Peter",
+            "{hat}",
+            "einen",
+            "Hund",
+            "gekauft."
+        ],
+        "srcwordshtml": [
+            "Peter",
+            "<span class=\"bf\">{hat</span>}",
+            "einen",
+            "Hund",
+            "gekauft."
+        ],
+        "srcwordstex": [
+            "Peter",
+            "\\textbf{{hat}}",
+            "einen",
+            "Hund",
+            "gekauft."
+        ],
+        "trs": "Peter bought a dog.",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-376261",
+        "categories": [
+            "acc",
+            "m",
+            "pn"
+        ],
+        "clength": 45,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "has  \\textsc{pn}  a.\\textsc{acc.m}  dog  bought",
+        "imtwordsbare": [
+            "has",
+            "PN",
+            "a.acc.m",
+            "dog",
+            "bought"
+        ],
+        "imtwordshtml": [
+            "has",
+            "<span class=\"sc\">pn</span>",
+            "a.<span class=\"sc\">acc.m</span>",
+            "dog",
+            "bought"
+        ],
+        "imtwordstex": [
+            "has",
+            "\\textsc{pn}",
+            "a.\\textsc{acc.m}",
+            "dog",
+            "bought"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{Hat}} Peter  einen    Hund  gekauft?",
+        "srcwordsbare": [
+            "{Hat}",
+            "Peter",
+            "einen",
+            "Hund",
+            "gekauft?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Hat</span>}",
+            "Peter",
+            "einen",
+            "Hund",
+            "gekauft?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Hat}}",
+            "Peter",
+            "einen",
+            "Hund",
+            "gekauft?"
+        ],
+        "trs": "Did Peter buy a dog?",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo--25330",
+        "categories": [
+            "",
+            "f",
+            "gen",
+            "inf",
+            "prs",
+            "sg"
+        ],
+        "clength": 76,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "know.\\textsc{prs}.2\\textsc{sg}  2\\textsc{sg}  what  2\\textsc{sg.gen.f}  wife  miss.\\textsc{inf}  do.\\textsc{prs.}3\\textsc{sg}",
+        "imtwordsbare": [
+            "know.PRS.2SG",
+            "2SG",
+            "what",
+            "2sg.gen.f",
+            "wife",
+            "miss.INF",
+            "do.prs.3SG"
+        ],
+        "imtwordshtml": [
+            "know.<span class=\"sc\">prs</span>.2<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>",
+            "what",
+            "2<span class=\"sc\">sg.gen.f</span>",
+            "wife",
+            "miss.<span class=\"sc\">inf</span>",
+            "do.<span class=\"sc\">prs.</span>3<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "know.\\textsc{prs}.2\\textsc{sg}",
+            "2\\textsc{sg}",
+            "what",
+            "2\\textsc{sg.gen.f}",
+            "wife",
+            "miss.\\textsc{inf}",
+            "do.\\textsc{prs.}3\\textsc{sg}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{v\u00e4itst}} dyy  va\\textsuperscript{u}t  diin\u0259    fryy  feel\u0259    deed?",
+        "srcwordsbare": [
+            "{v\u00e4itst}",
+            "dyy",
+            "vaut",
+            "diin\u0259",
+            "fryy",
+            "feel\u0259",
+            "deed?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{v\u00e4itst</span>}",
+            "dyy",
+            "va<span class=\"superscript\">u</span>t",
+            "diin\u0259",
+            "fryy",
+            "feel\u0259",
+            "deed?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{v\u00e4itst}}",
+            "dyy",
+            "va\\textsuperscript{u}t",
+            "diin\u0259",
+            "fryy",
+            "feel\u0259",
+            "deed?"
+        ],
+        "trs": "Do you know what problem your wife has?\u2019\\footnote{Cf. non-standard \\ili{German} (constructed) \\textit{Wei\u00dft du, was deiner Frau fehlen tut?}} \\citep[170]{Jedig2014}",
+        "wlength": 7
+    },
+    {
+        "ID": "05indo--28183",
+        "categories": [
+            "pn"
+        ],
+        "clength": 33,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{pn}  has    bought    a  dog",
+        "imtwordsbare": [
+            "PN",
+            "has",
+            "bought",
+            "a",
+            "dog"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "has",
+            "bought",
+            "a",
+            "dog"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "has",
+            "bought",
+            "a",
+            "dog"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "moj\u0161e  hot    gekojft    a  hunt.",
+        "srcwordsbare": [
+            "moj\u0161e",
+            "hot",
+            "gekojft",
+            "a",
+            "hunt."
+        ],
+        "srcwordshtml": [
+            "moj\u0161e",
+            "hot",
+            "gekojft",
+            "a",
+            "hunt."
+        ],
+        "srcwordstex": [
+            "moj\u0161e",
+            "hot",
+            "gekojft",
+            "a",
+            "hunt."
+        ],
+        "trs": "Moses bought a dog.",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-681825",
+        "categories": [
+            "pn",
+            "q"
+        ],
+        "clength": 55,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{q}  has  \\textsc{pn}  bought    a  dog",
+        "imtwordsbare": [
+            "Q",
+            "has",
+            "PN",
+            "bought",
+            "a",
+            "dog"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "has",
+            "<span class=\"sc\">pn</span>",
+            "bought",
+            "a",
+            "dog"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "has",
+            "\\textsc{pn}",
+            "bought",
+            "a",
+            "dog"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{ci}} \\textbf{{hot}} moj\u0161e  gekojft    a  hunt?",
+        "srcwordsbare": [
+            "{ci}",
+            "{hot}",
+            "moj\u0161e",
+            "gekojft",
+            "a",
+            "hunt?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{ci</span>}",
+            "<span class=\"bf\">{hot</span>}",
+            "moj\u0161e",
+            "gekojft",
+            "a",
+            "hunt?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{ci}}",
+            "\\textbf{{hot}}",
+            "moj\u0161e",
+            "gekojft",
+            "a",
+            "hunt?"
+        ],
+        "trs": "Did Moses buy a dog?\u2019 (\\citealt{SadockZwicky1985}: 181)",
+        "wlength": 6
+    },
+    {
+        "ID": "05indo-566223",
+        "categories": [
+            "ind",
+            "prs",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "be.\\textsc{prs.ind}.2\\textsc{sg}  2\\textsc{sg}  crazy",
+        "imtwordsbare": [
+            "be.prs.ind.2SG",
+            "2SG",
+            "crazy"
+        ],
+        "imtwordshtml": [
+            "be.<span class=\"sc\">prs.ind</span>.2<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>",
+            "crazy"
+        ],
+        "imtwordstex": [
+            "be.\\textsc{prs.ind}.2\\textsc{sg}",
+            "2\\textsc{sg}",
+            "crazy"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{bist}} du  meshuge?",
+        "srcwordsbare": [
+            "{bist}",
+            "du",
+            "meshuge?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{bist</span>}",
+            "du",
+            "meshuge?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{bist}}",
+            "du",
+            "meshuge?"
+        ],
+        "trs": "Are you crazy?\u2019 (\\citealt{JacobsPrincevanderAuwera1994}: 408)",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--39902",
+        "categories": [
+            "ind",
+            "prs",
+            "sg"
+        ],
+        "clength": 29,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "be.\\textsc{prs.ind}.2\\textsc{sg}  2\\textsc{sg}  crazy",
+        "imtwordsbare": [
+            "be.prs.ind.2SG",
+            "2SG",
+            "crazy"
+        ],
+        "imtwordshtml": [
+            "be.<span class=\"sc\">prs.ind</span>.2<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>",
+            "crazy"
+        ],
+        "imtwordstex": [
+            "be.\\textsc{prs.ind}.2\\textsc{sg}",
+            "2\\textsc{sg}",
+            "crazy"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{Bist}} du  verr\u00fcckt?",
+        "srcwordsbare": [
+            "{Bist}",
+            "du",
+            "verr\u00fcckt?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Bist</span>}",
+            "du",
+            "verr\u00fcckt?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Bist}}",
+            "du",
+            "verr\u00fcckt?"
+        ],
+        "trs": "Are you crazy?\u2019\\footnote{Colloquially, \\ili{German} also has the adjective \\textit{meschugge} \u2018crazy\u2019.}",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo-768721",
+        "categories": [
+            "",
+            "dat",
+            "f",
+            "prs",
+            "sg"
+        ],
+        "clength": 40,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "go\\textsc{.prs.}2\\textsc{sg}  2\\textsc{sg}  to.the.\\textsc{f.sg.dat}  school",
+        "imtwordsbare": [
+            "go.prs.2SG",
+            "2SG",
+            "to.the.f.sg.dat",
+            "school"
+        ],
+        "imtwordshtml": [
+            "go<span class=\"sc\">.prs.</span>2<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>",
+            "to.the.<span class=\"sc\">f.sg.dat</span>",
+            "school"
+        ],
+        "imtwordstex": [
+            "go\\textsc{.prs.}2\\textsc{sg}",
+            "2\\textsc{sg}",
+            "to.the.\\textsc{f.sg.dat}",
+            "school"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "Gehst    du  \\ulp{zur}{25} \\ule{Schule}?",
+        "srcwordsbare": [
+            "Gehst",
+            "du",
+            "\\ulp{zur}{25}",
+            "\\ule{Schule}?"
+        ],
+        "srcwordshtml": [
+            "Gehst",
+            "du",
+            "\\ulp{zur}{25}",
+            "\\ule{Schule}?"
+        ],
+        "srcwordstex": [
+            "Gehst",
+            "du",
+            "\\ulp{zur}{25}",
+            "\\ule{Schule}?"
+        ],
+        "trs": "Are you going \\textit{to school}?",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo-645944",
+        "categories": [
+            "m",
+            "nom"
+        ],
+        "clength": 35,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "where  is  the.\\textsc{m.nom}  person",
+        "imtwordsbare": [
+            "where",
+            "is",
+            "the.m.nom",
+            "person"
+        ],
+        "imtwordshtml": [
+            "where",
+            "is",
+            "the.<span class=\"sc\">m.nom</span>",
+            "person"
+        ],
+        "imtwordstex": [
+            "where",
+            "is",
+            "the.\\textsc{m.nom}",
+            "person"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{Wo}} is(t)  der    Mensch?",
+        "srcwordsbare": [
+            "{Wo}",
+            "is(t)",
+            "der",
+            "Mensch?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Wo</span>}",
+            "is(t)",
+            "der",
+            "Mensch?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Wo}}",
+            "is(t)",
+            "der",
+            "Mensch?"
+        ],
+        "trs": "Where is the person?",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo--43823",
+        "categories": [],
+        "clength": 26,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "well  and  why",
+        "imtwordsbare": [
+            "well",
+            "and",
+            "why"
+        ],
+        "imtwordshtml": [
+            "well",
+            "and",
+            "why"
+        ],
+        "imtwordstex": [
+            "well",
+            "and",
+            "why"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "Na,  und \\textbf{{warum}}?",
+        "srcwordsbare": [
+            "Na,",
+            "und",
+            "{warum}?"
+        ],
+        "srcwordshtml": [
+            "Na,",
+            "und",
+            "<span class=\"bf\">{warum</span>}?"
+        ],
+        "srcwordstex": [
+            "Na,",
+            "und",
+            "\\textbf{{warum}}?"
+        ],
+        "trs": "Well, why then?",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--37891",
+        "categories": [
+            "m",
+            "nom"
+        ],
+        "clength": 32,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "where  is  the.\\textsc{m.nom}  person",
+        "imtwordsbare": [
+            "where",
+            "is",
+            "the.m.nom",
+            "person"
+        ],
+        "imtwordshtml": [
+            "where",
+            "is",
+            "the.<span class=\"sc\">m.nom</span>",
+            "person"
+        ],
+        "imtwordstex": [
+            "where",
+            "is",
+            "the.\\textsc{m.nom}",
+            "person"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{vu}} iz  der    mentsh?",
+        "srcwordsbare": [
+            "{vu}",
+            "iz",
+            "der",
+            "mentsh?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{vu</span>}",
+            "iz",
+            "der",
+            "mentsh?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{vu}}",
+            "iz",
+            "der",
+            "mentsh?"
+        ],
+        "trs": "Where is the person?\u2019 (\\citealt{JacobsPrincevanderAuwera1994}: 408)",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo--78778",
+        "categories": [],
+        "clength": 26,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "well  and  why",
+        "imtwordsbare": [
+            "well",
+            "and",
+            "why"
+        ],
+        "imtwordshtml": [
+            "well",
+            "and",
+            "why"
+        ],
+        "imtwordstex": [
+            "well",
+            "and",
+            "why"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "na,  on \\textbf{{vu:r\u01ebm}}?",
+        "srcwordsbare": [
+            "na,",
+            "on",
+            "{vu:r\u01ebm}?"
+        ],
+        "srcwordshtml": [
+            "na,",
+            "on",
+            "<span class=\"bf\">{vu:r\u01ebm</span>}?"
+        ],
+        "srcwordstex": [
+            "na,",
+            "on",
+            "\\textbf{{vu:r\u01ebm}}?"
+        ],
+        "trs": "Well, why then?\u2019 \\citep[170]{Jedig2014}",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo-187206",
+        "categories": [
+            "ind",
+            "prs",
+            "sg"
+        ],
+        "clength": 48,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "want.\\textsc{prs}.\\textsc{ind}.2\\textsc{sg}  2\\textsc{sg}  tea  or  coffee",
+        "imtwordsbare": [
+            "want.PRS.IND.2SG",
+            "2SG",
+            "tea",
+            "or",
+            "coffee"
+        ],
+        "imtwordshtml": [
+            "want.<span class=\"sc\">prs</span>.<span class=\"sc\">ind</span>.2<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>",
+            "tea",
+            "or",
+            "coffee"
+        ],
+        "imtwordstex": [
+            "want.\\textsc{prs}.\\textsc{ind}.2\\textsc{sg}",
+            "2\\textsc{sg}",
+            "tea",
+            "or",
+            "coffee"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "modality": "volitive",
+        "src": "\\textbf{{Magst}} du  Tee \\textbf{{oder}} Kaffee?",
+        "srcwordsbare": [
+            "{Magst}",
+            "du",
+            "Tee",
+            "{oder}",
+            "Kaffee?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Magst</span>}",
+            "du",
+            "Tee",
+            "<span class=\"bf\">{oder</span>}",
+            "Kaffee?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Magst}}",
+            "du",
+            "Tee",
+            "\\textbf{{oder}}",
+            "Kaffee?"
+        ],
+        "trs": "Do you want tea or coffee?",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-479397",
+        "categories": [
+            "ind",
+            "prs",
+            "sg"
+        ],
+        "clength": 58,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "want.\\textsc{prs}.\\textsc{ind}.2\\textsc{sg}  2\\textsc{sg}  tea  or  not",
+        "imtwordsbare": [
+            "want.PRS.IND.2SG",
+            "2SG",
+            "tea",
+            "or",
+            "not"
+        ],
+        "imtwordshtml": [
+            "want.<span class=\"sc\">prs</span>.<span class=\"sc\">ind</span>.2<span class=\"sc\">sg</span>",
+            "2<span class=\"sc\">sg</span>",
+            "tea",
+            "or",
+            "not"
+        ],
+        "imtwordstex": [
+            "want.\\textsc{prs}.\\textsc{ind}.2\\textsc{sg}",
+            "2\\textsc{sg}",
+            "tea",
+            "or",
+            "not"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "modality": "volitive",
+        "src": "\\textbf{{Magst}} du  Tee \\textbf{{oder}} \\textbf{{nicht}}?",
+        "srcwordsbare": [
+            "{Magst}",
+            "du",
+            "Tee",
+            "{oder}",
+            "{nicht}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Magst</span>}",
+            "du",
+            "Tee",
+            "<span class=\"bf\">{oder</span>}",
+            "<span class=\"bf\">{nicht</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Magst}}",
+            "du",
+            "Tee",
+            "\\textbf{{oder}}",
+            "\\textbf{{nicht}}?"
+        ],
+        "trs": "Do you want tea or not?",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-651007",
+        "categories": [
+            "ind",
+            "prs",
+            "sg"
+        ],
+        "clength": 49,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg}  want.\\textsc{prs}.\\textsc{ind}.2\\textsc{sg}  coffee  or",
+        "imtwordsbare": [
+            "2SG",
+            "want.PRS.IND.2SG",
+            "coffee",
+            "or"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "want.<span class=\"sc\">prs</span>.<span class=\"sc\">ind</span>.2<span class=\"sc\">sg</span>",
+            "coffee",
+            "or"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "want.\\textsc{prs}.\\textsc{ind}.2\\textsc{sg}",
+            "coffee",
+            "or"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "modality": "volitive",
+        "src": "\\textbf{{Du}} magst      Kaffee, \\textbf{{oder}}?",
+        "srcwordsbare": [
+            "{Du}",
+            "magst",
+            "Kaffee,",
+            "{oder}?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Du</span>}",
+            "magst",
+            "Kaffee,",
+            "<span class=\"bf\">{oder</span>}?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Du}}",
+            "magst",
+            "Kaffee,",
+            "\\textbf{{oder}}?"
+        ],
+        "trs": "You want coffee, right?",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo-396511",
+        "categories": [
+            "",
+            "f",
+            "gen",
+            "ind",
+            "inf",
+            "prs",
+            "sg"
+        ],
+        "clength": 68,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "if  1\\textsc{sg}  3\\textsc{sg}.\\textsc{gen}.\\textsc{f}  wife  can.?\\textsc{ind}.\\textsc{prs.}1\\textsc{sg}  cure.\\textsc{inf}",
+        "imtwordsbare": [
+            "if",
+            "1SG",
+            "3SG.GEN.F",
+            "wife",
+            "can.?IND.prs.1SG",
+            "cure.INF"
+        ],
+        "imtwordshtml": [
+            "if",
+            "1<span class=\"sc\">sg</span>",
+            "3<span class=\"sc\">sg</span>.<span class=\"sc\">gen</span>.<span class=\"sc\">f</span>",
+            "wife",
+            "can.?<span class=\"sc\">ind</span>.<span class=\"sc\">prs.</span>1<span class=\"sc\">sg</span>",
+            "cure.<span class=\"sc\">inf</span>"
+        ],
+        "imtwordstex": [
+            "if",
+            "1\\textsc{sg}",
+            "3\\textsc{sg}.\\textsc{gen}.\\textsc{f}",
+            "wife",
+            "can.?\\textsc{ind}.\\textsc{prs.}1\\textsc{sg}",
+            "cure.\\textsc{inf}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{ous}} \u00e4t\u2018  siin\u0259    fryy  ka\\textsuperscript{u}n      heil\u0259",
+        "srcwordsbare": [
+            "{ous}",
+            "\u00e4t\u2018",
+            "siin\u0259",
+            "fryy",
+            "kaun",
+            "heil\u0259"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{ous</span>}",
+            "\u00e4t\u2018",
+            "siin\u0259",
+            "fryy",
+            "ka<span class=\"superscript\">u</span>n",
+            "heil\u0259"
+        ],
+        "srcwordstex": [
+            "\\textbf{{ous}}",
+            "\u00e4t\u2018",
+            "siin\u0259",
+            "fryy",
+            "ka\\textsuperscript{u}n",
+            "heil\u0259"
+        ],
+        "trs": "whether I can cure his wife\u2019 \\citep[170]{Jedig2014}\\footnote{The \\isi{word order} of \\ili{Plautdiitsch} is also possible in \\ili{German} but sounds very archaic. A \\ili{German} equivalent would be something like the following: \\textit{ob ich seine Frau heilen kann}.}",
+        "wlength": 6
+    },
+    {
+        "ID": "05indo--26090",
+        "categories": [
+            "acc",
+            "ind",
+            "inf",
+            "prs",
+            "sg"
+        ],
+        "clength": 70,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "1\\textsc{sg}  ask.\\textsc{prs}.\\textsc{ind}.1\\textsc{sg}  1\\textsc{sg.acc}  if  it  perhaps rain.\\textsc{inf}  will.\\textsc{prs}.\\textsc{ind}.3\\textsc{sg}",
+        "imtwordsbare": [
+            "1SG",
+            "ask.PRS.IND.1SG",
+            "1sg.acc",
+            "if",
+            "it",
+            "perhaps",
+            "rain.INF",
+            "will.PRS.IND.3SG"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "ask.<span class=\"sc\">prs</span>.<span class=\"sc\">ind</span>.1<span class=\"sc\">sg</span>",
+            "1<span class=\"sc\">sg.acc</span>",
+            "if",
+            "it",
+            "perhaps",
+            "rain.<span class=\"sc\">inf</span>",
+            "will.<span class=\"sc\">prs</span>.<span class=\"sc\">ind</span>.3<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "ask.\\textsc{prs}.\\textsc{ind}.1\\textsc{sg}",
+            "1\\textsc{sg.acc}",
+            "if",
+            "it",
+            "perhaps",
+            "rain.\\textsc{inf}",
+            "will.\\textsc{prs}.\\textsc{ind}.3\\textsc{sg}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "(Ich  frage      mich,) \\textbf{{ob}} es \\textbf{wohl} regnen    wird.",
+        "srcwordsbare": [
+            "(Ich",
+            "frage",
+            "mich,)",
+            "{ob}",
+            "es",
+            "wohl",
+            "regnen",
+            "wird."
+        ],
+        "srcwordshtml": [
+            "(Ich",
+            "frage",
+            "mich,)",
+            "<span class=\"bf\">{ob</span>}",
+            "es",
+            "<span class=\"bf\">wohl</span>",
+            "regnen",
+            "wird."
+        ],
+        "srcwordstex": [
+            "(Ich",
+            "frage",
+            "mich,)",
+            "\\textbf{{ob}}",
+            "es",
+            "\\textbf{wohl}",
+            "regnen",
+            "wird."
+        ],
+        "trs": "I wonder whether it will rain.",
+        "wlength": 8
+    },
+    {
+        "ID": "05indo-342106",
+        "categories": [
+            "acc",
+            "ind",
+            "prs",
+            "sg"
+        ],
+        "clength": 74,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "1\\textsc{sg}  ask.\\textsc{prs}.\\textsc{ind}.1\\textsc{sg}  1\\textsc{sg.acc}  who  that  perhaps  is",
+        "imtwordsbare": [
+            "1SG",
+            "ask.PRS.IND.1SG",
+            "1sg.acc",
+            "who",
+            "that",
+            "perhaps",
+            "is"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg</span>",
+            "ask.<span class=\"sc\">prs</span>.<span class=\"sc\">ind</span>.1<span class=\"sc\">sg</span>",
+            "1<span class=\"sc\">sg.acc</span>",
+            "who",
+            "that",
+            "perhaps",
+            "is"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg}",
+            "ask.\\textsc{prs}.\\textsc{ind}.1\\textsc{sg}",
+            "1\\textsc{sg.acc}",
+            "who",
+            "that",
+            "perhaps",
+            "is"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "(Ich  frage      mich,) \\textbf{{wer}} das \\textbf{{wohl}} \\textbf{{ist}}?",
+        "srcwordsbare": [
+            "(Ich",
+            "frage",
+            "mich,)",
+            "{wer}",
+            "das",
+            "{wohl}",
+            "{ist}?"
+        ],
+        "srcwordshtml": [
+            "(Ich",
+            "frage",
+            "mich,)",
+            "<span class=\"bf\">{wer</span>}",
+            "das",
+            "<span class=\"bf\">{wohl</span>}",
+            "<span class=\"bf\">{ist</span>}?"
+        ],
+        "srcwordstex": [
+            "(Ich",
+            "frage",
+            "mich,)",
+            "\\textbf{{wer}}",
+            "das",
+            "\\textbf{{wohl}}",
+            "\\textbf{{ist}}?"
+        ],
+        "trs": "I wonder who that will be.",
+        "wlength": 7
+    },
+    {
+        "ID": "05indo-707871",
+        "categories": [
+            "m",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 50,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "answer.\\textsc{m}.\\textsc{sg}.\\textsc{pst}=\\textsc{q}  student    to  all  questions",
+        "imtwordsbare": [
+            "answer.M.SG.PST=Q",
+            "student",
+            "to",
+            "all",
+            "questions"
+        ],
+        "imtwordshtml": [
+            "answer.<span class=\"sc\">m</span>.<span class=\"sc\">sg</span>.<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>",
+            "student",
+            "to",
+            "all",
+            "questions"
+        ],
+        "imtwordstex": [
+            "answer.\\textsc{m}.\\textsc{sg}.\\textsc{pst}=\\textsc{q}",
+            "student",
+            "to",
+            "all",
+            "questions"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "otv\u00e9til=\\textbf{{li}} stud\u00e9nt    na  vs\u00e9  vopr\u00f3sy?",
+        "srcwordsbare": [
+            "otv\u00e9til={li}",
+            "stud\u00e9nt",
+            "na",
+            "vs\u00e9",
+            "vopr\u00f3sy?"
+        ],
+        "srcwordshtml": [
+            "otv\u00e9til=<span class=\"bf\">{li</span>}",
+            "stud\u00e9nt",
+            "na",
+            "vs\u00e9",
+            "vopr\u00f3sy?"
+        ],
+        "srcwordstex": [
+            "otv\u00e9til=\\textbf{{li}}",
+            "stud\u00e9nt",
+            "na",
+            "vs\u00e9",
+            "vopr\u00f3sy?"
+        ],
+        "trs": "Did the student answer all the questions?",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-836692",
+        "categories": [
+            "m",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 50,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "student=\\textsc{q}  answer.\\textsc{m}.\\textsc{sg}.\\textsc{pst}  to  all  questions",
+        "imtwordsbare": [
+            "student=Q",
+            "answer.M.SG.PST",
+            "to",
+            "all",
+            "questions"
+        ],
+        "imtwordshtml": [
+            "student=<span class=\"sc\">q</span>",
+            "answer.<span class=\"sc\">m</span>.<span class=\"sc\">sg</span>.<span class=\"sc\">pst</span>",
+            "to",
+            "all",
+            "questions"
+        ],
+        "imtwordstex": [
+            "student=\\textsc{q}",
+            "answer.\\textsc{m}.\\textsc{sg}.\\textsc{pst}",
+            "to",
+            "all",
+            "questions"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "stud\u00e9nt=\\textbf{li} otv\u00e9til      na  vs\u00e9  vopr\u00f3sy?",
+        "srcwordsbare": [
+            "stud\u00e9nt=li",
+            "otv\u00e9til",
+            "na",
+            "vs\u00e9",
+            "vopr\u00f3sy?"
+        ],
+        "srcwordshtml": [
+            "stud\u00e9nt=<span class=\"bf\">li</span>",
+            "otv\u00e9til",
+            "na",
+            "vs\u00e9",
+            "vopr\u00f3sy?"
+        ],
+        "srcwordstex": [
+            "stud\u00e9nt=\\textbf{li}",
+            "otv\u00e9til",
+            "na",
+            "vs\u00e9",
+            "vopr\u00f3sy?"
+        ],
+        "trs": "Was it the student who answered all the questions?\u2019 (\\citealt{SussexCubberley2006}: 359)",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo--47712",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{q}  healthy    2\\textsc{sg}",
+        "imtwordsbare": [
+            "Q",
+            "healthy",
+            "2SG"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "healthy",
+            "2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "healthy",
+            "2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{\u010dy}} zdor\u00f3vyj  t\u00fd?",
+        "srcwordsbare": [
+            "{\u010dy}",
+            "zdor\u00f3vyj",
+            "t\u00fd?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{\u010dy</span>}",
+            "zdor\u00f3vyj",
+            "t\u00fd?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{\u010dy}}",
+            "zdor\u00f3vyj",
+            "t\u00fd?"
+        ],
+        "trs": "Are you well?\u2019 (\\citealt{SussexCubberley2006}: 359)",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--91497",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 25,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{q}  2\\textsc{sg}  there  were",
+        "imtwordsbare": [
+            "Q",
+            "2SG",
+            "there",
+            "were"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "2<span class=\"sc\">sg</span>",
+            "there",
+            "were"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "2\\textsc{sg}",
+            "there",
+            "were"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{cy}} ty tam buv?",
+        "srcwordsbare": [
+            "{cy}",
+            "ty",
+            "tam",
+            "buv?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{cy</span>}",
+            "ty",
+            "tam",
+            "buv?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{cy}}",
+            "ty",
+            "tam",
+            "buv?"
+        ],
+        "trs": "Were you there?",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo--65131",
+        "categories": [
+            "sg"
+        ],
+        "clength": 11,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg}  were  there",
+        "imtwordsbare": [
+            "2SG",
+            "were",
+            "there"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "were",
+            "there"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "were",
+            "there"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "ty buv tam?",
+        "srcwordsbare": [
+            "ty",
+            "buv",
+            "tam?"
+        ],
+        "srcwordshtml": [
+            "ty",
+            "buv",
+            "tam?"
+        ],
+        "srcwordstex": [
+            "ty",
+            "buv",
+            "tam?"
+        ],
+        "trs": "Were you there?",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--53889",
+        "categories": [
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "were  2\\textsc{sg}  there",
+        "imtwordsbare": [
+            "were",
+            "2SG",
+            "there"
+        ],
+        "imtwordshtml": [
+            "were",
+            "2<span class=\"sc\">sg</span>",
+            "there"
+        ],
+        "imtwordstex": [
+            "were",
+            "2\\textsc{sg}",
+            "there"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{buv}} ty tam?",
+        "srcwordsbare": [
+            "{buv}",
+            "ty",
+            "tam?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{buv</span>}",
+            "ty",
+            "tam?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{buv}}",
+            "ty",
+            "tam?"
+        ],
+        "trs": "\\textit{Were} you there?",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--53569",
+        "categories": [
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "there  2\\textsc{sg}  were",
+        "imtwordsbare": [
+            "there",
+            "2SG",
+            "were"
+        ],
+        "imtwordshtml": [
+            "there",
+            "2<span class=\"sc\">sg</span>",
+            "were"
+        ],
+        "imtwordstex": [
+            "there",
+            "2\\textsc{sg}",
+            "were"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{tam}} ty buv?",
+        "srcwordsbare": [
+            "{tam}",
+            "ty",
+            "buv?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{tam</span>}",
+            "ty",
+            "buv?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{tam}}",
+            "ty",
+            "buv?"
+        ],
+        "trs": "Were you \\textit{there}?\u2019 \\citep[978]{Shevelov1993}\\z\\z",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--69848",
+        "categories": [],
+        "clength": 19,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "what  this",
+        "imtwordsbare": [
+            "what",
+            "this"
+        ],
+        "imtwordshtml": [
+            "what",
+            "this"
+        ],
+        "imtwordstex": [
+            "what",
+            "this"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{\u010dto}} eto?",
+        "srcwordsbare": [
+            "{\u010dto}",
+            "eto?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{\u010dto</span>}",
+            "eto?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{\u010dto}}",
+            "eto?"
+        ],
+        "trs": "What is this?\u2019 \\citep[23]{Comrie1984}",
+        "wlength": 2
+    },
+    {
+        "ID": "05indo--21046",
+        "categories": [
+            "sg"
+        ],
+        "clength": 21,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "where  2\\textsc{sg}  were",
+        "imtwordsbare": [
+            "where",
+            "2SG",
+            "were"
+        ],
+        "imtwordshtml": [
+            "where",
+            "2<span class=\"sc\">sg</span>",
+            "were"
+        ],
+        "imtwordstex": [
+            "where",
+            "2\\textsc{sg}",
+            "were"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{de}} ty buv?",
+        "srcwordsbare": [
+            "{de}",
+            "ty",
+            "buv?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{de</span>}",
+            "ty",
+            "buv?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{de}}",
+            "ty",
+            "buv?"
+        ],
+        "trs": "Where were you?\u2019 \\citep[979]{Shevelov1993}",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo-483962",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 42,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg}  were  at  theater    \\textsc{q}  at  museum",
+        "imtwordsbare": [
+            "2SG",
+            "were",
+            "at",
+            "theater",
+            "Q",
+            "at",
+            "museum"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "were",
+            "at",
+            "theater",
+            "<span class=\"sc\">q</span>",
+            "at",
+            "museum"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "were",
+            "at",
+            "theater",
+            "\\textsc{q}",
+            "at",
+            "museum"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "ty buv u teatri, \\textbf{{\u010dy}} v muzej{i?}",
+        "srcwordsbare": [
+            "ty",
+            "buv",
+            "u",
+            "teatri,",
+            "{\u010dy}",
+            "v",
+            "muzej{i?}"
+        ],
+        "srcwordshtml": [
+            "ty",
+            "buv",
+            "u",
+            "teatri,",
+            "<span class=\"bf\">{\u010dy</span>}",
+            "v",
+            "muzej{i?}"
+        ],
+        "srcwordstex": [
+            "ty",
+            "buv",
+            "u",
+            "teatri,",
+            "\\textbf{{\u010dy}}",
+            "v",
+            "muzej{i?}"
+        ],
+        "trs": "Were you at the theater or in the museum?\u2019 \\citep[978]{Shevelov1993}",
+        "wlength": 7
+    },
+    {
+        "ID": "05indo-190281",
+        "categories": [
+            "pl"
+        ],
+        "clength": 37,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{pl}  want  tea    or  coffee",
+        "imtwordsbare": [
+            "2PL",
+            "want",
+            "tea",
+            "or",
+            "coffee"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">pl</span>",
+            "want",
+            "tea",
+            "or",
+            "coffee"
+        ],
+        "imtwordstex": [
+            "2\\textsc{pl}",
+            "want",
+            "tea",
+            "or",
+            "coffee"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "modality": "volitive",
+        "src": "vy  xotite  \u010daj, \\textbf{{ili}} kofe?",
+        "srcwordsbare": [
+            "vy",
+            "xotite",
+            "\u010daj,",
+            "{ili}",
+            "kofe?"
+        ],
+        "srcwordshtml": [
+            "vy",
+            "xotite",
+            "\u010daj,",
+            "<span class=\"bf\">{ili</span>}",
+            "kofe?"
+        ],
+        "srcwordstex": [
+            "vy",
+            "xotite",
+            "\u010daj,",
+            "\\textbf{{ili}}",
+            "kofe?"
+        ],
+        "trs": "Do you want tea or coffee?\u2019 \\citep[23]{Comrie1984}",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo--42501",
+        "categories": [
+            "q",
+            "sg"
+        ],
+        "clength": 29,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{q}  2\\textsc{sg}  leave",
+        "imtwordsbare": [
+            "Q",
+            "2SG",
+            "leave"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">q</span>",
+            "2<span class=\"sc\">sg</span>",
+            "leave"
+        ],
+        "imtwordstex": [
+            "\\textsc{q}",
+            "2\\textsc{sg}",
+            "leave"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{razve}} ty  uez\u017eae\u0161?",
+        "srcwordsbare": [
+            "{razve}",
+            "ty",
+            "uez\u017eae\u0161?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{razve</span>}",
+            "ty",
+            "uez\u017eae\u0161?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{razve}}",
+            "ty",
+            "uez\u017eae\u0161?"
+        ],
+        "trs": "Are you leaving?\u2019 \\citep[22]{Comrie1984}",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--48607",
+        "categories": [
+            "gen",
+            "pl",
+            "rel",
+            "sg",
+            "top"
+        ],
+        "clength": 46,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{top}  2\\textsc{sg.gen}  wife.?\\textsc{pl}  together  sit  \\textsc{rel}",
+        "imtwordsbare": [
+            "TOP",
+            "2sg.gen",
+            "wife.?PL",
+            "together",
+            "sit",
+            "REL"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">top</span>",
+            "2<span class=\"sc\">sg.gen</span>",
+            "wife.?<span class=\"sc\">pl</span>",
+            "together",
+            "sit",
+            "<span class=\"sc\">rel</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{top}",
+            "2\\textsc{sg.gen}",
+            "wife.?\\textsc{pl}",
+            "together",
+            "sit",
+            "\\textsc{rel}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "za vashe    zh\u2019onusheki  mes\u2019aca  posidi  esa?",
+        "srcwordsbare": [
+            "za",
+            "vashe",
+            "zh\u2019onusheki",
+            "mes\u2019aca",
+            "posidi",
+            "esa?"
+        ],
+        "srcwordshtml": [
+            "za",
+            "vashe",
+            "zh\u2019onusheki",
+            "mes\u2019aca",
+            "posidi",
+            "esa?"
+        ],
+        "srcwordstex": [
+            "za",
+            "vashe",
+            "zh\u2019onusheki",
+            "mes\u2019aca",
+            "posidi",
+            "esa?"
+        ],
+        "trs": "Do you sit together with your wives?",
+        "wlength": 6
+    },
+    {
+        "ID": "05indo--85802",
+        "categories": [
+            "gen",
+            "sg"
+        ],
+        "clength": 30,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg-gen}  what  say",
+        "imtwordsbare": [
+            "2sg-gen",
+            "what",
+            "say"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg-gen</span>",
+            "what",
+            "say"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg-gen}",
+            "what",
+            "say"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "ni-dy \\textbf{{\u0161\u00fdma}} m\u00far.mur?",
+        "srcwordsbare": [
+            "ni-dy",
+            "{\u0161\u00fdma}",
+            "m\u00far.mur?"
+        ],
+        "srcwordshtml": [
+            "ni-dy",
+            "<span class=\"bf\">{\u0161\u00fdma</span>}",
+            "m\u00far.mur?"
+        ],
+        "srcwordstex": [
+            "ni-dy",
+            "\\textbf{{\u0161\u00fdma}}",
+            "m\u00far.mur?"
+        ],
+        "trs": "What are you saying?\u2019 (\\citealt{Shapiro2010}: 37, 15)",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo-505702",
+        "categories": [
+            "ex",
+            "hl",
+            "sg"
+        ],
+        "clength": 22,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg}  rifle-\\textsc{hl}  \\textsc{ex}",
+        "imtwordsbare": [
+            "2SG",
+            "rifle-HL",
+            "EX"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "rifle-<span class=\"sc\">hl</span>",
+            "<span class=\"sc\">ex</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "rifle-\\textsc{hl}",
+            "\\textsc{ex}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "tebja  urus\u00e9-to  jest?",
+        "srcwordsbare": [
+            "tebja",
+            "urus\u00e9-to",
+            "jest?"
+        ],
+        "srcwordshtml": [
+            "tebja",
+            "urus\u00e9-to",
+            "jest?"
+        ],
+        "srcwordstex": [
+            "tebja",
+            "urus\u00e9-to",
+            "jest?"
+        ],
+        "trs": "Do you have a rifle?\u2019 \\citep[312]{Stern2005}",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--36659",
+        "categories": [
+            "deon",
+            "sg"
+        ],
+        "clength": 47,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "what  2\\textsc{sg}  \\textsc{deon}  1\\textsc{sg}  tent  place",
+        "imtwordsbare": [
+            "what",
+            "2SG",
+            "DEON",
+            "1SG",
+            "tent",
+            "place"
+        ],
+        "imtwordshtml": [
+            "what",
+            "2<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">deon</span>",
+            "1<span class=\"sc\">sg</span>",
+            "tent",
+            "place"
+        ],
+        "imtwordstex": [
+            "what",
+            "2\\textsc{sg}",
+            "\\textsc{deon}",
+            "1\\textsc{sg}",
+            "tent",
+            "place"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "modality": "volitive",
+        "src": "\\textbf{{\u010dego}} tebja  nado  menja  \u010dum  mesto?",
+        "srcwordsbare": [
+            "{\u010dego}",
+            "tebja",
+            "nado",
+            "menja",
+            "\u010dum",
+            "mesto?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{\u010dego</span>}",
+            "tebja",
+            "nado",
+            "menja",
+            "\u010dum",
+            "mesto?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{\u010dego}}",
+            "tebja",
+            "nado",
+            "menja",
+            "\u010dum",
+            "mesto?"
+        ],
+        "trs": "What do you want in my tent?\u2019 \\citep[361]{Stern2012}",
+        "wlength": 6
+    },
+    {
+        "ID": "05indo--11254",
+        "categories": [
+            "aux",
+            "fut",
+            "inf",
+            "neg",
+            "q",
+            "sg"
+        ],
+        "clength": 80,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg}  say.3\\textsc{sg} mother  hither    \\textsc{neg}  let.\\textsc{inf}  \\textsc{aux.fut} or  what=\\textsc{q}",
+        "imtwordsbare": [
+            "2SG",
+            "say.3SG",
+            "mother",
+            "hither",
+            "NEG",
+            "let.INF",
+            "aux.fut",
+            "or",
+            "what=Q"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>",
+            "say.3<span class=\"sc\">sg</span>",
+            "mother",
+            "hither",
+            "<span class=\"sc\">neg</span>",
+            "let.<span class=\"sc\">inf</span>",
+            "<span class=\"sc\">aux.fut</span>",
+            "or",
+            "what=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}",
+            "say.3\\textsc{sg}",
+            "mother",
+            "hither",
+            "\\textsc{neg}",
+            "let.\\textsc{inf}",
+            "\\textsc{aux.fut}",
+            "or",
+            "what=\\textsc{q}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "polarity": "negative",
+        "src": "ty  govorit,  mama  \u0259m\u0259dja    ne  puskat  budem, \\textbf{ili}  \\textbf{\u010dego=li}?",
+        "srcwordsbare": [
+            "ty",
+            "govorit,",
+            "mama",
+            "\u0259m\u0259dja",
+            "ne",
+            "puskat",
+            "budem,",
+            "ili",
+            "\u010dego=li?"
+        ],
+        "srcwordshtml": [
+            "ty",
+            "govorit,",
+            "mama",
+            "\u0259m\u0259dja",
+            "ne",
+            "puskat",
+            "budem,",
+            "<span class=\"bf\">ili</span>",
+            "<span class=\"bf\">\u010dego=li</span>?"
+        ],
+        "srcwordstex": [
+            "ty",
+            "govorit,",
+            "mama",
+            "\u0259m\u0259dja",
+            "ne",
+            "puskat",
+            "budem,",
+            "\\textbf{ili}",
+            "\\textbf{\u010dego=li}?"
+        ],
+        "trs": "Are you saying that we should not let mother come here or what?\u2019 \\citep[310]{Stern2005}",
+        "wlength": 9
+    },
+    {
+        "ID": "05indo--62722",
+        "categories": [
+            "acc",
+            "gen",
+            "ind",
+            "inf",
+            "pl",
+            "prs",
+            "sg"
+        ],
+        "clength": 51,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "laywoman.\\textsc{gen.pl}  regulations.\\textsc{acc.sg}  can.2\\textsc{sg.prs.ind}  keep.\\textsc{inf}",
+        "imtwordsbare": [
+            "laywoman.gen.pl",
+            "regulations.acc.sg",
+            "can.2sg.prs.ind",
+            "keep.INF"
+        ],
+        "imtwordshtml": [
+            "laywoman.<span class=\"sc\">gen.pl</span>",
+            "regulations.<span class=\"sc\">acc.sg</span>",
+            "can.2<span class=\"sc\">sg.prs.ind</span>",
+            "keep.<span class=\"sc\">inf</span>"
+        ],
+        "imtwordstex": [
+            "laywoman.\\textsc{gen.pl}",
+            "regulations.\\textsc{acc.sg}",
+            "can.2\\textsc{sg.prs.ind}",
+            "keep.\\textsc{inf}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "uv\\=as\\=anu    sa\u1e43v\\=aru    pait\u1e5byai    p\\=atan\u00e4ya?",
+        "srcwordsbare": [
+            "uv\\=as\\=anu",
+            "sa\u1e43v\\=aru",
+            "pait\u1e5byai",
+            "p\\=atan\u00e4ya?"
+        ],
+        "srcwordshtml": [
+            "uv\\=as\\=anu",
+            "sa\u1e43v\\=aru",
+            "pait\u1e5byai",
+            "p\\=atan\u00e4ya?"
+        ],
+        "srcwordstex": [
+            "uv\\=as\\=anu",
+            "sa\u1e43v\\=aru",
+            "pait\u1e5byai",
+            "p\\=atan\u00e4ya?"
+        ],
+        "trs": "Can you keep the regulations of the laywomen?\u2019 (\\citealt{Emmerick1985}: 10f., 14)",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo-293802",
+        "categories": [
+            "ind",
+            "sg"
+        ],
+        "clength": 23,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "why  weep.2\\textsc{sg.ind}",
+        "imtwordsbare": [
+            "why",
+            "weep.2sg.ind"
+        ],
+        "imtwordshtml": [
+            "why",
+            "weep.2<span class=\"sc\">sg.ind</span>"
+        ],
+        "imtwordstex": [
+            "why",
+            "weep.2\\textsc{sg.ind}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{cuu\u1e0de}} brem\u00e4?",
+        "srcwordsbare": [
+            "{cuu\u1e0de}",
+            "brem\u00e4?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{cuu\u1e0de</span>}",
+            "brem\u00e4?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{cuu\u1e0de}}",
+            "brem\u00e4?"
+        ],
+        "trs": "Why are you weeping?\u2019 \\citep[402]{Emmerick2009}",
+        "wlength": 2
+    },
+    {
+        "ID": "05indo-562421",
+        "categories": [
+            "pl",
+            "pn",
+            "pst",
+            "q"
+        ],
+        "clength": 34,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{pn}=2\\textsc{pl}  actually  see.\\textsc{pst}=\\textsc{q}",
+        "imtwordsbare": [
+            "PN=2PL",
+            "actually",
+            "see.PST=Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>=2<span class=\"sc\">pl</span>",
+            "actually",
+            "see.<span class=\"sc\">pst</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}=2\\textsc{pl}",
+            "actually",
+            "see.\\textsc{pst}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "bo\u0283a=af  tag    wand=\\textbf{{o}}?",
+        "srcwordsbare": [
+            "bo\u0283a=af",
+            "tag",
+            "wand={o}?"
+        ],
+        "srcwordshtml": [
+            "bo\u0283a=af",
+            "tag",
+            "wand=<span class=\"bf\">{o</span>}?"
+        ],
+        "srcwordstex": [
+            "bo\u0283a=af",
+            "tag",
+            "wand=\\textbf{{o}}?"
+        ],
+        "trs": "Have (you) actually seen Bosha?\u2019 (\\citealt{GaoErqiang1985}: 62)",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--44656",
+        "categories": [
+            "n",
+            "pn",
+            "pst",
+            "q",
+            "sg"
+        ],
+        "clength": 47,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{pn}  language  ?  know.\\textsc{n.pst}-3\\textsc{sg}  true=\\textsc{q}",
+        "imtwordsbare": [
+            "PN",
+            "language",
+            "?",
+            "know.n.pst-3SG",
+            "true=Q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn</span>",
+            "language",
+            "?",
+            "know.<span class=\"sc\">n.pst</span>-3<span class=\"sc\">sg</span>",
+            "true=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn}",
+            "language",
+            "?",
+            "know.\\textsc{n.pst}-3\\textsc{sg}",
+            "true=\\textsc{q}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "tud\u0292ik  ziv    ati  wazon-d, \\textbf{{rust=o}}?",
+        "srcwordsbare": [
+            "tud\u0292ik",
+            "ziv",
+            "ati",
+            "wazon-d,",
+            "{rust=o}?"
+        ],
+        "srcwordshtml": [
+            "tud\u0292ik",
+            "ziv",
+            "ati",
+            "wazon-d,",
+            "<span class=\"bf\">{rust=o</span>}?"
+        ],
+        "srcwordstex": [
+            "tud\u0292ik",
+            "ziv",
+            "ati",
+            "wazon-d,",
+            "\\textbf{{rust=o}}?"
+        ],
+        "trs": "(She) knows \\ili{Sarikoli}, right?\u2019 (\\citealt{GaoErqiang1985}: 89)",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-538528",
+        "categories": [
+            "msg",
+            "pfv",
+            "q"
+        ],
+        "clength": 20,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "understand.\\textsc{pfv}-\\textsc{msg}=\\textsc{q}",
+        "imtwordsbare": [
+            "understand.PFV-MSG=Q"
+        ],
+        "imtwordshtml": [
+            "understand.<span class=\"sc\">pfv</span>-<span class=\"sc\">msg</span>=<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "understand.\\textsc{pfv}-\\textsc{msg}=\\textsc{q}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "b\u00fad-u=\\textbf{{ee}}?",
+        "srcwordsbare": [
+            "b\u00fad-u={ee}?"
+        ],
+        "srcwordshtml": [
+            "b\u00fad-u=<span class=\"bf\">{ee</span>}?"
+        ],
+        "srcwordstex": [
+            "b\u00fad-u=\\textbf{{ee}}?"
+        ],
+        "trs": "Did you understand?\u2019 \\citep[403]{Liljegren2016}",
+        "wlength": 1
+    },
+    {
+        "ID": "05indo--21186",
+        "categories": [
+            "ex",
+            "gen",
+            "sg"
+        ],
+        "clength": 32,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "1\\textsc{sg.gen}  brother    \\textsc{ex}  where",
+        "imtwordsbare": [
+            "1sg.gen",
+            "brother",
+            "EX",
+            "where"
+        ],
+        "imtwordshtml": [
+            "1<span class=\"sc\">sg.gen</span>",
+            "brother",
+            "<span class=\"sc\">ex</span>",
+            "where"
+        ],
+        "imtwordstex": [
+            "1\\textsc{sg.gen}",
+            "brother",
+            "\\textsc{ex}",
+            "where"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "m\u026f    vrud    tar \\textbf{{ko}}?",
+        "srcwordsbare": [
+            "m\u026f",
+            "vrud",
+            "tar",
+            "{ko}?"
+        ],
+        "srcwordshtml": [
+            "m\u026f",
+            "vrud",
+            "tar",
+            "<span class=\"bf\">{ko</span>}?"
+        ],
+        "srcwordstex": [
+            "m\u026f",
+            "vrud",
+            "tar",
+            "\\textbf{{ko}}?"
+        ],
+        "trs": "Where is my brother?\u2019 (\\citealt{GaoErqiang1985}: 86)",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo-614268",
+        "categories": [
+            "acc",
+            "pret",
+            "sg"
+        ],
+        "clength": 27,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "away  coat.\\textsc{acc}  do.\\textsc{pret}.2\\textsc{sg}",
+        "imtwordsbare": [
+            "away",
+            "coat.ACC",
+            "do.PRET.2SG"
+        ],
+        "imtwordshtml": [
+            "away",
+            "coat.<span class=\"sc\">acc</span>",
+            "do.<span class=\"sc\">pret</span>.2<span class=\"sc\">sg</span>"
+        ],
+        "imtwordstex": [
+            "away",
+            "coat.\\textsc{acc}",
+            "do.\\textsc{pret}.2\\textsc{sg}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "ate  kamp\\=al    yama\u1e63asta?",
+        "srcwordsbare": [
+            "ate",
+            "kamp\\=al",
+            "yama\u1e63asta?"
+        ],
+        "srcwordshtml": [
+            "ate",
+            "kamp\\=al",
+            "yama\u1e63asta?"
+        ],
+        "srcwordstex": [
+            "ate",
+            "kamp\\=al",
+            "yama\u1e63asta?"
+        ],
+        "trs": "Have you put (your) coat away?\u2019 \\citep[110]{Hackstein2013}",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo--36651",
+        "categories": [
+            "prt",
+            "q",
+            "sg"
+        ],
+        "clength": 48,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "elsewhere=\\textsc{q}  away  go.\\textsc{prt}.3\\textsc{sg}  \\textsc{q}",
+        "imtwordsbare": [
+            "elsewhere=Q",
+            "away",
+            "go.PRT.3SG",
+            "Q"
+        ],
+        "imtwordshtml": [
+            "elsewhere=<span class=\"sc\">q</span>",
+            "away",
+            "go.<span class=\"sc\">prt</span>.3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">q</span>"
+        ],
+        "imtwordstex": [
+            "elsewhere=\\textsc{q}",
+            "away",
+            "go.\\textsc{prt}.3\\textsc{sg}",
+            "\\textsc{q}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "yn\\=alek=\\textbf{{te}} lo  k\u00e4lk \\textbf{{a\u015b\u015bi}}?",
+        "srcwordsbare": [
+            "yn\\=alek={te}",
+            "lo",
+            "k\u00e4lk",
+            "{a\u015b\u015bi}?"
+        ],
+        "srcwordshtml": [
+            "yn\\=alek=<span class=\"bf\">{te</span>}",
+            "lo",
+            "k\u00e4lk",
+            "<span class=\"bf\">{a\u015b\u015bi</span>}?"
+        ],
+        "srcwordstex": [
+            "yn\\=alek=\\textbf{{te}}",
+            "lo",
+            "k\u00e4lk",
+            "\\textbf{{a\u015b\u015bi}}?"
+        ],
+        "trs": "Has (s)he gone somewhere else?\u2019 \\citep[111]{Hackstein2013}",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo--21712",
+        "categories": [
+            "",
+            "nom",
+            "pn",
+            "pret",
+            "q",
+            "sg"
+        ],
+        "clength": 55,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{pn.}\\textsc{nom=q}  enter.\\textsc{pret}.3\\textsc{sg}   \\textsc{pn.}\\textsc{nom=q}",
+        "imtwordsbare": [
+            "pn.nom=q",
+            "enter.PRET.3SG",
+            "pn.nom=q"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">pn.</span><span class=\"sc\">nom=q</span>",
+            "enter.<span class=\"sc\">pret</span>.3<span class=\"sc\">sg</span>",
+            "<span class=\"sc\">pn.</span><span class=\"sc\">nom=q</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{pn.}\\textsc{nom=q}",
+            "enter.\\textsc{pret}.3\\textsc{sg}",
+            "\\textsc{pn.}\\textsc{nom=q}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "pa\u00f1\u00e4kte=\\textbf{{wat}} yopsa, n\\=ande{=}\\textbf{{wat}}?",
+        "srcwordsbare": [
+            "pa\u00f1\u00e4kte={wat}",
+            "yopsa,",
+            "n\\=ande{=}{wat}?"
+        ],
+        "srcwordshtml": [
+            "pa\u00f1\u00e4kte=<span class=\"bf\">{wat</span>}",
+            "yopsa,",
+            "n\\=ande{=}<span class=\"bf\">{wat</span>}?"
+        ],
+        "srcwordstex": [
+            "pa\u00f1\u00e4kte=\\textbf{{wat}}",
+            "yopsa,",
+            "n\\=ande{=}\\textbf{{wat}}?"
+        ],
+        "trs": "Has Buddha or Nanda (just) entered?\u2019 \\citep[110]{Hackstein2013}",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo-196935",
+        "categories": [
+            "1sg",
+            "cop",
+            "gen",
+            "ger",
+            "inf",
+            "neg",
+            "nom",
+            "pl",
+            "prs",
+            "q",
+            "sg"
+        ],
+        "clength": 117,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "be.able.\\textsc{ger}2.\\textsc{nom}=\\textsc{q}  \\textsc{cop.prs}.1\\textsc{sg}  this.\\textsc{gen.pl}  being.\\textsc{gen.pl}  refuge be.\\textsc{inf}    \\textsc{neg=q}  be.able.\\textsc{ger}2.\\textsc{nom}  (\\textsc{q})  \\textsc{cop.prs.1sg}",
+        "imtwordsbare": [
+            "be.able.GER2.NOM=Q",
+            "cop.prs.1SG",
+            "this.gen.pl",
+            "being.gen.pl",
+            "refuge",
+            "be.INF",
+            "neg=q",
+            "be.able.GER2.NOM",
+            "(Q)",
+            "cop.prs.1sg"
+        ],
+        "imtwordshtml": [
+            "be.able.<span class=\"sc\">ger</span>2.<span class=\"sc\">nom</span>=<span class=\"sc\">q</span>",
+            "<span class=\"sc\">cop.prs</span>.1<span class=\"sc\">sg</span>",
+            "this.<span class=\"sc\">gen.pl</span>",
+            "being.<span class=\"sc\">gen.pl</span>",
+            "refuge",
+            "be.<span class=\"sc\">inf</span>",
+            "<span class=\"sc\">neg=q</span>",
+            "be.able.<span class=\"sc\">ger</span>2.<span class=\"sc\">nom</span>",
+            "(<span class=\"sc\">q</span>)",
+            "<span class=\"sc\">cop.prs.1sg</span>"
+        ],
+        "imtwordstex": [
+            "be.able.\\textsc{ger}2.\\textsc{nom}=\\textsc{q}",
+            "\\textsc{cop.prs}.1\\textsc{sg}",
+            "this.\\textsc{gen.pl}",
+            "being.\\textsc{gen.pl}",
+            "refuge",
+            "be.\\textsc{inf}",
+            "\\textsc{neg=q}",
+            "be.able.\\textsc{ger}2.\\textsc{nom}",
+            "(\\textsc{q})",
+            "\\textsc{cop.prs.1sg}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "polarity": "negative",
+        "src": "c\u00e4mp\u00e4l=\\textbf{{te}} nasan    ces\u00e4m    wrasa\u015b\u015bi  waste m\u00e4skatsi, \\textbf{{m\\=a=te}} c\u00e4mp\u00e4l      (\\textbf{{na}})  sam?",
+        "srcwordsbare": [
+            "c\u00e4mp\u00e4l={te}",
+            "nasan",
+            "ces\u00e4m",
+            "wrasa\u015b\u015bi",
+            "waste",
+            "m\u00e4skatsi,",
+            "{m\\=a=te}",
+            "c\u00e4mp\u00e4l",
+            "({na})",
+            "sam?"
+        ],
+        "srcwordshtml": [
+            "c\u00e4mp\u00e4l=<span class=\"bf\">{te</span>}",
+            "nasan",
+            "ces\u00e4m",
+            "wrasa\u015b\u015bi",
+            "waste",
+            "m\u00e4skatsi,",
+            "<span class=\"bf\">{m\\=a=te</span>}",
+            "c\u00e4mp\u00e4l",
+            "(<span class=\"bf\">{na</span>})",
+            "sam?"
+        ],
+        "srcwordstex": [
+            "c\u00e4mp\u00e4l=\\textbf{{te}}",
+            "nasan",
+            "ces\u00e4m",
+            "wrasa\u015b\u015bi",
+            "waste",
+            "m\u00e4skatsi,",
+            "\\textbf{{m\\=a=te}}",
+            "c\u00e4mp\u00e4l",
+            "(\\textbf{{na}})",
+            "sam?"
+        ],
+        "trs": "Am I able to provide refuge to the beings or am I not able?\u2019 \\citep[113]{Hackstein2013}",
+        "wlength": 10
+    },
+    {
+        "ID": "05indo-387342",
+        "categories": [
+            "acc",
+            "neg",
+            "pl",
+            "pn",
+            "q",
+            "sg"
+        ],
+        "clength": 88,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "\\textsc{neg=q}    master  this.\\textsc{acc.sg}  \\textsc{pn}    or  \\textsc{neg=q} 1\\textsc{pl.acc}",
+        "imtwordsbare": [
+            "neg=q",
+            "master",
+            "this.acc.sg",
+            "PN",
+            "or",
+            "neg=q",
+            "1pl.acc"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">neg=q</span>",
+            "master",
+            "this.<span class=\"sc\">acc.sg</span>",
+            "<span class=\"sc\">pn</span>",
+            "or",
+            "<span class=\"sc\">neg=q</span>",
+            "1<span class=\"sc\">pl.acc</span>"
+        ],
+        "imtwordstex": [
+            "\\textsc{neg=q}",
+            "master",
+            "this.\\textsc{acc.sg}",
+            "\\textsc{pn}",
+            "or",
+            "\\textsc{neg=q}",
+            "1\\textsc{pl.acc}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "polarity": "negative",
+        "src": "\\textbf{{m\\=a=(t)e}} n\\=at\u00e4k  cam    br\\=a(ma\u1e43) \\textbf{{e(pe)}} \\textbf{m\\=a=(t)e} was?",
+        "srcwordsbare": [
+            "{m\\=a=(t)e}",
+            "n\\=at\u00e4k",
+            "cam",
+            "br\\=a(ma\u1e43)",
+            "{e(pe)}",
+            "m\\=a=(t)e",
+            "was?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{m\\=a=(t)e</span>}",
+            "n\\=at\u00e4k",
+            "cam",
+            "br\\=a(ma\u1e43)",
+            "<span class=\"bf\">{e(pe)</span>}",
+            "<span class=\"bf\">m\\=a=(t)e</span>",
+            "was?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{m\\=a=(t)e}}",
+            "n\\=at\u00e4k",
+            "cam",
+            "br\\=a(ma\u1e43)",
+            "\\textbf{{e(pe)}}",
+            "\\textbf{m\\=a=(t)e}",
+            "was?"
+        ],
+        "trs": "Will the master not keep this Brahman or will he not keep us?\u2019 \\citep[113]{Hackstein2013}",
+        "wlength": 7
+    },
+    {
+        "ID": "05indo--66114",
+        "categories": [
+            "m",
+            "sg"
+        ],
+        "clength": 50,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "how/what  is  your.\\textsc{m.sg}  name",
+        "imtwordsbare": [
+            "how/what",
+            "is",
+            "your.m.sg",
+            "name"
+        ],
+        "imtwordshtml": [
+            "how/what",
+            "is",
+            "your.<span class=\"sc\">m.sg</span>",
+            "name"
+        ],
+        "imtwordstex": [
+            "how/what",
+            "is",
+            "your.\\textsc{m.sg}",
+            "name"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{Wie}}/\\textbf{{Was}} ist   dein     Name?",
+        "srcwordsbare": [
+            "{Wie}/{Was}",
+            "ist",
+            "dein",
+            "Name?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Wie</span>}/<span class=\"bf\">{Was</span>}",
+            "ist",
+            "dein",
+            "Name?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Wie}}/\\textbf{{Was}}",
+            "ist",
+            "dein",
+            "Name?"
+        ],
+        "trs": "\\isi{What is your name?}",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo-700976",
+        "categories": [
+            "sg"
+        ],
+        "clength": 65,
+        "coordination": "or",
+        "filename": "174/chapters/05indo.tex",
+        "imt": "are  2\\textsc{sg}  ready  or  how/what",
+        "imtwordsbare": [
+            "are",
+            "2SG",
+            "ready",
+            "or",
+            "how/what"
+        ],
+        "imtwordshtml": [
+            "are",
+            "2<span class=\"sc\">sg</span>",
+            "ready",
+            "or",
+            "how/what"
+        ],
+        "imtwordstex": [
+            "are",
+            "2\\textsc{sg}",
+            "ready",
+            "or",
+            "how/what"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "Bist   du   fertig \\textbf{{oder}} \\textbf{{wie}}/\\textbf{{was}}?",
+        "srcwordsbare": [
+            "Bist",
+            "du",
+            "fertig",
+            "{oder}",
+            "{wie}/{was}?"
+        ],
+        "srcwordshtml": [
+            "Bist",
+            "du",
+            "fertig",
+            "<span class=\"bf\">{oder</span>}",
+            "<span class=\"bf\">{wie</span>}/<span class=\"bf\">{was</span>}?"
+        ],
+        "srcwordstex": [
+            "Bist",
+            "du",
+            "fertig",
+            "\\textbf{{oder}}",
+            "\\textbf{{wie}}/\\textbf{{was}}?"
+        ],
+        "trs": "Are you ready or what?",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-813429",
+        "categories": [
+            "m",
+            "sg"
+        ],
+        "clength": 53,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "you  are  the.\\textsc{m.sg}  new.one  how/what",
+        "imtwordsbare": [
+            "you",
+            "are",
+            "the.m.sg",
+            "new.one",
+            "how/what"
+        ],
+        "imtwordshtml": [
+            "you",
+            "are",
+            "the.<span class=\"sc\">m.sg</span>",
+            "new.one",
+            "how/what"
+        ],
+        "imtwordstex": [
+            "you",
+            "are",
+            "the.\\textsc{m.sg}",
+            "new.one",
+            "how/what"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "Du  bist  der    Neue, \\textbf{{wie}}/\\textbf{{was}}?",
+        "srcwordsbare": [
+            "Du",
+            "bist",
+            "der",
+            "Neue,",
+            "{wie}/{was}?"
+        ],
+        "srcwordshtml": [
+            "Du",
+            "bist",
+            "der",
+            "Neue,",
+            "<span class=\"bf\">{wie</span>}/<span class=\"bf\">{was</span>}?"
+        ],
+        "srcwordstex": [
+            "Du",
+            "bist",
+            "der",
+            "Neue,",
+            "\\textbf{{wie}}/\\textbf{{was}}?"
+        ],
+        "trs": "You are the new one, aren\u2019t you?",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-208669",
+        "categories": [],
+        "clength": 52,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "how/what  you  are  pregnant",
+        "imtwordsbare": [
+            "how/what",
+            "you",
+            "are",
+            "pregnant"
+        ],
+        "imtwordshtml": [
+            "how/what",
+            "you",
+            "are",
+            "pregnant"
+        ],
+        "imtwordstex": [
+            "how/what",
+            "you",
+            "are",
+            "pregnant"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{Wie}}/(\\textbf{{Was}}) du  bist  schwanger?",
+        "srcwordsbare": [
+            "{Wie}/({Was})",
+            "du",
+            "bist",
+            "schwanger?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Wie</span>}/(<span class=\"bf\">{Was</span>})",
+            "du",
+            "bist",
+            "schwanger?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Wie}}/(\\textbf{{Was}})",
+            "du",
+            "bist",
+            "schwanger?"
+        ],
+        "trs": "You are pregnant?",
+        "wlength": 4
+    },
+    {
+        "ID": "05indo-317059",
+        "categories": [],
+        "clength": 51,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "what  is  that  kind    holiday",
+        "imtwordsbare": [
+            "what",
+            "is",
+            "that",
+            "kind",
+            "holiday"
+        ],
+        "imtwordshtml": [
+            "what",
+            "is",
+            "that",
+            "kind",
+            "holiday"
+        ],
+        "imtwordstex": [
+            "what",
+            "is",
+            "that",
+            "kind",
+            "holiday"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{Was}} ist  das \\textbf{{f\u00fcr\\_ein}} Urlaub?",
+        "srcwordsbare": [
+            "{Was}",
+            "ist",
+            "das",
+            "{f\u00fcr_ein}",
+            "Urlaub?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{Was</span>}",
+            "ist",
+            "das",
+            "<span class=\"bf\">{f\u00fcr_ein</span>}",
+            "Urlaub?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{Was}}",
+            "ist",
+            "das",
+            "\\textbf{{f\u00fcr\\_ein}}",
+            "Urlaub?"
+        ],
+        "trs": "What kind of holiday is this?",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo--81585",
+        "categories": [],
+        "clength": 69,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "what  is  that  kind    holiday",
+        "imtwordsbare": [
+            "what",
+            "is",
+            "that",
+            "kind",
+            "holiday"
+        ],
+        "imtwordshtml": [
+            "what",
+            "is",
+            "that",
+            "kind",
+            "holiday"
+        ],
+        "imtwordstex": [
+            "what",
+            "is",
+            "that",
+            "kind",
+            "holiday"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{vos}} iz dos \\textbf{{far}}\\textbf{{\\_}}\\textbf{{a}} yontev?",
+        "srcwordsbare": [
+            "{vos}",
+            "iz",
+            "dos",
+            "{far}{_}{a}",
+            "yontev?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{vos</span>}",
+            "iz",
+            "dos",
+            "<span class=\"bf\">{far</span>}<span class=\"bf\">{_</span>}<span class=\"bf\">{a</span>}",
+            "yontev?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{vos}}",
+            "iz",
+            "dos",
+            "\\textbf{{far}}\\textbf{{\\_}}\\textbf{{a}}",
+            "yontev?"
+        ],
+        "trs": "What kind of holiday is this?\u2019 (\\citealt{JacobsPrincevanderAuwera1994}: 413)",
+        "wlength": 5
+    },
+    {
+        "ID": "05indo-503352",
+        "categories": [
+            "acc",
+            "nom",
+            "pst",
+            "sg"
+        ],
+        "clength": 28,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "who.\\textsc{nom}    \\textsc{acc}-2\\textsc{sg.acc}  hit.\\textsc{pst}",
+        "imtwordsbare": [
+            "who.NOM",
+            "ACC-2sg.acc",
+            "hit.PST"
+        ],
+        "imtwordshtml": [
+            "who.<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">acc</span>-2<span class=\"sc\">sg.acc</span>",
+            "hit.<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "who.\\textsc{nom}",
+            "\\textsc{acc}-2\\textsc{sg.acc}",
+            "hit.\\textsc{pst}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "\\textbf{{t\u0283oj}} a=ta    \u00f0ud?",
+        "srcwordsbare": [
+            "{t\u0283oj}",
+            "a=ta",
+            "\u00f0ud?"
+        ],
+        "srcwordshtml": [
+            "<span class=\"bf\">{t\u0283oj</span>}",
+            "a=ta",
+            "\u00f0ud?"
+        ],
+        "srcwordstex": [
+            "\\textbf{{t\u0283oj}}",
+            "a=ta",
+            "\u00f0ud?"
+        ],
+        "trs": "Who hit you?",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo-214877",
+        "categories": [
+            "2sg",
+            "acc",
+            "nom",
+            "obl",
+            "pst",
+            "sg"
+        ],
+        "clength": 33,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg}.\\textsc{nom=2sg.pst}  \\textsc{acc}-who.\\textsc{obl}  hit.\\textsc{pst}",
+        "imtwordsbare": [
+            "2SG.nom=2sg.pst",
+            "ACC-who.OBL",
+            "hit.PST"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">nom=2sg.pst</span>",
+            "<span class=\"sc\">acc</span>-who.<span class=\"sc\">obl</span>",
+            "hit.<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}.\\textsc{nom=2sg.pst}",
+            "\\textsc{acc}-who.\\textsc{obl}",
+            "hit.\\textsc{pst}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "t\u0259w=at      a=\\textbf{{t\u0255i}} \u00f0ud?",
+        "srcwordsbare": [
+            "t\u0259w=at",
+            "a={t\u0255i}",
+            "\u00f0ud?"
+        ],
+        "srcwordshtml": [
+            "t\u0259w=at",
+            "a=<span class=\"bf\">{t\u0255i</span>}",
+            "\u00f0ud?"
+        ],
+        "srcwordstex": [
+            "t\u0259w=at",
+            "a=\\textbf{{t\u0255i}}",
+            "\u00f0ud?"
+        ],
+        "trs": "Whom did you hit?",
+        "wlength": 3
+    },
+    {
+        "ID": "05indo-288128",
+        "categories": [
+            "2sg",
+            "dat",
+            "nom",
+            "obl",
+            "pst",
+            "sg"
+        ],
+        "clength": 32,
+        "filename": "174/chapters/05indo.tex",
+        "imt": "2\\textsc{sg}.\\textsc{nom=2sg.pst}  who.\\textsc{obl-dat}  hit.\\textsc{pst}",
+        "imtwordsbare": [
+            "2SG.nom=2sg.pst",
+            "who.obl-dat",
+            "hit.PST"
+        ],
+        "imtwordshtml": [
+            "2<span class=\"sc\">sg</span>.<span class=\"sc\">nom=2sg.pst</span>",
+            "who.<span class=\"sc\">obl-dat</span>",
+            "hit.<span class=\"sc\">pst</span>"
+        ],
+        "imtwordstex": [
+            "2\\textsc{sg}.\\textsc{nom=2sg.pst}",
+            "who.\\textsc{obl-dat}",
+            "hit.\\textsc{pst}"
+        ],
+        "language": "174/chapters/05indo.tex",
+        "src": "t\u0259w=at \\textbf{{t\u0255i}}=ri    \u00f0ud?",
+        "srcwordsbare": [
+            "t\u0259w=at",
+            "{t\u0255i}=ri",
+            "\u00f0ud?"
+        ],
+        "srcwordshtml": [
+            "t\u0259w=at",
+            "<span class=\"bf\">{t\u0255i</span>}=ri",
+            "\u00f0ud?"
+        ],
+        "srcwordstex": [
+            "t\u0259w=at",
+            "\\textbf{{t\u0255i}}=ri",
+            "\u00f0ud?"
+        ],
+        "trs": "Whom did you give (it) to?\u2019 (\\citealt{Kim2014}: 9)",
+        "wlength": 3
+    }
+]

@@ -1,0 +1,464 @@
+[
+    {
+        "ID": "11-392241",
+        "categories": [
+            "dat",
+            "hon",
+            "past",
+            "top"
+        ],
+        "clength": 74,
+        "filename": "144/chapters/11.tex",
+        "imt": "{Sasaki}  teacher=\\textsc{top}  1sg=\\textsc{dat}  this.way  speak.\\textsc{hon-past}",
+        "imtwordsbare": [
+            "{Sasaki}",
+            "teacher=TOP",
+            "1sg=DAT",
+            "this.way",
+            "speak.hon-past"
+        ],
+        "imtwordshtml": [
+            "{Sasaki}",
+            "teacher=<span class=\"sc\">top</span>",
+            "1sg=<span class=\"sc\">dat</span>",
+            "this.way",
+            "speak.<span class=\"sc\">hon-past</span>"
+        ],
+        "imtwordstex": [
+            "{Sasaki}",
+            "teacher=\\textsc{top}",
+            "1sg=\\textsc{dat}",
+            "this.way",
+            "speak.\\textsc{hon-past}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "{Sasaki}  sensei=wa  watasi=ni  koo  \\textbf{o}-hanasi.\\textbf{ni.nat}-ta.",
+        "srcwordsbare": [
+            "{Sasaki}",
+            "sensei=wa",
+            "watasi=ni",
+            "koo",
+            "o-hanasi.ni.nat-ta."
+        ],
+        "srcwordshtml": [
+            "{Sasaki}",
+            "sensei=wa",
+            "watasi=ni",
+            "koo",
+            "<span class=\"bf\">o</span>-hanasi.<span class=\"bf\">ni.nat</span>-ta."
+        ],
+        "srcwordstex": [
+            "{Sasaki}",
+            "sensei=wa",
+            "watasi=ni",
+            "koo",
+            "\\textbf{o}-hanasi.\\textbf{ni.nat}-ta."
+        ],
+        "trs": "Prof. {Sasaki} told me this way.\u2019  [\\citealt{Harada1976}: 501]",
+        "wlength": 5
+    },
+    {
+        "ID": "11-851038",
+        "categories": [
+            "hon",
+            "nom",
+            "past"
+        ],
+        "clength": 44,
+        "filename": "144/chapters/11.tex",
+        "imt": "rain=\\textsc{nom}  fall.\\textsc{hon-past}",
+        "imtwordsbare": [
+            "rain=NOM",
+            "fall.hon-past"
+        ],
+        "imtwordshtml": [
+            "rain=<span class=\"sc\">nom</span>",
+            "fall.<span class=\"sc\">hon-past</span>"
+        ],
+        "imtwordstex": [
+            "rain=\\textsc{nom}",
+            "fall.\\textsc{hon-past}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "*Ame=ga  \\textbf{o}-huri.\\textbf{ni.nat}-ta.",
+        "srcwordsbare": [
+            "*Ame=ga",
+            "o-huri.ni.nat-ta."
+        ],
+        "srcwordshtml": [
+            "*Ame=ga",
+            "<span class=\"bf\">o</span>-huri.<span class=\"bf\">ni.nat</span>-ta."
+        ],
+        "srcwordstex": [
+            "*Ame=ga",
+            "\\textbf{o}-huri.\\textbf{ni.nat}-ta."
+        ],
+        "trs": "(intended: \u2018It rained.\u2019)  [\\citealt{Harada1976}: 502]",
+        "wlength": 2
+    },
+    {
+        "ID": "11--54339",
+        "categories": [
+            "cop",
+            "hon",
+            "neg",
+            "nom",
+            "past"
+        ],
+        "clength": 53,
+        "filename": "144/chapters/11.tex",
+        "imt": "rain=\\textsc{nom}  fall-\\textsc{hon-neg}  \\textsc{cop-past}",
+        "imtwordsbare": [
+            "rain=NOM",
+            "fall-hon-neg",
+            "cop-past"
+        ],
+        "imtwordshtml": [
+            "rain=<span class=\"sc\">nom</span>",
+            "fall-<span class=\"sc\">hon-neg</span>",
+            "<span class=\"sc\">cop-past</span>"
+        ],
+        "imtwordstex": [
+            "rain=\\textsc{nom}",
+            "fall-\\textsc{hon-neg}",
+            "\\textsc{cop-past}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Ame=ga                 huri-\\textbf{mas-en}  desi-ta.",
+        "srcwordsbare": [
+            "Ame=ga",
+            "huri-mas-en",
+            "desi-ta."
+        ],
+        "srcwordshtml": [
+            "Ame=ga",
+            "huri-<span class=\"bf\">mas-en</span>",
+            "desi-ta."
+        ],
+        "srcwordstex": [
+            "Ame=ga",
+            "huri-\\textbf{mas-en}",
+            "desi-ta."
+        ],
+        "trs": "It didn\u2019t rain.\u2019  (polite speech)",
+        "wlength": 3
+    },
+    {
+        "ID": "11--29303",
+        "categories": [
+            "hon",
+            "past",
+            "q",
+            "top"
+        ],
+        "clength": 33,
+        "filename": "144/chapters/11.tex",
+        "imt": "rain=\\textsc{top}  fall-\\textsc{hon-past-q}",
+        "imtwordsbare": [
+            "rain=TOP",
+            "fall-hon-past-q"
+        ],
+        "imtwordshtml": [
+            "rain=<span class=\"sc\">top</span>",
+            "fall-<span class=\"sc\">hon-past-q</span>"
+        ],
+        "imtwordstex": [
+            "rain=\\textsc{top}",
+            "fall-\\textsc{hon-past-q}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Ame=wa  huri-\\textbf{masi}-ta-ka?",
+        "srcwordsbare": [
+            "Ame=wa",
+            "huri-masi-ta-ka?"
+        ],
+        "srcwordshtml": [
+            "Ame=wa",
+            "huri-<span class=\"bf\">masi</span>-ta-ka?"
+        ],
+        "srcwordstex": [
+            "Ame=wa",
+            "huri-\\textbf{masi}-ta-ka?"
+        ],
+        "trs": "Did it rain?\u2019  (polite speech)",
+        "wlength": 2
+    },
+    {
+        "ID": "11-352090",
+        "categories": [
+            "acc",
+            "decl",
+            "form",
+            "past"
+        ],
+        "clength": 35,
+        "filename": "144/chapters/11.tex",
+        "imt": "book=\\textsc{acc}  read-\\textsc{past-decl.form}",
+        "imtwordsbare": [
+            "book=ACC",
+            "read-past-decl.form"
+        ],
+        "imtwordshtml": [
+            "book=<span class=\"sc\">acc</span>",
+            "read-<span class=\"sc\">past-decl.form</span>"
+        ],
+        "imtwordstex": [
+            "book=\\textsc{acc}",
+            "read-\\textsc{past-decl.form}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Chayk=ul  ilk-ess-\\textit{supnita}.",
+        "srcwordsbare": [
+            "Chayk=ul",
+            "ilk-ess-supnita."
+        ],
+        "srcwordshtml": [
+            "Chayk=ul",
+            "ilk-ess-<span class=\"it\">supnita</span>."
+        ],
+        "srcwordstex": [
+            "Chayk=ul",
+            "ilk-ess-\\textit{supnita}."
+        ],
+        "trs": "I read the book.\u2019} & \\parbox{5cm}{\\gll  Chayk=ul  ilk-\\textit{usipsio}.\\\\",
+        "wlength": 2
+    },
+    {
+        "ID": "11-483306",
+        "categories": [
+            "acc",
+            "decl",
+            "past",
+            "pol"
+        ],
+        "clength": 31,
+        "filename": "144/chapters/11.tex",
+        "imt": "book=\\textsc{acc}  read-\\textsc{past-decl.pol}",
+        "imtwordsbare": [
+            "book=ACC",
+            "read-past-decl.pol"
+        ],
+        "imtwordshtml": [
+            "book=<span class=\"sc\">acc</span>",
+            "read-<span class=\"sc\">past-decl.pol</span>"
+        ],
+        "imtwordstex": [
+            "book=\\textsc{acc}",
+            "read-\\textsc{past-decl.pol}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Chayk=ul  ilk-ess-\\textit{eyo}.",
+        "srcwordsbare": [
+            "Chayk=ul",
+            "ilk-ess-eyo."
+        ],
+        "srcwordshtml": [
+            "Chayk=ul",
+            "ilk-ess-<span class=\"it\">eyo</span>."
+        ],
+        "srcwordstex": [
+            "Chayk=ul",
+            "ilk-ess-\\textit{eyo}."
+        ],
+        "trs": "I read the book.\u2019 }&  \\parbox{5cm}{\\gll  Chayk=ul  ilk-\\textit{useyyo.}\\\\",
+        "wlength": 2
+    },
+    {
+        "ID": "11--56186",
+        "categories": [
+            "acc",
+            "decl",
+            "int",
+            "past"
+        ],
+        "clength": 29,
+        "filename": "144/chapters/11.tex",
+        "imt": "book=\\textsc{acc}  read-\\textsc{past-decl.int}",
+        "imtwordsbare": [
+            "book=ACC",
+            "read-past-decl.int"
+        ],
+        "imtwordshtml": [
+            "book=<span class=\"sc\">acc</span>",
+            "read-<span class=\"sc\">past-decl.int</span>"
+        ],
+        "imtwordstex": [
+            "book=\\textsc{acc}",
+            "read-\\textsc{past-decl.int}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Chayk=ul  ilk-ess-\\textit{e}.",
+        "srcwordsbare": [
+            "Chayk=ul",
+            "ilk-ess-e."
+        ],
+        "srcwordshtml": [
+            "Chayk=ul",
+            "ilk-ess-<span class=\"it\">e</span>."
+        ],
+        "srcwordstex": [
+            "Chayk=ul",
+            "ilk-ess-\\textit{e}."
+        ],
+        "trs": "I read the book.\u2019}  &  \\parbox{5cm}{\\gll Chayk=ul  ilk-\\textit{e}.\\\\",
+        "wlength": 2
+    },
+    {
+        "ID": "11-250894",
+        "categories": [
+            "acc",
+            "decl",
+            "past"
+        ],
+        "clength": 30,
+        "filename": "144/chapters/11.tex",
+        "imt": "book=\\textsc{acc}  read-\\textsc{past-decl}",
+        "imtwordsbare": [
+            "book=ACC",
+            "read-past-decl"
+        ],
+        "imtwordshtml": [
+            "book=<span class=\"sc\">acc</span>",
+            "read-<span class=\"sc\">past-decl</span>"
+        ],
+        "imtwordstex": [
+            "book=\\textsc{acc}",
+            "read-\\textsc{past-decl}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Chayk=ul  ilk-ess-\\textit{ta}.",
+        "srcwordsbare": [
+            "Chayk=ul",
+            "ilk-ess-ta."
+        ],
+        "srcwordshtml": [
+            "Chayk=ul",
+            "ilk-ess-<span class=\"it\">ta</span>."
+        ],
+        "srcwordstex": [
+            "Chayk=ul",
+            "ilk-ess-\\textit{ta}."
+        ],
+        "trs": "I read the book.\u2019} &  \\parbox{5cm}{\\gll  Chayk=ul  ilk-\\textit{ela}.\\\\",
+        "wlength": 2
+    },
+    {
+        "ID": "11-108133",
+        "categories": [
+            "decl",
+            "nom",
+            "pol"
+        ],
+        "clength": 13,
+        "filename": "144/chapters/11.tex",
+        "imt": "rain=\\textsc{nom}  come-\\textsc{decl.pol}",
+        "imtwordsbare": [
+            "rain=NOM",
+            "come-decl.pol"
+        ],
+        "imtwordshtml": [
+            "rain=<span class=\"sc\">nom</span>",
+            "come-<span class=\"sc\">decl.pol</span>"
+        ],
+        "imtwordstex": [
+            "rain=\\textsc{nom}",
+            "come-\\textsc{decl.pol}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Pi=ka  w-ayo.",
+        "srcwordsbare": [
+            "Pi=ka",
+            "w-ayo."
+        ],
+        "srcwordshtml": [
+            "Pi=ka",
+            "w-ayo."
+        ],
+        "srcwordstex": [
+            "Pi=ka",
+            "w-ayo."
+        ],
+        "trs": "It is raining.\u2019 (polite)",
+        "wlength": 2
+    },
+    {
+        "ID": "11-817725",
+        "categories": [
+            "decl",
+            "neg",
+            "nom",
+            "pol"
+        ],
+        "clength": 16,
+        "filename": "144/chapters/11.tex",
+        "imt": "rain=\\textsc{nom}  \\textsc{neg}-come-\\textsc{decl.pol}",
+        "imtwordsbare": [
+            "rain=NOM",
+            "NEG-come-decl.pol"
+        ],
+        "imtwordshtml": [
+            "rain=<span class=\"sc\">nom</span>",
+            "<span class=\"sc\">neg</span>-come-<span class=\"sc\">decl.pol</span>"
+        ],
+        "imtwordstex": [
+            "rain=\\textsc{nom}",
+            "\\textsc{neg}-come-\\textsc{decl.pol}"
+        ],
+        "language": "144/chapters/11.tex",
+        "polarity": "negative",
+        "src": "Pi=ka  an-w-ayo.",
+        "srcwordsbare": [
+            "Pi=ka",
+            "an-w-ayo."
+        ],
+        "srcwordshtml": [
+            "Pi=ka",
+            "an-w-ayo."
+        ],
+        "srcwordstex": [
+            "Pi=ka",
+            "an-w-ayo."
+        ],
+        "trs": "It is not raining.\u2019 (polite)",
+        "wlength": 2
+    },
+    {
+        "ID": "11-329234",
+        "categories": [
+            "decl",
+            "nom",
+            "pol"
+        ],
+        "clength": 13,
+        "filename": "144/chapters/11.tex",
+        "imt": "rain=\\textsc{nom}  come-\\textsc{decl.pol}",
+        "imtwordsbare": [
+            "rain=NOM",
+            "come-decl.pol"
+        ],
+        "imtwordshtml": [
+            "rain=<span class=\"sc\">nom</span>",
+            "come-<span class=\"sc\">decl.pol</span>"
+        ],
+        "imtwordstex": [
+            "rain=\\textsc{nom}",
+            "come-\\textsc{decl.pol}"
+        ],
+        "language": "144/chapters/11.tex",
+        "src": "Pi=ka  w-ayo?",
+        "srcwordsbare": [
+            "Pi=ka",
+            "w-ayo?"
+        ],
+        "srcwordshtml": [
+            "Pi=ka",
+            "w-ayo?"
+        ],
+        "srcwordstex": [
+            "Pi=ka",
+            "w-ayo?"
+        ],
+        "trs": "Is it raining?\u2019 (polite)  [\\citealt{Sohn1999}: 269\u2013270]",
+        "wlength": 2
+    }
+]

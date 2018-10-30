@@ -1,0 +1,39 @@
+[
+    {
+        "ID": "stump-435988",
+        "categories": [
+            "",
+            "\\nobreakdash",
+            "cl",
+            "neg",
+            "obj",
+            "rel",
+            "sbj"
+        ],
+        "clength": 73,
+        "filename": "151/chapters/stump.tex",
+        "imt": "\\textsc{sbj:cl.}1\\textit{\\nobreakdash-}\\textsc{neg}\\textsc{\\nobreakdash-}\\textsc{rel:cl.}8\\textit{\\nobreakdash-}\\textsc{obj:cl.}8\\textit{\\nobreakdash-}read]",
+        "imtwordsbare": [
+            "sbj:cl.1-NEG-rel:cl.8-obj:cl.8-read]"
+        ],
+        "imtwordshtml": [
+            "<span class=\"sc\">sbj:cl.</span>1<span class=\"it\">-</span><span class=\"sc\">neg</span><span class=\"sc\">-</span><span class=\"sc\">rel:cl.</span>8<span class=\"it\">-</span><span class=\"sc\">obj:cl.</span>8<span class=\"it\">-</span>read]"
+        ],
+        "imtwordstex": [
+            "\\textsc{sbj:cl.}1\\textit{\\nobreakdash-}\\textsc{neg}\\textsc{\\nobreakdash-}\\textsc{rel:cl.}8\\textit{\\nobreakdash-}\\textsc{obj:cl.}8\\textit{\\nobreakdash-}read]"
+        ],
+        "language": "151/chapters/stump.tex",
+        "src": "\\textit{a\\nobreakdash-si\\nobreakdash-vyo\\nobreakdash-vi\\nobreakdash-soma}",
+        "srcwordsbare": [
+            "a-si-vyo-vi-soma"
+        ],
+        "srcwordshtml": [
+            "<span class=\"it\">a-si-vyo-vi-soma</span>"
+        ],
+        "srcwordstex": [
+            "\\textit{a\\nobreakdash-si\\nobreakdash-vyo\\nobreakdash-vi\\nobreakdash-soma}"
+        ],
+        "trs": "(books) which he doesn\u2019t read",
+        "wlength": 1
+    }
+]
