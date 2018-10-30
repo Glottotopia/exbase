@@ -1,5 +1,6 @@
 import sys
 import re
+import sre_constants
 import pprint
 import json
 import os
@@ -112,7 +113,10 @@ class gll():
 if __name__ == '__main__':
   filename = sys.argv[1]
   language = sys.argv[2]
-  s = open(filename).read() 
+  try:
+    s = open(filename).read() 
+  except UnicodeError:
+    s= ''
   examples = []
   glls = GLL.findall(s)
   for g in glls:
@@ -121,6 +125,8 @@ if __name__ == '__main__':
     except AssertionError:
       pass
     except IndexError:
+      pass
+    except sre_constants.error:
       pass
   if examples != []:
     jsons = json.dumps([ex.__dict__ for ex in examples], sort_keys=True, indent=4)  
